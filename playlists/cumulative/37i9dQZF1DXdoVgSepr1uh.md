@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: C.R.O.
 
-200 songs - 9 hr 40 min
+201 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm) | 3:22 | 2022-08-05 | 2023-05-13 |
 | [Sueños Húmedos](https://open.spotify.com/track/7lDjLRUBoWuABG7H9JU05m) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 3:46 | 2022-07-22 | 2023-01-21 |
 | [Suéltate](https://open.spotify.com/track/2YS6mQWQCBgVXzgx4tvoM8) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [Suéltate](https://open.spotify.com/album/0EpgOsYyztK60FKfdAcwhJ) | 2:35 | 2022-08-26 | 2023-01-21 |
+| [Tattoo](https://open.spotify.com/track/0lMXWocS96mGiT7E2yFOva) | [Ciano](https://open.spotify.com/artist/6hiAlkAYZmKSJ97n1pqbrF), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [Tattoo](https://open.spotify.com/album/16MEx400kmgrRzSPF6lEth) | 2:19 | 2023-09-15 |  |
 | [TAZA TAZA](https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [TAZA TAZA](https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS) | 2:38 | 2022-06-03 | 2023-04-01 |
 | [Te Fuiste](https://open.spotify.com/track/0gzxvbpJN3s5sisn8ltdXh) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Fuiste](https://open.spotify.com/album/0vlPIHR6RESTULn9N3L1hl) | 2:54 | 2022-05-24 | 2022-08-06 |
 | [Te Sigo \(feat\. Randy\)](https://open.spotify.com/track/40Aub8V5gwK9SofYNrMdaN) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Randy](https://open.spotify.com/artist/1Qote9MpqMZluWzYGifZUg) | [Te Sigo \(feat\. Randy\)](https://open.spotify.com/album/0YJEcuyXp99hO7TFGwkATX) | 3:13 | 2022-05-24 |  |

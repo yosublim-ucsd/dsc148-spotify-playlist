@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Cover: A. G. Cook",
+  "description": "Cover: Hannah Diamond",
   "name": "hyperpop",
   "tracks": [
     {
@@ -13481,6 +13481,24 @@
     },
     {
       "album": {
+        "name": "good things",
+        "url": "https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174656,
+      "name": "good things",
+      "url": "https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid"
+    },
+    {
+      "album": {
         "name": "Good Things Take Time",
         "url": "https://open.spotify.com/album/6kTSYt8iV32b8HLSuCSfUg"
       },
@@ -25123,6 +25141,24 @@
     },
     {
       "album": {
+        "name": "Poster Girl",
+        "url": "https://open.spotify.com/album/3ntPrJhjhD6pjmhw3OSNtP"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "Poster Girl",
+      "url": "https://open.spotify.com/track/0uMuqJ8C94se50maCXGS1q"
+    },
+    {
+      "album": {
         "name": "DISCO4 :: PART I",
         "url": "https://open.spotify.com/album/6HodZ9bCtPbrWSqMlIEuvK"
       },
@@ -29914,6 +29950,28 @@
       "duration_ms": 107043,
       "name": "spawn",
       "url": "https://open.spotify.com/track/4MCpzM2jmfXrxpQ5GOYK1M"
+    },
+    {
+      "album": {
+        "name": "Speed Drive",
+        "url": "https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264706,
+      "name": "Speed Drive - jamesjamesjames Remix; From Barbie The Album",
+      "url": "https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz"
     },
     {
       "album": {

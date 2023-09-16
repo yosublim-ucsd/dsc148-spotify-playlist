@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 80th Golden Globe Awards\. Watch Jan 10, 2023 on NBC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,704 likes - 32 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,705 likes - 32 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 24 | [Stand By Your Man](https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp) | [Jessica Chastain](https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF), [Michael Shannon](https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89) | [George & Tammy \(Original Series Soundtrack\)](https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT) | 2:45 |
 | 25 | [All Aboard \- from "The Menu" Soundtrack](https://open.spotify.com/track/1hT4ky9OMjtDpZJbJs08XY) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [The Menu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rNzQmIHjZCVQEfdOxEItQ) | 4:24 |
 | 26 | [Symphony No\. 5 in C Sharp Minor / Pt\. 1: I\. Trauermarsch & II\. Stürmisch bewegt \- Rehearsals](https://open.spotify.com/track/50Zfv1fSYcuTr9JeKV5OZ5) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Cate Blanchett](https://open.spotify.com/artist/2Z2dkKKXtKsfFAQz1enCeJ), [Jan Wolf](https://open.spotify.com/artist/7FdzQYqYuqi6NhBNwXx3yY), [Dresdner Philharmonie](https://open.spotify.com/artist/03C9IJtseK0NX9zw53URjF) | [TÁR \(MUSIC FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK) | 3:19 |
-| 27 | [Bright Horses \(Instrumental\)](https://open.spotify.com/track/4zrcD8Ls4b5WFcIJrbXUS9) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [Blonde \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5tVQoxthh1CrojRKURxcyz) | 3:45 |
-| 28 | [Barry](https://open.spotify.com/track/4dqBW6ZGXVKTHg15MErvJ9) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [BARRY \(HBO Original Music Soundtrack Season 1 & 2\)](https://open.spotify.com/album/4kYPrvylR7PVvk8fphlRVv) | 1:09 |
+| 27 | [Barry](https://open.spotify.com/track/4dqBW6ZGXVKTHg15MErvJ9) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [BARRY \(HBO Original Music Soundtrack Season 1 & 2\)](https://open.spotify.com/album/4kYPrvylR7PVvk8fphlRVv) | 1:09 |
+| 28 | [Bright Horses \(Instrumental\)](https://open.spotify.com/track/4zrcD8Ls4b5WFcIJrbXUS9) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [Blonde \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5tVQoxthh1CrojRKURxcyz) | 3:45 |
 | 29 | [Today We Launch](https://open.spotify.com/track/5IOfH50BVukvKUeIzQ7JWA) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr) | [The Dropout \(Original Score\)](https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb) | 2:14 |
 | 30 | [Titles](https://open.spotify.com/track/3nXtowNQOkWjIu1Ep2smUw) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Black Bird](https://open.spotify.com/album/3d5Y2qarMZlq0YyvLueE4I) | 4:55 |
 | 31 | [Main Title \(The Flight Attendant\)](https://open.spotify.com/track/2RyCnbRAwgxNi8D4MexzkF) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Flight Attendant: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4eGTAHIWB70mIf3gwknjow) | 1:29 |
 | 32 | [Get Outta My Face \(feat\. Sebastian Stan\)](https://open.spotify.com/track/6o9NhaBfBJS4pCd2RjGb66) | [Isaac Carpenter](https://open.spotify.com/artist/4xbXNEpKqu2JcnjxaHAWpj), [Sebastian Stan](https://open.spotify.com/artist/0JX0HkJxazV5WddFlKp9JV) | [Pam & Tommy \(Original Series Soundtrack\)](https://open.spotify.com/album/3DLTFjUNq8cigCAqaU1ZOc) | 1:02 |
 
-Snapshot ID: `MCxkNTYwMjlkNDNmZGQ1OWQ3MGUyNzViM2Y1MTRjZGU4ZTlhM2M0NzA4`
+Snapshot ID: `MCw2N2I1YzU5OTkxM2FiMGQxZWQ4Njg1OWNkYzVlODQzOWExODVhNTI2`

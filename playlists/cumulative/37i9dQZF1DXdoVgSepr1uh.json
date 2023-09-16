@@ -3535,6 +3535,28 @@
     },
     {
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/16MEx400kmgrRzSPF6lEth"
+      },
+      "artists": [
+        {
+          "name": "Ciano",
+          "url": "https://open.spotify.com/artist/6hiAlkAYZmKSJ97n1pqbrF"
+        },
+        {
+          "name": "Ivan Armesto",
+          "url": "https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139466,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0lMXWocS96mGiT7E2yFOva"
+    },
+    {
+      "album": {
         "name": "TAZA TAZA",
         "url": "https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS"
       },

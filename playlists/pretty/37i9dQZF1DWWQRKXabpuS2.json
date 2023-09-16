@@ -1,13 +1,29 @@
 {
   "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u0635\u0627\u0644\u0629",
-  "num_followers": 29815,
+  "num_followers": 29856,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2NkYjdhNzBiM2I3N2FjNTNmMTBmNzQ3MmVlNGM1NDBiOGYwZDZj",
+  "snapshot_id": "MCw4OWQwOTY1ZWJkMWJlODUxOTI3MTQ1MWQ1M2U5NGE2YzNmMGU4ZjQ1",
   "tracks": [
+    {
+      "added_at": "2023-09-15 02:55:00",
+      "album": {
+        "name": "Ma Fagadtek",
+        "url": "https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "duration_ms": 239774,
+      "name": "Ma Fagadtek",
+      "url": "https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv"
+    },
     {
       "added_at": "2023-09-12 20:22:28",
       "album": {

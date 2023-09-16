@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Talitha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,656 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,659 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [U.F.O.](https://open.spotify.com/track/0kOEDs8GZ03XTiKCplQWXA) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Something to Hide](https://open.spotify.com/album/76PyZLc70vp1LD6JsvCE3E) | 3:44 |
 | 50 | [lake buena vista](https://open.spotify.com/track/3cDhlmq4UrkebGhxe5Z5cj) | [Lauren Ong](https://open.spotify.com/artist/1qXjkdOzaGvRcJJbRoy2IZ) | [hillcrest](https://open.spotify.com/album/2pNTEByotso0MHoMsjqmfK) | 2:58 |
 
-Snapshot ID: `MCxiYTk0NGJmMjIxNDg1N2Q3ODM1MWViOTliZDliZDllNzA4MjBiM2Qx`
+Snapshot ID: `MCxhYTdhOTAwMmM2MWZlNTBjNTZmMzAzYzI2Y2FmNzc4YTJhYjE2MmJi`

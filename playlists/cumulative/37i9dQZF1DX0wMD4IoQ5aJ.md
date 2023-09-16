@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-291 songs - 15 hr 29 min
+292 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Humidity](https://open.spotify.com/track/7dCmjNwTuhPFcZwp4caqO6) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [Humidity](https://open.spotify.com/album/1dJO7zn4uOklk8OyBdHjo0) | 2:05 | 2022-12-23 |  |
 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 | 2022-04-15 |  |
 | [If I Could I Would](https://open.spotify.com/track/0wx7ZtHC12OTHIWW9hJafV) | [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Euch die Uhren uns die Zeit](https://open.spotify.com/album/47c58ulJOzSaw2iLkSWfI9) | 7:19 | 2022-04-15 | 2022-05-11 |
-| [In A New Mood](https://open.spotify.com/track/557qppEhP0qyFJ7grz1SrA) | [Nippon Nights](https://open.spotify.com/artist/4AXl0l47abG5iXfQcrxQrY) | [In A New Mood](https://open.spotify.com/album/7HEpO9A9jY1wIuvFGBooro) | 3:01 | 2022-09-23 |  |
+| [In A New Mood](https://open.spotify.com/track/557qppEhP0qyFJ7grz1SrA) | [Nippon Nights](https://open.spotify.com/artist/4AXl0l47abG5iXfQcrxQrY) | [In A New Mood](https://open.spotify.com/album/7HEpO9A9jY1wIuvFGBooro) | 3:01 | 2022-09-23 | 2023-09-16 |
 | [In Brevi](https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [In brevi](https://open.spotify.com/album/5BgW2Tfu7CgefHz7gEDMAj) | 3:20 | 2022-04-15 |  |
 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 | 2022-04-15 | 2023-08-19 |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2022-04-15 |  |
@@ -175,6 +175,7 @@
 | [Memory](https://open.spotify.com/track/2ik8P3FGPzYFKEpb9nv1CC) | [nan V](https://open.spotify.com/artist/6X00WOYkbeRyP5sZAEDKld) | [Memory](https://open.spotify.com/album/2t79KL2RwveaQQrbVnmpYV) | 2:00 | 2022-10-28 | 2023-08-19 |
 | [Mezzo](https://open.spotify.com/track/2z0zuTLKS7bkvl1cxSUxrU) | [SYRUP 8](https://open.spotify.com/artist/0aX0BN6vN7uTXR3EvutDHT) | [Mezzo](https://open.spotify.com/album/5FzZIFRaHxs2mjod8a8zsD) | 3:02 | 2022-04-15 |  |
 | [mirage](https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy) | [sir bennett](https://open.spotify.com/artist/2BmSS7TcHQpZ4yYUg2ooXL) | [mirage](https://open.spotify.com/album/5iglYs8AJ0MVpnfCQTVfPd) | 2:44 | 2022-04-15 |  |
+| [Mirage Island](https://open.spotify.com/track/4v2mZG5syVKMcERPDAMF7u) | [Purple Waves](https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1) | [Mirage Island](https://open.spotify.com/album/3vKiz6tdoA7xjocG8QaHL6) | 2:39 | 2023-09-15 |  |
 | [Miss U](https://open.spotify.com/track/4bLjS9vd86lvIddRDQZnSw) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Miss U](https://open.spotify.com/album/4dDBVWAKOmOd5CY52Nw7Ad) | 3:07 | 2022-10-07 |  |
 | [Moon](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Moon](https://open.spotify.com/album/3M46ScNsRcUadJs8j5qajr) | 2:56 | 2022-04-15 | 2022-09-23 |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2022-04-15 | 2023-01-07 |

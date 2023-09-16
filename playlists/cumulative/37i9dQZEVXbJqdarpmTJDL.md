@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,270 songs - 2 day 20 hr 2 min
+1,271 songs - 2 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [Kobe](https://open.spotify.com/track/5pJs3IQxlt8OjtXmTeVlJu) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 2:30 | 2022-01-14 | 2022-04-07 |
 | [Koini Gnomi](https://open.spotify.com/track/5EsL43VnjUAmzWOT5iBVqT) | [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Zoro&Buzz](https://open.spotify.com/artist/1lqh5puCZTMsGJalV8Rjbe), [Eversor](https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX), [Dj Moya](https://open.spotify.com/artist/56CAZLbzUvyYZir1iwtfhQ) | [Leoforos Kavalas](https://open.spotify.com/album/2CCVbJTChTnS4B1oJpQ75X) | 2:55 | 2021-04-04 | 2021-04-05 |
 | [Koita](https://open.spotify.com/track/1KAaObDxDCla6jEHslBsjk) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Koita](https://open.spotify.com/album/0OSg5s7nyVhzKhKbeCj2sy) | 4:29 | 2021-03-27 | 2021-03-29 |
+| [KOITA ME](https://open.spotify.com/track/0ZXqymmpvFMwb2FmR48C6F) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [KOITA ME](https://open.spotify.com/album/28Fclov99SuAnq1kEgxtVk) | 2:06 | 2023-09-15 |  |
 | [Kokaina](https://open.spotify.com/track/3hS4HC5mTbBqIZkTGP6ETx) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Kokaina](https://open.spotify.com/album/5oMbffz4Pibodz9dlzYNcb) | 2:32 | 2021-05-15 | 2021-05-27 |
 | [Kokaina](https://open.spotify.com/track/0mBpzm8OfmBouihZ54biML) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [ObieDaz](https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP) | [Kokaina](https://open.spotify.com/album/5l2Q7rWD2eBdcjRNLKUcrC) | 2:30 | 2021-05-27 | 2022-10-22 |
 | [Kokkina Matia](https://open.spotify.com/track/3QGiHTjiRmfsOT3VoLhiCn) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [For3al](https://open.spotify.com/artist/11fgryy3efAf6uY7OOzGDV), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 3:19 | 2022-05-27 | 2022-10-22 |
@@ -813,7 +814,7 @@
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-07-26 | 2021-09-08 |
 | [Nefeli](https://open.spotify.com/track/3npi2mfKQJ2BnHuShtCoJs) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Psixi](https://open.spotify.com/album/3HtrMyrM7HfCicKZPUmSeU) | 3:39 | 2022-02-23 | 2022-02-26 |
 | [Nemesis](https://open.spotify.com/track/3HDw1AWrMadqPTTomkDDlD) | [Jitano](https://open.spotify.com/artist/3xmY7evutapMbhcZva0xkn) | [Nemesis](https://open.spotify.com/album/7Ab8TqX7Hbmakve2wHTZ46) | 3:35 | 2022-03-18 | 2022-03-21 |
-| [NEOI STO NOSOKOMEIO](https://open.spotify.com/track/09vYLUMM3T0Ewf1oqQHsr0) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj) | [Epikindinoi Polites](https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn) | 3:44 | 2023-03-17 |  |
+| [NEOI STO NOSOKOMEIO](https://open.spotify.com/track/09vYLUMM3T0Ewf1oqQHsr0) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj) | [Epikindinoi Polites](https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn) | 3:44 | 2023-03-17 | 2023-09-16 |
 | [NEVER SWITCH SIDE / IMITATION](https://open.spotify.com/track/7nnwjqTNg6fgczyWk3Mt2f) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [MADE UNDER PRESSURE](https://open.spotify.com/album/7LDIcqnXyqQtd3l6XUILwz) | 5:10 | 2022-02-23 | 2022-02-28 |
 | [Neymar](https://open.spotify.com/track/2GOnF9OwX7CSCHzinCr3VY) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [Supernova](https://open.spotify.com/album/0YjJuXJlkF0Al7355W6BXU) | 3:31 | 2021-03-27\* | 2021-06-07 |
 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 | 2022-12-03 | 2022-12-20 |

@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-353 songs - 17 hr 45 min
+354 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Elle](https://open.spotify.com/track/2BJhRC9dnBCJIIeJaN1OBD) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Elle](https://open.spotify.com/album/4xinTWNwoFKTRju5K40K7H) | 2:41 | 2022-07-05 | 2023-04-07 |
 | [Elle](https://open.spotify.com/track/5CxvHxU1tTeU6pjvJMbo3B) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Elle](https://open.spotify.com/album/7qhynNeQhU7f1jyhdLnzCO) | 2:41 | 2022-07-05 | 2022-07-29 |
 | [Eloquence](https://open.spotify.com/track/0ORCs88ABmuctkBdkAWRwF) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Eloquence](https://open.spotify.com/album/7nhKY56BddXIBgih1EJrfy) | 2:21 | 2022-07-05 |  |
+| [Embracing Life](https://open.spotify.com/track/61ujUwC7abB2rW59gnpVFQ) | [Sundo](https://open.spotify.com/artist/6HOWuMMUjUyDYvcvokoW36) | [Embracing Life](https://open.spotify.com/album/1LpjfmjI5Da8IQbnxvM1y6) | 3:08 | 2023-09-15 |  |
 | [Endelig](https://open.spotify.com/track/3NUwa9esOC8gpVzWVV9xW4) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Endelig](https://open.spotify.com/album/37uRrJ3uV7tAazUMMfTAnR) | 2:39 | 2022-10-14 |  |
 | [Enlightenment](https://open.spotify.com/track/0lj5JJK4tSCNYtwlA9NcwM) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:51 | 2022-07-05 | 2023-06-03 |
 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 | 2022-11-11 |  |
@@ -264,7 +265,7 @@
 | [Rêves](https://open.spotify.com/track/3JnDz61DJEvJrVqf7UqgR9) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Rêves](https://open.spotify.com/album/1q9AUR7HTJiC4kAzRg3Mny) | 3:07 | 2022-07-05 |  |
 | [Sajda](https://open.spotify.com/track/0LW7Czzs4PJVBqmftvKk1m) | [Ijaya Gupta](https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk) | [Sajda](https://open.spotify.com/album/0UlB8zVbHEuhwEj4YYH2ip) | 3:40 | 2022-07-05 |  |
 | [Sandhya](https://open.spotify.com/track/0oWESCZ7b4nD5TGa41pUPd) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Sandhya](https://open.spotify.com/album/7N1HU2pKBo1S678UVjqKUs) | 2:26 | 2023-02-09 |  |
-| [Satin](https://open.spotify.com/track/6Oi0X7GXhInlEgJC5FIZKQ) | [L’avendine](https://open.spotify.com/artist/2kid9kBSigLwz9xKNfWBGG) | [Satin](https://open.spotify.com/album/2FXzWeH11oyMWqOz9OH6NA) | 2:31 | 2022-07-05 |  |
+| [Satin](https://open.spotify.com/track/6Oi0X7GXhInlEgJC5FIZKQ) | [L’avendine](https://open.spotify.com/artist/2kid9kBSigLwz9xKNfWBGG) | [Satin](https://open.spotify.com/album/2FXzWeH11oyMWqOz9OH6NA) | 2:31 | 2022-07-05 | 2023-09-16 |
 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2022-07-05 | 2023-03-10 |
 | [Sclavia](https://open.spotify.com/track/1EWbhAgdQNwYau5DvgdEtW) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Ur](https://open.spotify.com/album/71bc7U2CxvmTDrTKmD4C52) | 3:13 | 2023-05-05 |  |
 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 | 2022-07-05 |  |

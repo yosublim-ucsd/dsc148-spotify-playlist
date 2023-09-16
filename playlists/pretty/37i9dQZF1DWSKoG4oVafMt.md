@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,593 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,801 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 60 | [Mohabat](https://open.spotify.com/track/0aVpOPirZUdeJon1ikS9M5) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [Mohabat](https://open.spotify.com/album/3iaLLjl5QBpuYMljsK9fOr) | 3:36 |
 | 61 | [Nawa Nawa Pyaar](https://open.spotify.com/track/6BJEyDIOQf7pi3jKIbC34p) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/7vZ8AFILMwRsTFHB8SoxuS) | 2:19 |
 | 62 | [PYAAR DIYA GALLAN](https://open.spotify.com/track/7LWWWB3Ht5L3bW9JpqMwCI) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 2:28 |
-| 63 | [Nikki Nikki Gall](https://open.spotify.com/track/5agAgnkQhRu7Kk5DJUBSwk) | [Gill Armaan](https://open.spotify.com/artist/185mLK0dEN6C4lbMADRODF) | [Nikki Nikki Gall](https://open.spotify.com/album/4hGAjzQsnLCBnXDddOjOdD) | 2:52 |
+| 63 | [Nikki Nikki Gall](https://open.spotify.com/track/3HD1fGk7heFludAdtnFZWX) | [Gill Armaan](https://open.spotify.com/artist/185mLK0dEN6C4lbMADRODF) | [Nikki Nikki Gall](https://open.spotify.com/album/4otWE7jQZhFg2SnXbXJyaJ) | 2:52 |
 | 64 | [Suit](https://open.spotify.com/track/5hP26tC5gV42IwhYMQ4nLA) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Another Side](https://open.spotify.com/album/3wd8Hr4S8649tc3kTuy3ch) | 3:27 |
 | 65 | [Move On](https://open.spotify.com/track/3gZtIhtPkPK5tDJ5iCpgvp) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Archives](https://open.spotify.com/album/2L0jISPU1EHSXOiwkrCOks) | 2:57 |
 | 66 | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/track/49smvL3XQwdOdTIjTYDoHd) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/album/2VJaivHf2ktb01A62hQJdb) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 | 75 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 |
 
-Snapshot ID: `MCw4OTI1YTI5OGQzNzZhYmU1MDcwODQyZGU0YTRhNWU2MDgzZTZhNDhm`
+Snapshot ID: `MCxkMmQ3YWQ1OGUxOGNmZDcwNDUwZGQ2OWQxYmQ3OTU2ODZjZGZjMzhm`

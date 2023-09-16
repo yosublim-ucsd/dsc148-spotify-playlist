@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Irreversible Entanglements",
+  "description": "New jazz for open minds. Cover: Joey Alexander",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 264320,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/1Q27amghHJUTSmM6R1IPi1"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 186589,
       "name": "Back to Beginnings",
       "url": "https://open.spotify.com/track/3fwY3YbGDOOr7XUh5nFwtp"
@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 170666,
       "name": "BIG",
       "url": "https://open.spotify.com/track/29xIkYBI18k0sQLk0mmaRt"
@@ -3084,6 +3084,24 @@
       "duration_ms": 135103,
       "name": "Bluberri",
       "url": "https://open.spotify.com/track/208aFcXa7lY6wwHwkhZura"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406066,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y"
     },
     {
       "album": {
@@ -4892,7 +4910,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 379686,
       "name": "Day Glow",
       "url": "https://open.spotify.com/track/32SGbjA6hEXB3wmvnYWeg1"
@@ -5062,6 +5080,24 @@
       "duration_ms": 255272,
       "name": "deliverenzo",
       "url": "https://open.spotify.com/track/4TAKShxabGTKjWSubmofT0"
+    },
+    {
+      "album": {
+        "name": "Deluxe Refuge",
+        "url": "https://open.spotify.com/album/4bmmEf1HnNsp44VM8YKWbg"
+      },
+      "artists": [
+        {
+          "name": "Ed Motta",
+          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327417,
+      "name": "Deluxe Refuge",
+      "url": "https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3"
     },
     {
       "album": {
@@ -5590,7 +5626,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 182624,
       "name": "Double Southpaw",
       "url": "https://open.spotify.com/track/1DZrcuq1jMOUZX1I13AYAp"
@@ -6583,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Samurai - Hamilton de Holanda (A M\u00fasica de Djavan)",
+        "url": "https://open.spotify.com/album/49i7riTVt1r0PdIl4p28QR"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228534,
+      "name": "Faltando um Peda\u00e7o",
+      "url": "https://open.spotify.com/track/2jW2agJpOIJjX4tbmDTIai"
+    },
+    {
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/5ByTI6yusgbPzvAhHi0Qaq"
       },
@@ -7089,6 +7143,28 @@
     },
     {
       "album": {
+        "name": "My baby just cares for me",
+        "url": "https://open.spotify.com/album/5guYkCanv3l8BT2CNhoVhg"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2 Trio",
+          "url": "https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr"
+        },
+        {
+          "name": "Sandy Patton",
+          "url": "https://open.spotify.com/artist/4diVBqFh5kA03VnlPyt7cJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280822,
+      "name": "Forget me",
+      "url": "https://open.spotify.com/track/6ggsDCv63e5mOOwGg3TSke"
+    },
+    {
+      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/1IeyfKWkKBI83vE1p2DKe3"
       },
@@ -7112,7 +7188,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 492813,
       "name": "Freedom & Progress",
       "url": "https://open.spotify.com/track/0bBksTjMnvGUORqrxcxBI3"
@@ -7326,6 +7402,28 @@
       "duration_ms": 251888,
       "name": "Funky",
       "url": "https://open.spotify.com/track/7pN5j3DyZ9IohLdCkX5cGM"
+    },
+    {
+      "album": {
+        "name": "Funky G Sus",
+        "url": "https://open.spotify.com/album/4DPrc61bo2mFC1KakdVZw0"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joe Marcinek Band",
+          "url": "https://open.spotify.com/artist/5qKOChsYbv4J08L1bvNxMK"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357482,
+      "name": "Funky G Sus",
+      "url": "https://open.spotify.com/track/5QFO8waIRAMQafRnnzBOyZ"
     },
     {
       "album": {
@@ -7714,6 +7812,24 @@
       "duration_ms": 497200,
       "name": "Golden Slumbers",
       "url": "https://open.spotify.com/track/6NJsj8KRnoxAvE0ultDWbn"
+    },
+    {
+      "album": {
+        "name": "Gone Bowling",
+        "url": "https://open.spotify.com/album/3atYtuKUcOZAdzZ61Tu00I"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Gone Bowling",
+      "url": "https://open.spotify.com/track/67wFGvo3gRo4x9VK4wezWR"
     },
     {
       "album": {
@@ -10323,6 +10439,24 @@
     },
     {
       "album": {
+        "name": "Selections from Les Jardins Mystiques Vol.1",
+        "url": "https://open.spotify.com/album/5D1cEhsNMQBy4ZNryMZHNU"
+      },
+      "artists": [
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308160,
+      "name": "Kairos (Kefi)",
+      "url": "https://open.spotify.com/track/1BIuzWaarv9MXcHsJHXJ0I"
+    },
+    {
+      "album": {
         "name": "Hotel San Claudio",
         "url": "https://open.spotify.com/album/0cuhODD4wYfCeeclaYsPYu"
       },
@@ -10824,7 +10958,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 318675,
       "name": "Lean In",
       "url": "https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE"
@@ -10932,6 +11066,28 @@
       "duration_ms": 344720,
       "name": "Levin's Lope - Karriem Riggins Remix",
       "url": "https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5"
+    },
+    {
+      "album": {
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/35B0dmoLWUMpUzyFZwaEy7"
+      },
+      "artists": [
+        {
+          "name": "Jack Lee",
+          "url": "https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434896,
+      "name": "Libera Me",
+      "url": "https://open.spotify.com/track/0sPKdhJuJke18NRP4rlFbE"
     },
     {
       "album": {
@@ -11908,7 +12064,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 197500,
       "name": "Magnolia II",
       "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
@@ -13361,6 +13517,36 @@
     },
     {
       "album": {
+        "name": "Shadowlands",
+        "url": "https://open.spotify.com/album/0kiImzjohOce2DmKzymLju"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        },
+        {
+          "name": "John Raymond",
+          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        },
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215695,
+      "name": "New Meaning",
+      "url": "https://open.spotify.com/track/6mPQan4lLDiKid0LWGIPHm"
+    },
+    {
+      "album": {
         "name": "Run The World: Season 2 (Music from the STARZ Original Series)",
         "url": "https://open.spotify.com/album/2Q7HIpBQni6hlMKHk4ufqv"
       },
@@ -13588,7 +13774,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 158653,
       "name": "No End",
       "url": "https://open.spotify.com/track/2MJMUvGIN5aidX8rHTsJcH"
@@ -13782,6 +13968,24 @@
       "duration_ms": 164571,
       "name": "Nu Jump",
       "url": "https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK"
+    },
+    {
+      "album": {
+        "name": "A Nuyorican Tale",
+        "url": "https://open.spotify.com/album/3tWzRv26GgfceyB7d03YxF"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406614,
+      "name": "Nuyorican Soul",
+      "url": "https://open.spotify.com/track/0ZDBZpIt3eUJ6LaApLJSiB"
     },
     {
       "album": {
@@ -14880,7 +15084,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 194173,
       "name": "People of The Sun",
       "url": "https://open.spotify.com/track/5yiRpEYb8n6NWuPx3u3EcW"
@@ -15178,7 +15382,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 462857,
       "name": "Prana (feat. Joel Ross)",
       "url": "https://open.spotify.com/track/4LiW3XCufA48rPYSagwMZR"
@@ -15354,7 +15558,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 302998,
       "name": "Process Level Event",
       "url": "https://open.spotify.com/track/5xqpc19sWHuS5gaD58DqaO"
@@ -15564,6 +15768,32 @@
       "duration_ms": 437700,
       "name": "Push",
       "url": "https://open.spotify.com/track/1AqbCzDfgIsB8iF9rBUy0A"
+    },
+    {
+      "album": {
+        "name": "Put it Down",
+        "url": "https://open.spotify.com/album/0kngfbXlOhnq6IiUOdkp28"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Mike Chiavaro",
+          "url": "https://open.spotify.com/artist/3Yfht77kZkV1rYQKs5OSfN"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Put it Down",
+      "url": "https://open.spotify.com/track/6iRPCCgbYTblYcJwI337MV"
     },
     {
       "album": {
@@ -17014,7 +17244,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 237400,
       "name": "Seven Steps To Heaven",
       "url": "https://open.spotify.com/track/0TYipz9Ka2eYpTMW2NndQh"
@@ -18433,6 +18663,24 @@
     },
     {
       "album": {
+        "name": "Stings",
+        "url": "https://open.spotify.com/album/09easBrTbXjhnsqORAvkiK"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Stings",
+      "url": "https://open.spotify.com/track/7zdBfReMVQKgxO5Pa5O3Hf"
+    },
+    {
+      "album": {
         "name": "Stolper Jim",
         "url": "https://open.spotify.com/album/677oWxXvSwf13IrJRjEYAR"
       },
@@ -18914,7 +19162,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 148702,
       "name": "Supplication",
       "url": "https://open.spotify.com/track/3XSBY2I4txRyH9rkaYoYbX"
@@ -19926,6 +20174,28 @@
       "duration_ms": 435996,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen"
+    },
+    {
+      "album": {
+        "name": "Enterprises of Great Pith and Moment",
+        "url": "https://open.spotify.com/album/5pwRVAjf5TgrGVvTaw8LxS"
+      },
+      "artists": [
+        {
+          "name": "Jambal",
+          "url": "https://open.spotify.com/artist/4C4DCj8tcxj5RKpo7AVimE"
+        },
+        {
+          "name": "Tristan De Liege",
+          "url": "https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308400,
+      "name": "The Great Wave",
+      "url": "https://open.spotify.com/track/61sBESGDMMQOmvtFNmWony"
     },
     {
       "album": {
@@ -21322,7 +21592,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 225495,
       "name": "Transient",
       "url": "https://open.spotify.com/track/1yJGKN9vVPbsRL6Lj5bGd7"
@@ -21594,6 +21864,32 @@
       "duration_ms": 263173,
       "name": "Turnip's Big Move",
       "url": "https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt"
+    },
+    {
+      "album": {
+        "name": "TV Band",
+        "url": "https://open.spotify.com/album/41OaC5RuO2QKoBlPf4eiXM"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441973,
+      "name": "TV Band",
+      "url": "https://open.spotify.com/track/3UK5RFeJVhReZawBiydCt4"
     },
     {
       "album": {
@@ -22728,7 +23024,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 431720,
       "name": "Weezy",
       "url": "https://open.spotify.com/track/59quKh2wIPL3bom9F5MjI5"
@@ -22944,6 +23240,32 @@
       "duration_ms": 398400,
       "name": "Whole Foods",
       "url": "https://open.spotify.com/track/2ZWejGOCrCBCh5XWpSRLlM"
+    },
+    {
+      "album": {
+        "name": "Why Am I Treated So Bad (with Questlove, Christian McBride) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/4JdmT4JJgQFP3dUgvpjx3H"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323522,
+      "name": "Why Am I Treated So Bad (with Questlove, Christian McBride) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP"
     },
     {
       "album": {
@@ -23934,7 +24256,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 214000,
       "name": "\u30be\u30a6",
       "url": "https://open.spotify.com/track/4xcYpxA5603bWGjlZfN56p"
@@ -24010,6 +24332,24 @@
       "duration_ms": 273000,
       "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
       "url": "https://open.spotify.com/track/32LhqU8umTrPAKN95z51d0"
+    },
+    {
+      "album": {
+        "name": "Beat Swing",
+        "url": "https://open.spotify.com/album/0UDOcS1jMBweDDsF2qWXQp"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122146,
+      "name": "\u708e\u306e\u30a4\u30f3\u30d7\u30ed\u30d3\u30bc\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0oLlJAlVk0nRJrOX7bmHYP"
     },
     {
       "album": {

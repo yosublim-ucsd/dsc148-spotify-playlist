@@ -3658,6 +3658,24 @@
     {
       "album": {
         "name": "Out Of Orbit",
+        "url": "https://open.spotify.com/album/33hcdj1xEZrV2LMMRFs6q0"
+      },
+      "artists": [
+        {
+          "name": "Laffey",
+          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150354,
+      "name": "Light Years Away",
+      "url": "https://open.spotify.com/track/0NnGOsVYJJ0SX7Twq5PARG"
+    },
+    {
+      "album": {
+        "name": "Out Of Orbit",
         "url": "https://open.spotify.com/album/0YjNahI1L5bQdDrl6Fq8TN"
       },
       "artists": [
@@ -3668,7 +3686,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 150354,
       "name": "Light Years Away",
       "url": "https://open.spotify.com/track/27esLzalhIbSXCNvPlAUfH"
@@ -6750,10 +6768,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 148401,
       "name": "Sunset Swim",
       "url": "https://open.spotify.com/track/3nwxM0mJGiJw8QZ7xxbZuE"
+    },
+    {
+      "album": {
+        "name": "Barbados",
+        "url": "https://open.spotify.com/album/6Z7sTFs9hrpqD3ttiIr2td"
+      },
+      "artists": [
+        {
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148401,
+      "name": "Sunset Swim",
+      "url": "https://open.spotify.com/track/6KeNS9lB6wxUzmw5PLVqJC"
     },
     {
       "album": {

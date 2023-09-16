@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,418 likes - 159 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,593 likes - 159 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 90 | [Slow Descent](https://open.spotify.com/track/4OqaeW7DdsbU71WLpfJ6iP) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Slow Descent](https://open.spotify.com/album/4aEh7ShmVBPDg3R8TqHYeU) | 3:35 |
 | 91 | [Curls](https://open.spotify.com/track/2ECNr4Li4S3wgmhlgzzDnz) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Curls](https://open.spotify.com/album/0XR83mn0IyWx3sFn1mp6YK) | 2:45 |
 | 92 | [In Reflection](https://open.spotify.com/track/0OhTWdBfNW2kPgSnO2yWuM) | [Palan Artridge](https://open.spotify.com/artist/2ruIIrxIZGh0WiaDaOY68q), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [In Reflection](https://open.spotify.com/album/0qbsq7iqNEymapa9CIA7fd) | 2:06 |
-| 93 | [Final Destination](https://open.spotify.com/track/4fAOUcDYMVuw2gvU1ZR8Ql) | [Team Astro](https://open.spotify.com/artist/5BJiJign2sqMUCJhpStgNd) | [Hidden Treasure](https://open.spotify.com/album/3aqhM9qEU5KZuX8yD7GduK) | 2:34 |
+| 93 | [Final Destination](https://open.spotify.com/track/4PGaMtP5HLcPTiNEevGj82) | [Team Astro](https://open.spotify.com/artist/5BJiJign2sqMUCJhpStgNd) | [Hidden Treasure](https://open.spotify.com/album/4LRikK5f2nmBqXvFqotAwJ) | 2:34 |
 | 94 | [Who Is She](https://open.spotify.com/track/5daStHNxXOd3E1SGHQl3wj) | [Sazetrax](https://open.spotify.com/artist/21WKBlcJhr3WDC8NPw7YxF), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Who Is She](https://open.spotify.com/album/1abNGnCmIGDI8JU0irdH9n) | 2:33 |
 | 95 | [ridley road](https://open.spotify.com/track/4F3obAUvUPgEmPWiFIaMvi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [ridley road](https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6) | 2:24 |
 | 96 | [Daze haze](https://open.spotify.com/track/5EPCu4yj9yBE8AMxBJmSh6) | [chilltrap](https://open.spotify.com/artist/33QpdTC6EssmdARvxTLOMm) | [Daze Haze](https://open.spotify.com/album/1ET4ofzgfm5xe4GSkpPKeV) | 1:30 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 158 | [Meeting Under The Enchanted Oak](https://open.spotify.com/track/6Y7ICzw5bHPBnqpYaIxEoR) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Meeting Under The Enchanted Oak](https://open.spotify.com/album/3VT2QmsS419WRFJZg3ZVWO) | 3:25 |
 | 159 | [Remember That](https://open.spotify.com/track/7eCNgZU8r9GmyOJYA9q5oS) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Remember That](https://open.spotify.com/album/1iRAG8gw95qM7v6PGz18qH) | 2:21 |
 
-Snapshot ID: `MCxjYjI5OWI5MjZkNjFkZWIwYWE4YzE4MzEyZWIzOTAyMTIwYTY1MDQx`
+Snapshot ID: `MCxhYTQyMGJhOGJkZTk3NjMzZDQ0YjVkMTkyNDg5NWQyMjc1YjQ4YmNj`

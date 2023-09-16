@@ -2,7 +2,7 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> gatinha é o bruninho
+> só hitzada
 
 321 songs - 14 hr 35 min
 

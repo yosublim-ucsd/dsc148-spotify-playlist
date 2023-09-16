@@ -2,9 +2,9 @@
 
 ### [idk.](https://open.spotify.com/playlist/37i9dQZF1DX59NCqCqJtoH)
 
-> We hear you.
+> we hear you.
 
-623 songs - 1 day 6 hr 48 min
+626 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [falling](https://open.spotify.com/track/11dOflbG7PpOepza4U553L) | [C H O I S I E S](https://open.spotify.com/artist/1vQrmfvqhoSigvmV7V1NKw), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [bobby someone](https://open.spotify.com/artist/5VxmvoJfiAumQk2V5PdiO3) | [falling](https://open.spotify.com/album/2xFgXy38uJHzRJSWLtx0EF) | 2:49 | 2021-04-02 | 2022-06-09 |
 | [Falling](https://open.spotify.com/track/4jeBx7Xm7zwmRx28Ysfevw) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Falling](https://open.spotify.com/album/2kydat46h5sbQtAR0gVV0M) | 2:50 | 2021-04-02 | 2022-04-11 |
 | [Falling Asleep in Your Arms, Dreading the Sunrise](https://open.spotify.com/track/7m18m0pH4WEFqOeUKrxZkw) | [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Forever Misunderstood](https://open.spotify.com/album/0FYHgjUYWthtF0hpsgDqg3) | 2:34 | 2021-04-02 | 2022-07-28 |
+| [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 | 2023-09-15 |  |
 | [far away from here](https://open.spotify.com/track/7nnpU2iHbi2k23GNPJMKUM) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [far away from here](https://open.spotify.com/album/40XB91INBVWZ5v9CwYE5Xw) | 2:12 | 2021-04-02 | 2022-07-20 |
 | [FAREWELL](https://open.spotify.com/track/3ysswgOqjjlASeCuRbuKgW) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 4:22 | 2021-04-02 | 2022-04-24 |
 | [Feel Again \(Feat\. Au/Ra\)](https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Things I Wanted To Tell You](https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0) | 2:19 | 2021-04-02 |  |
@@ -364,8 +365,9 @@
 | [Maki](https://open.spotify.com/track/7ydE0OM0iIFCzHSfhVgQKE) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Jiro Dreams](https://open.spotify.com/album/1sP83JA4XZhzLhHiV8CKXQ) | 1:20 | 2021-04-02 | 2022-04-21 |
 | [Malleable](https://open.spotify.com/track/5RpZBENYCjZE7t9M823v0S) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable](https://open.spotify.com/album/6m0ibc9oEx9tiYhbk7D4sA) | 2:48 | 2021-04-02 | 2022-07-29 |
 | [MANGATA](https://open.spotify.com/track/4mRD1edvWuTaMMylCcsHGB) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [DEVILS PLAYGROUND](https://open.spotify.com/album/2vF7VckTpJS0uMkf0JN2GE) | 1:55 | 2022-10-14 | 2022-10-18 |
+| [Mary](https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 3:17 | 2023-09-15 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-25 | 2022-10-15 |
-| [Maya](https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Maya](https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr) | 3:27 | 2023-01-06 |  |
+| [Maya](https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Maya](https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr) | 3:27 | 2023-01-06 | 2023-09-16 |
 | [Maybe i'm alone](https://open.spotify.com/track/1uwl2FmnR4ux7sMkxDJ4xH) | [Yaiko Kaori](https://open.spotify.com/artist/6Y1X1y0lolpyo4xCpB458o) | [Maybe i'm alone](https://open.spotify.com/album/2SrT7vtYvc0m1eYgxfNsg6) | 2:20 | 2021-04-02 | 2022-07-21 |
 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-02-17 |  |
 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 | 2021-04-02 | 2022-07-28 |
@@ -409,6 +411,7 @@
 | [Ocean Eyes](https://open.spotify.com/track/5kTvP86eP1OC1r8MNsSluO) | [moody woody](https://open.spotify.com/artist/46iFyIYGoz4XfOIEn6uMqo) | [Ocean Eyes](https://open.spotify.com/album/2NuRBh5wtqhzCqcwMVhIuv) | 1:42 | 2021-04-02 | 2022-04-09 |
 | [October Baby](https://open.spotify.com/track/5jirw3NThH8SMtvlrrfSw1) | [Sean Kennedy](https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK) | [October Baby](https://open.spotify.com/album/3gi1kfRG9RO7CLTTRhExBi) | 4:04 | 2022-04-08 | 2022-07-29 |
 | [OH GOD](https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5) | 2:12 | 2021-04-02 | 2022-07-29 |
+| [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-09-15 |  |
 | [One More Time](https://open.spotify.com/track/6SOjqqblrBD2PprPuav43M) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Roiael](https://open.spotify.com/artist/7adFfs3GlinwXWi73fbKiH) | [One More Time](https://open.spotify.com/album/4zSUGr8B9Pilj34Cpka2ln) | 2:31 | 2021-04-02 | 2022-07-22 |
 | [One Way!](https://open.spotify.com/track/2659CRCrqaXCaYBMtKrdYi) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [One Way!](https://open.spotify.com/album/6hVJx6AudFaeCyHCECXHcy) | 2:46 | 2021-12-08 | 2022-04-14 |
 | [Only Ones Who Know](https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:01 | 2022-05-25 | 2023-04-27 |
@@ -443,7 +446,7 @@
 | [Pluto Projector](https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 4:27 | 2021-04-02 | 2022-10-15 |
 | [Poetic Vulgarity](https://open.spotify.com/track/0cVCSfdI0gl2jJopZPKCaO) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 4:00 | 2023-09-14 |  |
 | [porcupine](https://open.spotify.com/track/2ccIz3cyNeLnqD7bpt3fjZ) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [when you run away, do you close your eyes](https://open.spotify.com/album/2KBkwYcHVmeEN5PdGbBsFU) | 3:37 | 2022-07-19 | 2022-08-17 |
-| [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-23 |  |
+| [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-23 | 2023-09-16 |
 | [promise I won't mess up](https://open.spotify.com/track/6c4XR6urBbWreT60gkWTmu) | [Sølace](https://open.spotify.com/artist/62AlnDIQccDoQ5FPZRrSL3) | [promise I won't mess up](https://open.spotify.com/album/3j1zmRaTDsDLg5lkDzk352) | 3:00 | 2021-04-02 | 2022-06-24 |
 | [Punching Walls](https://open.spotify.com/track/5BJjtA7s7nEzg7zsCYnYuP) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Punching Walls](https://open.spotify.com/album/6rlcMDZnpBnr9QTZF1r9rE) | 2:34 | 2022-05-25 | 2022-07-29 |
 | [purgatory origami](https://open.spotify.com/track/2OpfVi6Bahpod9c6x7ShMC) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [purgatory origami](https://open.spotify.com/album/6GS2Ssx9tDfzUFZNYb9kl4) | 5:45 | 2021-10-08 | 2022-04-20 |
@@ -584,7 +587,7 @@
 | [Wasted](https://open.spotify.com/track/5182uhTVVUb0Lk9o8OWu0E) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO) | [Wasted](https://open.spotify.com/album/0Y1adZ6EInH99Ta295RH6M) | 2:37 | 2022-03-23 | 2022-07-23 |
 | [watch me bleed](https://open.spotify.com/track/5h7CTZmFFuApY6jJWW4RTj) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [watch me bleed](https://open.spotify.com/album/2FoWGvxgTnUO95EJhEUUkA) | 1:33 | 2022-01-21 | 2022-06-17 |
 | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-10-07 | 2022-11-09 |
-| [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 | 2021-04-02 |  |
+| [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 | 2021-04-02 | 2023-09-16 |
 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 | 2021-09-10 | 2022-04-21 |
 | [We Need to Talk](https://open.spotify.com/track/4XHjtpHLcD4QIFjZHfkfO2) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/1hcwRc4Ic4tb2F8iLUGTTg) | 3:09 | 2021-10-08 | 2022-07-29 |
 | [WE NEVER MET](https://open.spotify.com/track/1BN1QSsfikuIbhccrSAkYs) | [2ND CHOICE](https://open.spotify.com/artist/6Icgjcj6DaFqznzYZG2nIj) | [WE NEVER MET](https://open.spotify.com/album/4BzTQYPZRomnv9NfrS15nz) | 1:47 | 2022-04-12 | 2022-07-29 |

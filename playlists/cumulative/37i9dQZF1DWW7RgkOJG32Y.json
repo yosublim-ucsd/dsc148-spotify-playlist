@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Back Then Right Now",
+        "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201485,
+      "name": "Back Then Right Now",
+      "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
+    },
+    {
+      "album": {
         "name": "Backroad Flyin'",
         "url": "https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y"
       },
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 164524,
       "name": "Truth Is",
       "url": "https://open.spotify.com/track/02G3c8DxZgp6dLbDqd7aw3"

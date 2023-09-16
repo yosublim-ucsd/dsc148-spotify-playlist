@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Black Gold",
+        "url": "https://open.spotify.com/album/5aUO6j1F2xdIbBsVWNW94j"
+      },
+      "artists": [
+        {
+          "name": "These Wicked Rivers",
+          "url": "https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216384,
+      "name": "Black Gold",
+      "url": "https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs"
+    },
+    {
+      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
       },
@@ -2477,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "No Good",
+        "url": "https://open.spotify.com/album/3rrf4sUGwms2pXlNjU1m7M"
+      },
+      "artists": [
+        {
+          "name": "Chase Walker Band",
+          "url": "https://open.spotify.com/artist/0Fn9PiWweDIc6xdz5LXkqB"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155853,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/2GnyPZtPRF0yrz7HzSj5bM"
+    },
+    {
+      "album": {
         "name": "Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound)",
         "url": "https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD"
       },
@@ -2578,7 +2614,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 201803,
       "name": "Nothing But The Blues",
       "url": "https://open.spotify.com/track/6e9xUtsYzhChw0x7hfmxPd"
@@ -2636,6 +2672,24 @@
       "duration_ms": 208909,
       "name": "Off the Shelf",
       "url": "https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN"
+    },
+    {
+      "album": {
+        "name": "On My Hands",
+        "url": "https://open.spotify.com/album/2nWs7LzcrLUwSnjoX2bvdK"
+      },
+      "artists": [
+        {
+          "name": "King Vaudeville",
+          "url": "https://open.spotify.com/artist/1oZXZvudWk8Iej1P0VWzwS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205610,
+      "name": "On My Hands",
+      "url": "https://open.spotify.com/track/5In3Mo6cEy9gCVzpcCTolv"
     },
     {
       "album": {
@@ -3176,7 +3230,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 260133,
       "name": "Shooting Stars",
       "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
@@ -3610,7 +3664,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 253870,
       "name": "Testify - Radio Edit",
       "url": "https://open.spotify.com/track/0AMQlLoWnXwD9rwe852cUM"

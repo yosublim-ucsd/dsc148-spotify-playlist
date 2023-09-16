@@ -386,10 +386,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 177428,
       "name": "Do Anything",
       "url": "https://open.spotify.com/track/0RPWvTmpHCKp46eyjVZCWm"
+    },
+    {
+      "album": {
+        "name": "Do Anything",
+        "url": "https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a"
+      },
+      "artists": [
+        {
+          "name": "Lion Rezz",
+          "url": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Do Anything",
+      "url": "https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa"
     },
     {
       "album": {

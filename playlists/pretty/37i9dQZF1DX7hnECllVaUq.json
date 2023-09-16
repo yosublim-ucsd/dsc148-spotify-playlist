@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Josh Ross",
-  "num_followers": 33310,
+  "num_followers": 33453,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTQxMDhlZmM2MGIxNzZmMDg4ZjA2NjIzYzZhYTUzZjAxYWY5YmYy",
+  "snapshot_id": "MCw5ODU1MGM4MTAwMTc5YTA5NTg1ODk3Y2RiNjc1YTBlNjgzOTFhOTU2",
   "tracks": [
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "The Lemonade Stand",
-        "url": "https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI"
+        "name": "My Mind's Projection",
+        "url": "https://open.spotify.com/album/7fSZE2xLU6bZ1iobxww9WP"
       },
       "artists": [
         {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
         }
       ],
-      "duration_ms": 226626,
-      "name": "Somebody's Daughter",
-      "url": "https://open.spotify.com/track/212JC1fIZDB2Wp5B16eZON"
+      "duration_ms": 221025,
+      "name": "Give Me Tonight",
+      "url": "https://open.spotify.com/track/5trK9XKx6v9zoAOlaDJ6Hr"
     }
   ],
   "unique_name": "Country Worldwide",

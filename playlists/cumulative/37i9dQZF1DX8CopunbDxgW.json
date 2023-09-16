@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Tizrah",
+  "description": "The best indie dance tracks of the moment. Cover: NEIL FRANCES",
   "name": "metropolis",
   "tracks": [
     {
@@ -414,6 +414,28 @@
       "duration_ms": 293500,
       "name": "Above All Else",
       "url": "https://open.spotify.com/track/3lJOhlC7WMEOfldrkTLpIX"
+    },
+    {
+      "album": {
+        "name": "Aching (On A High)",
+        "url": "https://open.spotify.com/album/2EDH5qCIf3XIzMyR6FIPrN"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "lia",
+          "url": "https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219761,
+      "name": "Aching (On A High)",
+      "url": "https://open.spotify.com/track/0nLo87MKJJUumGJqNAHACx"
     },
     {
       "album": {
@@ -2544,10 +2566,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 174020,
       "name": "Candle Flame",
       "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
+    },
+    {
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174020,
+      "name": "Candle Flame",
+      "url": "https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf"
     },
     {
       "album": {
@@ -3098,6 +3142,28 @@
       "duration_ms": 238802,
       "name": "Come Back Around",
       "url": "https://open.spotify.com/track/1hhWagrLPSV6F0Y4YWULfT"
+    },
+    {
+      "album": {
+        "name": "Come Too Far",
+        "url": "https://open.spotify.com/album/5kQdCoqBJfEnCPjRoFIxQl"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Paul Brenning",
+          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253233,
+      "name": "Come Too Far",
+      "url": "https://open.spotify.com/track/3otrrqE6sLMxpbr7QRh5ak"
     },
     {
       "album": {
@@ -5922,10 +5988,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 169591,
       "name": "Ghost On The Mend - veggi remix",
       "url": "https://open.spotify.com/track/5c3sjghivRZjMd0nvSGPUR"
+    },
+    {
+      "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/3fW5jXxfLXPYMCc4vJqitm"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245372,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/6Dr2wJDKpLYLK6eJBxU3Q7"
     },
     {
       "album": {
@@ -7204,7 +7288,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 252962,
       "name": "Humans - Elevated Mix",
       "url": "https://open.spotify.com/track/4vCrLKs6M10bLbMFRXEbJ6"
@@ -8170,7 +8254,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 178138,
       "name": "Is That How You Feel It",
       "url": "https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4"
@@ -8276,6 +8360,24 @@
       "duration_ms": 186275,
       "name": "It's Ok (It's Not Ok)",
       "url": "https://open.spotify.com/track/5I1pqWYuCCNZxmqCO2gGuu"
+    },
+    {
+      "album": {
+        "name": "ITALODISCO (English Version)",
+        "url": "https://open.spotify.com/album/43pxODk9GVXEEnXfzzNLRu"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199512,
+      "name": "ITALODISCO - English Version",
+      "url": "https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ"
     },
     {
       "album": {
@@ -8520,6 +8622,24 @@
       "duration_ms": 198805,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "album": {
+        "name": "Jupiter I.",
+        "url": "https://open.spotify.com/album/3D7B39pnYJKpc9wi2ZD0C8"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Jupiter I.",
+      "url": "https://open.spotify.com/track/494TCdCW0A02emykMUeiJZ"
     },
     {
       "album": {
@@ -10950,7 +11070,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 243091,
       "name": "Mr. Lee",
       "url": "https://open.spotify.com/track/26mNpF3ivmt2iVNP1dslUm"
@@ -11540,7 +11660,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 145945,
       "name": "NoNewNews!!! - Ben Hixon Remix",
       "url": "https://open.spotify.com/track/6aquBTxK51IypBHnGoJDTJ"
@@ -11682,7 +11802,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 190414,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2wgdQxxB6k5WdDE6U0Dkxl"
@@ -14503,6 +14623,32 @@
     },
     {
       "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235265,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
+    },
+    {
+      "album": {
         "name": "More Content",
         "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
       },
@@ -14706,7 +14852,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 215056,
       "name": "Star Swing",
       "url": "https://open.spotify.com/track/3aZI3XL8QULBURRSg2O7rr"
@@ -14746,7 +14892,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 243521,
       "name": "Staring In The Dark",
       "url": "https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2"
@@ -15304,6 +15450,24 @@
       "duration_ms": 225230,
       "name": "Swerve - Radio Edit",
       "url": "https://open.spotify.com/track/2uvcdhxrXGA7A4kEVbDmWW"
+    },
+    {
+      "album": {
+        "name": "SWIM",
+        "url": "https://open.spotify.com/album/76yrE6R1C84sv00YnZRoUi"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/7pAEVIFvGRMACtxmVN7F7a"
     },
     {
       "album": {
@@ -17270,6 +17434,28 @@
       "duration_ms": 239668,
       "name": "Wait For It",
       "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
+    },
+    {
+      "album": {
+        "name": "Wait For Me",
+        "url": "https://open.spotify.com/album/7uA6fHtMry9rLMil5bstUE"
+      },
+      "artists": [
+        {
+          "name": "robrobrob",
+          "url": "https://open.spotify.com/artist/7D7PELaOpXuUjEIX2Elkc2"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235861,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/6cYoKxvw88rUQ4FEKWcaDI"
     },
     {
       "album": {

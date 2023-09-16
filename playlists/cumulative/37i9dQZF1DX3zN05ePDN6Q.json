@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Zudizilla",
+  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Shaodree",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -1858,6 +1858,28 @@
       "duration_ms": 73865,
       "name": "Depress\u00e3o Freestyle",
       "url": "https://open.spotify.com/track/1yeYXm6mMGgo2EVmZ1w39r"
+    },
+    {
+      "album": {
+        "name": "Derrubando Mitos",
+        "url": "https://open.spotify.com/album/46RozmpoySOwGPlZQvqis5"
+      },
+      "artists": [
+        {
+          "name": "Cabes",
+          "url": "https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW"
+        },
+        {
+          "name": "Dj Novset",
+          "url": "https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190112,
+      "name": "Derrubando Mitos",
+      "url": "https://open.spotify.com/track/778sAqxvkuDcradPcXkMq9"
     },
     {
       "album": {
@@ -3800,7 +3822,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 145116,
       "name": "Melhor Momento",
       "url": "https://open.spotify.com/track/13kUFfHbLaRoiN2913697v"
@@ -4088,6 +4110,32 @@
       "duration_ms": 156943,
       "name": "Na Melhor",
       "url": "https://open.spotify.com/track/6Am01smyUKRn1NOYlkDnAv"
+    },
+    {
+      "album": {
+        "name": "Ni Hao",
+        "url": "https://open.spotify.com/album/5SLYeKCZufLvoi9EkeffQe"
+      },
+      "artists": [
+        {
+          "name": "Shaodree",
+          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
+        },
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Gioprod",
+          "url": "https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134425,
+      "name": "Ni Hao",
+      "url": "https://open.spotify.com/track/0GEPTrEfY4KE7oA3JiUA1J"
     },
     {
       "album": {
@@ -4640,7 +4688,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 152000,
       "name": "O MELHOR BOOM BAP DO ANO",
       "url": "https://open.spotify.com/track/0G7Ox7Pp9uBlB29hj1TeMI"
@@ -5777,6 +5825,28 @@
     },
     {
       "album": {
+        "name": "R\u00e1",
+        "url": "https://open.spotify.com/album/7mhpTQQaQYXoyGnJ2Y9wou"
+      },
+      "artists": [
+        {
+          "name": "Matheus Coringa",
+          "url": "https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF"
+        },
+        {
+          "name": "Noshugah",
+          "url": "https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "R\u00e1",
+      "url": "https://open.spotify.com/track/5Wzpu9dB5eQgufx8sgGVJ6"
+    },
+    {
+      "album": {
         "name": "Salmo 151",
         "url": "https://open.spotify.com/album/04Eq1H6m6tspYXixUL3nJo"
       },
@@ -6613,6 +6683,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Deus",
+        "url": "https://open.spotify.com/album/13L5BLI0Z340LZbIFPSuKw"
+      },
+      "artists": [
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221860,
+      "name": "S\u00f3 Deus",
+      "url": "https://open.spotify.com/track/6n7aenCg07XnW4WP9pdTk8"
+    },
+    {
+      "album": {
         "name": "S\u00d3 VOC\u00ca SABE",
         "url": "https://open.spotify.com/album/0PMUH0A4KGYTcLRL0CfeFC"
       },
@@ -6776,7 +6868,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 306866,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/5bBufICVb5pVC5zp9GqEHl"
@@ -7170,7 +7262,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 179029,
       "name": "Veja Bem",
       "url": "https://open.spotify.com/track/5IcaGHP7FjV7NQtqVfOLoZ"

@@ -1,12 +1,12 @@
 {
-  "description": "Rap from hell. Cover: $uicideboy$",
-  "num_followers": 525057,
+  "description": "Rap from hell. Cover: City Morgue",
+  "num_followers": 525585,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGQ3NDE3ZDY3YTYxMGMyM2MzOGQ2NTRkM2RhMWUwNGFiY2I1MDQ2",
+  "snapshot_id": "MCxmNzc1YTE5ZDdkNTRlOGM1ZTE0Y2FjNDg4YjYzNzEyM2ViNzUyMzUx",
   "tracks": [
     {
       "added_at": "2023-08-29 17:56:43",
@@ -23,6 +23,30 @@
       "duration_ms": 180774,
       "name": "Not Even Ghosts Are This Empty",
       "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "My Bloody America",
+        "url": "https://open.spotify.com/album/6yRhGO6i0w7qlIdpOnToPI"
+      },
+      "artists": [
+        {
+          "name": "City Morgue",
+          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
+        },
+        {
+          "name": "ZillaKami",
+          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
+        },
+        {
+          "name": "SosMula",
+          "url": "https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc"
+        }
+      ],
+      "duration_ms": 107012,
+      "name": "Sauna",
+      "url": "https://open.spotify.com/track/0Z9mdR3xaZOkhidVO4A1MF"
     },
     {
       "added_at": "2023-08-29 17:51:35",
@@ -43,30 +67,6 @@
       "duration_ms": 133333,
       "name": "POPTHATRUNK",
       "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "paranoia agent",
-        "url": "https://open.spotify.com/album/6fLqeT8Z5Vkq84Kfw0o8I7"
-      },
-      "artists": [
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        },
-        {
-          "name": "Lil Darkie",
-          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
-        },
-        {
-          "name": "KAMAARA",
-          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
-        }
-      ],
-      "duration_ms": 177831,
-      "name": "paranoia agent",
-      "url": "https://open.spotify.com/track/2xu7cNiSsc4MbJRuzQxNxb"
     },
     {
       "added_at": "2023-08-29 17:51:35",
@@ -97,20 +97,48 @@
       "url": "https://open.spotify.com/track/1iSNk5qM7aScyTL3508KQ6"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
-        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
+        "name": "COWBELL WARRIORS! (feat. Ski Mask The Slump God)",
+        "url": "https://open.spotify.com/album/2PPp5gJJHW3AfLxyjaBlG7"
       },
       "artists": [
         {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
         }
       ],
-      "duration_ms": 133920,
-      "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
-      "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIORS! (feat. Ski Mask The Slump God)",
+      "url": "https://open.spotify.com/track/1ExIc6AQIFUvIhCuomEwrU"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "paranoia agent",
+        "url": "https://open.spotify.com/album/6fLqeT8Z5Vkq84Kfw0o8I7"
+      },
+      "artists": [
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        },
+        {
+          "name": "KAMAARA",
+          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
+        }
+      ],
+      "duration_ms": 177831,
+      "name": "paranoia agent",
+      "url": "https://open.spotify.com/track/2xu7cNiSsc4MbJRuzQxNxb"
     },
     {
       "added_at": "2023-08-29 17:51:35",
@@ -133,6 +161,26 @@
       "url": "https://open.spotify.com/track/2xWJfldVUKz8crbk24aYsP"
     },
     {
+      "added_at": "2023-05-15 13:20:26",
+      "album": {
+        "name": "YIN YANG TAPES: Summer Season (1989-1990)",
+        "url": "https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 277338,
+      "name": "Bloody 98 (Feat. Ghostemane)",
+      "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
+    },
+    {
       "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "KEVLAR MONEY BAGS",
@@ -151,6 +199,58 @@
       "duration_ms": 174193,
       "name": "Garden Tomb",
       "url": "https://open.spotify.com/track/1VEcAxXahWTAr6lgQNOfMh"
+    },
+    {
+      "added_at": "2023-06-30 07:33:00",
+      "album": {
+        "name": "CODE MISTAKE",
+        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 165303,
+      "name": "CODE MISTAKE",
+      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Speaker Full of Phonk",
+        "url": "https://open.spotify.com/album/1GYQzDHxvS6RDTooYGfo5u"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "duration_ms": 113999,
+      "name": "Speaker Full of Phonk",
+      "url": "https://open.spotify.com/track/5CxT2SFsvdYHh83ih8PZmo"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Pac Ave",
+        "url": "https://open.spotify.com/album/1WEJda4yBPvseuFLeY0Pxc"
+      },
+      "artists": [
+        {
+          "name": "Diggy Graves",
+          "url": "https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t"
+        }
+      ],
+      "duration_ms": 210620,
+      "name": "Pac Ave",
+      "url": "https://open.spotify.com/track/5P5hIlnNaOtv29EGpMfQfX"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -173,46 +273,10 @@
       "url": "https://open.spotify.com/track/6nyK8ySEyC7ZNu75vbCTkQ"
     },
     {
-      "added_at": "2023-08-04 04:00:00",
+      "added_at": "2023-05-19 12:29:16",
       "album": {
-        "name": "Speaker Full of Phonk",
-        "url": "https://open.spotify.com/album/1GYQzDHxvS6RDTooYGfo5u"
-      },
-      "artists": [
-        {
-          "name": "MAKAVELIGODD",
-          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
-        }
-      ],
-      "duration_ms": 113999,
-      "name": "Speaker Full of Phonk",
-      "url": "https://open.spotify.com/track/5CxT2SFsvdYHh83ih8PZmo"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "COWBELL WARRIORS! (feat. Ski Mask The Slump God)",
-        "url": "https://open.spotify.com/album/2PPp5gJJHW3AfLxyjaBlG7"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        },
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIORS! (feat. Ski Mask The Slump God)",
-      "url": "https://open.spotify.com/track/1ExIc6AQIFUvIhCuomEwrU"
-    },
-    {
-      "added_at": "2023-05-15 13:20:26",
-      "album": {
-        "name": "YIN YANG TAPES: Summer Season (1989-1990)",
-        "url": "https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f"
+        "name": "YIN YANG TAPES: Fall Season (1989-1990)",
+        "url": "https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB"
       },
       "artists": [
         {
@@ -220,33 +284,13 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         },
         {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 277338,
-      "name": "Bloody 98 (Feat. Ghostemane)",
-      "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
-    },
-    {
-      "added_at": "2023-06-30 07:33:00",
-      "album": {
-        "name": "CODE MISTAKE",
-        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 165303,
-      "name": "CODE MISTAKE",
-      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+      "duration_ms": 236032,
+      "name": "Provolone & Heroin (Feat. Freddie Dredd)",
+      "url": "https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -355,6 +399,22 @@
       "duration_ms": 122064,
       "name": "Ivory Coast Cocktail",
       "url": "https://open.spotify.com/track/7rJ4JkJORGMTnGFE2hd7u3"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Parrot Selector",
+        "url": "https://open.spotify.com/album/0cPB1nqkpcjePZRNKRN27s"
+      },
+      "artists": [
+        {
+          "name": "Istasha",
+          "url": "https://open.spotify.com/artist/5D8TBtxnP5GZm9wUBQ8OTc"
+        }
+      ],
+      "duration_ms": 90909,
+      "name": "Parrot Selector",
+      "url": "https://open.spotify.com/track/07B7mjXBUUFPidsaAmlmJD"
     },
     {
       "added_at": "2023-08-29 17:51:35",
@@ -557,26 +617,6 @@
       "url": "https://open.spotify.com/track/4jSSC6071YIpaZ2y7hBCXV"
     },
     {
-      "added_at": "2023-05-19 12:29:16",
-      "album": {
-        "name": "YIN YANG TAPES: Fall Season (1989-1990)",
-        "url": "https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 236032,
-      "name": "Provolone & Heroin (Feat. Freddie Dredd)",
-      "url": "https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "JUNK BUNK FREESTYLE",
@@ -603,6 +643,22 @@
       "duration_ms": 102008,
       "name": "JUNK BUNK FREESTYLE",
       "url": "https://open.spotify.com/track/03SH0B5uTEeiOqGQg3TXoX"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "DESIRE",
+        "url": "https://open.spotify.com/album/4HRlH8H0ujyz46QqdEBI51"
+      },
+      "artists": [
+        {
+          "name": "LITTLE 4N",
+          "url": "https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd"
+        }
+      ],
+      "duration_ms": 141253,
+      "name": "DESIRE",
+      "url": "https://open.spotify.com/track/25sabs7iC9eESyOpf0b6CY"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -785,6 +841,26 @@
       "url": "https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH"
     },
     {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/24ATrBdz0bnhEeyjOioPL8"
+      },
+      "artists": [
+        {
+          "name": "Sect Unit",
+          "url": "https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju"
+        },
+        {
+          "name": "Cardeair\u00e9 Latrelle",
+          "url": "https://open.spotify.com/artist/43f5i9c2rhXrHmJaBt6bmG"
+        }
+      ],
+      "duration_ms": 128780,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/2kBkseTPx3JksWLmfSAtTL"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Easter Pink",
@@ -953,22 +1029,6 @@
       "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
     },
     {
-      "added_at": "2023-05-24 13:55:43",
-      "album": {
-        "name": "YIN YANG TAPES: Fall Season (1989-1990)",
-        "url": "https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 215589,
-      "name": "whatwhat",
-      "url": "https://open.spotify.com/track/6EJrDOvMvJVeEH6AiFKOEL"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "slurpy",
@@ -1097,22 +1157,6 @@
       "url": "https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL"
     },
     {
-      "added_at": "2023-06-02 16:09:00",
-      "album": {
-        "name": "STORM",
-        "url": "https://open.spotify.com/album/6xn0UHdx3teWPJcblsCeLl"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "STORM",
-      "url": "https://open.spotify.com/track/1hLu8lAkeGXsvbQ7KjLNB7"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Jones Peak",
@@ -1131,26 +1175,6 @@
       "duration_ms": 108512,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/6AYJKBH8ndAzqcT2IBJ15o"
-    },
-    {
-      "added_at": "2023-02-16 20:24:20",
-      "album": {
-        "name": "Big Shot Cream Soda",
-        "url": "https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Big Shot Cream Soda",
-      "url": "https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56"
     },
     {
       "added_at": "2023-08-29 17:51:35",
@@ -1701,22 +1725,6 @@
       "url": "https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "GODZILLA!",
-        "url": "https://open.spotify.com/album/6ywbJLf1EKfeg3ebGnh9SB"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "GODZILLA!",
-      "url": "https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "from up on silent hill",
@@ -1839,26 +1847,6 @@
       "duration_ms": 142825,
       "name": "SCARING THE HOES",
       "url": "https://open.spotify.com/track/5L0QxWi5Jo4gjw4yHR0kP1"
-    },
-    {
-      "added_at": "2023-02-13 20:43:12",
-      "album": {
-        "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
-        "url": "https://open.spotify.com/album/4KkI8MEM9ySiNs5PWgm5Mq"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        },
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 140877,
-      "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
-      "url": "https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH"
     },
     {
       "added_at": "2022-10-14 04:47:00",
@@ -2043,38 +2031,6 @@
       "duration_ms": 163307,
       "name": "GOD MODE!",
       "url": "https://open.spotify.com/track/61ONKytCePkZCWzfipmPhy"
-    },
-    {
-      "added_at": "2022-11-25 05:02:00",
-      "album": {
-        "name": "NEXTBOT!",
-        "url": "https://open.spotify.com/album/5O5zv32363BkvzctGwLqyR"
-      },
-      "artists": [
-        {
-          "name": "HAARPER",
-          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
-        }
-      ],
-      "duration_ms": 90625,
-      "name": "NEXTBOT!",
-      "url": "https://open.spotify.com/track/0wohSgJuZJvQoMV7gMpMrT"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "BALL LIKE THIS",
-        "url": "https://open.spotify.com/album/3uqHaUjyxgXQb6FD4w4LFQ"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "BALL LIKE THIS",
-      "url": "https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x"
     }
   ],
   "unique_name": "TIRADE",

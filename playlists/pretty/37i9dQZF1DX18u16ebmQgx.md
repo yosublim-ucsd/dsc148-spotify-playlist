@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,870 likes - 65 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,971 likes - 65 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 2 | [Ese Día \- Versión Sinfónica](https://open.spotify.com/track/5FmxyYJlL2VA2Bc0lN6xrG) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Niche Sinfónico](https://open.spotify.com/album/7F3HcqByo2nroGMBTzdb7w) | 6:16 |
 | 3 | [Antioqueña](https://open.spotify.com/track/0q9gWhv4K5GKzkJW80PYgS) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Antioqueña](https://open.spotify.com/album/6XC3sy2ZJvlDj6ezJLx8eb) | 4:29 |
 | 4 | [Hagamos Lo Que Diga el Corazón \- Versión Sinfónica](https://open.spotify.com/track/4hylk17Bo5u7qK7FfjNz7v) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Hagamos Lo Que Diga el Corazón \(Versión Sinfónica\)](https://open.spotify.com/album/4oQHXfUffQUYqRgb6zc4A2) | 5:38 |
-| 5 | [Logré Olvidar](https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Soy la Generación](https://open.spotify.com/album/68OC8H6MlIrTIrOdTqO2tt) | 4:27 |
-| 6 | [Búscame](https://open.spotify.com/track/1FL6Q7hHgcdeTqGWvvVZYE) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Búscame](https://open.spotify.com/album/0xzD4fqCgoO8PJ7mvVtJ7K) | 4:17 |
-| 7 | [Te Necesito](https://open.spotify.com/track/4oNLeMYQUM4qfmZvfrToA0) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Dilema](https://open.spotify.com/album/7174cMsFU58E6JGbi3XOFK) | 4:15 |
-| 8 | [La Única](https://open.spotify.com/track/4ecq0bpcAfBzdAwA20Sy5M) | [Juan Carlos Ensamble](https://open.spotify.com/artist/2D6mQmDTdaLcA9BZytb4yk) | [La Única](https://open.spotify.com/album/1SCjBabL3glZMAXCwqC5W7) | 2:57 |
+| 5 | [Margie](https://open.spotify.com/track/4ALuTupX7toAc7rZRgQGaD) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Margie](https://open.spotify.com/album/0A9INqN4aDvTOOd7BwrgWE) | 3:31 |
+| 6 | [Logré Olvidar](https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Soy la Generación](https://open.spotify.com/album/68OC8H6MlIrTIrOdTqO2tt) | 4:27 |
+| 7 | [Si Yo Te Dije](https://open.spotify.com/track/3VpMDXyvUuBvlK49u2sKeE) | [Aguanile](https://open.spotify.com/artist/1hdKuH2r5ZyarRGZC6vsdA), [David Zahan](https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn) | [Si Yo Te Dije](https://open.spotify.com/album/1UhSwKJnp9xYkdCvsBa7cU) | 4:07 |
+| 8 | [Búscame](https://open.spotify.com/track/1FL6Q7hHgcdeTqGWvvVZYE) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Búscame](https://open.spotify.com/album/0xzD4fqCgoO8PJ7mvVtJ7K) | 4:17 |
 | 9 | [Tocando el Cielo Con las Manos](https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4) | 4:47 |
 | 10 | [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 |
 | 11 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 64 | [Maria Canela](https://open.spotify.com/track/2AzJDIs4hDFvARTcTRGj0a) | [Cesar Mora](https://open.spotify.com/artist/0xR68AyQA5b3scD6PB8RPS) | [Hacerlo Bien](https://open.spotify.com/album/2hBVT5RuHoYHdfBAhxhPdd) | 5:02 |
 | 65 | [Barranquillero Arrebatao](https://open.spotify.com/track/1sRY0Zez8RbxqsxzEWjNLg) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Grandes Exitos de Salsa, Vol\. 2](https://open.spotify.com/album/2htqg9e6AGwnIoVc0kceDU) | 4:20 |
 
-Snapshot ID: `MCw0N2UwYTM2MGU0YThhMDE3NjNhMDIwNGMzNzYxNWMxYzBjOThmNzBi`
+Snapshot ID: `MCxjYzViYWU3ZmEyMjVlMGQ4NTFiYjFmMGJhOGRhNGEyYzY5ZGQ2Y2Ux`

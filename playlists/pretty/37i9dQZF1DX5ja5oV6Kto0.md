@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=bei5IcQ0Qe\-2NnN2LjyV6g"> Odeal </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,115 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,152 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 39 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 |
 | 40 | [Where Dem Dey](https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Where Dem Dey](https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d) | 3:02 |
 | 41 | [Need You](https://open.spotify.com/track/1LuBz3QaRPSXBdIwtcjdqY) | [Dusten Truce fka D\-Truce](https://open.spotify.com/artist/4RVAC7ldsfgOf2lybypHdv), [Emmeno](https://open.spotify.com/artist/1O3XebVqhYtCfgRFJV8jxF), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Smoke Break Vol.2](https://open.spotify.com/album/3hcpu050xbDERmszMMfmF6) | 3:27 |
-| 42 | [Hermoine Granger](https://open.spotify.com/track/5BNrXOM7QfIfqzaKCoGpxl) | [Chyme](https://open.spotify.com/artist/7yPbWIsvxxsKp3yrJPtlLO) | [Hermoine Granger](https://open.spotify.com/album/0RTB7r4L2kr8tKcIPXz1U1) | 2:54 |
+| 42 | [Hermione Granger](https://open.spotify.com/track/5BNrXOM7QfIfqzaKCoGpxl) | [Chyme](https://open.spotify.com/artist/7yPbWIsvxxsKp3yrJPtlLO) | [Hermione Granger](https://open.spotify.com/album/0RTB7r4L2kr8tKcIPXz1U1) | 2:54 |
 | 43 | [On My Life](https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [On My Life](https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ) | 2:05 |
 | 44 | [Wetin Dey](https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 2:26 |
 | 45 | [Reckless \(feat\. AYLØ\)](https://open.spotify.com/track/66Edhig6kHzI7LoyWxS5qy) | [H.O.M.A](https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Reckless \(feat\. AYLØ\)](https://open.spotify.com/album/1b8LywlMLAXiIbucnvoLS9) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [New Emotions](https://open.spotify.com/track/092Owc3EItJ95apRAI8Jyr) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [New Emotions](https://open.spotify.com/album/2dJojtafQIHqOt11o0r6zY) | 2:10 |
 | 80 | [Sober](https://open.spotify.com/track/2HhiRTcthQdlrKvYBcnVQ0) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Sober](https://open.spotify.com/album/4G6vqNIAXxDABfUqwHkOu6) | 3:05 |
 
-Snapshot ID: `MCxjNjliM2Y4OGUzYjE2ODhkYjFkMTkzOTM1MWViZTJjNWFiOTk1Y2Vi`
+Snapshot ID: `MCxkMzcyZTk5NzQyZGYzNWQ3NTJmMDdkOGY3MjU1MzNkYTBhNjcxNTE2`

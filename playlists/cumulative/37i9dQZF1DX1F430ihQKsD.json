@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: CRi, Half Moon Run",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Evelyne Brochu",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -24,10 +24,36 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 138855,
       "name": "+1",
       "url": "https://open.spotify.com/track/5GyNaOBpxws6Kk6v51OLCE"
+    },
+    {
+      "album": {
+        "name": "Magie \u00e0 minuit",
+        "url": "https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        },
+        {
+          "name": "Meggie Lennon",
+          "url": "https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq"
+        },
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138855,
+      "name": "+1 (feat. Meggie Lennon & Virginie B)",
+      "url": "https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS"
     },
     {
       "album": {
@@ -108,7 +134,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 168228,
       "name": "[PNJ]",
       "url": "https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw"
@@ -1162,7 +1188,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 272322,
       "name": "Cin\u00e9ma Paradiso",
       "url": "https://open.spotify.com/track/0KcAnoBSjTRcyVI143hoJi"
@@ -1347,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Comedy",
+        "url": "https://open.spotify.com/album/0cy67dLDF9i8DGjAEUS1Zj"
+      },
+      "artists": [
+        {
+          "name": "Sasha Cay",
+          "url": "https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244464,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/0GcV1G5sLpOUkOIfPvOo45"
+    },
+    {
+      "album": {
         "name": "Plaisirs & terreurs de la vie domestique",
         "url": "https://open.spotify.com/album/6EV5e75ret5X9pHNkbeKv8"
       },
@@ -1366,6 +1410,24 @@
       "duration_ms": 177897,
       "name": "Comme au cin\u00e9ma",
       "url": "https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj"
+    },
+    {
+      "album": {
+        "name": "Cool et branch\u00e9e",
+        "url": "https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177335,
+      "name": "Cool et branch\u00e9e",
+      "url": "https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr"
     },
     {
       "album": {
@@ -3197,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "L'Habitude",
+        "url": "https://open.spotify.com/album/1EIrvNHQ1MM1nI5N1zMicz"
+      },
+      "artists": [
+        {
+          "name": "Rau_Ze",
+          "url": "https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178720,
+      "name": "L'Habitude",
+      "url": "https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk"
+    },
+    {
+      "album": {
         "name": "L'\u00e9norme chien tr\u00e8s gentil",
         "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
       },
@@ -4245,6 +4325,24 @@
     },
     {
       "album": {
+        "name": "Sade Sati (Deluxe)",
+        "url": "https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K"
+      },
+      "artists": [
+        {
+          "name": "Paupi\u00e8re",
+          "url": "https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208754,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6"
+    },
+    {
+      "album": {
         "name": "Sade Sati Deluxe",
         "url": "https://open.spotify.com/album/4tkmcZ4KlP5bSM64k5xFUf"
       },
@@ -4256,7 +4354,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 208754,
       "name": "Nue",
       "url": "https://open.spotify.com/track/7wI0SPXLQ7sUFfIJ7PkLxk"
@@ -4628,7 +4726,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 190413,
       "name": "Paris",
       "url": "https://open.spotify.com/track/381Ol9G2ibkIausZhbr6aX"
@@ -5256,6 +5354,24 @@
       "duration_ms": 152577,
       "name": "Quand je veux je dors",
       "url": "https://open.spotify.com/track/2KXPeTD74nhijWrY9Qy539"
+    },
+    {
+      "album": {
+        "name": "Rappelle-moi ton nom",
+        "url": "https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9drik St-Onge",
+          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209154,
+      "name": "Rappelle-moi ton nom",
+      "url": "https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW"
     },
     {
       "album": {
@@ -6386,7 +6502,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 257420,
       "name": "Un jour \u00e0 la fois",
       "url": "https://open.spotify.com/track/4qqmNS35Y4cPKxBHxT2KTj"
@@ -6422,7 +6538,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 205312,
       "name": "Une autre vie",
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
@@ -6834,7 +6950,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 211956,
       "name": "Zombie Cry",
       "url": "https://open.spotify.com/track/1Okam83qB6OKbfoDleeET4"

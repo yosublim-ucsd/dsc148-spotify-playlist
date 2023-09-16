@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Steves J\. Bryan
 
-207 songs - 12 hr 19 min
+208 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Tap \- Remix](https://open.spotify.com/track/1Z9eh56VkEjGSccQLIK4E8) | [Dro X Yani](https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Tap \(Remix\)](https://open.spotify.com/album/49dfWPAP2WdYwYC6xIyViU) | 2:53 | 2021-12-06 | 2023-02-18 |
 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 | 2022-09-30 |  |
 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 | 2022-04-28 |  |
-| [Tet Ou Wo](https://open.spotify.com/track/6dFDWlG7CChRzolv1x0URN) | [Dadi Belvokal](https://open.spotify.com/artist/7acxZvRU3rgDZGcZmbRtHq) | [Replay](https://open.spotify.com/album/6V0J1WLHrN3BuuP2YOD7ND) | 2:53 | 2022-05-12 |  |
+| [Tet Ou Wo](https://open.spotify.com/track/6dFDWlG7CChRzolv1x0URN) | [Dadi Belvokal](https://open.spotify.com/artist/7acxZvRU3rgDZGcZmbRtHq) | [Replay](https://open.spotify.com/album/6V0J1WLHrN3BuuP2YOD7ND) | 2:53 | 2022-05-12 | 2023-09-16 |
 | [Teteo](https://open.spotify.com/track/5CFMdA4qLFi8Ut75tnSvNx) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Team madada](https://open.spotify.com/artist/77QFn6E0KVtFGZsjVbDoVv), [T\-Babas](https://open.spotify.com/artist/4D3zaRHdSmUKObPuNkZbi0) | [Teteo](https://open.spotify.com/album/26vdwpxbZVDDLVSGQUspXx) | 3:46 | 2021-12-06 | 2023-02-18 |
 | [The Stellar Ray Theory](https://open.spotify.com/track/51Rs7xpi3HxrqvN1bI0i5w) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Pray For Haiti](https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO) | 3:14 | 2021-12-06 | 2023-02-18 |
 | [Thug Love](https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Thug Love](https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5) | 3:08 | 2023-03-17 |  |
@@ -209,6 +209,7 @@
 | [Vex Oh \(feat\. Eight9FLY\)](https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:42 | 2021-12-06 |  |
 | [Veye Priye](https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Map Rap Ak Ke Kontan](https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1) | 2:18 | 2023-05-08 |  |
 | [Water](https://open.spotify.com/track/6BiDHHaky7B7TaxMsY897N) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Water](https://open.spotify.com/album/2yE4JE8GL7oMZkJqqvyiG5) | 1:52 | 2021-12-06 | 2022-05-13 |
+| [Way Too Nice](https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR) | [Eyo\-E](https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB) | [Way Too Nice](https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65) | 2:05 | 2023-09-01 |  |
 | [Welcome To Dinna](https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Welcome To Dinna](https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk) | 3:51 | 2023-03-17 |  |
 | [White Flower](https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [White Flower](https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW) | 2:24 | 2023-05-08 |  |
 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 | 2023-07-21 |  |

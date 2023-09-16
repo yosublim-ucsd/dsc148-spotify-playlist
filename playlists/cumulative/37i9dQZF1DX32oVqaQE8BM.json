@@ -6285,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "out to sea",
+        "url": "https://open.spotify.com/album/2ISmy0vWGQEwofWjLbITW6"
+      },
+      "artists": [
+        {
+          "name": "slowvibe",
+          "url": "https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "out to sea",
+      "url": "https://open.spotify.com/track/0nOwu86Ng6UtnnovLh9hpP"
+    },
+    {
+      "album": {
         "name": "Outlines",
         "url": "https://open.spotify.com/album/3nf6Yp27qmRCzusFEEgChh"
       },
@@ -7524,7 +7542,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 232875,
       "name": "Seva",
       "url": "https://open.spotify.com/track/5VafHfnsGU1wZA0QqdQ68q"

@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-384 songs - 23 hr 7 min
+385 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Needed](https://open.spotify.com/track/7uUYwH6moimJ0iQmHVW9Jq) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Needed](https://open.spotify.com/album/17hveC08PQdEHxFQRTMsOd) | 2:55 | 2023-02-20 |  |
 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 | 2020-12-18 | 2022-11-15 |
 | [New Song \(Psalm 40\)](https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [New Song \(Psalm 40\)](https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY) | 4:14 | 2020-12-18 | 2023-02-19 |
+| [Nicely](https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Nicely](https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC) | 2:50 | 2023-08-11 |  |
 | [No Height No Depth \- Live](https://open.spotify.com/track/0lcDv3jjwGTMDzA63ML2BZ) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [No Height No Depth \(Live\)](https://open.spotify.com/album/1RrxjsU3bsvORs3mD8HvFO) | 6:33 | 2023-02-19 | 2023-06-04 |
 | [No More Wasted Years](https://open.spotify.com/track/16ezlD3gIKOeY7hb2911Dm) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Nikki Holguin](https://open.spotify.com/artist/0al1p0MaMEwJmrbteVu3rw) | [No More Wasted Years](https://open.spotify.com/album/3HIwxeFNEU6MfZ5N7iK1EG) | 3:18 | 2023-04-07 | 2023-04-22 |
 | [No Name Higher](https://open.spotify.com/track/1TtHwXMFMn08FbV7xLOolu) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [No Name Higher](https://open.spotify.com/album/0OixCbdiXloh7UGgnY4f7n) | 4:48 | 2023-02-19 | 2023-06-07 |
@@ -379,7 +380,7 @@
 | [Won’t Settle](https://open.spotify.com/track/4IJoNuDNZlCJTCWHqm627s) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [CARISSA M.](https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6) | [Won’t Settle](https://open.spotify.com/album/0aN04XDOdQaanGUnvE9jrJ) | 4:23 | 2023-04-07 | 2023-07-06 |
 | [World Keeps Spinning](https://open.spotify.com/track/2p5VBF4NTxAIooKRCIMWYj) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [World Keeps Spinning](https://open.spotify.com/album/5FI4Yqy2KTTaijWo2QLg0U) | 5:11 | 2020-12-18 | 2022-07-24 |
 | [Worth It All](https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Worth It All](https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD) | 3:37 | 2020-12-18 | 2023-02-19 |
-| [Wounded Healer](https://open.spotify.com/track/4YsShNqQca2l7F0ycSpZXi) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Wounded Healer](https://open.spotify.com/album/0mdmYWwRjrZwnN6kWlVwFx) | 2:59 | 2023-02-19 |  |
+| [Wounded Healer](https://open.spotify.com/track/4YsShNqQca2l7F0ycSpZXi) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Wounded Healer](https://open.spotify.com/album/0mdmYWwRjrZwnN6kWlVwFx) | 2:59 | 2023-02-19 | 2023-09-16 |
 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 | 2020-12-18 | 2023-02-19 |
 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 | 2020-12-18 | 2023-02-19 |
 | [Yeshua](https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Yeshua](https://open.spotify.com/album/2B5iWGV0ji9uhIxmLGtwli) | 4:03 | 2023-04-07 |  |

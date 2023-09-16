@@ -302,7 +302,7 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 126538,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1F8o8OxsFFbgb3J0vWxE1B"
@@ -328,6 +328,28 @@
       "duration_ms": 126538,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3l8dpFJECmgLJK7gQtVL6p"
+    },
+    {
+      "album": {
+        "name": "Afloat Again",
+        "url": "https://open.spotify.com/album/6RYdXIfGEb4ZWhrnsZDVWV"
+      },
+      "artists": [
+        {
+          "name": "mell-\u00f8",
+          "url": "https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC"
+        },
+        {
+          "name": "Ambulo",
+          "url": "https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126538,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5oXjwRjndFqY393sAJhRLj"
     },
     {
       "album": {
@@ -368,10 +390,32 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 133333,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/0zdZeaDRFicceyjWsFNzlr"
+    },
+    {
+      "album": {
+        "name": "2 Am. Study Session",
+        "url": "https://open.spotify.com/album/3xSTkNRA1Qwb4aVQz6A4om"
+      },
+      "artists": [
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        },
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/11Mn0rg61SNbQR4A1ltwvi"
     },
     {
       "album": {
@@ -412,7 +456,7 @@
     {
       "album": {
         "name": "Contrasts",
-        "url": "https://open.spotify.com/album/7wDFM8dEj8csU071gXJmkH"
+        "url": "https://open.spotify.com/album/6OeWr8HGcl6JmYqJnUcHJI"
       },
       "artists": [
         {
@@ -423,6 +467,24 @@
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 144035,
+      "name": "Down River",
+      "url": "https://open.spotify.com/track/3tCMX0XUv00p20wVDJ2nup"
+    },
+    {
+      "album": {
+        "name": "Contrasts",
+        "url": "https://open.spotify.com/album/7wDFM8dEj8csU071gXJmkH"
+      },
+      "artists": [
+        {
+          "name": "dryhope",
+          "url": "https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
       "duration_ms": 144035,
       "name": "Down River",
       "url": "https://open.spotify.com/track/4U09TYIzR2k3oo3gXiknjm"
@@ -532,10 +594,32 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 89423,
       "name": "Edamame",
       "url": "https://open.spotify.com/track/1b4RrnJ3msQGsPbw46oGHU"
+    },
+    {
+      "album": {
+        "name": "Jiro Dreams",
+        "url": "https://open.spotify.com/album/4DHRLiWxggGVwKx3YHLMLe"
+      },
+      "artists": [
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89423,
+      "name": "Edamame",
+      "url": "https://open.spotify.com/track/65giuvf2ZoNEPOrza3eoXh"
     },
     {
       "album": {
@@ -1536,7 +1620,7 @@
     {
       "album": {
         "name": "Future Feelings",
-        "url": "https://open.spotify.com/album/3EaCf0e92oes8PobBFZWKt"
+        "url": "https://open.spotify.com/album/5KMJsVyHhAFkNkwLoA5LkP"
       },
       "artists": [
         {
@@ -1547,6 +1631,24 @@
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 111591,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/2KdD7cVzytAFBaBYRNvRvd"
+    },
+    {
+      "album": {
+        "name": "Future Feelings",
+        "url": "https://open.spotify.com/album/3EaCf0e92oes8PobBFZWKt"
+      },
+      "artists": [
+        {
+          "name": "SPEECHLESS",
+          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
       "duration_ms": 111591,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/2bCwu6RFRzpRY0UKOnrOmg"
@@ -1822,7 +1924,7 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 141986,
       "name": "Q&A",
       "url": "https://open.spotify.com/track/3C6DgWELixmDdOvbobjnhg"
@@ -1851,6 +1953,50 @@
     },
     {
       "album": {
+        "name": "Vondelpark",
+        "url": "https://open.spotify.com/album/7CvniaCDxUplsA1LP3vPNJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        },
+        {
+          "name": "Aylior",
+          "url": "https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141986,
+      "name": "Q&A",
+      "url": "https://open.spotify.com/track/5UMvMITAu5yD2xAI1LbhX4"
+    },
+    {
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3CI661fpNrglpYDW7Tj9gS"
+      },
+      "artists": [
+        {
+          "name": "Jhove",
+          "url": "https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA"
+        },
+        {
+          "name": "Flovry",
+          "url": "https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/0RkTklj3XHBTCTYg8tTJo0"
+    },
+    {
+      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/6rZmtp1Bc9n0rN20uqsLea"
       },
@@ -1866,7 +2012,7 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 158297,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/0SLqAM3Jv5vKpjskuRK4aw"
@@ -2144,7 +2290,7 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 135000,
       "name": "Spend Some Time",
       "url": "https://open.spotify.com/track/18qKtfOEGDpkEpB0pT42Lr"
@@ -2170,6 +2316,28 @@
       "duration_ms": 135000,
       "name": "Spend Some Time",
       "url": "https://open.spotify.com/track/1eWEyadL9ipQD1ap3IP19M"
+    },
+    {
+      "album": {
+        "name": "Perpetual",
+        "url": "https://open.spotify.com/album/1795cyVri6WTyt4LJqc1ch"
+      },
+      "artists": [
+        {
+          "name": "goosetaf",
+          "url": "https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs"
+        },
+        {
+          "name": "fantompower",
+          "url": "https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Spend Some Time",
+      "url": "https://open.spotify.com/track/5jLPJG03MyLGcK2kh8jW3N"
     },
     {
       "album": {
@@ -2260,7 +2428,7 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 124285,
       "name": "Stay the Same",
       "url": "https://open.spotify.com/track/2NsNSA5Vpa6mzqNzehjup0"
@@ -2289,6 +2457,28 @@
     },
     {
       "album": {
+        "name": "Afloat Again",
+        "url": "https://open.spotify.com/album/6RYdXIfGEb4ZWhrnsZDVWV"
+      },
+      "artists": [
+        {
+          "name": "mell-\u00f8",
+          "url": "https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC"
+        },
+        {
+          "name": "Ambulo",
+          "url": "https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Stay the Same",
+      "url": "https://open.spotify.com/track/6qZyY7d1C0Z1NByYxkUn3g"
+    },
+    {
+      "album": {
         "name": "Silent Mood",
         "url": "https://open.spotify.com/album/0SoFjdemCnu55YP2xi0qwX"
       },
@@ -2304,6 +2494,24 @@
       "duration_ms": 179624,
       "name": "Sugar Coat",
       "url": "https://open.spotify.com/track/3y7Mnqvvs6aor57tb8ik6p"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/0b9VM6B5aFfkt5Re9NwYNQ"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179624,
+      "name": "Sugar Coat",
+      "url": "https://open.spotify.com/track/1FLrGio1L49KBygUphpvYy"
     },
     {
       "album": {
@@ -2336,7 +2544,7 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 179624,
       "name": "Sugar Coat",
       "url": "https://open.spotify.com/track/4Q5SnRGF0wAluw3zY9NbYo"
@@ -2492,7 +2700,7 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 121690,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/0rPj7S7wJ7IF4PiUXlRRfY"
@@ -2514,6 +2722,24 @@
       "duration_ms": 121690,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/3jJCljhwWE6w5lOUWAxI7c"
+    },
+    {
+      "album": {
+        "name": "Perpetual",
+        "url": "https://open.spotify.com/album/1795cyVri6WTyt4LJqc1ch"
+      },
+      "artists": [
+        {
+          "name": "goosetaf",
+          "url": "https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/3mvDnMzBP6NCh5py6xLhQV"
     },
     {
       "album": {
@@ -2624,10 +2850,32 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 120000,
       "name": "Vondelpark",
       "url": "https://open.spotify.com/track/2eZ1y3eY02Twb00rYOsUhr"
+    },
+    {
+      "album": {
+        "name": "Vondelpark",
+        "url": "https://open.spotify.com/album/7CvniaCDxUplsA1LP3vPNJ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        },
+        {
+          "name": "Aylior",
+          "url": "https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Vondelpark",
+      "url": "https://open.spotify.com/track/40iYztEIJGhV1igZD3sN7w"
     },
     {
       "album": {
@@ -2718,10 +2966,28 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 161883,
       "name": "What If It All Turned out Fine",
       "url": "https://open.spotify.com/track/5gcOwfYRvWbDwho79MwpR5"
+    },
+    {
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3CI661fpNrglpYDW7Tj9gS"
+      },
+      "artists": [
+        {
+          "name": "Jhove",
+          "url": "https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161883,
+      "name": "What If It All Turned out Fine",
+      "url": "https://open.spotify.com/track/6YAjZ5m3YOVfmBHwkx2WYj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4Ce7C9uKaHy"

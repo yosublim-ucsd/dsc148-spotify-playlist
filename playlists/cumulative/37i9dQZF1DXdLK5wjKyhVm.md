@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-304 songs - 11 hr 28 min
+305 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Feelin' Good Tonight](https://open.spotify.com/track/4ZV3kIHh2khLBZSZKlezQI) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Feelin' Good Tonight](https://open.spotify.com/album/0YvDRoFESOgqusmhwpAdfV) | 2:52 | 2022-09-09 |  |
 | [Fiction](https://open.spotify.com/track/6uPZ5LeOnbced7wW3XF7rA) | [Shy Cope](https://open.spotify.com/artist/1WVrUGgqeU94YjCKCbAH4y) | [Fiction](https://open.spotify.com/album/5NPLNWTEVO9L3WRGcjPUwu) | 2:18 | 2022-12-02 |  |
 | [Fika](https://open.spotify.com/track/32gy3AZgAjxHUUpVzA42YD) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [Fika](https://open.spotify.com/album/3URxwmB9mC3IaONUtIEhvW) | 1:51 | 2022-09-09 |  |
-| [Final Destination](https://open.spotify.com/track/4fAOUcDYMVuw2gvU1ZR8Ql) | [Team Astro](https://open.spotify.com/artist/5BJiJign2sqMUCJhpStgNd) | [Hidden Treasure](https://open.spotify.com/album/3aqhM9qEU5KZuX8yD7GduK) | 2:34 | 2022-10-28 |  |
+| [Final Destination](https://open.spotify.com/track/4PGaMtP5HLcPTiNEevGj82) | [Team Astro](https://open.spotify.com/artist/5BJiJign2sqMUCJhpStgNd) | [Hidden Treasure](https://open.spotify.com/album/4LRikK5f2nmBqXvFqotAwJ) | 2:34 | 2023-09-15 |  |
+| [Final Destination](https://open.spotify.com/track/4fAOUcDYMVuw2gvU1ZR8Ql) | [Team Astro](https://open.spotify.com/artist/5BJiJign2sqMUCJhpStgNd) | [Hidden Treasure](https://open.spotify.com/album/3aqhM9qEU5KZuX8yD7GduK) | 2:34 | 2022-10-28 | 2023-09-16 |
 | [Firmament](https://open.spotify.com/track/4ePUa7w2UzjrWlFm48Hlr9) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0) | [Firmament](https://open.spotify.com/album/6MVUsy0dXIWU07vWBrYAr7) | 2:49 | 2022-10-07 | 2023-09-05 |
 | [Flannel Ballad](https://open.spotify.com/track/5ML2EJhOo795DQdu9vlnkA) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Flannel Ballad](https://open.spotify.com/album/1ZDYdlP14ukhfHIVGUeDm9) | 1:49 | 2022-09-09 | 2023-09-05 |
 | [Flashback](https://open.spotify.com/track/48umJfLSv8qdDB0VjQY82y) | [The Fox](https://open.spotify.com/artist/6T8X5Dh4G7RaLINqzqlkV3) | [Flashback](https://open.spotify.com/album/0gc14rGix5LP0vtJjfUqsb) | 2:24 | 2022-10-28 |  |

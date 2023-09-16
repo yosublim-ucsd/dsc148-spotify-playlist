@@ -1589,6 +1589,32 @@
     },
     {
       "album": {
+        "name": "De 100 a 0",
+        "url": "https://open.spotify.com/album/3wyFppvqCcSXcTMVAo52B0"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192664,
+      "name": "De 100 a 0",
+      "url": "https://open.spotify.com/track/0qRGHWWeGfBylFP2VPMBWd"
+    },
+    {
+      "album": {
         "name": "De los Besos Que Te Di",
         "url": "https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws"
       },
@@ -4224,7 +4250,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 193750,
       "name": "Me Vuelves A Enamorar",
       "url": "https://open.spotify.com/track/1Er1toMCdC7tmqTMvByhRo"
@@ -4326,7 +4352,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 188186,
       "name": "Mi Ex Tenia Razon",
       "url": "https://open.spotify.com/track/7FG9RnwCypE1CLrOIwNlwy"
@@ -7122,7 +7148,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 263496,
       "name": "Todavia Me Amas / La Novelita / Los Infieles",
       "url": "https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p"

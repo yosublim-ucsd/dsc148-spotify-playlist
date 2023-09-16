@@ -1251,6 +1251,28 @@
     },
     {
       "album": {
+        "name": "He Got a Hold of Me",
+        "url": "https://open.spotify.com/album/5IWDeyHcJ6CR6Y0bQxuRdN"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220066,
+      "name": "He Got a Hold of Me",
+      "url": "https://open.spotify.com/track/6TzjdXiUn6iPBX6LcyyoFP"
+    },
+    {
+      "album": {
         "name": "He Touched Me / Something Beautiful",
         "url": "https://open.spotify.com/album/0aDye7Hbc6IkmxyN1pUsqh"
       },

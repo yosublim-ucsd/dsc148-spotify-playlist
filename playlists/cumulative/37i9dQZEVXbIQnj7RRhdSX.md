@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,391 songs - 2 day 23 hr 40 min
+1,392 songs - 2 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Alba](https://open.spotify.com/track/04X1tgfQRPuLLidWfputrz) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Alba](https://open.spotify.com/album/3vfWb8888rKXodLlqnRGoa) | 3:29 | 2023-02-19 | 2023-03-26 |
 | [Alba](https://open.spotify.com/track/3slQ550jA1udn2keXTvu1U) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Alba](https://open.spotify.com/album/5KlWvjXQsetLk8KqvtCaJw) | 3:29 | 2023-02-09 | 2023-02-20 |
 | [ALBICOCCA \- lolita](https://open.spotify.com/track/1Bkq1PP6QZrZcpAyEnIKDy) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:42 | 2023-05-20 | 2023-05-26 |
-| [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 | 2023-08-26 |  |
+| [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 | 2023-08-26 | 2023-09-16 |
 | [Alcool & Acqua](https://open.spotify.com/track/0Zzsd4ZawVM3VOoF7iRs9g) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 2:51 | 2022-03-05 | 2022-03-12 |
 | [ALDO RITMO](https://open.spotify.com/track/1kZtyxJakwddLIxfEDDXEx) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 2:40 | 2021-10-03 | 2021-10-17 |
 | [Alex \(feat\. Lazza & Salmo\)](https://open.spotify.com/track/6VjVQnDH8wXVhVhGx2sF0r) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 3:28 | 2021-04-11 | 2021-05-03 |
@@ -1227,6 +1227,7 @@
 | [Supereroi](https://open.spotify.com/track/31LcjVqQYbwjrQITmwerYJ) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Solo](https://open.spotify.com/album/1CKeSCEj384RQmAUhcDUlw) | 4:23 | 2021-10-23 | 2021-10-24 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-14 | 2022-07-19 |
 | [Svuotatasche](https://open.spotify.com/track/4cF8xXRteGQypocjEOtdAd) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:51 | 2022-03-05 | 2022-03-10 |
+| [Syrup](https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Syrup](https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37) | 3:08 | 2023-09-15 |  |
 | [TAF TAF](https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TAF TAF](https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u) | 3:03 | 2023-07-15 | 2023-07-20 |
 | [Take 3](https://open.spotify.com/track/2wsuLKApNAWiFuCFJdRjlW) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 3](https://open.spotify.com/album/5rQLxdh8dmLEe4uSXBSOA5) | 2:55 | 2021-11-21 | 2021-11-28 |
 | [Take 4](https://open.spotify.com/track/1cc9BzqfV6aO0EV8c7jGnN) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:50 | 2022-11-26 | 2023-03-25 |

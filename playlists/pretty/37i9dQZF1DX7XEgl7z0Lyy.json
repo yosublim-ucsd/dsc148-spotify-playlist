@@ -1,164 +1,44 @@
 {
   "description": "music from the underworld",
-  "num_followers": 92692,
+  "num_followers": 95036,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTJmM2FlZTk5MGYyMzM1NDFiN2E1NzQ0NzU4YWNkZDQyMTZkNjkz",
+  "snapshot_id": "MCwxMzViNGNmNGZiY2Y0NWVlYzBiZTQyZDczNzE1NmE3YjI2NWY0ZDIw",
   "tracks": [
     {
-      "added_at": "2023-09-01 04:00:00",
+      "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/7MtII3Ot1Mc1eJulm4t5Qm"
-      },
-      "artists": [
-        {
-          "name": "axxturel",
-          "url": "https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM"
-        }
-      ],
-      "duration_ms": 122787,
-      "name": "U",
-      "url": "https://open.spotify.com/track/2ipus3rmwO1i0VBPT7vQvr"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "2BIPOLAR",
-        "url": "https://open.spotify.com/album/65jfpqh8Nf8qeHT77KXLIe"
-      },
-      "artists": [
-        {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        }
-      ],
-      "duration_ms": 107390,
-      "name": "2BIPOLAR",
-      "url": "https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "BABY I'M HOME (w/ Kanii & 9lives)",
-        "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
+        "name": "XIII SORROWS",
+        "url": "https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB"
       },
       "artists": [
         {
           "name": "Odetari",
           "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
         }
       ],
-      "duration_ms": 208938,
-      "name": "BABY I'M HOME (w/ Kanii & 9lives)",
-      "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
-    },
-    {
-      "added_at": "2023-09-08 14:49:15",
-      "album": {
-        "name": "ON THE FLOOR!",
-        "url": "https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI"
-      },
-      "artists": [
-        {
-          "name": "removeface",
-          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
-        },
-        {
-          "name": "kyszenn",
-          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
-        }
-      ],
-      "duration_ms": 119895,
-      "name": "ON THE FLOOR",
-      "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
+      "duration_ms": 128738,
+      "name": "HYPNOTIC DATA",
+      "url": "https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc"
     },
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "NALGOTICA!",
-        "url": "https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc"
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
       },
       "artists": [
         {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
         }
       ],
-      "duration_ms": 114703,
-      "name": "NALGOTICA!",
-      "url": "https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "GMFU (w/ 6arelyhuman)",
-        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "GMFU (w/ 6arelyhuman)",
-      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "So Fast",
-        "url": "https://open.spotify.com/album/5G8vICzPb4gk5KzS8N7ci4"
-      },
-      "artists": [
-        {
-          "name": "Luci4",
-          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
-        },
-        {
-          "name": "Linxo",
-          "url": "https://open.spotify.com/artist/6LYNuLh5TZQAYxuhsK8lcX"
-        }
-      ],
-      "duration_ms": 88838,
-      "name": "So Fast",
-      "url": "https://open.spotify.com/track/2JhhwzWuNYa8JtXduJE3Aj"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "JERK!",
-        "url": "https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc"
-      },
-      "artists": [
-        {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 131262,
-      "name": "JERK!",
-      "url": "https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB"
+      "duration_ms": 150441,
+      "name": "Fluxxwave",
+      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -185,66 +65,26 @@
       "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"
     },
     {
-      "added_at": "2023-09-08 14:49:15",
+      "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "KNOW WHAT YOU WANT",
-        "url": "https://open.spotify.com/album/6opVAqg6oX15LDGKoa4Yh4"
+        "name": "U",
+        "url": "https://open.spotify.com/album/7MtII3Ot1Mc1eJulm4t5Qm"
       },
       "artists": [
         {
-          "name": "removeface",
-          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
-        },
-        {
-          "name": "kyszenn",
-          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+          "name": "axxturel",
+          "url": "https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM"
         }
       ],
-      "duration_ms": 142660,
-      "name": "KNOW WHAT YOU WANT",
-      "url": "https://open.spotify.com/track/6fSaAUqapniPZmOBiFPCaG"
+      "duration_ms": 122787,
+      "name": "U",
+      "url": "https://open.spotify.com/track/2ipus3rmwO1i0VBPT7vQvr"
     },
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "Fluxxwave",
-      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Bag (azurreh mix) <3",
-        "url": "https://open.spotify.com/album/6uCUWx86biFtjsCvh0qbpj"
-      },
-      "artists": [
-        {
-          "name": "azurreh",
-          "url": "https://open.spotify.com/artist/1nWQz0dYYJRbyym28yHcw4"
-        },
-        {
-          "name": "mai",
-          "url": "https://open.spotify.com/artist/77lNm684zLFkTVZyWtyhca"
-        }
-      ],
-      "duration_ms": 106826,
-      "name": "Bag (azurreh mix) <3",
-      "url": "https://open.spotify.com/track/0dUY7LFK25EqLLeSwDtAB9"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "3x3",
-        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
       },
       "artists": [
         {
@@ -252,13 +92,89 @@
           "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         },
         {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "THROW IT UP!",
+        "url": "https://open.spotify.com/album/79Oj6d3wKiZkmRc9t3mg61"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        }
+      ],
+      "duration_ms": 118718,
+      "name": "THROW IT UP!",
+      "url": "https://open.spotify.com/track/7z20FEdw9dC6PLt3oTtesz"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "JERK!",
+        "url": "https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        },
+        {
           "name": "9lives",
           "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
         }
       ],
-      "duration_ms": 126600,
-      "name": "I LOVE YOU HOE (w/ 9lives)",
-      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
+      "duration_ms": 131262,
+      "name": "JERK!",
+      "url": "https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "NALGOTICA!",
+        "url": "https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 114703,
+      "name": "NALGOTICA!",
+      "url": "https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "BABY I'M HOME (w/ Kanii & 9lives)",
+        "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 208938,
+      "name": "BABY I'M HOME (w/ Kanii & 9lives)",
+      "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -285,6 +201,146 @@
       "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
     },
     {
+      "added_at": "2023-09-08 14:49:15",
+      "album": {
+        "name": "ON THE FLOOR!",
+        "url": "https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "duration_ms": 119895,
+      "name": "ON THE FLOOR",
+      "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "rock that body shawty",
+        "url": "https://open.spotify.com/album/376Gm1ANMn5oFVF6ZYs5Nz"
+      },
+      "artists": [
+        {
+          "name": "d3r",
+          "url": "https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "blood pup",
+          "url": "https://open.spotify.com/artist/6vcxEEdH5HuxnMMksl6EMR"
+        }
+      ],
+      "duration_ms": 114716,
+      "name": "rock that body shawty",
+      "url": "https://open.spotify.com/track/4jJRFxeC9ubCvs9F3phcJL"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "2BIPOLAR",
+        "url": "https://open.spotify.com/album/65jfpqh8Nf8qeHT77KXLIe"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        }
+      ],
+      "duration_ms": 107390,
+      "name": "2BIPOLAR",
+      "url": "https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6"
+    },
+    {
+      "added_at": "2023-09-08 14:49:15",
+      "album": {
+        "name": "KNOW WHAT YOU WANT",
+        "url": "https://open.spotify.com/album/6opVAqg6oX15LDGKoa4Yh4"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "duration_ms": 142660,
+      "name": "KNOW WHAT YOU WANT",
+      "url": "https://open.spotify.com/track/6fSaAUqapniPZmOBiFPCaG"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Bag (azurreh mix) <3",
+        "url": "https://open.spotify.com/album/6uCUWx86biFtjsCvh0qbpj"
+      },
+      "artists": [
+        {
+          "name": "azurreh",
+          "url": "https://open.spotify.com/artist/1nWQz0dYYJRbyym28yHcw4"
+        },
+        {
+          "name": "mai",
+          "url": "https://open.spotify.com/artist/77lNm684zLFkTVZyWtyhca"
+        }
+      ],
+      "duration_ms": 106826,
+      "name": "Bag (azurreh mix) <3",
+      "url": "https://open.spotify.com/track/0dUY7LFK25EqLLeSwDtAB9"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "melancholy",
+        "url": "https://open.spotify.com/album/2FYWDx4Wtm1depG5MYz1ra"
+      },
+      "artists": [
+        {
+          "name": "Eternal Raijin",
+          "url": "https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe"
+        },
+        {
+          "name": "Fidi",
+          "url": "https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL"
+        }
+      ],
+      "duration_ms": 122460,
+      "name": "melancholy",
+      "url": "https://open.spotify.com/track/5R1z3ZGM6BfmluzrunjmHW"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
+    },
+    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "SHAKE THAT SHIT!",
@@ -307,6 +363,26 @@
       "duration_ms": 155028,
       "name": "SHAKE THAT SHIT!",
       "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "sharp fangs",
+        "url": "https://open.spotify.com/album/2LHH01c9fE0F4ZdJxlY1qa"
+      },
+      "artists": [
+        {
+          "name": "whatsaheart",
+          "url": "https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV"
+        },
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        }
+      ],
+      "duration_ms": 135095,
+      "name": "sharp fangs",
+      "url": "https://open.spotify.com/track/5FvE6L92NLw7qQcmtl6dPB"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -343,6 +419,30 @@
       "duration_ms": 102556,
       "name": "GOOD LOYAL THOTS",
       "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Sleepwalker (Ultra Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/74fiQju6Hajz6CMfCv7Z8i"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "duration_ms": 317562,
+      "name": "Sleepwalker - Ultra Slowed & Reverb",
+      "url": "https://open.spotify.com/track/00nDbhlvByugZmIG21JYSK"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -403,6 +503,26 @@
       "duration_ms": 126766,
       "name": "go_hard",
       "url": "https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "So Fast",
+        "url": "https://open.spotify.com/album/5G8vICzPb4gk5KzS8N7ci4"
+      },
+      "artists": [
+        {
+          "name": "Luci4",
+          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
+        },
+        {
+          "name": "Linxo",
+          "url": "https://open.spotify.com/artist/6LYNuLh5TZQAYxuhsK8lcX"
+        }
+      ],
+      "duration_ms": 88838,
+      "name": "So Fast",
+      "url": "https://open.spotify.com/track/2JhhwzWuNYa8JtXduJE3Aj"
     },
     {
       "added_at": "2023-09-01 04:00:00",

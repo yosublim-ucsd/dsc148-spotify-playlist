@@ -796,7 +796,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 187665,
       "name": "ae",
       "url": "https://open.spotify.com/track/2Oy2SGDK3K0rDOaiCRJWJA"
@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 153406,
       "name": "Blonda",
       "url": "https://open.spotify.com/track/6hScg8gWUWo26CMq51Payc"
@@ -4269,6 +4269,28 @@
     },
     {
       "album": {
+        "name": "Sir PartyPackz al III-lea",
+        "url": "https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Lil Alex",
+          "url": "https://open.spotify.com/artist/3jB2xQjLOFkVegZlN5bxYl"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142640,
+      "name": "CHIN",
+      "url": "https://open.spotify.com/track/0EO6IXSvbUPF7VdT8VIB5n"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -4338,7 +4360,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 186474,
       "name": "CICATRICI",
       "url": "https://open.spotify.com/track/48i4J1HOpKSis37m4TL1PJ"
@@ -5682,6 +5704,36 @@
       "duration_ms": 231446,
       "name": "De Cand S-a Scumpit Benzina",
       "url": "https://open.spotify.com/track/46HWR2zlQ005AI7s73x7ml"
+    },
+    {
+      "album": {
+        "name": "Sir PartyPackz al III-lea",
+        "url": "https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "OG Eastbull",
+          "url": "https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288856,
+      "name": "DE LA",
+      "url": "https://open.spotify.com/track/5UPowGCNDOcG31ewzOv8cj"
     },
     {
       "album": {
@@ -8843,6 +8895,24 @@
     },
     {
       "album": {
+        "name": "Sir PartyPackz al III-lea",
+        "url": "https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "GINN",
+      "url": "https://open.spotify.com/track/6TARzURO7cU2BbxMBY8ii2"
+    },
+    {
+      "album": {
         "name": "Gipsy Style",
         "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
       },
@@ -10406,7 +10476,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -10798,7 +10868,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 192000,
       "name": "IN LIPSA TA",
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
@@ -12808,7 +12878,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 196535,
       "name": "Lipsa Ta",
       "url": "https://open.spotify.com/track/2Vvb9PCb8Sg6nwjvzb0Kwo"
@@ -19153,7 +19223,7 @@
         },
         {
           "name": "Giovanni",
-          "url": "https://open.spotify.com/artist/3KF46vzbkpKa1c9sdlidvs"
+          "url": "https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o"
         },
         {
           "name": "BROKN",
@@ -19998,6 +20068,28 @@
       "duration_ms": 220000,
       "name": "SEMAKA",
       "url": "https://open.spotify.com/track/5w3m6BYO37XhWQ7n5dUoGr"
+    },
+    {
+      "album": {
+        "name": "Sir PartyPackz al III-lea",
+        "url": "https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "SEMANTICA",
+      "url": "https://open.spotify.com/track/10BpnmF2GPXtXLFug4ILkq"
     },
     {
       "album": {
@@ -21272,6 +21364,24 @@
       "duration_ms": 148000,
       "name": "Starry Eyes",
       "url": "https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY"
+    },
+    {
+      "album": {
+        "name": "Sir PartyPackz al III-lea",
+        "url": "https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "START ZZZ",
+      "url": "https://open.spotify.com/track/0AjBZfcYgaUyNXYFJ2HAcc"
     },
     {
       "album": {
@@ -23404,7 +23514,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 123448,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0aRAYNUQt0GI79ZrHsuw0n"
@@ -25770,6 +25880,42 @@
       "duration_ms": 156330,
       "name": "Zdren\u021be",
       "url": "https://open.spotify.com/track/5DOeTCsnMki8zTkmEaxatM"
+    },
+    {
+      "album": {
+        "name": "Sir PartyPackz al III-lea",
+        "url": "https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128970,
+      "name": "ZENPEBUNE",
+      "url": "https://open.spotify.com/track/6EyY84OCt5hkKBYwdIXXeU"
+    },
+    {
+      "album": {
+        "name": "Sir PartyPackz al III-lea",
+        "url": "https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78500,
+      "name": "ZENUZILE",
+      "url": "https://open.spotify.com/track/1Thvmk8eDQm9ytwNzGUkHk"
     },
     {
       "album": {

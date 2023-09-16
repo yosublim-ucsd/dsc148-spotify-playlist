@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 182067,
       "name": "AMBER",
       "url": "https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
@@ -655,6 +655,42 @@
     },
     {
       "album": {
+        "name": "Criminel",
+        "url": "https://open.spotify.com/album/1FVnIpB2rYgUcxGZxbRdcv"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190746,
+      "name": "Criminel",
+      "url": "https://open.spotify.com/track/05dGfKTl4dRwl1BzYh3ft1"
+    },
+    {
+      "album": {
+        "name": "C'est pas des LOL",
+        "url": "https://open.spotify.com/album/6x61ccU1M5NlkpWRJAS2xT"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165093,
+      "name": "Crocodile",
+      "url": "https://open.spotify.com/track/6mv40nIczFEF9O6U8I6cQb"
+    },
+    {
+      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
       },
@@ -688,6 +724,24 @@
       "duration_ms": 232333,
       "name": "Dana dana",
       "url": "https://open.spotify.com/track/6rCqxeSD0lvxyTHiO8nqI8"
+    },
+    {
+      "album": {
+        "name": "Les Femmes De Ma Vie",
+        "url": "https://open.spotify.com/album/2OrOS9RMxBYiMSQqGy3wWJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "Dans les yeux d'Emilie",
+      "url": "https://open.spotify.com/track/2kkuEKckbZRRZDbpFR5OuN"
     },
     {
       "album": {
@@ -859,6 +913,42 @@
     },
     {
       "album": {
+        "name": "Est-ce que tu regrettes ?",
+        "url": "https://open.spotify.com/album/438JpOJjbCyhmOkWYSNAHO"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Sentinelle",
+          "url": "https://open.spotify.com/artist/4Y7qAdeJmlBZSORMVKyl0U"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180025,
+      "name": "Est-ce que tu regrettes ?",
+      "url": "https://open.spotify.com/track/68QlpGOAApokhQ3wcRpGpO"
+    },
+    {
+      "album": {
+        "name": "Faut des millions (Bizon blanc)",
+        "url": "https://open.spotify.com/album/4z70FnNfQjMWskBec4v5yM"
+      },
+      "artists": [
+        {
+          "name": "TobiHood",
+          "url": "https://open.spotify.com/artist/4z2eCmlekWnUrHY0esLGXw"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Faut des millions - Bizon blanc",
+      "url": "https://open.spotify.com/track/3eRRKua3z77NMMS4swGDbt"
+    },
+    {
+      "album": {
         "name": "Finale - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS"
       },
@@ -948,6 +1038,24 @@
       "duration_ms": 179385,
       "name": "Gasolina (feat. Gambi)",
       "url": "https://open.spotify.com/track/6Ed9pGmIo0qsnAkx4zlJTK"
+    },
+    {
+      "album": {
+        "name": "Glish Vs Glish",
+        "url": "https://open.spotify.com/album/1Rqam2t3oQQ05z0wYorr0U"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98441,
+      "name": "Glish Vs Glish",
+      "url": "https://open.spotify.com/track/1GTEtRVqif7e8TXQLzwXXZ"
     },
     {
       "album": {
@@ -1082,7 +1190,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 177973,
       "name": "Jodeci",
       "url": "https://open.spotify.com/track/2bPfarWfGqXRr3JWg5Olv0"
@@ -1255,6 +1363,60 @@
     },
     {
       "album": {
+        "name": "LAISSE MOI",
+        "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168620,
+      "name": "LAISSE MOI",
+      "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
+    },
+    {
+      "album": {
+        "name": "Talk to Me (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw"
+      },
+      "artists": [
+        {
+          "name": "Richard Carter",
+          "url": "https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134853,
+      "name": "Le Monde",
+      "url": "https://open.spotify.com/track/424DkevE18QJazwlljiTD4"
+    },
+    {
+      "album": {
+        "name": "Les anges",
+        "url": "https://open.spotify.com/album/7v2HPIhdykFuJXivdwrizq"
+      },
+      "artists": [
+        {
+          "name": "KRN",
+          "url": "https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Les anges",
+      "url": "https://open.spotify.com/track/7MaKuS9KzMCqjtmDsJMF7z"
+    },
+    {
+      "album": {
         "name": "Les derniers marioles (feat. SCH)",
         "url": "https://open.spotify.com/album/4RzryyT7JcO6cwuT8Kjbeb"
       },
@@ -1393,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Mahmouma",
+        "url": "https://open.spotify.com/album/0B1kHxnsb0xVsu2zee5U2u"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142746,
+      "name": "Mahmouma",
+      "url": "https://open.spotify.com/track/3miLA8urFK78rpi4sHb5te"
+    },
+    {
+      "album": {
         "name": "Zanaka (Deluxe)",
         "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
       },
@@ -1422,7 +1602,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 156466,
       "name": "Manolo",
       "url": "https://open.spotify.com/track/3b9rx3ZUivS4DVSgLLkMZB"
@@ -1742,7 +1922,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 123846,
       "name": "PETETE",
       "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
@@ -1834,7 +2014,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 151384,
       "name": "PLAVON",
       "url": "https://open.spotify.com/track/2VlZsX8huFxgfm3yoMCoRy"
@@ -1888,7 +2068,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 194960,
       "name": "PROBL\u00c8MES",
       "url": "https://open.spotify.com/track/3wRDJXLakoOT8ilNPOOhh9"
@@ -2044,7 +2224,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 135529,
       "name": "Shut up My Moms Calling - (Sped Up)",
       "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
@@ -2110,7 +2290,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 175359,
       "name": "Sonner",
       "url": "https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti"
@@ -2440,7 +2620,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 199586,
       "name": "Zarzour",
       "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"

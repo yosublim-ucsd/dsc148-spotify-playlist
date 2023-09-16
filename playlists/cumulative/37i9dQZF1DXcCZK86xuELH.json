@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Bonesaw",
+        "url": "https://open.spotify.com/album/0WpOUGGwTkA7R0CcYs5Tcj"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "Bonesaw",
+      "url": "https://open.spotify.com/track/0cumlrgDodkXR7VeIKwWmK"
+    },
+    {
+      "album": {
         "name": "The Locksmith EP",
         "url": "https://open.spotify.com/album/0QfPlN0yjGVG5R2bvyVpuy"
       },
@@ -2104,6 +2122,24 @@
       "duration_ms": 297451,
       "name": "We Got It - S.P.Y Remix",
       "url": "https://open.spotify.com/track/1Iuo5rSPfXDVKxCyl2ePbW"
+    },
+    {
+      "album": {
+        "name": "Wicked Man",
+        "url": "https://open.spotify.com/album/5izVDkfJltrhQDuDSvwhhQ"
+      },
+      "artists": [
+        {
+          "name": "Watch the Ride",
+          "url": "https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Wicked Man",
+      "url": "https://open.spotify.com/track/2wUYAuTYpyImtO7AfCjbT6"
     },
     {
       "album": {

@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "TRILOGIA",
+        "url": "https://open.spotify.com/album/6nT5ttYMKVRMpEmNZTIL8H"
+      },
+      "artists": [
+        {
+          "name": "Adi",
+          "url": "https://open.spotify.com/artist/4AnpI5Laz6YeM09dMJNTaW"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135525,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/1whJBnBLwZcpMl9II6rOfB"
+    },
+    {
+      "album": {
         "name": "\u00c9ramos",
         "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
       },
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 167191,
       "name": "Lip Sync",
       "url": "https://open.spotify.com/track/4S5FEb6O4uMXWwZK02CeiQ"
@@ -2376,6 +2394,10 @@
         {
           "name": "Ajaxx",
           "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
       "date_added": "2023-08-18",

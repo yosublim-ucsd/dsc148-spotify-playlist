@@ -4,19 +4,20 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5kH7ZateqBrrUv6u6snhnp">ta Ukrainka</a>
 
-105 songs - 5 hr 16 min
+107 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX) | 2:48 | 2023-05-16 | 2023-09-02 |
 | [365 Days](https://open.spotify.com/track/6YITon2rsFDlRrZilwMsRN) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM), [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Stranger](https://open.spotify.com/album/0pYOYlG5oTgvs77V6W094U) | 2:40 | 2022-08-26 |  |
-| [Akcja!](https://open.spotify.com/track/6XAu1axKaG2yeUfkqpN9Jh) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Blaza](https://open.spotify.com/album/0gw1Iu0Qy9i6ZClil2iHp9) | 3:48 | 2023-02-06 |  |
+| [Akcja!](https://open.spotify.com/track/6XAu1axKaG2yeUfkqpN9Jh) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Blaza](https://open.spotify.com/album/0gw1Iu0Qy9i6ZClil2iHp9) | 3:48 | 2023-02-06 | 2023-09-16 |
 | [Apocalypse Afterparty](https://open.spotify.com/track/0NGEsbt7zMy31hwBBIN5RT) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3), [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Apocalypse Afterparty](https://open.spotify.com/album/7cc9Rcyd0L42aXdQF2v3QI) | 3:26 | 2023-02-06 | 2023-03-14 |
 | [Babyhands](https://open.spotify.com/track/3QbXgoghUm9v3zKjDL2xQp) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Babyhands](https://open.spotify.com/album/1XJ7Jfjf0x5ATOG4buoyz4) | 3:05 | 2022-08-26 | 2023-04-15 |
 | [Balans](https://open.spotify.com/track/4hU7OPVaMxkhOYYPkV7LwL) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Balans](https://open.spotify.com/album/5nOi3r1tgBDSISc9KiBNDw) | 3:02 | 2022-08-26 | 2023-02-07 |
 | [Bez](https://open.spotify.com/track/6w3REoiYbuW9QxpRBJqnTt) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Bez](https://open.spotify.com/album/37ThOEHqHwrI6oNLaZujtH) | 3:23 | 2023-09-01 |  |
 | [BFF](https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [BFF](https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO) | 2:54 | 2023-09-01 |  |
 | [bigos](https://open.spotify.com/track/3td5D76Hdk8kL7nfw2w4TM) | [Albo Inaczej](https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh) | [bigos](https://open.spotify.com/album/5IG3GK7rfwsspwoVgT7cml) | 3:15 | 2023-05-16 |  |
+| [BIKINI GIRLIE](https://open.spotify.com/track/1c7I2V9oL4JdpZN514pGMo) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [BIKINI GIRLIE](https://open.spotify.com/album/6lzibP8Md36JIkVAn5A2mf) | 3:13 | 2023-09-15 |  |
 | [California Boy \(jjjerk\)](https://open.spotify.com/track/1c7pvFD8j9li7nmJwbAfr2) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [California Boy \(jjjerk\)](https://open.spotify.com/album/5V1dFAKY2wxhJajPfBItjz) | 2:21 | 2023-05-16 |  |
 | [Carrie](https://open.spotify.com/track/4dg06owZapY09INYbaFH0j) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Carrie](https://open.spotify.com/album/2jTw2ZkjGsIAIRJtS4UaDe) | 2:46 | 2023-07-31 |  |
 | [Chardonnay](https://open.spotify.com/track/2V0fdohnsYJyiLWHyByJRj) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Chardonnay](https://open.spotify.com/album/716XoQ3W64WJxMH8L7Bney) | 2:40 | 2023-07-31 |  |
@@ -39,7 +40,7 @@
 | [Facetime](https://open.spotify.com/track/4GODMnu9X4jmPWFx6Dc0K1) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Facetime](https://open.spotify.com/album/1cYgJN1fXanHfUgm9ajCJQ) | 2:18 | 2022-08-26 | 2023-09-02 |
 | [FULL\-TIME](https://open.spotify.com/track/11ZSjYaV1K4MSnwRNA0odP) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [FULL\-TIME](https://open.spotify.com/album/1xVON5ExYlcmp1UW3EeNsK) | 3:11 | 2023-03-13 |  |
 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 | 2023-03-13 |  |
-| [happy song :\)](https://open.spotify.com/track/0rS8KJ7sh52X3QBWbBFjtm) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [happy song :\)](https://open.spotify.com/album/5BkGfDOWhUVZVElMQ90Eei) | 3:00 | 2023-04-14 |  |
+| [happy song :\)](https://open.spotify.com/track/0rS8KJ7sh52X3QBWbBFjtm) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [happy song :\)](https://open.spotify.com/album/5BkGfDOWhUVZVElMQ90Eei) | 3:00 | 2023-04-14 | 2023-09-16 |
 | [Haribo](https://open.spotify.com/track/1tsdI9LIUwxbCNiBPotSTx) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Haribo](https://open.spotify.com/album/2GYjVNl9rsOY58IXJxWqIH) | 3:03 | 2022-08-26 | 2022-09-24 |
 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 | 2023-05-16 |  |
 | [Julia W Mieście](https://open.spotify.com/track/6600DTr3sI2l9cJ2NaSJdR) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/1vqw57hP2TAOSG3jnZpQWV) | 2:58 | 2022-08-26 |  |
@@ -106,6 +107,7 @@
 | [TO JEST LOVEEE](https://open.spotify.com/track/44zqk0oN098y0hUTfwlyoR) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [TO JEST LOVEEE](https://open.spotify.com/album/5IwKdshK24jeKOHzqbDueg) | 3:03 | 2023-05-16 | 2023-08-01 |
 | [Wczoraj](https://open.spotify.com/track/4QcVRPBOWIL42nod3cGn0u) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wczoraj](https://open.spotify.com/album/3C5tWyJxsBxnKHmUuyATe6) | 2:51 | 2022-08-26 | 2022-09-24 |
 | [Wczoraj \(Ale To Smutna Ballada\)](https://open.spotify.com/track/0Vclll7YLAuvyFaNicQBb0) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wczoraj \(Ale To Smutna Ballada\)](https://open.spotify.com/album/26kJtglfgbqnIQQl8923f2) | 2:59 | 2022-09-23 | 2023-02-07 |
+| [Welur](https://open.spotify.com/track/4uIXiKr1OThTtjgExrCZD0) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Welur](https://open.spotify.com/album/63qjHLrWqfDlWPg4dUNGun) | 3:07 | 2023-09-15 |  |
 | [Za dobrze by zapomnieć](https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Za dobrze by zapomnieć](https://open.spotify.com/album/7dCc3k77G5W0UNhUBdMmcb) | 2:32 | 2023-05-16 | 2023-08-01 |
 | [Zapachy](https://open.spotify.com/track/4ts35aCwJQOvkZaEv3Z2vZ) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Zapachy](https://open.spotify.com/album/1WQ1CYkJxqh1EWABbTG33j) | 2:25 | 2022-09-23 | 2023-02-07 |
 | [Zapomnieli](https://open.spotify.com/track/00NRXYw9q24APKKfHK7Z4w) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Zapomnieli](https://open.spotify.com/album/6rsxb4mxMY0lnALsVO2fnw) | 2:24 | 2023-03-13 | 2023-08-01 |

@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Kanoa",
+        "url": "https://open.spotify.com/album/2txBLe5ISOYhG9WFQlmRKq"
+      },
+      "artists": [
+        {
+          "name": "Uzma",
+          "url": "https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158610,
+      "name": "Kanoa",
+      "url": "https://open.spotify.com/track/7sNOk3Bfv0CTl80ctSkkw6"
+    },
+    {
+      "album": {
         "name": "Deep House Lounge (Flawless Vibes)",
         "url": "https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ"
       },
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 267750,
       "name": "On Call",
       "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
@@ -2214,6 +2232,24 @@
       "duration_ms": 182792,
       "name": "Original Love",
       "url": "https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB"
+    },
+    {
+      "album": {
+        "name": "Out Of Mind",
+        "url": "https://open.spotify.com/album/4Lj8EgQigC8HiSiFeCA4pI"
+      },
+      "artists": [
+        {
+          "name": "Grey Qoo",
+          "url": "https://open.spotify.com/artist/3UGtMIm5fs6Jd4ss8FXRh7"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146478,
+      "name": "Out Of Mind",
+      "url": "https://open.spotify.com/track/36nFJrBZPAgGSEFVDEWkaX"
     },
     {
       "album": {
@@ -2408,7 +2444,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 168061,
       "name": "Primal View",
       "url": "https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM"
@@ -2719,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Stella Marina",
+        "url": "https://open.spotify.com/album/1I6Z3FD9O4pYQnzTyCUGMp"
+      },
+      "artists": [
+        {
+          "name": "Sunset-buff",
+          "url": "https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168933,
+      "name": "Stella Marina",
+      "url": "https://open.spotify.com/track/41t2H4SSr8XZxkFiv8iHhw"
+    },
+    {
+      "album": {
         "name": "Straight Curves",
         "url": "https://open.spotify.com/album/5txvqoRrYhbH8xDGuSxbgt"
       },
@@ -2946,7 +3000,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 251000,
       "name": "The Same (Edit)",
       "url": "https://open.spotify.com/track/0aqEZp0UaK15stGpUn8fNS"

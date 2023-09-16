@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> The best new Experimental by independent artists and labels, with Astoria on cover\. Artwork Estrella del Sol\. Updates every Wednesday.
+> The best new Experimental by independent artists and labels, with Estrella del Sol on cover\. Updates every Wednesday.
 
 1,491 songs - 5 day 0 hr 32 min
 

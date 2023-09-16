@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: El Frizian",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Grupo Diez 4tro",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Corridos Anonymous (En Vivo)",
+        "url": "https://open.spotify.com/album/3bE2KswwaGAL328nxQd1Nz"
+      },
+      "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "El Aprendiz - En Vivo",
+      "url": "https://open.spotify.com/track/7y5wuABdwn34R6OZDvxmeo"
+    },
+    {
+      "album": {
         "name": "Mas Me Rinde La Hielera",
         "url": "https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R"
       },
@@ -1040,6 +1058,24 @@
       "duration_ms": 186688,
       "name": "El Arbol De Mi Familia",
       "url": "https://open.spotify.com/track/5ABXU27kjthunVsP9gwfZp"
+    },
+    {
+      "album": {
+        "name": "Corridos Anonymous (En Vivo)",
+        "url": "https://open.spotify.com/album/3bE2KswwaGAL328nxQd1Nz"
+      },
+      "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221106,
+      "name": "El Capataz - En Vivo",
+      "url": "https://open.spotify.com/track/3OlVBCcVZ0T46DAJ16P0tM"
     },
     {
       "album": {
@@ -1205,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Corridos Anonymous (En Vivo)",
+        "url": "https://open.spotify.com/album/3bE2KswwaGAL328nxQd1Nz"
+      },
+      "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178120,
+      "name": "El Intocable - En Vivo",
+      "url": "https://open.spotify.com/track/64XDolsGllLQL1ZKNREfRK"
+    },
+    {
+      "album": {
         "name": "Tiempo Al Tiempo",
         "url": "https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U"
       },
@@ -1292,6 +1346,24 @@
       "duration_ms": 137777,
       "name": "El Salado",
       "url": "https://open.spotify.com/track/7nxBGmL17XLT5al1Lf7vTv"
+    },
+    {
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3TQE7Z8ScW2bFmB1DdVp7X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140826,
+      "name": "El Silent",
+      "url": "https://open.spotify.com/track/1A4brAeYlatGpoRxAs06UE"
     },
     {
       "album": {
@@ -1867,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico en Mi Voz",
+        "url": "https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173516,
+      "name": "La Ley del Monte",
+      "url": "https://open.spotify.com/track/6DNnTcw5AaxAxd6YP6J3Ly"
+    },
+    {
+      "album": {
         "name": "La Lista Negra",
         "url": "https://open.spotify.com/album/2MUPXNH7A5KAmXKtFGxnDr"
       },
@@ -1882,6 +1972,24 @@
       "duration_ms": 172300,
       "name": "La Lista Negra",
       "url": "https://open.spotify.com/track/5SAja6DMBAW9GPuQBrLIZt"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico en Mi Voz",
+        "url": "https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158017,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1wdxXGT7vQxkGUjAcoiWDz"
     },
     {
       "album": {
@@ -2545,6 +2653,46 @@
     },
     {
       "album": {
+        "name": "CHSM El Higado!",
+        "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193728,
+      "name": "Muchacha - With Grupo Firme",
+      "url": "https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico en Mi Voz",
+        "url": "https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199489,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6"
+    },
+    {
+      "album": {
         "name": "Tiempo Al Tiempo",
         "url": "https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U"
       },
@@ -2596,6 +2744,24 @@
       "duration_ms": 153320,
       "name": "Nac\u00ed Solo",
       "url": "https://open.spotify.com/track/0MR7lmNAdZ1fiyoHn1An1C"
+    },
+    {
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3TQE7Z8ScW2bFmB1DdVp7X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218059,
+      "name": "Nada Fue F\u00e1cil",
+      "url": "https://open.spotify.com/track/1vkl10SVc5x1bOcpBCLKlU"
     },
     {
       "album": {
@@ -2784,6 +2950,24 @@
       "duration_ms": 163812,
       "name": "No Tiene Caso",
       "url": "https://open.spotify.com/track/3sKfdHHg5w3DqKGC8uQToA"
+    },
+    {
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3TQE7Z8ScW2bFmB1DdVp7X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206150,
+      "name": "Noches Negras",
+      "url": "https://open.spotify.com/track/0CcNWILDznvsBTy0eYbSvN"
     },
     {
       "album": {
@@ -3086,6 +3270,24 @@
       "duration_ms": 189733,
       "name": "Q.T.M.L. (EL Corrido de la Diva)",
       "url": "https://open.spotify.com/track/5OFRM2vn712ZqjGsuv33G2"
+    },
+    {
+      "album": {
+        "name": "CHSM El Higado!",
+        "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129575,
+      "name": "Que Agusto Ando",
+      "url": "https://open.spotify.com/track/7dgEPPHYXeuxrs44NIEjrL"
     },
     {
       "album": {
@@ -3704,6 +3906,24 @@
       "duration_ms": 197944,
       "name": "Una Tras Otra - En Vivo",
       "url": "https://open.spotify.com/track/5w09B00YknNZdR7WhBbMcN"
+    },
+    {
+      "album": {
+        "name": "CHSM El Higado!",
+        "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220212,
+      "name": "Vacante Disponible",
+      "url": "https://open.spotify.com/track/1wsLf25NrhVoKYXbITt1m2"
     },
     {
       "album": {

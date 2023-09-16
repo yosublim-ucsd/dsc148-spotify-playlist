@@ -2,9 +2,9 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: C.S\. Armstrong
+> All new, all blues\. Cover: Buffalo Nichols
 
-240 songs - 14 hr 3 min
+241 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [That's The Way I Feel About You](https://open.spotify.com/track/4SrcZBjrz1mTrjFfwuGG06) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [That's The Way I Feel About You](https://open.spotify.com/album/01nRgsi6ofoo1HBxFwg6Ha) | 4:53 | 2021-07-02 | 2022-06-19 |
 | [The Anima](https://open.spotify.com/track/1zDPvPPoKIXqfwYR5eYkeE) | [Cullah](https://open.spotify.com/artist/5Emm04qPI9mTCoRI9XkHUz) | [The Anima](https://open.spotify.com/album/5gX48dDCJxNwgH80UPM7mD) | 3:03 | 2023-01-27 |  |
 | [The City Streets \(Ps.23\)](https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Hard Time Blues](https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h) | 4:32 | 2021-09-10 | 2023-04-01 |
+| [The Fatalist Blues](https://open.spotify.com/track/37kYCbuyOEbLMOIs59FWfe) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Fatalist](https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB) | 2:32 | 2023-09-15 |  |
 | [The Louvre](https://open.spotify.com/track/68cELCHZ8sdfkAHoLtm3OO) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Louvre](https://open.spotify.com/album/1cZ17se5zLFdbZKhedKnio) | 2:59 | 2023-08-18 |  |
 | [The Lows](https://open.spotify.com/track/33bBjkRiZIkHdoAZlBb9KR) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [The Lows](https://open.spotify.com/album/1Ifw6B8pNgYmYgB67wx93t) | 2:55 | 2022-10-21 | 2023-05-07 |
 | [The Lows](https://open.spotify.com/track/7h0bST38vPZD0kC2Tw8byH) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 2:55 | 2022-10-21 |  |
@@ -246,7 +247,7 @@
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR) | 3:01 | 2021-09-17 | 2023-05-20 |
 | [You're Gonna Be Sorry](https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis) | 2:46 | 2023-03-31 | 2023-04-30 |
 | [You're Gonna Be Sorry](https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x) | 2:46 | 2023-03-31 |  |
-| [You're Gonna Need Somebody on Your Bond](https://open.spotify.com/track/2nXFk9alD2vg2qKGaewctG) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [You're Gonna Need Somebody on Your Bond](https://open.spotify.com/album/62bLeL1omNfCWUrDO0xkko) | 3:35 | 2023-06-16 |  |
+| [You're Gonna Need Somebody on Your Bond](https://open.spotify.com/track/2nXFk9alD2vg2qKGaewctG) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [You're Gonna Need Somebody on Your Bond](https://open.spotify.com/album/62bLeL1omNfCWUrDO0xkko) | 3:35 | 2023-06-16 | 2023-09-16 |
 | [Your Friday Night](https://open.spotify.com/track/17AXVlBTYsK5YvhTuif0aC) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG) | [Your Friday Night](https://open.spotify.com/album/7MXGchpdm7JEGyoOVNsYht) | 3:21 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

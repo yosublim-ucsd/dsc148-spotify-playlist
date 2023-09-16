@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Heim",
+        "url": "https://open.spotify.com/album/7hGn9qNZuGzlJQLkhX3lfy"
+      },
+      "artists": [
+        {
+          "name": "Otri Jochumsson",
+          "url": "https://open.spotify.com/artist/4x8y3T6YzB4qB3MKPZT0mh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Heim",
+      "url": "https://open.spotify.com/track/2ZlSZlqejnLEk2vrXqNSn2"
+    },
+    {
+      "album": {
         "name": "Highlands",
         "url": "https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC"
       },
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 225000,
       "name": "Le marchand de sable est pass\u00e9",
       "url": "https://open.spotify.com/track/4ZHotLx5jX1MPDixEhEakI"

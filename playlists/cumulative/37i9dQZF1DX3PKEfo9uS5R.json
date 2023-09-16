@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/7azMMhLw5xBgBi0Ir7uaOH"
+      },
+      "artists": [
+        {
+          "name": "Gueves",
+          "url": "https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149550,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/4uRf2Tj4d0DXLuekQDBwwU"
+    },
+    {
+      "album": {
         "name": "in deep",
         "url": "https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih"
       },
@@ -3038,7 +3056,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 191089,
       "name": "Switch to Mandarin",
       "url": "https://open.spotify.com/track/0zAxSm7pUHr0rZ8OGsaJvA"

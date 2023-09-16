@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-92 songs - 6 hr 20 min
+93 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:09 | 2022-04-22 |  |
 | [American Dipper](https://open.spotify.com/track/1PJvxtfe6W1aeQKiXjGmSc) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [American Dipper](https://open.spotify.com/album/648j3s2wgIRU0v1YiVTLil) | 3:55 | 2022-02-10 |  |
 | [At the Edge of the World](https://open.spotify.com/track/1HNy9IZDRBBWOc2HYUSIJw) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [At the Edge of the World](https://open.spotify.com/album/3pPEotWlGwWvmZfiMJvn8R) | 6:16 | 2022-02-10 |  |
+| [Basements](https://open.spotify.com/track/3LoD8YTXOM87GUWU7IhesV) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Basements](https://open.spotify.com/album/7f2B4dwq8gyPtytN6zFcNs) | 3:43 | 2023-09-15 |  |
 | [Black Eyed Susan](https://open.spotify.com/track/4O6qHINcYgFcyK5jj6GcRH) | [Shane Parish](https://open.spotify.com/artist/3cvqyc36Wu2EbRd2Wf8dgr) | [Black Eyed Susan](https://open.spotify.com/album/0JJyu6jluatrwYKbEXGHjC) | 6:20 | 2022-02-10 |  |
 | [Bowsprit](https://open.spotify.com/track/04Fcjafu59OwzIYYVXJjbU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Constellations](https://open.spotify.com/album/5nlIENUVFPbOEobbADbJZV) | 5:17 | 2022-04-22 |  |
 | [Bowsprit](https://open.spotify.com/track/5C9PbNlsVJAkMdHuaMiwd6) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Constellations](https://open.spotify.com/album/2U4JqMKKozPS4U219KAJ5c) | 5:17 | 2022-02-10 | 2022-07-29 |

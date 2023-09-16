@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Luan Pereira, MC Ryan SP, Mc Daniel",
-  "name": "PURO SUCO DE BRASIL",
+  "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: DENNIS, Mc Poze do Rodo",
+  "name": "Puro SUCO DE BRASIL",
   "tracks": [
     {
       "album": {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 131187,
       "name": "A Pedido",
       "url": "https://open.spotify.com/track/4z6SFqJJJprm0JkOvBivmt"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 163834,
       "name": "Ah T\u00e1",
       "url": "https://open.spotify.com/track/1wmJCxXIo5WRlUZhZpjtz9"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 152888,
       "name": "Aquecimento Senta Senta Suave",
       "url": "https://open.spotify.com/track/5WsM6qhZzRSD3oKbtorxzD"
@@ -714,6 +714,28 @@
       "duration_ms": 237798,
       "name": "Cria Da Ivete - Ao Vivo",
       "url": "https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu"
+    },
+    {
+      "album": {
+        "name": "Cria do Rio",
+        "url": "https://open.spotify.com/album/5HwcDzwGMfN0J6WnJOAndQ"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106784,
+      "name": "Cria do Rio",
+      "url": "https://open.spotify.com/track/444MfEcLpvrEQ4rMgAlUPV"
     },
     {
       "album": {
@@ -1338,7 +1360,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 201262,
       "name": "Hackearam-me",
       "url": "https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505"
@@ -1386,7 +1408,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 143999,
       "name": "Halls na L\u00edngua - Remix",
       "url": "https://open.spotify.com/track/5uTVtc2Oc93nBVqPPI8Ijj"
@@ -1426,7 +1448,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 147555,
       "name": "J\u00e1 Sei Namorar",
       "url": "https://open.spotify.com/track/0JwJWbMOceIShN6cXJLxbG"
@@ -1990,7 +2012,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 137660,
       "name": "Novinha do Onlyfans",
       "url": "https://open.spotify.com/track/4j2rdnsKXY2YvC8izJopzO"
@@ -2554,6 +2576,32 @@
       "duration_ms": 169002,
       "name": "Safado",
       "url": "https://open.spotify.com/track/37OIusjSUFvt0uqEE6r2Ux"
+    },
+    {
+      "album": {
+        "name": "Sarradinha",
+        "url": "https://open.spotify.com/album/21BCcHAJmoutTXsFnHZBbh"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142413,
+      "name": "Sarradinha",
+      "url": "https://open.spotify.com/track/64JdLJ0dFwI5lptGXHQxZs"
     },
     {
       "album": {

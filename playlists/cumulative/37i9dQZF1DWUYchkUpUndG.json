@@ -3705,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "Escape Society",
+        "url": "https://open.spotify.com/album/6qy14ZaLHpy00vnpEAPi2D"
+      },
+      "artists": [
+        {
+          "name": "Yungkuzzy",
+          "url": "https://open.spotify.com/artist/2J1lz1ivySIdGB4zeHj2mi"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205261,
+      "name": "Escape Society",
+      "url": "https://open.spotify.com/track/3zzA0l3kWfzyrsZv6MzAeY"
+    },
+    {
+      "album": {
         "name": "Ese O",
         "url": "https://open.spotify.com/album/4yOVpHH1CRDmSOQPhXuUxt"
       },
@@ -8406,7 +8424,7 @@
           "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
         }
       ],
-      "date_added": "2023-09-15",
+      "date_added": "2023-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 236667,
@@ -8426,7 +8444,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 236667,
       "name": "Lift Me",
       "url": "https://open.spotify.com/track/1HGzaWSZjaQJQo58HVV3ue"
@@ -10906,6 +10924,28 @@
       "duration_ms": 425166,
       "name": "O'na bia",
       "url": "https://open.spotify.com/track/6EEmybGvVOqvs9KwYvlVmh"
+    },
+    {
+      "album": {
+        "name": "Zion (X)",
+        "url": "https://open.spotify.com/album/2XKmrW38QMmkXJqn9SgBLR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491653,
+      "name": "Oceans (Where Feet May Fail) - Redux",
+      "url": "https://open.spotify.com/track/4oxHDhN1my6y0Isk2k7GsV"
     },
     {
       "album": {
@@ -14742,6 +14782,24 @@
       "duration_ms": 232463,
       "name": "Who you are",
       "url": "https://open.spotify.com/track/1sGCydgPdcI8ozLjG85IgP"
+    },
+    {
+      "album": {
+        "name": "Wilted",
+        "url": "https://open.spotify.com/album/68SAfHwUqmH5C8nEqO6N3I"
+      },
+      "artists": [
+        {
+          "name": "Megan Tossi",
+          "url": "https://open.spotify.com/artist/0HIS9IUNYWbIZi9vaqSerc"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Wilted",
+      "url": "https://open.spotify.com/track/6hJ65kuFQHf8icckkMVYgr"
     },
     {
       "album": {

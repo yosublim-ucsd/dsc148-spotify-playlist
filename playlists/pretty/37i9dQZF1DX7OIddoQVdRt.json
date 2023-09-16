@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover:  <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a\">Pastor Mike Jr.</a>, <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards'</a> Artist of the Year ",
-  "num_followers": 629530,
+  "num_followers": 629575,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjU0OTI0YTU1YjUzMmE3OTc2YWJlMTM3ZmVlNTE0YmRlZDYyNmFi",
+  "snapshot_id": "MCxhOGE1ZDhjZDhhOGFhM2FmOWMwM2FjNDFiNGI2MGFkMTNhMzY0Y2Y3",
   "tracks": [
     {
       "added_at": "2023-08-04 07:09:27",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "Make Room",
-        "url": "https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 408814,
-      "name": "Not Lucky, I'm Loved",
-      "url": "https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "Broken Record",
         "url": "https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 238084,
       "name": "Won't Let Go",
       "url": "https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 408814,
+      "name": "Not Lucky, I'm Loved",
+      "url": "https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1387,6 +1387,42 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
+        "name": "Don't Judge Me (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Don't Judge Me (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Zacardi Cortez",
+        "url": "https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
         "name": "Better Days (Live)",
         "url": "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k"
       },
@@ -1407,22 +1443,6 @@
       "duration_ms": 323333,
       "name": "Better Days - Live",
       "url": "https://open.spotify.com/track/1GBtvDSR3e5D5GJAYIYhEc"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Zacardi Cortez",
-        "url": "https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1471,26 +1491,6 @@
       "duration_ms": 273356,
       "name": "No Reason To Fear (Radio Edit)",
       "url": "https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Don't Judge Me (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Don't Judge Me (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
         "name": "Love & Other Dreams",
         "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
       },
@@ -1639,6 +1659,30 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "duration_ms": 747716,
+      "name": "Not Holding Back",
+      "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
         "name": "Brother (Mahogany x IRIS)",
         "url": "https://open.spotify.com/album/4iGPiRikSzYNxwPxfvUDxb"
       },
@@ -1667,50 +1711,6 @@
       "duration_ms": 221907,
       "name": "Brother - Mahogany x IRIS",
       "url": "https://open.spotify.com/track/7KJYN0aBnEOYo7cnvGcDDL"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Melissa Bethea",
-          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
-        }
-      ],
-      "duration_ms": 747716,
-      "name": "Not Holding Back",
-      "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/5vGpKoJ12FjCFJUaaZeBtP"
-      },
-      "artists": [
-        {
-          "name": "Jason McGee & The Choir",
-          "url": "https://open.spotify.com/artist/2a1U4XLduUgLzFErHznt9d"
-        },
-        {
-          "name": "Warryn Campbell",
-          "url": "https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/1z69IavRF0D3MXsdbvsPBE"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "Warryn Campbell Presents My Block Inc.",
         "url": "https://open.spotify.com/album/1cbaR2xRm6YAHgbTgr5met"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 312146,
       "name": "Praying and Believing",
       "url": "https://open.spotify.com/track/7hfv1V47dO8Wg930ARWsex"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/5vGpKoJ12FjCFJUaaZeBtP"
+      },
+      "artists": [
+        {
+          "name": "Jason McGee & The Choir",
+          "url": "https://open.spotify.com/artist/2a1U4XLduUgLzFErHznt9d"
+        },
+        {
+          "name": "Warryn Campbell",
+          "url": "https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1z69IavRF0D3MXsdbvsPBE"
     },
     {
       "added_at": "2023-08-04 07:09:27",

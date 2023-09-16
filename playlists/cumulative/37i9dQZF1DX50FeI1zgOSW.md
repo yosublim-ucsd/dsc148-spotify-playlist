@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-138 songs - 7 hr 49 min
+140 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Destination Jaffna](https://open.spotify.com/track/61yCcXrcPPsoOrmCWahK9m) | [Siva Pathmayan](https://open.spotify.com/artist/7JzKRkQOBMUczTAXjPw2w9), [Mahi SR](https://open.spotify.com/artist/684Kq2nF1JGJs9oJ0OwZ9s), [Dayas Mohanathas](https://open.spotify.com/artist/52EbtvgJ1cyG14ZjUG14Mm), [Shadhurshana J](https://open.spotify.com/artist/0nIC9wNsIOBwBfCIJgPZrV) | [Destination Jaffna](https://open.spotify.com/album/1Y5iSPqCC9PtHBFK260axX) | 4:35 | 2023-09-05 |  |
 | [Doctors' Anthem](https://open.spotify.com/track/0Sy8y9ebd9GZAZspvQEpOI) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Dr\. Nidarshana Pandian](https://open.spotify.com/artist/2kDp4tt7madJAjKX8jX0mv) | [Doctors' Anthem](https://open.spotify.com/album/5Z3jZzAx52YeGuCyjtiHDy) | 3:01 | 2023-06-29 |  |
 | [Dopamine](https://open.spotify.com/track/46uVjOchiOzNChMb36MKN2) | [Vijay Krishna](https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW), [Subash Mouli](https://open.spotify.com/artist/6u7Hv6H979EzkmglgndHKh) | [Dopamine](https://open.spotify.com/album/5uE6rPTznwSR9IXxgUHcpi) | 4:11 | 2023-07-03 |  |
+| [Dora Bujji](https://open.spotify.com/track/3w4XF8iu5jqt6lXjErVzBc) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4) | [Dora Bujji](https://open.spotify.com/album/6CAGi4chuSIEqJDn32D2G8) | 2:21 | 2023-09-15 |  |
 | [Dry Ice](https://open.spotify.com/track/1mg6Gv8G88c7BLYolp8FF4) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE) | [Dry Ice](https://open.spotify.com/album/4kULflG4C2hAYSCUcbU2hD) | 3:11 | 2023-07-24 |  |
 | [E.P.K.](https://open.spotify.com/track/0KDtuvWZmi2kmaoKPT4b2c) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [SJ Priya](https://open.spotify.com/artist/4wrd2PhUEH0MIwmWBjyMFJ) | [E.P.K.](https://open.spotify.com/album/08MVHnexosfA3FLAt1zdhE) | 2:26 | 2023-07-27 |  |
 | [Eechi](https://open.spotify.com/track/76hoUb5s8mWHN07iUxzmYY) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M) | [Eechi](https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx) | 3:43 | 2023-05-16 | 2023-07-25 |
@@ -78,6 +79,7 @@
 | [Maarambari](https://open.spotify.com/track/4xPz0QQczOI5mllfIhamHP) | [Shanker](https://open.spotify.com/artist/1fblT0Y2Eq5zyTHBUJ29eM), [Tikx Kooda](https://open.spotify.com/artist/550h9wiTpYT12T8Zyihl69), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Maarambari](https://open.spotify.com/album/3av6K5LWeEqxsbeXHxjLxd) | 3:19 | 2023-08-04 |  |
 | [Malarum Vazhvey](https://open.spotify.com/track/1VM7VykzWXMDRbFgOl6BUH) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Malarum Vazhvey](https://open.spotify.com/album/3GJjZW1ty3XpsK1FuWoBTn) | 2:54 | 2023-03-21 | 2023-07-25 |
 | [Manam](https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK) | [Sandhya Chari](https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X) | [Manam](https://open.spotify.com/album/1PjbUFaXW8HFuvYGwIwtdd) | 4:00 | 2023-09-01 |  |
+| [Manidha](https://open.spotify.com/track/4JQDUgiZD9wqDiA6Aza5Rs) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu) | [Manidha](https://open.spotify.com/album/0NAdnBQzZNm3IGqkr6kLnm) | 4:31 | 2023-09-15 |  |
 | [Manidha](https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds), [Gana Balamurugan](https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic) | [Manidha](https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB) | 3:48 | 2023-06-30 |  |
 | [Manjakizhange](https://open.spotify.com/track/5V8lgBdrbPb9Nt4fM2g4Kx) | [Adityan](https://open.spotify.com/artist/3oE6w5AkzIXRIR860NKYjc) | [Manjakizhange](https://open.spotify.com/album/4oV39FxFImDWG0xgyXnC9H) | 4:11 | 2023-07-31 |  |
 | [Mannipaya](https://open.spotify.com/track/2zhTPVJtOlwDMpaUYfQIjn) | [Andriyana Rajahselvam](https://open.spotify.com/artist/3YSjPoy0AbAnNLZriJLcP6), [Nira](https://open.spotify.com/artist/0mzyuFfvjtJ6z6F3vqUzll) | [Mannipaya](https://open.spotify.com/album/6X7oqggnGMqx9Br60vx9DS) | 3:56 | 2023-03-21 | 2023-07-25 |

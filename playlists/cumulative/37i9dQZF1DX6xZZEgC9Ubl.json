@@ -3929,6 +3929,28 @@
     },
     {
       "album": {
+        "name": "EMOJI",
+        "url": "https://open.spotify.com/album/2X4nnFNUTReSUy8okcYYAE"
+      },
+      "artists": [
+        {
+          "name": "RONNY J",
+          "url": "https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170688,
+      "name": "EMOJI",
+      "url": "https://open.spotify.com/track/1KFXQEYaDjNDwgHSG2rqFa"
+    },
+    {
+      "album": {
         "name": "nothings ever good enough",
         "url": "https://open.spotify.com/album/5UHC2JN3ck4XPYPjngia2G"
       },
@@ -11386,6 +11408,28 @@
       "duration_ms": 168653,
       "name": "problems",
       "url": "https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf"
+    },
+    {
+      "album": {
+        "name": "problems (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/79lTZVUHdaqLkj814XzZxw"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152746,
+      "name": "problems (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/6KpF6zZId94bNg4zoz5mIa"
     },
     {
       "album": {

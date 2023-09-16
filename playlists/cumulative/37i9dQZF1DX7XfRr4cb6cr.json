@@ -294,7 +294,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 123003,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 402000,
       "name": "Dali In Sapphire",
       "url": "https://open.spotify.com/track/0C8kWf3y8woCorZlh90H4f"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 152213,
       "name": "Northern Light",
       "url": "https://open.spotify.com/track/4WCWgH74F5Dmhvy2LEMeYc"
@@ -2934,6 +2934,24 @@
       "duration_ms": 222373,
       "name": "Rakas",
       "url": "https://open.spotify.com/track/55Lz2Y0x9gu0Vh7yTIk6Dj"
+    },
+    {
+      "album": {
+        "name": "Born Again In The Voltage",
+        "url": "https://open.spotify.com/album/3yOT3k3clE4z4dz4NagZyL"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396000,
+      "name": "Rendering Intuitions",
+      "url": "https://open.spotify.com/track/0oFKwoS8foZNhVGXTewACT"
     },
     {
       "album": {

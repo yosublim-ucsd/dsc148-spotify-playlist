@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 186052,
       "name": "Fail You",
       "url": "https://open.spotify.com/track/3TvmvbInPXaI6KycRA3Qgl"
@@ -626,9 +626,27 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "date_added": "2022-09-16",
+      "date_added": "2023-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 284626,
+      "name": "Suffer Through",
+      "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
       "duration_ms": 229240,
       "name": "The Grey",
       "url": "https://open.spotify.com/track/5Y6anXM0uQ6P5OIonxdsBe"

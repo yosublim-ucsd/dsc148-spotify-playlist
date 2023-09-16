@@ -4,7 +4,7 @@
 
 > DANSAR DOM I HIMMELEN??
 
-778 songs - 1 day 9 hr 30 min
+779 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Fuffens](https://open.spotify.com/track/7onPLbjRe07eKYEMQOK3Ma) | [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [ETT ANSTÄNDIGT LIV](https://open.spotify.com/album/5IEaqkKzzdJb5O2XuOW49H) | 2:05 | 2023-04-27 | 2023-06-02 |
 | [FUL EFTER MIG](https://open.spotify.com/track/6vpPpyQTKn4vp2jvYml1ld) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [FUL EFTER MIG](https://open.spotify.com/album/165vUvqPJIdvawjT5uUAKP) | 2:07 | 2023-08-24 | 2023-09-15 |
 | [Full blast](https://open.spotify.com/track/4jHnKENlmEuUM61bqtf7qA) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [Full blast](https://open.spotify.com/album/4Qn12IcG7Cu6TehwoDehIn) | 2:34 | 2023-02-23 | 2023-05-19 |
+| [FULL KARETA](https://open.spotify.com/track/3WPZ5Z7a7urRmHb4pIz8iA) | [Lidl](https://open.spotify.com/artist/5df1MDaEizfGIh9fYEOTIJ) | [FULL KARETA](https://open.spotify.com/album/29T3FV1ciYGu3ywMAyxPOf) | 2:12 | 2023-09-15 |  |
 | [Full och dum](https://open.spotify.com/track/1aTeGiaTMQucnOrauBAfqQ) | [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Full och dum](https://open.spotify.com/album/6g9SWAbmTvrK5YqSmY2DOg) | 2:41 | 2023-05-04 | 2023-06-16 |
 | [Full som en kastrull](https://open.spotify.com/track/5wIPWSYnyYy3YligvwXyNc) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c), [Femedia](https://open.spotify.com/artist/2oKbavAM3HBJQAPxY867tB) | [Full som en kastrull](https://open.spotify.com/album/2Ul3P6iJZSVpqrWHxolZYq) | 2:24 | 2022-09-08 | 2022-09-16 |
 | [Fullast på festen](https://open.spotify.com/track/3YIoSe6nFwj54FswMAh8I5) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Fullast på festen](https://open.spotify.com/album/0qM6HMUbMsC9NVhUEcXtEs) | 2:38 | 2023-01-05 | 2023-02-24 |

@@ -2,7 +2,7 @@
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All your favorite Disney Hits, including songs from The Little Mermaid.
+> All your favorite Disney hits, including songs from Coco.
 
 176 songs - 8 hr 56 min
 

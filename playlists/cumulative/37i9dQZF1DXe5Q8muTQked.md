@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-655 songs - 1 day 16 hr 10 min
+656 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Hey Jude](https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Now](https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25) | 4:31 | 2021-10-20 | 2023-05-24 |
 | [Hey Jude](https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hey Jude](https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL) | 4:07 | 2022-06-10 |  |
 | [Hey Ya \- solo version](https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [The Tip Jar Volume One](https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx) | 4:58 | 2021-10-20 |  |
-| [Hide Away \(Acoustic Version\) \[feat\. Kaya May\]](https://open.spotify.com/track/2iDPknofcV8fhDd3YzpIM8) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [Covers: Six](https://open.spotify.com/album/2EgxnKUw4dIPq7jgRYpizb) | 3:31 | 2022-06-10 |  |
+| [Hide Away \(Acoustic Version\) \[feat\. Kaya May\]](https://open.spotify.com/track/2iDPknofcV8fhDd3YzpIM8) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [Covers: Six](https://open.spotify.com/album/2EgxnKUw4dIPq7jgRYpizb) | 3:31 | 2022-06-10 | 2023-09-16 |
 | [Hide Away \- Acoustic Version](https://open.spotify.com/track/0UCsrU37XWdbddPCTRG4Pj) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [Hide Away](https://open.spotify.com/album/2nluaXCp3OtbaBcEW0UbqO) | 3:31 | 2021-10-20 | 2022-05-29 |
 | [High and Dry](https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [High and Dry](https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2) | 4:09 | 2021-10-20 |  |
 | [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 | 2022-06-10 |  |
@@ -413,6 +413,7 @@
 | [Michelle](https://open.spotify.com/track/5nzzSSx2eRc5ESXFZCGP98) | [Evan Marshall](https://open.spotify.com/artist/5wMif7r2rg97Cn4nDdAnrl) | [Mandolin Magic](https://open.spotify.com/album/7Bwf3OyM1U8gfZvHhWu78Y) | 2:02 | 2022-02-11 | 2022-06-15 |
 | [Michelle](https://open.spotify.com/track/4wLs9DrVk27tgY2y9KZkZ0) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Michelle](https://open.spotify.com/album/2pT1mPtuvqFEgjKyjL5oud) | 2:19 | 2021-10-20 | 2022-07-29 |
 | [Midnight Train to Georgia](https://open.spotify.com/track/0c6HkLiI3dimHSnwYw99af) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Midnight Train to Georgia](https://open.spotify.com/album/4z0H7mbHLxlZfpNgEVOJGI) | 4:50 | 2021-10-20 | 2022-07-29 |
+| [Monday Comes Around \(Sleeping At Last Version\)](https://open.spotify.com/track/3HkohZNvcVBLXEr2t4z7TL) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 3:36 | 2023-09-15 |  |
 | [Money \(That's What I Want\) \- Remastered 2009](https://open.spotify.com/track/3zw4FTrVNfy2teEkV9FOvh) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:49 | 2022-06-10 |  |
 | [Moon River](https://open.spotify.com/track/5Yy0aoQKKT55vt62WJwAIH) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5), [The Kentuckians](https://open.spotify.com/artist/4alEVCTmG21DOiFU4ocsmC) | [Covers EP](https://open.spotify.com/album/4ZMFcAyVFi7ApSqxHx1cvp) | 2:02 | 2021-10-20 | 2022-07-29 |
 | [More Than This](https://open.spotify.com/track/7FU341yLQyBaWMWHk4hxuR) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [More Than This](https://open.spotify.com/album/6vm31Kdb2VRrtMLIdV0VQh) | 3:30 | 2021-10-20 | 2022-07-19 |

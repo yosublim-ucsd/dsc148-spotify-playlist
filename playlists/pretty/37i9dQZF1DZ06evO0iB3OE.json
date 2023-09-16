@@ -1,15 +1,15 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 8037,
+  "num_followers": 8057,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDIwMzcsMDAwMDAwMDA0MmJlMWNhY2Y4ZjE4N2UyODA5MjU1ZTZmZThmOGJhOQ==",
+  "snapshot_id": "MjgyNDYzNTAsMDAwMDAwMDAwNTY0Mzg1N2UzNzFiNDM3ZGNhMmYwMjM0NjQ4NmJkYw==",
   "tracks": [
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Los Mejores Corridos",
         "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/04xO1gevudj8k7y2wTGTjC"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "El Comandante Fuentes",
         "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
@@ -41,79 +41,7 @@
       "url": "https://open.spotify.com/track/2ecwjiEoyqrj8BsVUZAxaL"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
-      "album": {
-        "name": "Pa' Destapar La Hielera (En Vivo)",
-        "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        }
-      ],
-      "duration_ms": 203406,
-      "name": "Julio Beltran - En Vivo",
-      "url": "https://open.spotify.com/track/3qoBcxY8TgV2Xmmqo5TxxP"
-    },
-    {
-      "added_at": "2023-09-12 12:37:22",
-      "album": {
-        "name": "Y Sigue la Mata Dando",
-        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 160996,
-      "name": "El Solicitado",
-      "url": "https://open.spotify.com/track/0w9R6TV9XyHVZCIBY2nWzw"
-    },
-    {
-      "added_at": "2023-09-12 12:37:22",
-      "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 142933,
-      "name": "Alfredo Beltr\u00e1n",
-      "url": "https://open.spotify.com/track/0zrStlbIlkeFt1fNjXI1kk"
-    },
-    {
-      "added_at": "2023-09-12 12:37:22",
-      "album": {
-        "name": "Hombre de 14 A\u00f1os",
-        "url": "https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy"
-      },
-      "artists": [
-        {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        },
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 239381,
-      "name": "Las Tempestades",
-      "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"
-    },
-    {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Pa' Destapar La Hielera (En Vivo)",
         "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
@@ -133,7 +61,79 @@
       "url": "https://open.spotify.com/track/7dBU9jVoGHCwkEPPzZur9X"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
+      "album": {
+        "name": "Y Sigue la Mata Dando",
+        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 160996,
+      "name": "El Solicitado",
+      "url": "https://open.spotify.com/track/0w9R6TV9XyHVZCIBY2nWzw"
+    },
+    {
+      "added_at": "2023-09-15 12:30:43",
+      "album": {
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 142933,
+      "name": "Alfredo Beltr\u00e1n",
+      "url": "https://open.spotify.com/track/0zrStlbIlkeFt1fNjXI1kk"
+    },
+    {
+      "added_at": "2023-09-15 12:30:43",
+      "album": {
+        "name": "Hombre de 14 A\u00f1os",
+        "url": "https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 239381,
+      "name": "Las Tempestades",
+      "url": "https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P"
+    },
+    {
+      "added_at": "2023-09-15 12:30:43",
+      "album": {
+        "name": "Pa' Destapar La Hielera (En Vivo)",
+        "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        }
+      ],
+      "duration_ms": 203406,
+      "name": "Julio Beltran - En Vivo",
+      "url": "https://open.spotify.com/track/3qoBcxY8TgV2Xmmqo5TxxP"
+    },
+    {
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "El Primer Tiempo",
         "url": "https://open.spotify.com/album/1kenLdV50A0LUgYFE73EjH"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/4qbzincCvSKGd9mhhYCsUF"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "El Enemigo P\u00fablico",
         "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/1V6lwiuvK0ZzMmuUVJP9L5"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Jerarquia de Corridos con Power Sinaloense! (Edited Version)",
         "url": "https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/4UnBHHZPlCrQrLWR3D4g3F"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "El Que Anda en El Dorado (En Vivo)",
         "url": "https://open.spotify.com/album/2qmSpNf0jhi2QqWqpPgbaw"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/7C2fQc583vpxolfKfQLLyj"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "D\u00e9jame Vac\u00edo",
         "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/0dYYyWLKrlqr1uXIiUnDIo"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Los Mejores Corridos",
         "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/4fnYZTgXsEwpwO1GXTABlS"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Pa' Destapar La Hielera (En Vivo)",
         "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/6Gzfl2SGDJL4NrPMS5q2wF"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/5qWNCBn3Y0f36URNDAmOfg"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "D\u00e9jame Vac\u00edo",
         "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/55mqlCzGFS1szEKuaxL8mI"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/6QAcUKAd5DB9U2pstWuSiH"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "El Maz Poderoso",
         "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "D\u00e9jame Vac\u00edo",
         "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/1AV3hkXXZnZE5BhZtjjVDg"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "La Vieja Escuela (EN VIVO)",
         "url": "https://open.spotify.com/album/3MjYSZtHa2Eyr9Kxrqizmm"
@@ -461,10 +461,10 @@
       "url": "https://open.spotify.com/track/7zYAULUec9oDIfAkCUe2Nc"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
       },
       "artists": [
         {
@@ -472,12 +472,12 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 161493,
-      "name": "Chapo Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU"
+      "duration_ms": 149973,
+      "name": "Por Que No Vienes",
+      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
@@ -533,10 +533,10 @@
       "url": "https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
       },
       "artists": [
         {
@@ -544,15 +544,15 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 149973,
-      "name": "Por Que No Vienes",
-      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
+      "duration_ms": 161493,
+      "name": "Chapo Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
-        "name": "El Comandante Fuentes",
-        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
+        "name": "Y Sigue la Mata Dando",
+        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
       },
       "artists": [
         {
@@ -560,12 +560,12 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 140053,
-      "name": "La Compra y Venta",
-      "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
+      "duration_ms": 146580,
+      "name": "Cuanto Tienes Cuanto Vales",
+      "url": "https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
@@ -585,10 +585,10 @@
       "url": "https://open.spotify.com/track/4LrBqsCyeLFmI1KIzcp2r6"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
-        "name": "Y Sigue la Mata Dando",
-        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
+        "name": "El Comandante Fuentes",
+        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
       },
       "artists": [
         {
@@ -596,12 +596,12 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 146580,
-      "name": "Cuanto Tienes Cuanto Vales",
-      "url": "https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ"
+      "duration_ms": 140053,
+      "name": "La Compra y Venta",
+      "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "El Enemigo P\u00fablico",
         "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
@@ -653,7 +653,55 @@
       "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
+      "album": {
+        "name": "El Compa Many (En Vivo)",
+        "url": "https://open.spotify.com/album/347Aramha2pgLe10iD53CD"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 171363,
+      "name": "El Compa Many - En Vivo",
+      "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
+    },
+    {
+      "added_at": "2023-09-15 12:30:43",
+      "album": {
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Que No Se Apague la Lumbre",
+      "url": "https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ"
+    },
+    {
+      "added_at": "2023-09-15 12:30:43",
+      "album": {
+        "name": "Cargamento Del Diablo",
+        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Cien Por Uno",
+      "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
+    },
+    {
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Al Millon Y Medio Y Pasaditooo",
         "url": "https://open.spotify.com/album/6zM6WwCnlkpiLnLVJI9ksS"
@@ -673,55 +721,7 @@
       "url": "https://open.spotify.com/track/5NrcpNz06ZxDwjKFv13Ja5"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
-      "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Que No Se Apague la Lumbre",
-      "url": "https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ"
-    },
-    {
-      "added_at": "2023-09-12 12:37:22",
-      "album": {
-        "name": "Cargamento Del Diablo",
-        "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Cien Por Uno",
-      "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
-    },
-    {
-      "added_at": "2023-09-12 12:37:22",
-      "album": {
-        "name": "El Compa Many (En Vivo)",
-        "url": "https://open.spotify.com/album/347Aramha2pgLe10iD53CD"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 171363,
-      "name": "El Compa Many - En Vivo",
-      "url": "https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7"
-    },
-    {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Los Mejores Corridos",
         "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "El Comandante Fuentes",
         "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/7Jmo1akMie3KPVSMBqJvvb"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "La Cama de Piedra (En Vivo)",
         "url": "https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "En Vivo Desde Culiacan",
         "url": "https://open.spotify.com/album/3vO5QnF68MTUPEIZAswBHF"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/4prEQWESWt6hWYuBLiQG52"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Los Mejores Corridos",
         "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
@@ -825,23 +825,7 @@
       "url": "https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
-      "album": {
-        "name": "El Comandante Fuentes",
-        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "El Cisne",
-      "url": "https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0"
-    },
-    {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "El Maz Poderoso",
         "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
@@ -857,7 +841,23 @@
       "url": "https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
+      "album": {
+        "name": "El Comandante Fuentes",
+        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "El Cisne",
+      "url": "https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0"
+    },
+    {
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Y Sigue la Mata Dando",
         "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"
     },
     {
-      "added_at": "2023-09-12 12:37:22",
+      "added_at": "2023-09-15 12:30:43",
       "album": {
         "name": "Hombre Nuevo",
         "url": "https://open.spotify.com/album/7gmjWu4fTRRdcEFvUCesrA"

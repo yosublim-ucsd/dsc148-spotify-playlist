@@ -6,61 +6,225 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMzU3MDAsMDAwMDAwMDBlMmI5NzI5MDhhNDJiN2QzOWUwMDk0ZTE1YjM3ZjVhZA==",
+  "snapshot_id": "MjgyNDU3ODAsMDAwMDAwMDA3Zjk2ZTI5MDFlMGEyZDUxODljNjE5YzVkNGNiNjA1Ng==",
   "tracks": [
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/4UHvt8BH9vbtB2ZhVKT8mR"
+        "name": "Aunque Los Pasos Toquen",
+        "url": "https://open.spotify.com/album/4Qj6NrjTVzBkzQimsL8oxz"
       },
       "artists": [
         {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
         }
       ],
-      "duration_ms": 226734,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/66Qgii6ORyeqooYBgEwOjM"
+      "duration_ms": 350893,
+      "name": "Aunque Los Pasos Toquen",
+      "url": "https://open.spotify.com/track/2pOAHrx64N8CX44f3bcdrd"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Live USA... '71",
-        "url": "https://open.spotify.com/album/0l0c222KP2LfzeXfQTCrTo"
+        "name": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023)",
+        "url": "https://open.spotify.com/album/7vr0BCGwcB5BNuEWwISAO1"
       },
       "artists": [
         {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 854413,
-      "name": "Perpetual Change - Live: Yale Bowl, USA 24th July 1971",
-      "url": "https://open.spotify.com/track/1AddVSixWyY5c0kJxAYsko"
+      "duration_ms": 288230,
+      "name": "Too Far Gone? - Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023",
+      "url": "https://open.spotify.com/track/50T5tj2DdZ0yajhBrSESve"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "P\u00e1jaros de fuego (Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\")",
-        "url": "https://open.spotify.com/album/3Xc48Ap1RROgCr5OTr8w7C"
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
       },
       "artists": [
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 276545,
-      "name": "P\u00e1jaros de fuego - Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\"",
-      "url": "https://open.spotify.com/track/4qsgzEP6xq3jYHdj7eocub"
+      "duration_ms": 208440,
+      "name": "Behind Blue Eyes - Lifehouse Chronicles / Demo / Remastered 2022",
+      "url": "https://open.spotify.com/track/6uzcfwr0YPe6hsL3rAY3uA"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Confusion Dub '87",
+        "url": "https://open.spotify.com/album/1WxkUMHjicqlpZ0KKOdIZV"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 325026,
+      "name": "Confusion Dub '87 - 2023 Digital Master",
+      "url": "https://open.spotify.com/track/3n6YybFYHvkwWr9b1Ny1yf"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/5tDR5P1fGfzgPhaY7lvBPd"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Bradley Walker",
+          "url": "https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ"
+        }
+      ],
+      "duration_ms": 218669,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/5YSoTfjiCDMynt1cocGIsS"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "americana, but lofi",
+        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
+      },
+      "artists": [
+        {
+          "name": "lonelyboy",
+          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "the kids aren't alright - lofi",
+      "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Bound For Glory",
+        "url": "https://open.spotify.com/album/1jxZ7qtv7zCiNq66ISEyje"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Brandon Saller",
+          "url": "https://open.spotify.com/artist/12x8XI7ZYpGnKPUzifOxL6"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Legendary (feat. Brandon Saller of Atreyu) - SNAILS Remix",
+      "url": "https://open.spotify.com/track/1LN07pPVEzgXoZ9JkeJeBj"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Outlanders",
+        "url": "https://open.spotify.com/album/3vf7BWKL00NB02I1AhIUFb"
+      },
+      "artists": [
+        {
+          "name": "Outlanders",
+          "url": "https://open.spotify.com/artist/07BLxS6oBpkKubipZvuDTP"
+        },
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        },
+        {
+          "name": "Walter Giardino",
+          "url": "https://open.spotify.com/artist/13sN20Fe1isPXTYSsL7AX5"
+        },
+        {
+          "name": "Torsten Stenzel",
+          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
+        }
+      ],
+      "duration_ms": 379000,
+      "name": "Outlanders (Versione Italiana)",
+      "url": "https://open.spotify.com/track/6YKI3WDSsjvqlyZdQKIzcZ"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Love Can Heal (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/20WPUErgD9ia0v9s1mFqiQ"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 360503,
+      "name": "Love Can Heal - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/7IOJKh6TomNexUadGLns5l"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/6eDULzAgKI7kIWRSY9R6zy"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Human - Accapella Version",
+      "url": "https://open.spotify.com/track/0CrBLW25dHSjbzDhZ0lKjw"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "To The Faithful Departed (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1CPtOBwQVBkxSCBYnNbZTd"
+        "url": "https://open.spotify.com/album/0cg6OTD0VxMSAzQghLeecH"
       },
       "artists": [
         {
@@ -68,12 +232,96 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 165293,
-      "name": "Salvation - Early Mix",
-      "url": "https://open.spotify.com/track/4XXbh0DujCStZ5F2rVfX1d"
+      "duration_ms": 309026,
+      "name": "Free To Decide - Paris Demo",
+      "url": "https://open.spotify.com/track/3Z4lCM5i4f6yJVwoqgSlIa"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Relentless",
+        "url": "https://open.spotify.com/album/7cSjOM6t4Sg5a8WJ4qW2hi"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 253419,
+      "name": "Losing My Sense Of Taste",
+      "url": "https://open.spotify.com/track/4jx6y4zo67WjSDhCHTxAuz"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Listen To Your Heart (Alle Farben Remix)",
+        "url": "https://open.spotify.com/album/2Jg1Ff9HdTkLaz9vjRClo4"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 146268,
+      "name": "Listen To Your Heart (Alle Farben Remix)",
+      "url": "https://open.spotify.com/track/58XoPq7Ae5SL2TRMF63uD8"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Lady Writer - Live At The Rainbow / Dec 1979",
+      "url": "https://open.spotify.com/track/77014L6RWjLdxOkpIaO6As"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Slave Driver (Live At The Sundown Theatre, Edmonton, UK / May 1973)",
+        "url": "https://open.spotify.com/album/4uaL5ocB7JkJMmuEwzXMUp"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 243520,
+      "name": "Slave Driver - Live At The Sundown Theatre, Edmonton, UK / May 1973",
+      "url": "https://open.spotify.com/track/6umprZ3p3BbDjBFa6bsKd4"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Dookie (30th Anniversary Outtakes)",
+        "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Christie Rd. - Outtake",
+      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/5qG5KHu6FlMIpKYle1X2um"
@@ -89,7 +337,23 @@
       "url": "https://open.spotify.com/track/2yZgauFsW3ofMyqpKK7IZy"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "P\u00e1jaros de fuego (Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\")",
+        "url": "https://open.spotify.com/album/3Xc48Ap1RROgCr5OTr8w7C"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 276545,
+      "name": "P\u00e1jaros de fuego - Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\"",
+      "url": "https://open.spotify.com/track/4qsgzEP6xq3jYHdj7eocub"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Scoring The End Of The World (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy"
@@ -105,7 +369,7 @@
       "url": "https://open.spotify.com/track/5J1SceWegPiycCW89uIfAU"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Qu\u00e9 hermosa estas all\u00ed",
         "url": "https://open.spotify.com/album/0jvmmDwFUIFDBBqpsaqpti"
@@ -121,7 +385,7 @@
       "url": "https://open.spotify.com/track/17MT53RyOPcyQRWW5BNoAW"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Bad Bitch Supreme",
         "url": "https://open.spotify.com/album/6qgVfNQpi4hKok5r85P7pE"
@@ -141,7 +405,7 @@
       "url": "https://open.spotify.com/track/6dwFMBSMb7YBnAaZg76IoH"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Oler A Ti",
         "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
@@ -157,7 +421,7 @@
       "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "are we 3ven?",
         "url": "https://open.spotify.com/album/0t5Pldrap7jIMxe3ajmfRg"
@@ -173,7 +437,87 @@
       "url": "https://open.spotify.com/track/05WkUDENwFYIlGrQMXGN9K"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Enfermos del Rap 2023",
+        "url": "https://open.spotify.com/album/1fGuJ2VdDscDPKBtVB6HMM"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+        },
+        {
+          "name": "Rick Santino",
+          "url": "https://open.spotify.com/artist/1gGMjvifr56fICpI15zMLd"
+        },
+        {
+          "name": "Sativanderground",
+          "url": "https://open.spotify.com/artist/5Gk7kZkr62Q4rPz6swYJse"
+        },
+        {
+          "name": "Jet Castillo",
+          "url": "https://open.spotify.com/artist/6g4U5PTD4FoAEcjDaISZAT"
+        },
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Grafy",
+          "url": "https://open.spotify.com/artist/57gT8Cq7OyTpCNhOVYrrWR"
+        },
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5YIqrIoaYZGmDHvxa6jzwD"
+        },
+        {
+          "name": "Zimagen",
+          "url": "https://open.spotify.com/artist/2BqMV9eii5ILqyPN0ZhiuX"
+        },
+        {
+          "name": "Semillah Skillz",
+          "url": "https://open.spotify.com/artist/2uFdkDzuib4OBkfNECkc59"
+        },
+        {
+          "name": "Aerstame",
+          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
+        },
+        {
+          "name": "Stailok",
+          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Enfermos del Rap 2023",
+      "url": "https://open.spotify.com/track/1Lc6s4kn38YPwPRfCoBqpg"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Live USA... '71",
+        "url": "https://open.spotify.com/album/0l0c222KP2LfzeXfQTCrTo"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 854413,
+      "name": "Perpetual Change - Live: Yale Bowl, USA 24th July 1971",
+      "url": "https://open.spotify.com/track/1AddVSixWyY5c0kJxAYsko"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Rare Trax (2023 Remaster)",
         "url": "https://open.spotify.com/album/1pkHXP581drtcsa8BhpxHt"
@@ -189,7 +533,7 @@
       "url": "https://open.spotify.com/track/5tJ6meee6GEWjcsZgNzIPw"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Ghost Song",
         "url": "https://open.spotify.com/album/5SbOGDFcBC0Ocev3h2jFba"
@@ -213,27 +557,27 @@
       "url": "https://open.spotify.com/track/569er1R2Q0Bgk7EXpTBn2F"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Hymn to the Sun. Russian Piano Treasures",
         "url": "https://open.spotify.com/album/78gkqBuNtsEifuyrBD4CQL"
       },
       "artists": [
         {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
         },
         {
           "name": "Manuel del Corral",
           "url": "https://open.spotify.com/artist/1399uZh5GCbxPwTfXkx6mb"
         }
       ],
-      "duration_ms": 230380,
-      "name": "Hymn to the Sun",
-      "url": "https://open.spotify.com/track/70XVkRO1xd2vnECuo68hzq"
+      "duration_ms": 122711,
+      "name": "Hopak",
+      "url": "https://open.spotify.com/track/7t4bXpsDCAFMHZvkXCPM0K"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Dreaming in Slow Motion",
         "url": "https://open.spotify.com/album/3Lc5YjdV9E2ZJsT6LmXZKT"
@@ -249,7 +593,7 @@
       "url": "https://open.spotify.com/track/5zGhhbzdQACPf4ABpVWE2d"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Happy Birthday Beautiful",
         "url": "https://open.spotify.com/album/3dQo0HpK7skdcan7h64LWq"
@@ -269,27 +613,7 @@
       "url": "https://open.spotify.com/track/4GSuM4hs9whUAxM2jEways"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "GUERRERO INTELECTUAL",
-        "url": "https://open.spotify.com/album/1oqgXGwSnr8beCSnRMdcXS"
-      },
-      "artists": [
-        {
-          "name": "Mago Rey",
-          "url": "https://open.spotify.com/artist/34W0qoIabeEniJH7rLVXHv"
-        },
-        {
-          "name": "Olinca Hidalgo",
-          "url": "https://open.spotify.com/artist/2XA0XXw7Oe3AkLJks9irXp"
-        }
-      ],
-      "duration_ms": 218154,
-      "name": "GUERRERO INTELECTUAL",
-      "url": "https://open.spotify.com/track/3SBFITfLQuTKNlJ7igGRuM"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "You're Awesome",
         "url": "https://open.spotify.com/album/3Yb23sjQcNGENT44r1ftui"
@@ -305,7 +629,7 @@
       "url": "https://open.spotify.com/track/5BoixLIVWjFbzurhaZvHwA"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Holding Onto Yesterday (Live 1976)",
         "url": "https://open.spotify.com/album/6qyoUTpM2MpnuS5l2eoyZd"
@@ -321,7 +645,23 @@
       "url": "https://open.spotify.com/track/5FidtN3JbJKxhywJ6hloRP"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "The Boys Of Ladbroke Grove",
+        "url": "https://open.spotify.com/album/4odEMh1B3bNvNAwIvsjsmU"
+      },
+      "artists": [
+        {
+          "name": "HeadCat",
+          "url": "https://open.spotify.com/artist/5WM7w7zSrYevTJZtuKgvvO"
+        }
+      ],
+      "duration_ms": 188269,
+      "name": "Good Rockin' Tonight - Alternate Take",
+      "url": "https://open.spotify.com/track/5DFBkwoArCAcsptTyXc1nx"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "iScreaM Vol.25 : Red Flavor Remix",
         "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
@@ -341,23 +681,7 @@
       "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "The Boys Of Ladbroke Grove",
-        "url": "https://open.spotify.com/album/4odEMh1B3bNvNAwIvsjsmU"
-      },
-      "artists": [
-        {
-          "name": "HeadCat",
-          "url": "https://open.spotify.com/artist/5WM7w7zSrYevTJZtuKgvvO"
-        }
-      ],
-      "duration_ms": 188269,
-      "name": "Good Rockin' Tonight - Alternate Take",
-      "url": "https://open.spotify.com/track/5DFBkwoArCAcsptTyXc1nx"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Live In Vienna 1998",
         "url": "https://open.spotify.com/album/0zEmVfGL3K1lMqF3IpwCPs"
@@ -368,12 +692,32 @@
           "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
         }
       ],
-      "duration_ms": 283841,
-      "name": "This Kid's - Live In Vienna 1998",
-      "url": "https://open.spotify.com/track/2kf6PloMCppZSVoJc4hF7v"
+      "duration_ms": 319962,
+      "name": "Lights Out - Live In Vienna 1998",
+      "url": "https://open.spotify.com/track/3olFCE0utXa0SwxakIFM85"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Misery (feat. Atreyu)",
+        "url": "https://open.spotify.com/album/0oIW9gCsZ1g3IXZcEZEPCm"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 192176,
+      "name": "Misery (feat. Atreyu)",
+      "url": "https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Como Asesinar a Felipes (remastered)",
         "url": "https://open.spotify.com/album/6ePG8JBkPJb8dmyjnMETzW"
@@ -389,23 +733,27 @@
       "url": "https://open.spotify.com/track/4vEm6KMHaJZo8aU1L7Uztu"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
-        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
+        "name": "Come On Home",
+        "url": "https://open.spotify.com/album/4j3v3azOHHyP15NNqyVuwA"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Danni Baylor",
+          "url": "https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK"
+        },
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 162000,
-      "name": "THE GIRLS - BLACKPINK THE GAME OST",
-      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
+      "duration_ms": 225107,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/1t0lazgh8uQmXzXigJkYe8"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Live In Tokyo",
         "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
@@ -416,12 +764,12 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 278320,
-      "name": "Stone in Love - Live",
-      "url": "https://open.spotify.com/track/4ZO527reOhihJhyDmYgUUr"
+      "duration_ms": 328293,
+      "name": "Don't Fight It - Live",
+      "url": "https://open.spotify.com/track/0SUO9zBxf5FCyKtRPqEwIk"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Live 76",
         "url": "https://open.spotify.com/album/1ow8kQSYz5M2nqCWWasM0t"
@@ -437,39 +785,7 @@
       "url": "https://open.spotify.com/track/5KP5MAyH27baIHYWu5Bj6y"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Alice Through the Looking Glass",
-        "url": "https://open.spotify.com/album/3Er6lsWzZmM4oP8RICZseP"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Alice Through the Looking Glass",
-      "url": "https://open.spotify.com/track/7sArXWDg86rMoLG46QE2ac"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Live In El Paso 1980",
-        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "School's Out - Live",
-      "url": "https://open.spotify.com/track/3hKo142ynCDNTi0dXj0Jbx"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Llama Violeta Cham\u00e1nica",
         "url": "https://open.spotify.com/album/2IqPZLo79cNQwnLu8Rrjh1"
@@ -485,7 +801,23 @@
       "url": "https://open.spotify.com/track/5bWnTEQIoOO1mnZfHqw79K"
     },
     {
-      "added_at": "2023-09-08 03:00:00",
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Live In El Paso 1980",
+        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 63226,
+      "name": "Sick Things - Live",
+      "url": "https://open.spotify.com/track/6mlAOexwC7hQkmHCDnFADP"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
       "album": {
         "name": "Rosa Jaguar",
         "url": "https://open.spotify.com/album/4AVYqLbOTTkUFEesXGcxJ8"
@@ -507,30 +839,6 @@
       "duration_ms": 183448,
       "name": "Rosa Jaguar",
       "url": "https://open.spotify.com/track/2Di3e6XoC6LOZ1bP0vcJlT"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Seven (feat. Latto) (Alesso Remix)",
-        "url": "https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Seven (feat. Latto) (Alesso Remix)",
-      "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

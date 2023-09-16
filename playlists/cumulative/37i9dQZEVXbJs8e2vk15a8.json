@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Bendice el Aire",
+        "url": "https://open.spotify.com/album/7HRWBMohAcaUrqGluXyrRs"
+      },
+      "artists": [
+        {
+          "name": "Silvanita y Los del Quincho",
+          "url": "https://open.spotify.com/artist/2EHb5YBuTpyV4leGdhdfXA"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123783,
+      "name": "Adi\u00f3s Palomita",
+      "url": "https://open.spotify.com/track/1xhYQI1Kszpv30sfkHzNF0"
+    },
+    {
+      "album": {
         "name": "Cuecas con Alma",
         "url": "https://open.spotify.com/album/2NiNlXusG9vpTHoVSdBuO8"
       },
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -2648,7 +2666,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 139612,
       "name": "Bajo el Sombrero",
       "url": "https://open.spotify.com/track/41buW9gXHeIxw7KsXgDbAG"
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 196406,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/48ww1RXAxDm9XbePE72Gys"
@@ -5992,7 +6010,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 194400,
       "name": "Desespero",
       "url": "https://open.spotify.com/track/1Dlzq86mlvJEkaGoS9c7MN"
@@ -7654,7 +7672,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 151373,
       "name": "ETA",
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
@@ -9710,7 +9728,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 327000,
       "name": "Hayami Hana",
       "url": "https://open.spotify.com/track/1G7dT2vBltjqflkUEHwRoX"
@@ -12014,10 +12032,28 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 134853,
       "name": "Le Monde",
       "url": "https://open.spotify.com/track/424DkevE18QJazwlljiTD4"
+    },
+    {
+      "album": {
+        "name": "Le Monde (From Talk to Me)",
+        "url": "https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir"
+      },
+      "artists": [
+        {
+          "name": "Richard Carter",
+          "url": "https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134853,
+      "name": "Le Monde - From Talk to Me",
+      "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H"
     },
     {
       "album": {
@@ -13944,7 +13980,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 463253,
       "name": "Medley: Te Miro la Cara y Me da Sed / Ta' Bailando una Morena / El Sombrero de Paja",
       "url": "https://open.spotify.com/track/63xr0kuokCreaKuklqDsF5"
@@ -18154,7 +18190,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 185154,
       "name": "Perdidos",
       "url": "https://open.spotify.com/track/6ughI6FwGbF0cLicG7lrat"
@@ -19854,7 +19890,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 256426,
       "name": "Rapa Nui Mi Amor",
       "url": "https://open.spotify.com/track/6EUOJhj0E2uBkrNw062vzF"
@@ -22934,7 +22970,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 110053,
       "name": "Te Miro la Cara y Me Da Sed",
       "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
@@ -23144,6 +23180,28 @@
       "duration_ms": 234402,
       "name": "Tendencia Global",
       "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
+    },
+    {
+      "album": {
+        "name": "Tengamos Algo Serio Mamita",
+        "url": "https://open.spotify.com/album/3nvJWMWbuZTJNOTOqHdPpe"
+      },
+      "artists": [
+        {
+          "name": "CRISTOBAL MEJOR",
+          "url": "https://open.spotify.com/artist/3QKcVWfiCdpKHDDUYsNVO2"
+        },
+        {
+          "name": "Filtra queen",
+          "url": "https://open.spotify.com/artist/2a5U50e0UuJdcNeKYib25v"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139218,
+      "name": "Tengamos Algo Serio Mamita",
+      "url": "https://open.spotify.com/track/4NTUG1JFRfqell90OP3rTQ"
     },
     {
       "album": {
@@ -24036,7 +24094,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
@@ -25542,6 +25600,24 @@
       "duration_ms": 121850,
       "name": "Viviendo El Proceso <3",
       "url": "https://open.spotify.com/track/6P3e7ieiYq8ZITkkmW2Uim"
+    },
+    {
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "album": {

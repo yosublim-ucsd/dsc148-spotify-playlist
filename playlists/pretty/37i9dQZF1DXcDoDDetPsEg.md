@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,520 likes - 58 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,592 likes - 58 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 57 | [Impeccable Timing](https://open.spotify.com/track/3Kac9sBRWeroIIYJvam3Nr) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Impeccable Timing](https://open.spotify.com/album/4aLSpyp3qEYQ7DhqGkLpq0) | 3:44 |
 | 58 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 |
 
-Snapshot ID: `MCxjZmI1MTVjMDE1MGFkNWFiZWM2ZWJkOTQ1OGViNTVhOTUxZDlhZjNm`
+Snapshot ID: `MCw3NjhkNmE1YjI0NTAyYTNlMzQ1OTVlZjNiNTc0YTI4OTc5MWQ4ZDhk`

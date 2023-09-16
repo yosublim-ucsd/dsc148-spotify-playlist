@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "The Bed You Made",
+        "url": "https://open.spotify.com/album/3npjvgjdC2m9L9JXGXSCfk"
+      },
+      "artists": [
+        {
+          "name": "Andrea Vasquez",
+          "url": "https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184811,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/3a6WpKrvj6YrPPPjLgyOES"
+    },
+    {
+      "album": {
         "name": "Hell in a Handbag",
         "url": "https://open.spotify.com/album/7El9JLvuISfaC9EZACDzX7"
       },
@@ -2040,6 +2058,28 @@
       "duration_ms": 169033,
       "name": "Something We Can Dance To",
       "url": "https://open.spotify.com/track/7cqKuP1rIweEEkEgyC8rqe"
+    },
+    {
+      "album": {
+        "name": "South Of The Border",
+        "url": "https://open.spotify.com/album/3Okj4iNRoBQIMwfkZGQUr0"
+      },
+      "artists": [
+        {
+          "name": "Leah Turner",
+          "url": "https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh"
+        },
+        {
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167959,
+      "name": "South Of The Border",
+      "url": "https://open.spotify.com/track/1U42O036JuKJigXbvOG3Bb"
     },
     {
       "album": {

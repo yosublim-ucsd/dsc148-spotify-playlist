@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 208822,
+  "num_followers": 209059,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmU1YWQ4OWIxY2FlYWMzNjc4MTBmZjBjZTBlYzBkODJhYzY0YWMy",
+  "snapshot_id": "MCxkZGZjMDdhMmZhM2IzMDc0MjUyYTEyZmI1YTE0ZTUwNmUxNzRhMTBm",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "All We Have Is Now",
-      "url": "https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "SO WHAT?",
         "url": "https://open.spotify.com/album/50CAhOJNUPC6zAThnQNzmG"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/7f6X7zERAXAbIYVLizIZ3O"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "All We Have Is Now",
+      "url": "https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 240206,
-      "name": "love song",
-      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 289346,
       "name": "February Stars",
       "url": "https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 240206,
+      "name": "love song",
+      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-02-16 19:56:13",
       "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 299013,
+      "name": "Dying Is Absolutely Safe",
+      "url": "https://open.spotify.com/track/4B161tnzwvFCWiOfx9T8Di"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2023-02-16 19:56:13",
       "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+        "name": "BUMMER",
+        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
         }
       ],
-      "duration_ms": 299013,
-      "name": "Dying Is Absolutely Safe",
-      "url": "https://open.spotify.com/track/4B161tnzwvFCWiOfx9T8Di"
+      "duration_ms": 234953,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1227,22 +1243,6 @@
       "duration_ms": 267333,
       "name": "Brother",
       "url": "https://open.spotify.com/track/4hmtCJAsVnaV3g6qkCsJ5b"
-    },
-    {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "BUMMER",
-        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 234953,
-      "name": "2008",
-      "url": "https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp"
     },
     {
       "added_at": "2023-02-16 19:56:13",

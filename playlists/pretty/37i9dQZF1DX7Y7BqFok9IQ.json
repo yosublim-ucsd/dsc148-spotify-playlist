@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: The Cold Stares",
-  "num_followers": 180367,
+  "num_followers": 180485,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDZjY2U5ZWFjODY2M2JhMmU4M2IyNTYxNzViZmM1MDY2Zjc4NmU3",
+  "snapshot_id": "MCxjZGRlMzVlOTJkYzRkNTM3ZmEwNTY5YjM3ODNlN2QxZWUwYWFiMWQy",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
     },
     {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "No Good",
+        "url": "https://open.spotify.com/album/3rrf4sUGwms2pXlNjU1m7M"
+      },
+      "artists": [
+        {
+          "name": "Chase Walker Band",
+          "url": "https://open.spotify.com/artist/0Fn9PiWweDIc6xdz5LXkqB"
+        }
+      ],
+      "duration_ms": 155853,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/2GnyPZtPRF0yrz7HzSj5bM"
+    },
+    {
       "added_at": "2023-08-18 04:01:00",
       "album": {
         "name": "Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound)",
@@ -119,6 +135,22 @@
       "duration_ms": 203000,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Black Gold",
+        "url": "https://open.spotify.com/album/5aUO6j1F2xdIbBsVWNW94j"
+      },
+      "artists": [
+        {
+          "name": "These Wicked Rivers",
+          "url": "https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu"
+        }
+      ],
+      "duration_ms": 216384,
+      "name": "Black Gold",
+      "url": "https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -199,6 +231,22 @@
       "duration_ms": 256489,
       "name": "Don't Look Down",
       "url": "https://open.spotify.com/track/4AlmXv44tiJ9dbJSeX8EKD"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "On My Hands",
+        "url": "https://open.spotify.com/album/2nWs7LzcrLUwSnjoX2bvdK"
+      },
+      "artists": [
+        {
+          "name": "King Vaudeville",
+          "url": "https://open.spotify.com/artist/1oZXZvudWk8Iej1P0VWzwS"
+        }
+      ],
+      "duration_ms": 205610,
+      "name": "On My Hands",
+      "url": "https://open.spotify.com/track/5In3Mo6cEy9gCVzpcCTolv"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -345,22 +393,6 @@
       "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5h9lVJST3IV5he4zCQJCBt"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 201803,
-      "name": "Nothing But The Blues",
-      "url": "https://open.spotify.com/track/6e9xUtsYzhChw0x7hfmxPd"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Good for Sumthin'",
@@ -475,22 +507,6 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Testify (Radio Edit)",
-        "url": "https://open.spotify.com/album/3gboQHxNh9JFRNk1A1tib4"
-      },
-      "artists": [
-        {
-          "name": "These Wicked Rivers",
-          "url": "https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu"
-        }
-      ],
-      "duration_ms": 253870,
-      "name": "Testify - Radio Edit",
-      "url": "https://open.spotify.com/track/0AMQlLoWnXwD9rwe852cUM"
     },
     {
       "added_at": "2021-05-19 14:25:19",
@@ -671,22 +687,6 @@
       "duration_ms": 257357,
       "name": "Easy Come, Easy Go",
       "url": "https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
     },
     {
       "added_at": "2022-02-11 05:02:00",

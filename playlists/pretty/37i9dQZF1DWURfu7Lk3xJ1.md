@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,666 likes - 257 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,791 likes - 257 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 104 | [Embers](https://open.spotify.com/track/0ksP7egvKZpPgKXijDoF8f) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Embers](https://open.spotify.com/album/2FO22nY8pIzRT7nHCidUGZ) | 1:56 |
 | 105 | [Mon Frére](https://open.spotify.com/track/6v1M5ZiUaLjYyaJaonKUKM) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Mon Frére](https://open.spotify.com/album/5kMYre1Xm6waTfWFPIOW3N) | 1:55 |
 | 106 | [Nocturne](https://open.spotify.com/track/0WVYmtoiKkbAC4oyEcQWRS) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Nocturne](https://open.spotify.com/album/6lpTX5XI0uVcYYcad3jvb2) | 1:32 |
-| 107 | [Sunset Swim](https://open.spotify.com/track/3nwxM0mJGiJw8QZ7xxbZuE) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Barbados](https://open.spotify.com/album/1tJ4Ip4x3WLkQ8nM0EKY0n) | 2:28 |
+| 107 | [Sunset Swim](https://open.spotify.com/track/6KeNS9lB6wxUzmw5PLVqJC) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Barbados](https://open.spotify.com/album/6Z7sTFs9hrpqD3ttiIr2td) | 2:28 |
 | 108 | [Calypso](https://open.spotify.com/track/7HxNVFupOSiPWqtMPQgOIP) | [Nessen](https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt), [floating memories](https://open.spotify.com/artist/0ReEwGlIYjES723kN7IBIN) | [Ad Infinitum](https://open.spotify.com/album/6SFDgGOiup4G96PQpp4cyE) | 2:00 |
 | 109 | [Higher Ground](https://open.spotify.com/track/2BSk6YtnWTMNBunWpsBPgM) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49) | [Higher Ground](https://open.spotify.com/album/0iARWX392DjFsfBYvBPbwI) | 2:27 |
 | 110 | [forest trails](https://open.spotify.com/track/2PXFoXdEZCJf8mCRYEHlZ5) | [Might 8](https://open.spotify.com/artist/1fr3CM53jAWfYSsMrrGrl0) | [forest trails](https://open.spotify.com/album/1XzTJ6rS4TBVrPgLt6EdsB) | 2:23 |
@@ -182,7 +182,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 172 | [High Tide](https://open.spotify.com/track/2pVIJ5q2gyh20xfvImyIBP) | [Lance Winfindale](https://open.spotify.com/artist/7FZWHOW55tcvWBMGsHVCTr), [imdøwnbad](https://open.spotify.com/artist/74o9Tlk3TU4aUC29XNPygr), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [gOka](https://open.spotify.com/artist/6sF52651NYQLHY58rxhLlK) | [High Tide](https://open.spotify.com/album/0yKuKRMYb8qx4ncVV94DcC) | 2:28 |
 | 173 | [Bonfire](https://open.spotify.com/track/3QAkdIvnrUlg2VGpT8HbIS) | [Kuba](https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo), [RdBeats](https://open.spotify.com/artist/77kFStmiMsr6uQ7w2GE5X9), [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Bonfire](https://open.spotify.com/album/2eVvDd56fI9nQs4cbdKAds) | 2:15 |
 | 174 | [Waking In Winter](https://open.spotify.com/track/2aRbXAmJWcgnpZUsrGPG2V) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [Gyatso](https://open.spotify.com/artist/6qUpXEPXKjsXpaBnCVhlwY) | [Waking In Winter](https://open.spotify.com/album/2CpMETbPGUETapj4VAoyyx) | 1:56 |
-| 175 | [Light Years Away](https://open.spotify.com/track/27esLzalhIbSXCNvPlAUfH) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [Out Of Orbit](https://open.spotify.com/album/0YjNahI1L5bQdDrl6Fq8TN) | 2:30 |
+| 175 | [Light Years Away](https://open.spotify.com/track/0NnGOsVYJJ0SX7Twq5PARG) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [Out Of Orbit](https://open.spotify.com/album/33hcdj1xEZrV2LMMRFs6q0) | 2:30 |
 | 176 | [Snowed In](https://open.spotify.com/track/5OfudAPpPBxxV5Nl9edfB6) | [Lunaco](https://open.spotify.com/artist/1ExbHTwjAHCB0JBa5Jk7VK), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Snowed In](https://open.spotify.com/album/2eD2CzsdYHASa76GY0MZup) | 2:29 |
 | 177 | [Along the lines](https://open.spotify.com/track/33UVNXx0dE5Bx3dzhz4DjX) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Along the lines](https://open.spotify.com/album/1NWkFsGdaQGyD86slsaSCE) | 2:24 |
 | 178 | [Warm Depths](https://open.spotify.com/track/1HX5jfauL0xXno0AY6I8nt) | [yoshen](https://open.spotify.com/artist/5KBqUOhZWDc2NB8Mwmhy7Z), [Foam](https://open.spotify.com/artist/4mVfOMuxawunYMWOWYXeFO), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Warm Depths](https://open.spotify.com/album/2Q0Yav64F3lF1NkFzgXvKj) | 2:14 |
@@ -266,4 +266,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 256 | [Lunar](https://open.spotify.com/track/1KeDvy5gExkrE27KL2zH74) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Hendy](https://open.spotify.com/artist/6McvQxkxDcQzLzRdDDhbMd) | [Lunar](https://open.spotify.com/album/2MU8tujgT7r38JV0BXbfxc) | 2:10 |
 | 257 | [Port Evenings](https://open.spotify.com/track/0tPjix5HfFWwKlJJ69QnE3) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Port Evenings](https://open.spotify.com/album/1UuJTx8Tv4udt0IVrVidgz) | 2:29 |
 
-Snapshot ID: `MCw0OTUyMTNiNGIxZWE2NDBjMDI1ODkxZDBlYWE2MDg5YjE0ZmY1NTA1`
+Snapshot ID: `MCxkNWE4YThlMTFkZWJiMzNlMDU5ODcxYmQzYWJmMTdmMzljNTI2MGQ0`

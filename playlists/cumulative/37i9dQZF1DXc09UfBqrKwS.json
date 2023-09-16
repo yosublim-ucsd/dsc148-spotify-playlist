@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Immortalit",
+        "url": "https://open.spotify.com/album/0sVUxXDcRPIDWYjUCp3arL"
+      },
+      "artists": [
+        {
+          "name": "Daze School",
+          "url": "https://open.spotify.com/artist/6FCobo1Rk8p8bCtT8iP4P6"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Immortalit",
+      "url": "https://open.spotify.com/track/2W9yvpSu6UMp2QbDVDGnIU"
+    },
+    {
+      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/4g4MLtYoDb6CZImvTCWtZE"
       },
@@ -3580,7 +3598,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 141137,
       "name": "Sineway",
       "url": "https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk"

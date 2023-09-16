@@ -4,7 +4,7 @@
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-287 songs - 18 hr 49 min
+288 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Call Me Up \- Sebastien Remix](https://open.spotify.com/track/4RCMsYncj7cNtb2OPObVXG) | [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT), [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS) | [Call Me Up \(Sebastien Remix\)](https://open.spotify.com/album/5tFrkHgSBIFxZNcvszjQqk) | 3:08 | 2021-08-05 | 2022-07-06 |
 | [Calmly](https://open.spotify.com/track/1ROmNAVxMVmTDwXIQcnWIZ) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Sail](https://open.spotify.com/album/3mfmjgtgtGl9f4hUg5CGed) | 4:14 | 2021-08-05 | 2022-06-01 |
 | [Can You Feel Me](https://open.spotify.com/track/35H95rUd08Fwm0DeDifwZM) | [Love Beans](https://open.spotify.com/artist/252cgVmlHfU9jkUArZ8gDm) | [Can You Feel Me](https://open.spotify.com/album/1uHej97mZJH7VVqluMqbRn) | 3:16 | 2021-08-05 | 2022-05-23 |
-| [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-05-30 |  |
+| [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-05-30 | 2023-09-16 |
+| [Candle Flame](https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:54 | 2023-09-01 |  |
 | [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 | 2021-08-05 | 2023-05-31 |
 | [Catching Eyes](https://open.spotify.com/track/22Vsz6sIdD97KROSX7oAyq) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3rR9PxHvLdjXtOsBGUwWHD) | 4:09 | 2023-06-22 |  |
 | [Caucciù \- Migliera Version](https://open.spotify.com/track/5dg7pjQANcYmTNL1OpGbkw) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow), [Zodyaco](https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1) | [Caucciù](https://open.spotify.com/album/5tfSzX06SkMHO3Jwn6CEVc) | 4:31 | 2023-05-14 | 2023-05-30 |

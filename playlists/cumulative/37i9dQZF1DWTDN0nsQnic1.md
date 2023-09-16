@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Ichika Nito
 
-90 songs - 4 hr 43 min
+91 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Talk In The Morning](https://open.spotify.com/track/4yxaiawEicI6fJHlGp5wAQ) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Breathe](https://open.spotify.com/album/6q39FZTCwg8y91KKQUTBq5) | 3:37 | 2021-09-08 |  |
 | [Tell Me When](https://open.spotify.com/track/4IrukTHhqJsr8SEpqz2Zx4) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:26 | 2021-09-08 |  |
 | [Tell Me When](https://open.spotify.com/track/2BlscWwajIvT29g6EiQaM9) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Tell Me When](https://open.spotify.com/album/32UaNF5vL1cC0341SHFfzO) | 4:27 | 2021-09-08 | 2022-07-29 |
-| [The Brook](https://open.spotify.com/track/0sK6jRVjGwUTEXVNCFe9t7) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Pegan Hill](https://open.spotify.com/album/1qT0jx1jNSzgWzvOt50qfI) | 1:55 | 2021-09-08 |  |
+| [The Brook](https://open.spotify.com/track/0sK6jRVjGwUTEXVNCFe9t7) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Pegan Hill](https://open.spotify.com/album/1qT0jx1jNSzgWzvOt50qfI) | 1:55 | 2021-09-08 | 2023-09-16 |
+| [The Brook](https://open.spotify.com/track/1sLUDiE3A4PuWT3vmiCAio) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Pegan Hill](https://open.spotify.com/album/3olh0hdIR0hLqYxJcfoPQB) | 1:55 | 2021-09-08 |  |
 | [thinking of you](https://open.spotify.com/track/21ZVMmHXpt3Qht5pjVgBMS) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [until the end](https://open.spotify.com/album/5PsSXT8MDeQtsGWaoOhajF) | 1:53 | 2021-09-08 |  |
 | [This World](https://open.spotify.com/track/5UrRSpJaU8sCp1C8OeurgV) | [Justus West](https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [This World](https://open.spotify.com/album/0VuUpLsPLvDF51IvRGk4jV) | 4:27 | 2021-09-08 |  |
 | [Time \(feat\. Rone'e Mozee\)](https://open.spotify.com/track/0kK40uWFqXRIguP8bR3zWA) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [The Elevator Album](https://open.spotify.com/album/6sqoYrqQFWonc33GsRZSvh) | 2:34 | 2021-09-08 |  |

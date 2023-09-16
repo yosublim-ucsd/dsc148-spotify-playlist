@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "ADRENALINE",
+        "url": "https://open.spotify.com/album/4Qxc7pJHI1Vhv9KC4gVR00"
+      },
+      "artists": [
+        {
+          "name": "SAOTOMAMORE",
+          "url": "https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "ADRENALINE",
+      "url": "https://open.spotify.com/track/1cKLruLixxtrtQfqFIYzAS"
+    },
+    {
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/5vSXoikwA71eYYku7kcKA6"
       },
@@ -1126,6 +1144,28 @@
       "duration_ms": 174400,
       "name": "ASTER",
       "url": "https://open.spotify.com/track/3b9TV8MrPLgtZo8VxHy7c7"
+    },
+    {
+      "album": {
+        "name": "Astral (remix)",
+        "url": "https://open.spotify.com/album/73nkDWYSEZS5jctcM0G5I9"
+      },
+      "artists": [
+        {
+          "name": "Shinigami Tenshi",
+          "url": "https://open.spotify.com/artist/0bxtJGTaXfnmliU3lOBKGv"
+        },
+        {
+          "name": "stere\u00f8verse",
+          "url": "https://open.spotify.com/artist/43gTfnfPEADGlnYd8PBatp"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140931,
+      "name": "Astral - remix",
+      "url": "https://open.spotify.com/track/1AoAM8db8Po78Q0jxgLlJv"
     },
     {
       "album": {
@@ -2316,6 +2356,32 @@
       "duration_ms": 237241,
       "name": "Broken - VIP",
       "url": "https://open.spotify.com/track/6JjdMJw5pVpiNIM1eqOiPp"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/1yTxpadK6ibPHYR0moDfxM"
+      },
+      "artists": [
+        {
+          "name": "Yonexx",
+          "url": "https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm"
+        },
+        {
+          "name": "lunar",
+          "url": "https://open.spotify.com/artist/6ba0gaC9S69uLIwRyRvdMr"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6a0XyDhUU6jfOavzXOik7j"
     },
     {
       "album": {
@@ -3727,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "DEUS DA MORTE",
+        "url": "https://open.spotify.com/album/4jGrg1HT6SMHZ7pJ1cNsHN"
+      },
+      "artists": [
+        {
+          "name": "ICHIRO",
+          "url": "https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "DEUS DA MORTE",
+      "url": "https://open.spotify.com/track/61oL0lzGD0CkQ0o4S2ZqFc"
+    },
+    {
+      "album": {
         "name": "Providence",
         "url": "https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi"
       },
@@ -4770,6 +4854,28 @@
       "duration_ms": 223409,
       "name": "Exile - Something Remix",
       "url": "https://open.spotify.com/track/6pk6PdIHUP1h3MiDhezJ17"
+    },
+    {
+      "album": {
+        "name": "Existence",
+        "url": "https://open.spotify.com/album/76ryfgoc14jxLSmk7bjmnU"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Fifty Grand",
+          "url": "https://open.spotify.com/artist/6XVOloBtqazlT9fufDyyZV"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161006,
+      "name": "Existence",
+      "url": "https://open.spotify.com/track/16hPKxLT8rxloIGI4EU4ak"
     },
     {
       "album": {
@@ -7068,7 +7174,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 281800,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc"
@@ -8018,6 +8124,24 @@
       "duration_ms": 182250,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/1VRgvtnfkkjgPw9a48KMiT"
+    },
+    {
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/2L4fNHpknsAsNCwBANyYh5"
+      },
+      "artists": [
+        {
+          "name": "Jayx",
+          "url": "https://open.spotify.com/artist/6YJqRzgXW6MEhTLSi27oPf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93855,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/1HMZEuNKoAOvMy1UxTHXAR"
     },
     {
       "album": {
@@ -10829,6 +10953,28 @@
     },
     {
       "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3bRGO3zDRiBIOv0AaDyL6b"
+      },
+      "artists": [
+        {
+          "name": "FarKnown",
+          "url": "https://open.spotify.com/artist/2fmyQ4158h70QFHJJV3YCa"
+        },
+        {
+          "name": "CassMae",
+          "url": "https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240026,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/4WzBtcN2VsGH6qnNq726mG"
+    },
+    {
+      "album": {
         "name": "Nobody's Home",
         "url": "https://open.spotify.com/album/3Dv9tEnMQdxNZ9lihdYAgE"
       },
@@ -13403,6 +13549,28 @@
     },
     {
       "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/0uh3F7FWBO4dXDB1osclxE"
+      },
+      "artists": [
+        {
+          "name": "37R",
+          "url": "https://open.spotify.com/artist/0oXTmSgYfCqL4sbxxOwXDP"
+        },
+        {
+          "name": "FORBIDDEN",
+          "url": "https://open.spotify.com/artist/38WHLDUHNVqfTTSYsz0hoO"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124363,
+      "name": "SAVAGE",
+      "url": "https://open.spotify.com/track/4JBRECHBQgv9NEfbM3L3Ze"
+    },
+    {
+      "album": {
         "name": "Savage (feat. Flux Pavilion & MAX)",
         "url": "https://open.spotify.com/album/1MWHKCowe1fS0A3LfRpEdK"
       },
@@ -13820,6 +13988,28 @@
       "duration_ms": 114285,
       "name": "SENTA",
       "url": "https://open.spotify.com/track/3P4UHcYF2WvDoqOBbrYPr5"
+    },
+    {
+      "album": {
+        "name": "SENTEN\u00c7A DE MORTE",
+        "url": "https://open.spotify.com/album/2RudoSMlfZ822f5k5lzWRn"
+      },
+      "artists": [
+        {
+          "name": "Seek",
+          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
+        },
+        {
+          "name": "crvvdy",
+          "url": "https://open.spotify.com/artist/15SwHotAFiElM5jeUhlOYe"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93529,
+      "name": "SENTEN\u00c7A DE MORTE",
+      "url": "https://open.spotify.com/track/6hiUOo5c2VPacqaFUM3XGR"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> The coziest rooms produce the most comforting tunes\. Cover: Spill Tab
+> Dreamy melodies and hushed vocals\. Cover: Emma from Men I trust.
 
 890 songs - 1 day 22 hr 20 min
 
@@ -155,7 +155,7 @@
 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 | 2021-06-04 | 2023-08-26 |
 | [Cloudy Days](https://open.spotify.com/track/5BlY7WtI52hx9FlMGcM8Wm) | [Sam Plant](https://open.spotify.com/artist/4yJhpF6wzsv1nH7ZUQDx1w), [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Cloudy Days](https://open.spotify.com/album/68hKxVlOw3iq3WaGiPeHC7) | 3:38 | 2019-07-31 | 2021-03-23 |
 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 | 2019-07-30\* |  |
-| [Co Luv](https://open.spotify.com/track/5RCgmUGvyS5wXNlVzsfagn) | [BEBELUNA](https://open.spotify.com/artist/55RGGwGDenbVKeCLIu5HXT), [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Bolo Boy](https://open.spotify.com/album/5AfF1jOMKdKA6HRbtwJECQ) | 3:47 | 2023-08-25 |  |
+| [Co Luv](https://open.spotify.com/track/5RCgmUGvyS5wXNlVzsfagn) | [BEBELUNA](https://open.spotify.com/artist/55RGGwGDenbVKeCLIu5HXT), [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Bolo Boy](https://open.spotify.com/album/5AfF1jOMKdKA6HRbtwJECQ) | 3:47 | 2023-08-25 | 2023-09-16 |
 | [Coffee's on Me](https://open.spotify.com/track/5UeYwxG6CXk8uMC7aGcRsn) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/1BwY5tsTSAZu1UZFUWyW9K) | 3:42 | 2021-08-27 | 2022-07-28 |
 | [Coffee's on Me](https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL) | 3:43 | 2023-04-17 |  |
 | [COLORS](https://open.spotify.com/track/7vtw03hfTf7tTYwjvjYC5h) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [COLORS](https://open.spotify.com/album/22t7uvZWa4PoPT2lD0DSmG) | 3:18 | 2022-04-08 | 2022-04-21 |
@@ -276,7 +276,7 @@
 | [Flaming Hot Cheetos](https://open.spotify.com/track/6Q4oiVdxUveuaVEXWfephy) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/236cmOOacJenVPmlb7pAAe) | 2:03 | 2019-07-31 | 2022-07-28 |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 | 2021-02-27 | 2023-06-10 |
 | [Floating in Love](https://open.spotify.com/track/3QFMTa7RVTEYYmOCiGHsAu) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Floating in Love](https://open.spotify.com/album/7j7dgu3vkhqRthbjsPJDKn) | 2:11 | 2022-06-14 | 2022-07-24 |
-| [Floating Sun](https://open.spotify.com/track/3t0xEA4jxxiDNdUOo2Ri7x) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Floating Sun](https://open.spotify.com/album/6zHqfxThvhCt7dV0xdgnmb) | 2:26 | 2021-08-27 | 2023-09-11 |
+| [Floating Sun](https://open.spotify.com/track/3t0xEA4jxxiDNdUOo2Ri7x) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Floating Sun](https://open.spotify.com/album/6zHqfxThvhCt7dV0xdgnmb) | 2:26 | 2021-08-27 |  |
 | [Flook](https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 1:27 | 2023-06-26 |  |
 | [Flowers](https://open.spotify.com/track/6wxFjDhoGdVPSeZboWNbLE) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Flowers](https://open.spotify.com/album/3tadYy0gBmqmIMpxWBfwJT) | 2:53 | 2021-02-27 | 2022-06-22 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-08-27 | 2022-12-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Nico Hern\u00e1ndez, Pipe Bueno & Jessi Uribe",
-  "num_followers": 211461,
+  "num_followers": 211569,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODBhMDk5YTVjYjk0N2QxN2VjYmM2ZDAzM2Q5MzViYzMyNzQ2MmEz",
+  "snapshot_id": "MCw2ZDIwZmEwNjQ0ZmNkZDJlZDk0MGUxYWVjYTI2NzVlMDk1MWVmYmMx",
   "tracks": [
     {
       "added_at": "2023-09-08 07:59:00",
@@ -35,26 +35,6 @@
     {
       "added_at": "2023-09-08 07:59:00",
       "album": {
-        "name": "DE LUNES A LUNES",
-        "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "DE LUNES A LUNES",
-      "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
-    },
-    {
-      "added_at": "2023-09-08 07:59:00",
-      "album": {
         "name": "Hasta La Madre",
         "url": "https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5"
       },
@@ -75,6 +55,42 @@
     {
       "added_at": "2023-09-08 07:59:00",
       "album": {
+        "name": "DE LUNES A LUNES",
+        "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "DE LUNES A LUNES",
+      "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
+    },
+    {
+      "added_at": "2023-09-15 05:02:00",
+      "album": {
+        "name": "M\u00e9xico en Mi Voz",
+        "url": "https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 199489,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6"
+    },
+    {
+      "added_at": "2023-09-08 07:59:00",
+      "album": {
         "name": "Obsessed Pt. 2",
         "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
       },
@@ -87,6 +103,26 @@
       "duration_ms": 197365,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
+    },
+    {
+      "added_at": "2023-09-15 05:02:00",
+      "album": {
+        "name": "Si Dios Perdona",
+        "url": "https://open.spotify.com/album/70fClqkoidHfZivofJHZmc"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 180748,
+      "name": "Si Dios Perdona",
+      "url": "https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT"
     },
     {
       "added_at": "2023-09-08 07:59:00",
@@ -109,6 +145,22 @@
       "url": "https://open.spotify.com/track/1q0rUyBplcbhKws6GCH9Z0"
     },
     {
+      "added_at": "2023-09-15 05:02:00",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/1Tef5lg7nycsUlABVz41Cy"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "duration_ms": 183759,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/5xWl4EKIDgoBEekNbNDrvJ"
+    },
+    {
       "added_at": "2023-09-08 07:59:00",
       "album": {
         "name": "Malo",
@@ -123,6 +175,22 @@
       "duration_ms": 209990,
       "name": "Malo",
       "url": "https://open.spotify.com/track/1DcVxDd20Hm4WjYcQRPfH1"
+    },
+    {
+      "added_at": "2023-09-15 05:02:00",
+      "album": {
+        "name": "Tu Forma de Amar",
+        "url": "https://open.spotify.com/album/1qbnIXfdu9jhHyAKzN7dTx"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "Tu Forma de Amar",
+      "url": "https://open.spotify.com/track/2BjpFeEueHgxSqnLQBrOnk"
     },
     {
       "added_at": "2023-09-08 07:59:00",
@@ -147,22 +215,6 @@
     {
       "added_at": "2023-09-08 07:59:00",
       "album": {
-        "name": "Pa' Olvidar",
-        "url": "https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 165756,
-      "name": "En Mis Zapatos",
-      "url": "https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3"
-    },
-    {
-      "added_at": "2023-09-08 07:59:00",
-      "album": {
         "name": "Corro A Tus Brazos",
         "url": "https://open.spotify.com/album/31MyEJ9tC42clCwri2yMQG"
       },
@@ -183,26 +235,6 @@
     {
       "added_at": "2023-09-08 07:59:00",
       "album": {
-        "name": "Me Liber\u00e9",
-        "url": "https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 179372,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T"
-    },
-    {
-      "added_at": "2023-09-08 07:59:00",
-      "album": {
         "name": "Ajena",
         "url": "https://open.spotify.com/album/5FT5JbCNLUB6SO7eruWV65"
       },
@@ -219,26 +251,6 @@
       "duration_ms": 180644,
       "name": "Ajena",
       "url": "https://open.spotify.com/track/7srhcfKVVgCyrBCEmmei90"
-    },
-    {
-      "added_at": "2023-09-08 07:59:00",
-      "album": {
-        "name": "Voy a Amarte (Remix)",
-        "url": "https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 142422,
-      "name": "Voy a Amarte - Remix",
-      "url": "https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R"
     },
     {
       "added_at": "2023-09-08 07:59:00",
@@ -387,22 +399,6 @@
       "duration_ms": 155550,
       "name": "Las Morras",
       "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
-    },
-    {
-      "added_at": "2023-09-08 07:59:00",
-      "album": {
-        "name": "Un Cumbi\u00f3n Dolido",
-        "url": "https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 235434,
-      "name": "Un Cumbi\u00f3n Dolido",
-      "url": "https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5"
     },
     {
       "added_at": "2023-09-08 07:59:00",

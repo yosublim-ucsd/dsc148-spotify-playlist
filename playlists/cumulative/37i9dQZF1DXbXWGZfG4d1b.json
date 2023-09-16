@@ -576,7 +576,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 232173,
       "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
       "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
@@ -1699,6 +1699,28 @@
     },
     {
       "album": {
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/7IyGt8wniTS7XlDf5I3yRZ"
+      },
+      "artists": [
+        {
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+        },
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134875,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/4FWInLlki1xvIHcRAbbY5c"
+    },
+    {
+      "album": {
         "name": "Curriculum Completo",
         "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
       },
@@ -2715,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "El Verano",
+        "url": "https://open.spotify.com/album/2d5Aw2Cfe1s7MdJbPgw0w2"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320300,
+      "name": "El verano",
+      "url": "https://open.spotify.com/track/37fjzTuEuHnwmsZFTOFQEo"
+    },
+    {
+      "album": {
         "name": "Suite Panorama",
         "url": "https://open.spotify.com/album/5PsabYPEJdDumRn4uSnBrP"
       },
@@ -2904,7 +2944,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 205303,
       "name": "Escorpi\u00f3n",
       "url": "https://open.spotify.com/track/3zAZ2WVP5IOQx9mX7spd9f"
@@ -2944,6 +2984,24 @@
       "duration_ms": 259590,
       "name": "Esferas",
       "url": "https://open.spotify.com/track/6hI36VcEXr85nZEbQB9aqD"
+    },
+    {
+      "album": {
+        "name": "D\u00eda del Trabajador",
+        "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285176,
+      "name": "Eso no es Amor",
+      "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
     },
     {
       "album": {
@@ -3168,7 +3226,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 229090,
       "name": "Fantasmas - slowed + reverb",
       "url": "https://open.spotify.com/track/5XdM70WbXSbQxTvqS4zfCh"
@@ -3392,7 +3450,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 162605,
       "name": "Frutillas con Crema",
       "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
@@ -3970,7 +4028,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 174014,
       "name": "Intermodal",
       "url": "https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3"
@@ -4410,6 +4468,24 @@
       "duration_ms": 235644,
       "name": "La L\u00f3gica de lo Incierto",
       "url": "https://open.spotify.com/track/6C1Ruv5uBST7eo52BUGTvz"
+    },
+    {
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/1kJEPy20AkL9lccVH8oTpC"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303583,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/2exvnYffejv4xKrafboFq1"
     },
     {
       "album": {
@@ -5126,7 +5202,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 262595,
       "name": "MARCIANO ABANDONADO - En Vivo",
       "url": "https://open.spotify.com/track/7LWvtra8fs2h5VpDIAVW5P"
@@ -6176,7 +6252,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Nocturno",
       "url": "https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9"
@@ -7844,7 +7920,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 173507,
       "name": "Sacate",
       "url": "https://open.spotify.com/track/4chakHsDAQ68Pn2ul2mBYl"
@@ -8206,7 +8282,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 290793,
       "name": "Su Forma de Mirar",
       "url": "https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT"
@@ -8368,7 +8444,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 268000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/6IFhWqaQzokNivDjSiHpc0"

@@ -1734,6 +1734,24 @@
     {
       "album": {
         "name": "P.O.P",
+        "url": "https://open.spotify.com/album/4xSbwekBfhkCbnSi3eZklg"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227732,
+      "name": "L'amour le jour",
+      "url": "https://open.spotify.com/track/3jbi9A7SUq2XKhXj0oBZB5"
+    },
+    {
+      "album": {
+        "name": "P.O.P",
         "url": "https://open.spotify.com/album/5uZvHvkYKHQhs8Eowhz1jR"
       },
       "artists": [
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 227732,
       "name": "L'amour le jour",
       "url": "https://open.spotify.com/track/7E3lkl2RudmSHzholbRzsE"

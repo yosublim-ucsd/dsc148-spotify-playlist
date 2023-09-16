@@ -1,13 +1,49 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 54576,
+  "num_followers": 54594,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDIyMzQ0MTY5MjY0MzU2ZTI1OWUxYThkNmY1NDVjYzdjZWM3Yzk2",
+  "snapshot_id": "MCxmYzdjNTQxZTUwYmU0MTA0YjNhYzg1MDAxYzUxN2IwYzg0NDRlMjE5",
   "tracks": [
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Ignorant / Good Time",
+        "url": "https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        }
+      ],
+      "duration_ms": 180848,
+      "name": "Good Time (feat. Puri) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Fz6msvT62cIQOgAJXOqNf"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Missiles",
+        "url": "https://open.spotify.com/album/7Dt51R1XaFzJiOYexjDLkN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Missiles",
+      "url": "https://open.spotify.com/track/3SuOjeljBRqvDEQecwm53o"
+    },
     {
       "added_at": "2023-04-17 14:05:23",
       "album": {
@@ -25,20 +61,56 @@
       "url": "https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A"
     },
     {
-      "added_at": "2023-05-30 12:45:30",
+      "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "dear abbey",
-        "url": "https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9"
+        "name": "Tic",
+        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 130815,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
+    },
+    {
+      "added_at": "2023-09-15 09:08:00",
+      "album": {
+        "name": "we grew up together",
+        "url": "https://open.spotify.com/album/0a8IV62EQe7cWglIFJXapM"
       },
       "artists": [
         {
           "name": "hongjoin",
           "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        },
+        {
+          "name": "RENE",
+          "url": "https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg"
         }
       ],
-      "duration_ms": 234820,
-      "name": "dear abbey",
-      "url": "https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI"
+      "duration_ms": 244000,
+      "name": "we grew up together",
+      "url": "https://open.spotify.com/track/343YezHfY7G8ZliqUHYQKS"
+    },
+    {
+      "added_at": "2023-07-07 07:23:00",
+      "album": {
+        "name": "Kenaniah",
+        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
+      },
+      "artists": [
+        {
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+        }
+      ],
+      "duration_ms": 280769,
+      "name": "Totoo",
+      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
     },
     {
       "added_at": "2023-09-01 09:20:13",
@@ -91,6 +163,22 @@
       "duration_ms": 167248,
       "name": "FU In My Head",
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
+    },
+    {
+      "added_at": "2023-09-15 09:08:00",
+      "album": {
+        "name": "Fui El Borrego",
+        "url": "https://open.spotify.com/album/0Gba5NI1R8k8LUiflUEgbg"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Fui El Borrego",
+      "url": "https://open.spotify.com/track/4K9ZTPMrvpQ2mnLMu6UKnR"
     },
     {
       "added_at": "2023-06-09 08:10:55",
@@ -161,22 +249,6 @@
       "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "Missiles",
-        "url": "https://open.spotify.com/album/7Dt51R1XaFzJiOYexjDLkN"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Missiles",
-      "url": "https://open.spotify.com/track/3SuOjeljBRqvDEQecwm53o"
-    },
-    {
       "added_at": "2023-09-08 07:14:00",
       "album": {
         "name": "\u00c0 l'inverse",
@@ -223,6 +295,22 @@
       "duration_ms": 223957,
       "name": "Somebody's Pleasure",
       "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
+    },
+    {
+      "added_at": "2023-09-15 09:08:00",
+      "album": {
+        "name": "vier aufnahmen",
+        "url": "https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 145063,
+      "name": "\\ sympathisch",
+      "url": "https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX"
     },
     {
       "added_at": "2023-09-01 09:20:13",
@@ -289,20 +377,20 @@
       "url": "https://open.spotify.com/track/4FHqdFddhbFpxUgvw5HVu0"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
+      "added_at": "2023-09-15 09:08:00",
       "album": {
-        "name": "Tic",
-        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+        "name": "Vlieg Hoog",
+        "url": "https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ"
       },
       "artists": [
         {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
         }
       ],
-      "duration_ms": 130815,
-      "name": "Tic",
-      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
+      "duration_ms": 147251,
+      "name": "Dingen Die Ik Doe",
+      "url": "https://open.spotify.com/track/4l4GsNFlVt6J3Wr4LJqmlg"
     },
     {
       "added_at": "2023-09-08 07:14:00",
@@ -337,22 +425,6 @@
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
-      "added_at": "2023-08-25 05:16:34",
-      "album": {
-        "name": "Teen",
-        "url": "https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Teen",
-      "url": "https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r"
-    },
-    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "Right Person, Wrong Time",
@@ -367,6 +439,26 @@
       "duration_ms": 238410,
       "name": "Right Person, Wrong Time",
       "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
+    },
+    {
+      "added_at": "2023-09-15 09:08:00",
+      "album": {
+        "name": "SCENE!",
+        "url": "https://open.spotify.com/album/08O2jixS5hkpjsI0KZUzP2"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "duration_ms": 146667,
+      "name": "SCENE!",
+      "url": "https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO"
     },
     {
       "added_at": "2023-04-17 14:05:23",
@@ -435,26 +527,6 @@
       "duration_ms": 288298,
       "name": "Lamha",
       "url": "https://open.spotify.com/track/2dCrvLPU36Iv8p7Tq1Vy6V"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Ignorant / Good Time",
-        "url": "https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        },
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        }
-      ],
-      "duration_ms": 180848,
-      "name": "Good Time (feat. Puri) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Fz6msvT62cIQOgAJXOqNf"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -545,20 +617,20 @@
       "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"
     },
     {
-      "added_at": "2023-09-08 07:14:00",
+      "added_at": "2023-09-15 09:08:00",
       "album": {
-        "name": "F.N.A.P.",
-        "url": "https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE"
+        "name": "Egal (was passiert)",
+        "url": "https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe"
       },
       "artists": [
         {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
         }
       ],
-      "duration_ms": 171000,
-      "name": "F.N.A.P.",
-      "url": "https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l"
+      "duration_ms": 198120,
+      "name": "Egal (was passiert)",
+      "url": "https://open.spotify.com/track/0kNkyLekrgYVDt6EPmslv2"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -591,22 +663,6 @@
       "duration_ms": 179210,
       "name": "Khamakhaa",
       "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
-    },
-    {
-      "added_at": "2023-07-07 07:23:00",
-      "album": {
-        "name": "Kenaniah",
-        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
-      },
-      "artists": [
-        {
-          "name": "Kenaniah",
-          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
-        }
-      ],
-      "duration_ms": 280769,
-      "name": "Totoo",
-      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
     },
     {
       "added_at": "2023-09-01 09:20:13",
@@ -813,22 +869,6 @@
       "url": "https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU"
     },
     {
-      "added_at": "2023-07-17 12:09:23",
-      "album": {
-        "name": "Rib\u00e9ry",
-        "url": "https://open.spotify.com/album/0qTO7678yKV6K6fdeFIb1Q"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Rib\u00e9ry",
-      "url": "https://open.spotify.com/track/4LSO1o2dTqJedirEoyBNP0"
-    },
-    {
       "added_at": "2023-07-07 07:23:00",
       "album": {
         "name": "somebody's daughter",
@@ -943,22 +983,6 @@
       "duration_ms": 139469,
       "name": "Time Is Running",
       "url": "https://open.spotify.com/track/1nKZqPS4cg1gbZAdqxQEcN"
-    },
-    {
-      "added_at": "2023-06-09 08:10:55",
-      "album": {
-        "name": "Shirt & Handtuch",
-        "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Shirt & Handtuch",
-      "url": "https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -1083,22 +1107,6 @@
       "duration_ms": 175367,
       "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a"
-    },
-    {
-      "added_at": "2023-07-13 12:32:20",
-      "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
     },
     {
       "added_at": "2023-05-30 12:45:30",

@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 22738,
+  "num_followers": 22747,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzE3MzBhMzI3NWI4ZjQ2NWFhYWI1MGY5MzJmMjgwZGQwZDE0MmMz",
+  "snapshot_id": "MCxkZDFlM2ExYWQ1NWQxM2Y5NTMwNzI1NTgzYzU2YzUzOGIxYTNiNTNk",
   "tracks": [
     {
       "added_at": "2023-07-20 14:31:09",
@@ -212,16 +212,16 @@
       },
       "artists": [
         {
+          "name": "Nishan S",
+          "url": "https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G"
+        },
+        {
           "name": "Athmik Rai",
           "url": "https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev"
         },
         {
           "name": "Dr Nithin S",
           "url": "https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD"
-        },
-        {
-          "name": "Nishan S",
-          "url": "https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G"
         }
       ],
       "duration_ms": 162000,

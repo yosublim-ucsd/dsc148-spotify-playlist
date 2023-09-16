@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "ALORS BRAZIL",
+        "url": "https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P"
+      },
+      "artists": [
+        {
+          "name": "NONTHENSE",
+          "url": "https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101321,
+      "name": "ALORS BRAZIL",
+      "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
+    },
+    {
+      "album": {
         "name": "Always Want Me",
         "url": "https://open.spotify.com/album/7hnUt41M77FkCfwn7wMcXo"
       },
@@ -6547,6 +6565,28 @@
     },
     {
       "album": {
+        "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
+        "url": "https://open.spotify.com/album/367E0XjthTZ3hHVkN5ezJr"
+      },
+      "artists": [
+        {
+          "name": "FR3ST",
+          "url": "https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159842,
+      "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
+      "url": "https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT"
+    },
+    {
+      "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
@@ -7754,7 +7794,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 108270,
       "name": "PIZZA PHONK",
       "url": "https://open.spotify.com/track/58IuZVow8rfBrZfpTnL6ze"
@@ -8898,7 +8938,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 131239,
       "name": "SHOOTERS",
       "url": "https://open.spotify.com/track/5hJewESdjToYG75xQGXyJy"
@@ -10406,6 +10446,32 @@
       "duration_ms": 112588,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/6hzs9mLhbdG095vRsXlKmg"
+    },
+    {
+      "album": {
+        "name": "TUCA DONKA",
+        "url": "https://open.spotify.com/album/27XmqsKeLyr5jDURAordcd"
+      },
+      "artists": [
+        {
+          "name": "CURSEDEVIL",
+          "url": "https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "Skorde",
+          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75692,
+      "name": "TUCA DONKA",
+      "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
     },
     {
       "album": {

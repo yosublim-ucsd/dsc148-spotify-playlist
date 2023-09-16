@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "A Beautiful Dream",
+        "url": "https://open.spotify.com/album/3OLBqYv0Tv6QAlRdcpxQsl"
+      },
+      "artists": [
+        {
+          "name": "Andy Snitzer",
+          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240840,
+      "name": "A Beautiful Dream",
+      "url": "https://open.spotify.com/track/54q9Z3bppcAviIX7cX5mXB"
+    },
+    {
+      "album": {
         "name": "A Brighter Day",
         "url": "https://open.spotify.com/album/74rVku2kW6XDWv5eTO72we"
       },
@@ -1083,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Champagne Sky",
+        "url": "https://open.spotify.com/album/7813D7cYBLXzJAxmGeTtd9"
+      },
+      "artists": [
+        {
+          "name": "Ilya Serov",
+          "url": "https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248431,
+      "name": "Champagne Sky",
+      "url": "https://open.spotify.com/track/1Nl85nf0Q9JNUVOxSa86k4"
+    },
+    {
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
       },
@@ -1252,7 +1288,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 321750,
       "name": "Coastline Drive",
       "url": "https://open.spotify.com/track/5j05IaaOCvj4AGfZmrp656"
@@ -2502,7 +2538,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 270946,
       "name": "G-Wiggle",
       "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
@@ -5270,7 +5306,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 248712,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
@@ -6820,6 +6856,24 @@
       "duration_ms": 258312,
       "name": "Trust and Faith",
       "url": "https://open.spotify.com/track/2fooyGgpvP6IfAmueqdEBP"
+    },
+    {
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/1Gr8ZUvFXgVZWzSLOMW7bE"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273500,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7"
     },
     {
       "album": {

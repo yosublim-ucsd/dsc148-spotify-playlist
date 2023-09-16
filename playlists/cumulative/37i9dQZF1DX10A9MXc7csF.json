@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Omar Rodriguez & Christian Lara",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Adrian L Santos & Oscar Maydon",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -1210,6 +1210,32 @@
       "duration_ms": 142591,
       "name": "Calibrado",
       "url": "https://open.spotify.com/track/0Wkz1MEP9L5aB0lHgkSj0q"
+    },
+    {
+      "album": {
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/45AmYYOpFm7IkeR8hIPskd"
+      },
+      "artists": [
+        {
+          "name": "Seth Cottengim",
+          "url": "https://open.spotify.com/artist/04pqalX0SdiyyQWp4LXb8C"
+        },
+        {
+          "name": "Jr Heguertty",
+          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
+        },
+        {
+          "name": "llusion Eterno",
+          "url": "https://open.spotify.com/artist/4vbi8OkSeXBShHbvBm3Kol"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143749,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/73w4NDiIu7pvpjxntDkRir"
     },
     {
       "album": {
@@ -2751,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "El Pixie",
+        "url": "https://open.spotify.com/album/7esUg3tVtbDK7WciQNh6m5"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Soto",
+          "url": "https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "El Pixie",
+      "url": "https://open.spotify.com/track/3DtZTUN8G1IBqDLKmDZfzs"
+    },
+    {
+      "album": {
         "name": "El Piyi",
         "url": "https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq"
       },
@@ -2896,6 +2940,24 @@
       "duration_ms": 204996,
       "name": "El Se\u00f1oron (En Vivo)",
       "url": "https://open.spotify.com/track/3LemZBFc7yP7fhyJrrRnO4"
+    },
+    {
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3TQE7Z8ScW2bFmB1DdVp7X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140826,
+      "name": "El Silent",
+      "url": "https://open.spotify.com/track/1A4brAeYlatGpoRxAs06UE"
     },
     {
       "album": {
@@ -4598,7 +4660,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
@@ -5964,7 +6026,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 160943,
       "name": "Muchos Dec\u00edan",
       "url": "https://open.spotify.com/track/3X81U46uSDp6Ju1GO5cFBv"
@@ -6795,6 +6857,28 @@
     },
     {
       "album": {
+        "name": "Pal Amor Soy Malo (Remix)",
+        "url": "https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Pal Amor Soy Malo - Remix",
+      "url": "https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy"
+    },
+    {
+      "album": {
         "name": "Para Aclararles",
         "url": "https://open.spotify.com/album/0Z9JwvKpcREMZxlG5eBUCY"
       },
@@ -6944,7 +7028,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 202788,
       "name": "Perdon, Por Mi Suerte (Single)",
       "url": "https://open.spotify.com/track/2WnSxkYx1oZjlNpzcXZNW3"
@@ -7430,6 +7514,24 @@
       "duration_ms": 156072,
       "name": "Que Sigan Llegando Las Pacas",
       "url": "https://open.spotify.com/track/75jkAn2RtEOwaPy3MFxJB4"
+    },
+    {
+      "album": {
+        "name": "Que Sucedi\u00f3",
+        "url": "https://open.spotify.com/album/4YGj4oLb9swMSinQWIJT0f"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215803,
+      "name": "Que Sucedi\u00f3",
+      "url": "https://open.spotify.com/track/47yYUeEFeIqIB3j9iilC21"
     },
     {
       "album": {
@@ -9128,7 +9230,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 169902,
       "name": "Un Juguete",
       "url": "https://open.spotify.com/track/79A20lq2tkXsUnKrb393e5"
@@ -9650,7 +9752,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 238666,
       "name": "VRGCRA",
       "url": "https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W"

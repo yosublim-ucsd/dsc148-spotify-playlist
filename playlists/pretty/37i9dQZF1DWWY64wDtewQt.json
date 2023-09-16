@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 6505870,
+  "num_followers": 6512661,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTUwZTU2NTNlMGJhYTA2OGYyZmJkMzczYWYyYjUxY2Y1YzE4MTU5",
+  "snapshot_id": "MCxhNWVlZDFmZGI2N2M3ZTYwZjZiODY0ZjBmMGI1ZjgzNmQ0NzQ4Yjc5",
   "tracks": [
     {
       "added_at": "2023-06-02 17:32:35",
@@ -73,6 +73,26 @@
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
+      "added_at": "2023-06-09 13:51:36",
+      "album": {
+        "name": "BRAZILIAN DAN\u00c7A PHONK",
+        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "duration_ms": 118194,
+      "name": "BRAZILIAN DAN\u00c7A PHONK",
+      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Murder In My Mind",
@@ -109,24 +129,24 @@
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
     },
     {
-      "added_at": "2023-06-09 13:51:36",
+      "added_at": "2023-09-08 15:16:54",
       "album": {
-        "name": "BRAZILIAN DAN\u00c7A PHONK",
-        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
+        "name": "LOVELY BASTARDS",
+        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
       },
       "artists": [
         {
-          "name": "6YNTHMANE",
-          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
         },
         {
-          "name": "RXDXVIL",
-          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
         }
       ],
-      "duration_ms": 118194,
-      "name": "BRAZILIAN DAN\u00c7A PHONK",
-      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+      "duration_ms": 116104,
+      "name": "LOVELY BASTARDS",
+      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
     },
     {
       "added_at": "2023-06-09 13:51:36",
@@ -185,6 +205,26 @@
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
+      "added_at": "2023-08-04 15:24:45",
+      "album": {
+        "name": "Memory Reboot",
+        "url": "https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "Narvent",
+          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+        }
+      ],
+      "duration_ms": 209416,
+      "name": "Memory Reboot",
+      "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
+    },
+    {
       "added_at": "2022-04-13 07:53:17",
       "album": {
         "name": "RAVE",
@@ -215,6 +255,34 @@
       "duration_ms": 146274,
       "name": "GigaChad Theme - Phonk House Version",
       "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+    },
+    {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "Life in Rio",
+        "url": "https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        },
+        {
+          "name": "TOLCHONOV",
+          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
+        }
+      ],
+      "duration_ms": 94418,
+      "name": "Life in Rio",
+      "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
     },
     {
       "added_at": "2022-10-14 08:20:18",
@@ -281,90 +349,6 @@
       "url": "https://open.spotify.com/track/0dQZTgDVjsQfrp7VCTQqYm"
     },
     {
-      "added_at": "2023-05-05 15:57:14",
-      "album": {
-        "name": "Life in Rio",
-        "url": "https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5"
-      },
-      "artists": [
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "NUEKI",
-          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
-        },
-        {
-          "name": "Crazy Mano",
-          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
-        },
-        {
-          "name": "TOLCHONOV",
-          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
-        }
-      ],
-      "duration_ms": 94418,
-      "name": "Life in Rio",
-      "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
-    },
-    {
-      "added_at": "2023-09-08 15:16:54",
-      "album": {
-        "name": "LOVELY BASTARDS",
-        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
-      },
-      "artists": [
-        {
-          "name": "ZWE1HVNDXR",
-          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
-        },
-        {
-          "name": "yatashigang",
-          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
-        }
-      ],
-      "duration_ms": 116104,
-      "name": "LOVELY BASTARDS",
-      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
-    },
-    {
-      "added_at": "2023-08-04 15:24:45",
-      "album": {
-        "name": "Memory Reboot",
-        "url": "https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "Narvent",
-          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
-        }
-      ],
-      "duration_ms": 209416,
-      "name": "Memory Reboot",
-      "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
-    },
-    {
-      "added_at": "2022-09-02 08:01:31",
-      "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
-      },
-      "artists": [
-        {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
-    },
-    {
       "added_at": "2023-04-26 16:15:07",
       "album": {
         "name": "Sea Of Problems",
@@ -381,20 +365,48 @@
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
     },
     {
-      "added_at": "2022-11-11 07:32:56",
+      "added_at": "2023-07-21 09:05:00",
       "album": {
-        "name": "Scopin",
-        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
+        "name": "YUM YUM",
+        "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
       },
       "artists": [
         {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 101632,
-      "name": "Scopin",
-      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
+      "duration_ms": 129697,
+      "name": "YUM YUM",
+      "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
+    },
+    {
+      "added_at": "2023-08-18 14:41:07",
+      "album": {
+        "name": "Ketamine Girl",
+        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
       "added_at": "2022-06-10 07:37:37",
@@ -429,48 +441,36 @@
       "url": "https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"
     },
     {
-      "added_at": "2023-08-18 14:41:07",
+      "added_at": "2022-09-02 08:01:31",
       "album": {
-        "name": "Ketamine Girl",
-        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
       },
       "artists": [
         {
-          "name": "akiaura",
-          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
-        },
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        },
-        {
-          "name": "STM",
-          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Sleepwalker",
-      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
-      "added_at": "2023-07-21 09:05:00",
+      "added_at": "2022-11-11 07:32:56",
       "album": {
-        "name": "YUM YUM",
-        "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
+        "name": "Scopin",
+        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
       },
       "artists": [
         {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
         }
       ],
-      "duration_ms": 129697,
-      "name": "YUM YUM",
-      "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
+      "duration_ms": 101632,
+      "name": "Scopin",
+      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
     },
     {
       "added_at": "2023-02-04 02:41:25",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/684yJVwS41anCimZla5jk9"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Why Not",
-        "url": "https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Playa",
-          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Why Not",
-      "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
-    },
-    {
       "added_at": "2023-08-25 14:35:59",
       "album": {
         "name": "ultraphunk",
@@ -723,6 +707,22 @@
       "duration_ms": 115421,
       "name": "ultraphunk",
       "url": "https://open.spotify.com/track/2rCVGFo2htxWlkDwm3klAB"
+    },
+    {
+      "added_at": "2023-08-25 14:35:59",
+      "album": {
+        "name": "RITMO BRUTALISMO",
+        "url": "https://open.spotify.com/album/0cqTIJzzTPD9d7hnt9qx5a"
+      },
+      "artists": [
+        {
+          "name": "Xllie!",
+          "url": "https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ"
+        }
+      ],
+      "duration_ms": 136005,
+      "name": "RITMO BRUTALISMO",
+      "url": "https://open.spotify.com/track/5iPWVa2YCsEyGDPlnYtN7H"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -931,22 +931,6 @@
       "duration_ms": 149461,
       "name": "COWBELL WARRIOR!",
       "url": "https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V"
-    },
-    {
-      "added_at": "2023-08-25 14:35:59",
-      "album": {
-        "name": "RITMO BRUTALISMO",
-        "url": "https://open.spotify.com/album/0cqTIJzzTPD9d7hnt9qx5a"
-      },
-      "artists": [
-        {
-          "name": "Xllie!",
-          "url": "https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ"
-        }
-      ],
-      "duration_ms": 136005,
-      "name": "RITMO BRUTALISMO",
-      "url": "https://open.spotify.com/track/5iPWVa2YCsEyGDPlnYtN7H"
     },
     {
       "added_at": "2022-12-09 08:15:38",
@@ -1553,6 +1537,30 @@
       "url": "https://open.spotify.com/track/1vKRuWNMzYKX2MxdQawM0N"
     },
     {
+      "added_at": "2023-09-15 14:15:29",
+      "album": {
+        "name": "TUCA DONKA",
+        "url": "https://open.spotify.com/album/27XmqsKeLyr5jDURAordcd"
+      },
+      "artists": [
+        {
+          "name": "CURSEDEVIL",
+          "url": "https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "Skorde",
+          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
+        }
+      ],
+      "duration_ms": 75692,
+      "name": "TUCA DONKA",
+      "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
+    },
+    {
       "added_at": "2023-07-21 09:05:00",
       "album": {
         "name": "PSYCHO FUNK",
@@ -1689,6 +1697,22 @@
       "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Why Not",
+        "url": "https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Playa",
+          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Why Not",
+      "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
+    },
+    {
       "added_at": "2023-03-31 15:56:27",
       "album": {
         "name": "Own Paradise",
@@ -1705,22 +1729,6 @@
       "url": "https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG"
     },
     {
-      "added_at": "2022-08-26 10:49:32",
-      "album": {
-        "name": "SHOOTERS",
-        "url": "https://open.spotify.com/album/5pm2qVAOwfcJrb8lRJQ82R"
-      },
-      "artists": [
-        {
-          "name": "FORGOTTENAGE",
-          "url": "https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC"
-        }
-      ],
-      "duration_ms": 131239,
-      "name": "SHOOTERS",
-      "url": "https://open.spotify.com/track/5hJewESdjToYG75xQGXyJy"
-    },
-    {
       "added_at": "2022-07-08 08:43:19",
       "album": {
         "name": "IMMACULATE",
@@ -1735,6 +1743,22 @@
       "duration_ms": 140873,
       "name": "IMMACULATE",
       "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
+    },
+    {
+      "added_at": "2023-09-15 14:15:29",
+      "album": {
+        "name": "ALORS BRAZIL",
+        "url": "https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P"
+      },
+      "artists": [
+        {
+          "name": "NONTHENSE",
+          "url": "https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn"
+        }
+      ],
+      "duration_ms": 101321,
+      "name": "ALORS BRAZIL",
+      "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
     },
     {
       "added_at": "2023-09-01 17:34:21",
@@ -1773,24 +1797,24 @@
       "url": "https://open.spotify.com/track/5WSw7TTalV0Tb7w7yojFjg"
     },
     {
-      "added_at": "2023-06-30 16:50:50",
+      "added_at": "2023-09-15 14:15:29",
       "album": {
-        "name": "PIZZA PHONK",
-        "url": "https://open.spotify.com/album/40rU88TCRHTsZjUncUPC7G"
+        "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
+        "url": "https://open.spotify.com/album/367E0XjthTZ3hHVkN5ezJr"
       },
       "artists": [
         {
-          "name": "ZERO PAIN",
-          "url": "https://open.spotify.com/artist/4bKlA6SN28EGxDz4EyqMjm"
+          "name": "FR3ST",
+          "url": "https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ"
         },
         {
-          "name": "toaster mob",
-          "url": "https://open.spotify.com/artist/3TGOOnG6oCyuwi2ZhUPSUr"
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 108270,
-      "name": "PIZZA PHONK",
-      "url": "https://open.spotify.com/track/58IuZVow8rfBrZfpTnL6ze"
+      "duration_ms": 159842,
+      "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
+      "url": "https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT"
     },
     {
       "added_at": "2023-08-11 14:10:06",

@@ -713,6 +713,28 @@
     },
     {
       "album": {
+        "name": "JALSA 2.0 (From \"Mission Raniganj: The Great Bharat Rescue\")",
+        "url": "https://open.spotify.com/album/0nUDc18ivjvaNEGh7iJKck"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Prem & Hardeep",
+          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196124,
+      "name": "JALSA 2.0 - From \"Mission Raniganj: The Great Bharat Rescue\"",
+      "url": "https://open.spotify.com/track/4OgcGtcurJBgS7H1iW7peT"
+    },
+    {
+      "album": {
         "name": "Jugjugg Jeeyo",
         "url": "https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ"
       },

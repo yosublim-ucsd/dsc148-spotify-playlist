@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Nuevo sonido, misma actitud.\n\ud83d\udcf7 C.R.O",
+  "description": "Nuevo sonido, misma actitud.\n\ud83d\udcf7 FEMI",
   "name": "POGO",
   "tracks": [
     {
@@ -4026,6 +4026,24 @@
       "duration_ms": 196760,
       "name": "Radio de la ma\u00f1ana",
       "url": "https://open.spotify.com/track/1NgZYkt0KGPrkROQdRxDmo"
+    },
+    {
+      "album": {
+        "name": "RANDOM",
+        "url": "https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128001,
+      "name": "RANDOM",
+      "url": "https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP"
     },
     {
       "album": {

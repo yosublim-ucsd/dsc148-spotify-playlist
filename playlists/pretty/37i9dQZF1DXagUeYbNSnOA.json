@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Awexa. Updates every Wednesday.",
-  "num_followers": 172428,
+  "num_followers": 172442,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTI2ZmI0YmJmOTIxN2YzYTg2ZWY1NTEwMzdlMGUzZWMzMDNjM2Qz",
+  "snapshot_id": "MCxlZjU4ZWQwMDllZWRiNjljMDljYjI2ZjllN2Q5NjAxMWM0YWU4MGE5",
   "tracks": [
     {
       "added_at": "2023-09-13 06:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-13 06:00:00",
       "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
-      },
-      "artists": [
-        {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
-        }
-      ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
-    },
-    {
-      "added_at": "2023-09-13 06:00:00",
-      "album": {
         "name": "Tristella",
         "url": "https://open.spotify.com/album/56w1q8N2YHIYoKruoUrAlK"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 238389,
       "name": "Tristella",
       "url": "https://open.spotify.com/track/1phCFLjZZi9k3fyu1nSnHH"
+    },
+    {
+      "added_at": "2023-09-13 06:00:00",
+      "album": {
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+      },
+      "artists": [
+        {
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
     },
     {
       "added_at": "2023-09-13 06:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-09-13 06:00:00",
       "album": {
+        "name": "Esquivando Balas",
+        "url": "https://open.spotify.com/album/1NhBolRE4fM0wvkOSyfDR3"
+      },
+      "artists": [
+        {
+          "name": "Club de Haters",
+          "url": "https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC"
+        }
+      ],
+      "duration_ms": 143088,
+      "name": "Esquivando Balas",
+      "url": "https://open.spotify.com/track/5t2EkXoDiCZA9VuHhlPQ7o"
+    },
+    {
+      "added_at": "2023-09-13 06:00:00",
+      "album": {
         "name": "Maldigo a Cupido",
         "url": "https://open.spotify.com/album/4ceWJq8vlUTdrJTlMdNJuI"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-09-13 06:00:00",
       "album": {
-        "name": "Esquivando Balas",
-        "url": "https://open.spotify.com/album/1NhBolRE4fM0wvkOSyfDR3"
-      },
-      "artists": [
-        {
-          "name": "Club de Haters",
-          "url": "https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC"
-        }
-      ],
-      "duration_ms": 143088,
-      "name": "Esquivando Balas",
-      "url": "https://open.spotify.com/track/5t2EkXoDiCZA9VuHhlPQ7o"
-    },
-    {
-      "added_at": "2023-09-13 06:00:00",
-      "album": {
         "name": "Su Forma de Mirar",
         "url": "https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 290793,
       "name": "Su Forma de Mirar",
       "url": "https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT"
-    },
-    {
-      "added_at": "2023-09-13 06:00:00",
-      "album": {
-        "name": "Nuevo Mundo",
-        "url": "https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI"
-      },
-      "artists": [
-        {
-          "name": "Priscilla F\u00e9lix",
-          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
-        }
-      ],
-      "duration_ms": 207267,
-      "name": "El Mismo Sol",
-      "url": "https://open.spotify.com/track/1CWMxQdZAuaFWOX9AdYJOw"
     },
     {
       "added_at": "2023-09-13 06:00:00",
@@ -731,6 +715,22 @@
     {
       "added_at": "2023-09-13 06:00:00",
       "album": {
+        "name": "Nuevo Mundo",
+        "url": "https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI"
+      },
+      "artists": [
+        {
+          "name": "Priscilla F\u00e9lix",
+          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
+        }
+      ],
+      "duration_ms": 207267,
+      "name": "El Mismo Sol",
+      "url": "https://open.spotify.com/track/1CWMxQdZAuaFWOX9AdYJOw"
+    },
+    {
+      "added_at": "2023-09-13 06:00:00",
+      "album": {
         "name": "Tormenta Perfecta",
         "url": "https://open.spotify.com/album/63wBeGYe3dY2rm2lCM5c72"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-13 06:00:00",
       "album": {
-        "name": "Desahog\u00e1ndome",
-        "url": "https://open.spotify.com/album/4kPZW9e6uQ3eqSaTzTz0iH"
-      },
-      "artists": [
-        {
-          "name": "Doris Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
-        }
-      ],
-      "duration_ms": 234359,
-      "name": "Desahog\u00e1ndome",
-      "url": "https://open.spotify.com/track/3wnAh76ynjSkMdLbOOR1GS"
-    },
-    {
-      "added_at": "2023-09-13 06:00:00",
-      "album": {
         "name": "Un Secreto",
         "url": "https://open.spotify.com/album/4uxwhFNLUv5vpnrohAmxl7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 172250,
       "name": "Un Secreto",
       "url": "https://open.spotify.com/track/6DpFtcYZwHLh0Lz5WLcCIZ"
+    },
+    {
+      "added_at": "2023-09-13 06:00:00",
+      "album": {
+        "name": "Desahog\u00e1ndome",
+        "url": "https://open.spotify.com/album/4kPZW9e6uQ3eqSaTzTz0iH"
+      },
+      "artists": [
+        {
+          "name": "Doris Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
+        }
+      ],
+      "duration_ms": 234359,
+      "name": "Desahog\u00e1ndome",
+      "url": "https://open.spotify.com/track/3wnAh76ynjSkMdLbOOR1GS"
     },
     {
       "added_at": "2023-09-13 06:00:00",

@@ -4,7 +4,7 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-87 songs - 5 hr 37 min
+88 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Mañana Será Otro Día](https://open.spotify.com/track/3WcU9Jrq04yhvk4fgINhAJ) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Rap Epico](https://open.spotify.com/album/2fSq489Gg9Z4HfIUESHuBX) | 3:19 | 2023-07-21 | 2023-08-09 |
 | [Merced](https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 2:53 | 2023-04-14 |  |
 | [Mi Propio Cielo](https://open.spotify.com/track/1mxqzLeUxp8AG6en1REGY6) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna](https://open.spotify.com/album/38oezaVIzLW6oDOBGGKS7P) | 4:45 | 2023-04-14 |  |
+| [MORE FYAH](https://open.spotify.com/track/4L3eRmXwGZ4fPcvtF285El) | [Nik Valenda](https://open.spotify.com/artist/0cZv93w9tKGYcPq0mueSZU), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Kulto Kultibo](https://open.spotify.com/artist/5Zn0cTUwF6VjPS353kkQGk), [Pipo Ti](https://open.spotify.com/artist/5IxU70PZhE8uqCBOGHZHgJ), [Lasai](https://open.spotify.com/artist/4jm1fGGclMs7yvK3BgFDsN), [Pino](https://open.spotify.com/artist/2JgqO1FtZS5ZuihPGpaBoL), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Bman Zerowan](https://open.spotify.com/artist/1e93sDxSMqpA3Sa6FtczbB), [C\-Zar](https://open.spotify.com/artist/4HaJ944PAG7xX9rvPblQsq), [Toledo](https://open.spotify.com/artist/2edDMZSglhNmjytJPdkSbZ), [Garolo](https://open.spotify.com/artist/62NbFDwCtexT3AgFzXsmzw), [Señor R](https://open.spotify.com/artist/13vrdQMvV0zBFOEFetg0Rb), [Dash Shamash](https://open.spotify.com/artist/6QZVlYUbrI0L0XavKGfNUY) | [MORE FYAH](https://open.spotify.com/album/5LdNhgoWkHGJdePD8ga9nm) | 10:42 | 2023-09-15 |  |
 | [Más & Menos](https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Más & Menos](https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus) | 4:29 | 2023-04-14 |  |
 | [Nada Es para Siempre](https://open.spotify.com/track/7wEwIfmRcpChjEQUemMAr4) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Antologia de la Calle](https://open.spotify.com/album/3cTEYwaE5QBzS7Qvoq7ZW0) | 4:12 | 2023-04-14 |  |
 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 | 2023-04-14 |  |

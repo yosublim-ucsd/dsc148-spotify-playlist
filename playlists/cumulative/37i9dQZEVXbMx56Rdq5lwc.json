@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
@@ -3962,7 +3962,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -6694,6 +6694,24 @@
       "duration_ms": 91869,
       "name": "Formula",
       "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
+    },
+    {
+      "album": {
+        "name": "Fort\u016bna",
+        "url": "https://open.spotify.com/album/0MjoStDcKtulgKPjgK4z3A"
+      },
+      "artists": [
+        {
+          "name": "Angelou",
+          "url": "https://open.spotify.com/artist/1n6KR5r29Zj7X33Ey1pod0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Fort\u016bna",
+      "url": "https://open.spotify.com/track/5IvCn9goka3gIsRvFKWdTQ"
     },
     {
       "album": {
@@ -9948,7 +9966,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 207641,
       "name": "Jei Leisi",
       "url": "https://open.spotify.com/track/6sgzKRJ1C38I4pmI1TCnSN"
@@ -10180,6 +10198,24 @@
       "duration_ms": 259377,
       "name": "Juoda spalva nakt\u0173",
       "url": "https://open.spotify.com/track/1321IxNzcrRjWRVWM8eDpf"
+    },
+    {
+      "album": {
+        "name": "JUODOS AKYS",
+        "url": "https://open.spotify.com/album/68mOWty2K0X7dxxBkfQMHR"
+      },
+      "artists": [
+        {
+          "name": "Radvis",
+          "url": "https://open.spotify.com/artist/4YRFIGQeG0tQg3VWT9ajbq"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157400,
+      "name": "JUODOS AKYS",
+      "url": "https://open.spotify.com/track/6qOG7l1Ph1eDVd3F1P0reG"
     },
     {
       "album": {
@@ -12238,7 +12274,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"

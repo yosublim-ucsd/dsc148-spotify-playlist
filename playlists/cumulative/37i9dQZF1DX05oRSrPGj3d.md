@@ -2,7 +2,7 @@
 
 ### [Heart Of Texas](https://open.spotify.com/playlist/37i9dQZF1DX05oRSrPGj3d)
 
-> Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars.
+> Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Remembering Charlie Robison.
 
 184 songs - 11 hr 55 min
 

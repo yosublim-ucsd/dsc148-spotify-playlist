@@ -18927,6 +18927,32 @@
     },
     {
       "album": {
+        "name": "Ta",
+        "url": "https://open.spotify.com/album/4W3SsLgpKFCdqRimzxk46n"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/3CrAGTXH12HVzjA337Ajzo"
+        },
+        {
+          "name": "tnghi",
+          "url": "https://open.spotify.com/artist/217CQDuGuHtrk3hbj1Nlaa"
+        },
+        {
+          "name": "wolfie",
+          "url": "https://open.spotify.com/artist/2P5neUjvCjPP2kgdX2OzD9"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Ta",
+      "url": "https://open.spotify.com/track/1TX6AY62YiXlhKVqJhA3Dk"
+    },
+    {
+      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/3ggUbiKB1hfZ3FE0KrlNHO"
       },

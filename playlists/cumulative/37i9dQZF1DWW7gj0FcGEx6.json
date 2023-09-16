@@ -1089,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Rudy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0IfJojEmQFepjNutueqXs9"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184952,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6qW3tHgwHvvnF18lzvt2Dc"
+    },
+    {
+      "album": {
         "name": "Eternals Theme (From \"Eternals\")",
         "url": "https://open.spotify.com/album/1v68hlQzaQIdzTeLDtvWF4"
       },
@@ -1343,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Found (From the Netflix Film 'Society of the Snow')",
+        "url": "https://open.spotify.com/album/5aeohy8AT9wwWxXJGQlTvk"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382751,
+      "name": "Found (From the Netflix Film 'Society of the Snow')",
+      "url": "https://open.spotify.com/track/2RYTJ940YRsXNrSGLLlLv1"
+    },
+    {
+      "album": {
         "name": "Chaos Walking (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2hqIiiiQXOUCkAx2i0JKje"
       },
@@ -1558,6 +1594,32 @@
       "duration_ms": 108866,
       "name": "Hawkeye's Theme",
       "url": "https://open.spotify.com/track/31YHdtc3RN5X8JYIaNm1Lp"
+    },
+    {
+      "album": {
+        "name": "Heart of Invictus (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jiunm0ZpEDTza7AdnBlY0"
+      },
+      "artists": [
+        {
+          "name": "Patrick Jonsson",
+          "url": "https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl"
+        },
+        {
+          "name": "Richard Collins",
+          "url": "https://open.spotify.com/artist/0hFIRIeQXr4h867zMh3qlp"
+        },
+        {
+          "name": "Raphaelle Thibaut",
+          "url": "https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184197,
+      "name": "Heart of Invictus (Opening Titles)",
+      "url": "https://open.spotify.com/track/3mBBkUukNCxiiHuU0UTnSz"
     },
     {
       "album": {

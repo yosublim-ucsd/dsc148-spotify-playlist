@@ -386,7 +386,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 208636,
       "name": "Eu Preciso Fugir Daqui",
       "url": "https://open.spotify.com/track/4nHnd42dlZe4pvmEVl3Yst"
@@ -1182,6 +1182,32 @@
       "duration_ms": 162909,
       "name": "PPRT",
       "url": "https://open.spotify.com/track/7jRujYuZFzPMMk2PMG7SfZ"
+    },
+    {
+      "album": {
+        "name": "Problemas",
+        "url": "https://open.spotify.com/album/5C4Y1IFkYEV2NYjJm1BcYV"
+      },
+      "artists": [
+        {
+          "name": "Debbys",
+          "url": "https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z"
+        },
+        {
+          "name": "Wayys",
+          "url": "https://open.spotify.com/artist/67x3KfTXqQxtJVSugeKSmr"
+        },
+        {
+          "name": "Dom'V\u00ed",
+          "url": "https://open.spotify.com/artist/1DqgCN78k7Xnev1x7eJfGc"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204961,
+      "name": "Problemas",
+      "url": "https://open.spotify.com/track/1seCWIyYI34GbrHMDXAfcP"
     },
     {
       "album": {

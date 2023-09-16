@@ -3938,7 +3938,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 186120,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"
@@ -11070,6 +11070,24 @@
       "duration_ms": 220500,
       "name": "\ub9c8\ub124\ud0a8 Mannequin",
       "url": "https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2"
+    },
+    {
+      "album": {
+        "name": "\ubc29\ub791\uc790",
+        "url": "https://open.spotify.com/album/7EOdAL92s1kwBSqYlJNAOX"
+      },
+      "artists": [
+        {
+          "name": "JOHA",
+          "url": "https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "\ubc29\ub791\uc790",
+      "url": "https://open.spotify.com/track/6h7VcJXkym9NGISDIYlmch"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,234 likes - 130 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,538 likes - 130 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DjEOgyULQF.md) - [plain]
 | 129 | [Wisdom \- Gentle Ocean](https://open.spotify.com/track/5bhXeDbBHVK7Wof82isDD7) | [Moments of Meaning](https://open.spotify.com/artist/10zMkTihC3EXDt7oSyNmHO) | [Wisdom \(Gentle Version\)](https://open.spotify.com/album/0wYUrVr3zzXemT1xeZyAMJ) | 2:28 |
 | 130 | [Wisdom \- Gentle Forest](https://open.spotify.com/track/45hvuICHf2TG5iS3IQCh2S) | [Moments of Meaning](https://open.spotify.com/artist/10zMkTihC3EXDt7oSyNmHO) | [Wisdom \(Gentle Version\)](https://open.spotify.com/album/0wYUrVr3zzXemT1xeZyAMJ) | 2:26 |
 
-Snapshot ID: `MCwwODRjNGM0NTYyNGJlY2ZhNzRmNzU3ODllZjJlMGI1N2ViZWE2NmU4`
+Snapshot ID: `MCxjMTFhNWVjNmUzNzgwYzA1ZTkyOGIzYzJkYTFiZjk4NmFlYjdkN2Uy`

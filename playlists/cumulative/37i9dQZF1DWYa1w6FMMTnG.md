@@ -4,7 +4,7 @@
 
 > Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.
 
-97 songs - 4 hr 36 min
+98 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Coco \- Día de los Muertos Suite](https://open.spotify.com/track/3BY6XoTTapX2tV9qQCCsFW) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 5:47 | 2022-10-07 |  |
 | [Come Little Children](https://open.spotify.com/track/62LwutvnfzZ2jPLpKbMnIv) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Come Little Children](https://open.spotify.com/album/0FOQzv6V69gjUl6gNiIlOo) | 2:38 | 2022-10-07 |  |
 | [Come on Out](https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 3 \(Original Soundtrack\)](https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF) | 2:45 | 2022-10-07 |  |
+| [Confession](https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [A Haunting in Venice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw) | 8:14 | 2023-09-15 |  |
 | [Cruella De Vil \- From "101 Dalmatians"](https://open.spotify.com/track/2t25Najd5Q3rmhuH5nX87m) | [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL) | [Disney Villains: Simply Sinister Songs](https://open.spotify.com/album/6qjXTpiOOYojFQBvdrIO2O) | 4:45 | 2022-10-07 |  |
 | [Cruella De Vil \- Original Version](https://open.spotify.com/track/0PQ8MsAxETdEW3LigpDujI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Disneymania 6](https://open.spotify.com/album/4wbsqx9AwCeNFzT3PjikMb) | 3:21 | 2022-10-07 |  |
 | [Disney Junior Trick or Treats \- From "Disney Junior Music: Trick or Treats"](https://open.spotify.com/track/4y7dTEcqzOdEQ34jL2ZT3p) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Trick or Treats \(From "Disney Junior Music: Trick or Treats"\)](https://open.spotify.com/album/01qOWAh3HwvcuRqUawzq78) | 2:32 | 2022-10-07 |  |

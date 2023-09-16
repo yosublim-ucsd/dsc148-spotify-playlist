@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 52536,
+  "num_followers": 52592,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmE2NWUwYjIzM2UwZjY1MzUxNzNjMjkxZDhhNjUwNGQxMmEwNzAz",
+  "snapshot_id": "MCw2MjA0YmYwYjM4ODc4ZWUzNTVjZGUyZjM2YjA2YjZmNDY5MTUzMTAx",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -87,6 +87,30 @@
       "duration_ms": 247125,
       "name": "Hostel Hudugaru Protest Song",
       "url": "https://open.spotify.com/track/0EmwGgP7UAyWjtalVLdciE"
+    },
+    {
+      "added_at": "2023-09-15 11:15:47",
+      "album": {
+        "name": "Suryakanthi (From \"Tagaru Palya\")",
+        "url": "https://open.spotify.com/album/5iRIPbaqFRVBHWroTUBHbE"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Daali Dhananjaya",
+          "url": "https://open.spotify.com/artist/5mMIF7hi9U0WgMjhqHE0eQ"
+        },
+        {
+          "name": "Madhuri Seshadri",
+          "url": "https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx"
+        }
+      ],
+      "duration_ms": 197534,
+      "name": "Suryakanthi (From \"Tagaru Palya\")",
+      "url": "https://open.spotify.com/track/0KEYk3iSxqfk1qhcF3UF0N"
     },
     {
       "added_at": "2023-09-12 08:18:42",

@@ -1784,10 +1784,28 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 327158,
       "name": "Deluxe Refuge",
       "url": "https://open.spotify.com/track/0eFIAyTitJRLPeLp5e4sVh"
+    },
+    {
+      "album": {
+        "name": "Deluxe Refuge",
+        "url": "https://open.spotify.com/album/4bmmEf1HnNsp44VM8YKWbg"
+      },
+      "artists": [
+        {
+          "name": "Ed Motta",
+          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327417,
+      "name": "Deluxe Refuge",
+      "url": "https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3"
     },
     {
       "album": {

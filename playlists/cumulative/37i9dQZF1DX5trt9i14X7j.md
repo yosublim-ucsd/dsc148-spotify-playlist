@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-176 songs - 10 hr 58 min
+178 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Cotton Spheres](https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Cumulus Motion](https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O) | 2:54 | 2021-12-08 |  |
 | [Crystal](https://open.spotify.com/track/2bSQIZHLpDkJXD47SMGJV9) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi) | [Winter in America](https://open.spotify.com/album/1na34qpvNXMvcbNk7Q1g1P) | 8:33 | 2022-11-14 |  |
 | [Crystal](https://open.spotify.com/track/3BtLLmtLqncevuw4ZhODG8) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi) | [Winter in America](https://open.spotify.com/album/5vDQxsQwsi5Zdm1C9DrVk3) | 8:33 | 2021-12-08 | 2022-11-20 |
-| [Daisies](https://open.spotify.com/track/4IGXQV2e7JHJ5FMkh2eUPw) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [The Beauty Around Us](https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l) | 2:58 | 2021-12-08 |  |
+| [Daisies](https://open.spotify.com/track/4IGXQV2e7JHJ5FMkh2eUPw) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [The Beauty Around Us](https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l) | 2:58 | 2021-12-08 | 2023-09-16 |
+| [Daisies](https://open.spotify.com/track/4mOXZ925Ii1nZkN0Wbm9Qe) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [The Beauty Around Us](https://open.spotify.com/album/7jUNvvjf7xVJzwV93bls3w) | 2:58 | 2023-09-07 |  |
 | [Day One](https://open.spotify.com/track/1ClIKr4uKzosk6FOpHwLJM) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3N8fGhRcHWqyy0SfWa92H0) | 3:19 | 2021-12-08 | 2022-07-29 |
 | [Day One \(Interstellar Theme\)](https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 3:19 | 2022-07-25 |  |
 | [deep wild](https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [deep wild](https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh) | 2:32 | 2022-08-03 |  |
@@ -166,7 +167,8 @@
 | [Swoon](https://open.spotify.com/track/2ylb7ruks50yKP8JXHPBQQ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/3BiA4ylo9PwprkAn2UJ437) | 2:37 | 2022-11-14 |  |
 | [Swoon](https://open.spotify.com/track/5hASCaq53lZP8aUwiIqZEV) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/2birbZpVxQLhcTht8Mxcnz) | 2:37 | 2021-12-08 | 2022-11-20 |
 | [Symmetry Systems \(Emerald\)](https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [Symmetry Systems](https://open.spotify.com/album/14T0dIBbXsZtDnaVO2JbEj) | 3:22 | 2022-11-14 |  |
-| [Take Me Back](https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo) | 2:56 | 2022-07-25 |  |
+| [Take Me Back](https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo) | 2:56 | 2022-07-25 | 2023-09-16 |
+| [Take Me Back](https://open.spotify.com/track/2avCgcHSQc3k0LYBowVoTB) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/3fQdxTGy9dV7KMpO5yh77D) | 2:56 | 2023-09-07 |  |
 | [Take Me Back](https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX) | 2:56 | 2021-12-08 | 2022-07-29 |
 | [Ten Days Of Blue](https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Ten Days Of Blue](https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA) | 7:33 | 2021-12-08 | 2022-06-01 |
 | [The Batman](https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 6:47 | 2023-08-23 |  |

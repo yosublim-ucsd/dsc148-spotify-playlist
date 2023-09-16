@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: quentinn®
 
-680 songs - 1 day 14 hr 29 min
+681 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [中二宅急便](https://open.spotify.com/track/1gLKCI5Wks0K60xUNkHEtw) | [Helen So 蘇凱倫](https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11) | [中二宅急便](https://open.spotify.com/album/5pKSMfw4RZbfaqJuzoanEF) | 2:49 | 2023-08-24 |  |
 | [二泊三日](https://open.spotify.com/track/1znnzG14xxoMvHYHvMyypO) | [N9](https://open.spotify.com/artist/3POd6Qa84pvklcv3bDWd0J) | [二泊三日](https://open.spotify.com/album/5ClMZZvNhlXfDSrBMXpiYR) | 3:12 | 2023-07-06 | 2023-09-15 |
 | [二話都說](https://open.spotify.com/track/6cpqG1kjoSbe9wgaSlvMEW) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [二話都說](https://open.spotify.com/album/4qzCwbSnrKcsJHfoPT6Lx1) | 4:44 | 2022-05-26 | 2022-06-10 |
+| [五時](https://open.spotify.com/track/4as7WlRzGLuWRJnl140n3s) | [及時雨](https://open.spotify.com/artist/6ohGilWzOogVjW2UDCX1xp), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [五時](https://open.spotify.com/album/2o2HbTE1WTnFenq0gqnU0y) | 4:00 | 2023-09-15 |  |
 | [五種愛的密語](https://open.spotify.com/track/3bUjOhILvle7j4yBLfxoYx) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [五種愛的密語](https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG) | 3:06 | 2022-09-29 | 2023-02-03 |
 | [人](https://open.spotify.com/track/0S0kOIu1c594H7nV6B2ttS) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [人](https://open.spotify.com/album/1K3lYhwpjsjnbDplT3euXy) | 4:00 | 2022-05-26 | 2022-07-29 |
 | [人之初](https://open.spotify.com/track/2BQQvQ0GBYnJszRGBlR8lc) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [人之初](https://open.spotify.com/album/4XhyEqhuoAAMkWou84Ogao) | 3:30 | 2023-06-15 |  |

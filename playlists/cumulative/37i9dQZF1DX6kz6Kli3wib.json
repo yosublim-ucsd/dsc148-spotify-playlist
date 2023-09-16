@@ -2165,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Junior year",
+        "url": "https://open.spotify.com/album/4yDolhmaOvIpqyetVIURhr"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Principle",
+          "url": "https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174372,
+      "name": "Junior year",
+      "url": "https://open.spotify.com/track/6GNE6gOgeSwJFLzbgLmpUm"
+    },
+    {
+      "album": {
         "name": "Kangae",
         "url": "https://open.spotify.com/album/4ci7zUYPfNjcAKkWLGqTNw"
       },

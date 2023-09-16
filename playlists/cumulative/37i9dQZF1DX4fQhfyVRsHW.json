@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "meloh",
+        "url": "https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd"
+      },
+      "artists": [
+        {
+          "name": "Julio Raass",
+          "url": "https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "meloh",
+      "url": "https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ"
+    },
+    {
+      "album": {
         "name": "Mineral",
         "url": "https://open.spotify.com/album/1fHqqyNXSVcFqSi8D6VnL2"
       },
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 161796,
       "name": "Soothing the Ocean",
       "url": "https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK"

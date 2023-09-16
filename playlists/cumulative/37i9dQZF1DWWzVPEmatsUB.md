@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-372 songs - 22 hr 27 min
+373 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Mistake](https://open.spotify.com/track/3ahJC9bW7BCf6RvcCUFrFO) | [marc indigo](https://open.spotify.com/artist/5aNIaifrtVMQ2D9xNAaHbo) | [Mistake](https://open.spotify.com/album/1L7hOKqhIghHthPMuHkz4n) | 3:22 | 2020-10-17 | 2022-04-20 |
 | [Moderación \(Con Camilo\)](https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Moderación \(Con Camilo\)](https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD) | 3:19 | 2023-02-03 |  |
 | [Moment](https://open.spotify.com/track/7hKTSydLsRENnTOqHiPVT0) | [Jay Warren](https://open.spotify.com/artist/692sqZdmqkQjdCk87QECpd) | [Moment](https://open.spotify.com/album/45eSjtBmN4SZsW3RB4RXUu) | 3:15 | 2020-10-17 | 2022-07-25 |
+| [Monday Comes Around \(Sleeping At Last Version\)](https://open.spotify.com/track/3HkohZNvcVBLXEr2t4z7TL) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 3:36 | 2023-09-15 |  |
 | [Money and Fools](https://open.spotify.com/track/5Dd3iLxJNlFnzsY8T8PW3a) | [Benny Walker](https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W) | [Chosen Line](https://open.spotify.com/album/1bT2pL7uhyDea49uNAV2W3) | 3:50 | 2021-07-26 | 2022-07-16 |
 | [Move Me](https://open.spotify.com/track/0apVxsu7K6MD2AwlY7UOqV) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 2:58 | 2020-10-17 | 2023-02-18 |
 | [Move Me](https://open.spotify.com/track/3zyBMnHwaDlf1xsRwJ5tzq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters Of The Heart](https://open.spotify.com/album/56GwQuFFJwfFMcSsmvwUYK) | 2:58 | 2020-10-17 | 2022-07-29 |
@@ -287,7 +288,7 @@
 | [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 | 2023-05-12 |  |
 | [Same Sunrise](https://open.spotify.com/track/4geh0YJEYzwhNUn6g5gE2u) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:31 | 2023-03-03 | 2023-05-24 |
 | [Same Sunrise](https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Same Sunrise](https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem) | 3:31 | 2023-03-03 | 2023-03-31 |
-| [Same Sunrise](https://open.spotify.com/track/6iyQhBdM54KoOdIfi8BDtX) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:31 | 2023-03-03 |  |
+| [Same Sunrise](https://open.spotify.com/track/6iyQhBdM54KoOdIfi8BDtX) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:31 | 2023-03-03 | 2023-09-16 |
 | [San Junipero \(Personal Heaven\)](https://open.spotify.com/track/0SddM2ln87iYmyQfLR8AQO) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw), [Charles August](https://open.spotify.com/artist/1s0b8CYKIPDbg6m2MJIWhy) | [San Junipero \(Personal Heaven\)](https://open.spotify.com/album/4VeLLEb0qHif2xQmV388Gf) | 3:10 | 2022-06-10 | 2022-06-18 |
 | [San Junipero \(Personal Heaven\)](https://open.spotify.com/track/47yy9VPldBmz4nG5MjWkyO) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw), [Charles August](https://open.spotify.com/artist/1s0b8CYKIPDbg6m2MJIWhy) | [San Junipero \(Personal Heaven\)](https://open.spotify.com/album/511ylApAZhVCUFKsk5P1AE) | 3:10 | 2022-06-17 |  |
 | [Saturn](https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Saturn](https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH) | 3:33 | 2022-12-02 | 2023-07-01 |

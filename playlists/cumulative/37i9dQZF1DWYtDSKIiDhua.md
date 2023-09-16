@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: CLAUDIA, HNATA
 
-528 songs - 1 day 4 hr 33 min
+528 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [always summertime](https://open.spotify.com/track/6DRhRdtVHMPnc2amhMiWSy) | [Jean Tan](https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ) | [The Morning After](https://open.spotify.com/album/6y8NCfY19sEVFahTwtnlnt) | 3:05 | 2023-05-04 | 2023-07-14 |
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-06-08 | 2022-09-30 |
 | [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 | 2022-09-29 | 2022-10-08 |
-| [Another One Of Me \(feat\. The Weeknd, 21 Savage and French Montana\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:46 | 2023-09-14 |  |
+| [Another One Of Me \(feat\. The Weeknd, French Montana and 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-14 |  |
 | [April](https://open.spotify.com/track/24QSZBkPrq8nP5jC8UsA01) | [IZZY DANIYA](https://open.spotify.com/artist/4YTuQxRYY33qBIb7z9XG19) | [April](https://open.spotify.com/album/0wmXjCIz9FynQsAnIfQgLc) | 3:48 | 2023-06-22 | 2023-09-08 |
 | [Ash \(feat\. KURO\)](https://open.spotify.com/track/2aJN7TLwQRTxEtvSfvBLbE) | [Shoi](https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Ash \(feat\. KURO\)](https://open.spotify.com/album/0Mwvqjpntcqy8uz2UgMjvf) | 2:17 | 2022-11-03 | 2022-11-11 |
 | [Baby Blue](https://open.spotify.com/track/5FZsJeAOphubEbGEzHATlq) | [Soong](https://open.spotify.com/artist/1hKtrBDlkEWMZuu6clRxKc) | [Baby Blue](https://open.spotify.com/album/7rFLaq2TZuwO3piSQXhHtr) | 3:16 | 2023-06-22 | 2023-07-08 |

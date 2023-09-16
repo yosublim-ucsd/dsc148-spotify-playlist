@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality alternative blend ft. Black Pumas",
+  "description": "The highest quality alternative blend ft. Shakey Graves",
   "name": "Grade A",
   "tracks": [
     {
@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Vampire Empire / Born For Loving You",
+        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214073,
+      "name": "Born For Loving You",
+      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
+    },
+    {
+      "album": {
         "name": "boy",
         "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
       },
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 363520,
       "name": "Children of the Empire",
       "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 178263,
       "name": "Classics",
       "url": "https://open.spotify.com/track/2wxEvZuIYk454DJwoShj3V"
@@ -2400,6 +2418,24 @@
       "duration_ms": 249513,
       "name": "Contortionist",
       "url": "https://open.spotify.com/track/09SogrpCmM4FfRgOz61Hn7"
+    },
+    {
+      "album": {
+        "name": "Cousin",
+        "url": "https://open.spotify.com/album/0h4xLagA6zDpv7Ed6qinSh"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250640,
+      "name": "Cousin",
+      "url": "https://open.spotify.com/track/1XwnEWNCxd7HujfC9ZHPQ2"
     },
     {
       "album": {
@@ -6351,6 +6387,28 @@
     },
     {
       "album": {
+        "name": "I'll See You in Hell",
+        "url": "https://open.spotify.com/album/2fmMn0zZp4EdP2g0Ac6oY7"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        },
+        {
+          "name": "Julie Odell",
+          "url": "https://open.spotify.com/artist/5GpTxYv8CajCjQJF1A4h0R"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245066,
+      "name": "I'll See You in Hell",
+      "url": "https://open.spotify.com/track/4qveQMK3SRrRYigRP7elMO"
+    },
+    {
+      "album": {
         "name": "I'm a Man",
         "url": "https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn"
       },
@@ -8614,7 +8672,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 284960,
       "name": "Miami",
       "url": "https://open.spotify.com/track/6Swa2wkTqv5AzmeptAdn4d"
@@ -10954,6 +11012,28 @@
       "duration_ms": 236036,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/2yy1jIbevVsuWJ32H6AfaP"
+    },
+    {
+      "album": {
+        "name": "Movie Of The Week",
+        "url": "https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192901,
+      "name": "Ready Or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2W4KoKD91Sncc5HNZ00ilQ"
     },
     {
       "album": {
@@ -14912,7 +14992,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 294208,
       "name": "Wasted (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2tJkqB1zxa2xDIAEzVDNq7"

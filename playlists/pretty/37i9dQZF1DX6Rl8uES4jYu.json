@@ -1,13 +1,53 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240630,
+  "num_followers": 240622,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmQ2YTdlY2NiMDFlZjBkOGU0YTZkMTRhZjQ2OWYyMmNiOWUxZjRl",
+  "snapshot_id": "MCxhYjE4NzdjZDhlYWZjZmE5N2IwMzkyYzA4ZDI1YzRhNTZhNDJkZTk2",
   "tracks": [
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6"
+      },
+      "artists": [
+        {
+          "name": "Cody Fry",
+          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 251120,
+      "name": "Somebody To You (feat. Cory Wong)",
+      "url": "https://open.spotify.com/track/0vigaWzrt5hQlfUuirda0o"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Back for More (with Anitta)",
+        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
+    },
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
@@ -43,6 +83,26 @@
       "duration_ms": 190666,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0K4oZ2Pt2VJ55nA5LX3rTH"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "head up in the clouds",
+        "url": "https://open.spotify.com/album/3U6Xy6GcypfSSm8AOYT3jH"
+      },
+      "artists": [
+        {
+          "name": "GARDENA",
+          "url": "https://open.spotify.com/artist/0HjFA96a8v0dDyN58HGhrB"
+        },
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        }
+      ],
+      "duration_ms": 272160,
+      "name": "head up in the clouds",
+      "url": "https://open.spotify.com/track/58ARvD7EyLhMS2kbB1UAXQ"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1657,22 +1717,6 @@
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V"
-      },
-      "artists": [
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        }
-      ],
-      "duration_ms": 166888,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "Turn Up",
@@ -1693,26 +1737,6 @@
       "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
     },
     {
-      "added_at": "2022-07-12 18:25:04",
-      "album": {
-        "name": "Let Love Go",
-        "url": "https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Let Love Go",
-      "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
-    },
-    {
       "added_at": "2022-08-08 19:18:25",
       "album": {
         "name": "Dreamboat",
@@ -1731,22 +1755,6 @@
       "duration_ms": 187412,
       "name": "Monica",
       "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Keep Her",
-        "url": "https://open.spotify.com/album/6dIok7yPbvTPNLfeJcmctW"
-      },
-      "artists": [
-        {
-          "name": "Jake Miller",
-          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
-        }
-      ],
-      "duration_ms": 171346,
-      "name": "Keep Her",
-      "url": "https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau"
     },
     {
       "added_at": "2022-09-09 04:00:00",

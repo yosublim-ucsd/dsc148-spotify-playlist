@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-229 songs - 13 hr 36 min
+230 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Keep It Close to Me \- Cyril Hahn Remix](https://open.spotify.com/track/0A7TZtpIH7a3kYnVOkHfsN) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Keep It Close to Me \(Cyril Hahn Remix\)](https://open.spotify.com/album/5tj2y4bz4ZFEHoGmLMDs5l) | 4:23 | 2022-05-20 |  |
 | [Kunigonde](https://open.spotify.com/track/2Fw7OgSb2f9CO25VzSUFAC) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Canicule](https://open.spotify.com/album/4KZRFwBBoi7NIJsbDlADhg) | 4:22 | 2022-05-20 |  |
 | [L'amour est dans l'air \- Remasterisé en 2019](https://open.spotify.com/track/04qJXFRmt06SOjqeecfNTu) | [Laurent Rossi](https://open.spotify.com/artist/3mr7jNmay7VJ7BTUBeYyeM) | [Les 45 Tours \(Remasterisé en 2019\)](https://open.spotify.com/album/33CrUTfdeq7hdcOhWLX2g7) | 3:39 | 2022-12-21 |  |
-| [L'amour le jour](https://open.spotify.com/track/7E3lkl2RudmSHzholbRzsE) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [P.O.P](https://open.spotify.com/album/5uZvHvkYKHQhs8Eowhz1jR) | 3:47 | 2022-05-20 |  |
+| [L'amour le jour](https://open.spotify.com/track/3jbi9A7SUq2XKhXj0oBZB5) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [P.O.P](https://open.spotify.com/album/4xSbwekBfhkCbnSi3eZklg) | 3:47 | 2022-12-21 |  |
+| [L'amour le jour](https://open.spotify.com/track/7E3lkl2RudmSHzholbRzsE) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [P.O.P](https://open.spotify.com/album/5uZvHvkYKHQhs8Eowhz1jR) | 3:47 | 2022-05-20 | 2023-09-16 |
 | [L'amour parfait](https://open.spotify.com/track/3YpAx4kjIa07bRD7opwn2v) | [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1), [Areski Belkacem](https://open.spotify.com/artist/5LLUmbTFyu7rOa75EdRQcY) | [Vous et nous](https://open.spotify.com/album/2P7Ykk8AV1vGQIZQLyi1Ks) | 2:45 | 2022-12-21 |  |
 | [L'Essor](https://open.spotify.com/track/3zHqYayNUAWF6KZP4ZqRXt) | [Biche](https://open.spotify.com/artist/1m0M7J2El2DioTfule3L41) | [La Nuit des Perséides](https://open.spotify.com/album/6jnFQFFlCiek9UNppBnKKH) | 3:53 | 2022-05-20 |  |
 | [La ballade](https://open.spotify.com/track/6WiwdXEIHTyniI5FnDmhgK) | [Sleeping](https://open.spotify.com/artist/2VTSpt1qT163pAxTusUf2V) | [La ballade](https://open.spotify.com/album/5xOQone8OVBlwbPC9HO7Ik) | 3:44 | 2022-05-20 |  |

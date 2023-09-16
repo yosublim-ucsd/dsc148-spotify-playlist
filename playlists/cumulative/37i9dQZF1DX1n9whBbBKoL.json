@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 129826,
       "name": "Far Off Lands",
       "url": "https://open.spotify.com/track/3GnYKT2KNThEoin83X2L56"
@@ -1752,6 +1752,24 @@
       "duration_ms": 192000,
       "name": "Instinto Natural",
       "url": "https://open.spotify.com/track/7oBbg8DMMpVXGhv7vs0tjy"
+    },
+    {
+      "album": {
+        "name": "Intersominus",
+        "url": "https://open.spotify.com/album/2odmrCP3a5XqpjtQZgLNka"
+      },
+      "artists": [
+        {
+          "name": "Antologie",
+          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160224,
+      "name": "Intersominus",
+      "url": "https://open.spotify.com/track/3kkLz4ZuCRixpc69DUAO5l"
     },
     {
       "album": {

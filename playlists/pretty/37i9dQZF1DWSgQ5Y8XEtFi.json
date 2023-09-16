@@ -1,13 +1,49 @@
 {
   "description": "songs that break bones",
-  "num_followers": 203784,
+  "num_followers": 203898,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDg0ODlmNWQ5ZWNjZjQ2ZjI3OWJkODZkYmJiOTg3YzlkNmQ0YjIw",
+  "snapshot_id": "MCxkOWZiMjMxODFkNzVlMTFiYjQwOTY5OGQxMDBhMGM3MjJjYmVhMTU1",
   "tracks": [
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Flatline (feat. Kenny Mason)",
+        "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Flatline (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "PUNK TACTICS",
+        "url": "https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "duration_ms": 139506,
+      "name": "RN",
+      "url": "https://open.spotify.com/track/2fVEFl68eW9GE4tGInNISw"
+    },
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
@@ -23,6 +59,22 @@
       "duration_ms": 123428,
       "name": "2 WORDS",
       "url": "https://open.spotify.com/track/3GBddo9n1BBdKgozcbOw7e"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -107,6 +159,22 @@
       "duration_ms": 186250,
       "name": "Savior",
       "url": "https://open.spotify.com/track/1yQzX6SMV7VQOj6u4NKqk0"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Fairweather Friends",
+        "url": "https://open.spotify.com/album/0Lgte4FZ2oPj12uHFYWCQn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 94857,
+      "name": "Fairweather Friends",
+      "url": "https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J"
     },
     {
       "added_at": "2023-07-31 15:23:31",

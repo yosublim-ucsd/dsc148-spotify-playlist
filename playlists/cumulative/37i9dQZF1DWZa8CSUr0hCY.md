@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-203 songs - 9 hr 5 min
+204 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Fresh Air](https://open.spotify.com/track/3xwMfWfBRgdTWzPNrIfDTw) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Fresh Air](https://open.spotify.com/album/5Yvsg0Yzg8pYR8X3EiUBok) | 2:55 | 2022-08-30 |  |
 | [Funk for Food](https://open.spotify.com/track/2rLwz4Eihs3PXhx7e4qhcN) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Funk for Food](https://open.spotify.com/album/1qBIwBv13XdiXfnU07Fsw9) | 1:55 | 2020-10-20\* | 2022-08-31 |
 | [Funky Shit](https://open.spotify.com/track/4ndEDfXSJVeLG4SObU3TUd) | [Loopmaffia](https://open.spotify.com/artist/6VeF1dMdyeD7aiJYVP72GH) | [This Is How It Should Be Done Volume 1](https://open.spotify.com/album/7v78mNvI7W0rJvhjkOTKAc) | 3:00 | 2022-04-28 | 2022-08-31 |
-| [Furry Love](https://open.spotify.com/track/34Npia6FKnDC6sTv8mRwJS) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Pawmises](https://open.spotify.com/album/3jVaMpKBuBZGR8wFeVQwO2) | 2:31 | 2022-08-30 |  |
+| [Furry Love](https://open.spotify.com/track/34Npia6FKnDC6sTv8mRwJS) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Pawmises](https://open.spotify.com/album/3jVaMpKBuBZGR8wFeVQwO2) | 2:31 | 2022-08-30 | 2023-09-16 |
+| [Furry Love](https://open.spotify.com/track/6g6TMQ4UBnsCi4wyURafjQ) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Pawmises](https://open.spotify.com/album/43ab60R3uqxuiXVdQLYICK) | 2:31 | 2023-08-25 |  |
 | [Galu](https://open.spotify.com/track/02lQKzdCsP0YeRDRjJunz7) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Maulu](https://open.spotify.com/album/6D3JN5dhSXj1YvaBzWL8dW) | 2:03 | 2022-08-30 |  |
 | [Garden Araki](https://open.spotify.com/track/6aUu7XAvrwqJfOXkG3YLZ1) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Garden Araki](https://open.spotify.com/album/4GrDO1XWWOXoKJ8kwAnyRD) | 2:23 | 2022-08-30 |  |
 | [Gentle Rain](https://open.spotify.com/track/4XGlatviQaqq7LQegxe6Zg) | [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN) | [Gentle Rain](https://open.spotify.com/album/1PEoLnFhMhrT0YOjXlbodJ) | 1:26 | 2022-08-30 |  |

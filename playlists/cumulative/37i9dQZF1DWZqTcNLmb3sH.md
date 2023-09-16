@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side A
 
-860 songs - 2 day 5 hr 6 min
+861 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,6 +792,7 @@
 | [Summane Summane \(From "Nirmuktha"\)](https://open.spotify.com/track/3tcztT4TZ4Q7Tmun2LEn1h) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Samrat](https://open.spotify.com/artist/5RwriSLPFn4NLfH0ln4wT2) | [Summane Summane \(From "Nirmuktha"\)](https://open.spotify.com/album/6xrP1GmC6aWOjwNQb42jlk) | 4:46 | 2022-04-29 | 2022-11-15 |
 | [Sundaravaaytu Mana](https://open.spotify.com/track/08DBdSiBJdXxLfeZWpjFCW) | [Sridhar V Sambhram](https://open.spotify.com/artist/1vlXEDp2Wt9eej8ZUda2e9), [Keshav Kumar](https://open.spotify.com/artist/6jv9y9YxviyybO5vk93QlJ), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Dear Sathya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JNVOyeDSU1PrAZlgEkml6) | 3:53 | 2022-02-28 | 2022-03-18 |
 | [Super Figure Figure Da \- From" Geleya"](https://open.spotify.com/track/1P0W8Z4iHDlTVIN8gbgxef) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [M.S.Thyagaraja](https://open.spotify.com/artist/5rCZqUof0PAWaGGwFIoZY4) | [Super Figure Figure Da \(From" Geleya"\)](https://open.spotify.com/album/6fF8yXAy7xXkQt48bs4U5j) | 2:08 | 2022-11-04 | 2022-11-22 |
+| [Suryakanthi \(From "Tagaru Palya"\)](https://open.spotify.com/track/0KEYk3iSxqfk1qhcF3UF0N) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Daali Dhananjaya](https://open.spotify.com/artist/5mMIF7hi9U0WgMjhqHE0eQ), [Madhuri Seshadri](https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx) | [Suryakanthi \(From "Tagaru Palya"\)](https://open.spotify.com/album/5iRIPbaqFRVBHWroTUBHbE) | 3:17 | 2023-09-15 |  |
 | [Tagaru Palya Title Track \(From "Tagaru Palya"\)](https://open.spotify.com/track/6zOCGdS0NEAPtnGrh2ntFT) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5), [Daali Dhananjaya](https://open.spotify.com/artist/5mMIF7hi9U0WgMjhqHE0eQ), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Jogila Siddaraju](https://open.spotify.com/artist/4sQji195GLuaoJau57EHWG) | [Tagaru Palya Title Track \(From "Tagaru Palya"\)](https://open.spotify.com/album/7oamUOyozFj5ekfGdArmWO) | 3:23 | 2023-08-17 |  |
 | [Tareefu Maadalu](https://open.spotify.com/track/7ojrs8j9GxS7GQ4jNSaSqp) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Shwetha Devanahally](https://open.spotify.com/artist/5FD2EKVNcrtZSxxo0UywQU) | [Mugilpete](https://open.spotify.com/album/1GT8fDmpGnziaZ5PBVuV6M) | 3:44 | 2022-01-28 | 2022-03-18 |
 | [Teaser Theme \(From "K.G.F Chapter 2"\)](https://open.spotify.com/track/2d7mZkTatdeb4tcnZjGyxi) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Teaser Theme \(From "K.G.F Chapter 2"\)](https://open.spotify.com/album/47EKoRgcYU28XDAm6lTrxo) | 2:15 | 2022-02-03 | 2022-06-15 |

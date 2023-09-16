@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-239 songs - 15 hr 19 min
+240 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [No Diggity](https://open.spotify.com/track/5b3H9J71t73nzr73pvEWrC) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 5:51 | 2021-08-20 | 2022-07-29 |
 | [No Diggity](https://open.spotify.com/track/7wSkLQdIlCBDUPFPkwLICU) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 5:51 | 2022-05-27 | 2023-05-19 |
 | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q) | 2:47 | 2023-06-23 |  |
+| [Ohio](https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Ohio](https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl) | 2:53 | 2023-09-15 |  |
 | [Old Man](https://open.spotify.com/track/57BqPLE4mvQEBh53JWxgcI) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5Qrpxvxj6LTfqIbKnCnQHb) | 3:10 | 2021-08-20 | 2022-07-29 |
 | [Old Man](https://open.spotify.com/track/2yNGARwYc253fKGIy0CoyO) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5x3Nva9X9Mjr15GI3YKaBr) | 3:11 | 2022-05-27 |  |
 | [Olympia, WA](https://open.spotify.com/track/2gtIcIvoHJYjSZw39qDHUe) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 4:19 | 2021-08-20 | 2023-07-15 |

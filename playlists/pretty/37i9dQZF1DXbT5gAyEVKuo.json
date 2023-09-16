@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 70640,
+  "num_followers": 70710,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWMxYThjOTRkNDUxNTNhMGIxNWY4Y2E0Y2IwYTI2MDI4MzZiZmIw",
+  "snapshot_id": "MCw2NjNjMDY0N2M5ODMyOWU1ZDczYTQ0ZTM1YjU1MzU4ZmVkOTFhZDFk",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Kirk Franklin Presents Songs For The Storm, Volume 1",
-        "url": "https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz"
-      },
-      "artists": [
-        {
-          "name": "Gods Property",
-          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
-        }
-      ],
-      "duration_ms": 518906,
-      "name": "He'll Take The Pain Away",
-      "url": "https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Yahweh / Yeshua Hamashiach",
         "url": "https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 345005,
       "name": "Yahweh / Yeshua Hamashiach",
       "url": "https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Kirk Franklin Presents Songs For The Storm, Volume 1",
+        "url": "https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz"
+      },
+      "artists": [
+        {
+          "name": "Gods Property",
+          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
+        }
+      ],
+      "duration_ms": 518906,
+      "name": "He'll Take The Pain Away",
+      "url": "https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45"
     },
     {
       "added_at": "2023-02-18 05:28:04",

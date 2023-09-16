@@ -2,9 +2,9 @@
 
 ### [Império do Metal](https://open.spotify.com/playlist/37i9dQZF1DX8MxTboxJuGE)
 
-> Os monstros e as novas caras do Metal nacional e internacional! Foto: Metallica
+> Os monstros e as novas caras do Metal nacional e internacional! Foto: Edu Falaschi
 
-80 songs - 5 hr 56 min
+82 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Legado](https://open.spotify.com/track/4PizudKtJ6hxWBDi7jSlA5) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Legado](https://open.spotify.com/album/4nsJgybGz51PodJXLpljyq) | 3:14 | 2023-07-14 |  |
 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 | 2023-07-14 |  |
 | [Metal Galera](https://open.spotify.com/track/62CyiBgXEdwDi4WbrM1dZg) | [Massacration](https://open.spotify.com/artist/7GhebLBMgszGbtbmjq4HHB) | [Metal Galera](https://open.spotify.com/album/0bVhSkHL20QPMqMK5F1oCP) | 4:30 | 2023-07-14 |  |
-| [Midnight Song](https://open.spotify.com/track/3ku4neMM3KIhFXhPaPZU7A) | [Dream Child](https://open.spotify.com/artist/0Y2kFvBLOE7DG9UFcYiTEu) | [Until Death Do We Meet Again](https://open.spotify.com/album/6eDGRCG2lqVbVTjtHyD4ho) | 4:24 | 2023-07-14 |  |
+| [Midnight Song](https://open.spotify.com/track/3ku4neMM3KIhFXhPaPZU7A) | [Dream Child](https://open.spotify.com/artist/0Y2kFvBLOE7DG9UFcYiTEu) | [Until Death Do We Meet Again](https://open.spotify.com/album/6eDGRCG2lqVbVTjtHyD4ho) | 4:24 | 2023-07-14 | 2023-09-16 |
 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 | 2023-07-14 |  |
 | [Mysterious](https://open.spotify.com/track/1YNfg67rPhWMSIalelU6ph) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [9](https://open.spotify.com/album/09GlDec2IEaxGMkB0L1rH0) | 4:43 | 2023-07-14 |  |
 | [Nothing Else Matters \(Orchestra/Clean Guitar/Vocal Mix \- July 8th, 1991\)](https://open.spotify.com/track/0GZ96dnp0Vpyk5CTElvDfI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ) | 6:45 | 2023-07-14 |  |
@@ -52,11 +52,13 @@
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2023-07-14 |  |
 | [Perfect](https://open.spotify.com/track/4nxdJkLKOlsJQ1uQhxKiYk) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Welcome Home](https://open.spotify.com/album/1cWJUvXYMpNTIp7WD1aap4) | 3:21 | 2023-08-18 |  |
 | [Perfect](https://open.spotify.com/track/7w1MrjeuciJ1cV9cowRSum) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Perfect](https://open.spotify.com/album/7blkysSNX8xNia9WoECqWk) | 3:21 | 2023-07-14 | 2023-09-01 |
+| [Post Traumatic Blues](https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Post Traumatic Blues](https://open.spotify.com/album/1SUWFyxji7bVsbRYYi2Dni) | 5:43 | 2023-09-15 |  |
 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 | 2023-07-14 |  |
 | [Rock Believer](https://open.spotify.com/track/0CsORbIcXLBUVVlntpO7Q3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer](https://open.spotify.com/album/1Wx6vTc4adeBbEJgQCbZV3) | 3:57 | 2023-07-14 |  |
 | [Roots Bloody Roots \- Live; 2022 \- Remaster](https://open.spotify.com/track/2ef6CT41GcKShloWcjzb95) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Live in São Paulo \(2022 \- Remaster\)](https://open.spotify.com/album/5cEdx9cxvbEovNdTF0JK7i) | 4:34 | 2023-07-14 |  |
 | [Rédeas](https://open.spotify.com/track/3jtrDtWGJamKClDQ51e2OL) | [Project46](https://open.spotify.com/artist/4PdFQIzACemw18MfVS1LCF) | [Rédeas](https://open.spotify.com/album/5WOsd8FK2nsfcS48bRFnVc) | 3:44 | 2023-07-14 |  |
 | [Réquiem](https://open.spotify.com/track/2xqmXNuQilD1zqNu90P2Sh) | [Surr](https://open.spotify.com/artist/6ne9xIUEUyKEmhbhPbWFAZ) | [Réquiem](https://open.spotify.com/album/3jper4T41XyWSlPCJ6Lfw1) | 3:33 | 2023-07-14 |  |
+| [Sacrifice](https://open.spotify.com/track/2267yJzvFWpm6epuBaGKK2) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Eldorado](https://open.spotify.com/album/5jL9PVVgmVZhLJVNjO7SqO) | 6:16 | 2023-09-15 |  |
 | [Serpent Messiah](https://open.spotify.com/track/1jFTIXwJJkZCV1h4EYVBsb) | [Krisiun](https://open.spotify.com/artist/3pzAW9xs16rX8fukH8wV6N) | [Serpent Messiah](https://open.spotify.com/album/3dVbvhK6esUysE2aNih19b) | 4:37 | 2023-07-14 |  |
 | [Seven Stages](https://open.spotify.com/track/6oPKCUNgwU43sIRryisEer) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [Willow Instrumental](https://open.spotify.com/album/3N8WfISStUdrmc7lpVJpVu) | 4:28 | 2023-07-14 |  |
 | [Seventh Sun](https://open.spotify.com/track/7jgCtSWhv7Y2glV9I8sCUy) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Seventh Sun](https://open.spotify.com/album/5rWzNqVFg8nispXCaewxIB) | 5:30 | 2023-07-14 |  |
@@ -70,7 +72,7 @@
 | [Tenochtitlán](https://open.spotify.com/track/44tzuEVC6p9ldFBNC497vX) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Tenochtitlán](https://open.spotify.com/album/2uTIg4jj9u7EQslGtvHhqw) | 7:12 | 2023-08-18 |  |
 | [The Beast and the Hunter](https://open.spotify.com/track/0vIYNPI7tuF5O57tu78Yss) | [RF Force](https://open.spotify.com/artist/1WyKcR1yYW6iV27yZLDLvi) | [The Beast and the Hunter](https://open.spotify.com/album/4pwvhjNmHkSOHVql8PqXEC) | 4:36 | 2023-07-14 |  |
 | [The Doctor \- Jacksons Studio Demos \- October 1981](https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Deluxe 40th Anniversary Edition\)](https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8) | 3:10 | 2023-07-14 |  |
-| [The Essence of Being Human](https://open.spotify.com/track/6iwwJmekGU5s17xwCSAEJP) | [United For Distortion](https://open.spotify.com/artist/3DUCTnzBpcCgbNOAewbwSQ) | [The Essence of Being Human](https://open.spotify.com/album/25zJkatGEUwzg33mpAIrDp) | 5:41 | 2023-07-14 |  |
+| [The Essence of Being Human](https://open.spotify.com/track/6iwwJmekGU5s17xwCSAEJP) | [United For Distortion](https://open.spotify.com/artist/3DUCTnzBpcCgbNOAewbwSQ) | [The Essence of Being Human](https://open.spotify.com/album/25zJkatGEUwzg33mpAIrDp) | 5:41 | 2023-07-14 | 2023-09-16 |
 | [The Gang's All Here](https://open.spotify.com/track/4fvyexikP6xn7wHdsg1sGc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:38 | 2023-07-14 |  |
 | [The Hour of the Wolf](https://open.spotify.com/track/67vVGpe4YboSOFxQf5EA2q) | [Midnight Guest](https://open.spotify.com/artist/6RRkpb9ozPwOjXpsolUqGx) | [The Hour of the Wolf](https://open.spotify.com/album/0TqcCofh2UkHlrhHISeJn4) | 3:54 | 2023-07-14 | 2023-08-12 |
 | [The Other Side of Anger](https://open.spotify.com/track/3FVHPQg9dllT74BWHQoClE) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [Shades of Sorrow](https://open.spotify.com/album/0wT5vnIDu5sHz3zlIfvtQc) | 4:23 | 2023-08-11 |  |

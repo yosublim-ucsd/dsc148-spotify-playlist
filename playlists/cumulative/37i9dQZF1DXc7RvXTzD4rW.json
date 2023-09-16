@@ -1300,10 +1300,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 215017,
       "name": "Hanauta to Mawarimichi",
       "url": "https://open.spotify.com/track/37Fx5MyAKqKt5cGGu7SO0f"
+    },
+    {
+      "album": {
+        "name": "Act 2",
+        "url": "https://open.spotify.com/album/3EKlyqIFT3uFzIobG7lIEq"
+      },
+      "artists": [
+        {
+          "name": "Rikako Aida",
+          "url": "https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Hanauta to Mawarimichi",
+      "url": "https://open.spotify.com/track/6TQPI2kY11bldGSdmL8aJF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-155 songs - 7 hr 40 min
+157 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dock Of A Bay](https://open.spotify.com/track/4e7YepU8jkIS1bLwRNckhq) | [Jo Quinn](https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr) | [Dock Of A Bay](https://open.spotify.com/album/5oFKiyVLw4Z4HGEeAYp44j) | 3:05 | 2023-04-06 |  |
 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 | 2022-02-28 |  |
 | [Dreametheral](https://open.spotify.com/track/4ZnMbPSIG1eOCEelRuqFAe) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Dreametheral](https://open.spotify.com/album/73tedZgmVrBYQvGRpnJALO) | 2:57 | 2023-04-14 |  |
+| [Dreams of fall](https://open.spotify.com/track/02esDcjYYynYTsa4Hi9umw) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Dreams of fall](https://open.spotify.com/album/27YWWQyYxwpRAXu7mXrvtD) | 2:15 | 2023-09-15 |  |
 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 | 2022-02-28 |  |
 | [Drifting](https://open.spotify.com/track/6XgxMjACtxIGyMpHjXGQ1y) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Drifting](https://open.spotify.com/album/3n3ri3uLMAQYMxeFDPAyqJ) | 2:57 | 2023-01-27 |  |
 | [Elsewhere Now](https://open.spotify.com/track/3HWtnVR3Nq63AMLefzpXtm) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [Elsewhere Now](https://open.spotify.com/album/1vfso6z9jOLp90nlfsFzjR) | 3:12 | 2023-04-28 |  |
@@ -126,6 +127,7 @@
 | [Sense Of Purpose](https://open.spotify.com/track/1BvhFvVFE0crj3NwwUp1ov) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Sense Of Purpose](https://open.spotify.com/album/7M8AAxi71Aw8Igk5DoRTwL) | 2:17 | 2022-12-30 |  |
 | [Sensitive Kind](https://open.spotify.com/track/5ieI1TNrPSrQtpDhr5C6Ng) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Sensitive Kind](https://open.spotify.com/album/31um9WNUvUOORhljwfcdek) | 3:07 | 2023-02-24 |  |
 | [Sensory Perception](https://open.spotify.com/track/0gkpdzAJ3065QgKDO0Nm8x) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [Sensory Perception](https://open.spotify.com/album/4LKuWF3OzhS6dwvN9e0LNs) | 3:05 | 2022-11-22 |  |
+| [Serenity Collective](https://open.spotify.com/track/08mKLl5jtGsfUpaut2wroQ) | [Cody Wallter](https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L) | [Serenity Collective](https://open.spotify.com/album/3sMB7HNE0u3yu7MaY6AMud) | 3:17 | 2023-09-15 |  |
 | [Silent Wishes](https://open.spotify.com/track/0Y04tCb932hyMGO12fzTtw) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Silent Wishes](https://open.spotify.com/album/3CMz6HEMfufNKYTIUcyCQC) | 3:28 | 2022-11-22 |  |
 | [Siluetter](https://open.spotify.com/track/5EG8EctV5hGrILi6Kn3crm) | [Alva Abrahamson](https://open.spotify.com/artist/1Bnfz5xvq0H2MT2rYSaz5y) | [Siluetter](https://open.spotify.com/album/1eit0mMMjv7VyCUf99aQ42) | 2:10 | 2022-02-28 |  |
 | [Slow](https://open.spotify.com/track/4C18P7OaNo271fYNnbpoVR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Slow](https://open.spotify.com/album/1wNUZDyBD23Omaly7HaOql) | 2:40 | 2022-02-28 |  |

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Asbesto",
+        "url": "https://open.spotify.com/album/0abRMS7VjgDDOuhdVxOs9A"
+      },
+      "artists": [
+        {
+          "name": "Dark Tempest",
+          "url": "https://open.spotify.com/artist/20QGauCCn5cmwkG8bUiDsE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177537,
+      "name": "Asbesto",
+      "url": "https://open.spotify.com/track/3xwKqqLDlLdyDS1GO5ofgL"
+    },
+    {
+      "album": {
         "name": "The Orange Tree",
         "url": "https://open.spotify.com/album/774FnnGNgn7cC9eweO8oLw"
       },
@@ -1344,6 +1362,24 @@
       "duration_ms": 253180,
       "name": "Vapour",
       "url": "https://open.spotify.com/track/2CGDaeOIookJCHSrMQsKVT"
+    },
+    {
+      "album": {
+        "name": "Imp",
+        "url": "https://open.spotify.com/album/5JU1DJKNVYo9Hl5MTkcVXb"
+      },
+      "artists": [
+        {
+          "name": "Waloox",
+          "url": "https://open.spotify.com/artist/6iomPU1uMjIP2HcUvEVjoi"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206119,
+      "name": "Waloox",
+      "url": "https://open.spotify.com/track/4GCqW6WVxBxGaWNfX7e8vh"
     },
     {
       "album": {

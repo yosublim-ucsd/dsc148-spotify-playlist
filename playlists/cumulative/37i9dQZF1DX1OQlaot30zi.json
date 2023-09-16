@@ -19461,6 +19461,24 @@
     },
     {
       "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/7fkMaL5WdhuhigyC6ralGd"
+      },
+      "artists": [
+        {
+          "name": "DANDY TURNER",
+          "url": "https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149350,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/5t1VeoZlf1613iRUWE5YVh"
+    },
+    {
+      "album": {
         "name": "Homies",
         "url": "https://open.spotify.com/album/66gwTXAR4CeE333WL38MJ0"
       },

@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-391 songs - 19 hr 49 min
+393 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2022-04-05 | 2022-07-29 |
 | [Intuitive](https://open.spotify.com/track/2Qav8jC8iVrVpQBJwARKl2) | [PALM ENGELS](https://open.spotify.com/artist/3z6rmjKj5BfheOkGxSmajN) | [Intuitive](https://open.spotify.com/album/5rrsU6UYKXhP1xr95neXZg) | 2:06 | 2022-10-07 |  |
 | [It's Sun Time](https://open.spotify.com/track/1iRAoE5MQWa2pnWgWTqgH3) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [It's Sun Time](https://open.spotify.com/album/5ARc55vlt112JrwGiAC57s) | 2:28 | 2022-06-03 | 2022-07-29 |
+| [Jennie with the Smile](https://open.spotify.com/track/5DKtGnxDaPvaHHeOnCWvb4) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Jennie with the Smile](https://open.spotify.com/album/2LsLOGB19Ed3sybcG9QU7w) | 2:55 | 2023-09-15 |  |
 | [Juju Beans](https://open.spotify.com/track/3YgsVGDHaz0QITSzaaK8mk) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [The Softest Smile](https://open.spotify.com/album/6QZs23x9KCVuPhU1lvpKD0) | 2:25 | 2023-04-06 |  |
 | [June Summer](https://open.spotify.com/track/5o7Di648YijIAZ54xrqZ1q) | [Rebecca Arzoian](https://open.spotify.com/artist/4384gxrYcOSYP4zH7TE6Sx) | [June Summer](https://open.spotify.com/album/4WoMJSDEAFQQfdTunqawtw) | 3:01 | 2023-05-26 |  |
 | [Just smooth](https://open.spotify.com/track/5B4v6ttUV7VJ7S7kEJqg1D) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Just smooth](https://open.spotify.com/album/6k6M6z7vGg18xb7md3BQoH) | 2:18 | 2022-12-09 |  |
@@ -214,6 +215,7 @@
 | [Magic Island](https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Magic Island](https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2) | 2:17 | 2022-04-05 | 2022-07-29 |
 | [Make It Count](https://open.spotify.com/track/70EPJbHlSO1Dkkmil1IP6b) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Make It Count](https://open.spotify.com/album/2cRKaFS1CgsSizxPQC6ca6) | 3:03 | 2022-04-05 | 2022-07-29 |
 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2022-04-05 |  |
+| [Maraschino Cherry](https://open.spotify.com/track/5x7yKdw07UdQ6N6SlCuuFN) | [Trausch](https://open.spotify.com/artist/5SmNLY6rv1DodiaaM3e6Mx) | [Maraschino Cherry](https://open.spotify.com/album/0PR1ouGbo2S9AZxFnIHaK2) | 2:50 | 2023-09-15 |  |
 | [Marbella Sun](https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Marbella Sun](https://open.spotify.com/album/28Pm0uMfRZyKcaXhI2SynC) | 3:44 | 2022-04-05 | 2022-10-07 |
 | [Mazal](https://open.spotify.com/track/1VGidY4QvUrjSJDL6lW0iu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Mazal](https://open.spotify.com/album/3MQ37VFDqoqypH9JwvQmn7) | 2:37 | 2022-11-25 |  |
 | [MEL](https://open.spotify.com/track/0OayUuPc2bJsBWtcEn1r76) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Tráz Água](https://open.spotify.com/artist/0daPxRxTWAiXkvOLcMV7Mh) | [OBG](https://open.spotify.com/album/4aghuCPwRba0iBmzslJm9C) | 3:00 | 2022-04-08 |  |

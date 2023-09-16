@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-416 songs - 22 hr 36 min
+417 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Assim](https://open.spotify.com/track/5gjGfw1eaoMOW9Rq97j1Rp) | [Choro](https://open.spotify.com/artist/7jmNHJxPdNzErKwdI9Ts5D), [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b), [Matheus Paraizo](https://open.spotify.com/artist/10BT29sUZJ4ZIKOwIfONA4), [Inês Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn), [AVALANCHE](https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z) | [Assim](https://open.spotify.com/album/3eQ6r9soA8z9PluYL8U2vk) | 2:43 | 2022-07-07 | 2022-08-05 |
 | [Assumir](https://open.spotify.com/track/5K3Pc3hqI1dxSEEjwtAUcv) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF) | [LUZ](https://open.spotify.com/album/2EihWuZWFX3O8L6kSPGmm6) | 3:00 | 2023-05-11 | 2023-05-26 |
 | [Até que vc volte](https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Até que vc volte](https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr) | 2:01 | 2023-03-03 | 2023-03-23 |
-| [Aura Diferente](https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Aura Diferente](https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd) | 4:11 | 2023-09-14 |  |
+| [Aura Diferente](https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Aura Diferente](https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd) | 4:11 | 2023-09-14 | 2023-09-16 |
 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 | 2023-04-27 | 2023-05-19 |
 | [Baby](https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8) | [Baby](https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC) | 3:41 | 2023-03-03 | 2023-03-31 |
 | [Backseat](https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Backseat](https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR) | 3:12 | 2023-08-17 | 2023-09-08 |
@@ -155,6 +155,7 @@
 | [Ficou Tudo Bem](https://open.spotify.com/track/1vWvJFkIrMZUnkxA4A0IUU) | [Sara Monteiro](https://open.spotify.com/artist/5HELMWN5G2dNC2AOXn2VNu) | [Ficou Tudo Bem](https://open.spotify.com/album/7BT0ho7Rb4dlFIkFiHrqqC) | 3:23 | 2023-03-17 | 2023-03-31 |
 | [Filhos](https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Filhos](https://open.spotify.com/album/16xD2hWPUrnrUrWmzBweXQ) | 3:30 | 2023-08-03 | 2023-08-25 |
 | [Filtros](https://open.spotify.com/track/1FDIrQqgzUyG0sc6kYusDI) | [Idelsa](https://open.spotify.com/artist/0mXFos6Vf02A5AReZz9i5p), [Yara Bonga](https://open.spotify.com/artist/6BhSNJjeu7P8rEP2lOQ4Pw) | [Filtros](https://open.spotify.com/album/1lDlsWp44yKP7kCe04msjo) | 3:08 | 2023-05-11 | 2023-05-19 |
+| [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 | 2023-09-14 |  |
 | [Flowers](https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Jump In](https://open.spotify.com/album/0D8CRbaOwXs9QBcwXNFdGc) | 3:37 | 2023-06-01 | 2023-06-23 |
 | [Foca Em Mim](https://open.spotify.com/track/5zgjyGU0J3b4aLbRLE2VGV) | [Aciara](https://open.spotify.com/artist/2YTyLANKeASYcBm1wJadNI), [South](https://open.spotify.com/artist/4iIARK2uospivls7spnIw9) | [Foca Em Mim](https://open.spotify.com/album/5xFLHYHkTdRraM87Y4QhHb) | 2:56 | 2023-06-29 | 2023-07-14 |
 | [Forever Na Street](https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Forever Na Street](https://open.spotify.com/album/0SYbOWZfcjV2Eqwq1XtMZk) | 2:33 | 2023-03-30 | 2023-04-21 |

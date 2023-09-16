@@ -1,13 +1,49 @@
 {
-  "description": "The best indie rock right now. Featuring new music by JAWNY",
-  "num_followers": 849067,
+  "description": "The best indie rock right now. Featuring new music by The Beaches.",
+  "num_followers": 849086,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGRmNGY1ZDY3MWI3OTQ3MjdkMzg3ODRiMTE5ZTgyYjUxYzM3YjJj",
+  "snapshot_id": "MCxhZGY0YTY3MjNhZTljNmFjZGUxYTdkMTJiNTNmNTkwZjVkODE2NWNi",
   "tracks": [
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Nothing Works",
+        "url": "https://open.spotify.com/album/6LkILMcjrr8n9WBKVpCLz5"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252797,
+      "name": "Nothing Works",
+      "url": "https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        },
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "My Body ft Your Lips",
+      "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
+    },
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
@@ -109,6 +145,22 @@
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
     },
     {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Dead Come Talking",
+        "url": "https://open.spotify.com/album/3BxsQSkKIAP9bMWA706L1u"
+      },
+      "artists": [
+        {
+          "name": "Roe Kapara",
+          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
+        }
+      ],
+      "duration_ms": 133535,
+      "name": "The Dead Come Talking",
+      "url": "https://open.spotify.com/track/30rgtGTl30WcfiyDDqo94A"
+    },
+    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "How Do You Sleep At Night?",
@@ -159,6 +211,22 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Crybaby",
+        "url": "https://open.spotify.com/album/3xDHBJ5tlIVVNRo9fHTf2u"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "duration_ms": 220465,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/4kQVyej9KLlxX3Ro969Poa"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -287,22 +355,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "apartment402",
-        "url": "https://open.spotify.com/album/2qLK5cRG3do78g2y8RFjpn"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 256901,
-      "name": "apartment402",
-      "url": "https://open.spotify.com/track/3tzhG9Y64aTdoQj9p2pije"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
       },
@@ -317,20 +369,20 @@
       "url": "https://open.spotify.com/track/2D3Kia865pJnopFMJtSwRV"
     },
     {
-      "added_at": "2023-09-08 04:00:00",
+      "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "What Doesn't Kill You Makes You Paranoid",
-        "url": "https://open.spotify.com/album/6XAKGZmFNNij9L9dYTAznJ"
+        "name": "boy blue",
+        "url": "https://open.spotify.com/album/1YKLzM6MSF46YSHoJ9vBWY"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Angelsaur",
+          "url": "https://open.spotify.com/artist/1GfyE51MdTYnvRvPAuDUXb"
         }
       ],
-      "duration_ms": 231518,
-      "name": "What Doesn't Kill You Makes You Paranoid",
-      "url": "https://open.spotify.com/track/1na4kP9vFyaXHq8ZOGOC16"
+      "duration_ms": 248853,
+      "name": "boy blue",
+      "url": "https://open.spotify.com/track/39ygtx2y6C3LFOggktXHEM"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -561,24 +613,20 @@
       "url": "https://open.spotify.com/track/5YVkywBzm2b9oqSKbZiAmp"
     },
     {
-      "added_at": "2023-09-08 04:00:00",
+      "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5bRp8yobrVP976E6ZB9ewn"
       },
       "artists": [
         {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        },
-        {
-          "name": "The Grogans",
-          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+          "name": "A Beacon School",
+          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
         }
       ],
-      "duration_ms": 187487,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
+      "duration_ms": 199983,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1CfIN1M7ADg6kUgNthy96D"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -731,22 +779,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "I Want To Be Your Only Pet",
-        "url": "https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 214200,
-      "name": "I Want To Be Your Only Pet",
-      "url": "https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "The Mall",
         "url": "https://open.spotify.com/album/5h7BayM1hxhcxfDUC7d85U"
       },
@@ -827,22 +859,6 @@
       "duration_ms": 222555,
       "name": "But Not Kiss",
       "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Elvis In The Army",
-        "url": "https://open.spotify.com/album/1rr5phIBPE801sqSKjyRzv"
-      },
-      "artists": [
-        {
-          "name": "A. Savage",
-          "url": "https://open.spotify.com/artist/1MK90Dn9tMbk16g2Vb2NQp"
-        }
-      ],
-      "duration_ms": 217342,
-      "name": "Elvis In The Army",
-      "url": "https://open.spotify.com/track/1nsKgm05eIOz71wYP2sLTN"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 239784,
       "name": "Drug Asphyxiation",
       "url": "https://open.spotify.com/track/6t8zIOQ4mOqZfzTITYiRKt"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Car Sex",
-        "url": "https://open.spotify.com/album/1Sq1347HBtOCkzZtZFaFEN"
-      },
-      "artists": [
-        {
-          "name": "Secondhand Sound",
-          "url": "https://open.spotify.com/artist/7F5gkuNk8gKIYIQtXJNFAw"
-        }
-      ],
-      "duration_ms": 218335,
-      "name": "Car Sex",
-      "url": "https://open.spotify.com/track/07Y0MWRfkOeOxEtjMKv7Mb"
     },
     {
       "added_at": "2023-09-08 04:00:00",

@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-1,248 songs - 3 day 1 hr 24 min
+1,249 songs - 3 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [Sợ Em Đếch Care](https://open.spotify.com/track/09XRIqvjTd3tV04kIlwTZw) | [Specter](https://open.spotify.com/artist/7M1tyPcETy1KG3zlXaJLty), [Tris](https://open.spotify.com/artist/4K9xjauxzG8EREdEsXDD4N) | [Sợ Em Đếch Care](https://open.spotify.com/album/7wmCRqpUQj192jiL1oKzO8) | 3:47 | 2022-10-05 | 2022-10-13 |
 | [Sợ Đông](https://open.spotify.com/track/53v3awd4zbcDGvCRLO3d2v) | [Jayden](https://open.spotify.com/artist/5kJ6yqvpzm5GICMRA4bu7C) | [Sợ Đông](https://open.spotify.com/album/3sFtgW6XTLlw5tUGNjNaRx) | 3:13 | 2022-03-02 | 2022-03-13 |
 | [sức mạnh](https://open.spotify.com/track/4pGaJvnuphqohNuLa55YfT) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [sức mạnh](https://open.spotify.com/album/3DtbKuDzi6LlAVPoWTm2NB) | 2:40 | 2023-01-26 | 2023-04-20 |
+| [Ta](https://open.spotify.com/track/1TX6AY62YiXlhKVqJhA3Dk) | [WAVES](https://open.spotify.com/artist/3CrAGTXH12HVzjA337Ajzo), [tnghi](https://open.spotify.com/artist/217CQDuGuHtrk3hbj1Nlaa), [wolfie](https://open.spotify.com/artist/2P5neUjvCjPP2kgdX2OzD9) | [Ta](https://open.spotify.com/album/4W3SsLgpKFCdqRimzxk46n) | 4:03 | 2023-09-14 |  |
 | [ta nen vay thoi](https://open.spotify.com/track/299SFAenm6AhaD6ughFSkC) | [PAR SG](https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY), [Gia Gia](https://open.spotify.com/artist/0rRfgjRejsES6xPGa1N0Ew) | [LOVE](https://open.spotify.com/album/3ggUbiKB1hfZ3FE0KrlNHO) | 2:53 | 2023-05-25 | 2023-06-07 |
 | [ta nen vay thoi](https://open.spotify.com/track/3l2pzxSGxA5QBczflT8IFm) | [PAR SG](https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY), [Gia Gia](https://open.spotify.com/artist/0rRfgjRejsES6xPGa1N0Ew) | [ta nen vay thoi](https://open.spotify.com/album/28zWCsd2SvWCCGNUFEmHmK) | 2:53 | 2023-04-05 | 2023-05-31 |
 | [Ta Sẽ Mãi Là](https://open.spotify.com/track/3ElvCVoHxW1DYNhVF7h4Pj) | [SimonC](https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ) | [Ta Sẽ Mãi Là](https://open.spotify.com/album/340GSPax0rer8vH6uQIuQQ) | 3:24 | 2023-08-24 |  |

@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-423 songs - 1 day 4 hr 5 min
+424 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Eres Tú](https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Grandes Exitos](https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl) | 3:34 | 2021-12-21 |  |
 | [Es Ella Más Que Yo](https://open.spotify.com/track/374F2ZrWYYCFuRr1XDUnER) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Celebrando La Voz De Yuri](https://open.spotify.com/album/7ujHdVvsepyAQAKtzjjn3p) | 3:48 | 2021-12-21 | 2022-07-29 |
 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 | 2021-12-21 |  |
-| [Escríbeme En El Cielo](https://open.spotify.com/track/2fnRjRGStHz4eDBiEXbFrc) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Sentidos Opuestos](https://open.spotify.com/album/2eOqqbyOTwSaS4V2H0jW64) | 4:10 | 2021-12-21 |  |
+| [Escríbeme En El Cielo](https://open.spotify.com/track/2fnRjRGStHz4eDBiEXbFrc) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Sentidos Opuestos](https://open.spotify.com/album/2eOqqbyOTwSaS4V2H0jW64) | 4:10 | 2021-12-21 | 2023-09-16 |
 | [Ese Hombre](https://open.spotify.com/track/35kdPvpOeQXH3AD7Yo6vy1) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/71LlTmSoCGEvqbmFijtvrI) | 5:10 | 2021-12-21 | 2022-07-29 |
 | [Ese Hombre](https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:11 | 2021-12-21 | 2023-08-17 |
 | [Espejos Azules](https://open.spotify.com/track/1nJRvj8Swc438vHd4M2MpW) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Espejos Azules](https://open.spotify.com/album/4vguKAEOyMmlzz31GIQZef) | 2:52 | 2021-12-21 | 2022-07-28 |
@@ -355,6 +355,7 @@
 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 | 2021-12-21 |  |
 | [Sé Como Duele](https://open.spotify.com/track/3d3tM44AOGsluNFGvpaFPu) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/1MgKIFUKgK88AuDHxccsl9) | 3:13 | 2021-12-21 | 2022-07-27 |
 | [Sé Como Duele](https://open.spotify.com/track/5fZyZdlzUAcFTn6Bwu3pLv) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/27ihlO6JX8joygy2nXsZ1l) | 3:13 | 2021-12-21 | 2023-03-14 |
+| [Sé Cómo Duele](https://open.spotify.com/track/1723G9MmbFUTH8yai7AaWL) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2EeG6eYEpdAovdBFioA4C3) | 3:13 | 2021-12-21 |  |
 | [Tan enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 | 2021-12-21 |  |
 | [Tan Solo \- En Vivo Desde Los Estudios San Angel, Cuidad De Mexico/1995](https://open.spotify.com/track/5dzN4XAEcmdvCokNZmyW4l) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Encuentro](https://open.spotify.com/album/4iBEwn186Zj1LAnVncCsXa) | 4:13 | 2021-12-21 | 2022-07-13 |
 | [Tarde ó Temprano](https://open.spotify.com/track/65UIkTZ05CKXThsOASdUKv) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo 70](https://open.spotify.com/album/5M1966wGVaH8uq4O6CT3PY) | 3:32 | 2021-12-21 | 2022-07-29 |

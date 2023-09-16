@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new, all blues. Cover: C.S. Armstrong",
+  "description": "All new, all blues. Cover: Buffalo Nichols",
   "name": "Nu-Blue",
   "tracks": [
     {
@@ -3911,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "The Fatalist",
+        "url": "https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152586,
+      "name": "The Fatalist Blues",
+      "url": "https://open.spotify.com/track/37kYCbuyOEbLMOIs59FWfe"
+    },
+    {
+      "album": {
         "name": "The Louvre",
         "url": "https://open.spotify.com/album/1cZ17se5zLFdbZKhedKnio"
       },
@@ -4724,7 +4742,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 215093,
       "name": "You're Gonna Need Somebody on Your Bond",
       "url": "https://open.spotify.com/track/2nXFk9alD2vg2qKGaewctG"

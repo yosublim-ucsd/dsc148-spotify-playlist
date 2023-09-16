@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 75767,
+  "num_followers": 75899,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGUzNzVmOWU3MGVjYzZkZWFiZmZlMDhjYTI5YTY0ZmZmZWI4YTY0",
+  "snapshot_id": "MCxlYzkxMTJiMzYxZmQxM2M2ODcwMzg2ZDk4OWRkYjA1NDdkNzUyNjk0",
   "tracks": [
     {
       "added_at": "2023-09-02 00:01:21",
@@ -603,6 +603,26 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
+        "name": "Banho de Mar",
+        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Re.Significa",
+          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
+        }
+      ],
+      "duration_ms": 169531,
+      "name": "Banho de Mar",
+      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 252373,
       "name": "Sem Medo",
       "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "Banho de Mar",
-        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "Re.Significa",
-          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
-        }
-      ],
-      "duration_ms": 169531,
-      "name": "Banho de Mar",
-      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Simples Assim",
-        "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
+        "name": "Amanheceu (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
       },
       "artists": [
         {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
         }
       ],
-      "duration_ms": 217241,
-      "name": "Em Outro Lugar",
-      "url": "https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf"
+      "duration_ms": 196743,
+      "name": "Amanheceu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Amanheceu (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
+        "name": "Simples Assim",
+        "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
       },
       "artists": [
         {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
         }
       ],
-      "duration_ms": 196743,
-      "name": "Amanheceu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
+      "duration_ms": 217241,
+      "name": "Em Outro Lugar",
+      "url": "https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
+        "name": "Dan\u00e7a",
+        "url": "https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        },
+        {
+          "name": "Vitor Soltau",
+          "url": "https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS"
+        }
+      ],
+      "duration_ms": 152961,
+      "name": "Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
         "name": "Sem Filtro (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "No Mundo",
-        "url": "https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Lucas Mayer",
-          "url": "https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "No Mundo",
-      "url": "https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
+        "name": "No Mundo",
+        "url": "https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Lucas Mayer",
+          "url": "https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "No Mundo",
+      "url": "https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
         "name": "Sorriso De Agog\u00f4",
         "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 196146,
       "name": "Sorriso De Agog\u00f4",
       "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "Dan\u00e7a",
-        "url": "https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        },
-        {
-          "name": "Vitor Soltau",
-          "url": "https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS"
-        }
-      ],
-      "duration_ms": 152961,
-      "name": "Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL"
     },
     {
       "added_at": "2023-09-02 00:01:21",

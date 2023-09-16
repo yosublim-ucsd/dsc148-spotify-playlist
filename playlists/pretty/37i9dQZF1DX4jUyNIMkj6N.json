@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 188229,
+  "num_followers": 188296,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODJmNDY1OTc4ZDg0ODE0YTFhMTJlMjI5OWJmYTg1ODMxZWY0MzBl",
+  "snapshot_id": "MCxkMjgxNTllNWI5N2U0YzE5NmFjNzFlNzEzN2NhYzU1Zjc5NTlhYjJm",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Palomino Deluxe (Child of Summer Edition)",
+        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Angel - Acoustic String Version",
+      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "We're All The Way",
         "url": "https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 189632,
       "name": "We're All the Way",
       "url": "https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Palomino Deluxe (Child of Summer Edition)",
-        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Angel - Acoustic String Version",
-      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
     },
     {
       "added_at": "2023-09-14 22:00:00",

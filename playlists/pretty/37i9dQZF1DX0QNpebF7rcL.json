@@ -1,13 +1,45 @@
 {
   "description": "The best in blues right now. Cover: Shemekia Copeland",
-  "num_followers": 51392,
+  "num_followers": 51409,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2ZhM2RhMWY0ZGNjNGVkODY0YTUxZTBmZjE5NjYxZjA4MDMwZTdh",
+  "snapshot_id": "MCw3NWQ5MzQ2MTM0ZjRkZjhlNDJhNjVlYzNlM2NkMzVhZjUyNDlmZDY0",
   "tracks": [
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y"
+      },
+      "artists": [
+        {
+          "name": "Judith Hill",
+          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+        }
+      ],
+      "duration_ms": 255084,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Sweet 'Lil Lies",
+        "url": "https://open.spotify.com/album/6UCqBQAXge2aQLiZa6HrLu"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 317719,
+      "name": "Sweet 'Lil Lies",
+      "url": "https://open.spotify.com/track/6ibzlLNs7baLXzz4RjMLd9"
+    },
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
@@ -83,6 +115,22 @@
       "duration_ms": 298984,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Talkin' Company Man Blues",
+        "url": "https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2"
+      },
+      "artists": [
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 250092,
+      "name": "Talkin' Company Man Blues",
+      "url": "https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -397,22 +445,6 @@
       "url": "https://open.spotify.com/track/4Bz39avjnvbK3cWLN8EdVI"
     },
     {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Hard To Be A Human",
-        "url": "https://open.spotify.com/album/1eJg3HW3Tn3xyK9Jh5Ot7U"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Hard To Be A Human",
-      "url": "https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW"
-    },
-    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Anemouhagh",
@@ -625,22 +657,6 @@
       "url": "https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Gee Baby Ain't I Good To You",
-        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Gee Baby Ain't I Good To You",
-      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
-    },
-    {
       "added_at": "2023-01-20 05:01:00",
       "album": {
         "name": "Don't Know Where She Went",
@@ -671,22 +687,6 @@
       "duration_ms": 232200,
       "name": "Pay the Price",
       "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Nobody's Fool",
-        "url": "https://open.spotify.com/album/6zs5N5LbUBgVQRESHqB4LV"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Nobody's Fool",
-      "url": "https://open.spotify.com/track/1s2I2P6bXRdQyePO016Os9"
     },
     {
       "added_at": "2022-09-30 04:01:00",

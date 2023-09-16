@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-234 songs - 19 hr 59 min
+235 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Arena](https://open.spotify.com/track/6BydEdGxofGj0FmP6BVG1E) | [Julian Gomez](https://open.spotify.com/artist/5aPdwHVVmfNKqm4CcTZIIq) | [62000 \| 62508](https://open.spotify.com/album/4MxHMfindjyks5Qq4t8tR1) | 4:24 | 2022-01-28 | 2022-07-29 |
 | [Ascent](https://open.spotify.com/track/6IV2VvCA0li8ShOy03haGf) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [ThePianoPlayer](https://open.spotify.com/artist/53W6G847URB4LUmls2hLjD) | [Ascent](https://open.spotify.com/album/0dt7jRDx1D3f2q9TKSDwoU) | 5:02 | 2022-01-21 | 2022-07-26 |
 | [Ascent](https://open.spotify.com/track/1qQUvt1yMWwgGKtdNuQMgX) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Ascent](https://open.spotify.com/album/2t7gXzOW5dPHmPuLUdlzxM) | 6:47 | 2023-01-13 | 2023-02-21 |
-| [Ashes](https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:03 | 2022-07-01 |  |
+| [Ashes](https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:03 | 2022-07-01 | 2023-09-16 |
 | [Astron](https://open.spotify.com/track/7orIxoE1ibxFKOXHxWYBiV) | [Akasaka](https://open.spotify.com/artist/0FYaJp4G2p5HO6cIMVqp0q) | [Astron](https://open.spotify.com/album/43m7SNLBFqDyrQyy1lPIpG) | 3:14 | 2022-01-21 | 2023-06-24 |
 | [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 | 2023-08-08 |  |
 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 | 2022-02-11 | 2022-08-18 |
@@ -42,7 +42,7 @@
 | [Contrail](https://open.spotify.com/track/0kUaVSpFJ1c5If3fK3S8CX) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4) | [Contrail](https://open.spotify.com/album/32ksiUukA1qPs0FrHTklxr) | 4:41 | 2022-05-25 | 2022-06-12 |
 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 | 2022-01-21 |  |
 | [Cube](https://open.spotify.com/track/4qTrcMRY4LZokOVS4QGss4) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Alt:01](https://open.spotify.com/album/1mPPIIJKQ4VgL2nB3fIXEs) | 2:50 | 2023-04-21 |  |
-| [Dali In Sapphire](https://open.spotify.com/track/0C8kWf3y8woCorZlh90H4f) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [4\-Track Guitar Music](https://open.spotify.com/album/4waFzodRjhGm9uQj6C8uFW) | 6:42 | 2022-01-21 |  |
+| [Dali In Sapphire](https://open.spotify.com/track/0C8kWf3y8woCorZlh90H4f) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [4\-Track Guitar Music](https://open.spotify.com/album/4waFzodRjhGm9uQj6C8uFW) | 6:42 | 2022-01-21 | 2023-09-16 |
 | [Dandelion Heart](https://open.spotify.com/track/2FVPcTBYidM2xDfVf6Nr7k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:33 | 2022-01-21 | 2023-04-30 |
 | [Dandelion Heart](https://open.spotify.com/track/3I0GGpVe3nCNUwmCre6pRU) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z) | 5:33 | 2023-04-21 |  |
 | [Dark Forces \- Robot Koch Rework](https://open.spotify.com/track/4IHPv1BTBH3wvYTskeN1dA) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Dark Forces \(Robot Koch Rework\)](https://open.spotify.com/album/0qE9e3IrcAUln0LiXUcB14) | 3:41 | 2022-01-28 | 2022-07-29 |
@@ -138,7 +138,7 @@
 | [Norduris](https://open.spotify.com/track/4yrVOvpavSaPoD3MRRvx19) | [Wayai](https://open.spotify.com/artist/0xhgrV69CjEHK5pyK1iMAJ), [Johan Famaey](https://open.spotify.com/artist/3AxGH0DTPTiF54fxkXyjXV) | [Norduris](https://open.spotify.com/album/0ZE5abEJEESte7CMbOdnNR) | 4:11 | 2022-02-04 |  |
 | [North](https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 3:17 | 2022-01-21 |  |
 | [Northern Light](https://open.spotify.com/track/3sxJ6w5OL3fdu1vxRhlrCR) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 2:32 | 2022-01-21 | 2022-07-29 |
-| [Northern Light](https://open.spotify.com/track/4WCWgH74F5Dmhvy2LEMeYc) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM) | 2:32 | 2023-04-21 | 2023-09-02 |
+| [Northern Light](https://open.spotify.com/track/4WCWgH74F5Dmhvy2LEMeYc) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM) | 2:32 | 2023-04-21 |  |
 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-28 |  |
 | [notes of a crocodile](https://open.spotify.com/track/7DgYQpSRq8oKdstt80n0A4) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [fragments](https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx) | 1:29 | 2022-01-21 |  |
 | [Nuuk \(Air\)](https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc) | 4:50 | 2022-01-21 | 2022-10-08 |
@@ -162,6 +162,7 @@
 | [Proof of My Existence](https://open.spotify.com/track/7DOzFtfWtleNT2nXfxrkJM) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [Proof of My Existence](https://open.spotify.com/album/1yqH34M8NBfm5sDYW6Idqh) | 2:24 | 2022-10-14 |  |
 | [Pärt: Für Alina \- 1\. Für Alina](https://open.spotify.com/track/0fXQMORkpxlJUqyu5fTUL3) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Contemporary Piano](https://open.spotify.com/album/3rc04zjug6LVTSqefi5v5A) | 10:42 | 2022-01-21 | 2022-07-21 |
 | [Rakas](https://open.spotify.com/track/55Lz2Y0x9gu0Vh7yTIk6Dj) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Rakka II](https://open.spotify.com/album/5y0y4UtptE7P7p8SZFgAZT) | 3:42 | 2022-01-21 | 2022-07-29 |
+| [Rendering Intuitions](https://open.spotify.com/track/0oFKwoS8foZNhVGXTewACT) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Born Again In The Voltage](https://open.spotify.com/album/3yOT3k3clE4z4dz4NagZyL) | 6:36 | 2023-09-08 |  |
 | [Rendering Intuitions](https://open.spotify.com/track/1JsRDrH5qt8QV5wqMOjQfk) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Born Again In The Voltage](https://open.spotify.com/album/357UFd2FDdnDRYS3IdyhJs) | 6:36 | 2022-01-28 | 2022-07-17 |
 | [Retrato](https://open.spotify.com/track/4i3zoVPfErzbpCtqplEDPL) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/7daEEsVemtGgl9NONjmBZk) | 2:26 | 2022-10-14 | 2023-05-01 |
 | [Retrato](https://open.spotify.com/track/6ivI3NsiMz2JCgpkf6MK6L) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/4wFHTdeCa6rLGmm0ExoxlB) | 2:26 | 2023-04-21 |  |

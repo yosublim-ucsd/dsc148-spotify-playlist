@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-215 songs - 14 hr 56 min
+216 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [I'm A Woman](https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [I'm A Woman](https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL) | 2:27 | 2023-07-14 |  |
 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-23 | 2023-08-14 |
 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-08-11 |  |
-| [If You Want It](https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [If You Want It](https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ) | 3:24 | 2023-06-30 |  |
+| [If You Want It](https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [If You Want It](https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ) | 3:24 | 2023-06-30 | 2023-09-16 |
 | [Illusion](https://open.spotify.com/track/0H6aRi7rGgHJulopiLFgvm) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/4tYpdAAF6oJaxJ3fuzboHX) | 5:44 | 2022-06-20 | 2022-11-13 |
 | [Illusion](https://open.spotify.com/track/2hDnhOt4pn1uEP1N4YQUT6) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/2Li9ODcatpUeJ9S3DZHWD9) | 5:44 | 2022-06-20 | 2023-05-20 |
 | [Illusion](https://open.spotify.com/track/53CpD7nwNQ7otqPNkzMM86) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/5AnU5BoObGiy8FHWRCNAsj) | 5:45 | 2021-07-24 | 2022-07-29 |
@@ -181,6 +181,7 @@
 | [See Me Out](https://open.spotify.com/track/28fbZR6LGCoqBjBp2z7xrO) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Cimón](https://open.spotify.com/artist/2ScWWtrV7DOYYeb4vO0rG8) | [See Me Out](https://open.spotify.com/album/6kOj8OeGCo05T99N2LExYO) | 2:29 | 2023-05-26 | 2023-08-18 |
 | [Self Control](https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w) | [Self Control](https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj) | 3:06 | 2023-05-19 |  |
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2021-07-24 |  |
+| [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-15 |  |
 | [Situation](https://open.spotify.com/track/2RBKhwns5udznQu3O8fK4s) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Cedric Gasaida](https://open.spotify.com/artist/0rc2hhdzeHeHmvyUVPnJ3C) | [Situation](https://open.spotify.com/album/5ITWMM5JR1SrpGbzO61hj7) | 3:20 | 2021-07-24 | 2023-05-24 |
 | [Sleepwalking](https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:45 | 2023-05-19 |  |
 | [So Close Now](https://open.spotify.com/track/1P5WxDUWkG5xwgbnTn4i21) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [So Close Now](https://open.spotify.com/album/6FTDsy98nHodCOgQ8e2b3F) | 3:37 | 2021-07-24 | 2023-05-20 |

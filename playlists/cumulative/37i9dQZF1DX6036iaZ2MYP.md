@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Nana Fofie
 
-216 songs - 10 hr 47 min
+217 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Sans moi](https://open.spotify.com/track/3kYTLEQwQx0oWu9Ws4uckJ) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Sans moi](https://open.spotify.com/album/6DKViO9P1UwmMJI4UA5loY) | 2:54 | 2023-06-29 | 2023-09-15 |
 | [Sans Stress](https://open.spotify.com/track/7ga33J7CahxCFgwl1SgRE7) | [Glodi West](https://open.spotify.com/artist/0J3zBtOK7EXBP97dKyQpYT), [Kunta](https://open.spotify.com/artist/3ishWMiOKQ8C7iUViLsS6V) | [Sans Stress](https://open.spotify.com/album/4yb63FwOVKGXoaVPefFOuP) | 2:54 | 2023-05-25 | 2023-07-28 |
 | [Sans Toi \- Remix](https://open.spotify.com/track/6BnDehrpsY3LQrrrANSEiF) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Ekany](https://open.spotify.com/artist/7GgFXkbjGp2RnA3dnh1Yxq) | [Sans Toi \(Remix\)](https://open.spotify.com/album/15GJTjjpwIxGOvdjxUCaKm) | 4:00 | 2023-01-19 | 2023-06-23 |
+| [Say Salud](https://open.spotify.com/track/3LaMO5jj65HG15NqlJsI3I) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Say Salud](https://open.spotify.com/album/6Yk2SJXrtKsP64Sdn1y3Z6) | 2:36 | 2023-09-14 |  |
 | [Searching for chop](https://open.spotify.com/track/3oCoAHSyIv35b05q9UCHdV) | [BerryR](https://open.spotify.com/artist/3DvGSDNONfFBcGBlmHrWth) | [Searching for chop](https://open.spotify.com/album/5O7aeNeMMa432GbovLsrMS) | 3:08 | 2022-07-13 | 2022-09-15 |
 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 | 2023-07-27 |  |
 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 | 2023-01-26 | 2023-06-23 |

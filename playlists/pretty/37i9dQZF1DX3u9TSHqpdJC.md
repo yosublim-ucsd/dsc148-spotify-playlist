@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Wim Tapley
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,802 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,847 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 56 | [DEATH WOBBLES](https://open.spotify.com/track/34DkUYoVpTrko0yxYSC6W0) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [DEATH WOBBLES](https://open.spotify.com/album/2JIjtWEfyzVyX07CVNXqDF) | 2:52 |
 | 57 | [Tell All My Friends](https://open.spotify.com/track/3ehieY8ll08gHOWpQWsmuz) | [Daisy Guttridge](https://open.spotify.com/artist/2tUq6RAxkUzZPf2WWLXMa4) | [Tell All My Friends](https://open.spotify.com/album/0rgMvrdi0C0q1yDRUUFRTM) | 2:42 |
 | 58 | [Liar](https://open.spotify.com/track/4oOYJDT0D6cgHsIyoqQSXv) | [David Ost](https://open.spotify.com/artist/6w6wZxrkurPtakOOnf4FZR) | [Liar](https://open.spotify.com/album/2uhygzcwNbkJVZOnIWGuge) | 4:45 |
-| 59 | [MURDER MY FEELINGS](https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib) | 2:44 |
+| 59 | [MURDER MY FEELINGS](https://open.spotify.com/track/5ew8NaSZdrhpRfJaN8ni2A) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/0HQB2AgiDGDFkFgvSRYqAM) | 2:44 |
 | 60 | [GOING YET!](https://open.spotify.com/track/1hDbQEj1HQu80OEJDtsg7T) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [GOING YET!](https://open.spotify.com/album/6GZLhJ9xerAXoLGBtQCQtt) | 3:09 |
 | 61 | [Consider Me A Winner](https://open.spotify.com/track/1AkQLyWEC52Y6JCfcBNU7m) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Consider Me A Winner](https://open.spotify.com/album/7svvOtzleUABvi2XYEUBp9) | 2:43 |
 | 62 | [Stop Thinking About It](https://open.spotify.com/track/6Pmg5MkcA6xc4tuUKGLgB6) | [Sophia Veraz](https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ) | [Stop Thinking About It](https://open.spotify.com/album/0FzcialvWMP9Tbf2G6voU2) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [different but exactly like you](https://open.spotify.com/track/7IbkNoUqOuOSUeSqqxm56f) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [idk if this is it](https://open.spotify.com/album/6pCfsQZiAiWXx9zMctgxyj) | 3:47 |
 | 100 | [Melancholia High Season](https://open.spotify.com/track/5MM3IVs8N9edrTOTs7Ug60) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Melancholia High Season](https://open.spotify.com/album/13aLxThHnCfi8aEyFsNuh2) | 3:03 |
 
-Snapshot ID: `MCxmYTEyZGI4ZGE3YjVmODkwNTYzMWQ4OGY1YTRkY2UxNDg5OGUxNTZj`
+Snapshot ID: `MCxlNGIyNjI4ZjIxODAyNjY3YmI5NDQ3ODBiOTA0OGM4YjQ3MGQ0NTRh`

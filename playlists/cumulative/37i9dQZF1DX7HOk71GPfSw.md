@@ -2,9 +2,9 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> Cover: A\. G\. Cook
+> Cover: Hannah Diamond
 
-1,830 songs - 3 day 11 hr 10 min
+1,833 songs - 3 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,6 +676,7 @@
 | [GOLDFiiSH](https://open.spotify.com/track/7MvHXUWvAaBOsFWoDLcN4R) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [VVSS](https://open.spotify.com/album/5A2VPzbzuv1EpSoie07kFe) | 2:00 | 2020-10-30 | 2021-01-08 |
 | [gone](https://open.spotify.com/track/6rRgZPx71jR3C9HuMHboje) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [gone](https://open.spotify.com/album/69fQ99VuqUX8HYDKaxONvu) | 2:40 | 2022-10-07 | 2023-02-11 |
 | [Good Ones](https://open.spotify.com/track/6PZpNMstpIiRenGK5UyG5D) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Good Ones](https://open.spotify.com/album/6Z0w6c5y1hX7dYbdBe4XKt) | 2:16 | 2021-09-03 | 2022-01-13 |
+| [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 | 2023-09-15 |  |
 | [Good Things Take Time](https://open.spotify.com/track/1rMPAjBFGWHcaiZ6O6t0jW) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Good Things Take Time](https://open.spotify.com/album/6kTSYt8iV32b8HLSuCSfUg) | 2:25 | 2023-07-10 | 2023-09-07 |
 | [Good Things Take Time](https://open.spotify.com/track/2osU4WkxDWd6ME9qdZ92S2) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Dystopia Girl](https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu) | 2:25 | 2023-07-10 |  |
 | [goodbye](https://open.spotify.com/track/3uei6XAS8fOqtHtW86RXl5) | [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp) | [goodbye](https://open.spotify.com/album/5MRO1Vq0qmRhBI22OROFdh) | 2:14 | 2021-01-23 | 2021-02-26 |
@@ -1261,6 +1262,7 @@
 | [popular](https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [search result](https://open.spotify.com/album/1wmIqJmiY5i7frir68g8JP) | 3:33 | 2022-05-13 | 2022-08-20 |
 | [portland](https://open.spotify.com/track/4SHZsJ8mwyWkv1zK6uGfP5) | [polearm](https://open.spotify.com/artist/6o0hI3oqnxFcUAqzyQOGPC) | [portland](https://open.spotify.com/album/74QxIstmSZX5IAGTATvbRC) | 2:22 | 2022-02-18 | 2022-05-12 |
 | [positions](https://open.spotify.com/track/25QDu1sjeUKdszBienrNx7) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [positions](https://open.spotify.com/album/0vR5A8fv2WpBjIiLN2OF7V) | 2:50 | 2021-11-05 | 2022-02-26 |
+| [Poster Girl](https://open.spotify.com/track/0uMuqJ8C94se50maCXGS1q) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Poster Girl](https://open.spotify.com/album/3ntPrJhjhD6pjmhw3OSNtP) | 3:43 | 2023-09-15 |  |
 | [POWER FANTASY](https://open.spotify.com/track/2uhMO2asSGhkTvOykBy7HB) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [DISCO4 :: PART I](https://open.spotify.com/album/6HodZ9bCtPbrWSqMlIEuvK) | 3:01 | 2020-10-16 | 2021-01-08 |
 | [power!](https://open.spotify.com/track/0T1wyHfKH245JwPAbYuko7) | [hirihiri](https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1), [yaca](https://open.spotify.com/artist/6bOI44vIWQPwNzm0ORkK8Q) | [power!](https://open.spotify.com/album/3H5az6rgrR5NPOH2mUMxtS) | 2:13 | 2023-01-13 | 2023-02-25 |
 | [PPL ALWAYS MAKE SHT FKN WORSE](https://open.spotify.com/track/6HITgFeFZZndr6ES4EgP0U) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [Days to Waste](https://open.spotify.com/artist/3atbVRVOuIUxjoxeuNbd26) | [PPL ALWAYS MAKE SHT FKN WORSE](https://open.spotify.com/album/4CWoq1fpa3NZMywnkD6p1l) | 2:00 | 2021-08-14 | 2021-09-24 |
@@ -1500,6 +1502,7 @@
 | [space coaster](https://open.spotify.com/track/1YZYpXsFmmeJiUEHOrxu85) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Here or Heaven](https://open.spotify.com/album/0D52xN7k7iJuCAyJUo2gtw) | 2:27 | 2021-12-10 | 2022-04-29 |
 | [Spalarkle \(Alys\)](https://open.spotify.com/track/0olHacuNSrjufHYd5lvpCv) | [felicita](https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Spalarkle \(Alys\)](https://open.spotify.com/album/51VDi4dvyyzEm2BC2m1pqT) | 4:06 | 2023-04-04 | 2023-04-15 |
 | [spawn](https://open.spotify.com/track/4MCpzM2jmfXrxpQ5GOYK1M) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [insignia's manor](https://open.spotify.com/album/4cGpcf400VAqKAIBeFeB9a) | 1:47 | 2021-06-12 | 2022-01-13 |
+| [Speed Drive \- jamesjamesjames Remix; From Barbie The Album](https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Speed Drive](https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV) | 4:24 | 2023-09-15 |  |
 | [Spending all my time](https://open.spotify.com/track/6tEUPYdS5m5LmZnmARmOCT) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Spending all my time](https://open.spotify.com/album/16FgJ80Z3rjPHtxXuvksi5) | 3:54 | 2020-12-11 | 2021-01-08 |
 | [Spinnin](https://open.spotify.com/track/6EoDOq2mWiPhXUdFpqzjD5) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee) | [Legendary Member](https://open.spotify.com/album/7dnGhtPF3xZVGZHyg8xvKw) | 3:41 | 2020-12-11 | 2021-01-08 |
 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 | 2021-03-06 | 2021-07-17 |

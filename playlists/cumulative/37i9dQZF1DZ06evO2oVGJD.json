@@ -194,6 +194,24 @@
     {
       "album": {
         "name": "Dar\u00eda Todo por Ti",
+        "url": "https://open.spotify.com/album/27CPLhGnj32W8AeYVO5aW9"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184145,
+      "name": "Dar\u00eda Todo por Ti",
+      "url": "https://open.spotify.com/track/47NVCfXd6FajWo50EcD4La"
+    },
+    {
+      "album": {
+        "name": "Dar\u00eda Todo por Ti",
         "url": "https://open.spotify.com/album/7LalMyh8jS4b3AbrohmP2L"
       },
       "artists": [
@@ -204,7 +222,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 184145,
       "name": "Dar\u00eda Todo por Ti",
       "url": "https://open.spotify.com/track/4hKi0dBaw6nFsTV4DNeF4U"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 193893,
       "name": "Llora el amor",
       "url": "https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9"
@@ -834,10 +852,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 200080,
       "name": "Nuevo Amor",
       "url": "https://open.spotify.com/track/3Omc1JskWu7w1bJqBcB5dq"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200080,
+      "name": "Nuevo Amor",
+      "url": "https://open.spotify.com/track/3tg5PBiaejeut5ENOCpRgW"
     },
     {
       "album": {
@@ -1194,10 +1230,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 172613,
       "name": "Tu Castigo",
       "url": "https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172613,
+      "name": "Tu Castigo",
+      "url": "https://open.spotify.com/track/32csFAG5BL1HtQBm6Dypk1"
     },
     {
       "album": {
@@ -1252,6 +1306,24 @@
       "duration_ms": 148520,
       "name": "Voy a danzar",
       "url": "https://open.spotify.com/track/2Wq4EMgJOEo2mosunFaNwf"
+    },
+    {
+      "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "Vuela, vuela",
+      "url": "https://open.spotify.com/track/2JSf7lq71PuKFj9S6aimLA"
     },
     {
       "album": {

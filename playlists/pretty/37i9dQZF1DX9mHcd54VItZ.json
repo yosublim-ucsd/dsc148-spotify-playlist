@@ -1,13 +1,29 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=GelQWYzpTk-l2uPtHFRCzA\">Spoegwolf</a>",
-  "num_followers": 14649,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"Elle E\">Elle E</a>",
+  "num_followers": 14675,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzI0ZGMzOTc1MzcwNTk5MmVhZDk0YmI5MDNjZDU5ZGFjZDg3YmVh",
+  "snapshot_id": "MCwwY2EwM2U1OTY0YTQxOTM3Nzc0YmE1N2FjNjNiZmY2N2IwMDJiZTQx",
   "tracks": [
+    {
+      "added_at": "2023-09-15 04:14:22",
+      "album": {
+        "name": "Pizza Party",
+        "url": "https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Pizza Party",
+      "url": "https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr"
+    },
     {
       "added_at": "2023-08-31 21:59:00",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 179391,
       "name": "Cloetesville",
       "url": "https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81"
+    },
+    {
+      "added_at": "2023-09-15 04:14:22",
+      "album": {
+        "name": "Altyd Daar",
+        "url": "https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab"
+      },
+      "artists": [
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Altyd Daar",
+      "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
+    },
+    {
+      "added_at": "2023-09-15 04:14:22",
+      "album": {
+        "name": "Hou Bene Hou",
+        "url": "https://open.spotify.com/album/56hil9lgMhYIeR3kabttwB"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 247638,
+      "name": "Hou Bene Hou",
+      "url": "https://open.spotify.com/track/0PwwO8REYMl65SU8esvtxc"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -59,6 +107,54 @@
       "duration_ms": 172750,
       "name": "O, My Donner",
       "url": "https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs"
+    },
+    {
+      "added_at": "2023-09-15 04:14:22",
+      "album": {
+        "name": "Vriend",
+        "url": "https://open.spotify.com/album/1nDlCjKf176FOs2ej8puEC"
+      },
+      "artists": [
+        {
+          "name": "Armand Steenkamp",
+          "url": "https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5"
+        }
+      ],
+      "duration_ms": 197876,
+      "name": "Vriend",
+      "url": "https://open.spotify.com/track/4N0DKF5cPNjxPWRGLsXvvH"
+    },
+    {
+      "added_at": "2023-09-15 04:14:22",
+      "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/0qaFvNHmuPFEXqzzFGasPW"
+      },
+      "artists": [
+        {
+          "name": "RAYNE",
+          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
+        }
+      ],
+      "duration_ms": 203513,
+      "name": "Flower (\uaf43)",
+      "url": "https://open.spotify.com/track/5z4Etcsgyj0bXQBefoiC7w"
+    },
+    {
+      "added_at": "2023-09-15 04:14:22",
+      "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/2AxR1RKuskyb1ZK0AQxMD7"
+      },
+      "artists": [
+        {
+          "name": "RyanV",
+          "url": "https://open.spotify.com/artist/5ypuyy5P6dE3US3UgXj4PT"
+        }
+      ],
+      "duration_ms": 189896,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/2X7CueiRw3znYvsRPHSIkv"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -693,54 +789,6 @@
       "url": "https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL"
     },
     {
-      "added_at": "2023-07-28 06:52:23",
-      "album": {
-        "name": "Drinking Alone",
-        "url": "https://open.spotify.com/album/6M9JzDweqMHPheeErDFWRm"
-      },
-      "artists": [
-        {
-          "name": "Broke 'n Free",
-          "url": "https://open.spotify.com/artist/29zjs2vtld5vxaDuu2VnF5"
-        }
-      ],
-      "duration_ms": 214662,
-      "name": "Drinking Alone",
-      "url": "https://open.spotify.com/track/0PvTuzW3IxIFZM7LwIRXR7"
-    },
-    {
-      "added_at": "2023-07-28 06:52:23",
-      "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/4bWs899eJvZvRoxwHa9bBt"
-      },
-      "artists": [
-        {
-          "name": "Gaz",
-          "url": "https://open.spotify.com/artist/0YAL8izS16IewZXB4dlLdS"
-        }
-      ],
-      "duration_ms": 197438,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2WJLJtpRXiWgPGuSiV9kY2"
-    },
-    {
-      "added_at": "2023-07-13 21:59:00",
-      "album": {
-        "name": "Klein W\u00eareld",
-        "url": "https://open.spotify.com/album/1GH5KV0DZzHDTPgf4UTs9A"
-      },
-      "artists": [
-        {
-          "name": "Vrede",
-          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
-        }
-      ],
-      "duration_ms": 218398,
-      "name": "Tyd",
-      "url": "https://open.spotify.com/track/2gjF0eIvngzCHPCH0F86q0"
-    },
-    {
       "added_at": "2023-05-11 21:59:00",
       "album": {
         "name": "Tattoo",
@@ -787,54 +835,6 @@
       "duration_ms": 162810,
       "name": "#23",
       "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Lost Time",
-        "url": "https://open.spotify.com/album/6CAIxhlVaP8lCjLIkXrFg5"
-      },
-      "artists": [
-        {
-          "name": "Liberty Down",
-          "url": "https://open.spotify.com/artist/5G3sIpOn5aW0SkDwTSupj9"
-        }
-      ],
-      "duration_ms": 246721,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3LA6VbrzapzPrBl7VaNyoD"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/1IOR4boDTAKJ9zUFoElhon"
-      },
-      "artists": [
-        {
-          "name": "Taking Back March",
-          "url": "https://open.spotify.com/artist/4DXdfwRdIQSELsgnKI8qzq"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/6EC17BieM7VV6brgDbTjVq"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Burn It",
-        "url": "https://open.spotify.com/album/5zKgkvUdr5MXfaJBRvRyOi"
-      },
-      "artists": [
-        {
-          "name": "West Coast Wolves",
-          "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
-        }
-      ],
-      "duration_ms": 152112,
-      "name": "Burn It",
-      "url": "https://open.spotify.com/track/7hSWzzi9Cwu3JL8NB7SpFh"
     }
   ],
   "unique_name": "SA Rock ",

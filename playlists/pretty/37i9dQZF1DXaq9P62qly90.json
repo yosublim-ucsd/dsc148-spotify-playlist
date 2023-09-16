@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12599,
+  "num_followers": 12600,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODgzNTc5ZTVkYzQ2ZWY4YTY3MWY3NGUwNWViYTQ4MjZiZjhlNzVj",
+  "snapshot_id": "MCxjNmI1MmFjOTc3ZjIyMWQ1ZGE2N2RmYmVkYTFmM2RmZTU4ZjljZTRh",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "I Was Just Leaving",
+        "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "duration_ms": 178614,
+      "name": "I Was Just Leaving",
+      "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 238767,
       "name": "Summertime (feat. Citizen Cope)",
       "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "I Was Just Leaving",
-        "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 178614,
-      "name": "I Was Just Leaving",
-      "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "The Education of the Individual Soul",
+        "url": "https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot"
+      },
+      "artists": [
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 259746,
+      "name": "10 Laws",
+      "url": "https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Campfire Anthems, Vol. I",
         "url": "https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 222850,
       "name": "All Ways Love",
       "url": "https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "The Education of the Individual Soul",
-        "url": "https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot"
-      },
-      "artists": [
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 259746,
-      "name": "10 Laws",
-      "url": "https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Don't Let Me Disappear",
-        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 264522,
-      "name": "Don't Let Me Disappear",
-      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "You're It!",
         "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 216706,
       "name": "Don't Hold Your Breath",
       "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Don't Let Me Disappear",
+        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 264522,
+      "name": "Don't Let Me Disappear",
+      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "The Fire in Me",
+        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
+      },
+      "artists": [
+        {
+          "name": "Rob Riccardo",
+          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
+        }
+      ],
+      "duration_ms": 261104,
+      "name": "When Will I Learn",
+      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "HOKA",
         "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 261006,
       "name": "Directions",
       "url": "https://open.spotify.com/track/2h5silGx7nHrQ6IWMw1huo"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "The Fire in Me",
-        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
-      },
-      "artists": [
-        {
-          "name": "Rob Riccardo",
-          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
-        }
-      ],
-      "duration_ms": 261104,
-      "name": "When Will I Learn",
-      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Take Your Power Back",
-        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+        "name": "Heroin and Helicopters",
+        "url": "https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1"
       },
       "artists": [
         {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
         }
       ],
-      "duration_ms": 207485,
-      "name": "Lifeguard",
-      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
+      "duration_ms": 239280,
+      "name": "Caribbean Skies",
+      "url": "https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI"
     }
   ],
   "unique_name": "Peace Of Mind",

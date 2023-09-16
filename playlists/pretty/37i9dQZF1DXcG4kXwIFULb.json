@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 137157,
+  "num_followers": 137285,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWM2ZmMxODM4YWQ3MWVhYzEyM2VlYjY5NDEzOTA0MjhmOTMxOWVl",
+  "snapshot_id": "MCwwZGI4MGNmNThmYTYzOGQzNzViMGE2MTU0ODc2NzIxZmQ3NzQyNDc2",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "SB1",
         "url": "https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 134656,
       "name": "Just Chillin'",
       "url": "https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -907,6 +907,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Safe in the Steep Cliffs",
+        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Koop Islands",
         "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 272760,
       "name": "Koop Island Blues",
       "url": "https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Safe in the Steep Cliffs",
-        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Supermodified",
-        "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 337506,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Mickey Mouse Operation",
         "url": "https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 227866,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Supermodified",
+        "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 337506,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Foxbase Alpha",
-        "url": "https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3"
+        "name": "Love Pussycats & Carwrecks",
+        "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
       },
       "artists": [
         {
-          "name": "Saint Etienne",
-          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Nothing Can Stop Us",
-      "url": "https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU"
+      "duration_ms": 290840,
+      "name": "Purrfect",
+      "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Love Pussycats & Carwrecks",
-        "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
+        "name": "Foxbase Alpha",
+        "url": "https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3"
       },
       "artists": [
         {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
+          "name": "Saint Etienne",
+          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
         }
       ],
-      "duration_ms": 290840,
-      "name": "Purrfect",
-      "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
+      "duration_ms": 261000,
+      "name": "Nothing Can Stop Us",
+      "url": "https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The Audience's Listening (U.S. Version)",
-        "url": "https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi"
-      },
-      "artists": [
-        {
-          "name": "Cut Chemist",
-          "url": "https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh"
-        }
-      ],
-      "duration_ms": 375546,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Genetic World",
         "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 241560,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6pw0Smtd6ydy5oywoqRXjY"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "The Audience's Listening (U.S. Version)",
+        "url": "https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi"
+      },
+      "artists": [
+        {
+          "name": "Cut Chemist",
+          "url": "https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh"
+        }
+      ],
+      "duration_ms": 375546,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Parts of the Process",
-        "url": "https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd"
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
       },
       "artists": [
         {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 265293,
-      "name": "Part of the Process",
-      "url": "https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C"
+      "duration_ms": 357053,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/33jQyNBQp4kn10STv1o5St"
     }
   ],
   "unique_name": "Chillout Classics",

@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 179773,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 210920,
       "name": "Fontaine \u00e0 v\u0153ux",
       "url": "https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo"
@@ -6045,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "Qimatsilunga (I Want to Break Free)",
+        "url": "https://open.spotify.com/album/5ILR1GcWMyPSkEfWBsqwfZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243756,
+      "name": "Qimatsilunga (I Want to Break Free)",
+      "url": "https://open.spotify.com/track/3s7edrMgsb2GHt36L0mFOp"
+    },
+    {
+      "album": {
         "name": "Qimmijuat (Wild Horses)",
         "url": "https://open.spotify.com/album/464WdsCECkTzqIEv3ITRrD"
       },
@@ -6240,6 +6258,24 @@
       "duration_ms": 193951,
       "name": "Ramenez-moi",
       "url": "https://open.spotify.com/track/4rgkt06MGUEVbXxrYsnPTv"
+    },
+    {
+      "album": {
+        "name": "Rebloom",
+        "url": "https://open.spotify.com/album/0jEhm2qPyBx2sMr9RuWlcM"
+      },
+      "artists": [
+        {
+          "name": "Maybel",
+          "url": "https://open.spotify.com/artist/4vyc9XRUivKWefuHRepSQh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201652,
+      "name": "Rebloom",
+      "url": "https://open.spotify.com/track/3g0DRFppjlQ7aR8zjaCi0y"
     },
     {
       "album": {
@@ -6680,10 +6716,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 253090,
       "name": "Taimangalimaaq (Time After Time)",
       "url": "https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW"
+    },
+    {
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/6AzAxH3QhnCCYaA0k1LXDK"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173374,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/02Az1ZPrTOeWjvc20ZveFT"
     },
     {
       "album": {

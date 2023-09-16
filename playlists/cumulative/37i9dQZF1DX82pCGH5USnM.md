@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-734 songs - 1 day 17 hr 51 min
+736 songs - 1 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Cobolt](https://open.spotify.com/track/5RWPlLSHtYpNFLcFOBgVmD) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Cobolt](https://open.spotify.com/album/2BLfxGmUEWrIOD97xNVEQY) | 3:00 | 2021-04-15 | 2022-07-22 |
 | [coffe table](https://open.spotify.com/track/6e8DIf3Eox4C4YaTSuVxsK) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [coffe table](https://open.spotify.com/album/5OGDpsXmNA0wy2qRHvcmMj) | 2:29 | 2022-10-28 |  |
 | [Color Code](https://open.spotify.com/track/2hPUPT84eEvIxxDvdN0n0R) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Color Code](https://open.spotify.com/album/6vVBfItLBRgeK0pRTjXgkY) | 3:20 | 2020-04-03\* | 2021-03-18 |
+| [Colored Waves](https://open.spotify.com/track/0Z7HrettzLSkhelO24HKDX) | [Zumaia](https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH) | [Colored Waves](https://open.spotify.com/album/1pTgJHK31BvOFi3SEhx9ZZ) | 2:24 | 2023-09-15 |  |
 | [Colors of You](https://open.spotify.com/track/0fVisMBg8MPemjOxLj3Jeu) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Bluebells](https://open.spotify.com/album/1SqKWpy6qU65qhVHUjw1LA) | 3:34 | 2021-03-18 | 2022-10-07 |
 | [Connectivity Dub](https://open.spotify.com/track/7wO6beL28YzqSvqEal0S47) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Resonance](https://open.spotify.com/album/1LXSTaP6BPL4ywBG3nZYEd) | 6:46 | 2021-08-20 | 2021-09-22 |
 | [Copacabana](https://open.spotify.com/track/7m3TmUwQJYQkJvzvomijDd) | [Alex Caipirinha](https://open.spotify.com/artist/1usKVVJQ2IcqqB8RjvpGKv) | [Copacabana](https://open.spotify.com/album/2VcIx9AWHOSRanlFEnvSup) | 2:45 | 2021-04-15 | 2021-08-20 |
@@ -325,6 +326,7 @@
 | [it's not always easy](https://open.spotify.com/track/1JrBLWOcGA3irq9V34Ko1J) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [It's Not Always Easy](https://open.spotify.com/album/4co9EghbGgTwRakm9BaKZA) | 4:21 | 2020-12-16 | 2021-01-18 |
 | [Jade](https://open.spotify.com/track/12TAqPz8zq7tiwFsEyZtwD) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Jade](https://open.spotify.com/album/2O729Ia0fdoFkHw77pGcPx) | 2:42 | 2022-10-14 |  |
 | [Jazz Street Cafe](https://open.spotify.com/track/4LNAc5HhLtRTrAELN1HG3V) | [Uncle Feaster](https://open.spotify.com/artist/0Dhno1IpOOPqUZ4gAc6fFh) | [Jazz Street Cafe](https://open.spotify.com/album/4WiO413zQJmeLa1eYPAOp7) | 3:17 | 2020-04-03\* | 2021-09-22 |
+| [Junior year](https://open.spotify.com/track/6GNE6gOgeSwJFLzbgLmpUm) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Junior year](https://open.spotify.com/album/4yDolhmaOvIpqyetVIURhr) | 2:54 | 2023-09-15 |  |
 | [Just be](https://open.spotify.com/track/2kNJzU65s4ntGsn5QS9VrV) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Just be](https://open.spotify.com/album/5IHKdeX5zeMSJMumW7JcJ7) | 2:42 | 2022-10-28 |  |
 | [Just Stick to me, Baby](https://open.spotify.com/track/7u0HWr6r7BZ23FfA87KnjY) | [Kid Snicker](https://open.spotify.com/artist/09876cvfp9UtruxEoyxcPl) | [Just Stick to me, Baby](https://open.spotify.com/album/7216dCTxdQWEg4dMJpMf6n) | 2:39 | 2022-10-14 |  |
 | [Kafka](https://open.spotify.com/track/6QlAW39LcyCNTxqsYjRBki) | [Ercos Blanka](https://open.spotify.com/artist/0Vox2K7dpTsHq004KMQiuJ) | [Correlation, Vol\. 3](https://open.spotify.com/album/3qPTFAXbZqjZCVKbQdR5CH) | 9:06 | 2020-04-03\* | 2021-03-18 |

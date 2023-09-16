@@ -1,12 +1,12 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 62190,
+  "description": "The best newly released songs of the week. Cover: TOMORROW X TOGETHER, Anitta",
+  "num_followers": 62227,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjU3ODQ0N2Y1NTJlZDg2YjRjMTg1NDMxY2VkNGEzMzFkMTJjMDlk",
+  "snapshot_id": "MCwxOGY2MTI2M2FjOGE5ZjhkNDllMTQ1ZjQ5NzcyZjZlN2RjMzVlOWIw",
   "tracks": [
     {
       "added_at": "2023-09-14 16:00:00",
@@ -20,20 +20,20 @@
           "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         },
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         },
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 286559,
-      "name": "Another One Of Me (feat. The Weeknd, 21 Savage and French Montana)",
+      "duration_ms": 220408,
+      "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
     },
     {
@@ -51,6 +51,26 @@
       "duration_ms": 207507,
       "name": "Balut",
       "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Back for More (with Anitta)",
+        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
     },
     {
       "added_at": "2023-09-14 16:00:00",
@@ -364,7 +384,7 @@
       "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "\u79bb\u706b\u5203",
-        "url": "https://open.spotify.com/album/0Ha9sZkQUHPlnFPI8BJAYD"
+        "url": "https://open.spotify.com/album/07bqtHVvlHVOLRwsOc45xY"
       },
       "artists": [
         {
@@ -372,13 +392,13 @@
           "url": "https://open.spotify.com/artist/2Jb2ZJygCbLD68c91NKTbT"
         },
         {
-          "name": "\u695a\u6674Jasmine Sokko",
-          "url": "https://open.spotify.com/artist/1aRaQWIQv1zwaXBoEHcfGp"
+          "name": "Jasmine Sokko",
+          "url": "https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz"
         }
       ],
       "duration_ms": 188800,
       "name": "\u79bb\u706b\u5203",
-      "url": "https://open.spotify.com/track/3mZJ2RRvlK7GZOGMIduBmu"
+      "url": "https://open.spotify.com/track/5iyBcgQ01lE0BW5h3SyNri"
     },
     {
       "added_at": "2023-09-14 16:00:00",
@@ -447,6 +467,26 @@
       "duration_ms": 192077,
       "name": "\u518d\u966a\u6211\u4e00\u500b\u590f\u5929\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/7jMnF7k6f9L1IWCOLnTQO1"
+    },
+    {
+      "added_at": "2023-09-15 04:00:12",
+      "album": {
+        "name": "RSVP",
+        "url": "https://open.spotify.com/album/5mJzVwaJ4ecUO1aSkpeKJM"
+      },
+      "artists": [
+        {
+          "name": "\ucf54\uc54c\ub77c KOALA",
+          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "RSVP",
+      "url": "https://open.spotify.com/track/6XPVbbIYNhJ4N0C9npE876"
     },
     {
       "added_at": "2023-09-14 16:00:00",
@@ -659,6 +699,22 @@
     {
       "added_at": "2023-09-14 16:00:00",
       "album": {
+        "name": "So I Danced",
+        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "So I Danced",
+      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
         "name": "Good & Great - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo"
       },
@@ -719,6 +775,22 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know",
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Bigger Houses",
+        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Neon Cowgirl",
+      "url": "https://open.spotify.com/track/4ktoN9vInbzJXXaSSlngng"
     },
     {
       "added_at": "2023-09-14 16:00:00",
@@ -999,6 +1071,26 @@
       "duration_ms": 212333,
       "name": "BONVOYAGE (Farewell Ver.)",
       "url": "https://open.spotify.com/track/4xiuarCywWiw9qESd8Y7ng"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Narcissus",
+        "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
+      },
+      "artists": [
+        {
+          "name": "DAWN \ub358",
+          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "Star (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
     },
     {
       "added_at": "2023-09-14 16:00:00",
@@ -1319,6 +1411,22 @@
       "duration_ms": 181417,
       "name": "Four Summers",
       "url": "https://open.spotify.com/track/01hCKIX2uoUdIOOeamBZmo"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Loossemble",
+        "url": "https://open.spotify.com/album/51TyZNm7E9EF1gSJGLGsxh"
+      },
+      "artists": [
+        {
+          "name": "Loossemble",
+          "url": "https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw"
     },
     {
       "added_at": "2023-09-14 16:00:00",

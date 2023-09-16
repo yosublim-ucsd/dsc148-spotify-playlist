@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-391 songs - 22 hr 5 min
+392 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Treasure](https://open.spotify.com/track/0PtrSBrpgoKpC3aHxW4VNW) | [Alyssa Bernal](https://open.spotify.com/artist/1ekwJGDxnfBFXcSLSgmNj8), [Andy Lange](https://open.spotify.com/artist/5wfWWoLIdI5DBXds0eNKzJ) | [Treasure](https://open.spotify.com/album/0tjjpAzSDFMtBJlEXgFMeL) | 2:59 | 2021-03-12 |  |
 | [Turn Out the Lights](https://open.spotify.com/track/3JFeaupbz1zMukrzCTURyB) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/0T5oDfLwS6oWPTrzVRmOFB) | 3:23 | 2021-03-12 | 2022-07-29 |
 | [Turn Out the Lights](https://open.spotify.com/track/4lZ0S6jbJbeOmkfFXfDNxl) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 3:23 | 2022-04-22 |  |
+| [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 | 2023-09-15 |  |
 | [Umbrella](https://open.spotify.com/track/0mPrdIq5BxRqwAa16Ya1c1) | [Marié Digby](https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k) | [Your Love](https://open.spotify.com/album/63iUaS749MYijLWJi2c7uz) | 3:45 | 2021-03-12 | 2023-06-05 |
 | [Umbrella \- Single Version](https://open.spotify.com/track/0zcfWe3THIu1yBnjucoPmO) | [Marié Digby](https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k) | [Unfold](https://open.spotify.com/album/3MfRPIZRewpJl1CAq0xnmE) | 3:48 | 2023-06-02 |  |
 | [Under The Sun \- Acoustic](https://open.spotify.com/track/1YPx23eaxwbbQc8Ne6zSQq) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/0rGSRypl3i16bk9X5f2nDQ) | 3:10 | 2021-11-09 | 2022-07-29 |

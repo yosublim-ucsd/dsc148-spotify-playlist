@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 麻倉もも
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,865 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,894 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 37 | [Preview](https://open.spotify.com/track/5WsbwswBs3C0vheCVFFy1Z) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Preview](https://open.spotify.com/album/1KZJgrEJoKlHtA2sH3OAUk) | 4:06 |
 | 38 | [Megamorphose](https://open.spotify.com/track/62QXjppBAgbfhggeN1B5au) | [Smewthie](https://open.spotify.com/artist/4dEHjlZ84ouGTmZcK77Xrm) | [Megamorphose / Can\-Do Dreamer](https://open.spotify.com/album/3rMfcwSUrFKXYtERTUGHy0) | 3:54 |
 | 39 | [アルコルとポラリス](https://open.spotify.com/track/5SWegdaqRdzVvouBo0iWUJ) | [近藤玲奈](https://open.spotify.com/artist/7381Fxpd140diVWNewoe5j) | [アルコルとポラリス](https://open.spotify.com/album/6oasQ2xiLBm0d99YGMrJYz) | 4:09 |
-| 40 | [Hanauta to Mawarimichi](https://open.spotify.com/track/37Fx5MyAKqKt5cGGu7SO0f) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Hanauta to Mawarimichi](https://open.spotify.com/album/7D7g3pL9H6eT9Ey3kWgt8C) | 3:35 |
+| 40 | [Hanauta to Mawarimichi](https://open.spotify.com/track/6TQPI2kY11bldGSdmL8aJF) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Act 2](https://open.spotify.com/album/3EKlyqIFT3uFzIobG7lIEq) | 3:38 |
 | 41 | [Positive Girl](https://open.spotify.com/track/3nYJU3qsaGLF4PwHdHTdlT) | [Kaori Maeda](https://open.spotify.com/artist/5uZjp2LZ0JGqmLfAFDOrkd) | [Mikansei Star](https://open.spotify.com/album/2DjR05MvZwAi8hZcHuxbRk) | 3:44 |
 | 42 | [Dash and Go!](https://open.spotify.com/track/2GDl59OtWByTMEuRhqyHJG) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Dash and Go!](https://open.spotify.com/album/6k7nWAnJ1Rhai758ptD8wv) | 4:15 |
 | 43 | [Sunday](https://open.spotify.com/track/7rB2ytdHFpCDl4jivb0Y2a) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [la valigia](https://open.spotify.com/album/7AFaeistpx8sxk0353ddN2) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Tik\[Q\]et](https://open.spotify.com/track/4BabXgt8ceIsrw1hcUfh6Q) | [Qlover from kyoukaimetro](https://open.spotify.com/artist/2c22U1mf0vjLodPTziMVlS), [Rinne\(CV:UchidaMaaya\)](https://open.spotify.com/artist/4mmt3eA64eeVnNiFFbEzEi), [セツナ\(CV: konoco\)](https://open.spotify.com/artist/0JzERxkdRvSrybjJEa0ObQ), [Itsuka\(CV:Akina\)](https://open.spotify.com/artist/7aPJTYWIwk2nc7qolTEsgt) | [Tik\[Q\]et](https://open.spotify.com/album/2wkQRFuZQseN3hguuPhN7b) | 2:34 |
 | 50 | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/track/6wH9VrMaadUjcAVZp4G5Ss) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/album/0K16qvRY8hUyyQysEvzyFG) | 5:12 |
 
-Snapshot ID: `MCw0NGFkZmRlYmNjZWQzZDBhODcxNmY5ODRjZWZjY2RlMDhhN2FmZjkw`
+Snapshot ID: `MCw3NWI0ZjBhMDRlMGM3MDNlN2ZmMjE3ZTg3ZTA2MGJhMmQ5MmI4ZWU4`

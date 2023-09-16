@@ -493,6 +493,28 @@
     },
     {
       "album": {
+        "name": "Black Coffee (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/4MigxHH0YAdHWZJML4A3jw"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Dominic Paul",
+          "url": "https://open.spotify.com/artist/0vKjolXSMG8VhGkfcTT1Lb"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "Black Coffee - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/2JAYRs8g4Lp860x8Mla0a1"
+    },
+    {
+      "album": {
         "name": "Black Swing",
         "url": "https://open.spotify.com/album/3Clc9pQvWIMdFAe6k9vbwP"
       },
@@ -1942,6 +1964,28 @@
       "duration_ms": 211385,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/3pTQUwVDv8BiYktcZIAWjz"
+    },
+    {
+      "album": {
+        "name": "Higher and Higher",
+        "url": "https://open.spotify.com/album/1KZwYfUMPL5RtVJKLAdqyn"
+      },
+      "artists": [
+        {
+          "name": "Atom Smith",
+          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
+        },
+        {
+          "name": "Emma Lea",
+          "url": "https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213596,
+      "name": "Higher and Higher",
+      "url": "https://open.spotify.com/track/0o2y64jHIjh6eEaL5NsZlT"
     },
     {
       "album": {

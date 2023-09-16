@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tontons Dave et Tiakola ",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: KeBlack",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 208057,
       "name": "Bien de ce monde",
       "url": "https://open.spotify.com/track/6X2N6Z59AwKOvU4lnB8eDy"
@@ -1102,6 +1102,36 @@
       "duration_ms": 277398,
       "name": "Coeur moderne",
       "url": "https://open.spotify.com/track/7KaKOgkc3CTg0JONapvnrd"
+    },
+    {
+      "album": {
+        "name": "Danger (RMX)",
+        "url": "https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc"
+      },
+      "artists": [
+        {
+          "name": "Pronto",
+          "url": "https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Danger - RMX",
+      "url": "https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD"
     },
     {
       "album": {
@@ -2486,7 +2516,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 170666,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/128oY6xP0F8PDiPVFVUfka"
@@ -2686,7 +2716,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 335830,
       "name": "Loi",
       "url": "https://open.spotify.com/track/3ERMjh3EfOWWoLJjcxtpvt"
@@ -3307,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Mwinda",
+        "url": "https://open.spotify.com/album/1oBCQkbNReIySY06NBdHgs"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300094,
+      "name": "Mwinda",
+      "url": "https://open.spotify.com/track/3qSfVR5ujV1SaomRSARWim"
+    },
+    {
+      "album": {
         "name": "Na Boyi",
         "url": "https://open.spotify.com/album/10CDU3zOIH1caB8E1MZa2y"
       },
@@ -3544,7 +3592,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 234090,
       "name": "No No",
       "url": "https://open.spotify.com/track/1Frpb7u9lv3F12FoSlCoad"
@@ -4061,6 +4109,28 @@
     },
     {
       "album": {
+        "name": "Plus jamais",
+        "url": "https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9NI BASS DJ",
+          "url": "https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V"
+        },
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201250,
+      "name": "Plus jamais",
+      "url": "https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD"
+    },
+    {
+      "album": {
         "name": "Pole Pole",
         "url": "https://open.spotify.com/album/1PfUsfBkYFoB2DaNAd516S"
       },
@@ -4544,6 +4614,24 @@
       "duration_ms": 247506,
       "name": "Special",
       "url": "https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy"
+    },
+    {
+      "album": {
+        "name": "Ta Pr\u00e9sence",
+        "url": "https://open.spotify.com/album/7mrRTvQ2OCI3XOZkmvSpgy"
+      },
+      "artists": [
+        {
+          "name": "Daniel Mundos",
+          "url": "https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186258,
+      "name": "Ta Pr\u00e9sence",
+      "url": "https://open.spotify.com/track/4GLxG7EniRu9Py6soT2vBf"
     },
     {
       "album": {

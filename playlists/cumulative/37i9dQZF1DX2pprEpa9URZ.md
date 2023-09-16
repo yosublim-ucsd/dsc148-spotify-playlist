@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-376 songs - 1 day 17 hr 19 min
+377 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [5 Dollar Shake](https://open.spotify.com/track/7sOQGEBjsGKjlocniTTWR4) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4), [Hesselberg](https://open.spotify.com/artist/3hXJ0PkWmY7h6uwTMzzaGM) | [Yoh Ah Ah](https://open.spotify.com/album/3hfY5TLGfZ13qqzvo6VViK) | 7:49 | 2021-10-30 | 2022-07-28 |
 | [Abbebe \(Sainte Vie Remix\)](https://open.spotify.com/track/3WhxTFzkvHvrhwVRxy1mIW) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk) | [BLD Remixes A](https://open.spotify.com/album/7xxYP777kjMkGKUDzcfnCt) | 7:16 | 2019-08-02\* | 2019-09-20 |
 | [African Vibes](https://open.spotify.com/track/5c3zezVyblXLdvMWPUR8rI) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [African Vibes](https://open.spotify.com/album/2GlcbsPeEAsEBsUo57Duje) | 5:46 | 2019-08-02\* | 2020-01-04 |
+| [Afro Sambroso \- Rampa Version](https://open.spotify.com/track/23IBJoNkMZNL286OoJobc9) | [Lokkhi Terra](https://open.spotify.com/artist/4zKtfAo8kdCOsOn7uVrh2u), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc), [Francesco Chiocci](https://open.spotify.com/artist/35k3bqKmhJDhThkCQZH6Ft), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Version](https://open.spotify.com/album/5PpbFirZsHSSonZhxWx500) | 5:29 | 2023-09-01 |  |
 | [Afro Sambroso \- Rampa Version](https://open.spotify.com/track/5gCRkpnL2MBKpUqXLeMrA9) | [Lokkhi Terra](https://open.spotify.com/artist/4zKtfAo8kdCOsOn7uVrh2u), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc), [Francesco Chiocci](https://open.spotify.com/artist/35k3bqKmhJDhThkCQZH6Ft), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Version](https://open.spotify.com/album/28MabQRhGKx50tBIaghDcf) | 5:29 | 2020-06-12 | 2022-04-18 |
 | [Agua e pipa](https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Agua e pipa](https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b) | 3:22 | 2023-06-30 |  |
 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 | 2022-09-09 |  |
@@ -108,7 +109,7 @@
 | [Distopia](https://open.spotify.com/track/24ZVytjb1R8ojaa4u1lRNW) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4) | [Desolate Distopia](https://open.spotify.com/album/0SLi6pMdIw9uWHIoNDVvW1) | 6:52 | 2020-11-05 | 2021-02-07 |
 | [Drums Marrakech](https://open.spotify.com/track/74vqtIP1ZpXmNOkzkbswGe) | [Chaim](https://open.spotify.com/artist/2XMpXAQ0B1J95en60YGE3V) | [Drums Marrakech](https://open.spotify.com/album/1GcSm4bpJuQLLoRSQPVtz8) | 5:40 | 2019-08-02\* | 2021-05-28 |
 | [Duat](https://open.spotify.com/track/7MqyoCR3gABY7R5ibLRjpR) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0), [Raffaello Visconti](https://open.spotify.com/artist/1JaqbmYIACQImzNpyefYnp) | [Arecibo](https://open.spotify.com/album/1Q8Lwbmwvfded4H34gHTj6) | 7:18 | 2019-08-02\* | 2021-12-05 |
-| [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 | 2022-04-04 |  |
+| [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 | 2022-04-04 | 2023-09-16 |
 | [Ecbatana](https://open.spotify.com/track/6ElWJx7lHxUQ7EcNytyLBe) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Ecbatana](https://open.spotify.com/album/5HVONgm46A279BAssIgpVC) | 3:48 | 2019-08-02\* | 2021-09-06 |
 | [Efsun](https://open.spotify.com/track/4qpm26kuDkeIRICuQ34Q1U) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Merhaba](https://open.spotify.com/album/0MWRx1a4Z2MaaWqn4rqY94) | 6:21 | 2019-11-02 | 2021-02-27 |
 | [Ekata](https://open.spotify.com/track/45nyiS7Q2fJaY9AuNDZDee) | [The Advocate](https://open.spotify.com/artist/2BoWW5buEf2tz4NlKVknvm), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ekata](https://open.spotify.com/album/15NQB0wgAcH6pStxyo0rCb) | 5:34 | 2021-02-28 | 2022-04-21 |

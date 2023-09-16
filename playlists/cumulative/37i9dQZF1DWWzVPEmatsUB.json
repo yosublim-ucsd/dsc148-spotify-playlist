@@ -4093,6 +4093,28 @@
     },
     {
       "album": {
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "Monday Comes Around (Sleeping At Last Version)",
+      "url": "https://open.spotify.com/track/3HkohZNvcVBLXEr2t4z7TL"
+    },
+    {
+      "album": {
         "name": "Chosen Line",
         "url": "https://open.spotify.com/album/1bT2pL7uhyDea49uNAV2W3"
       },
@@ -5278,7 +5300,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 211893,
       "name": "Same Sunrise",
       "url": "https://open.spotify.com/track/6iyQhBdM54KoOdIfi8BDtX"

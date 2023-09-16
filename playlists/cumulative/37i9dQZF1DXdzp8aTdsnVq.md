@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Diego Daza y Carlos Rueda
 
-106 songs - 7 hr 28 min
+107 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Otra Botella](https://open.spotify.com/track/7JHyn813Ij0oY6uXaKWiA3) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Otra Botella](https://open.spotify.com/album/3PZtW70YVWTpEWYN1PZ9ZJ) | 3:49 | 2022-09-02 | 2022-10-22 |
 | [Pa' los Gustos los Colores](https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [Pa' los Gustos los Colores](https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO) | 3:11 | 2022-10-14 | 2023-04-06 |
 | [Por un Beso de Tu Boca \- Versión Vallenato](https://open.spotify.com/track/0iNN906YaH34RzPhYrdLyv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Por un Beso de Tu Boca \(Versión Vallenato\)](https://open.spotify.com/album/0DX0n5Ee7NWxG8wxYwL57v) | 3:06 | 2022-09-02 |  |
-| [Que Te Vaya Bien](https://open.spotify.com/track/1tgtt55t1gFpq84UCAoXSN) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Victor Nain Jr](https://open.spotify.com/artist/6L89Apk33SwlxIPUwDOnf7) | [Que Te Vaya Bien](https://open.spotify.com/album/5yRi7QGU76Cd9DrMVUpGX6) | 3:41 | 2023-02-17 |  |
+| [Que Te Vaya Bien](https://open.spotify.com/track/1tgtt55t1gFpq84UCAoXSN) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Victor Nain Jr](https://open.spotify.com/artist/6L89Apk33SwlxIPUwDOnf7) | [Que Te Vaya Bien](https://open.spotify.com/album/5yRi7QGU76Cd9DrMVUpGX6) | 3:41 | 2023-02-17 | 2023-09-16 |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:58 | 2022-09-02 |  |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/6V5PmiX4malndCwTohPXgS) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Por el Mundo Entero](https://open.spotify.com/album/7BJTzb8pFpOSG6JpvWTCrU) | 5:00 | 2022-10-21 | 2022-11-13 |
 | [Qué Necesidad](https://open.spotify.com/track/0ro1pFg1YLjyuFlYfEOsPL) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [Qué Necesidad](https://open.spotify.com/album/6vqaJHsOrJ99j9nrxuZZaw) | 3:41 | 2023-02-13 | 2023-06-17 |
@@ -103,6 +103,7 @@
 | [TBT](https://open.spotify.com/track/0Vy0zLbeULv6NAVlT3t0rf) | [Traviesos Del Vallenato](https://open.spotify.com/artist/3J2T0PYtMr3IqIGlPgJjAD) | [TBT](https://open.spotify.com/album/5rFEUePpaXiOT4XHBSmm89) | 3:52 | 2023-04-14 | 2023-08-26 |
 | [Te Lo Dije](https://open.spotify.com/track/0uWc7lXGIv3K3575AhP6Cp) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [El Rey Guajiro](https://open.spotify.com/album/6rWUTRk4HYaV3ExfbtPmkh) | 4:19 | 2022-09-02 |  |
 | [Te Recomiendo](https://open.spotify.com/track/6NbXGk6bATIXVzJjzzL3rk) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Más Gigantes Que Nunca](https://open.spotify.com/album/3CJwJFB2FjTQfcfuzpa498) | 3:22 | 2022-09-02 | 2022-10-15 |
+| [Terminó Gustando](https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4) | [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ), [Zona 8 R](https://open.spotify.com/artist/7M7XJgVgKowhXOEd4vGjuN) | [Terminó Gustando](https://open.spotify.com/album/10FtmtPmy2qRZbHUN6dezW) | 3:42 | 2023-09-15 |  |
 | [Tierra Mala](https://open.spotify.com/track/7iJ43W1RWMrNjU3Or15jxX) | [Julio Meza](https://open.spotify.com/artist/61KRv7WhZJ2erWoYnJYHvL) | [Julio Canta Vallenato](https://open.spotify.com/album/5Qxd7iZAeoYqYFBLc3rchd) | 4:34 | 2022-09-02 | 2023-08-26 |
 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 | 2022-09-02 |  |
 | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/track/1zfs7wu5eDin6jDpIC662H) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/album/1AH2y3HEWgiSKSYkbrgBEn) | 3:43 | 2022-09-02 |  |

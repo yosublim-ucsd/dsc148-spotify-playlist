@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 379913,
       "name": "Acid Duck",
       "url": "https://open.spotify.com/track/6aquB2IHyq7JPgdIlcrIAq"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 449706,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/35tQ5Q2wgJl616mdInRYYL"
@@ -110,10 +110,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 434091,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/1p6eCyRqvr8Q2sFrwSsrcC"
+    },
+    {
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/1Wuffc9B0PQ3THntefTq6y"
+      },
+      "artists": [
+        {
+          "name": "Yves Deruyter",
+          "url": "https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390280,
+      "name": "Back To Earth - Rave Mix",
+      "url": "https://open.spotify.com/track/13wGULWSLE2VjE1VXAOny8"
     },
     {
       "album": {
@@ -157,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Blurry Thoughts EP",
+        "url": "https://open.spotify.com/album/0XNqhLrjWIb5TRLtMlHXOT"
+      },
+      "artists": [
+        {
+          "name": "Flug",
+          "url": "https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330857,
+      "name": "Blurry Thoughts",
+      "url": "https://open.spotify.com/track/08DdwwWnU3kU8xTFZYraqm"
+    },
+    {
+      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/5HbvqJT39utkIrTTnBEWf4"
       },
@@ -168,10 +204,50 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 322213,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5vhkxWxClrDwmWNkLBKqjs"
+    },
+    {
+      "album": {
+        "name": "D-Classics",
+        "url": "https://open.spotify.com/album/0felMf9A9uIVwjTZu6uEwV"
+      },
+      "artists": [
+        {
+          "name": "Yves Deruyter",
+          "url": "https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520146,
+      "name": "Born Slippy - Original Mix",
+      "url": "https://open.spotify.com/track/2QVPdMJdLAdCenGzDjhNnB"
+    },
+    {
+      "album": {
+        "name": "15 Years of Terminal M - A-Sides, Vol. 2",
+        "url": "https://open.spotify.com/album/2OyED7CAiXg10WRfqtcZGG"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432584,
+      "name": "Boundaries",
+      "url": "https://open.spotify.com/track/0EIPOXPT93Yq8NclvoZD0N"
     },
     {
       "album": {
@@ -190,6 +266,28 @@
       "duration_ms": 367619,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/6i1AuUU5UT1Huq1KqkquNA"
+    },
+    {
+      "album": {
+        "name": "Butoh (Robert Hood Remix)",
+        "url": "https://open.spotify.com/album/2sqpT33fOrCzj9d0JUVceQ"
+      },
+      "artists": [
+        {
+          "name": "Sven V\u00e4th",
+          "url": "https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F"
+        },
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426080,
+      "name": "Butoh (Robert Hood Remix)",
+      "url": "https://open.spotify.com/track/1eAw92jTlkIhrj0H4k7yKj"
     },
     {
       "album": {
@@ -226,6 +324,24 @@
       "duration_ms": 220000,
       "name": "Chrysalide",
       "url": "https://open.spotify.com/track/1173KOXcgnmyx6u3zAiQjN"
+    },
+    {
+      "album": {
+        "name": "Circular EP",
+        "url": "https://open.spotify.com/album/3S2FQUjjtMXY5Lw1U9EN0a"
+      },
+      "artists": [
+        {
+          "name": "Ramon Tapia",
+          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370829,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/5wki473M05c257DxpTwfYm"
     },
     {
       "album": {
@@ -287,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "album": {
         "name": "When the Lights Go Down",
         "url": "https://open.spotify.com/album/2Q5CM06rAEYRqf0VeLIcFT"
       },
@@ -327,6 +461,24 @@
     },
     {
       "album": {
+        "name": "20 Years Of Dancefloor by Smiley",
+        "url": "https://open.spotify.com/album/40RglEFwehUJvPb8fzGNRz"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink Aka Winx",
+          "url": "https://open.spotify.com/artist/7qTQO5XvmJ13VGvxvjtMSr"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206546,
+      "name": "Don't Laugh",
+      "url": "https://open.spotify.com/track/21uqgBVyhkmQ6w3Wpjo60m"
+    },
+    {
+      "album": {
         "name": "Everything Collapses",
         "url": "https://open.spotify.com/album/564l8RYKO06QPnjdfYplq0"
       },
@@ -360,7 +512,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 222352,
       "name": "Evolution of Thinking",
       "url": "https://open.spotify.com/track/3fBCeomup3asoDT42KGrqh"
@@ -422,7 +574,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 343750,
       "name": "Free Your Mind - Alex Stein Remix",
       "url": "https://open.spotify.com/track/4DoVwaAVEjB4U9Fs0XTnr6"
@@ -466,6 +618,24 @@
       "duration_ms": 449405,
       "name": "FUTURA",
       "url": "https://open.spotify.com/track/0qN1L4PR2XhYBsl2ATjiSU"
+    },
+    {
+      "album": {
+        "name": "Mosaik",
+        "url": "https://open.spotify.com/album/24LrUTOayWjn0qiEGDnlkE"
+      },
+      "artists": [
+        {
+          "name": "Siriusmo",
+          "url": "https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300280,
+      "name": "Goldene Kugel",
+      "url": "https://open.spotify.com/track/0u1sNIPanvW5vtwRKzSQSg"
     },
     {
       "album": {
@@ -648,7 +818,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 277333,
       "name": "Konfusion - Thomas Schumacher Rework",
       "url": "https://open.spotify.com/track/6Lf0najcf6r0gdcgwe0yxb"
@@ -666,10 +836,54 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 336000,
       "name": "Leben",
       "url": "https://open.spotify.com/track/45CNEM8SEc03KraMU3zOOm"
+    },
+    {
+      "album": {
+        "name": "Leben (Extended Mix)",
+        "url": "https://open.spotify.com/album/68sOYMFg1iayXlamMtaShO"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Leben - Extended Mix",
+      "url": "https://open.spotify.com/track/0JGVJBpIFL9AOyS8kgnYAE"
+    },
+    {
+      "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/63rqiTHHTobOqJCxZRpwhC"
+      },
+      "artists": [
+        {
+          "name": "Gaga",
+          "url": "https://open.spotify.com/artist/0kolce4lQQT3kf9QJmEuMX"
+        },
+        {
+          "name": "Mateo!",
+          "url": "https://open.spotify.com/artist/3XTXJ0qA1B0EZxqdPcISv2"
+        },
+        {
+          "name": "Zafer Atabey",
+          "url": "https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390461,
+      "name": "Legends - Zafer Atabey Remix",
+      "url": "https://open.spotify.com/track/7dqzY8JkKGSmXuM9UJIgzI"
     },
     {
       "album": {
@@ -786,10 +1000,32 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 424615,
       "name": "Like Forever",
       "url": "https://open.spotify.com/track/5GFVhJtqsZc0q4CJWhCs58"
+    },
+    {
+      "album": {
+        "name": "Like Forever",
+        "url": "https://open.spotify.com/album/6G4e1s4wLAJj6cSxBkFAP1"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg",
+          "url": "https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l"
+        },
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496615,
+      "name": "Like Forever - Monika Kruse Remix",
+      "url": "https://open.spotify.com/track/2Ya3VU6jVjLaPF51OXcrCU"
     },
     {
       "album": {
@@ -914,10 +1150,32 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 456628,
       "name": "Morgana",
       "url": "https://open.spotify.com/track/61vVUI8xmM9K3CJ0XxqdQk"
+    },
+    {
+      "album": {
+        "name": "Morgana (2023 Edit)",
+        "url": "https://open.spotify.com/album/3YlTnr4cYNg9tufccsFgRQ"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306501,
+      "name": "Morgana - 2023 Edit",
+      "url": "https://open.spotify.com/track/2IOaOQTxrtJf0clbcjXNua"
     },
     {
       "album": {
@@ -994,7 +1252,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 378903,
       "name": "No Photos, No Exceptions",
       "url": "https://open.spotify.com/track/37v22hAV0P456DgqO2EbzY"
@@ -1041,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Overdrive EP",
+        "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254836,
+      "name": "Overdrive - Edit",
+      "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
+    },
+    {
+      "album": {
         "name": "P.A.R.T.Y.",
         "url": "https://open.spotify.com/album/0qYPyKXjit9qxZfehmx4xf"
       },
@@ -1052,7 +1328,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 433632,
       "name": "P.A.R.T.Y.",
       "url": "https://open.spotify.com/track/6cdwuEuy9h42etVznXLTtd"
@@ -1110,7 +1386,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 428076,
       "name": "Phosphene (Thomas P. Heckmann aka Drax)",
       "url": "https://open.spotify.com/track/6j9OheekqPKmKwkwVZYtgW"
@@ -1226,10 +1502,58 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 401782,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/497WP7LIrkA7WeGyTEl47z"
+    },
+    {
+      "album": {
+        "name": "Sal Sal",
+        "url": "https://open.spotify.com/album/1NVFgokZIeAv3vutPhLEfE"
+      },
+      "artists": [
+        {
+          "name": "Namito",
+          "url": "https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Amir Sheykh",
+          "url": "https://open.spotify.com/artist/0jkm4met7RZxXJCE8IvGmr"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477030,
+      "name": "Sal Sal",
+      "url": "https://open.spotify.com/track/0IbGzLHAEuX7qqzq64VdJM"
+    },
+    {
+      "album": {
+        "name": "Simulator",
+        "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220375,
+      "name": "Simulator",
+      "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
     },
     {
       "album": {
@@ -1280,7 +1604,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 232740,
       "name": "Somebody Scream",
       "url": "https://open.spotify.com/track/5Bl6ICZV1IlA9sUTYNp2lp"
@@ -1382,7 +1706,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 260148,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/2pgiLqOsWEhUfH8DUU2Uo1"
@@ -1461,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "The Violator",
+        "url": "https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241770,
+      "name": "The Violator",
+      "url": "https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc"
+    },
+    {
+      "album": {
         "name": "Mood Elevation Vol. 4",
         "url": "https://open.spotify.com/album/5HZHqE9p2lVQc6OfYrCN4s"
       },
@@ -1476,7 +1818,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 368695,
       "name": "The Volume - Luigi Madonna Remix",
       "url": "https://open.spotify.com/track/0Tt1uzgYpGdUfZQ7RHQ5fN"
@@ -1516,6 +1858,32 @@
       "duration_ms": 453333,
       "name": "Touch The Darkness",
       "url": "https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3"
+    },
+    {
+      "album": {
+        "name": "Tuning The Moon (\u00d8ostil Remix)",
+        "url": "https://open.spotify.com/album/3hQOzWcQkn4xE1LBRQ6Paa"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        },
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        },
+        {
+          "name": "\u00d8ostil",
+          "url": "https://open.spotify.com/artist/7E0ZeAt3clBvTXWsvOIV7v"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325161,
+      "name": "Tuning The Moon - \u00d8ostil Remix",
+      "url": "https://open.spotify.com/track/45zl31P9Cdmgs057TmZg5C"
     },
     {
       "album": {
@@ -1610,7 +1978,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 398222,
       "name": "Waveriders",
       "url": "https://open.spotify.com/track/70nL1U5MfUwhd5e1tSGF25"

@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 178252,
       "name": "Baby G\u1ecdi Cho Anh (feat. CAPTAIN & UMIE)",
       "url": "https://open.spotify.com/track/6MgCMS8q3NA89TnVuPLvIN"
@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 301538,
       "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
       "url": "https://open.spotify.com/track/17iGUekw5nFt5mIRJcUm3R"
@@ -8944,6 +8944,24 @@
     {
       "album": {
         "name": "Mi\u00ean Man",
+        "url": "https://open.spotify.com/album/5Gv6BKRSnRu54VVePOCJu8"
+      },
+      "artists": [
+        {
+          "name": "Hu\u1ef3nh Thanh Ki\u1ec7t",
+          "url": "https://open.spotify.com/artist/52YK4u63RFB1s9IjSU8oqi"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204982,
+      "name": "Mi\u00ean Man",
+      "url": "https://open.spotify.com/track/4nNkpu8vY9BtDKUFnDc3YD"
+    },
+    {
+      "album": {
+        "name": "Mi\u00ean Man",
         "url": "https://open.spotify.com/album/4z7HfTeYfrAUm4e84Y1oPw"
       },
       "artists": [
@@ -8954,7 +8972,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 197998,
       "name": "Mi\u00ean Man",
       "url": "https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo"
@@ -11036,7 +11054,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 213995,
       "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd"
@@ -12626,7 +12644,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"

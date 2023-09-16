@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 221919,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/1tgtt55t1gFpq84UCAoXSN"
@@ -1944,6 +1944,28 @@
       "duration_ms": 202907,
       "name": "Te Recomiendo",
       "url": "https://open.spotify.com/track/6NbXGk6bATIXVzJjzzL3rk"
+    },
+    {
+      "album": {
+        "name": "Termin\u00f3 Gustando",
+        "url": "https://open.spotify.com/album/10FtmtPmy2qRZbHUN6dezW"
+      },
+      "artists": [
+        {
+          "name": "Rolando Ochoa",
+          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+        },
+        {
+          "name": "Zona 8 R",
+          "url": "https://open.spotify.com/artist/7M7XJgVgKowhXOEd4vGjuN"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "Termin\u00f3 Gustando",
+      "url": "https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4"
     },
     {
       "album": {

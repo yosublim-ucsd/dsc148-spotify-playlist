@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: V\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: DPR IAN\)
 
-626 songs - 1 day 9 hr 37 min
+627 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,7 @@
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-12 | 2023-04-11 |
 | [NBDY](https://open.spotify.com/track/1V4eSFHQuLj7g05Br8iLWy) | [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Lost In Blue](https://open.spotify.com/album/5VKUK8vtlTPyUcAHOPcff5) | 1:44 | 2022-04-19 | 2022-04-21 |
 | [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 | 2022-07-12 | 2023-03-23 |
-| [Nerves](https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:15 | 2022-04-19 |  |
+| [Nerves](https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:15 | 2022-04-19 | 2023-09-16 |
 | [Never Came Through](https://open.spotify.com/track/555EVQqvx3hr63oIS1LdjH) | [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [Never Came Through](https://open.spotify.com/album/0GBbah1RFbqPmIAX8BVyCD) | 3:15 | 2022-04-22 | 2022-04-26 |
 | [Never Knew](https://open.spotify.com/track/0RdEsLhIT5fEbfnU3sQNRQ) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Never Knew](https://open.spotify.com/album/128eftIRWw4wv69Ioic5SV) | 3:31 | 2022-05-04 | 2022-06-10 |
 | [never know \(Mafia Mix\) \(Feat\. Paloalto, PUFF DAEHEE\)](https://open.spotify.com/track/3OdLXkWiLcdkjH8POKwQ9w) | [zin](https://open.spotify.com/artist/7KPRlWVq4NZrXWmHTseuTW), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [PUFF DAEHEE](https://open.spotify.com/artist/3JZuQV3uJJtoDkkWDNt1oJ) | [never know](https://open.spotify.com/album/6PbJqrmPhpFGlkYlw7XMcl) | 3:51 | 2022-08-18 | 2022-08-31 |
@@ -504,6 +504,7 @@
 | [SMOKE](https://open.spotify.com/track/2bztJ2R2GVbmtgK5rDQik8) | [PINWHEEL](https://open.spotify.com/artist/4fJLA7qt0hVPOPwE9FERnA) | [Distrust](https://open.spotify.com/album/5ZX0wNPEvEx6w19pGtbFrU) | 3:19 | 2022-07-04 | 2022-07-08 |
 | [Smoke \(feat\. Def\. & Jomalxne\)](https://open.spotify.com/track/661IUMj6VrkniF60mSbA89) | [ØFFSHORE](https://open.spotify.com/artist/4D1yVc6ltwIZHxxNPBe552), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58), [Jomalxne](https://open.spotify.com/artist/6Cjo9LtMQwwLxADdvjvGpE) | [Scene \#2](https://open.spotify.com/album/7Hsohl8K1M7Gb8OFCIxB1R) | 3:00 | 2022-04-19 | 2022-04-21 |
 | [So Beautiful](https://open.spotify.com/track/3aPUPt18WCBy8pYAWn77Py) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So Beautiful](https://open.spotify.com/album/48T3diKnUEcNZKxM9PKKFZ) | 3:07 | 2022-04-19 | 2022-05-22 |
+| [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-15 |  |
 | [Soaring](https://open.spotify.com/track/6SbVQBOr3l0JNxY0WNT7es) | [INTEC](https://open.spotify.com/artist/1mAtZH4unxIByuZVuqshiv), [THE GONE](https://open.spotify.com/artist/2CYGhK6k0TxnAsqffKtzN3) | [Soaring](https://open.spotify.com/album/4iHQQBwevkb8VzFzyzuqF5) | 3:29 | 2022-07-24 | 2022-07-28 |
 | [SOME GIRL](https://open.spotify.com/track/5hJxSYtbdaekKBR5VY8lJR) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SOME GIRL](https://open.spotify.com/album/2M34OaUUupIT4oUn331793) | 3:29 | 2022-09-20 | 2022-09-29 |
 | [something \(feat\. Kim Dae Hyeok\)](https://open.spotify.com/track/6MV1Ycz6BZEqOyjvymHlYz) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Kim Dae Hyeok](https://open.spotify.com/artist/0E3MlC8rOiLtWxUsHsamOB) | [something \(feat\. Kim Dae Hyeok\)](https://open.spotify.com/album/5yIT1t84GqnXcka5hXh693) | 2:42 | 2022-07-07 | 2022-07-13 |

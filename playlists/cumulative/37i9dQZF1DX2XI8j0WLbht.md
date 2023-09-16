@@ -4,7 +4,7 @@
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-147 songs - 10 hr 15 min
+148 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-20 |  |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2022-10-03 |
 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 | 2022-03-04 |  |
-| [Como una Luz](https://open.spotify.com/track/6nkJ0RUoNFfwnqQxIBXUrN) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Aurora](https://open.spotify.com/album/4oL3IBJWNudZPEErjHKOuT) | 5:01 | 2022-03-04 |  |
+| [Como una Luz](https://open.spotify.com/track/6KoWvHYbfLVgCV2RUCeWmO) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Aurora](https://open.spotify.com/album/69kg3SATA00VfhGmuaE248) | 5:01 | 2023-06-09 |  |
+| [Como una Luz](https://open.spotify.com/track/6nkJ0RUoNFfwnqQxIBXUrN) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Aurora](https://open.spotify.com/album/4oL3IBJWNudZPEErjHKOuT) | 5:01 | 2022-03-04 | 2023-09-16 |
 | [Con el Sol de la Mañana](https://open.spotify.com/track/0X8FKQkmmxoZFwgUajjn0s) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [De Aquí Son](https://open.spotify.com/album/260g05EqAq0W9HZZTDDD3K) | 4:22 | 2022-03-04 |  |
 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 | 2022-03-04 | 2022-07-29 |
 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 | 2022-03-04 |  |

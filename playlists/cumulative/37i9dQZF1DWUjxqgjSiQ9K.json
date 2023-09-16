@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi?si=Gxn4deW0Tsq2dcIp4_-RtQ\">Kim Richards</a> and <a href=\"https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM?si=JYl3iofcT4ibjLtd5DbMMA\">Indiomar</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE?si=WqKJk6IgSLq3ymoTb4T59Q\">Miel San Marcos</a> y <a href=\"https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m?si=EJdRgFjpQo6stbxUb9cvkQ\">Chris Tomlin</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 473254,
       "name": "Acepta - Live",
       "url": "https://open.spotify.com/track/41AA0qum08M6IFG1GcoHNz"
@@ -2703,6 +2703,28 @@
     },
     {
       "album": {
+        "name": "Dios De Oportunidades",
+        "url": "https://open.spotify.com/album/2FS3ZqmKKSDMmnBbzKhPHt"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Ke'Erron",
+          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244406,
+      "name": "Dios De Oportunidades",
+      "url": "https://open.spotify.com/track/4WRBlv7X6EGE4Kh58lKB1v"
+    },
+    {
+      "album": {
         "name": "Dios En Casa",
         "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
       },
@@ -4098,7 +4120,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 158753,
       "name": "Gracia",
       "url": "https://open.spotify.com/track/3EkF29sbMPt8YI7nByg9tc"
@@ -4522,6 +4544,28 @@
       "duration_ms": 201625,
       "name": "Hogar",
       "url": "https://open.spotify.com/track/24d1PUMgPVEoDyvJqjPKCk"
+    },
+    {
+      "album": {
+        "name": "Holy Forever (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/7uhv3AlIkn9PgQ4W1CsSLl"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317805,
+      "name": "Holy Forever - Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/0ZxUHxwz0iPK0wnTCetbss"
     },
     {
       "album": {
@@ -6120,7 +6164,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 162734,
       "name": "M\u00e1s Rico Del Mundo",
       "url": "https://open.spotify.com/track/5pBLTLl8OqgNtHc6Mll3J5"
@@ -7837,6 +7881,28 @@
     },
     {
       "album": {
+        "name": "serendipia",
+        "url": "https://open.spotify.com/album/35LFG7j0BtlcW6GYgil1qe"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159338,
+      "name": "serendipia",
+      "url": "https://open.spotify.com/track/4OuMOMTUWRpiv4D0ZB4syY"
+    },
+    {
+      "album": {
         "name": "Laberinto",
         "url": "https://open.spotify.com/album/0NRKIMglPhOoWZPfWVkGpl"
       },
@@ -7870,6 +7936,36 @@
       "duration_ms": 337701,
       "name": "Si Tu Presencia Conmigo No Va",
       "url": "https://open.spotify.com/track/18kQ5kU3gninEy9vw4RKOo"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa Est\u00e1s Conmigo",
+        "url": "https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Stefy Espinosa",
+          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Si T\u00fa Est\u00e1s Conmigo",
+      "url": "https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t"
     },
     {
       "album": {
@@ -8448,7 +8544,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 221306,
       "name": "S\u00c1NAME",
       "url": "https://open.spotify.com/track/1UZiL3hX8vaaeGQKM8TBlI"

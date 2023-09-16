@@ -126,10 +126,28 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 251569,
       "name": "212",
       "url": "https://open.spotify.com/track/0zclkB4F0DSwVVVu6IPhQw"
+    },
+    {
+      "album": {
+        "name": "Dream EP",
+        "url": "https://open.spotify.com/album/3VdPxwnCVcl4avUEJYBrUx"
+      },
+      "artists": [
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251569,
+      "name": "212",
+      "url": "https://open.spotify.com/track/5BONPEu2vttOAK2jp18X5I"
     },
     {
       "album": {

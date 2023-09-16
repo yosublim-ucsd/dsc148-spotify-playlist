@@ -1925,6 +1925,28 @@
     },
     {
       "album": {
+        "name": "En Tu Mirada",
+        "url": "https://open.spotify.com/album/01wDyzFyhqi0IqBk4BJqg9"
+      },
+      "artists": [
+        {
+          "name": "Del Coco",
+          "url": "https://open.spotify.com/artist/4Oax8tWS5HJo2PXppjYVLd"
+        },
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247520,
+      "name": "En tu Mirada",
+      "url": "https://open.spotify.com/track/1975eMXkTwveCl6A7QqafM"
+    },
+    {
+      "album": {
         "name": "En Una de Esas",
         "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
       },
@@ -3672,7 +3694,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 256702,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
@@ -4410,7 +4432,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 207957,
       "name": "Que Ser\u00e1 de Ti",
       "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
@@ -4822,7 +4844,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 239418,
       "name": "Si Te Agarran Las Ganas",
       "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"

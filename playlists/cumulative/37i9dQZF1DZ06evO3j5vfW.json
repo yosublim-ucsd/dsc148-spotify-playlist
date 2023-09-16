@@ -282,7 +282,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 145714,
       "name": "Deep Dark Jungle",
       "url": "https://open.spotify.com/track/09W9ZVEsg5VjGva2lM21dl"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 207358,
       "name": "Myriad",
       "url": "https://open.spotify.com/track/1bsWsraQlfDz6kk2o0SnDm"
@@ -1692,10 +1692,36 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 169404,
       "name": "Sparks (Turn Off Your Mind) - Atmozfears & Audiotricz Radio Mix",
       "url": "https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje"
+    },
+    {
+      "album": {
+        "name": "Sparks (Turn off your Mind)",
+        "url": "https://open.spotify.com/album/3rGQHCIO3ulceFJ302n5Fr"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185767,
+      "name": "Sparks (Turn Off Your Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/44NT7Dqnyrh9x76VhPNHGN"
     },
     {
       "album": {
@@ -1722,6 +1748,24 @@
       "duration_ms": 239736,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
+    },
+    {
+      "album": {
+        "name": "Stay (Festival Mix)",
+        "url": "https://open.spotify.com/album/15wVlfh4QpK89TnFa2ZBc5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208690,
+      "name": "Stay - Festival Mix",
+      "url": "https://open.spotify.com/track/4mQguXNyYYycDFlLPgP4pS"
     },
     {
       "album": {

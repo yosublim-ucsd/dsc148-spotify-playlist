@@ -197,6 +197,32 @@
     },
     {
       "album": {
+        "name": "Alexxxa",
+        "url": "https://open.spotify.com/album/2Fd1umwwTUXYviKHrfuNcp"
+      },
+      "artists": [
+        {
+          "name": "Cris Sour",
+          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Alexxxa",
+      "url": "https://open.spotify.com/track/0iclHfV1JXHL29EUpK7o2B"
+    },
+    {
+      "album": {
         "name": "ALGO TRANQUI",
         "url": "https://open.spotify.com/album/46yKLRJizMTGso4JYfNVdQ"
       },
@@ -1579,6 +1605,32 @@
     },
     {
       "album": {
+        "name": "Dime Princesa",
+        "url": "https://open.spotify.com/album/2kbMHBgfHMhfquCRiLZKd5"
+      },
+      "artists": [
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        },
+        {
+          "name": "Ad\u00e1n Dwayne",
+          "url": "https://open.spotify.com/artist/4ntatD5R3AbRGSmlKfUXi8"
+        },
+        {
+          "name": "xosa",
+          "url": "https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197238,
+      "name": "Dime Princesa",
+      "url": "https://open.spotify.com/track/6GQZwcRTj0iQTvk4F0oxRs"
+    },
+    {
+      "album": {
         "name": "Discotequera",
         "url": "https://open.spotify.com/album/4cpDqJY2bMij4QTCylkjTI"
       },
@@ -1854,7 +1906,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 168487,
       "name": "Emoji de Diabla",
       "url": "https://open.spotify.com/track/5v89Riv1pAuaFxhmlFN7vL"
@@ -2090,7 +2142,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 180923,
       "name": "Explicaciones",
       "url": "https://open.spotify.com/track/7HVSa4it1ejFjtOEytQ7Zk"
@@ -4447,6 +4499,28 @@
     },
     {
       "album": {
+        "name": "No contesta",
+        "url": "https://open.spotify.com/album/4RzgXvfRwt9e258yrBh1yH"
+      },
+      "artists": [
+        {
+          "name": "Chema Lee",
+          "url": "https://open.spotify.com/artist/7KNlM6uE7Ru0qjwKtQRJ5R"
+        },
+        {
+          "name": "Tesla da cherry",
+          "url": "https://open.spotify.com/artist/6l3JLPVk4cxum2ifkWHq4k"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152004,
+      "name": "No contesta",
+      "url": "https://open.spotify.com/track/1xFb3wxSLYsrYPdC73Xwu0"
+    },
+    {
+      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/7t0RSqmDwjSAo3JixxmwA8"
       },
@@ -4690,6 +4764,32 @@
       "duration_ms": 187885,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/4R9yPomFNl8zjDOpNxeUFw"
+    },
+    {
+      "album": {
+        "name": "Otro Show",
+        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Otro Show",
+      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
     },
     {
       "album": {
@@ -6732,7 +6832,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 165957,
       "name": "Tequila y piel",
       "url": "https://open.spotify.com/track/2l9xAB7x01AWnR2A7cmloJ"
@@ -7126,7 +7226,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 184632,
       "name": "UNA GATA",
       "url": "https://open.spotify.com/track/2ZsBl5LVGMYuxOuK6uCqmf"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Bollywood hits, repackaged. Cover - Sooryavanshi",
+  "description": "Hits, repackaged by Bollywood. Cover - Mission Raniganj",
   "name": "Bollywood 2.O",
   "tracks": [
     {
@@ -1227,6 +1227,28 @@
     },
     {
       "album": {
+        "name": "JALSA 2.0 (From \"Mission Raniganj: The Great Bharat Rescue\")",
+        "url": "https://open.spotify.com/album/0nUDc18ivjvaNEGh7iJKck"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Prem & Hardeep",
+          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196124,
+      "name": "JALSA 2.0 - From \"Mission Raniganj: The Great Bharat Rescue\"",
+      "url": "https://open.spotify.com/track/4OgcGtcurJBgS7H1iW7peT"
+    },
+    {
+      "album": {
         "name": "Jiye Toh Jiye Kaise 2.0",
         "url": "https://open.spotify.com/album/2LWYVZjsG2YbHPRP9lWTcR"
       },
@@ -1504,7 +1526,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 174264,
       "name": "Leke Pehla Pehla Pyaar (From \"Kya Meri Sonam Gupta Bewafa Hai?\")",
       "url": "https://open.spotify.com/track/57gcO6spcJ3QoXuW68QYsL"

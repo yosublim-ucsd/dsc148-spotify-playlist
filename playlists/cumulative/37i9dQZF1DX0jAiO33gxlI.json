@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: N.I.N.A, Mc Luanna",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Derxan",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -982,7 +982,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 205949,
       "name": "Ballin",
       "url": "https://open.spotify.com/track/244jI61ksiADX8vrhyrYqJ"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 106625,
       "name": "Cansei de Ouvir Trap",
       "url": "https://open.spotify.com/track/0O7sWK79TpnOYYkdd8l9GU"
@@ -2401,6 +2401,28 @@
     },
     {
       "album": {
+        "name": "C\u00f3digo",
+        "url": "https://open.spotify.com/album/5cvYblzqh4tgErztd3e1tj"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        },
+        {
+          "name": "Drill De Lobos",
+          "url": "https://open.spotify.com/artist/7JUwduKCtopPBNkw7cizw6"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148375,
+      "name": "C\u00f3digo",
+      "url": "https://open.spotify.com/track/4WQc5M0lGsSIB6icR9NkGX"
+    },
+    {
+      "album": {
         "name": "Da Grade \u00e0 Liberdade",
         "url": "https://open.spotify.com/album/3yeRsEgLOGxLpJfCVsLnrr"
       },
@@ -2628,7 +2650,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 164122,
       "name": "De volta ao B\u00e1sico",
       "url": "https://open.spotify.com/track/3xoMdEwMLpgpwi1CiNX8up"
@@ -4528,7 +4550,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 139703,
       "name": "Imprevisto",
       "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
@@ -6705,6 +6727,58 @@
     },
     {
       "album": {
+        "name": "Ni Hao",
+        "url": "https://open.spotify.com/album/5SLYeKCZufLvoi9EkeffQe"
+      },
+      "artists": [
+        {
+          "name": "Shaodree",
+          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
+        },
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Gioprod",
+          "url": "https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134425,
+      "name": "Ni Hao",
+      "url": "https://open.spotify.com/track/0GEPTrEfY4KE7oA3JiUA1J"
+    },
+    {
+      "album": {
+        "name": "Ningu\u00e9m Viu Ningu\u00e9m V\u00ea",
+        "url": "https://open.spotify.com/album/5xQifrGNQ3nse75SKLwpNa"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164102,
+      "name": "Ningu\u00e9m Viu Ningu\u00e9m V\u00ea",
+      "url": "https://open.spotify.com/track/77XqJ6wTBNnKjWFsp0WceF"
+    },
+    {
+      "album": {
         "name": "No Baile",
         "url": "https://open.spotify.com/album/0LSKvEZl6U0c8YTNWuEbta"
       },
@@ -6956,7 +7030,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 249586,
       "name": "NUNCA TENHA MEDO",
       "url": "https://open.spotify.com/track/3UnmeI1PWhBZEzhGnTteAk"

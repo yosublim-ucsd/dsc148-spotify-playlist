@@ -810,10 +810,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 275862,
       "name": "Five Nines",
       "url": "https://open.spotify.com/track/0IyhTRQxLG1RGRk5CBkzVs"
+    },
+    {
+      "album": {
+        "name": "Five Nines / Choppy",
+        "url": "https://open.spotify.com/album/3k4Ec6RWPYiaaXOx0ZgfK6"
+      },
+      "artists": [
+        {
+          "name": "Ed:it",
+          "url": "https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275862,
+      "name": "Five Nines",
+      "url": "https://open.spotify.com/track/4M2MNVPz9V9KKzkXC7I2dJ"
     },
     {
       "album": {
@@ -1894,10 +1912,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 264348,
       "name": "That's A Lyric Ya Know",
       "url": "https://open.spotify.com/track/01QrCJzho8JfQlaGahCjTa"
+    },
+    {
+      "album": {
+        "name": "That's A Lyric Ya Know / Oddball",
+        "url": "https://open.spotify.com/album/3lwaweybTBFV0zWi9irzlc"
+      },
+      "artists": [
+        {
+          "name": "Trex",
+          "url": "https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264348,
+      "name": "That's A Lyric Ya Know",
+      "url": "https://open.spotify.com/track/7jzzNfVBZHJGlcBdU7yp4t"
     },
     {
       "album": {

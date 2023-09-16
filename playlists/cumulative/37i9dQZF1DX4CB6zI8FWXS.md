@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Cleo Sol
 
-233 songs - 12 hr 39 min
+234 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,11 +13,12 @@
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-03-16 | 2023-03-31 |
 | [AGAIN](https://open.spotify.com/track/4ltqkH3b02yW7IBR6C0cz1) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX), [エース橋本](https://open.spotify.com/artist/3xF0OQf5S4WUAEjglxumPX) | [AGAIN](https://open.spotify.com/album/0FJvBBvvWxfHZFbWVnyjTQ) | 3:15 | 2023-05-25 | 2023-09-08 |
 | [am i stupid?](https://open.spotify.com/track/6FjtQIOvAn6ovdXtKgKKCg) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [am i stupid?](https://open.spotify.com/album/1rADFgudc7i6sKnypoDOk7) | 2:03 | 2023-07-27 | 2023-08-11 |
-| [Another One Of Me \(feat\. The Weeknd, 21 Savage and French Montana\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:46 | 2023-09-14 |  |
+| [Another One Of Me \(feat\. The Weeknd, French Montana and 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-14 |  |
 | [AppleTree](https://open.spotify.com/track/5mL9aWutkCJI0i4YnY8hmG) | [Hanah Spring](https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s) | [SOZO](https://open.spotify.com/album/6Dvkfccyaw2VDmNBCB9bHs) | 3:47 | 2023-06-29 |  |
 | [Apply Pressure](https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 3:14 | 2023-03-16 | 2023-06-09 |
 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 | 2023-07-13 | 2023-08-25 |
-| [Bad Situation](https://open.spotify.com/track/6UpxDIySVXhaUS52LpF2Ln) | [Anaïs](https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82) | [Bad Situation](https://open.spotify.com/album/37OL6oB5WmnxgyURU2tJVb) | 2:08 | 2023-09-14 |  |
+| [Bad Situation](https://open.spotify.com/track/1uFPHsmIe5aI3iA73py8Kx) | [Anaïs](https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82) | [Bad Situation](https://open.spotify.com/album/2uy2toRBO5ErRypti0ZK5O) | 2:08 | 2023-09-14 |  |
+| [Bad Situation](https://open.spotify.com/track/6UpxDIySVXhaUS52LpF2Ln) | [Anaïs](https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82) | [Bad Situation](https://open.spotify.com/album/37OL6oB5WmnxgyURU2tJVb) | 2:08 | 2023-09-14 | 2023-09-16 |
 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 | 2023-03-16 | 2023-03-25 |
 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 | 2023-03-16 | 2023-04-21 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-23 | 2023-06-02 |

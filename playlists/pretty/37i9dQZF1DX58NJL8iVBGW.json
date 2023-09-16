@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 580343,
+  "num_followers": 580505,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmM2MmU3MzY0OTI5NmRmZWM5MWVhYzQwOGMwZGUyNzNlNDExOTI0",
+  "snapshot_id": "MCwwNGZhODU3YzhjY2Q1Mzc1ZTM2YWZiNWIzYmVmNTBlMTg0ZjU2OTg2",
   "tracks": [
     {
       "added_at": "2023-07-17 18:15:29",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Things That Scare Me",
-      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "27 Ways",
         "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 108361,
       "name": "Dime in My Pocket",
       "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Things That Scare Me",
+      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Bottom of the River",
         "url": "https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 201240,
       "name": "Bottom of the River",
       "url": "https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Real Gone (Remastered)",
-        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "How's It Gonna End",
-      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Micah P. Hinson and the Opera Circuit",
-        "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
+        "name": "Real Gone (Remastered)",
+        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
       },
       "artists": [
         {
-          "name": "Micah P. Hinson",
-          "url": "https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6"
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
         }
       ],
-      "duration_ms": 125493,
-      "name": "Diggin A Grave",
-      "url": "https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1"
+      "duration_ms": 290680,
+      "name": "How's It Gonna End",
+      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -959,6 +943,22 @@
       "duration_ms": 170985,
       "name": "Devil Don't You Fool Me",
       "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Micah P. Hinson and the Opera Circuit",
+        "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
+      },
+      "artists": [
+        {
+          "name": "Micah P. Hinson",
+          "url": "https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6"
+        }
+      ],
+      "duration_ms": 125493,
+      "name": "Diggin A Grave",
+      "url": "https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 264937,
-      "name": "Priest",
-      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 194570,
       "name": "Chains",
       "url": "https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "William Crighton",
+        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 264937,
+      "name": "Priest",
+      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "My Church Is Black",
-        "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
-      },
-      "artists": [
-        {
-          "name": "Me And That Man",
-          "url": "https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "My Church Is Black",
-      "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Little Wing",
         "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 175960,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "My Church Is Black",
+        "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
+      },
+      "artists": [
+        {
+          "name": "Me And That Man",
+          "url": "https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "My Church Is Black",
+      "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Lay This Body Down",
-        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
-      },
-      "artists": [
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Lay This Body Down",
-      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -1619,18 +1603,34 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+        "name": "Lay This Body Down",
+        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
         }
       ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+      "duration_ms": 287773,
+      "name": "Lay This Body Down",
+      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Digging Up Birds: A Collection of Rarities & Others",
+        "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
+      },
+      "artists": [
+        {
+          "name": "Graham Lindsey",
+          "url": "https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG"
+        }
+      ],
+      "duration_ms": 188660,
+      "name": "No Way Out but Down (Alternate Version)",
+      "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
     }
   ],
   "unique_name": "Southern Gothic",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: Be Your Own Pet",
+  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: Mannequin Pussy",
   "name": "Noisy",
   "tracks": [
     {
@@ -778,6 +778,24 @@
       "duration_ms": 184077,
       "name": "Better Each Day",
       "url": "https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL"
+    },
+    {
+      "album": {
+        "name": "Big Air",
+        "url": "https://open.spotify.com/album/0cB3kmKZuRiz1UvvNb7r7B"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Big Air",
+      "url": "https://open.spotify.com/track/4Lg9g0vN4guToh7068wPtT"
     },
     {
       "album": {
@@ -1776,6 +1794,24 @@
       "duration_ms": 123699,
       "name": "Criminal Nah",
       "url": "https://open.spotify.com/track/03861A0DheRnNMgTnD1bT3"
+    },
+    {
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0QkcgSGcNz3p0DocnmvCUR"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286966,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/2fGrNRKLkWJqGuzEST3pYX"
     },
     {
       "album": {
@@ -3856,7 +3892,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 179226,
       "name": "Hennessy Brown",
       "url": "https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM"
@@ -4353,6 +4389,24 @@
     },
     {
       "album": {
+        "name": "I Thought You'd Change",
+        "url": "https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171215,
+      "name": "I Thought You'd Change",
+      "url": "https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H"
+    },
+    {
+      "album": {
         "name": "I'll Make You See God",
         "url": "https://open.spotify.com/album/0NouYsEc5RT38lVFTUvmsV"
       },
@@ -4800,7 +4854,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 224853,
       "name": "Keys Down If You Stay",
       "url": "https://open.spotify.com/track/6CDSQOk2YWOgJ6oecwE4GG"
@@ -5330,6 +5384,24 @@
       "duration_ms": 239346,
       "name": "Lost Honor",
       "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
+    },
+    {
+      "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/094LVoZpuHpU0QwZQNmqAc"
+      },
+      "artists": [
+        {
+          "name": "Sextile",
+          "url": "https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Lost Myself Again",
+      "url": "https://open.spotify.com/track/73q3axNDrfqZOQ12LL1B4a"
     },
     {
       "album": {
@@ -6848,7 +6920,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 252492,
       "name": "Protocol",
       "url": "https://open.spotify.com/track/609RLtoVcVEu16Ifavpqkn"

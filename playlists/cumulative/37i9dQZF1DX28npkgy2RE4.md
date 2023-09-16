@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-421 songs - 1 day 1 hr 52 min
+422 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Brooklyn Baby](https://open.spotify.com/track/5KSvKQn5QPkHc8QqObqZcC) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow](https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq) | 3:34 | 2022-07-11 |  |
 | [Brooklyn Baby](https://open.spotify.com/track/5mSyag0Wf98fKcWRxTbSqt) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/7JGOsvnA3RpWUIRlhjo1FU) | 3:34 | 2022-07-11 | 2022-08-22 |
 | [Bummer Year](https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI) | [Good Looks](https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG) | [Bummer Year](https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG) | 4:31 | 2022-05-25 | 2022-07-27 |
-| [Buzz The Leaf](https://open.spotify.com/track/1QLkRZhST9p1k4Xe3SL6nR) | [Dream Sitch](https://open.spotify.com/artist/3AZpyYJGXnWdPPwrGniSdF), [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs), [Floating Action](https://open.spotify.com/artist/01Ru0hfWYNVxQHtFkvYY7r) | [Buzz The Leaf](https://open.spotify.com/album/3bkZxrc6DGqLh5soumIC2b) | 3:34 | 2023-06-16 |  |
+| [Buzz The Leaf](https://open.spotify.com/track/1QLkRZhST9p1k4Xe3SL6nR) | [Dream Sitch](https://open.spotify.com/artist/3AZpyYJGXnWdPPwrGniSdF), [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs), [Floating Action](https://open.spotify.com/artist/01Ru0hfWYNVxQHtFkvYY7r) | [Buzz The Leaf](https://open.spotify.com/album/3bkZxrc6DGqLh5soumIC2b) | 3:34 | 2023-06-16 | 2023-09-16 |
 | [Call My Name](https://open.spotify.com/track/2pU5gIulfIITLJw6F38IMK) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Call My Name](https://open.spotify.com/album/4KnNIPnhyfsL1EJMsk0XeO) | 3:12 | 2021-11-12 | 2022-07-29 |
 | [Call My Name](https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Call My Name](https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a) | 3:12 | 2022-07-11 |  |
 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/5vIo3myTJ8fmttU2wARlYB) | 3:49 | 2021-11-12 | 2022-03-09 |
@@ -280,6 +280,7 @@
 | [On the Outside](https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [On the Outside](https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt) | 3:09 | 2021-11-12 | 2022-07-29 |
 | [On Your Way \(Felix Song\)](https://open.spotify.com/track/30hY3WEcrl1ScoND2yBy9T) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [On Your Way \(Felix Song\)](https://open.spotify.com/album/33EcOUw1Efeo8R3VvoQFhq) | 2:53 | 2022-01-14 | 2022-07-29 |
 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 | 2022-01-26 |  |
+| [Out Of My Mind](https://open.spotify.com/track/3ZTZiH8eOtaUPrEW4KxtOB) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Out Of My Mind](https://open.spotify.com/album/1nhqhp0kxaKZvVLECcyH9X) | 4:41 | 2023-09-15 |  |
 | [pak it in](https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [pak it in // mama](https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp) | 4:43 | 2021-11-12 | 2022-11-13 |
 | [Paul Newman Daytona Rolex](https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy) | 3:21 | 2021-11-12 |  |
 | [Perfect Wife](https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Perfect Wife](https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz) | 3:38 | 2021-11-12 | 2022-07-29 |

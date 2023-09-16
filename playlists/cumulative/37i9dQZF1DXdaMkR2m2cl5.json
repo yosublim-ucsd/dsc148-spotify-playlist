@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 210573,
       "name": "Elation",
       "url": "https://open.spotify.com/track/4EKvUdkxSYrCNxvjjrFGoo"
@@ -3564,6 +3564,24 @@
       "duration_ms": 311613,
       "name": "The Running Styles of New York",
       "url": "https://open.spotify.com/track/6qBIXzZBsQC6n4OmumpcHc"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/06qBCU6345SLVXjh6vk3NY"
+      },
+      "artists": [
+        {
+          "name": "Luluc",
+          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297440,
+      "name": "The Shore",
+      "url": "https://open.spotify.com/track/6bjYPk5lk1llfpKuJ80z5D"
     },
     {
       "album": {

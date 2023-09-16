@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Rap from hell. Cover: $uicideboy$",
+  "description": "Rap from hell. Cover: City Morgue",
   "name": "TIRADE",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 133920,
       "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
       "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 122000,
       "name": "BALL LIKE THIS",
       "url": "https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 195600,
       "name": "Big Shot Cream Soda",
       "url": "https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56"
@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "DESIRE",
+        "url": "https://open.spotify.com/album/4HRlH8H0ujyz46QqdEBI51"
+      },
+      "artists": [
+        {
+          "name": "LITTLE 4N",
+          "url": "https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141253,
+      "name": "DESIRE",
+      "url": "https://open.spotify.com/track/25sabs7iC9eESyOpf0b6CY"
+    },
+    {
+      "album": {
         "name": "Side Effects EP",
         "url": "https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx"
       },
@@ -3888,7 +3906,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 167272,
       "name": "GODZILLA!",
       "url": "https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN"
@@ -6652,7 +6670,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 90625,
       "name": "NEXTBOT!",
       "url": "https://open.spotify.com/track/0wohSgJuZJvQoMV7gMpMrT"
@@ -7107,6 +7125,24 @@
     },
     {
       "album": {
+        "name": "Pac Ave",
+        "url": "https://open.spotify.com/album/1WEJda4yBPvseuFLeY0Pxc"
+      },
+      "artists": [
+        {
+          "name": "Diggy Graves",
+          "url": "https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210620,
+      "name": "Pac Ave",
+      "url": "https://open.spotify.com/track/5P5hIlnNaOtv29EGpMfQfX"
+    },
+    {
+      "album": {
         "name": "pack-a-punch",
         "url": "https://open.spotify.com/album/24d5tGfqYMhIZlhTwL6H3j"
       },
@@ -7192,6 +7228,24 @@
       "duration_ms": 186666,
       "name": "Park It",
       "url": "https://open.spotify.com/track/1Ji7bjJOInkFvWbpPGYkle"
+    },
+    {
+      "album": {
+        "name": "Parrot Selector",
+        "url": "https://open.spotify.com/album/0cPB1nqkpcjePZRNKRN27s"
+      },
+      "artists": [
+        {
+          "name": "Istasha",
+          "url": "https://open.spotify.com/artist/5D8TBtxnP5GZm9wUBQ8OTc"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90909,
+      "name": "Parrot Selector",
+      "url": "https://open.spotify.com/track/07B7mjXBUUFPidsaAmlmJD"
     },
     {
       "album": {
@@ -7556,7 +7610,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 140877,
       "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
       "url": "https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH"
@@ -7804,6 +7858,32 @@
       "duration_ms": 126000,
       "name": "Sangria (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2fG0gdRKdTjyxYkTydQEv9"
+    },
+    {
+      "album": {
+        "name": "My Bloody America",
+        "url": "https://open.spotify.com/album/6yRhGO6i0w7qlIdpOnToPI"
+      },
+      "artists": [
+        {
+          "name": "City Morgue",
+          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
+        },
+        {
+          "name": "ZillaKami",
+          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
+        },
+        {
+          "name": "SosMula",
+          "url": "https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107012,
+      "name": "Sauna",
+      "url": "https://open.spotify.com/track/0Z9mdR3xaZOkhidVO4A1MF"
     },
     {
       "album": {
@@ -8596,7 +8676,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 178983,
       "name": "STORM",
       "url": "https://open.spotify.com/track/1hLu8lAkeGXsvbQ7KjLNB7"
@@ -9740,7 +9820,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 215589,
       "name": "whatwhat",
       "url": "https://open.spotify.com/track/6EJrDOvMvJVeEH6AiFKOEL"
@@ -10114,6 +10194,28 @@
       "duration_ms": 97057,
       "name": "YASOPP",
       "url": "https://open.spotify.com/track/5MLlfYP9uZUGqsaPtUAVQe"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/24ATrBdz0bnhEeyjOioPL8"
+      },
+      "artists": [
+        {
+          "name": "Sect Unit",
+          "url": "https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju"
+        },
+        {
+          "name": "Cardeair\u00e9 Latrelle",
+          "url": "https://open.spotify.com/artist/43f5i9c2rhXrHmJaBt6bmG"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/2kBkseTPx3JksWLmfSAtTL"
     },
     {
       "album": {

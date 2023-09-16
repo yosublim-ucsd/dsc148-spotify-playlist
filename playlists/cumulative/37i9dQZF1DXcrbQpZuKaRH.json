@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Cabin by the pier",
+        "url": "https://open.spotify.com/album/6H0psReFa2dCwCbX6tOLjO"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Cabin by the pier",
+      "url": "https://open.spotify.com/track/53aQA3GN9tTpAhAAXIymaC"
+    },
+    {
+      "album": {
         "name": "Calm Night",
         "url": "https://open.spotify.com/album/3rX4s5iGt5XMhgHr8eRsuK"
       },
@@ -441,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6"
+      },
+      "artists": [
+        {
+          "name": "Time Sphere",
+          "url": "https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216804,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj"
+    },
+    {
+      "album": {
         "name": "In Your Dreams",
         "url": "https://open.spotify.com/album/5qKhYrJX3hmlU35Kld74bN"
       },
@@ -456,6 +492,24 @@
       "duration_ms": 165576,
       "name": "Love Story Star",
       "url": "https://open.spotify.com/track/4rQcoBXbQlYyXAej1yse4w"
+    },
+    {
+      "album": {
+        "name": "Majestic (Ocean)",
+        "url": "https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH"
+      },
+      "artists": [
+        {
+          "name": "Moonlight River",
+          "url": "https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Majestic (Ocean)",
+      "url": "https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt"
     },
     {
       "album": {
@@ -888,7 +942,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 209139,
       "name": "Shape of Your Breathing",
       "url": "https://open.spotify.com/track/48nyXuiDi17jGNYQPEwzb1"

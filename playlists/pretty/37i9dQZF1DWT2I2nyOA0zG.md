@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,697 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,699 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 71 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 |
 | 72 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
 | 73 | [Olorun Maje](https://open.spotify.com/track/63asnqY4DG3bbdew7ioJBE) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Phase One](https://open.spotify.com/album/4jeLU9uhpa3D4qG7lWzyVT) | 2:41 |
-| 74 | [Make it right](https://open.spotify.com/track/3zZE20LzzHwQzY5KLx7qgf) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp), [Onyinye](https://open.spotify.com/artist/1WATmtsaEqQoF9Kjkzk2w0) | [Make it right](https://open.spotify.com/album/7xHAbZPPPe4RYh5KCZEutz) | 2:40 |
+| 74 | [Make it right](https://open.spotify.com/track/3zZE20LzzHwQzY5KLx7qgf) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp), [Onyinye](https://open.spotify.com/artist/4AC4UV0ZfuD9QJRR8VyGUe) | [Make it right](https://open.spotify.com/album/7xHAbZPPPe4RYh5KCZEutz) | 2:40 |
 | 75 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
 | 76 | [ADAUGO](https://open.spotify.com/track/6lxai3ZSpU2UctunwrCjvp) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ADAUGO](https://open.spotify.com/album/7FA8ItLt3NvvgL8ZExtpih) | 3:51 |
 | 77 | [Ayele](https://open.spotify.com/track/0x9boesXCFnB1EJflJObae) | [Mr Leo](https://open.spotify.com/artist/0sfURdhcmXyrcFEWaJ2IJI) | [Ayele](https://open.spotify.com/album/1cXxGJjjYJUgyoAxLFA0IJ) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 79 | [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 |
 | 80 | [Different](https://open.spotify.com/track/0lDhpQ8KUBcX8w4ilY1UPs) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 2:44 |
 
-Snapshot ID: `MCw4Mjg0M2E2ZWY3NmIzOTk1YTc5ZjE4ZDc0ZGMwMWJiY2FlNDYxMmU4`
+Snapshot ID: `MCxlZjlhOGZmZTUwYWYwODBiZjdkMDRkMDM5ZDBiOGJjNmJlOTYxY2Zh`

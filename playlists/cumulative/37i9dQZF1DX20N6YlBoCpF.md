@@ -4,7 +4,7 @@
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io?si=XkStSkkaT6OkdsdKWI9kLw">Wikus Botma</a>
 
-521 songs - 1 day 5 hr 37 min
+523 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Gebore Vir Kuns](https://open.spotify.com/track/2tgxEdHbSnieZ0oDvwwHuh) | [Ruan Jordaan](https://open.spotify.com/artist/4U1HGpCBaswacsIq1KwkY1) | [Gebore Vir Kuns](https://open.spotify.com/album/2oRLjH4iZAXhpKZAxvEZbG) | 3:57 | 2023-06-29 | 2023-07-14 |
 | [Gebroke Hart Sindroom](https://open.spotify.com/track/415CBFQvc7kiaK0yfiMagU) | [Delanae](https://open.spotify.com/artist/6eJodu0wnPKw2ZBruAf1Hb) | [Gebroke Hart Sindroom](https://open.spotify.com/album/1RB6kwrKEP6P2gywnQ7oRi) | 3:44 | 2023-09-07 |  |
 | [Geniet Die Rus](https://open.spotify.com/track/1Seuhs4o33IsdbP5ZM24s3) | [Herman Kleinhans](https://open.spotify.com/artist/3kTnA09Ebx0rFBTPAlsLFC) | [Kranse](https://open.spotify.com/album/4eob7ejIxppzpLB9SfyS6T) | 3:28 | 2023-03-02 | 2023-03-25 |
+| [Genna Reyter](https://open.spotify.com/track/4na4KG1uETHx3OI67F60Hs) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Genna Reyter](https://open.spotify.com/album/2bwzxbfqSauPYo96zTe9DT) | 3:45 | 2023-09-15 |  |
 | [Glo](https://open.spotify.com/track/0fQ5MOq8VDkLmOmXj9nfGZ) | [Jacques Leonard](https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262) | [Glo](https://open.spotify.com/album/50ehh8dDKeB8qjwLboZ2ez) | 3:28 | 2022-09-29 | 2022-10-28 |
 | [Goeie Nuus](https://open.spotify.com/track/2KA56LXANI5yv6gHk9VRzK) | [Augusta Zietsman](https://open.spotify.com/artist/3jZWDJXxKcoeidgkf8N6mO) | [Goeie Nuus](https://open.spotify.com/album/35JwpHE4v1G1gRVgUjVtKG) | 2:15 | 2022-11-17 | 2022-12-09 |
 | [Gogga](https://open.spotify.com/track/58byxA9vGXEwHgmYHVkINT) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Gogga](https://open.spotify.com/album/6NVlAxL1Q918yRq7dJ0ad8) | 3:23 | 2023-08-17 |  |
@@ -286,7 +287,7 @@
 | [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 | 2023-01-06 |
 | [Lyntjie](https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Lyntjie](https://open.spotify.com/album/51aJBYJeoKwIFxevyaeohg) | 3:05 | 2023-06-16 | 2023-07-14 |
 | [Maak Wakker](https://open.spotify.com/track/3bemRRClVvTnfpOxIQx88w) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Maak Wakker](https://open.spotify.com/album/0ydJ2CZGUPWWk5JcySWIpj) | 3:21 | 2022-12-27 | 2023-01-02 |
-| [Maklike Wiskunde](https://open.spotify.com/track/1TfZmY5zUBADXr4HqvICWQ) | [Wilma Van Heerden](https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP) | [Maklike Wiskunde](https://open.spotify.com/album/5p9fzbfamUcur56ggADvpM) | 3:25 | 2023-08-10 |  |
+| [Maklike Wiskunde](https://open.spotify.com/track/1TfZmY5zUBADXr4HqvICWQ) | [Wilma Van Heerden](https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP) | [Maklike Wiskunde](https://open.spotify.com/album/5p9fzbfamUcur56ggADvpM) | 3:25 | 2023-08-10 | 2023-09-16 |
 | [Mal](https://open.spotify.com/track/4A2O8W7Khl31dJqn4wzzUk) | [Juan Griffith](https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN) | [Mal](https://open.spotify.com/album/4KuUIE12ZsBqM62DiHljNI) | 4:16 | 2023-08-24 | 2023-09-08 |
 | [Mal Maandagaande](https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Mal Maandagaande](https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp) | 2:13 | 2023-05-04 | 2023-06-30 |
 | [Man so na my hart](https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL) | [Elizma Theron](https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU) | [Man so na my hart](https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C) | 3:17 | 2023-02-09 | 2023-06-10 |
@@ -379,6 +380,7 @@
 | [Rigtingnaald](https://open.spotify.com/track/0S3S4LAhY89K9hjlIWuptV) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Rigtingnaald](https://open.spotify.com/album/0jlTHJ7HGit6w5G7mctR3Q) | 3:48 | 2023-08-17 |  |
 | [Rock 'n Roll Engel](https://open.spotify.com/track/3dBwHHI3ED1qDwU6lL9798) | [Valiant Swart](https://open.spotify.com/artist/6cnnXUEWR7vQZfL0eQuYZl), [Danie Reënwolf](https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08) | [Rondry, Fliek en die Buitelewe](https://open.spotify.com/album/0efPfJkq7OwgRykVmZ2HoB) | 4:11 | 2023-05-18 | 2023-06-09 |
 | [Roeper Van My Hart](https://open.spotify.com/track/5PJoSGqZHJK9MEInMbyySV) | [Theuns Jordaan](https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4) | [Roeper](https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz) | 3:50 | 2022-12-27 | 2023-01-02 |
+| [Rolo Meisie](https://open.spotify.com/track/7fsXg0bJaEv9XSRsSjvznD) | [Dis Net Frederick](https://open.spotify.com/artist/7K8dXmsaU5eAldwKd9ljRM) | [Rolo Meisie](https://open.spotify.com/album/5pmb3TbOGa6PmcZBAHiMAR) | 3:21 | 2023-09-14 |  |
 | [Rooi Bos](https://open.spotify.com/track/5aAa1nEMTRNlvDrziA5l6e) | [Jako Meyer](https://open.spotify.com/artist/6qm8sMfaGt1KVocOPrqxd6) | [Rooi Bos](https://open.spotify.com/album/0CzF8nPiQS2Vr0JSZXands) | 2:52 | 2022-12-01 | 2023-01-20 |
 | [Rooi Lippe](https://open.spotify.com/track/2lsq1swqdWcKNE0r96ocIF) | [ADAM](https://open.spotify.com/artist/486zoG8VpR4C1iQRLG4ywt) | [Rooi Lippe](https://open.spotify.com/album/243SEBUrcPNQ0w8k67yWBO) | 3:12 | 2022-10-06 | 2022-11-11 |
 | [Rooi Rok](https://open.spotify.com/track/2DGaQWTmkG0ZYRaVcceIq0) | [Kayla](https://open.spotify.com/artist/3A7PXuZHCyR6WUlgUaJyfm) | [Rooi Rok](https://open.spotify.com/album/2NgHxxbwdIkXJkdynMdKoG) | 3:44 | 2023-08-31 | 2023-09-15 |

@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Sia",
-  "num_followers": 546911,
+  "num_followers": 546934,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTRmZDJlZTdkZTgzZDdkMjgzNmUyMTYyOTQ2ODU0NDkzMzE2ZDYy",
+  "snapshot_id": "MCw2ZGVlM2I0ZTlkZjI2NjRmNWI2NzhlNWMxZTUyZWIwZTg0OTdlMjZi",
   "tracks": [
     {
       "added_at": "2023-09-14 23:13:08",
@@ -284,20 +284,20 @@
           "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         },
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         },
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 286559,
-      "name": "Another One Of Me (feat. The Weeknd, 21 Savage and French Montana)",
+      "duration_ms": 220408,
+      "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
     },
     {

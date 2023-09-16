@@ -4,7 +4,7 @@
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-148 songs - 11 hr 27 min
+150 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [اخدني معك](https://open.spotify.com/track/2OG1u9eX4Zjsi7fGQB9T8t) | [فضل شاكر](https://open.spotify.com/artist/4BToNiwcCGe2xoQSuYQBXI) | [حبك علمني](https://open.spotify.com/album/41wGZLOe4uhn6VS40VjG9A) | 5:13 | 2023-01-30 |  |
 | [اشوف فيك يوم](https://open.spotify.com/track/6XbcPZc1kZ1bbTmzI7Pqzw) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [يا خسارتك فى اليالى](https://open.spotify.com/album/3oUnSsugdYXbTwLOpjq7Sa) | 4:23 | 2021-12-06 | 2023-02-01 |
 | [الليالي](https://open.spotify.com/track/0pKukwZMPKR02yxap7eEh6) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [الليالي](https://open.spotify.com/album/1I6nsdCL7wSh88GfucMJuQ) | 4:14 | 2023-04-19 |  |
+| [بتضحك](https://open.spotify.com/track/3qhoIMbfdhooMz2YyxP9m1) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [خلينا نعيش](https://open.spotify.com/album/4MQTvKD6kjg1eMAsTNTbp9) | 4:22 | 2023-09-15 |  |
 | [بتمون](https://open.spotify.com/track/565DwJNaH1c4Cj2YoPfADl) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أيامي بيك](https://open.spotify.com/album/6czUisuzChJPALE0QbyP2V) | 4:05 | 2023-04-19 |  |
 | [حبيبي يا](https://open.spotify.com/track/3JtQZRGn1GWraaMI8hJWVk) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [حبيبي يا](https://open.spotify.com/album/0kD0fdr5woasIliscmO9eM) | 3:36 | 2023-01-30 |  |
 | [ختيار عالعكازة](https://open.spotify.com/track/4eGNtb20wdf8NepyJbSMHB) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [يقبرني](https://open.spotify.com/album/2vsR7ZCsiJ7vk11YB9kyia) | 3:31 | 2023-04-19 |  |
@@ -142,6 +143,7 @@
 | [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 | 2023-01-30 |  |
 | [قلبي معذب](https://open.spotify.com/track/7d9vTDybKlnO9mI0sXvi9n) | [يوسف العماني](https://open.spotify.com/artist/5hMy9WpurfuusrrNfGXTjB) | [أحلى اثنين](https://open.spotify.com/album/2xaQDViCrqeoXhz6X3OPvM) | 6:18 | 2021-12-06 |  |
 | [كل القصايد](https://open.spotify.com/track/2SbOhkuficQ2KVvVofnsWP) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [كل القصايد](https://open.spotify.com/album/2ENnt1IKcJNla5goMsY1Zn) | 4:01 | 2023-01-30 |  |
+| [لسه بتخاف](https://open.spotify.com/track/1otcwP0BH4mviMSbdex6d9) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [حاجة مش طبيعية](https://open.spotify.com/album/1Jhqekv9FUvhmVHwGPfjXi) | 3:01 | 2023-09-15 |  |
 | [لمستك](https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:53 | 2023-04-11 |  |
 | [لو بص في عيني](https://open.spotify.com/track/5aJK0AXVQSjkJKUD1UcYyU) | [سيرين عبد النور](https://open.spotify.com/artist/208HsmC7Y3dzue2M4eCaOr) | [عليك عيوني](https://open.spotify.com/album/3O81XSocvzWl3EYsFE67TH) | 4:06 | 2023-02-07 |  |
 | [ليلى نهارى](https://open.spotify.com/track/1F4llVlAB6yfumGxPXBOxc) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:06 | 2023-01-30 |  |

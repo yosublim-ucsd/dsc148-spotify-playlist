@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Currently curated by: G2 CSGO \- OYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,129 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,155 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 48 | [Monster As a Friend](https://open.spotify.com/track/4Y26TOoYQpGKuxwc4rsKFm) | [Hikiray](https://open.spotify.com/artist/5xUUwHNK1mxiFFWMzI5uz4) | [Samurai](https://open.spotify.com/album/2UI1dtepFOdzj70W3jdmXv) | 3:09 |
 | 49 | [Flashbacks](https://open.spotify.com/track/42ffsPSafzOh9OWlrGBYzY) | [CRASPORE](https://open.spotify.com/artist/70uBplYS9d9GUfEKVusJw6) | [Asocial](https://open.spotify.com/album/3RolDdGZgfLMGEL1ZW4bYy) | 4:42 |
 
-Snapshot ID: `MCw2MzI3YTNhMTgwNmZlNmVhYzg4OGZkNjFjNzc4YTBlZWZlNDdjMDdl`
+Snapshot ID: `MCxjNDIxNWVhYTYyNmE1NTQ4MTM2YTY1NzcyZDFhN2NkOTYzYTg0NTY5`

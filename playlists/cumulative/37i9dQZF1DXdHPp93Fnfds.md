@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-552 songs - 1 day 7 hr 30 min
+553 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 | 2023-08-04 |  |
 | [1K Agujas](https://open.spotify.com/track/1F3hOmU8BA9Lftz7PKR4G6) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [1K Agujas](https://open.spotify.com/album/3DXnVgLcsFUjpSqvUnmzW2) | 4:19 | 2022-01-21 | 2022-07-25 |
 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 | 2023-06-09 | 2023-08-19 |
+| [360 al Mundo](https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Xoxo](https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8) | 2:59 | 2023-09-01 |  |
 | [A Los Arboles \(feat\. Raag\)](https://open.spotify.com/track/22zFpd7tQthAeefRmxIxac) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [Los Tiempos Inciertos \(feat\. Raag\)](https://open.spotify.com/album/2js6vsGGCBlLpdrkRVcfJK) | 4:57 | 2022-01-21 | 2022-07-09 |
 | [A Los Arboles \(feat\. Raag\)](https://open.spotify.com/track/2osY6sjuuMa3UYWWG2naiu) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [Tejido](https://open.spotify.com/album/0DYNKGYbgS5EcX2sftjVgg) | 4:57 | 2022-01-21 | 2022-07-15 |
 | [A Mor](https://open.spotify.com/track/7rlZPWvhjNws5u3GDGCmMR) | [Alex June](https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO) | [Clepsidra](https://open.spotify.com/album/7bU2KprBBphLpmBvK9FDHi) | 3:01 | 2022-03-09 | 2022-07-28 |
@@ -502,7 +503,7 @@
 | [TIEMPOS SALVAJES](https://open.spotify.com/track/18HMqP4m9i0seXQ3LaJbBx) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Demos Realistas](https://open.spotify.com/album/5MUDuBUX4EaY0GJLX6R1G3) | 3:09 | 2022-01-21 | 2022-07-21 |
 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 | 2022-01-21 |  |
 | [Tobogán Ardiendo](https://open.spotify.com/track/4x9anYm599VwzhRDKTglw2) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy) | [Tobogán Ardiendo](https://open.spotify.com/album/5NdFVTPZSsDeeoQ7kpiXkY) | 3:35 | 2023-07-14 | 2023-09-13 |
-| [Toda la Noche](https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:49 | 2023-06-09 |  |
+| [Toda la Noche](https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:49 | 2023-06-09 | 2023-09-16 |
 | [Todavía](https://open.spotify.com/track/4uV37LBd2UskSNl0Czc0M2) | [MOVEDIZA](https://open.spotify.com/artist/4EQQIISarbEz0jdNqgREYD), [Manul Nube](https://open.spotify.com/artist/3VIWRSR2eSBfCZ94nJoSag) | [Todavía](https://open.spotify.com/album/3VWK0L8HrLtaQmWEmy5u5m) | 4:13 | 2022-01-21 | 2022-07-29 |
 | [Todo a la Vez](https://open.spotify.com/track/0KnCoTufyJ7yT42edb0zpW) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Todo a la Vez](https://open.spotify.com/album/1vxYvCBlmcrJLiisevXxqu) | 3:34 | 2022-01-21 | 2022-07-28 |
 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 | 2022-01-21 | 2022-07-25 |

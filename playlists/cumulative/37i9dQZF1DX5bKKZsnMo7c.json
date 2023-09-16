@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 182799,
       "name": "Crocodile Tears",
       "url": "https://open.spotify.com/track/7MwYXhh2dTqc7fiwkwPZo1"
@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 148744,
       "name": "Paycheck",
       "url": "https://open.spotify.com/track/4X6IYXcZzSRdsMYiv0K30k"
@@ -4075,6 +4075,28 @@
     },
     {
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/2VxVieuLHtGN4jOFtgKsgu"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        },
+        {
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/7G1CCmpXUbjkH9nBZoaHj3"
+    },
+    {
+      "album": {
         "name": "What Could Be Better",
         "url": "https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c"
       },
@@ -4400,6 +4422,28 @@
       "duration_ms": 183693,
       "name": "the alternative",
       "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
+    },
+    {
+      "album": {
+        "name": "The Beautiful Letdown (Jonas Brothers Version)",
+        "url": "https://open.spotify.com/album/6PzwkBcQRhITgIAtLHCH9P"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292200,
+      "name": "The Beautiful Letdown (Jonas Brothers Version)",
+      "url": "https://open.spotify.com/track/7aoLeX7JuTZJaSOFVj8OJm"
     },
     {
       "album": {

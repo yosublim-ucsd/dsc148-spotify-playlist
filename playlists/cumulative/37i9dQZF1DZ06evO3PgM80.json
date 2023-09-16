@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "H\u00e1 Liberdade Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568958,
+      "name": "H\u00e1 Liberdade Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk"
+    },
+    {
+      "album": {
         "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },

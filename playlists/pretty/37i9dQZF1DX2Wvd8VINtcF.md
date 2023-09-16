@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,266 likes - 116 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,478 likes - 116 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 115 | [My Friends](https://open.spotify.com/track/2fi8WhqDakWNi1PNyeCzxB) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [My Friends](https://open.spotify.com/album/4PjKKci0rniDrcyaCLF4nS) | 2:06 |
 | 116 | [Fragile](https://open.spotify.com/track/0twVtYBVwNXIA15brQRf5y) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Fragile](https://open.spotify.com/album/6gjW6IETdWXGmJLQPMT7ZT) | 4:39 |
 
-Snapshot ID: `MCxkYmY5ZmZlYzYxY2JkYTk4ZmMwMTlmYTY4ZmM3M2RlZWQwYmM5NWYx`
+Snapshot ID: `MCw4ZWNlYzkyYTRjYjFkMjI1OWRhYzhjYTc1MzZiMTc3MjI0NmY2YmQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,703 likes - 180 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,775 likes - 180 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 128 | [Losing My Perfection](https://open.spotify.com/track/5Fmi8gEdTDTARDnxdwiY7v) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:02 |
 | 129 | [Rollercoaster](https://open.spotify.com/track/1fowwO5FLJpv7Suxf0vOC6) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5), [whinn](https://open.spotify.com/artist/3R9yGzKCvht9vUyRyV3tU9), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Rollercoaster](https://open.spotify.com/album/3AyZzhTDxJ0sl7XECu6NUL) | 3:12 |
 | 130 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 |
-| 131 | [Paradise \- Remix](https://open.spotify.com/track/0tvQweVX5PIzspqVZdyB7b) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Paradise \(Remix\)](https://open.spotify.com/album/5byhhtBBucKX4zNAyRVbbu) | 3:16 |
+| 131 | [Paradise \- Remix](https://open.spotify.com/track/0tvQweVX5PIzspqVZdyB7b) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [HMLSS](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Paradise \(Remix\)](https://open.spotify.com/album/5byhhtBBucKX4zNAyRVbbu) | 3:16 |
 | 132 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 |
 | 133 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |
 | 134 | [Quebrada](https://open.spotify.com/track/4Ika1bBabb94jkejNQ0NxI) | [The Odd 910](https://open.spotify.com/artist/6fU3JlyHRl3evN0aECdVV7) | [Nine Tenths of the Law](https://open.spotify.com/album/2ehRDCZKKkHRsZ76faCl3N) | 4:19 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 179 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 |
 | 180 | [MY HOUSE](https://open.spotify.com/track/6sZzLJkAHCbSkbqLdUFT6Q) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [MY HOUSE / BLEAK](https://open.spotify.com/album/3YKs6Hoq25I2tqZjSP56qU) | 4:02 |
 
-Snapshot ID: `MCxhNjkyNzlhODY2MmI5NzMxOTk5NGM4OWM5ZDNjMmY0YzY4ZTI1Mjhj`
+Snapshot ID: `MCwxOTMxMmY4MWIzYmRjMjViNmM3MmMyN2Q4ODJjNTQ5NDhiOTc4YmE3`

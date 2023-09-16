@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,812 likes - 63 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,851 likes - 64 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 54 | [Forest Contemplation](https://open.spotify.com/track/5WnFvl7BbTc4IhCHzkR52S) | [Post Apocalyptic](https://open.spotify.com/artist/76A6kOYEHDdXXm7TGi2N4w) | [Far Away](https://open.spotify.com/album/31Jr6LVE2k60ldnb6NAQ5w) | 5:02 |
 | 55 | [Dub Seekers](https://open.spotify.com/track/2M5lNIJiiGskmRelYftHvi) | [Coma conscience](https://open.spotify.com/artist/7tBKvZthaXQCVkOeub7FY4) | [Cascades](https://open.spotify.com/album/0VKu2h9Nmos4NcBJ4Tw4j3) | 6:48 |
 | 56 | [Moonset](https://open.spotify.com/track/1cgpMjmixinncr9eAraY8l) | [Lapien](https://open.spotify.com/artist/4ltbchh24s4TPS7IwZhUEC) | [Brumal EP](https://open.spotify.com/album/2y8PYXClszXn8o82BdnSYG) | 8:05 |
-| 57 | [Yume No Serei](https://open.spotify.com/track/4p4qSjT8ce6IPbtUV5obul) | [Deadbeat](https://open.spotify.com/artist/0rd7M5S6AdFkideaBtseOo), [Sa Pa](https://open.spotify.com/artist/3QvH7p6ECJrZdwFljWr5S0) | [The Mountain](https://open.spotify.com/album/0D06TW5YLar1SylbdM2Wna) | 7:22 |
-| 58 | [Ninsei](https://open.spotify.com/track/6SOyjeedBIFvHanZlyIhZo) | [Andreiclv](https://open.spotify.com/artist/6GdPTOUFnELWOlpcCRvrdZ) | [Cityscapes EP](https://open.spotify.com/album/0RIXGeAUyFNQbGt5w7fROw) | 6:24 |
-| 59 | [Blossoms](https://open.spotify.com/track/41JrgzrdwKt0mXBQrJf1AM) | [Ambra Dubs](https://open.spotify.com/artist/5YXK1fJjoQxk6YkqxTSv1y) | [Blossoms](https://open.spotify.com/album/3ukq09swzYwRU86ZXETvQa) | 5:03 |
-| 60 | [Elapse \- Fdf's Espale Mix](https://open.spotify.com/track/75cBW5IXH1DK9Sa8GiiyeZ) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr), [Freund der Familie](https://open.spotify.com/artist/2aqA1rqioB4Fc8Xre931gX) | [Elution](https://open.spotify.com/album/2bybxXP7vMNf3N2KhzSa4W) | 7:26 |
-| 61 | [Mode](https://open.spotify.com/track/0q0S5pVGXPGBFzOxOf4rGc) | [Zoye](https://open.spotify.com/artist/66YUxzUWrBn5EExqg4c0Tj) | [Mode](https://open.spotify.com/album/7b0QZnWhLLa20wscn5gGIc) | 3:10 |
-| 62 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 |
-| 63 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
+| 57 | [21 TAURI A](https://open.spotify.com/track/3ORo6jlLpHfIay4JQbdVt0) | [Ulker](https://open.spotify.com/artist/4xvgsi0qqgd52fk433zVUa) | [21 TAURI A](https://open.spotify.com/album/3adkjbyIRFkiioZzexU8cp) | 3:10 |
+| 58 | [Yume No Serei](https://open.spotify.com/track/4p4qSjT8ce6IPbtUV5obul) | [Deadbeat](https://open.spotify.com/artist/0rd7M5S6AdFkideaBtseOo), [Sa Pa](https://open.spotify.com/artist/3QvH7p6ECJrZdwFljWr5S0) | [The Mountain](https://open.spotify.com/album/0D06TW5YLar1SylbdM2Wna) | 7:22 |
+| 59 | [Ninsei](https://open.spotify.com/track/6SOyjeedBIFvHanZlyIhZo) | [Andreiclv](https://open.spotify.com/artist/6GdPTOUFnELWOlpcCRvrdZ) | [Cityscapes EP](https://open.spotify.com/album/0RIXGeAUyFNQbGt5w7fROw) | 6:24 |
+| 60 | [Blossoms](https://open.spotify.com/track/41JrgzrdwKt0mXBQrJf1AM) | [Ambra Dubs](https://open.spotify.com/artist/5YXK1fJjoQxk6YkqxTSv1y) | [Blossoms](https://open.spotify.com/album/3ukq09swzYwRU86ZXETvQa) | 5:03 |
+| 61 | [Elapse \- Fdf's Espale Mix](https://open.spotify.com/track/75cBW5IXH1DK9Sa8GiiyeZ) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr), [Freund der Familie](https://open.spotify.com/artist/2aqA1rqioB4Fc8Xre931gX) | [Elution](https://open.spotify.com/album/2bybxXP7vMNf3N2KhzSa4W) | 7:26 |
+| 62 | [Mode](https://open.spotify.com/track/0q0S5pVGXPGBFzOxOf4rGc) | [Zoye](https://open.spotify.com/artist/66YUxzUWrBn5EExqg4c0Tj) | [Mode](https://open.spotify.com/album/7b0QZnWhLLa20wscn5gGIc) | 3:10 |
+| 63 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 |
+| 64 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
 
-Snapshot ID: `MCwxZGNmYWMzOTNiYWIwZTgyOTBmYjQ2N2YzMGE3MDQwMTU3ODFhM2Yx`
+Snapshot ID: `MCxhNmMxOThhM2UzZjYwM2UzNGU1ODJiNTM4ZDFhN2YwODY2MTMxZDc2`

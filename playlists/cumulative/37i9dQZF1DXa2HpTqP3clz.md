@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-473 songs - 1 day 4 hr 30 min
+474 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [El Dorado](https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [City of Gold](https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK) | 4:23 | 2023-08-04 |  |
 | [EMD](https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb) | [Pinecastle Records](https://open.spotify.com/artist/05ohk4u1CL6VHaZP0VyWMG), [Scott Vestal](https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC), [Randy Kohrs](https://open.spotify.com/artist/1u6uhZzou3OAmwvAiOTunN), [Tim Crouch](https://open.spotify.com/artist/1q7fFBA1aUDCQMhpUAIMxb), [Cody Kilby](https://open.spotify.com/artist/128a425UwZIlWs3LTWeRpP), [Byron House](https://open.spotify.com/artist/6lSbVfPSL0Pa9z1fQfTwfE), [Jonah Horton](https://open.spotify.com/artist/7fqInLhy184lhVDLjSKYal) | [EMD](https://open.spotify.com/album/6EvXb5NjFdjQfLGIPttxcF) | 3:49 | 2022-01-07 | 2022-06-19 |
 | [Empty Square](https://open.spotify.com/track/2JJAhyzA35yZa3wnwg6BQT) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:20 | 2021-12-17 | 2022-07-26 |
-| [Engine Trouble](https://open.spotify.com/track/3J2SefFgx68fw3RI2x2OLx) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 4:45 | 2022-07-22 |  |
+| [Engine Trouble](https://open.spotify.com/track/3J2SefFgx68fw3RI2x2OLx) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 4:45 | 2022-07-22 | 2023-09-16 |
 | [Engine Trouble](https://open.spotify.com/track/3VGjFO89Sh53UjTRGJXWmi) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/1A43T5C9vFdOXecyJAE1We) | 4:45 | 2021-12-17 | 2022-07-29 |
 | [Eva Kelley](https://open.spotify.com/track/0s8Zuk9rkJf9NVR9azmDwE) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si) | [Eva Kelley](https://open.spotify.com/album/7DakEfniT1T6Wu4Ws4QRWV) | 4:41 | 2021-12-31 | 2022-06-18 |
 | [Fall Like Rain](https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX) | [Justin Moses](https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola) | [Fall Like Rain](https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY) | 4:22 | 2021-12-17 |  |
@@ -214,6 +214,7 @@
 | [In the Sweet by and By](https://open.spotify.com/track/6gJkNZt514JO7YR6dxS4JE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Larry Cordle](https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM), [Carl Jackson](https://open.spotify.com/artist/2Z983rZwtk7awKHxQprGLE), [Jerry Salley](https://open.spotify.com/artist/0vkoBzaQQvNfgn8wejIwtH), [Bradley Walker](https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ) | [In the Sweet by and By](https://open.spotify.com/album/7JZHTqJuqfFQDBqV0GqTE5) | 3:55 | 2021-12-17 | 2023-05-16 |
 | [Into the Fire](https://open.spotify.com/track/0RjqoAsp5jmUVliLaCWuvt) | [Yonder Mountain String Band](https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO) | [Into the Fire](https://open.spotify.com/album/11VbCENTERIqVpyGyBzZDT) | 2:38 | 2022-01-14 | 2022-07-29 |
 | [It's Ok to Be Ok](https://open.spotify.com/track/5SRzstZJ8egKOWygrbzg6Z) | [Billy Droze](https://open.spotify.com/artist/0cEVa3IBa2Bp5wwE98JFR1) | [It's Ok to Be Ok](https://open.spotify.com/album/6bONS6DYfnDWFh6pUsjU5i) | 2:50 | 2023-08-18 | 2023-09-02 |
+| [It's Worth a Shot](https://open.spotify.com/track/4UTGvhVv2iApOaZach2nq4) | [Chris Davis](https://open.spotify.com/artist/50lzSjoZNrGLCsvhlrLGBf) | [It's Worth a Shot](https://open.spotify.com/album/3rnbJV4dBapXj600Vh43u5) | 2:25 | 2023-09-15 |  |
 | [I’ll Trade You Money for Wine](https://open.spotify.com/track/6hsinmvODBmxLaIeY6t69u) | [Laura Orshaw](https://open.spotify.com/artist/0AGDlPc4c5TUpNltDn99es) | [Solitary Diamond](https://open.spotify.com/album/6D8vEKCtmObKJZaCF86uBu) | 4:11 | 2022-07-15 | 2022-07-18 |
 | [I’ve Been A Long Time Leavin' \(But I’ll Be A Long Time Gone\)](https://open.spotify.com/track/1xITcjwUzUJL4zoZmBB0PZ) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Universal Favorite](https://open.spotify.com/album/72BjHzwfZXDbxm1HuiXcAo) | 2:49 | 2021-12-17 | 2022-07-17 |
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 | 2022-09-30 |  |

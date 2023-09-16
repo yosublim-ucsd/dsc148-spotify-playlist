@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33"
+      },
+      "artists": [
+        {
+          "name": "Elsa Whage",
+          "url": "https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176454,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/57LIE4xGtrUqicdDiikdMp"
+    },
+    {
+      "album": {
         "name": "Arild",
         "url": "https://open.spotify.com/album/3Bpse36cyz91KkUNLZxMlH"
       },
@@ -3073,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/4lM2VsV5RDllffE1TIrPeE"
+      },
+      "artists": [
+        {
+          "name": "Loe Vida",
+          "url": "https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163011,
+      "name": "Currently",
+      "url": "https://open.spotify.com/track/4Oj1fwRRrCbBlZsZzbQ3my"
+    },
+    {
+      "album": {
         "name": "Curves",
         "url": "https://open.spotify.com/album/3hWEeTtdq80mcLvCt73koZ"
       },
@@ -3844,6 +3880,24 @@
       "duration_ms": 232750,
       "name": "Dromen over jou",
       "url": "https://open.spotify.com/track/3i066yEKcUByD71IIhr8f5"
+    },
+    {
+      "album": {
+        "name": "Drommenes Verden",
+        "url": "https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j"
+      },
+      "artists": [
+        {
+          "name": "Casper Bjerke",
+          "url": "https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Drommenes Verden",
+      "url": "https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7"
     },
     {
       "album": {
@@ -5727,6 +5781,24 @@
     },
     {
       "album": {
+        "name": "Haverzh",
+        "url": "https://open.spotify.com/album/6Ecv6UjUXqs3fTQ5kPqGM3"
+      },
+      "artists": [
+        {
+          "name": "Iota Psi",
+          "url": "https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Haverzh",
+      "url": "https://open.spotify.com/track/0GocVBngN9RHyWlfQnS4Th"
+    },
+    {
+      "album": {
         "name": "The Silent Mind",
         "url": "https://open.spotify.com/album/40YwLU6A5En5HNNUk27z8H"
       },
@@ -6534,6 +6606,24 @@
       "duration_ms": 191630,
       "name": "Inner Cease",
       "url": "https://open.spotify.com/track/5FEqM4v1VJkQyr2N57g8Y1"
+    },
+    {
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF"
+      },
+      "artists": [
+        {
+          "name": "Sabrina McGregor",
+          "url": "https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179222,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF"
     },
     {
       "album": {
@@ -9274,7 +9364,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 222884,
       "name": "Panacea",
       "url": "https://open.spotify.com/track/09f1jQrl37fb3ZYoYBHVl9"

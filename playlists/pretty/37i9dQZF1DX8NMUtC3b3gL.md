@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,392 likes - 290 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,478 likes - 279 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,24 +279,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 269 | [180 Gram](https://open.spotify.com/track/3mpF3RIt6EfMnQPuFqcTwI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [180 Gram](https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE) | 2:28 |
 | 270 | [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 |
 | 271 | [Clean Choices](https://open.spotify.com/track/3alz0TE86DIB2JnbbAOEME) | [KNŐDA](https://open.spotify.com/artist/2fDqX2aMSmr0pVuSdK5tWy) | [Clean Choices](https://open.spotify.com/album/71ti5CfDSeCMbrAFRG5hsu) | 3:07 |
-| 272 | [Insomnio](https://open.spotify.com/track/12tUHVcbU2YozMDrW6gTWF) | [IKAAL](https://open.spotify.com/artist/2twctSC6NO3YMJu1hvYUGR) | [Insomnio](https://open.spotify.com/album/1AcYcKALWGadvyrBjxXE8x) | 1:46 |
-| 273 | [cloudyhead](https://open.spotify.com/track/34Ypo4hhKwo8IQRGJHGWr9) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [cloudyhead](https://open.spotify.com/album/2MbXVSmzStW4mUMFiUEHdJ) | 2:29 |
-| 274 | [Check It](https://open.spotify.com/track/6C94TkFvFvfzKfgUZeIW7R) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Fly Footage](https://open.spotify.com/album/7ENKoGVELyvs5Jndq3O9hT) | 2:19 |
-| 275 | [recluse](https://open.spotify.com/track/1ZlsdUtqOEdzfeDIh6a0Xe) | [wide awake](https://open.spotify.com/artist/5mFEU3OmlfXzQzSWqykm0a) | [recluse](https://open.spotify.com/album/0lfdhjo0kKgY0wi5IAw7zh) | 2:03 |
-| 276 | [A Love Note](https://open.spotify.com/track/3esFgJFazYY26i5YwOekDi) | [Mr\. Jello](https://open.spotify.com/artist/36L95dDAJG3EJ2tstIZpFj), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1) | [A Love Note](https://open.spotify.com/album/0kzIwPWumx68D5eshhDX4D) | 2:06 |
-| 277 | [The Protagonist](https://open.spotify.com/track/3191qXOHGBMGKCoBIjUz3A) | [TheDewk](https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ) | [The Protagonist](https://open.spotify.com/album/565aGEAex9BexExocJJMt4) | 1:37 |
-| 278 | [Kintsugi](https://open.spotify.com/track/5E3YYm8EmBn35w42VDj1fb) | [Third and Forever](https://open.spotify.com/artist/61ZLysh2sp3zFa23osGqBg) | [Third and Forever](https://open.spotify.com/album/07nMvYw3JrqK5832GuoFGD) | 2:20 |
-| 279 | [Super Film](https://open.spotify.com/track/7IQo63pHyV9TR9QS59TY4Q) | [Nizmar Ola](https://open.spotify.com/artist/7hoiEgMS78aEnIy44lmSwh) | [Catch Me Lofi](https://open.spotify.com/album/7JdNOgdGS6ve2x7caUpeKO) | 1:46 |
-| 280 | [Summer Nights in Berlin](https://open.spotify.com/track/29qx3pWrRzp7O6BR0bgAze) | [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn), [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [Summer Nights in Berlin](https://open.spotify.com/album/6Y7zwPclMpDIJ5MfUIpQ4N) | 2:13 |
-| 281 | [Shinin'](https://open.spotify.com/track/2s7rlnKjJJ8b8UskCtZ7VQ) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Shinin'](https://open.spotify.com/album/2QjcsjYwpRoP0dRirJVc8Z) | 2:15 |
-| 282 | [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 |
-| 283 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 |
-| 284 | [our future](https://open.spotify.com/track/4WBdS3TlzAFYVKhpNqyDSy) | [saamson](https://open.spotify.com/artist/3h4ZdFuMxG9E3stRytpGT6) | [our future](https://open.spotify.com/album/54O5b1b2VKMu4fD0d72wp3) | 1:47 |
-| 285 | [Tincture](https://open.spotify.com/track/0PVBpQMGABZkOwl7Eoj5kj) | [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Tincture](https://open.spotify.com/album/1c1Pho3tVph8p5HAVQ24XE) | 2:56 |
-| 286 | [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 |
-| 287 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 |
-| 288 | [wheredidyougo](https://open.spotify.com/track/1IOyxXUpGlJFKlVOmtAYRn) | [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [shortstories](https://open.spotify.com/album/2Am9QrlMjX0QTnkAOayeeI) | 1:45 |
-| 289 | [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 |
-| 290 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
+| 272 | [The Protagonist](https://open.spotify.com/track/3191qXOHGBMGKCoBIjUz3A) | [TheDewk](https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ) | [The Protagonist](https://open.spotify.com/album/565aGEAex9BexExocJJMt4) | 1:37 |
+| 273 | [Kintsugi](https://open.spotify.com/track/5E3YYm8EmBn35w42VDj1fb) | [Third and Forever](https://open.spotify.com/artist/61ZLysh2sp3zFa23osGqBg) | [Third and Forever](https://open.spotify.com/album/07nMvYw3JrqK5832GuoFGD) | 2:20 |
+| 274 | [Super Film](https://open.spotify.com/track/7IQo63pHyV9TR9QS59TY4Q) | [Nizmar Ola](https://open.spotify.com/artist/7hoiEgMS78aEnIy44lmSwh) | [Catch Me Lofi](https://open.spotify.com/album/7JdNOgdGS6ve2x7caUpeKO) | 1:46 |
+| 275 | [Shinin'](https://open.spotify.com/track/2s7rlnKjJJ8b8UskCtZ7VQ) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Shinin'](https://open.spotify.com/album/2QjcsjYwpRoP0dRirJVc8Z) | 2:15 |
+| 276 | [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 |
+| 277 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 |
+| 278 | [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 |
+| 279 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 |
 
-Snapshot ID: `MCw5MDZmZjM1MGY2MjFiZmMzNDA4NTY2Yzk1NzcyMzRkNDIxMWQxOTM5`
+Snapshot ID: `MCw2MzZmNDI4ZWJlNTU2NDdiNmU1NmY5Njg1NDA4OGM2MDE2ZTFkYjU2`

@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-315 songs - 18 hr 8 min
+317 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 | 2022-02-11 |  |
 | [Black Betty](https://open.spotify.com/track/2erfXuZOAQ8T6FjJPDFpBC) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/3byyWn1AUHzGOjPSxh8uBN) | 3:09 | 2020-10-30 | 2022-07-29 |
 | [Black Betty](https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX) | 3:09 | 2020-10-30 |  |
+| [Black Coffee \- Electro Swing Mix](https://open.spotify.com/track/2JAYRs8g4Lp860x8Mla0a1) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Dominic Paul](https://open.spotify.com/artist/0vKjolXSMG8VhGkfcTT1Lb) | [Black Coffee \(Electro Swing Mix\)](https://open.spotify.com/album/4MigxHH0YAdHWZJML4A3jw) | 3:08 | 2023-09-15 |  |
 | [Black Swing](https://open.spotify.com/track/1A2CIDh8zIqey6CRfYY6Oo) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Black Swing](https://open.spotify.com/album/3Clc9pQvWIMdFAe6k9vbwP) | 3:18 | 2023-01-20 | 2023-04-01 |
 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt\. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 3:17 | 2020-10-30 | 2023-03-11 |
 | [Boring 20s](https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s](https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg) | 2:50 | 2022-05-13 |  |
@@ -104,6 +105,7 @@
 | [Heebie Jeebies](https://open.spotify.com/track/0b8wTV9QZigWhPRfU0Su08) | [Victor and the Bully](https://open.spotify.com/artist/5ajT35SkbTc7KuPydYYiDq) | [Embrace The Disgrace](https://open.spotify.com/album/7vUHlgwKFZOmthEZYIRmav) | 3:24 | 2022-10-12 | 2022-11-08 |
 | [Hep Cat Boogie](https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Kate Thomas](https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz) | [Vintage Vibes](https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp) | 3:22 | 2022-02-25 | 2023-03-11 |
 | [Hide & Seek](https://open.spotify.com/track/3pTQUwVDv8BiYktcZIAWjz) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Kitty Litter](https://open.spotify.com/album/50DkyzkH89wI4F96r1YqBN) | 3:31 | 2022-10-12 | 2022-11-08 |
+| [Higher and Higher](https://open.spotify.com/track/0o2y64jHIjh6eEaL5NsZlT) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ) | [Higher and Higher](https://open.spotify.com/album/1KZwYfUMPL5RtVJKLAdqyn) | 3:33 | 2023-09-15 |  |
 | [Higher Love](https://open.spotify.com/track/0HKfe28JBiCJChmtcYrgmO) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Higher Love](https://open.spotify.com/album/5Fhrd3KcpWFwWxCWNY0v0K) | 3:36 | 2020-10-30 | 2022-07-26 |
 | [Hit the Road Jack \- Tech House Mix](https://open.spotify.com/track/5fNIQLOnHUvmK0g2w6OgRm) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Dorade](https://open.spotify.com/artist/1IC32zAAG7hcdf8PGjjDNm), [Maskarade](https://open.spotify.com/artist/6xNIw26ydx4yTG1QJ5VZse) | [Hit the Road Jack \(Tech House Mix\)](https://open.spotify.com/album/4fBsTXzwLoKA5y6YMlefYe) | 2:51 | 2023-01-13 |  |
 | [Hold the Night](https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg) | [Lyre Le Temps](https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn) | [Lady Swing](https://open.spotify.com/album/1EWFmpi36vurwa8xRzye8E) | 4:20 | 2020-10-30 |  |

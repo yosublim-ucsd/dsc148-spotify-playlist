@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest rock playlist. Cover: Don Broco",
-  "num_followers": 585881,
+  "num_followers": 585879,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzhlMDVkYWM3ZjRjYjM4MGI3MGUzM2E0MGQwYWE1MThiMTg3Zjcy",
+  "snapshot_id": "MCxjZWU1MWY2ZDgwNmMyMjNkMDZiYjg2N2IwZDk4NmIwN2YwODVjZjRk",
   "tracks": [
     {
       "added_at": "2023-09-14 23:14:08",
@@ -157,6 +157,22 @@
       "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
+      "added_at": "2023-09-15 13:19:37",
+      "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 166405,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
+    },
+    {
       "added_at": "2023-09-14 23:14:08",
       "album": {
         "name": "Under You",
@@ -223,6 +239,22 @@
       "duration_ms": 170494,
       "name": "hot girls in hell",
       "url": "https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz"
+    },
+    {
+      "added_at": "2023-09-15 13:19:37",
+      "album": {
+        "name": "Stuck In a Car With You",
+        "url": "https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t"
+      },
+      "artists": [
+        {
+          "name": "Twin Atlantic",
+          "url": "https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9"
+        }
+      ],
+      "duration_ms": 239877,
+      "name": "Stuck In a Car With You",
+      "url": "https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp"
     },
     {
       "added_at": "2023-09-14 23:14:08",
@@ -599,22 +631,6 @@
       "duration_ms": 185060,
       "name": "Dream Big",
       "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
-    },
-    {
-      "added_at": "2023-09-14 23:14:08",
-      "album": {
-        "name": "The Maine",
-        "url": "https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 174290,
-      "name": "dose no. 2",
-      "url": "https://open.spotify.com/track/1oRTzF2rBqLGm1goxeflIm"
     },
     {
       "added_at": "2023-09-14 23:14:08",

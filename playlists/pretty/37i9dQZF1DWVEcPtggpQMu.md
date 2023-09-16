@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=J35d\_3daReSdxkzXsIzVkw">Nasty C</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,783 likes - 63 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,880 likes - 63 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Release Me](https://open.spotify.com/track/3TilxKqLPw1fOI1bu5Hua9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [I Love It Here](https://open.spotify.com/album/0H98jJ9v0BU34blx5YSfZy) | 2:44 |
 | 2 | [018](https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [018](https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1) | 3:15 |
-| 3 | [Prosper In Peace \(with Benny The Butcher\)](https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Prosper In Peace](https://open.spotify.com/album/6bZjEoMqtFYT8hXO3Fjr1m) | 3:32 |
-| 4 | [No Comment.](https://open.spotify.com/track/2ryyhrWGvoJ3HebeKqebSA) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn) | [No Comment.](https://open.spotify.com/album/5LmMEKzq3eXu1IDL3ZAI9M) | 2:22 |
-| 5 | [STECKE](https://open.spotify.com/track/4vrWndPBOnXg6Gx5DpL9eH) | [DJ Kaymoworld](https://open.spotify.com/artist/7y4x271U84CHr0SwMZug6y), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Caask Asid](https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl) | [STECKE](https://open.spotify.com/album/0w87muiZYauvfQXEKNwBMr) | 3:24 |
-| 6 | [BARKER HAINES](https://open.spotify.com/track/3VsKpmCGU3yLqn4SSnzSzt) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [MAGLERA DOE BOY](https://open.spotify.com/artist/50gnXpyd5RQPPbyilQLVKB), [MOCHEN](https://open.spotify.com/artist/2W342X5Hkpzt1JdUQhdZPo) | [PEOPLE FORGET TO BE PEOPLE](https://open.spotify.com/album/7Ahv4tX3pcBtuPP6kH6A6V) | 4:06 |
+| 3 | [No Comment.](https://open.spotify.com/track/2ryyhrWGvoJ3HebeKqebSA) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn) | [No Comment.](https://open.spotify.com/album/5LmMEKzq3eXu1IDL3ZAI9M) | 2:22 |
+| 4 | [STECKE](https://open.spotify.com/track/4vrWndPBOnXg6Gx5DpL9eH) | [DJ Kaymoworld](https://open.spotify.com/artist/7y4x271U84CHr0SwMZug6y), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Caask Asid](https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl) | [STECKE](https://open.spotify.com/album/0w87muiZYauvfQXEKNwBMr) | 3:24 |
+| 5 | [BARKER HAINES](https://open.spotify.com/track/3VsKpmCGU3yLqn4SSnzSzt) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [MAGLERA DOE BOY](https://open.spotify.com/artist/50gnXpyd5RQPPbyilQLVKB), [MOCHEN](https://open.spotify.com/artist/2W342X5Hkpzt1JdUQhdZPo) | [PEOPLE FORGET TO BE PEOPLE](https://open.spotify.com/album/7Ahv4tX3pcBtuPP6kH6A6V) | 4:06 |
+| 6 | [Prosper In Peace \(with Benny The Butcher\)](https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Prosper In Peace](https://open.spotify.com/album/6bZjEoMqtFYT8hXO3Fjr1m) | 3:32 |
 | 7 | [Adawise](https://open.spotify.com/track/2u9E7r2kQCQxCU0x7SqJXt) | [ZULO](https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp) | [Adawise](https://open.spotify.com/album/7wLpoVIC5jJPCiF1U74VB7) | 3:22 |
 | 8 | [Khaltsha \(feat\. YoungstaCPT\)](https://open.spotify.com/track/1KpE5cwxbBAnYig1pqygDV) | [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Khaltsha \(feat\. YoungstaCPT\)](https://open.spotify.com/album/1lwZVx3vYTIaXwdeIIWide) | 2:48 |
 | 9 | [Friends](https://open.spotify.com/track/2nhyCoUnpb9hea8f95iK4K) | [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Friends](https://open.spotify.com/album/6LGd6l4RhmR8hh99nPdLbK) | 3:18 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 62 | [Umntu](https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umntu](https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF) | 3:56 |
 | 63 | [THANK YOU JESUS](https://open.spotify.com/track/0CHrwFE4sBRp8t1y1aZ1dA) | [FLVME](https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r) | [THE LOST PACK:, Vol\. 1](https://open.spotify.com/album/3RFcqfqeIHjtQstdNcBbdF) | 1:46 |
 
-Snapshot ID: `MCxjN2IyY2M1YWVjM2MxZGJjODIzNmI0YzNhODU4NzZjZTlkOTIzNGUy`
+Snapshot ID: `MCwxMjZmM2ZhNjllZGY4ZjA4NWIyZmE2ODYyZmM2ZTMzODI1YWViNTk1`

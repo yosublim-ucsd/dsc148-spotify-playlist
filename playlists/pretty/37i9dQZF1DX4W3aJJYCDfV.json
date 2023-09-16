@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Corinne Bailey Rae (pictured), Chase & Status, Tate McRae and more!",
-  "num_followers": 838388,
+  "num_followers": 838654,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDhiNTMwODJkYjNjNGIxNWZlODRkNDBjZDZjMTMxNjlmZTQ2Mzcw",
+  "snapshot_id": "MCxhNTY2ZGJlY2YzMTVkMDA5M2JjNjJjZDc3OTIwMTZjYWQ5ZDQ3NzJi",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -173,6 +173,26 @@
       "url": "https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve"
     },
     {
+      "added_at": "2023-09-15 16:00:00",
+      "album": {
+        "name": "Slime You Out",
+        "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
+    {
       "added_at": "2023-09-14 23:00:00",
       "album": {
         "name": "When the Rain Comes",
@@ -200,20 +220,20 @@
           "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         },
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         },
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 286559,
-      "name": "Another One Of Me (feat. The Weeknd, 21 Savage and French Montana)",
+      "duration_ms": 220408,
+      "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
     },
     {
@@ -299,6 +319,22 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2023-09-15 08:20:50",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -399,6 +435,22 @@
       "duration_ms": 210173,
       "name": "Turn The World On",
       "url": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Bigger Houses",
+        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Neon Cowgirl",
+      "url": "https://open.spotify.com/track/4ktoN9vInbzJXXaSSlngng"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1091,6 +1143,26 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Back for More (with Anitta)",
+        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "Like A Tattoo",
         "url": "https://open.spotify.com/album/2UaT96Sd2dBECtupDDASAO"
       },
@@ -1168,7 +1240,7 @@
           "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
         }
       ],
-      "duration_ms": 167481,
+      "duration_ms": 167271,
       "name": "Body Groovin'",
       "url": "https://open.spotify.com/track/2KFZwkak8Co1SMmg4kUKon"
     },
@@ -1487,6 +1559,26 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 203345,
+      "name": "Turks & Caicos (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "foreal + love drugs",
         "url": "https://open.spotify.com/album/3EQ9cDNTsmjW5Dub3pYTwI"
       },
@@ -1560,7 +1652,7 @@
       "added_at": "2023-09-14 23:00:00",
       "album": {
         "name": "In Luv Wit U",
-        "url": "https://open.spotify.com/album/1hIL3ZLoOhbqe0xZXHu0wJ"
+        "url": "https://open.spotify.com/album/5I3bfBSCOz9S3yS29olNak"
       },
       "artists": [
         {
@@ -1570,7 +1662,7 @@
       ],
       "duration_ms": 229125,
       "name": "In Luv Wit U",
-      "url": "https://open.spotify.com/track/33NyqLTPjJvHQftSiqgRpX"
+      "url": "https://open.spotify.com/track/1H83tcv7oAEnIXbs2K6A37"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1720,7 +1812,7 @@
           "url": "https://open.spotify.com/artist/2yPprAQlrIQWu60g09B9MZ"
         }
       ],
-      "duration_ms": 160733,
+      "duration_ms": 154686,
       "name": "Take Time",
       "url": "https://open.spotify.com/track/4sbR4X2AdAhnmlMq95ZbnY"
     },
@@ -1807,6 +1899,26 @@
       "duration_ms": 141911,
       "name": "Gimme A Reason",
       "url": "https://open.spotify.com/track/2LF0sofKzFt4D46JdNwsC0"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "problems (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/79lTZVUHdaqLkj814XzZxw"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "problems (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/6KpF6zZId94bNg4zoz5mIa"
     },
     {
       "added_at": "2023-09-14 23:00:00",

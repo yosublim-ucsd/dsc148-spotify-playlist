@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-279 songs - 13 hr 38 min
+280 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2021-11-11 | 2022-09-02 |
 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 | 2021-11-11 | 2022-05-11 |
 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2021-11-11 | 2022-04-15 |
+| [Junior year](https://open.spotify.com/track/6GNE6gOgeSwJFLzbgLmpUm) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Junior year](https://open.spotify.com/album/4yDolhmaOvIpqyetVIURhr) | 2:54 | 2023-09-15 |  |
 | [Kangae](https://open.spotify.com/track/1lqMh8PS5cZFpcChWLNhv4) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kangae](https://open.spotify.com/album/4ci7zUYPfNjcAKkWLGqTNw) | 2:57 | 2022-10-07 |  |
 | [Keep Keepin On](https://open.spotify.com/track/3n7zfj79mavt7QnjuTw2QQ) | [Calitto](https://open.spotify.com/artist/0sUKrTh4bykVgGFl67aau5) | [Keep Keepin On](https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q) | 3:27 | 2021-11-11 |  |
 | [Kensha](https://open.spotify.com/track/6isZ8qcVpPNlQxog5JQb6u) | [Bongrand](https://open.spotify.com/artist/2spEkQyK7tE3HEJSFKQu4j) | [Kensha](https://open.spotify.com/album/25QAXkWVmgwzGWo5H6L7p4) | 2:55 | 2022-09-02 |  |

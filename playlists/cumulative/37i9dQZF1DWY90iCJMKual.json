@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "4:AM",
+        "url": "https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo"
+      },
+      "artists": [
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "4:AM",
+      "url": "https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn"
+    },
+    {
+      "album": {
         "name": "4ever",
         "url": "https://open.spotify.com/album/2Hhyis0MdNzUCWd4fnnMIR"
       },
@@ -674,7 +692,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 210309,
       "name": "Fight or Flight",
       "url": "https://open.spotify.com/track/1JTjcIK0OOwopIWkWfKUw2"
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 211206,
       "name": "LDR",
       "url": "https://open.spotify.com/track/6Hc5L8x8AbFkFwwqdTvfoj"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 252214,
       "name": "o ninanais",
       "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
@@ -2928,6 +2946,24 @@
       "duration_ms": 214285,
       "name": "WHO AM I TO YOU",
       "url": "https://open.spotify.com/track/29g22zgl7BL9P7LJV0yqUp"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/2Wu7hLFHalklYvHDIiTPoZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Mac",
+          "url": "https://open.spotify.com/artist/0xUzRd8sfsuuDvgzYAUXlF"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231139,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/4v0gAyFjpWihZwbT8A48BR"
     },
     {
       "album": {

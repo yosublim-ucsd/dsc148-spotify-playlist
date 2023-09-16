@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw"
+      },
+      "artists": [
+        {
+          "name": "Demo Ricch",
+          "url": "https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK"
+    },
+    {
+      "album": {
         "name": "BUDDHA",
         "url": "https://open.spotify.com/album/4cWHdccz65gTtAY4eXHu5N"
       },
@@ -434,7 +452,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 230186,
       "name": "Dala wat jy moet - Radio Edit",
       "url": "https://open.spotify.com/track/4e3bju60JhI6KWRTsagoAB"
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 183062,
       "name": "There It Is",
       "url": "https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS"
@@ -2068,6 +2086,28 @@
       "duration_ms": 117894,
       "name": "Wie",
       "url": "https://open.spotify.com/track/0O8LcMl314edgLVPCnT9OZ"
+    },
+    {
+      "album": {
+        "name": "wies djy",
+        "url": "https://open.spotify.com/album/3bykGAOg691F7FDEDWroxS"
+      },
+      "artists": [
+        {
+          "name": "Niello",
+          "url": "https://open.spotify.com/artist/5Jpoo4DrC5ALCK4pFjK69t"
+        },
+        {
+          "name": "arjay",
+          "url": "https://open.spotify.com/artist/12yz6aI7XIu1D6T3FxBLlZ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "wies djy",
+      "url": "https://open.spotify.com/track/6REk3z1Zf5zgfSqEtmje8e"
     },
     {
       "album": {

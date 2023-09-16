@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Killin' Me Good (English Ver.)",
+        "url": "https://open.spotify.com/album/3FZTxJrmuObG7HCgQe9acb"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "Killin' Me Good (English Ver.)",
+      "url": "https://open.spotify.com/track/0t5Q16hVryXI4CKx8VpA66"
+    },
+    {
+      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -3072,6 +3090,28 @@
       "duration_ms": 177466,
       "name": "Talk that Talk",
       "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+    },
+    {
+      "album": {
+        "name": "Killin' Me Good (English Ver.)",
+        "url": "https://open.spotify.com/album/3FZTxJrmuObG7HCgQe9acb"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170626,
+      "name": "Talkin\u2019 About It (Feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/0EUJ10QWM7iYYyHt2Bf0DI"
     },
     {
       "album": {

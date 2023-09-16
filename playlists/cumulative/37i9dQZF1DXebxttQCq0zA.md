@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-351 songs - 18 hr 0 min
+352 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Stillness](https://open.spotify.com/track/6oVsQtNZKr5LjNRPSOprTr) | [Leny Bhoelai](https://open.spotify.com/artist/1b8ShuRcCfZswFuIjEWsvS) | [Stillness](https://open.spotify.com/album/1Pl1k6Mkk5NVWy1BLzCi7H) | 3:31 | 2022-05-25 |  |
 | [Strewn Across](https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Strewn Across](https://open.spotify.com/album/4kmgmdpvu4blESSHvIV5we) | 2:36 | 2022-05-25 |  |
 | [Submerged](https://open.spotify.com/track/6Ldcbpyvgs11PgWMcjeqmW) | [Rizzolo](https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO) | [Submerged](https://open.spotify.com/album/6AS1ccXorg5PEKALw5wttV) | 3:17 | 2023-08-24 |  |
+| [Super Moon](https://open.spotify.com/track/2RhkqYZSsC2MGHvWNf05oa) | [Europa Falls](https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz) | [Super Moon](https://open.spotify.com/album/3VsiFFZNCC0bn6vg2gHSGO) | 3:02 | 2023-09-15 |  |
 | [Swallows](https://open.spotify.com/track/7AmUyc926ukQr9yzOpmFEG) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Swallows](https://open.spotify.com/album/1hKqfjKLmi6BjUGSzfuLwG) | 2:45 | 2022-05-25 | 2022-09-28 |
 | [Sway Me Away](https://open.spotify.com/track/5WoT7gc0ZRAFml3B2k7ZlC) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Sway Me Away](https://open.spotify.com/album/6jrZpHY37Ck2f2X4t0NIKp) | 2:13 | 2022-05-25 |  |
 | [Sylarna](https://open.spotify.com/track/3qbZGh0o76ZCq2dI32cF9o) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 4:04 | 2022-05-25 | 2022-09-28 |

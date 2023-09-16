@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-868 songs - 1 day 15 hr 25 min
+870 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [eastside](https://open.spotify.com/track/2KugH3Idz56J6bz32twprA) | [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4) | [eastside](https://open.spotify.com/album/5yQZEBelT182o1mpVJvAzD) | 4:13 | 2022-05-18 | 2022-05-20 |
 | [ELEDUMARE](https://open.spotify.com/track/0mmxiIiHxdi1egcrRJuqON) | [Gee Baller](https://open.spotify.com/artist/670MGZkS4Rzkpl2IR9EQSx) | [ROAD TO THE CODE](https://open.spotify.com/album/4rcIyORvO9dFfWkQtahLuO) | 2:12 | 2021-11-26 | 2022-04-17 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-02-07 | 2022-03-13 |
+| [EMOJI](https://open.spotify.com/track/1KFXQEYaDjNDwgHSG2rqFa) | [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [EMOJI](https://open.spotify.com/album/2X4nnFNUTReSUy8okcYYAE) | 2:50 | 2023-09-15 |  |
 | [emotions](https://open.spotify.com/track/5ls62WNKHUUrdF3r1cv83T) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [nothings ever good enough](https://open.spotify.com/album/5UHC2JN3ck4XPYPjngia2G) | 2:11 | 2022-06-24 |  |
 | [Emotions](https://open.spotify.com/track/6V7RtcUxs1iLhI5L42EQO6) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Emotions](https://open.spotify.com/album/66LXcvwn4jiLuur2Uw27Q4) | 2:45 | 2021-03-14 | 2022-04-21 |
 | [Empty Room](https://open.spotify.com/track/4c9opTcbXuZ8DAbdVF8Kya) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club](https://open.spotify.com/album/2nGlHs1tylkU5Wv8SgVZv9) | 2:04 | 2021-01-30 | 2021-04-24 |
@@ -594,6 +595,7 @@
 | [Pretty Little Lies](https://open.spotify.com/track/7gdfaTcd6SaD4yKtY6YYtl) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [Pretty Little Lies](https://open.spotify.com/album/5fRLV1gIVzVxKQ2LUF6tlf) | 2:22 | 2021-08-07 | 2022-06-22 |
 | [PRIMADONA](https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [PRIMADONA](https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf) | 1:54 | 2020-12-13\* |  |
 | [problems](https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime, it's good for u](https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa) | 2:48 | 2021-07-10 | 2022-07-28 |
+| [problems \(feat\. Trippie Redd\)](https://open.spotify.com/track/6KpF6zZId94bNg4zoz5mIa) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [problems \(feat\. Trippie Redd\)](https://open.spotify.com/album/79lTZVUHdaqLkj814XzZxw) | 2:32 | 2023-09-15 |  |
 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2021-06-25 | 2022-04-20 |
 | [Promises](https://open.spotify.com/track/2h4xaIcu1FHTEsvXFaXRz1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Promises](https://open.spotify.com/album/6bHxfCiCr8yl4ekvmiqKd8) | 2:37 | 2020-12-13\* | 2021-06-19 |
 | [Proud Of Myself](https://open.spotify.com/track/2P75W2mfYc9nRgUMPQnaWL) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Heart of Gold](https://open.spotify.com/album/3Wjov3XmeymLtwF6Euka6o) | 1:49 | 2023-04-12 |  |

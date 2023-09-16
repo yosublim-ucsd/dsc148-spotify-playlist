@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "The Bowie Years: Edits + Out-Takes",
+        "url": "https://open.spotify.com/album/15yJJuL2foCDTV9FDYSher"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313333,
+      "name": "China Girl - Alternative Mix",
+      "url": "https://open.spotify.com/track/1K4Sp1OLeqpSJ2J1yheq3Z"
+    },
+    {
+      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -380,6 +398,24 @@
       "duration_ms": 210240,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
+    },
+    {
+      "album": {
+        "name": "Climber (Demo)",
+        "url": "https://open.spotify.com/album/2SY1gA9CauKUlABy2UjWGm"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193294,
+      "name": "Climber - Demo",
+      "url": "https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow"
     },
     {
       "album": {
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 200066,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cOyhnhy13lc5G5nr4EF0q"
@@ -1582,7 +1618,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"

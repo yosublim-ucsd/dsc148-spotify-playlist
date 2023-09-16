@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2010s. Cover: Keane",
-  "num_followers": 102929,
+  "num_followers": 103018,
   "original_name": "10s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzQ0NzAzYzU5MzJhNzU4NDBhZjY1OTMzYmY3MGM1NWM5MzA0YjRi",
+  "snapshot_id": "MCwwMDQwNjJhZTExNDU0MTg5YjQ5MmUxNjYxNTgwMGMyMTljZDI4MzM1",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Glasgow",
-      "url": "https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Strangeland (Deluxe Version)",
         "url": "https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 196466,
       "name": "Silenced By The Night",
       "url": "https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 301613,
-      "name": "Slow And Steady",
-      "url": "https://open.spotify.com/track/3raHUAfQyQ7Gv8yK62AVhV"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 259252,
       "name": "Zombie - Acoustic",
       "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 301613,
+      "name": "Slow And Steady",
+      "url": "https://open.spotify.com/track/3raHUAfQyQ7Gv8yK62AVhV"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Transmissions",
-        "url": "https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh"
-      },
-      "artists": [
-        {
-          "name": "Throw The Fight",
-          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
-        }
-      ],
-      "duration_ms": 255750,
-      "name": "Passing Ships",
-      "url": "https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 283946,
       "name": "Sloom",
       "url": "https://open.spotify.com/track/6xFxmcebq5XphN0WoxNLgp"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "duration_ms": 255750,
+      "name": "Passing Ships",
+      "url": "https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N"
     },
     {
       "added_at": "2023-01-11 18:02:14",

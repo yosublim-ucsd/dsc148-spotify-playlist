@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Alaclair Ensemble
+> Le meilleur du hip\-hop québécois\. Photo: Souldia
 
-470 songs - 23 hr 56 min
+471 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Gang Way](https://open.spotify.com/track/5vYxSytIrSRhaNmo2Z94GY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Non coupable](https://open.spotify.com/album/39xwcDfx2MPBAVHYA6ivtu) | 3:24 | 2022-01-07 | 2022-06-18 |
 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 | 2022-01-07 | 2022-07-23 |
 | [Gaz au fond](https://open.spotify.com/track/3ahYEYoP0voboULlwJH8Fx) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Dixque d'art](https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS) | 4:34 | 2022-04-15 | 2023-01-28 |
-| [Get Away](https://open.spotify.com/track/1G7UMtgnYaE76qqDekIGV4) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_BLEU](https://open.spotify.com/album/6RUw0gpht5CnZnuQEvy1Im) | 3:24 | 2023-06-16 |  |
+| [Get Away](https://open.spotify.com/track/1G7UMtgnYaE76qqDekIGV4) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_BLEU](https://open.spotify.com/album/6RUw0gpht5CnZnuQEvy1Im) | 3:24 | 2023-06-16 | 2023-09-16 |
 | [Get that Thang](https://open.spotify.com/track/0mgVIOwMXlEKfCZ7W3vtt9) | [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Get that Thang](https://open.spotify.com/album/6b99vKjwOnTWLRHMuHsesG) | 1:52 | 2023-03-10 | 2023-07-15 |
 | [Ghini](https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Ghini](https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu) | 2:29 | 2023-03-10 | 2023-07-08 |
 | [GMM](https://open.spotify.com/track/11k61hv8iYNiOORNBR1AlH) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [GMM](https://open.spotify.com/album/533UTz0dq2rUvEXVjNMOhs) | 2:26 | 2023-05-12 | 2023-06-03 |
@@ -382,6 +382,7 @@
 | [Rien de moins](https://open.spotify.com/track/5o2DRtfBYlufpEgKrVJewh) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Rien de moins](https://open.spotify.com/album/29zusoGlreGGCT2f5wrjUG) | 2:54 | 2022-03-18 | 2022-05-20 |
 | [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 |  |
 | [Ring 3x](https://open.spotify.com/track/6w8joIVK7Bh4vD3QFq0959) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Ring 3x](https://open.spotify.com/album/16SrMJEC3LX9OJ3xZTbNCG) | 2:44 | 2022-09-02 | 2022-10-01 |
+| [RING RING](https://open.spotify.com/track/6Ya5EWkJfiCdwzEnl2K1kk) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_ROSE](https://open.spotify.com/album/58fzZ8IZk3JZbxKcVeUZbk) | 2:08 | 2023-09-15 |  |
 | [Risque](https://open.spotify.com/track/4jH3ztl0lHmltux05WwZTy) | [Jeekay](https://open.spotify.com/artist/38POyyW13rAIhFtElJXFwJ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Risque](https://open.spotify.com/album/3fUq3cuqBk7NPJROi9XzHo) | 3:03 | 2022-05-13 | 2022-11-26 |
 | [Risques & Hustle](https://open.spotify.com/track/7nuQktBOm9j5mRox45CRKu) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Toujours pas mort \- E.P.](https://open.spotify.com/album/5Nr5o553FALmH6SQLmGCCe) | 3:47 | 2023-06-16 |  |
 | [Risqué](https://open.spotify.com/track/5jtT4TQqdgBUTHuM9zPuAr) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Risqué](https://open.spotify.com/album/4NCssbQeT9blbPPK05AYX5) | 2:39 | 2022-05-20 | 2022-12-24 |

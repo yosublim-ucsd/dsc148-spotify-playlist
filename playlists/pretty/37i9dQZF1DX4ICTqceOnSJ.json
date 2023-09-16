@@ -1,13 +1,33 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422397,
+  "num_followers": 422401,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDQ2MmI1ZTNkZDAyNWJlYjRkNGVmZmUyOGZjNTQ2YWVmMjY2MGJk",
+  "snapshot_id": "MCw4MmIwZGZlZDhkZDdhMWZlNDZiMWVhY2ZlMjcyYWRjODE1YjY5NGE1",
   "tracks": [
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "RAWR",
+        "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 158966,
+      "name": "PAYDAY",
+      "url": "https://open.spotify.com/track/4XvtZdrlqPZ1H0Y7dV6RRL"
+    },
     {
       "added_at": "2023-09-14 03:00:00",
       "album": {
@@ -895,22 +915,6 @@
       "duration_ms": 172725,
       "name": "El Plan Mayor",
       "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
-    },
-    {
-      "added_at": "2023-08-20 03:00:00",
-      "album": {
-        "name": "El Final de Las Cosas",
-        "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Arte Arte Arte",
-      "url": "https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

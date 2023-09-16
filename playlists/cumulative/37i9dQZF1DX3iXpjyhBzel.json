@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 354257,
       "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6B1a0TxKkb0YBbs3pIUxWi"
@@ -3780,6 +3780,28 @@
       "duration_ms": 418698,
       "name": "Vem Me Buscar - Ao Vivo",
       "url": "https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl"
+    },
+    {
+      "album": {
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2EgB2hkSzkIb1hl6ukjXgA"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258109,
+      "name": "Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/5BRY9EOYsV2TtB8qm43GHf"
     },
     {
       "album": {

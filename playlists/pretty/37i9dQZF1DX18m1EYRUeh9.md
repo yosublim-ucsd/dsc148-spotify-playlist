@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth joints from around the globe
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,624 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,863 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 17 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 |
 | 18 | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [I Need Therapy 2.4 \(alt\_demo\)](https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05) | 2:06 |
 | 19 | [Coming Back](https://open.spotify.com/track/2oZJ4OZOP7DHMdSrpx4fwq) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:21 |
-| 20 | [Some Of Us Are Brave \(Georgia Anne Muldrow's Geemix\)](https://open.spotify.com/track/0kVJEG5pdADLbeyEabOyYi) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/5YZgQjRn0dTBZDKBFhokgA) | 2:53 |
+| 20 | [Some Of Us Are Brave \(Georgia Anne Muldrow's Geemix\)](https://open.spotify.com/track/67xeUEYZOxGcrjsjvs1mxG) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK) | 2:53 |
 | 21 | [DIRT!](https://open.spotify.com/track/4EW0bDoXwk7CTK58TQr3vh) | [Chilli Reid](https://open.spotify.com/artist/3C7A4kRtGnreTMKyW7JFGf), [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2) | [DIRT!](https://open.spotify.com/album/4SOtb7PjjC6NvGweQkKCZF) | 3:51 |
 | 22 | [meek // flip](https://open.spotify.com/track/0nEPmXlrxnugrEdJQxc2L2) | [Jetson](https://open.spotify.com/artist/2bkf2PmiVyfCqg2uzIFIqJ) | [meek // flip](https://open.spotify.com/album/4Y472pfv0bIB7IMfjpqI36) | 1:19 |
 | 23 | [Thoughtless Feeling](https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk) | [Bloomhaus](https://open.spotify.com/artist/0YlHl0Fe4sUrNKM5U1pTKb) | [Thoughtless Feeling](https://open.spotify.com/album/6OqwBX07u1gDecyoxkmL4Z) | 4:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 79 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 80 | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/track/4ptwKUD9Tsbi5Tz5MVehvy) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/album/5ZGQes5uklrLNQvwUxVBhN) | 4:42 |
 
-Snapshot ID: `MCwyM2IzNDAwYzgzMjFmOGUzZDhmNDMxZjgyNzhkOWNkOTllMDc4MzQ5`
+Snapshot ID: `MCw4YjNlZDdkZWM2N2FiNjBhNDIxMmZiYjE0YTA2NzIwYzUyYmE5ZGYw`

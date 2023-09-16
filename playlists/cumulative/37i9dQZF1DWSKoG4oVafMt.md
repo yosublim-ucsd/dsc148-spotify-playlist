@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-779 songs - 1 day 18 hr 18 min
+780 songs - 1 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,8 @@
 | [Nikaah](https://open.spotify.com/track/7JWXRlnVMEyWc82ZpBusj8) | [Ipsitaa](https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Nikaah](https://open.spotify.com/album/1fmxvtOcXQGakPho77JrJe) | 2:22 | 2022-08-19 | 2022-09-01 |
 | [Nikke Nikke Chaa](https://open.spotify.com/track/6uPemGQUbxNIeBKKgbveXK) | [Khushi Pandher](https://open.spotify.com/artist/6JgrVNpfoFwE3imEDPrzqJ) | [Nikke Nikke Chaa](https://open.spotify.com/album/2yWvNW53jxW9TTt4wSXyBT) | 2:54 | 2022-10-26 |  |
 | [Nikki Bindi](https://open.spotify.com/track/52thul1E3Oa72G8MMzcb6Z) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nikki Bindi](https://open.spotify.com/album/1AYMW3qoaAOlkakEPBNuJi) | 3:16 | 2022-05-04 | 2022-05-11 |
-| [Nikki Nikki Gall](https://open.spotify.com/track/5agAgnkQhRu7Kk5DJUBSwk) | [Gill Armaan](https://open.spotify.com/artist/185mLK0dEN6C4lbMADRODF) | [Nikki Nikki Gall](https://open.spotify.com/album/4hGAjzQsnLCBnXDddOjOdD) | 2:52 | 2022-12-23 |  |
+| [Nikki Nikki Gall](https://open.spotify.com/track/3HD1fGk7heFludAdtnFZWX) | [Gill Armaan](https://open.spotify.com/artist/185mLK0dEN6C4lbMADRODF) | [Nikki Nikki Gall](https://open.spotify.com/album/4otWE7jQZhFg2SnXbXJyaJ) | 2:52 | 2023-09-12 |  |
+| [Nikki Nikki Gall](https://open.spotify.com/track/5agAgnkQhRu7Kk5DJUBSwk) | [Gill Armaan](https://open.spotify.com/artist/185mLK0dEN6C4lbMADRODF) | [Nikki Nikki Gall](https://open.spotify.com/album/4hGAjzQsnLCBnXDddOjOdD) | 2:52 | 2022-12-23 | 2023-09-16 |
 | [Nikli Koi Gal](https://open.spotify.com/track/4KI12oenFEKhUZ2BDk9fxp) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Nikli Koi Gal](https://open.spotify.com/album/6bA1S4Psg6X0Ug8RJpAsPN) | 2:50 | 2022-11-11 | 2023-02-02 |
 | [Nimm Thalle](https://open.spotify.com/track/1t0Kt7JeVFRgrCqwdsca8d) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Nimm Thalle](https://open.spotify.com/album/6AMmCNpdB7SrNOsOk7AATv) | 3:00 | 2023-08-30 |  |
 | [No Flex](https://open.spotify.com/track/2WtW8vJmsvAubR7caT1m95) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [VIP](https://open.spotify.com/album/6rzd1ct61FJBCt9YkyJ8L3) | 3:03 | 2022-09-06 | 2022-09-23 |

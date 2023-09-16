@@ -4,7 +4,7 @@
 
 > Smooth joints from around the globe
 
-128 songs - 8 hr 33 min
+129 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Sirena Deep](https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sirena Deep](https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl) | 5:41 | 2023-08-17 |  |
 | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9) | 3:18 | 2023-08-10 | 2023-09-01 |
 | [Smile \- Sensible J Remix](https://open.spotify.com/track/1pzIC0OPepB5tp94bxYMt0) | [Izy](https://open.spotify.com/artist/79aQimb3liMvrff1f9Rn3F), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U) | [Irene \- Remixes, Vol\. 2](https://open.spotify.com/album/3PZZcactK809TgihvKQ0UQ) | 2:40 | 2023-08-10 |  |
-| [Some Of Us Are Brave \(Georgia Anne Muldrow's Geemix\)](https://open.spotify.com/track/0kVJEG5pdADLbeyEabOyYi) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/5YZgQjRn0dTBZDKBFhokgA) | 2:53 | 2023-09-14 |  |
+| [Some Of Us Are Brave \(Georgia Anne Muldrow's Geemix\)](https://open.spotify.com/track/0kVJEG5pdADLbeyEabOyYi) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/5YZgQjRn0dTBZDKBFhokgA) | 2:53 | 2023-09-14 | 2023-09-16 |
+| [Some Of Us Are Brave \(Georgia Anne Muldrow's Geemix\)](https://open.spotify.com/track/67xeUEYZOxGcrjsjvs1mxG) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK) | 2:53 | 2023-09-14 |  |
 | [Soon We'll Make It](https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Soon We'll Make It](https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL) | 2:19 | 2023-08-31 |  |
 | [Spin Cycle](https://open.spotify.com/track/7EpC6cPzTPMTvx48uZUdZp) | [Joshua Moshe](https://open.spotify.com/artist/2s9dRHHl4Djtu9BTPnfG8e), [Cazeux O.S.L.O](https://open.spotify.com/artist/3DDfeEQnK8m0rNdimIkgNS) | [Spin Cycle](https://open.spotify.com/album/4VOnuPVO8GGwjpkSJh1pNe) | 4:35 | 2023-08-10 |  |
 | [Stay Soft](https://open.spotify.com/track/5oHTLHLHVbuVK5YY1yO3rt) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Softboi](https://open.spotify.com/album/17d8Xd8QtMjXSCDb4pb5t1) | 3:19 | 2023-09-07 |  |

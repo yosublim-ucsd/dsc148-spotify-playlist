@@ -830,7 +830,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 192689,
       "name": "Dramatic",
       "url": "https://open.spotify.com/track/0fzNbspDae66MSdL8fR1kC"
@@ -2222,6 +2222,32 @@
       "duration_ms": 174746,
       "name": "Revolting Children",
       "url": "https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt"
+    },
+    {
+      "album": {
+        "name": "Rhythm Of My Heart (From \"Pacemaker\") [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1fVZYc7OXYxaIsyplldD3i"
+      },
+      "artists": [
+        {
+          "name": "Philip Lawrence",
+          "url": "https://open.spotify.com/artist/45wuKcOpGlFuFWdWuBFfkO"
+        },
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        },
+        {
+          "name": "Christopher Lennertz",
+          "url": "https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182980,
+      "name": "Rhythm Of My Heart (From \"Pacemaker\") [Original Soundtrack]",
+      "url": "https://open.spotify.com/track/5cAiboYMkTsZKJFFShGVf7"
     },
     {
       "album": {

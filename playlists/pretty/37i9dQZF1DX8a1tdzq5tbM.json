@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1406273,
+  "num_followers": 1406613,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz",
+  "snapshot_id": "MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Playing In The Shadows",
-        "url": "https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN"
-      },
-      "artists": [
-        {
-          "name": "Example",
-          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Changed the Way You Kiss Me - Radio Edit",
-      "url": "https://open.spotify.com/track/1PAYgOjp1c9rrZ2kVQg2vN"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 199386,
       "name": "Love Is Gone - Fred Riester & Joachim Garraud Radio Edit Remix",
       "url": "https://open.spotify.com/track/2MGRnjJc7C0z3EOEWRqcMw"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Playing In The Shadows",
+        "url": "https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN"
+      },
+      "artists": [
+        {
+          "name": "Example",
+          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Changed the Way You Kiss Me - Radio Edit",
+      "url": "https://open.spotify.com/track/1PAYgOjp1c9rrZ2kVQg2vN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "When Love Takes Over (feat. Kelly Rowland)",
+      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Heartbroken",
         "url": "https://open.spotify.com/album/5zS1u2oihFYN3jXgKh5lAC"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 190426,
       "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
       "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "When Love Takes Over (feat. Kelly Rowland)",
-      "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Exploration of Space",
-        "url": "https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Exploration of Space",
-      "url": "https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Exploration of Space",
+        "url": "https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Exploration of Space",
+      "url": "https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Don't Call Me Baby",
         "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
       },
@@ -723,26 +723,6 @@
       "duration_ms": 228140,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Western Dream",
-        "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 401360,
-      "name": "World, Hold On",
-      "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -767,6 +747,26 @@
       "duration_ms": 208026,
       "name": "Baby When the Light (feat. Cozi)",
       "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Western Dream",
+        "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 401360,
+      "name": "World, Hold On",
+      "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Missing (Remixes)",
-        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Missing - Todd Terry Remix Radio Edit",
-      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Missing (Remixes)",
+        "url": "https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Missing - Todd Terry Remix Radio Edit",
+      "url": "https://open.spotify.com/track/7HWyA12GJhcn866OJ0QHkt"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Underlying Feeling",
+        "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Tosun",
+          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "Underlying Feeling - Adam K & Soha Radio Edit",
+      "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
         "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 189388,
       "name": "Believer (feat. Wynter Gordon) - Radio Edit",
       "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Underlying Feeling",
-        "url": "https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Tosun",
-          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Underlying Feeling - Adam K & Soha Radio Edit",
-      "url": "https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Army Of Two",
-        "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
-      },
-      "artists": [
-        {
-          "name": "UMEK",
-          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
-        },
-        {
-          "name": "Beltek",
-          "url": "https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Army Of Two - Radio Version",
-      "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "50 Trance Tunes, Vol. 28",
         "url": "https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 189066,
       "name": "Tracking Treasure Down",
       "url": "https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Army Of Two",
+        "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
+      },
+      "artists": [
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
+        },
+        {
+          "name": "Beltek",
+          "url": "https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Army Of Two - Radio Version",
+      "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Every Word",
-        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
-      },
-      "artists": [
-        {
-          "name": "Ercola",
-          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
-        },
-        {
-          "name": "Daniella",
-          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
-      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Worldwide Dance Hits",
         "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 217500,
       "name": "Another Place",
       "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Every Word",
+        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
+      },
+      "artists": [
+        {
+          "name": "Ercola",
+          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
+        },
+        {
+          "name": "Daniella",
+          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
+      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 438013,
       "name": "Body Language - Original Mix",
       "url": "https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
-      },
-      "artists": [
-        {
-          "name": "Kim Leoni",
-          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "I Found U",
         "url": "https://open.spotify.com/album/1WoQtItFeo0FGesGkDHDv8"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 171692,
       "name": "I Found U - Remode Radio Edit",
       "url": "https://open.spotify.com/track/4brtBQaAKwan97CyLNIG6t"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
+      },
+      "artists": [
+        {
+          "name": "Kim Leoni",
+          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
     },
     {
       "added_at": "2023-03-22 14:00:00",

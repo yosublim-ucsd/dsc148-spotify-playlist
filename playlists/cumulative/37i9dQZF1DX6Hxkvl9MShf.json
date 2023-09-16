@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Deep Breaths",
+        "url": "https://open.spotify.com/album/4Wcwbs5TobD4hmI6PG4QuJ"
+      },
+      "artists": [
+        {
+          "name": "ysurgi",
+          "url": "https://open.spotify.com/artist/19hEr5cdWJEUO9p9aNk6lk"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156622,
+      "name": "Deep Breaths",
+      "url": "https://open.spotify.com/track/76CZ2QsN9I65OgsUHICRRg"
+    },
+    {
+      "album": {
         "name": "Deeper Spheres",
         "url": "https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl"
       },

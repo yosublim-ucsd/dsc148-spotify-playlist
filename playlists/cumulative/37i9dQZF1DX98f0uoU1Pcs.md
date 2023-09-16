@@ -2,9 +2,9 @@
 
 ### [Noisy](https://open.spotify.com/playlist/37i9dQZF1DX98f0uoU1Pcs)
 
-> The perfect mix of Punk, Rock, Alt & Indie\. Cover: Be Your Own Pet
+> The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-544 songs - 1 day 5 hr 32 min
+548 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Best Of Friends](https://open.spotify.com/track/3pZZrFZEN1pcOUiPGDqcjd) | [Palma Violets](https://open.spotify.com/artist/3sVKVwY8TD445BiC6Q4B43) | [Best Of Friends/Last of the Summer Wine](https://open.spotify.com/album/0OZlVkU18tdzL0NDZLXKaw) | 3:32 | 2021-10-07 | 2022-03-12 |
 | [Bet My Blood](https://open.spotify.com/track/1VkDsso47HItKLQh98kGfL) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Bet My Blood](https://open.spotify.com/album/6G5IHNBlR3Ac0fSRwUgFFn) | 2:59 | 2021-10-07 | 2022-02-22 |
 | [Better Each Day](https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Better Each Day](https://open.spotify.com/album/35XWKWnRUNK5w3ievzNtPc) | 3:04 | 2022-02-25 | 2023-04-15 |
+| [Big Air](https://open.spotify.com/track/4Lg9g0vN4guToh7068wPtT) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Big Air](https://open.spotify.com/album/0cB3kmKZuRiz1UvvNb7r7B) | 3:26 | 2023-09-15 |  |
 | [Big Bad!](https://open.spotify.com/track/1OsQOPV4671B3MmJIuoeNg) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Big Bad!](https://open.spotify.com/album/0vygUxLK7ltBvtD4O0xzYh) | 2:11 | 2022-08-05 | 2023-04-15 |
 | [Big Bite](https://open.spotify.com/track/16ThVjXmR8yTDihJ5g70r4) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Big Bite](https://open.spotify.com/album/0TCf57rej2wShcUzX91XOK) | 2:21 | 2021-10-07 | 2022-02-01 |
 | [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 | 2021-10-07 | 2022-02-26 |
@@ -105,6 +106,7 @@
 | [Crawl!](https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU) | 4:20 | 2021-11-12 | 2022-07-29 |
 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 | 2022-07-08 | 2023-04-15 |
 | [Criminal Nah](https://open.spotify.com/track/03861A0DheRnNMgTnD1bT3) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Criminal Nah](https://open.spotify.com/album/3dYbpYSo9QSBVstX4ZJtXo) | 2:03 | 2022-02-11 | 2022-07-09 |
+| [Crush](https://open.spotify.com/track/2fGrNRKLkWJqGuzEST3pYX) | [Blush](https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW) | [Crush](https://open.spotify.com/album/0QkcgSGcNz3p0DocnmvCUR) | 4:46 | 2023-09-15 |  |
 | [DAEMON](https://open.spotify.com/track/6z2vZ2TyVT2jeCm7sxuDPU) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [DAEMON](https://open.spotify.com/album/1ZzmlC1ZtshIf4OgTmuEwY) | 2:46 | 2022-03-11 | 2023-04-15 |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:09 | 2022-08-26 | 2023-08-26 |
 | [Dancing, Alone](https://open.spotify.com/track/0RO0CjcQhTGoQsmHybVRx7) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Dancing, Alone](https://open.spotify.com/album/2VXleQVQpNyoFjYIDrW9G6) | 4:05 | 2023-04-07 |  |
@@ -218,7 +220,7 @@
 | [Heavy Heart \- Edit](https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 3:46 | 2022-03-11 | 2022-04-29 |
 | [Hello World](https://open.spotify.com/track/4Z3dv0ea4R11kqqBkFV1nQ) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Hello World](https://open.spotify.com/album/2FQxYhaN3AULlomg0TNefH) | 4:31 | 2022-08-26 | 2023-05-23 |
 | [Hello, Hi](https://open.spotify.com/track/6IVk7Q7oc6rDBIvj77HUD2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Hello, Hi](https://open.spotify.com/album/15SPCpxHawJKpc7y3x4wqx) | 2:46 | 2022-04-29 | 2023-01-28 |
-| [Hennessy Brown](https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [For Better, For Worse](https://open.spotify.com/album/38YQrMruyoZLOLI695h3xy) | 2:59 | 2023-06-30 |  |
+| [Hennessy Brown](https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [For Better, For Worse](https://open.spotify.com/album/38YQrMruyoZLOLI695h3xy) | 2:59 | 2023-06-30 | 2023-09-16 |
 | [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 | 2022-08-05 | 2023-02-14 |
 | [Hertz](https://open.spotify.com/track/7fri3wodaEszuJBZcGB4VF) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 2:33 | 2022-06-10 | 2022-11-22 |
 | [HEY ASSHOLE](https://open.spotify.com/track/5EbeMB2XW1Gh0ExAawkBCJ) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [HEY ASSHOLE!](https://open.spotify.com/album/4WUzvidSHP2O30d27dShPZ) | 1:29 | 2023-06-02 |  |
@@ -246,6 +248,7 @@
 | [I Know Nothing At All](https://open.spotify.com/track/00lb13Y2ROaiMi3u5NPRFQ) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OTHERBODY](https://open.spotify.com/album/1FrxEEIn0BIIffAaf2Njfs) | 2:33 | 2023-05-22 |  |
 | [I Like You](https://open.spotify.com/track/50X4ve8zvAF4uMFTn3yMez) | [Bloods](https://open.spotify.com/artist/1zQBkffVEYoxt6Bg7YNCVs), [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [I Like You](https://open.spotify.com/album/56bo8byLWXWjpoZjgL4mrO) | 2:20 | 2022-04-01 | 2022-04-29 |
 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 | 2022-10-24 | 2023-04-15 |
+| [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-15 |  |
 | [I'll Make You See God](https://open.spotify.com/track/3MbhMiPevTFKJtJQUjkdSZ) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [I'll Make You See God](https://open.spotify.com/album/0NouYsEc5RT38lVFTUvmsV) | 4:52 | 2022-02-25 | 2023-06-03 |
 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 | 2022-01-07 | 2022-02-22 |
 | [I'm Your President](https://open.spotify.com/track/0DabkRkFD74ltGae3xc2Qi) | [Mother's Cake](https://open.spotify.com/artist/4tXtAqJV0KS75ndQsYh1GG) | [Cyberfunk!](https://open.spotify.com/album/3xY4LXoc9298yS7bAUMYeZ) | 2:30 | 2021-10-07 | 2022-06-11 |
@@ -270,7 +273,7 @@
 | [Keep The Lights On Me](https://open.spotify.com/track/190yVCaCcBHxXIxF00gaw5) | [Big Spring](https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma) | [Keep The Lights On Me](https://open.spotify.com/album/3P3Mj0umfWfMMkwdfPVxCQ) | 3:47 | 2021-10-07 | 2022-04-29 |
 | [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 | 2021-10-07 | 2022-06-18 |
 | [Keys Down If You Stay](https://open.spotify.com/track/3vamncl7v4nWvIs9iEnFoF) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Keys Down If You Stay](https://open.spotify.com/album/0i388dpoywonebIluQJNIc) | 3:44 | 2023-04-07 | 2023-04-29 |
-| [Keys Down If You Stay](https://open.spotify.com/track/6CDSQOk2YWOgJ6oecwE4GG) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Keys Down If You Stay](https://open.spotify.com/album/3MitGCRd6KY8Ttqx1G1jlM) | 3:44 | 2023-04-14 |  |
+| [Keys Down If You Stay](https://open.spotify.com/track/6CDSQOk2YWOgJ6oecwE4GG) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Keys Down If You Stay](https://open.spotify.com/album/3MitGCRd6KY8Ttqx1G1jlM) | 3:44 | 2023-04-14 | 2023-09-16 |
 | [Kill the Medicine Man](https://open.spotify.com/track/4NmVkA3C14AI7A5MYy4JkS) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [Kill the Medicine Man](https://open.spotify.com/album/2wOuwekasniEdu4w82u2En) | 2:33 | 2021-10-07 | 2022-04-29 |
 | [kill you](https://open.spotify.com/track/67zugn57NW0eFNM3DL4IxD) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [kill you](https://open.spotify.com/album/1nHCdR0VOXjVSv7ei3PD3x) | 3:07 | 2022-11-21 | 2023-05-23 |
 | [King of the Slugs](https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [King of the Slugs](https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ) | 7:05 | 2023-08-25 |  |
@@ -300,6 +303,7 @@
 | [Loops](https://open.spotify.com/track/5GgeEPCGwqoWxd6gzptHeB) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [All Fiction](https://open.spotify.com/album/1sYIZ1azBbZd7AyznM3ulP) | 3:32 | 2023-04-14 |  |
 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 | 2023-02-17 |  |
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-16 | 2022-09-20 |
+| [Lost Myself Again](https://open.spotify.com/track/73q3axNDrfqZOQ12LL1B4a) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56) | [Push](https://open.spotify.com/album/094LVoZpuHpU0QwZQNmqAc) | 2:34 | 2023-09-15 |  |
 | [Love Is Fire](https://open.spotify.com/track/2h2LCucFMULWhAhRAKJdNn) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Love Is Fire](https://open.spotify.com/album/5KW9VWfXcQ7rI9tAF5Og0h) | 3:03 | 2023-06-30 |  |
 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 | 2022-02-21 | 2022-08-17 |
 | [Low Era \- Edit](https://open.spotify.com/track/5RuSAk0rjCUXmZPGDxZf0w) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Low Era](https://open.spotify.com/album/1TBlTbuSKgZ0YBY0AoU7yQ) | 3:38 | 2021-12-03 | 2022-09-24 |
@@ -382,7 +386,7 @@
 | [Pringle Street](https://open.spotify.com/track/4VodRXNcHJFVsrek9QpAB0) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [This Place You Know](https://open.spotify.com/album/4clVVRmUrtFtND1sLCJxOY) | 2:59 | 2022-01-07 | 2022-03-12 |
 | [Prison light](https://open.spotify.com/track/0Eho63aLMbseadFByJMSUB) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Prison light](https://open.spotify.com/album/0FaWYKd6YvgdvsbNvQzx5a) | 3:15 | 2023-01-27 | 2023-03-18 |
 | [Prisoners](https://open.spotify.com/track/4i2GTbn2CIPpSa6ml9ZXd9) | [Borbón Pink](https://open.spotify.com/artist/4Wxc9NqZrEOCQKXvIm7zIS) | [Prisoners](https://open.spotify.com/album/1JSEtrxow4uLGps2Otecdf) | 2:44 | 2022-08-26 | 2022-09-24 |
-| [Protocol](https://open.spotify.com/track/609RLtoVcVEu16Ifavpqkn) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Protocol](https://open.spotify.com/album/2J55v3595nc019Zfo2B5Ht) | 4:12 | 2023-08-11 |  |
+| [Protocol](https://open.spotify.com/track/609RLtoVcVEu16Ifavpqkn) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Protocol](https://open.spotify.com/album/2J55v3595nc019Zfo2B5Ht) | 4:12 | 2023-08-11 | 2023-09-16 |
 | [Psychic Dance Routine](https://open.spotify.com/track/79jxS5Li1Xm8VfwmgUiAAC) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 2:49 | 2023-05-22 |  |
 | [Public Enemy](https://open.spotify.com/track/6CSTSByUvQyYIlGStzM3Qd) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Public Enemy](https://open.spotify.com/album/6gWVDCeNynphJ6MIxZRgiN) | 2:29 | 2021-10-07 | 2022-01-08 |
 | [Pukebox](https://open.spotify.com/track/5KUVspHfE0vmCP9vvCHXf9) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pukebox](https://open.spotify.com/album/4SnSwngfx8loFFx8wOzEiM) | 3:08 | 2021-10-07 | 2022-04-29 |

@@ -1071,6 +1071,28 @@
     },
     {
       "album": {
+        "name": "Call Your Mom",
+        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278670,
+      "name": "Call Your Mom (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
+    },
+    {
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1388,7 +1410,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 214720,
       "name": "Cue",
       "url": "https://open.spotify.com/track/3fIMNQaY7AuZRtP18zWhtb"
@@ -1586,7 +1608,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 176442,
       "name": "Don\u2019t Close Your Eyes",
       "url": "https://open.spotify.com/track/1iMPcWrZhtv6tKJy9UhhUy"
@@ -6496,6 +6518,24 @@
       "duration_ms": 212953,
       "name": "The Usual",
       "url": "https://open.spotify.com/track/13GDcQRwrRwMxa9s774D9X"
+    },
+    {
+      "album": {
+        "name": "The Vase",
+        "url": "https://open.spotify.com/album/21kQ2axzzk4oYTqnEyhPpC"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220807,
+      "name": "The Vase",
+      "url": "https://open.spotify.com/track/4EkQb1LbbJhuq0znGXwlXk"
     },
     {
       "album": {

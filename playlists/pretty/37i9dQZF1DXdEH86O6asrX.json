@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta de las mejores bandas sonoras del siglo XXI!",
-  "num_followers": 524640,
+  "num_followers": 524669,
   "original_name": "Soundtracks \u00c9picos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjY5MGEyMWFmMWEzZjYwMWRhOTA2YzE2YzAxZTNiOGNkZmY4OTk1",
+  "snapshot_id": "MCw5Njk1MTBmOTA1ZWE5NDFjODFlMWFjNjQ1MDg4MzFjNzk3YjM0OGZl",
   "tracks": [
     {
       "added_at": "2022-01-27 04:35:36",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Quentin Tarantino's Once Upon a Time in Hollywood Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/02GEKxoVe5ITAj68mZRAM7"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/3rU0sziIji4mxvd39x6Z5X"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 237866,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/60lpxsz5DjjZAChH8dzFDt"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Quentin Tarantino's Once Upon a Time in Hollywood Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/02GEKxoVe5ITAj68mZRAM7"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/3rU0sziIji4mxvd39x6Z5X"
     },
     {
       "added_at": "2022-01-27 04:35:36",

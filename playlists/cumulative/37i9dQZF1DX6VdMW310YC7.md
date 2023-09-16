@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,522 songs - 4 day 8 hr 49 min
+1,523 songs - 4 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 | 2022-07-01 |  |
 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/5heenx8v6qCOumRI9jpRBS) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy) | 5:10 | 2020-05-18 | 2022-04-21 |
 | [Feels \- Jai Wolf Remix](https://open.spotify.com/track/57rOXabUKgkrwHPSqzo4s5) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Feels \(Jai Wolf Remix\)](https://open.spotify.com/album/5TS42SVHSUrRj89XXmT3Ku) | 4:30 | 2020-05-18 | 2020-07-03 |
-| [Feels Just Like It](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 | 2023-05-12 |  |
+| [Feels Just Like It](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 | 2023-05-12 | 2023-09-16 |
 | [Feld](https://open.spotify.com/track/0upmaRJ3u80GMkzpC6lIF1) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Feld / Anthracite](https://open.spotify.com/album/5XrY8yQEAgpKQ5t8IxBPZT) | 4:15 | 2020-03-17 | 2021-03-06 |
 | [Fell in Love With You \(feat\. Cristina Llull\)](https://open.spotify.com/track/0JxOchJtqL5kXkF6dGhi2o) | [Hilow](https://open.spotify.com/artist/1oE1z5CWxSP1IaTfGB23Hm), [Cristina Hart](https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn) | [Fell in Love With You \(feat\. Cristina Llull\)](https://open.spotify.com/album/3GXgRn1lGbQ3O1ta7peOHG) | 2:55 | 2020-05-18 | 2020-07-03 |
 | [Felt](https://open.spotify.com/track/4PEzlq4PRji8R5yP3D5KTP) | [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Felt](https://open.spotify.com/album/7D2uhVTObq48ZaHEkWsRsh) | 5:07 | 2021-04-26 | 2022-04-25 |
@@ -1471,6 +1471,7 @@
 | [WhereYouGonnaGo?](https://open.spotify.com/track/43ttSUWX6oHVLGboWVq1Kl) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [WhereYouGonnaGo?](https://open.spotify.com/album/6PbHFMJ0iwcRAYclGi02wE) | 5:08 | 2020-05-18 | 2020-07-03 |
 | [Where’s My Mind](https://open.spotify.com/track/7uWmtQRpPm134u2xyI8ocS) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [About Life](https://open.spotify.com/album/2ice5heUx8QI1WBKK4tkjy) | 6:20 | 2022-02-25 | 2022-10-01 |
 | [Whispering Still \(feat\. Charity Children\) \- Little Rose Remix](https://open.spotify.com/track/3D3Tkk0d9UmECpH5Fprmuv) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Charity Children](https://open.spotify.com/artist/0i5oKqsPL21cwL7acxZfNI), [Little Rose](https://open.spotify.com/artist/2yDY3r3GJAxtK5xhndIhVI) | [Whispering Still \(Little Rose Remix\)](https://open.spotify.com/album/60uPPIcHMk4CIhs4hgOQXJ) | 3:14 | 2020-05-18 | 2020-07-03 |
+| [Who You Are](https://open.spotify.com/track/2ZK2PfpK0iri6UduhsblBM) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Who You Are](https://open.spotify.com/album/3zO2PYueI0npVFlxEyl9R0) | 4:22 | 2023-09-15 |  |
 | [Whole Heart](https://open.spotify.com/track/4Z1t1aMRif8ES212kTN8H2) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Whole Heart](https://open.spotify.com/album/5LKilxrPSOHakkR3V56YYZ) | 3:45 | 2020-05-18 | 2020-07-03 |
 | [Wholehearted](https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Wholehearted EP](https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr) | 3:26 | 2023-05-26 |  |
 | [Why](https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt) | [Bobby Love](https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3), [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Why](https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy) | 3:23 | 2021-08-13 | 2023-09-09 |

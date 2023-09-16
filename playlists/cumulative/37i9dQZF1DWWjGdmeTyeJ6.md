@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Anycia\. Updates every Wednesday\. Artwork by Isu Kim.
 
-5,007 songs - 11 day 9 hr 8 min
+5,008 songs - 11 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2620,7 +2620,8 @@
 | [Loretta](https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA) | 2:56 | 2022-03-23 | 2022-03-31 |
 | [Los Quietos](https://open.spotify.com/track/6giN2giobpr3EBaGpXr2jp) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Los Quietos](https://open.spotify.com/album/64GjFvBaZbuazhtB653Qri) | 3:16 | 2023-06-07 | 2023-06-15 |
 | [Lose a Friend](https://open.spotify.com/track/3Uo3QGPMTpiyAbMkj9dqgd) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Lose a Friend](https://open.spotify.com/album/1J1bA0Cw8Bw9r1KyDukInD) | 3:15 | 2023-02-22 | 2023-03-02 |
-| [LOSE FIRST, WIN LATER \- DEMO](https://open.spotify.com/track/6FvMmoVFEl6cGvAQXMNeu9) | [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI), [KLWN CAT](https://open.spotify.com/artist/3njKTUDQIOswiLKoYRePBd) | [LOSE FIRST, WIN LATER \(DEMO\)](https://open.spotify.com/album/5btr8xOvQkSJ88TQKusa81) | 2:38 | 2023-09-13 |  |
+| [LOSE FIRST, WIN LATER](https://open.spotify.com/track/1c2xULJ6i7yR7ZWuQuRZEF) | [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI) | [LOSE FIRST, WIN LATER](https://open.spotify.com/album/4XBfTajyoqKwt3KQexlmjC) | 2:38 | 2023-09-13 |  |
+| [LOSE FIRST, WIN LATER \- DEMO](https://open.spotify.com/track/6FvMmoVFEl6cGvAQXMNeu9) | [Tec](https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI), [KLWN CAT](https://open.spotify.com/artist/3njKTUDQIOswiLKoYRePBd) | [LOSE FIRST, WIN LATER \(DEMO\)](https://open.spotify.com/album/5btr8xOvQkSJ88TQKusa81) | 2:38 | 2023-09-13 | 2023-09-16 |
 | [Lose Yourself](https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Lose Yourself](https://open.spotify.com/album/31uaGLLLoSZcNLRjFviWfk) | 3:16 | 2022-04-27 | 2022-05-05 |
 | [Losers](https://open.spotify.com/track/4y35lEbyqHAuVEVMe4waSE) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Losers](https://open.spotify.com/album/3rinCWjkbGAkFnM9yVuVSZ) | 2:11 | 2021-11-17 | 2022-01-13 |
 | [LOSIN U](https://open.spotify.com/track/3Yev5ppYhApRb0qiaN3N1J) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [LOSIN U](https://open.spotify.com/album/21oZxwIF29zWOUxQ4iNTEB) | 3:39 | 2023-07-12 | 2023-07-20 |

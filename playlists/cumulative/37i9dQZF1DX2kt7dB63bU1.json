@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 259851,
       "name": "Cafe Gitane",
       "url": "https://open.spotify.com/track/5tABHkUoSrbkckheW29aOy"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 181055,
       "name": "Can't Take That Away from Me",
       "url": "https://open.spotify.com/track/3mnQXluz888vO8694m8rB5"
@@ -6074,7 +6074,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 221537,
       "name": "It's a Human Race",
       "url": "https://open.spotify.com/track/3RDHdubxaCzV9CLnyIfLG1"
@@ -6848,7 +6848,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 223506,
       "name": "Les amours perdues - Radio Edit",
       "url": "https://open.spotify.com/track/1jJWqNeyKMsXdo6lcZPHMN"
@@ -7514,6 +7514,24 @@
       "duration_ms": 183480,
       "name": "Lovely Day - Special Edition",
       "url": "https://open.spotify.com/track/0AdeVqrnbX2SeC9RGVgJWm"
+    },
+    {
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/3q3kueYNUkOmsNh4rk20oy"
+      },
+      "artists": [
+        {
+          "name": "Parry Ray",
+          "url": "https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181298,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/5npntgfKIAlEyAdIJCKrHX"
     },
     {
       "album": {
@@ -10614,7 +10632,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 320893,
       "name": "Streets Of Philadelphia",
       "url": "https://open.spotify.com/track/3sFuasoQLakdxnTh3vJ5ix"
@@ -12375,6 +12393,24 @@
     },
     {
       "album": {
+        "name": "Under Paris Skies",
+        "url": "https://open.spotify.com/album/0OWbqXbC1TvwtPZNVrrlpP"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261319,
+      "name": "Under Paris Skies",
+      "url": "https://open.spotify.com/track/4HnZtTEp8wQfF43Km2w6G7"
+    },
+    {
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/6HiKJ6DURPZIyr837e7rBX"
       },
@@ -12620,6 +12656,32 @@
       "duration_ms": 400973,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3t5J7r88UPVLSYqvPhc463"
+    },
+    {
+      "album": {
+        "name": "The Legacy Experience (Live)",
+        "url": "https://open.spotify.com/album/6HgZrTauLCDoZfAJX4jN3G"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "The Baylor Project",
+          "url": "https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp"
+        },
+        {
+          "name": "Russell Ferrante",
+          "url": "https://open.spotify.com/artist/6WNJUszfgnEpiHp1Wh6kgI"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463999,
+      "name": "Vulnerable - Live",
+      "url": "https://open.spotify.com/track/7AClBxdiwyv2x6Jg4iM9M0"
     },
     {
       "album": {
@@ -13104,6 +13166,28 @@
       "duration_ms": 281452,
       "name": "When This Is Over",
       "url": "https://open.spotify.com/track/38BnDGZBonpPyxxkyXYiZU"
+    },
+    {
+      "album": {
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310106,
+      "name": "Where Are You?",
+      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
     },
     {
       "album": {

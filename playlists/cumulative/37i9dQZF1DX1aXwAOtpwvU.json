@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 228631,
       "name": "Akcja!",
       "url": "https://open.spotify.com/track/6XAu1axKaG2yeUfkqpN9Jh"
@@ -192,6 +192,24 @@
       "duration_ms": 195281,
       "name": "bigos",
       "url": "https://open.spotify.com/track/3td5D76Hdk8kL7nfw2w4TM"
+    },
+    {
+      "album": {
+        "name": "BIKINI GIRLIE",
+        "url": "https://open.spotify.com/album/6lzibP8Md36JIkVAn5A2mf"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193552,
+      "name": "BIKINI GIRLIE",
+      "url": "https://open.spotify.com/track/1c7I2V9oL4JdpZN514pGMo"
     },
     {
       "album": {
@@ -610,7 +628,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 180383,
       "name": "happy song :)",
       "url": "https://open.spotify.com/track/0rS8KJ7sh52X3QBWbBFjtm"
@@ -1862,6 +1880,24 @@
       "duration_ms": 179142,
       "name": "Wczoraj (Ale To Smutna Ballada)",
       "url": "https://open.spotify.com/track/0Vclll7YLAuvyFaNicQBb0"
+    },
+    {
+      "album": {
+        "name": "Welur",
+        "url": "https://open.spotify.com/album/63qjHLrWqfDlWPg4dUNGun"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187933,
+      "name": "Welur",
+      "url": "https://open.spotify.com/track/4uIXiKr1OThTtjgExrCZD0"
     },
     {
       "album": {

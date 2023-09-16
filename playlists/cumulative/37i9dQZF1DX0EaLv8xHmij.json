@@ -871,6 +871,32 @@
     },
     {
       "album": {
+        "name": "Bongo In Brazil (SD9 Version)",
+        "url": "https://open.spotify.com/album/4GalBUOj70sXLPVSm66Y9K"
+      },
+      "artists": [
+        {
+          "name": "General Courts",
+          "url": "https://open.spotify.com/artist/1kft0nsv6XQQGSJPHPSayu"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Brasil Grime Show",
+          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Bongo In Brazil (SD9 Version)",
+      "url": "https://open.spotify.com/track/1JD8TlHYHj2Q9xzlNRkcKr"
+    },
+    {
+      "album": {
         "name": "ERREJOTACULTDRILL, Vol. 1 - Mal Vindas Amizades",
         "url": "https://open.spotify.com/album/4n1BCaULwTJKmB4kFVpWdw"
       },
@@ -2472,7 +2498,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 149849,
       "name": "Guardo Grana",
       "url": "https://open.spotify.com/track/6iZYz1SBBEgJwrS3O3j29b"
@@ -2620,7 +2646,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 120000,
       "name": "Jogad\u00e3o",
       "url": "https://open.spotify.com/track/4zNnZ8ERpnPfin85z4Aw40"
@@ -3530,7 +3556,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 133802,
       "name": "O Baca",
       "url": "https://open.spotify.com/track/2aNWBQInZtqZyFMBM8oVzU"
@@ -3712,6 +3738,24 @@
       "duration_ms": 227027,
       "name": "Perigoso & Po\u00e9tico",
       "url": "https://open.spotify.com/track/526qIjrPsChCx4cHKRdDEc"
+    },
+    {
+      "album": {
+        "name": "Pique Major Rd",
+        "url": "https://open.spotify.com/album/5qE899n7BrrQtEsMzYILzT"
+      },
+      "artists": [
+        {
+          "name": "MC Estudante",
+          "url": "https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136794,
+      "name": "Pique Major Rd",
+      "url": "https://open.spotify.com/track/3JFzlekjuH3ET15YitxvwN"
     },
     {
       "album": {
@@ -4140,6 +4184,24 @@
       "duration_ms": 185973,
       "name": "Reis",
       "url": "https://open.spotify.com/track/66rDQ7y7lH0QkFdXywFgwe"
+    },
+    {
+      "album": {
+        "name": "Retrato #6 - Astro",
+        "url": "https://open.spotify.com/album/53y6Pk5lZr59jBGxEE0IHH"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Retrato #6 - Astro",
+      "url": "https://open.spotify.com/track/1bgjgBhjaCe8YKbdexhQFJ"
     },
     {
       "album": {

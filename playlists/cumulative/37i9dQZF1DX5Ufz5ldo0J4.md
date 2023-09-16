@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-289 songs - 13 hr 33 min
+290 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Guide](https://open.spotify.com/track/5seZHcpzWoUqYdpniMO4nc) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:23 | 2021-12-10 |  |
 | [Haumea](https://open.spotify.com/track/2LXzGeoY2Cm8SFIaq5v0sJ) | [Sonic Slivers](https://open.spotify.com/artist/4DdKHvFkz6FdVks9TAdttM) | [Haumea](https://open.spotify.com/album/120dlLUe1LZ1j1X1n0Z9kH) | 3:02 | 2021-12-10 | 2022-09-03 |
 | [Haven](https://open.spotify.com/track/0XxpwWVXoNEi3e8ypMDjUk) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Haven](https://open.spotify.com/album/3JP6iMuwfXasBbxNBqv4Ni) | 3:50 | 2021-12-10 |  |
+| [Heim](https://open.spotify.com/track/2ZlSZlqejnLEk2vrXqNSn2) | [Otri Jochumsson](https://open.spotify.com/artist/4x8y3T6YzB4qB3MKPZT0mh) | [Heim](https://open.spotify.com/album/7hGn9qNZuGzlJQLkhX3lfy) | 2:50 | 2023-09-15 |  |
 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 | 2021-12-10 |  |
 | [Hiraeth](https://open.spotify.com/track/5DNpEwASbbGXz9wbr0ex6v) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Hiraeth](https://open.spotify.com/album/5Ez2Xog7cRrcbx0W95g32V) | 3:01 | 2021-12-10 | 2023-07-18 |
 | [Home Tales \- Ambient Mix](https://open.spotify.com/track/2HiVJpIeVR3MiVsrqQ7hWQ) | [Handley Page](https://open.spotify.com/artist/0vzZmlsPGLKCCG8qW7WrvV) | [Home Tales](https://open.spotify.com/album/6w6dhpG5hetNvPpe2lBIzh) | 4:08 | 2021-12-10 | 2023-07-18 |
@@ -135,7 +136,7 @@
 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 | 2021-12-10 |  |
 | [Late Tuesday](https://open.spotify.com/track/1VbQwnVubzySFLf4c8EUi5) | [Nima de Bekker](https://open.spotify.com/artist/0GE3bhLvDxx4CD0qHNZQzJ) | [Late Tuesday](https://open.spotify.com/album/6ZjJ032BraQV8KxxjRcfyL) | 1:34 | 2021-12-10 | 2023-07-29 |
 | [Lato](https://open.spotify.com/track/4Dud0QWbw1Xp3z7tqpg1NA) | [Aleksy Wysocki](https://open.spotify.com/artist/3GXTl6tHXIzPcthbBCEskf) | [Lato](https://open.spotify.com/album/1wTOeWZPH0QdpjjhK5VZvm) | 2:07 | 2021-12-10 |  |
-| [Le marchand de sable est passé](https://open.spotify.com/track/4ZHotLx5jX1MPDixEhEakI) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Le marchand de sable est passé](https://open.spotify.com/album/6sPS38qm4ZftAtfS8C9iKH) | 3:45 | 2021-12-10 |  |
+| [Le marchand de sable est passé](https://open.spotify.com/track/4ZHotLx5jX1MPDixEhEakI) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Le marchand de sable est passé](https://open.spotify.com/album/6sPS38qm4ZftAtfS8C9iKH) | 3:45 | 2021-12-10 | 2023-09-16 |
 | [Les cieux du printemps](https://open.spotify.com/track/1CQqk6DcfC0Q9Iw3jS8UxH) | [Serouj](https://open.spotify.com/artist/2S4Y2TX5b3gYApFYtIzzU2) | [Les cieux du printemps](https://open.spotify.com/album/77vUJEBj4Muy8BCTDqHpfD) | 2:46 | 2021-12-10 |  |
 | [Let The Lights On](https://open.spotify.com/track/5jbEgWSfbxBA7573jEnYhr) | [Christine Malowe](https://open.spotify.com/artist/6v132t3GaQZqfu3okc5VoO) | [Let The Lights On](https://open.spotify.com/album/4L3rZkyKokj7M23tAAgLCF) | 3:01 | 2022-11-11 |  |
 | [Letting Go](https://open.spotify.com/track/1S7ulK4PlPK3KvOWrAq0PG) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Inner Spirit](https://open.spotify.com/album/0mV5nvQuTZt7HpQO6q9CXA) | 2:35 | 2021-12-10 |  |

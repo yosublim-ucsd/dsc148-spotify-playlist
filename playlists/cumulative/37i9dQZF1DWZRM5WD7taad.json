@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Mon Laferte en Portada ",
+  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. EMJAY e Ingratax en Portada ",
   "name": "Femcees",
   "tracks": [
     {
@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Alerta",
+        "url": "https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189602,
+      "name": "Alerta",
+      "url": "https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q"
+    },
+    {
+      "album": {
         "name": "Almac\u00e9n de Datos",
         "url": "https://open.spotify.com/album/0iEi94s2pqd4fARDElGSnx"
       },
@@ -318,6 +340,24 @@
       "duration_ms": 210891,
       "name": "Arrepent\u00edo",
       "url": "https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ"
+    },
+    {
+      "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/5x7f4eNxkiCVhhcMTAIHvY"
+      },
+      "artists": [
+        {
+          "name": "B$ Sofia",
+          "url": "https://open.spotify.com/artist/2f0ZUjFHq2GQqU3m828rTp"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161096,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/3oEfaR3cbD1vs0wUZyxfta"
     },
     {
       "album": {
@@ -1702,7 +1742,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 152142,
       "name": "Fuera de Juego",
       "url": "https://open.spotify.com/track/7IZHqbElo3bY7FS8IBon74"
@@ -2284,7 +2324,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 174222,
       "name": "M4KYNA",
       "url": "https://open.spotify.com/track/33BdopezTOy1DwusGG2GuB"
@@ -3428,7 +3468,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 210389,
       "name": "ReSURrecci\u00f3n",
       "url": "https://open.spotify.com/track/0BY84BjIZX2qXnsanQzvVG"
@@ -4002,6 +4042,28 @@
       "duration_ms": 162040,
       "name": "Toda La Noche",
       "url": "https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO"
+    },
+    {
+      "album": {
+        "name": "Toda Perra Mugrosa",
+        "url": "https://open.spotify.com/album/6Ep14yIKFjYEP0J6yTJWnO"
+      },
+      "artists": [
+        {
+          "name": "La Gallo 3:20",
+          "url": "https://open.spotify.com/artist/3vMfBXxAZ9iG2u0VjNZ0IA"
+        },
+        {
+          "name": "norek",
+          "url": "https://open.spotify.com/artist/1FmEWwOZLr0u0PWHVUXL0j"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129671,
+      "name": "Toda Perra Mugrosa",
+      "url": "https://open.spotify.com/track/2no18yKAUmqkJG2fxUZ7bz"
     },
     {
       "album": {

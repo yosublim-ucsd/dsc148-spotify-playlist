@@ -1,13 +1,261 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=ocADamumSRy0dYjZEFLB1g\">aboynamedblu</a> ",
-  "num_followers": 8031,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs?si=-WcH5l06TfefXYBiX2jQlA\">Yung Beathoven</a> ",
+  "num_followers": 8091,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWVkMDQ3ZDIzZWNmMmFlYmY0NGNlNzJiNGM2NzhkZGY5NjllNGQ4",
+  "snapshot_id": "MCw4NGQ3NjkxNDIyOWQ2NDcyODAyNzUzYWFkZDgyZDdmOWVlNDg1NjZi",
   "tracks": [
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "BULLSHIT",
+        "url": "https://open.spotify.com/album/2leqLPJD8i4vkVzzvcZEUv"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        }
+      ],
+      "duration_ms": 147900,
+      "name": "BULLSHIT",
+      "url": "https://open.spotify.com/track/7fcL6j5ndJeVpjehFynz7I"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "Seriously, Goodluck With That",
+        "url": "https://open.spotify.com/album/72vFcIJ5QGoRZTjOlx2WYV"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Seriously, Goodluck With That",
+      "url": "https://open.spotify.com/track/4GuGH9ty89UAljxqjxJU4H"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "LAYERS",
+        "url": "https://open.spotify.com/album/6Luqz4dKQ3tXYH3hqFq4uC"
+      },
+      "artists": [
+        {
+          "name": "Carla Franco",
+          "url": "https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI"
+        }
+      ],
+      "duration_ms": 166967,
+      "name": "CYMBALS",
+      "url": "https://open.spotify.com/track/1sODRUHlwWBXvx4wu6gQH5"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "Pizza Party",
+        "url": "https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Pizza Party",
+      "url": "https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "Impala Lily",
+        "url": "https://open.spotify.com/album/6nZwXleBjZ43KF94QqP15m"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Arnott",
+          "url": "https://open.spotify.com/artist/0wcIDgL72YoVi3dmCydELC"
+        }
+      ],
+      "duration_ms": 215196,
+      "name": "Leader",
+      "url": "https://open.spotify.com/track/0gmgRX6SFUQ0wOSo9VZr97"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "Typical You (Radio Edit)",
+        "url": "https://open.spotify.com/album/7uVPxRMjBKhU6zuej7jp0W"
+      },
+      "artists": [
+        {
+          "name": "Alex Solomon",
+          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
+        }
+      ],
+      "duration_ms": 217434,
+      "name": "Typical You - Radio Edit",
+      "url": "https://open.spotify.com/track/0DCzIR6OsJCudA125jJPF9"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "Mental Hell",
+        "url": "https://open.spotify.com/album/7D6oCguGU90Sg5tY5niQNG"
+      },
+      "artists": [
+        {
+          "name": "Werner Bekker",
+          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Mental Hell",
+      "url": "https://open.spotify.com/track/5VgPz5vJdTNeFIoJNnXDJD"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/54a6XljieAbrYatQMLKyec"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "I'm A Queen Bee",
+      "url": "https://open.spotify.com/track/2LjjY0ncuemeQfYWtn8cd8"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "Crescent",
+        "url": "https://open.spotify.com/album/2UqMiDdH0yhMelJ9pvvkCf"
+      },
+      "artists": [
+        {
+          "name": "Talicia",
+          "url": "https://open.spotify.com/artist/1baOgaGLdga7kB0JcsgTUP"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/419o5hR6s53S0ic5iP984q"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "Self Talk",
+        "url": "https://open.spotify.com/album/0hk4okEhyO7aDLiTObO5I7"
+      },
+      "artists": [
+        {
+          "name": "Mike Baz",
+          "url": "https://open.spotify.com/artist/1wwKCIcDbJw2jUA2OvGhGQ"
+        }
+      ],
+      "duration_ms": 189189,
+      "name": "Self Talk",
+      "url": "https://open.spotify.com/track/0J4crYwpC6mNygzXWU6AY3"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "One Way Train",
+        "url": "https://open.spotify.com/album/6XglhrpK2eS7LCczljJJan"
+      },
+      "artists": [
+        {
+          "name": "Miles Sievwright",
+          "url": "https://open.spotify.com/artist/0JlHD2QNc6R8IzoCzdsp08"
+        }
+      ],
+      "duration_ms": 296160,
+      "name": "One Way Train",
+      "url": "https://open.spotify.com/track/0ZOKIIRIhUQhabsT8MsafH"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "Wild City",
+        "url": "https://open.spotify.com/album/0mWT8QTDmKjVngRWBcuLNE"
+      },
+      "artists": [
+        {
+          "name": "Caroline Mackintosh",
+          "url": "https://open.spotify.com/artist/1fv1s2eLO0JBseE31bSTQb"
+        }
+      ],
+      "duration_ms": 297011,
+      "name": "Wild City",
+      "url": "https://open.spotify.com/track/5ALBOB9JGa6dpkT1IQtktz"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "The Bohemian Underground",
+        "url": "https://open.spotify.com/album/3NdCQegppalv14TnDyktt3"
+      },
+      "artists": [
+        {
+          "name": "Savio",
+          "url": "https://open.spotify.com/artist/6dtQQr6xQEbWPD7BgvBdqN"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        },
+        {
+          "name": "The Indications",
+          "url": "https://open.spotify.com/artist/4Bi2r5s8zPqvMLZgTNyDtO"
+        }
+      ],
+      "duration_ms": 186122,
+      "name": "Any Wonder",
+      "url": "https://open.spotify.com/track/4CD1fsXvcBFi8UpEG5NXZt"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "As the Universe so the Soul",
+        "url": "https://open.spotify.com/album/46w2rQ7A25zuEBwRsbpYp1"
+      },
+      "artists": [
+        {
+          "name": "Recall from the FUTURE",
+          "url": "https://open.spotify.com/artist/0O8ssLACysgZ8d9AQlLo1c"
+        }
+      ],
+      "duration_ms": 265718,
+      "name": "As the Universe so the Soul",
+      "url": "https://open.spotify.com/track/5etRGpBT0YASzCvCrpTKu7"
+    },
+    {
+      "added_at": "2023-09-15 04:11:42",
+      "album": {
+        "name": "Still A RockStar",
+        "url": "https://open.spotify.com/album/2Tj3VYZ73mhSYMZwPmNZG2"
+      },
+      "artists": [
+        {
+          "name": "KVSE",
+          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
+        }
+      ],
+      "duration_ms": 146062,
+      "name": "Still A RockStar",
+      "url": "https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3"
+    },
     {
       "added_at": "2023-09-07 21:59:00",
       "album": {

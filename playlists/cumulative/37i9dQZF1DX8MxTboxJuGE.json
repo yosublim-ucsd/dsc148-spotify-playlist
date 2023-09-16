@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Os monstros e as novas caras do Metal nacional e internacional! Foto: Metallica",
+  "description": "Os monstros e as novas caras do Metal nacional e internacional! Foto: Edu Falaschi",
   "name": "Imp\u00e9rio do Metal",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 264500,
       "name": "Midnight Song",
       "url": "https://open.spotify.com/track/3ku4neMM3KIhFXhPaPZU7A"
@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "Post Traumatic Blues",
+        "url": "https://open.spotify.com/album/1SUWFyxji7bVsbRYYi2Dni"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343120,
+      "name": "Post Traumatic Blues",
+      "url": "https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL"
+    },
+    {
+      "album": {
         "name": "Repentless",
         "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
       },
@@ -916,6 +934,24 @@
       "duration_ms": 213418,
       "name": "R\u00e9quiem",
       "url": "https://open.spotify.com/track/2xqmXNuQilD1zqNu90P2Sh"
+    },
+    {
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/5jL9PVVgmVZhLJVNjO7SqO"
+      },
+      "artists": [
+        {
+          "name": "Edu Falaschi",
+          "url": "https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376586,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/2267yJzvFWpm6epuBaGKK2"
     },
     {
       "album": {
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 341739,
       "name": "The Essence of Being Human",
       "url": "https://open.spotify.com/track/6iwwJmekGU5s17xwCSAEJP"

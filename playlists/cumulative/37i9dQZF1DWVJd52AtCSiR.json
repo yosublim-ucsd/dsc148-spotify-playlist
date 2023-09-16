@@ -1811,6 +1811,36 @@
     },
     {
       "album": {
+        "name": "The Disney Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ADhBk8zOQYwKhiPbGKSH1"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Guo Gan",
+          "url": "https://open.spotify.com/artist/4tOUzNaDtg982MvZhzSoAL"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254667,
+      "name": "Reflection - From \"Mulan\" (Feat. Guo Gan)",
+      "url": "https://open.spotify.com/track/6zKNTyScKmZLxsIhh8HcdW"
+    },
+    {
+      "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS"
       },

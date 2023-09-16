@@ -4,7 +4,7 @@
 
 > Please consider donating to Hawai'i Community Foundation's <a href="https://www.hawaiicommunityfoundation.org/maui\-strong?fbclid=IwAR13k\_bWcOzvA0EM6bF6CSmkSktK8G\[%E2%80%A6\]EzD6jXm7wvU2z18gYZVchaFYOyGe2pBhhcts&mibextid=Zxz2cZ">Maui Strong Fund</a> to provide financial resources quickly to those that have been impacted by the devastating wildfires on Maui.
 
-78 songs - 4 hr 55 min
+80 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Feel the Sunshine](https://open.spotify.com/track/6ExZ4vG23GsUgAATjdPxwg) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 2:58 | 2023-02-24 |  |
 | [Funny Talk \(with Fiji\)](https://open.spotify.com/track/2uwBFfhuVSgDVc7IWj2qe6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Funny Talk](https://open.spotify.com/album/4YvX9t3HLTFnomTnOj5QOa) | 2:57 | 2023-08-23 |  |
 | [Goodnight And Goodmorning](https://open.spotify.com/track/4LcetXHTxpEbUsPRYmVO90) | [Cecilio & Kapono](https://open.spotify.com/artist/2GG9Jh4qPx9iT0ynCtEFsy) | [Elua](https://open.spotify.com/album/2E0mlWGm6bgO8AHGuVVYDf) | 2:47 | 2022-05-02 |  |
+| [Grateful](https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Justin Kawika Young](https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 3:40 | 2023-09-15 |  |
 | [Haleakala Hula](https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Uluwehi Sings Na Mele Hula Aloha](https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe) | 2:35 | 2022-05-02 |  |
 | [Hanalei I Ka Pilimoe](https://open.spotify.com/track/16AgooUpw2xG8OQqGepEJZ) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:09 | 2022-05-02 |  |
 | [Hawai'i '78 Introduction](https://open.spotify.com/track/6DynsXxu5oaCgkt4lXutoM) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:05 | 2022-05-02 |  |
@@ -76,6 +77,7 @@
 | [Simple Love Song](https://open.spotify.com/track/2bDmYeA5ovrMJQJ9AR1Mxj) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/2Canm6l7zAge5MV9iJ8ngy) | 3:44 | 2022-05-02 | 2022-07-29 |
 | [Simple Love Song](https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:44 | 2022-05-02 |  |
 | [Slack Key Lullabye](https://open.spotify.com/track/6BmBm3K2FU9Gn0bfXEYc1R) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Mike Kaawa](https://open.spotify.com/artist/7KtbS2lQxxvA4N75pIVCtX) | [Songs of Aloha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K) | 5:38 | 2022-05-02 |  |
+| [Starting All Over Again \- Acoustic Sessions](https://open.spotify.com/track/2FOMDrCQG2YVYbwBdqJ5M5) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Starting All Over Again \(Acoustic Sessions\)](https://open.spotify.com/album/6eDLJL9ucaRjCbjHKjMcVi) | 4:27 | 2023-09-15 |  |
 | [Sweet Ka Makani, Ke Kaiaulu](https://open.spotify.com/track/3OvWegDoaNxfgyMya5OcI2) | [Lim Family](https://open.spotify.com/artist/0nO5vVfEwDuz1KXJUnEC7O) | [Hula! Big Island Style](https://open.spotify.com/album/51Npcu6wgTkBQpq3IMFRWw) | 3:20 | 2022-05-02 |  |
 | [The Hukilau Song](https://open.spotify.com/track/563Zc7T3deOuITfis5zubv) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [Music & Highlights: Aloha to the World](https://open.spotify.com/album/22sgQvWRghWgFowVZLqBDm) | 2:14 | 2022-05-02 |  |
 | [Wahine 'Ilikea](https://open.spotify.com/track/5CRB3UF0vLmQqb3VwNsZC0) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 4:28 | 2022-10-14 | 2022-11-14 |

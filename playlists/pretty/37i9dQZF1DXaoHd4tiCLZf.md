@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,021 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,116 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,7 +207,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 197 | [Je ne te quitte pas](https://open.spotify.com/track/2iTASCclU14M5AXXuX9XG2) | [Fred Nevché](https://open.spotify.com/artist/72dcnDFjo3MFsrvpUAthMi) | [Valdevaqueros](https://open.spotify.com/album/3XMiMBIxEVMepYJJXD3uQZ) | 3:38 |
 | 198 | [Goodnight Little Empire](https://open.spotify.com/track/0efHNLW15aV2w0Z36pbZyw) | [Madonnatron](https://open.spotify.com/artist/5296LoeRErq9LMXgcFw3yX) | [Musica Alla Puttanesca](https://open.spotify.com/album/7ec1EB4gl8yQt4DI0fTHCK) | 3:59 |
 | 199 | [Mister Syncope](https://open.spotify.com/track/7dchc9SSmi1jA5tHHmSEpN) | [Bikini Machine](https://open.spotify.com/artist/39wrfK41IeM0MnyUb7w3X3) | [The Full Album](https://open.spotify.com/album/5h1fZnGgMbE9vIrqShzCcC) | 2:49 |
-| 200 | [L'amour le jour](https://open.spotify.com/track/7E3lkl2RudmSHzholbRzsE) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [P.O.P](https://open.spotify.com/album/5uZvHvkYKHQhs8Eowhz1jR) | 3:47 |
+| 200 | [L'amour le jour](https://open.spotify.com/track/3jbi9A7SUq2XKhXj0oBZB5) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [P.O.P](https://open.spotify.com/album/4xSbwekBfhkCbnSi3eZklg) | 3:47 |
 | 201 | [Hit Sale](https://open.spotify.com/track/3yndKI4zWEyC36BQYrdKBA) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C), [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Hit Sale](https://open.spotify.com/album/1j4pZyBTGUSvp3e5loBgez) | 3:04 |
 | 202 | [Paris Boogie \- Original Mix](https://open.spotify.com/track/48cwCNwfP9YfDCeVLnPZKk) | [Hmcee Da Duke](https://open.spotify.com/artist/0EUM5aLhl9WnqmAhhJyrNF) | [Badmen Bandits](https://open.spotify.com/album/2MB3GNmJTqCJTtjlYpDtap) | 4:16 |
 | 203 | [La route](https://open.spotify.com/track/3CnaA5Hq4SQmHjQFFaJkEh) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [La route](https://open.spotify.com/album/1iPICb35LIbXTNWr4RYi02) | 3:30 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MCw0Njk3OTFiMTdjNWQ5ZjdmZjZiNjAwOTU0YjEzOTRhODcwMDdkYzY0`
+Snapshot ID: `MCxhNDE4N2VlM2FkNTFiNWMyNzFmMDViOGY3Y2I5OGY2ZTkxOTNmZWRj`

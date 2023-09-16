@@ -18309,6 +18309,32 @@
     },
     {
       "album": {
+        "name": "Suryakanthi (From \"Tagaru Palya\")",
+        "url": "https://open.spotify.com/album/5iRIPbaqFRVBHWroTUBHbE"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Daali Dhananjaya",
+          "url": "https://open.spotify.com/artist/5mMIF7hi9U0WgMjhqHE0eQ"
+        },
+        {
+          "name": "Madhuri Seshadri",
+          "url": "https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197534,
+      "name": "Suryakanthi (From \"Tagaru Palya\")",
+      "url": "https://open.spotify.com/track/0KEYk3iSxqfk1qhcF3UF0N"
+    },
+    {
+      "album": {
         "name": "Tagaru Palya Title Track (From \"Tagaru Palya\")",
         "url": "https://open.spotify.com/album/7oamUOyozFj5ekfGdArmWO"
       },

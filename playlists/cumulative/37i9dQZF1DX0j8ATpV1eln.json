@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Ogon Koro",
+        "url": "https://open.spotify.com/album/6D5OUhDJ00zkuHe2Xk2WsH"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Oishi",
+          "url": "https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201799,
+      "name": "Ogon Koro",
+      "url": "https://open.spotify.com/track/6NKTXbkkPNBtqNMXUXgOfj"
+    },
+    {
+      "album": {
         "name": "Onegai Muscle - from CrosSing",
         "url": "https://open.spotify.com/album/5Bt7BoV1R7s5Ihkv5D7Cf5"
       },
@@ -2672,7 +2690,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 201799,
       "name": "\u9ec4\u91d1\u822a\u8def",
       "url": "https://open.spotify.com/track/0HEBnfrJ4ABLT09sDG1pco"

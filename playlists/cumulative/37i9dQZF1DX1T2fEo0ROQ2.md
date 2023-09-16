@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-412 songs - 21 hr 33 min
+413 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Eclipse](https://open.spotify.com/track/1a21XB3h0NPXc3e7AoYc3O) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Eclipse](https://open.spotify.com/album/4aXLfqcjaxpUTZvIuUbQLJ) | 2:22 | 2022-05-26 |  |
 | [Ecstasies of Desire](https://open.spotify.com/track/4oTsb3maEdFoUeQpLdKUT7) | [Zarobi](https://open.spotify.com/artist/6Z65n1gThYKu7yuFqF5XmB) | [Ecstasies of Desire](https://open.spotify.com/album/4EBdkEei2r6qVyMT5RVSQF) | 2:31 | 2022-05-26 |  |
 | [Edge of Dimensions](https://open.spotify.com/track/5QrVCCSCsCfeggXaGwRo1F) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Edge of Dimensions](https://open.spotify.com/album/1PUrSd7GrmaOcBdO3diz11) | 4:55 | 2022-05-26 | 2022-12-21 |
+| [Embracing Life](https://open.spotify.com/track/61ujUwC7abB2rW59gnpVFQ) | [Sundo](https://open.spotify.com/artist/6HOWuMMUjUyDYvcvokoW36) | [Embracing Life](https://open.spotify.com/album/1LpjfmjI5Da8IQbnxvM1y6) | 3:08 | 2023-09-15 |  |
 | [Enchanted](https://open.spotify.com/track/04tznUT3mDntcr1Qe04woG) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Enchanted](https://open.spotify.com/album/70HO4IL74UmxzVDZ5qOwVu) | 3:03 | 2022-05-26 | 2022-08-16 |
 | [Enchanted Reality](https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [Enchanted Reality](https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU) | 2:31 | 2022-10-14 |  |
 | [Endelig](https://open.spotify.com/track/3NUwa9esOC8gpVzWVV9xW4) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Endelig](https://open.spotify.com/album/37uRrJ3uV7tAazUMMfTAnR) | 2:39 | 2022-10-14 |  |
@@ -385,7 +386,7 @@
 | [Till Imorgon](https://open.spotify.com/track/34BGzF27mEKSI5jnWcGJEa) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [Till Imorgon](https://open.spotify.com/album/17hSZ3mPfa8kPIVrjbghra) | 3:42 | 2022-05-26 |  |
 | [Time \- Water Textures](https://open.spotify.com/track/1tf5kQZbSPjvLyewhaGEYM) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Darkened](https://open.spotify.com/album/3iM2G2OeCSwd9SPCInYw1Z) | 3:14 | 2022-05-26 | 2023-09-09 |
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2022-05-26 |  |
-| [To the Corner of Your Soul](https://open.spotify.com/track/7hBSOLMkM0ZptZpqcWNLhj) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:43 | 2022-05-26 |  |
+| [To the Corner of Your Soul](https://open.spotify.com/track/7hBSOLMkM0ZptZpqcWNLhj) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:43 | 2022-05-26 | 2023-09-16 |
 | [Tones](https://open.spotify.com/track/4qHvnvsZb43pDVNJiK14Z8) | [Elijah Sevan](https://open.spotify.com/artist/7xvxVsKZXEY0elcJ7i8HzN) | [Tones](https://open.spotify.com/album/4aHpLQWGS51gVc5vDtrQlw) | 2:48 | 2022-11-11 |  |
 | [Travel in Time](https://open.spotify.com/track/1mZIS3P7VQuPUu8hQPg0Bk) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:51 | 2022-05-26 | 2022-08-16 |
 | [Träumen](https://open.spotify.com/track/1jbroaceVo98T5eiFszvrS) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Träumen](https://open.spotify.com/album/6eYGxRPftv9vOQozQKTzw0) | 2:29 | 2022-05-26 |  |

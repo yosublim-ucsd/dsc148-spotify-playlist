@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Colored Waves",
+        "url": "https://open.spotify.com/album/1pTgJHK31BvOFi3SEhx9ZZ"
+      },
+      "artists": [
+        {
+          "name": "Zumaia",
+          "url": "https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144039,
+      "name": "Colored Waves",
+      "url": "https://open.spotify.com/track/0Z7HrettzLSkhelO24HKDX"
+    },
+    {
+      "album": {
         "name": "Bluebells",
         "url": "https://open.spotify.com/album/1SqKWpy6qU65qhVHUjw1LA"
       },
@@ -5792,6 +5810,24 @@
       "duration_ms": 197869,
       "name": "Jazz Street Cafe",
       "url": "https://open.spotify.com/track/4LNAc5HhLtRTrAELN1HG3V"
+    },
+    {
+      "album": {
+        "name": "Junior year",
+        "url": "https://open.spotify.com/album/4yDolhmaOvIpqyetVIURhr"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Principle",
+          "url": "https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174372,
+      "name": "Junior year",
+      "url": "https://open.spotify.com/track/6GNE6gOgeSwJFLzbgLmpUm"
     },
     {
       "album": {

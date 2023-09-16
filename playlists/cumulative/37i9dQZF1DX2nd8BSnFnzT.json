@@ -1127,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Amor \u00c9 A Lei",
+        "url": "https://open.spotify.com/album/2Q9MleGD9sn4WnOO51KPix"
+      },
+      "artists": [
+        {
+          "name": "Banda AL9",
+          "url": "https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192458,
+      "name": "Chama De Amor",
+      "url": "https://open.spotify.com/track/7FENXy3cRC1nkwerVvxgCI"
+    },
+    {
+      "album": {
         "name": "Ch\u00e1",
         "url": "https://open.spotify.com/album/4gSJ0HsE10n2Ci2nDfg9kg"
       },
@@ -2271,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Eu te amo voc\u00ea (Live Sala de Estar)",
+        "url": "https://open.spotify.com/album/6hrkcSV4mybnW4dbJd04hd"
+      },
+      "artists": [
+        {
+          "name": "Karen Jonz",
+          "url": "https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170375,
+      "name": "Eu te amo voc\u00ea - Live Sala de Estar",
+      "url": "https://open.spotify.com/track/4fCuJF71M3gcecekJPODWO"
+    },
+    {
+      "album": {
         "name": "Eu Tive Uma Vis\u00e3o (Vers\u00e3o Grunge)",
         "url": "https://open.spotify.com/album/2n1pE8HLpzG8ySHt19WBXU"
       },
@@ -3030,7 +3066,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 224117,
       "name": "Instantes no Tempo",
       "url": "https://open.spotify.com/track/0bDmOcahJ9Ju3PvvDqERuJ"
@@ -4580,7 +4616,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 201352,
       "name": "O Que Estou Fazendo Agora",
       "url": "https://open.spotify.com/track/4fhHfIPTwwbSJfuvsBSAjU"
@@ -4784,6 +4820,36 @@
       "duration_ms": 255936,
       "name": "Outono",
       "url": "https://open.spotify.com/track/0oD08rD3TriDPXQYFOISKt"
+    },
+    {
+      "album": {
+        "name": "20 Anos - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "Lucas Silveira",
+          "url": "https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK"
+        },
+        {
+          "name": "Badau\u00ed",
+          "url": "https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254693,
+      "name": "Outro Lugar (feat. Badau\u00ed) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv"
     },
     {
       "album": {
@@ -6120,7 +6186,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 187898,
       "name": "Sorrisos E Ilus\u00f5es",
       "url": "https://open.spotify.com/track/1U2a2l7vC5SnWYVPbGRSk7"

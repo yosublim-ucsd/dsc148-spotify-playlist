@@ -1,12 +1,12 @@
 {
   "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: quentinn\u00ae",
-  "num_followers": 11055,
+  "num_followers": 11070,
   "original_name": "+852 Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjllMGExMjM1OGI5MzY1ZjQ2MjlkZmIxOTAxODZkYjczNDIzNzg5",
+  "snapshot_id": "MCw2YzVmZmNiNDE4YzRlYjJkZWNjNjcxYWM5ZGI1NGIzZTNjY2ZkM2M0",
   "tracks": [
     {
       "added_at": "2023-09-14 16:00:00",
@@ -23,6 +23,30 @@
       "duration_ms": 193600,
       "name": "PROBLEMS\u2122",
       "url": "https://open.spotify.com/track/5vnDjl0XrHZpgf2WCV6WyV"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f (REMIX)",
+        "url": "https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN"
+      },
+      "artists": [
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        },
+        {
+          "name": "The Low Mays",
+          "url": "https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O"
+        },
+        {
+          "name": "KALAI \u5bb6\u9e97",
+          "url": "https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT"
+        }
+      ],
+      "duration_ms": 246387,
+      "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f - REMIX",
+      "url": "https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE"
     },
     {
       "added_at": "2023-09-14 16:00:00",
@@ -101,6 +125,26 @@
       "url": "https://open.spotify.com/track/1UFVCU3yUSbTFpDGITkBs6"
     },
     {
+      "added_at": "2023-09-15 08:39:20",
+      "album": {
+        "name": "\u4e94\u6642",
+        "url": "https://open.spotify.com/album/2o2HbTE1WTnFenq0gqnU0y"
+      },
+      "artists": [
+        {
+          "name": "\u53ca\u6642\u96e8",
+          "url": "https://open.spotify.com/artist/6ohGilWzOogVjW2UDCX1xp"
+        },
+        {
+          "name": "Novel Friday",
+          "url": "https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68"
+        }
+      ],
+      "duration_ms": 240005,
+      "name": "\u4e94\u6642",
+      "url": "https://open.spotify.com/track/4as7WlRzGLuWRJnl140n3s"
+    },
+    {
       "added_at": "2023-09-14 16:00:00",
       "album": {
         "name": "GHOSTED (Prod. Jom Donato & Shrinjay Ghosh)",
@@ -115,30 +159,6 @@
       "duration_ms": 158367,
       "name": "GHOSTED (Prod. Jom Donato & Shrinjay Ghosh)",
       "url": "https://open.spotify.com/track/0zElDp0olI2fPoeBh1BQB3"
-    },
-    {
-      "added_at": "2023-09-14 16:00:00",
-      "album": {
-        "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f (REMIX)",
-        "url": "https://open.spotify.com/album/69GXEw42aJdTVL52BgNmiN"
-      },
-      "artists": [
-        {
-          "name": "Billy Choi",
-          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
-        },
-        {
-          "name": "The Low Mays",
-          "url": "https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O"
-        },
-        {
-          "name": "KALAI \u5bb6\u9e97",
-          "url": "https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT"
-        }
-      ],
-      "duration_ms": 246387,
-      "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f - REMIX",
-      "url": "https://open.spotify.com/track/3ht0dlqYLY90PA6mOX1hSE"
     },
     {
       "added_at": "2023-09-14 16:00:00",

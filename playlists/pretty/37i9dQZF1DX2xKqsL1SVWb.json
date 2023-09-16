@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Dali Mata y Breton en portada.",
-  "num_followers": 96583,
+  "num_followers": 96576,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzVlN2YzMDE5NWQzOTY1YjkxMWMyNWMzZDBiY2ZmZDViMGExZWIy",
+  "snapshot_id": "MCxiNGI2OTc3NDVmOTkwN2ZkYjcwY2Q0MjgwMTI0MGVmZmM3ZmMxNTdl",
   "tracks": [
     {
       "added_at": "2023-09-01 16:37:39",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
+    },
+    {
+      "added_at": "2023-09-01 16:37:39",
+      "album": {
         "name": "Canciones para escuchar en el r\u00edo",
         "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2023-09-01 16:37:39",
-      "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 168125,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "De Verdad",
-      "url": "https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky"
-    },
-    {
-      "added_at": "2023-09-01 16:37:39",
-      "album": {
         "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
         "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 231275,
       "name": "Nunca Te Olvido",
       "url": "https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K"
+    },
+    {
+      "added_at": "2023-09-01 16:37:39",
+      "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "De Verdad",
+      "url": "https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -743,22 +743,18 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "Es Tan Bonita",
-        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
+        "name": "contigo va a estar bien",
+        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
       },
       "artists": [
         {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 159333,
-      "name": "Es Tan Bonita",
-      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
+      "duration_ms": 185889,
+      "name": "Contigo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -779,18 +775,22 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "contigo va a estar bien",
-        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
+        "name": "Es Tan Bonita",
+        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 185889,
-      "name": "Contigo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
+      "duration_ms": 159333,
+      "name": "Es Tan Bonita",
+      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
+        "name": "Hierbas Para la Tristeza",
+        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
+      },
+      "artists": [
+        {
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
+        }
+      ],
+      "duration_ms": 166112,
+      "name": "Hierbas",
+      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
+    },
+    {
+      "added_at": "2023-09-01 16:37:39",
+      "album": {
         "name": "Perla Rosa",
         "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 218657,
       "name": "Te hab\u00eda contao",
       "url": "https://open.spotify.com/track/00pEWo382r8gERWquqG1wS"
-    },
-    {
-      "added_at": "2023-09-01 16:37:39",
-      "album": {
-        "name": "Hierbas Para la Tristeza",
-        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
-      },
-      "artists": [
-        {
-          "name": "Amapola",
-          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
-        }
-      ],
-      "duration_ms": 166112,
-      "name": "Hierbas",
-      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "SIN TI",
-        "url": "https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG"
-      },
-      "artists": [
-        {
-          "name": "Costa de \u00c1mbar",
-          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "SIN TI",
-      "url": "https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e"
-    },
-    {
-      "added_at": "2023-09-01 16:37:39",
-      "album": {
         "name": "Te Rendiste en Mi",
         "url": "https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 148353,
       "name": "Te Rendiste en Mi",
       "url": "https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6"
+    },
+    {
+      "added_at": "2023-09-01 16:37:39",
+      "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG"
+      },
+      "artists": [
+        {
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "Todo Lo Que Hay",
-        "url": "https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7"
-      },
-      "artists": [
-        {
-          "name": "Costa de \u00c1mbar",
-          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
-        },
-        {
-          "name": "Venado Meraki",
-          "url": "https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB"
-        }
-      ],
-      "duration_ms": 169441,
-      "name": "Todo Lo Que Hay",
-      "url": "https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t"
-    },
-    {
-      "added_at": "2023-09-01 16:37:39",
-      "album": {
         "name": "A Simple Vista",
         "url": "https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 234466,
       "name": "Tu Despedida",
       "url": "https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz"
+    },
+    {
+      "added_at": "2023-09-01 16:37:39",
+      "album": {
+        "name": "Todo Lo Que Hay",
+        "url": "https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7"
+      },
+      "artists": [
+        {
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
+        },
+        {
+          "name": "Venado Meraki",
+          "url": "https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB"
+        }
+      ],
+      "duration_ms": 169441,
+      "name": "Todo Lo Que Hay",
+      "url": "https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t"
     },
     {
       "added_at": "2023-09-01 16:37:39",

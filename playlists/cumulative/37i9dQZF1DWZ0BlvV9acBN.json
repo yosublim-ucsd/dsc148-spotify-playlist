@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 207087,
       "name": "A Est\u00e1tua",
       "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 264750,
       "name": "Aonde Est\u00e1 Deus",
       "url": "https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 265307,
       "name": "Espelhos M\u00e1gicos / Naves Imperiais",
       "url": "https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 229320,
       "name": "Nada Vai Me Parar",
       "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
@@ -1394,6 +1394,24 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+    },
+    {
+      "album": {
+        "name": "Nosso Deus \u00c9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2JF2opWknYA7UFAHKrIOdW"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254762,
+      "name": "Nosso Deus \u00c9 Grande - Ao Vivo",
+      "url": "https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE"
     },
     {
       "album": {
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 282583,
       "name": "N\u00e3o \u00e9 Por Vista",
       "url": "https://open.spotify.com/track/5NXnb2R2cctmTNQHG8vD4K"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 264360,
       "name": "Palavra Que Liberta",
       "url": "https://open.spotify.com/track/1U6LHz1vv8ZMdlMuCNusOf"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 280006,
       "name": "Prodigus",
       "url": "https://open.spotify.com/track/2RRQa8aFw1aYUTv220EAyx"

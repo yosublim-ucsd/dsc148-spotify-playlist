@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "All your favourite pop songs, remixed to perfection. Cover: Joel Corry",
+  "description": "All your favourite pop songs, remixed to perfection. Cover: Hannah Laing",
   "name": "Massive Pop Remixes",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 171904,
       "name": "Breaking Me - HUGEL Remix",
       "url": "https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI"
@@ -482,6 +482,84 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "album": {
+        "name": "Desire (with Sam Smith) [Hannah Laing Remix]",
+        "url": "https://open.spotify.com/album/2Vg83qJEzQy2iaRF5kF4fb"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188891,
+      "name": "Desire (with Sam Smith) - Hannah Laing Remix",
+      "url": "https://open.spotify.com/track/5fMCZVkIvrx6sF0oZhfFYG"
+    },
+    {
+      "album": {
+        "name": "Disconnect ([IVY] & Sudley Remix)",
+        "url": "https://open.spotify.com/album/3vxbfCgnSjLNGfhO2sXUrZ"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186691,
+      "name": "Disconnect - [IVY] & Sudley Remix",
+      "url": "https://open.spotify.com/track/26fSSx1ulAT9znJnPzVL2r"
+    },
+    {
+      "album": {
+        "name": "Do It Like That (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/3xUNr11OLl38k9aPZ5AzrA"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295955,
+      "name": "Do It Like That (Jax Jones Remix)",
+      "url": "https://open.spotify.com/track/2FwNVwldrtc8454bYU5a9g"
     },
     {
       "album": {
@@ -834,7 +912,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 186594,
       "name": "if we never met - remix",
       "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
@@ -860,7 +938,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
@@ -1012,6 +1090,28 @@
       "duration_ms": 163639,
       "name": "Lionheart - Cedric Gervais Remix",
       "url": "https://open.spotify.com/track/1BekxmZKaOuPxxlS7kF1Gz"
+    },
+    {
+      "album": {
+        "name": "Love Like This (Mura Masa Remix)",
+        "url": "https://open.spotify.com/album/270xDX1gI4F98Hli76aDdP"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163322,
+      "name": "Love Like This - Mura Masa Remix",
+      "url": "https://open.spotify.com/track/1wgYKTumhfVTlanuSQ67Jx"
     },
     {
       "album": {
@@ -1170,7 +1270,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 149826,
       "name": "My Heart Goes (La Di Da) (Jess Bays Remix feat. Topic)",
       "url": "https://open.spotify.com/track/5LMdfaHWbYqeI7Bx8S6VJS"
@@ -1262,7 +1362,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 172555,
       "name": "people pleaser - TeeDee Remix",
       "url": "https://open.spotify.com/track/1H1PMVu34Fy9XmXm8xWJx6"
@@ -1742,6 +1842,28 @@
       "duration_ms": 182000,
       "name": "SPACE MAN - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/70IAMMbI8rkyOTu3WNWlSf"
+    },
+    {
+      "album": {
+        "name": "Speed Drive",
+        "url": "https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264706,
+      "name": "Speed Drive - jamesjamesjames Remix; From Barbie The Album",
+      "url": "https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz"
     },
     {
       "album": {

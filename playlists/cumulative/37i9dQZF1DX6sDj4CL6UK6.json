@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Top English songs from Asia. Cover: Komorebi",
+  "description": "Top English songs from Asia. Cover: Farhan, When Chai Met Toast",
   "name": "IndiEnglish",
   "tracks": [
     {
@@ -4047,6 +4047,28 @@
     },
     {
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l"
+      },
+      "artists": [
+        {
+          "name": "Farhan",
+          "url": "https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t"
+        },
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178594,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi"
+    },
+    {
+      "album": {
         "name": "Room247",
         "url": "https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD"
       },
@@ -4444,7 +4466,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 242993,
       "name": "Watch Out",
       "url": "https://open.spotify.com/track/0QiXSRB2SrCIlpqE3NHecv"

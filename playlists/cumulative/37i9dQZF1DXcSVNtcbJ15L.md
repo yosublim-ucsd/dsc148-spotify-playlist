@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-84 songs - 3 hr 57 min
+85 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 | 2022-04-29 |  |
 | [E\-Girl Me Tira Do Sério](https://open.spotify.com/track/0GlUNYKRfTGhnSBzIgquPE) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di) | [E\-Girl Me Tira Do Sério](https://open.spotify.com/album/4mhUCtMXTaGylGsZBFKz2Y) | 3:05 | 2022-04-29 |  |
 | [Espelho Meu](https://open.spotify.com/track/7JDV1Mw6D8IQJst0w3NYmD) | [Dimitre](https://open.spotify.com/artist/4mzh8Rz93TKnaChyWoZGxz) | [Espelho meu](https://open.spotify.com/album/3uxyRYWIKDu89kIbt1AoUa) | 3:12 | 2022-04-29 |  |
-| [Eu Preciso Fugir Daqui](https://open.spotify.com/track/4nHnd42dlZe4pvmEVl3Yst) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Eu Preciso Fugir Daqui](https://open.spotify.com/album/4YiFLVrTe54WuZrcjrsFoD) | 3:28 | 2022-04-29 |  |
+| [Eu Preciso Fugir Daqui](https://open.spotify.com/track/4nHnd42dlZe4pvmEVl3Yst) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Eu Preciso Fugir Daqui](https://open.spotify.com/album/4YiFLVrTe54WuZrcjrsFoD) | 3:28 | 2022-04-29 | 2023-09-16 |
 | [Faz Calor](https://open.spotify.com/track/3ZaK8PfUPouyYTjg1FwBrg) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Jonis](https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Faz Calor](https://open.spotify.com/album/0atczb3hWSrMtRyOhvFXUM) | 2:21 | 2022-04-29 |  |
 | [Flores na Janela](https://open.spotify.com/track/2yrzG5NOawjNKKWqoQgcGb) | [Rafa!](https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO) | [Tudo Que Posso Deixar no Caminho](https://open.spotify.com/album/6WS1zDyXMRZS0oAWi0xHzR) | 2:54 | 2023-01-20 | 2023-04-01 |
 | [Fogo](https://open.spotify.com/track/7ev64ImfrKOFhReYZ0AJBj) | [VENVS](https://open.spotify.com/artist/2ocUyV60vAnpvfuqszD3XG), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Fogo](https://open.spotify.com/album/36N0m4UtqwvrfpLWd6aFKi) | 2:40 | 2022-04-29 |  |
@@ -64,6 +64,7 @@
 | [Poesia Pra Ela](https://open.spotify.com/track/2muI2ZlXv8AVeoB2cE5kTl) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Poesia Pra Ela](https://open.spotify.com/album/4WJqg5tBknaiUoa9oH7sPU) | 5:11 | 2022-04-29 |  |
 | [Portugal](https://open.spotify.com/track/1tLBXifMqnSqLZrk1Rsl8n) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Portugal](https://open.spotify.com/album/5Acna8vDUeXMHpPTjf3J3h) | 3:36 | 2022-04-29 |  |
 | [PPRT](https://open.spotify.com/track/7jRujYuZFzPMMk2PMG7SfZ) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO](https://open.spotify.com/album/4zpfBMqFzFyDUQA2y6KKKD) | 2:42 | 2022-04-29 |  |
+| [Problemas](https://open.spotify.com/track/1seCWIyYI34GbrHMDXAfcP) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Wayys](https://open.spotify.com/artist/67x3KfTXqQxtJVSugeKSmr), [Dom'Ví](https://open.spotify.com/artist/1DqgCN78k7Xnev1x7eJfGc) | [Problemas](https://open.spotify.com/album/5C4Y1IFkYEV2NYjJm1BcYV) | 3:24 | 2023-09-15 |  |
 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 | 2022-07-22 | 2023-04-29 |
 | [Quer um sorvete?](https://open.spotify.com/track/5T9Mw2mK6Naw141IyGK93d) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Quer um sorvete?](https://open.spotify.com/album/3Jz8AePyjnd3NbB2Cldaai) | 2:48 | 2023-04-28 |  |
 | [Quer um sorvete?](https://open.spotify.com/track/7FvudQjnqmKHru7whaHVY3) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Quer um sorvete?](https://open.spotify.com/album/0JG3s687wofD6eQpa2FofA) | 2:48 | 2022-04-29 | 2023-07-26 |

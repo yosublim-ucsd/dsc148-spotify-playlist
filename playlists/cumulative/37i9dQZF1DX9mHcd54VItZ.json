@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=GelQWYzpTk-l2uPtHFRCzA\">Spoegwolf</a>",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"Elle E\">Elle E</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Altyd Daar",
+        "url": "https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab"
+      },
+      "artists": [
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255773,
+      "name": "Altyd Daar",
+      "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
+    },
+    {
+      "album": {
         "name": "Always Remember",
         "url": "https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 246721,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/3LA6VbrzapzPrBl7VaNyoD"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 152112,
       "name": "Burn It",
       "url": "https://open.spotify.com/track/7hSWzzi9Cwu3JL8NB7SpFh"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 214662,
       "name": "Drinking Alone",
       "url": "https://open.spotify.com/track/0PvTuzW3IxIFZM7LwIRXR7"
@@ -2065,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/0qaFvNHmuPFEXqzzFGasPW"
+      },
+      "artists": [
+        {
+          "name": "RAYNE",
+          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203513,
+      "name": "Flower (\uaf43)",
+      "url": "https://open.spotify.com/track/5z4Etcsgyj0bXQBefoiC7w"
+    },
+    {
+      "album": {
         "name": "For the Pain",
         "url": "https://open.spotify.com/album/62lgMNaKQtizxmRYQSQu4I"
       },
@@ -2496,6 +2532,24 @@
       "duration_ms": 243498,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/629X30psE0HDVwMflpkOKm"
+    },
+    {
+      "album": {
+        "name": "Hou Bene Hou",
+        "url": "https://open.spotify.com/album/56hil9lgMhYIeR3kabttwB"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247638,
+      "name": "Hou Bene Hou",
+      "url": "https://open.spotify.com/track/0PwwO8REYMl65SU8esvtxc"
     },
     {
       "album": {
@@ -3398,7 +3452,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 149461,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6EC17BieM7VV6brgDbTjVq"
@@ -4113,6 +4167,24 @@
     },
     {
       "album": {
+        "name": "Pizza Party",
+        "url": "https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Pizza Party",
+      "url": "https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr"
+    },
+    {
+      "album": {
         "name": "Prisoner of Love",
         "url": "https://open.spotify.com/album/3LH67r1FHNlrDCr0adjRBA"
       },
@@ -4344,6 +4416,24 @@
       "duration_ms": 170896,
       "name": "Reincarnation",
       "url": "https://open.spotify.com/track/5MwoGlSxY2oLYW1wYBw5Pl"
+    },
+    {
+      "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/2AxR1RKuskyb1ZK0AQxMD7"
+      },
+      "artists": [
+        {
+          "name": "RyanV",
+          "url": "https://open.spotify.com/artist/5ypuyy5P6dE3US3UgXj4PT"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189896,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/2X7CueiRw3znYvsRPHSIkv"
     },
     {
       "album": {
@@ -4796,7 +4886,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 197438,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2WJLJtpRXiWgPGuSiV9kY2"
@@ -5718,7 +5808,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 218398,
       "name": "Tyd",
       "url": "https://open.spotify.com/track/2gjF0eIvngzCHPCH0F86q0"
@@ -5902,6 +5992,24 @@
       "duration_ms": 276667,
       "name": "Vodka and Smoke",
       "url": "https://open.spotify.com/track/514tQtj7uyLHMn2yGgJkmj"
+    },
+    {
+      "album": {
+        "name": "Vriend",
+        "url": "https://open.spotify.com/album/1nDlCjKf176FOs2ej8puEC"
+      },
+      "artists": [
+        {
+          "name": "Armand Steenkamp",
+          "url": "https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197876,
+      "name": "Vriend",
+      "url": "https://open.spotify.com/track/4N0DKF5cPNjxPWRGLsXvvH"
     },
     {
       "album": {

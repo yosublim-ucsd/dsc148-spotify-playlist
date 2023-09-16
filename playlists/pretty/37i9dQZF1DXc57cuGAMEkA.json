@@ -1,12 +1,12 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002 Sia, King Gnu, Zara Larsson, Doja Cat, Sam Smith and more! Cover: Sia",
-  "num_followers": 95442,
+  "num_followers": 95517,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjQzMTVmMjQ2ODUwMmI2YWRjYmViNGVmZTNiZWRlNjM1N2FjMWJj",
+  "snapshot_id": "MCw2MjgzZWRkODRiMjMzNGY4NDI1ZDJiNGFmOThhMTQ5MjUzMmFlM2Nl",
   "tracks": [
     {
       "added_at": "2023-09-14 15:00:00",
@@ -45,6 +45,26 @@
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
+      "added_at": "2023-09-15 07:41:14",
+      "album": {
+        "name": "Slime You Out",
+        "url": "https://open.spotify.com/album/7yrMQ9wngHXEj2TvdELt4E"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/54HO2KPz2thslNq6yomWOF"
+    },
+    {
       "added_at": "2023-09-14 15:00:00",
       "album": {
         "name": "\u785d\u5b50\u7a93",
@@ -72,20 +92,20 @@
           "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
         },
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         },
         {
           "name": "21 Savage",
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 286559,
-      "name": "Another One Of Me (feat. The Weeknd, 21 Savage and French Montana)",
+      "duration_ms": 220408,
+      "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
     },
     {
@@ -151,6 +171,26 @@
       "duration_ms": 180596,
       "name": "I say bye",
       "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
+        "name": "Back for More (with Anitta)",
+        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -303,8 +343,8 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "\u56de\u8ee2\u3059\u308b\u30a4\u30ce\u30bb\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/0U0C2l2gKqiYPNAxUEl6M5"
+        "name": "kaitensuruinosensu",
+        "url": "https://open.spotify.com/album/2G2vADCkpaVtF1HlNxaoc3"
       },
       "artists": [
         {
@@ -313,8 +353,8 @@
         }
       ],
       "duration_ms": 241918,
-      "name": "\u56de\u8ee2\u3059\u308b\u30a4\u30ce\u30bb\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/74a1XunqQF0AsK0ilBTacK"
+      "name": "kaitensuruinosensu",
+      "url": "https://open.spotify.com/track/6kOlOApwUtfjqmSCQx9DCT"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -495,6 +535,42 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
+        "name": "Killin' Me Good (English Ver.)",
+        "url": "https://open.spotify.com/album/3FZTxJrmuObG7HCgQe9acb"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Killin' Me Good (English Ver.)",
+      "url": "https://open.spotify.com/track/0t5Q16hVryXI4CKx8VpA66"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
+        "name": "iScreaM Vol.26 : Spicy Remix",
+        "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Spicy - Nitepunk Remix",
+      "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
         "name": "[BONVOYAGE (Farewell Ver.)]",
         "url": "https://open.spotify.com/album/2oBHZWKC421qcUeMZLYNTO"
       },
@@ -631,6 +707,38 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
+        "name": "FAN",
+        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
+        "name": "Bigger Houses",
+        "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Neon Cowgirl",
+      "url": "https://open.spotify.com/track/4ktoN9vInbzJXXaSSlngng"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
         "name": "Easy Thing",
         "url": "https://open.spotify.com/album/1IMObMG6eLRwu6ZVTkACWa"
       },
@@ -699,18 +807,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "\u4eca\u65e5\u3082\u55ab\u8336\u5e97\u3067\u672c\u3092\u8aad\u3080",
-        "url": "https://open.spotify.com/album/4byEuAoGIcIgdbQUoxndU9"
+        "name": "kyoumo Kissatende Honwo Yomu",
+        "url": "https://open.spotify.com/album/4EGtwrnHfIXnTNoPXtemhh"
       },
       "artists": [
         {
-          "name": "\u6ce1\u304f\u3001\u8106\u304f\u3002",
-          "url": "https://open.spotify.com/artist/0Gr5IN22Dhn1DDkp0bLVHp"
+          "name": "Awaku,Moroku.",
+          "url": "https://open.spotify.com/artist/2XPbYwItivSec2Ntft0baX"
         }
       ],
       "duration_ms": 185000,
-      "name": "\u4eca\u65e5\u3082\u55ab\u8336\u5e97\u3067\u672c\u3092\u8aad\u3080",
-      "url": "https://open.spotify.com/track/1xkco8hURBmEbtbTWdxNgi"
+      "name": "kyoumo Kissatende Honwo Yomu",
+      "url": "https://open.spotify.com/track/2oBQEi8nf33QmpxgKId0S7"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -995,6 +1103,22 @@
       "duration_ms": 194405,
       "name": "So Done",
       "url": "https://open.spotify.com/track/71gkG16XCM5KTPBhLIghHj"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
+        "name": "So I Danced",
+        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "So I Danced",
+      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
     },
     {
       "added_at": "2023-09-14 15:00:00",

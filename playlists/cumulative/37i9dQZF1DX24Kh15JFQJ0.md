@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-225 songs - 13 hr 14 min
+226 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Never Seen The World \(feat\. Vince Gill\)](https://open.spotify.com/track/0O7Hlfi7hBVZ0WSvIE1SRI) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Never Seen The World \(feat\. Vince Gill\)](https://open.spotify.com/album/26LS0dqjZmqP8Xd9oSkkw1) | 3:11 | 2021-10-15 |  |
 | [Next to You](https://open.spotify.com/track/6BdSXxFTkybuT8CbcDLxru) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Next to You](https://open.spotify.com/album/4v0NbuCD5m62bcK7t7RMUn) | 3:18 | 2022-04-29 | 2022-09-21 |
 | [No News \- 2023 Version](https://open.spotify.com/track/2K1M78aAirgsT99LjZzQir) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [No News \(2023 Version\)](https://open.spotify.com/album/1TA5XToA2y7gWRVjXZyiHr) | 3:06 | 2023-04-14 |  |
+| [Nobody's Fault But Mine](https://open.spotify.com/track/27Gcs6x0EV4npr9v5btbu8) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Chapel](https://open.spotify.com/album/4fXxMiJGwvEOUwIlghN86T) | 3:37 | 2023-09-15 |  |
 | [Not A Dry Eye In The House](https://open.spotify.com/track/7IhQxfKt1rWvPSpWJcIpIk) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Not A Dry Eye In The House](https://open.spotify.com/album/3iOsbjIjInM7sXnfb47IeT) | 3:47 | 2021-10-15 |  |
 | [Oklahoma Breakdown](https://open.spotify.com/track/4nDPmC0iP2H1z9htbOSYE0) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Oklahoma Breakdown](https://open.spotify.com/album/1eu0MKUEcPO9visw42iFDo) | 3:31 | 2021-10-15 | 2022-07-29 |
 | [Oklahoma Breakdown](https://open.spotify.com/track/5RJiZmTaC9o57TSCZN5anN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Oklahoma Breakdown](https://open.spotify.com/album/5Pxx8mNX7bs9U7CeiH26T8) | 3:31 | 2022-11-04 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-318 songs - 15 hr 56 min
+319 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Head Start](https://open.spotify.com/track/0KKgRBtM1I3TxDoFmdjKAU) | [Fred Jayson](https://open.spotify.com/artist/7pt8uu5aZjCWmDtR23Bb60) | [Head Start](https://open.spotify.com/album/2Pkce8Rq52uQtaNd6m6tbP) | 3:07 | 2022-05-20 | 2022-09-09 |
 | [High Five](https://open.spotify.com/track/1ff94cpvhlQx8ZInQTJ0jF) | [BleuBleu](https://open.spotify.com/artist/3qYIBPbFBzEWiQDsI6ILVh) | [High Five](https://open.spotify.com/album/2uEm1C9gQ5YJceSMggA2vN) | 2:34 | 2022-05-20 | 2023-01-07 |
 | [hilltop groove](https://open.spotify.com/track/1ZYTlvzIZETENB6jOTCWAw) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [hilltop groove](https://open.spotify.com/album/2SGdacU5gufEJEbWn0q0bO) | 2:50 | 2022-10-07 |  |
+| [Hope Starts Here](https://open.spotify.com/track/5uwXOFaQy8v7iQVnGhrJXo) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Hope Starts Here](https://open.spotify.com/album/5BWcScvgGjyU022sEcSIyx) | 2:48 | 2023-09-15 |  |
 | [Hopes and Beams](https://open.spotify.com/track/4WQcInYpytUjcnbZMFZ9xu) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [One Woman’s Journey](https://open.spotify.com/album/38hVrYvEJd9dcs5rx7Z9Dg) | 4:00 | 2022-05-20 |  |
 | [Horizon](https://open.spotify.com/track/3Lawg0VthZy12cadJXYDeP) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Horizon](https://open.spotify.com/album/2jXHPzB2gDsEEXomOJPdkg) | 2:37 | 2022-05-20 | 2022-07-01 |
 | [Horizon Island](https://open.spotify.com/track/3CM4BJe9jzdNLXXt9Ob3su) | [Zulu Wow](https://open.spotify.com/artist/39OA3fyzp8hPnuAG4W4Lhg) | [Horizon Island](https://open.spotify.com/album/0o2XprxKqcMod4DMKLR6DG) | 3:36 | 2022-05-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,116 likes - 85 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,200 likes - 86 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,11 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 77 | [Zulu](https://open.spotify.com/track/7toCMhnVo1qctxl8IK8l9K) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd), [Dupleaux](https://open.spotify.com/artist/6DFdY2okBQHMutpHvNllHH) | [Zulu](https://open.spotify.com/album/5BWroPNfI4cgbVZMhOmFgw) | 3:37 |
 | 78 | [A Time To](https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [A Time To](https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83) | 3:51 |
 | 79 | [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 |
-| 80 | [Pursuing Hope](https://open.spotify.com/track/1LvZxDh1QdLjbglpDYmxO9) | [Naji Arun](https://open.spotify.com/artist/6D4iLrobSbnjNEriFsP6lG) | [Wild Cards 15](https://open.spotify.com/album/0PiZxkumyyAWEfJRCojjAs) | 4:58 |
-| 81 | [Lonely Night](https://open.spotify.com/track/7kvs3o12r8O88rJL727YWB) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Lonely Night](https://open.spotify.com/album/5SijFh7slOdvypBK269Be6) | 4:18 |
-| 82 | [Biologically Unique](https://open.spotify.com/track/1w0YqmsRPGnUhw5WPCjbwL) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Destroying the Commons \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/5j49qhDj0R2sNiYhyvsgUl) | 3:10 |
-| 83 | [Horizon](https://open.spotify.com/track/5XS5y3JmxNyp39AM1G5LKc) | [Grand Soleil](https://open.spotify.com/artist/7dhbDPq0PhEbcf3PB1f4R8) | [Horizon](https://open.spotify.com/album/0UvAiiyVwwmZ0z0YowDcxK) | 4:25 |
-| 84 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
-| 85 | [Discovery](https://open.spotify.com/track/5npj4pyFmLxaV7sl59tZVB) | [Can Yıldızay](https://open.spotify.com/artist/5z9s8EUJoZ0HcoRqNrlFNg) | [Discovery](https://open.spotify.com/album/5jxCiCAEmvRsXosoyQXjok) | 3:46 |
+| 80 | [Deep Breaths](https://open.spotify.com/track/76CZ2QsN9I65OgsUHICRRg) | [ysurgi](https://open.spotify.com/artist/19hEr5cdWJEUO9p9aNk6lk) | [Deep Breaths](https://open.spotify.com/album/4Wcwbs5TobD4hmI6PG4QuJ) | 2:36 |
+| 81 | [Pursuing Hope](https://open.spotify.com/track/1LvZxDh1QdLjbglpDYmxO9) | [Naji Arun](https://open.spotify.com/artist/6D4iLrobSbnjNEriFsP6lG) | [Wild Cards 15](https://open.spotify.com/album/0PiZxkumyyAWEfJRCojjAs) | 4:58 |
+| 82 | [Lonely Night](https://open.spotify.com/track/7kvs3o12r8O88rJL727YWB) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Lonely Night](https://open.spotify.com/album/5SijFh7slOdvypBK269Be6) | 4:18 |
+| 83 | [Biologically Unique](https://open.spotify.com/track/1w0YqmsRPGnUhw5WPCjbwL) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Destroying the Commons \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/5j49qhDj0R2sNiYhyvsgUl) | 3:10 |
+| 84 | [Horizon](https://open.spotify.com/track/5XS5y3JmxNyp39AM1G5LKc) | [Grand Soleil](https://open.spotify.com/artist/7dhbDPq0PhEbcf3PB1f4R8) | [Horizon](https://open.spotify.com/album/0UvAiiyVwwmZ0z0YowDcxK) | 4:25 |
+| 85 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
+| 86 | [Discovery](https://open.spotify.com/track/5npj4pyFmLxaV7sl59tZVB) | [Can Yıldızay](https://open.spotify.com/artist/5z9s8EUJoZ0HcoRqNrlFNg) | [Discovery](https://open.spotify.com/album/5jxCiCAEmvRsXosoyQXjok) | 3:46 |
 
-Snapshot ID: `MCwzZmMxZDU1Yjg1Y2Y3NzllNDc4M2YzY2ExYTAyZDIxMmI4NzAyNmRj`
+Snapshot ID: `MCw3NTgwNzg2YmEzZWQxMTY2OGUzZTM4ZWM3OGI4OWU4Y2U0MDZmODBj`

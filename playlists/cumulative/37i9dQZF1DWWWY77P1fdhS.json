@@ -236,10 +236,32 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 233480,
       "name": "Calabria 2007 (feat. Natasja) - Radio Edit",
       "url": "https://open.spotify.com/track/49ou9vBZLTCi4TYoYzR3F9"
+    },
+    {
+      "album": {
+        "name": "Raggatronic",
+        "url": "https://open.spotify.com/album/71vYvO6c9Wzh06fZPHXj3z"
+      },
+      "artists": [
+        {
+          "name": "Enur",
+          "url": "https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC"
+        },
+        {
+          "name": "Natasja",
+          "url": "https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230656,
+      "name": "Calabria 2008",
+      "url": "https://open.spotify.com/track/5Y2pr8wjzjO2te4MnxTUa7"
     },
     {
       "album": {

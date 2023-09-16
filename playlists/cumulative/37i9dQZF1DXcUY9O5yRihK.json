@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "For the hopeless romantic daydreamers. ",
+  "description": "Bossa nova vibes for the hopeless romantic daydreamers. ",
   "name": "blush",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 110206,
       "name": "aime",
       "url": "https://open.spotify.com/track/6fW0lH7uRHh0kDXBHuYLkL"
@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
+    },
+    {
+      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
       },
@@ -314,7 +332,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
@@ -532,7 +550,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 92000,
       "name": "espresso",
       "url": "https://open.spotify.com/track/0VNcFGQjN7huUyEPwBtksC"
@@ -724,6 +742,24 @@
       "duration_ms": 270720,
       "name": "Hopeless Romantic",
       "url": "https://open.spotify.com/track/6MVMbS5zwts8wgC1Re1VKF"
+    },
+    {
+      "album": {
+        "name": "Hot Yoga",
+        "url": "https://open.spotify.com/album/2uGz5bn9F2IkqpZwwkO3be"
+      },
+      "artists": [
+        {
+          "name": "Morganne",
+          "url": "https://open.spotify.com/artist/6Au2T6xOPGJU6SsgyLWKp8"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Hot Yoga",
+      "url": "https://open.spotify.com/track/7Kww1lvMVSlOK7LttfKxNO"
     },
     {
       "album": {
@@ -1672,6 +1708,24 @@
       "duration_ms": 228990,
       "name": "Why Don't You",
       "url": "https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF"
+    },
+    {
+      "album": {
+        "name": "You At Home",
+        "url": "https://open.spotify.com/album/3i8PAjApnVRYhrby3hzCfJ"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161318,
+      "name": "You At Home",
+      "url": "https://open.spotify.com/track/2FGn5SVPl5kzx7kSSZ2db0"
     },
     {
       "album": {

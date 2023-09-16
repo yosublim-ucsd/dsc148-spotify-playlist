@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Outside Vol.2",
+        "url": "https://open.spotify.com/album/5WGmCGp0OT4ViQdA3EdBA1"
+      },
+      "artists": [
+        {
+          "name": "Oddkut",
+          "url": "https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281401,
+      "name": "In the Breaks",
+      "url": "https://open.spotify.com/track/74OUiNuEA5FMA9D5ghXpgy"
+    },
+    {
+      "album": {
         "name": "Infrasound",
         "url": "https://open.spotify.com/album/1Z0JNGkLgVQVhXU3ZlhGD4"
       },
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 476514,
       "name": "Yes, Ok?",
       "url": "https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf"

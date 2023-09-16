@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=r3X6pv59R4eYTg54Qubu_A\">Die Piesangskille</a>  ",
-  "num_followers": 80730,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs?si=h26HyYj1R1KCbeAnPa5mwg\">Leon Schuster</a>  ",
+  "num_followers": 80899,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmIzOTBmMDZhN2I1MWYzOWRjYzc3NWZhOGM3ODIxZWExOGY4MmM3",
+  "snapshot_id": "MCw0MGQ1OTgzY2M5MjYxODM0ZmExZmZiMzBhOWRjNTUwM2QwYThjNzU4",
   "tracks": [
+    {
+      "added_at": "2023-09-15 03:24:00",
+      "album": {
+        "name": "Die Bokmasjien",
+        "url": "https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm"
+      },
+      "artists": [
+        {
+          "name": "Leon Schuster",
+          "url": "https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs"
+        }
+      ],
+      "duration_ms": 226539,
+      "name": "Die Bokmasjien",
+      "url": "https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK"
+    },
     {
       "added_at": "2023-08-17 22:01:39",
       "album": {
@@ -169,6 +185,34 @@
       "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
     },
     {
+      "added_at": "2023-09-15 03:24:00",
+      "album": {
+        "name": "Saam Suid-Afrika",
+        "url": "https://open.spotify.com/album/795PoyrlQBseo7X9SQsNJA"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        },
+        {
+          "name": "Anlia Star",
+          "url": "https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm"
+        },
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        },
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "duration_ms": 226229,
+      "name": "Saam Suid-Afrika",
+      "url": "https://open.spotify.com/track/4Nngq9WlJXvN3AyDnocQAz"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Spontaan",
@@ -183,22 +227,6 @@
       "duration_ms": 192053,
       "name": "Vat 'n Bietjie",
       "url": "https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ"
-    },
-    {
-      "added_at": "2023-08-10 21:59:00",
-      "album": {
-        "name": "As Hy Weer Kom",
-        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
-      },
-      "artists": [
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "As Hy Weer Kom",
-      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -251,6 +279,38 @@
       "duration_ms": 205237,
       "name": "Vlam In Die Wind",
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
+    },
+    {
+      "added_at": "2023-08-10 21:59:00",
+      "album": {
+        "name": "As Hy Weer Kom",
+        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "As Hy Weer Kom",
+      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Foto's",
+        "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "Foto's",
+      "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
     },
     {
       "added_at": "2023-08-24 21:59:00",
@@ -311,38 +371,6 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Vuur En Vlam",
-        "url": "https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK"
-      },
-      "artists": [
-        {
-          "name": "VAN WEST",
-          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "Vuur En Vlam",
-      "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Foto's",
-        "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "Foto's",
-      "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
         "name": "H2O\u00eb",
         "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
       },
@@ -355,6 +383,22 @@
       "duration_ms": 175375,
       "name": "H2O\u00eb",
       "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Vuur En Vlam",
+        "url": "https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK"
+      },
+      "artists": [
+        {
+          "name": "VAN WEST",
+          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "Vuur En Vlam",
+      "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -675,22 +719,6 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "#23",
-        "url": "https://open.spotify.com/album/0rKmgLBSXpXfVQ83vIrjR2"
-      },
-      "artists": [
-        {
-          "name": "Lisie Basson",
-          "url": "https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR"
-        }
-      ],
-      "duration_ms": 162810,
-      "name": "#23",
-      "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
         "name": "John Deere Hoed",
         "url": "https://open.spotify.com/album/6ClZGnn2DfZ4clTakd59Bl"
       },
@@ -1003,26 +1031,6 @@
       "duration_ms": 205973,
       "name": "Kom En L\u00ea My Neer",
       "url": "https://open.spotify.com/track/5P6L2kPsrfqqXrKOHhELpW"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Kaap",
-        "url": "https://open.spotify.com/album/6Tn9J9QxGzgktcULy6CWLF"
-      },
-      "artists": [
-        {
-          "name": "Jan Blohm",
-          "url": "https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW"
-        },
-        {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Kaap",
-      "url": "https://open.spotify.com/track/1EYLPim5kBNKwDCrG48sNW"
     },
     {
       "added_at": "2023-06-29 21:59:00",

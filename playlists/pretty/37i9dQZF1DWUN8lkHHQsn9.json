@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:5n9VtqOD2WpsEHeCdTCLKt\">Zawadzki</a>",
-  "num_followers": 6134,
+  "num_followers": 6185,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2IzODRlYTUwNDllZWE2NTA3ZGE5MmRmNzU5NzI4NjBkOTVmMzQw",
+  "snapshot_id": "MCwzMmJiMDAwZjg0NmY5MDQxNzcxZDQzNzFmZDIwZGQ5YTFlYjk2ZDEw",
   "tracks": [
     {
       "added_at": "2023-09-11 22:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-09-11 22:00:00",
       "album": {
+        "name": "miss u",
+        "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 150001,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
+    },
+    {
+      "added_at": "2023-09-11 22:00:00",
+      "album": {
         "name": "Spicy",
         "url": "https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 159985,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ"
-    },
-    {
-      "added_at": "2023-09-11 22:00:00",
-      "album": {
-        "name": "miss u",
-        "url": "https://open.spotify.com/album/0TIjkkDpIOiOmdc3el92Uz"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 150001,
-      "name": "miss u",
-      "url": "https://open.spotify.com/track/6264KCYuGN6YncMjaGbiRH"
     },
     {
       "added_at": "2023-09-11 22:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-09-11 22:00:00",
       "album": {
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-09-11 22:00:00",
+      "album": {
         "name": "Jeszcze mam serce",
         "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2023-09-11 22:00:00",
       "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
       },
       "artists": [
         {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2023-09-11 22:00:00",
@@ -931,22 +947,6 @@
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2023-09-11 22:00:00",
-      "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2023-09-11 22:00:00",

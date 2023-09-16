@@ -1,12 +1,12 @@
 {
   "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io?si=XkStSkkaT6OkdsdKWI9kLw\">Wikus Botma</a> ",
-  "num_followers": 13165,
+  "num_followers": 13192,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTY5ODhhOTc5NTc5MTg1NDgxZmU5ODZiNTRmZjhjN2UzYjMzMDdm",
+  "snapshot_id": "MCw5ZmY5MzhmYTgwMTE3YzhiY2YyNDdkNTU0ZTEyZDgwM2U2ZTc0YTA1",
   "tracks": [
     {
       "added_at": "2023-09-14 21:59:00",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/7GBM233ijwfI15XT5ZLPXx"
     },
     {
+      "added_at": "2023-09-14 21:59:00",
+      "album": {
+        "name": "Rolo Meisie",
+        "url": "https://open.spotify.com/album/5pmb3TbOGa6PmcZBAHiMAR"
+      },
+      "artists": [
+        {
+          "name": "Dis Net Frederick",
+          "url": "https://open.spotify.com/artist/7K8dXmsaU5eAldwKd9ljRM"
+        }
+      ],
+      "duration_ms": 201888,
+      "name": "Rolo Meisie",
+      "url": "https://open.spotify.com/track/7fsXg0bJaEv9XSRsSjvznD"
+    },
+    {
       "added_at": "2023-08-17 22:01:39",
       "album": {
         "name": "Laatnag Gedagtes",
@@ -375,6 +391,22 @@
       "duration_ms": 174254,
       "name": "Laatnag Gedagtes",
       "url": "https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r"
+    },
+    {
+      "added_at": "2023-09-15 03:28:12",
+      "album": {
+        "name": "Genna Reyter",
+        "url": "https://open.spotify.com/album/2bwzxbfqSauPYo96zTe9DT"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "duration_ms": 225605,
+      "name": "Genna Reyter",
+      "url": "https://open.spotify.com/track/4na4KG1uETHx3OI67F60Hs"
     },
     {
       "added_at": "2023-09-09 19:02:37",
@@ -771,22 +803,6 @@
       "duration_ms": 185538,
       "name": "Hakahana",
       "url": "https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH"
-    },
-    {
-      "added_at": "2023-08-10 21:59:00",
-      "album": {
-        "name": "Maklike Wiskunde",
-        "url": "https://open.spotify.com/album/5p9fzbfamUcur56ggADvpM"
-      },
-      "artists": [
-        {
-          "name": "Wilma Van Heerden",
-          "url": "https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP"
-        }
-      ],
-      "duration_ms": 205491,
-      "name": "Maklike Wiskunde",
-      "url": "https://open.spotify.com/track/1TfZmY5zUBADXr4HqvICWQ"
     },
     {
       "added_at": "2023-06-22 21:59:00",

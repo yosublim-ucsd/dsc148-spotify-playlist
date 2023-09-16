@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-116 songs - 6 hr 37 min
+117 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [El Puente](https://open.spotify.com/track/0AEE29MR3wWP5KHo3wIJiu) | [Eric Vasquez,Jesse Manuel Hernadez,Julian Mireles Jr.](https://open.spotify.com/artist/0rAVxTEmScGnf5A0XSl7iG) | [Hecho en Mexico: Traditional Sounds and Modern Latin Grooves](https://open.spotify.com/album/3VGQQzs6CiziWT37YApV7z) | 2:27 | 2023-05-26 |  |
 | [En Pausa](https://open.spotify.com/track/4xSLkAIKGL1kYa6V0NzJGV) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [En Pausa](https://open.spotify.com/album/33NBuJXblgn3swtbT6d846) | 3:31 | 2023-05-26 |  |
 | [Enculado](https://open.spotify.com/track/07lthWzkSdlmEI435DtCcf) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [RIKO](https://open.spotify.com/artist/3bX0TAwah1a1TNlsJgOgP7) | [Enculado](https://open.spotify.com/album/4LuGDwl9vmidZ1T1PxpJEm) | 3:46 | 2023-05-26 |  |
+| [Enrolemos uno](https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L) | [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Chenguedengue](https://open.spotify.com/artist/2BbaWbkYiUZw3MRpiZYFdi) | [Enrolemos uno](https://open.spotify.com/album/5gaExTOw8xJLQdZkDwEqRE) | 3:06 | 2023-09-15 |  |
 | [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 | 2023-05-26 |  |
 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 | 2023-05-26 |  |
 | [Estúpido](https://open.spotify.com/track/6dhHzdNdhDota4Yb1s7o0g) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Estúpido](https://open.spotify.com/album/6GZyMWAmUe5XjtLG79jVnG) | 3:16 | 2023-05-26 | 2023-07-01 |
@@ -53,7 +54,7 @@
 | [Fractúbela](https://open.spotify.com/track/5BNZcuyCkcBNIhF2DmQlWf) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Fractúbela](https://open.spotify.com/album/2bcCoVonJSVHk4Q7IYMRyf) | 4:18 | 2023-05-26 |  |
 | [Get High](https://open.spotify.com/track/7ILOofpdpK1uuB7kD1SBYN) | [Stereo Fear](https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Spaced Out](https://open.spotify.com/album/6v1Er5MlyuxD3f6dAZP96i) | 1:43 | 2023-05-26 |  |
 | [Giros y Vueltas](https://open.spotify.com/track/6wY1rUITW0yOPsPppDA2ka) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [D'huizar](https://open.spotify.com/artist/3DCJs16lEewkE0m5Do6feJ) | [Giros y Vueltas](https://open.spotify.com/album/50P2thslyhEf8Ye8iZXs8S) | 2:22 | 2023-05-26 |  |
-| [hablar contigo </3](https://open.spotify.com/track/15Uu7CsZ5aYA3lTaNy3hfl) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [hablar contigo </3](https://open.spotify.com/album/4W23J0psjH7WP4kaJZZqj2) | 2:38 | 2023-05-26 |  |
+| [hablar contigo </3](https://open.spotify.com/track/15Uu7CsZ5aYA3lTaNy3hfl) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [hablar contigo </3](https://open.spotify.com/album/4W23J0psjH7WP4kaJZZqj2) | 2:38 | 2023-05-26 | 2023-09-16 |
 | [Ilegal](https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [99,9](https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0) | 2:10 | 2023-05-26 |  |
 | [invierno](https://open.spotify.com/track/4PKLs1tZ006g3zuDz1oWzS) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [invierno](https://open.spotify.com/album/4toARlIoArIYhy3CH14Bar) | 2:12 | 2023-05-26 |  |
 | [JetLag](https://open.spotify.com/track/3Gily4qMvAOytQ07gpHDVD) | [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [JetLag](https://open.spotify.com/album/1mRE5D3tfO0IcMimnUOxbu) | 4:29 | 2023-05-26 |  |

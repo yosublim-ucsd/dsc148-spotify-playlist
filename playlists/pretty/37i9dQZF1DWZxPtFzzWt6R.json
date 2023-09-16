@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 71037,
+  "num_followers": 71088,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGI2M2JiYTUwMmIwM2JlODQ2Njc3N2VmNjI1OGNiMmQ0YTI2ZDMw",
+  "snapshot_id": "MCxhOTMyOTc1ZWE5M2QyMzg4ZDY5OGJlNDIwYTQyNmE3ZjNlNWNmY2U0",
   "tracks": [
     {
       "added_at": "2023-09-01 15:57:06",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-09-01 15:57:06",
       "album": {
+        "name": "Chuva de Poder",
+        "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rodrigues",
+          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Chuva de Poder",
+      "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
+    },
+    {
+      "added_at": "2023-09-01 15:57:06",
+      "album": {
         "name": "Tempo de Vit\u00f3ria",
         "url": "https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 229408,
       "name": "Tempo de Vit\u00f3ria",
       "url": "https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4"
-    },
-    {
-      "added_at": "2023-09-01 15:57:06",
-      "album": {
-        "name": "No Barco",
-        "url": "https://open.spotify.com/album/3BI1BaAzWaw29XCxyDQVJB"
-      },
-      "artists": [
-        {
-          "name": "Junior e Mateus",
-          "url": "https://open.spotify.com/artist/7AdOPAnF5BAROmS3QmXY4I"
-        }
-      ],
-      "duration_ms": 213432,
-      "name": "O Barco",
-      "url": "https://open.spotify.com/track/3H5tR9rP70xNthQlVxbMgW"
     },
     {
       "added_at": "2023-09-01 15:57:06",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-09-01 15:57:06",
       "album": {
+        "name": "No Barco",
+        "url": "https://open.spotify.com/album/3BI1BaAzWaw29XCxyDQVJB"
+      },
+      "artists": [
+        {
+          "name": "Junior e Mateus",
+          "url": "https://open.spotify.com/artist/7AdOPAnF5BAROmS3QmXY4I"
+        }
+      ],
+      "duration_ms": 213432,
+      "name": "O Barco",
+      "url": "https://open.spotify.com/track/3H5tR9rP70xNthQlVxbMgW"
+    },
+    {
+      "added_at": "2023-09-01 15:57:06",
+      "album": {
         "name": "Viola e Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 158250,
       "name": "O Crente e a Palmeira",
       "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
-    },
-    {
-      "added_at": "2023-09-01 15:57:06",
-      "album": {
-        "name": "Chuva de Poder",
-        "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rodrigues",
-          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Chuva de Poder",
-      "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
     },
     {
       "added_at": "2023-09-01 15:57:06",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-09-01 15:57:06",
       "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5"
+        "name": "Eu Quero Ir pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
       },
       "artists": [
         {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
         }
       ],
-      "duration_ms": 215357,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2"
+      "duration_ms": 273913,
+      "name": "Eu Quero Ir pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
     },
     {
       "added_at": "2023-09-01 15:57:06",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-09-01 15:57:06",
       "album": {
-        "name": "Eu Quero Ir pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5"
       },
       "artists": [
         {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 273913,
-      "name": "Eu Quero Ir pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
+      "duration_ms": 215357,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2"
     },
     {
       "added_at": "2023-09-01 15:57:06",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-09-01 15:57:06",
       "album": {
+        "name": "Triunfo de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 336796,
+      "name": "O Pr\u00f3digo Vai Voltar",
+      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
+    },
+    {
+      "added_at": "2023-09-01 15:57:06",
+      "album": {
         "name": "Lugar Secreto",
         "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 226269,
       "name": "Lugar Secreto",
       "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
-    },
-    {
-      "added_at": "2023-09-01 15:57:06",
-      "album": {
-        "name": "Estou de Volta",
-        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Estou de Volta",
-      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
     },
     {
       "added_at": "2023-09-01 15:57:06",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-09-01 15:57:06",
       "album": {
-        "name": "Triunfo de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
+        "name": "Estou de Volta",
+        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
       },
       "artists": [
         {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 336796,
-      "name": "O Pr\u00f3digo Vai Voltar",
-      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
+      "duration_ms": 245000,
+      "name": "Estou de Volta",
+      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
     },
     {
       "added_at": "2023-09-01 15:57:06",

@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-758 songs - 1 day 15 hr 48 min
+761 songs - 1 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [As It Is](https://open.spotify.com/track/1HOqzysdiQb6ORHlrwAU5Z) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [In Between](https://open.spotify.com/album/1fXO5VUNbyeR0WMmhulZxo) | 4:15 | 2019-06-29 | 2019-12-07 |
 | [As Life Decides](https://open.spotify.com/track/1ZnHdj4BQHMbC6grguZkm5) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Winds Amassed](https://open.spotify.com/album/5pyHdzJzS1qgTAWFsyRPd3) | 4:08 | 2019-05-26\* | 2020-01-03 |
 | [As She Awakens](https://open.spotify.com/track/1tZxzyEBPmsMTOpc6t005r) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Monument](https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv) | 3:15 | 2019-05-26\* | 2020-05-18 |
-| [As The Light Slowly Fades](https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl) | [Bliss Porter](https://open.spotify.com/artist/0AF3uDWnCp5CMYIl66leMm) | [As The Light Slowly Fades](https://open.spotify.com/album/0pmUEomw3GfbValHI5lPmF) | 3:13 | 2021-04-14 |  |
+| [As The Light Slowly Fades](https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl) | [Bliss Porter](https://open.spotify.com/artist/0AF3uDWnCp5CMYIl66leMm) | [As The Light Slowly Fades](https://open.spotify.com/album/0pmUEomw3GfbValHI5lPmF) | 3:13 | 2021-04-14 | 2023-09-16 |
 | [Ashes](https://open.spotify.com/track/6IcJ3IyAH3Q4In8bjGVP0W) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [New Life](https://open.spotify.com/album/52Fx3NkInGB1fpwstmiy30) | 2:11 | 2019-05-26\* | 2022-09-24 |
 | [Astral Body](https://open.spotify.com/track/17yuGlOR1mCfOOjdu1XmqH) | [Michel Mondrain](https://open.spotify.com/artist/4UwUTmJanOQvwAGmUKkewh) | [Astral Body](https://open.spotify.com/album/7GwWItskLCrgRjyEwbKzhZ) | 3:07 | 2019-05-26\* | 2022-07-16 |
 | [Astral Roar](https://open.spotify.com/track/48yKwM6nTNFrZm09Feix46) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Otherworld](https://open.spotify.com/album/4cripF2DCU1PGPqIxpRp2U) | 3:32 | 2020-05-09 | 2023-05-03 |
@@ -247,6 +247,7 @@
 | [Euphrosyne](https://open.spotify.com/track/7arWoSrPeW1uiCGbCu0Igm) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Euphrosyne](https://open.spotify.com/album/7BlXg4aB6bpzIsYP5wqrVT) | 2:39 | 2019-12-07 | 2023-05-20 |
 | [Evening Unbroken](https://open.spotify.com/track/7qZpqqLkUxYFimW4zb1sYM) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Evening Unbroken](https://open.spotify.com/album/1wuOepJj2f5iT4rxuGJY8J) | 3:08 | 2022-05-19 |  |
 | [Ever Connecting Thoughts](https://open.spotify.com/track/6JsGwsk7OGOrzUJ3lueufO) | [Tim Gourolis](https://open.spotify.com/artist/5q8Q9Fa2WPZVwj5VR6XYgp) | [Ever Connecting Thoughts](https://open.spotify.com/album/6JnhFLK8LVjZAHUmRe3Wx3) | 3:18 | 2020-08-08 | 2021-09-14 |
+| [Evolving](https://open.spotify.com/track/0CSMEI3zYa4Jued0MkyNcz) | [Cthulhu Ramón](https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW) | [Evolving](https://open.spotify.com/album/2YdJbbRTrBOYYMCDu9D1WR) | 3:25 | 2023-09-15 |  |
 | [Evolving Dreams](https://open.spotify.com/track/6uFpwigsKJ1gDTaDjeabIN) | [Ty Davies](https://open.spotify.com/artist/49dSIJwjDHzmOfx4io0R49) | [Evolving Dreams](https://open.spotify.com/album/0LaiKUH0fPko6Rg84ZMAbt) | 3:07 | 2022-02-15 |  |
 | [Exodus Pt\. 1](https://open.spotify.com/track/5lYclvR4p6cEl3r3V0gG5M) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Exodus](https://open.spotify.com/album/5VbZWqqOT2LGyiMLA6BQbT) | 3:07 | 2019-05-26\* | 2022-09-15 |
 | [Expression](https://open.spotify.com/track/5zdCyjtjf8iQmgm0wTqDa8) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 3:12 | 2023-05-02 |  |
@@ -572,6 +573,7 @@
 | [Sea Bird Sunset](https://open.spotify.com/track/4oXhPokD0MI5Mv86n8XHxi) | [Xeo Long](https://open.spotify.com/artist/1PbaQ9HFvpDV5NzKWOMl9R) | [Sea Bird Sunset](https://open.spotify.com/album/2bk3oyV1WA5jQEw0xe4agV) | 3:00 | 2020-08-08 | 2021-09-14 |
 | [Sea of clouds](https://open.spotify.com/track/19ZIcHX28fWiVXCEDbtIso) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Mare](https://open.spotify.com/album/6V5cwAndVMp3GtqLKBQGCq) | 3:05 | 2023-07-21 |  |
 | [Sea of Tranquility](https://open.spotify.com/track/5ggOjNoVdy0O24g98rkms7) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Above The Clouds](https://open.spotify.com/album/6Sjxd5p5VEM0Mj6FnhqPpP) | 2:55 | 2019-05-26\* | 2020-08-08 |
+| [Seafaring](https://open.spotify.com/track/0LppZsCkSjYa4aTqDh2Bpe) | [Loki Minder](https://open.spotify.com/artist/71PXav3tiDxIWWVrpiaI7l) | [Seafaring](https://open.spotify.com/album/2QrLp5rUnECW6NE2SOUgf4) | 2:26 | 2023-09-15 |  |
 | [Seasons](https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 2:49 | 2022-11-11 |  |
 | [Secret Message](https://open.spotify.com/track/6hF7fW0UptdNRovONZT3JJ) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Secret Message](https://open.spotify.com/album/6sVGOHFLrN1sbHnMkkWK3d) | 2:59 | 2021-10-13 |  |
 | [Secret Water](https://open.spotify.com/track/4SWn136gXYwVYOQDta5dw6) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Secret Water](https://open.spotify.com/album/3YgnlQBSQIqMXWjFNXSSke) | 3:44 | 2020-05-09 | 2023-05-03 |
@@ -650,6 +652,7 @@
 | [Sunken](https://open.spotify.com/track/3SOcuNzZfMTB20m3HD3Aw4) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 3:39 | 2019-05-26\* | 2022-07-29 |
 | [Sunrise Catrin](https://open.spotify.com/track/2EC2o4ToD6HToqFRYj6uq3) | [Mayeda Taki](https://open.spotify.com/artist/1NPKLomaogQRTZBTZkHvVr) | [Sunrise Catrin](https://open.spotify.com/album/4SrXnyd1pp4NhFr0mv0rRY) | 3:39 | 2021-03-14 |  |
 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 | 2021-01-06 |  |
+| [Supernus](https://open.spotify.com/track/1s4VSiybT9ffhJmkKihPW9) | [Adrian Stenhammar](https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr) | [Supernus](https://open.spotify.com/album/538Y2jVTlI7GhGmS7UoLJL) | 3:12 | 2023-09-15 |  |
 | [Supine](https://open.spotify.com/track/1jobGkripmhfeTzWOiZ1sZ) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Supine](https://open.spotify.com/album/46XPmCP5AoDWKY8ljH9bkk) | 3:50 | 2019-07-27 | 2023-05-03 |
 | [Surrendering](https://open.spotify.com/track/57sxeemF1LxEGqZ9w4HQvi) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Insomnia Curator](https://open.spotify.com/album/5vnD6fdKYuCfbl2Fjj1BUK) | 4:20 | 2019-07-27 | 2019-12-07 |
 | [Sycamore](https://open.spotify.com/track/13fgubwPyMcHlAswK3uYmB) | [Cymbiose](https://open.spotify.com/artist/3W2JsxMWmZVxu93e1QkxDG) | [Friction](https://open.spotify.com/album/4MUy98A40DzTpUc7fPygP8) | 4:50 | 2019-12-07 | 2021-09-14 |

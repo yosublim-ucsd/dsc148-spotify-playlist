@@ -145,6 +145,28 @@
     },
     {
       "album": {
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
+    },
+    {
+      "album": {
         "name": "Amor de Pai",
         "url": "https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2"
       },
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 229333,
       "name": "Minha Cura (The Healing)",
       "url": "https://open.spotify.com/track/3YOfwYkQDKZDfVT8qCtAbK"
@@ -2130,6 +2152,28 @@
     {
       "album": {
         "name": "Te Encontrar",
+        "url": "https://open.spotify.com/album/2wBoEUm3ezJ8l0qO0OALlr"
+      },
+      "artists": [
+        {
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "MATXS",
+          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "Te Encontrar",
+      "url": "https://open.spotify.com/track/3MOm8XpEt9xACdadSFHXfQ"
+    },
+    {
+      "album": {
+        "name": "Te Encontrar",
         "url": "https://open.spotify.com/album/5b5Qyj7p4dRoIXbOmcCQmV"
       },
       "artists": [
@@ -2144,7 +2188,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 167058,
       "name": "Te Encontrar",
       "url": "https://open.spotify.com/track/6Jvg1itfQDGuKLFX9jcSN6"

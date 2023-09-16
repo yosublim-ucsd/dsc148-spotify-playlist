@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-143 songs - 7 hr 24 min
+144 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Rafiki's Fireflies](https://open.spotify.com/track/2GamicW8mLY9RxSLfPrN9L) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 1:52 | 2021-10-07 |  |
 | [Ratatouille Main Theme](https://open.spotify.com/track/0AGAl2fZLAoGxGd5dO77Cp) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:09 | 2021-10-07 | 2022-07-16 |
 | [Reflection \- From "Mulan"](https://open.spotify.com/track/4HEAqYn6eFjnosmV5AKSZ2) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:34 | 2021-10-07 |  |
+| [Reflection \- From "Mulan" \(Feat\. Guo Gan\)](https://open.spotify.com/track/6zKNTyScKmZLxsIhh8HcdW) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Guo Gan](https://open.spotify.com/artist/4tOUzNaDtg982MvZhzSoAL), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book \(Deluxe Edition\)](https://open.spotify.com/album/5ADhBk8zOQYwKhiPbGKSH1) | 4:14 | 2023-09-15 |  |
 | [Remember](https://open.spotify.com/track/3BUT32qmBXmlqp3EJkgRfp) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 3:09 | 2021-10-07 | 2022-07-16 |
 | [Return to the Village](https://open.spotify.com/track/7lYhgpUEksi2j9iLWlCQQ0) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 1:32 | 2021-10-07 | 2022-07-16 |
 | [Rhapsody In Blue](https://open.spotify.com/track/1s1RlSnTe70UVao58Nx7SN) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Fantasia 2000](https://open.spotify.com/album/2whukRzuzg6VUBKkcEKfJp) | 12:35 | 2021-10-07 | 2022-07-16 |

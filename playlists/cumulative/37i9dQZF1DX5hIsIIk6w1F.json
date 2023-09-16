@@ -596,7 +596,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 172800,
       "name": "Ando de Versace",
       "url": "https://open.spotify.com/track/7DAALCzDk3QMzoWYOuZy2s"
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 139428,
       "name": "Guilla",
       "url": "https://open.spotify.com/track/0XhPfqdAqB451Nvg4AEf9D"
@@ -4227,6 +4227,32 @@
     },
     {
       "album": {
+        "name": "K Me Dice",
+        "url": "https://open.spotify.com/album/0cl5nC83RGTybwx5IpBCna"
+      },
+      "artists": [
+        {
+          "name": "Noiss",
+          "url": "https://open.spotify.com/artist/5nhjhOrmCpnfUR6GHyU9ca"
+        },
+        {
+          "name": "yammir",
+          "url": "https://open.spotify.com/artist/1Mz5cZb7klbNKaLfxx61cU"
+        },
+        {
+          "name": "Sirena Miler",
+          "url": "https://open.spotify.com/artist/1Q2Q3t7INUQfyv0Z18ZD88"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "K Me Dice",
+      "url": "https://open.spotify.com/track/2n4DJz5TqybwC8WFN1kQ3x"
+    },
+    {
+      "album": {
         "name": "KAWAII",
         "url": "https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf"
       },
@@ -4568,6 +4594,24 @@
       "duration_ms": 460760,
       "name": "La Nena del Case",
       "url": "https://open.spotify.com/track/57pbVdbqT8B28V6FpJTKkw"
+    },
+    {
+      "album": {
+        "name": "La Noche Est\u00e1",
+        "url": "https://open.spotify.com/album/0nPyruilVBDAdGsMTzAM3g"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226841,
+      "name": "La Noche Est\u00e1",
+      "url": "https://open.spotify.com/track/4h635NpiMlCxCGKuln7C6x"
     },
     {
       "album": {
@@ -5251,6 +5295,28 @@
     },
     {
       "album": {
+        "name": "Mala Fama",
+        "url": "https://open.spotify.com/album/6Eox5ohaZ35MviIFNqQle6"
+      },
+      "artists": [
+        {
+          "name": "Sirena Miler",
+          "url": "https://open.spotify.com/artist/1Q2Q3t7INUQfyv0Z18ZD88"
+        },
+        {
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168792,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/3sI2hA72K2mvoKIOvogbIq"
+    },
+    {
+      "album": {
         "name": "Malaya (Remix)",
         "url": "https://open.spotify.com/album/0C5HfDCBMizWOOoXsmpY0H"
       },
@@ -5500,7 +5566,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 187236,
       "name": "Manolo Camina Solo",
       "url": "https://open.spotify.com/track/5oBsXI28xw1MPJqKqJ6Ehz"
@@ -5894,7 +5960,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 168000,
       "name": "MI BANDIA'",
       "url": "https://open.spotify.com/track/33T4fmo3C8fKwHNL3ZaW4l"
@@ -6580,7 +6646,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 197736,
       "name": "Movie",
       "url": "https://open.spotify.com/track/72hCP2qsad7CAlvkocreur"
@@ -8195,6 +8261,28 @@
     },
     {
       "album": {
+        "name": "Ponte de Espalda",
+        "url": "https://open.spotify.com/album/6TmlXgWcxq0zOtlE8FN19R"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Ponte de Espalda",
+      "url": "https://open.spotify.com/track/0ANwt3bp7HC1wnWEeavWEq"
+    },
+    {
+      "album": {
         "name": "Ponte Pa M\u00ed",
         "url": "https://open.spotify.com/album/67cb5CMeh3Iq6bOcdTgLLE"
       },
@@ -8954,7 +9042,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 188387,
       "name": "Rika",
       "url": "https://open.spotify.com/track/5bSIyaz49u9YhmMjtgzQfS"
@@ -9582,7 +9670,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 172903,
       "name": "Sicoseado Me Tiene",
       "url": "https://open.spotify.com/track/5WWJxEXVN6BcTqVSNk657W"
@@ -9801,6 +9889,28 @@
     },
     {
       "album": {
+        "name": "SUELTA SOLTERA",
+        "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149843,
+      "name": "SUELTA SOLTERA",
+      "url": "https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0"
+    },
+    {
+      "album": {
         "name": "S\u00edntomas de Soltera",
         "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
@@ -9904,6 +10014,28 @@
       "duration_ms": 182204,
       "name": "Tambores Multicolores",
       "url": "https://open.spotify.com/track/6ljdOfV7W1KGw1RD0kAg1A"
+    },
+    {
+      "album": {
+        "name": "Tamo al Dia",
+        "url": "https://open.spotify.com/album/3HerUa4wQ2QJgLpcgciGPO"
+      },
+      "artists": [
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Tamo al Dia",
+      "url": "https://open.spotify.com/track/2DIRsWl1WHAfkye5hIDNVo"
     },
     {
       "album": {
@@ -11410,6 +11542,32 @@
       "duration_ms": 152038,
       "name": "YO TE VI MIR\u00c1NDOME",
       "url": "https://open.spotify.com/track/5y9K2HA8Q3KMJsod2xvQPX"
+    },
+    {
+      "album": {
+        "name": "El De La Nueva Baby",
+        "url": "https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "\u00bfCu\u00e1l Es Su Nombre?",
+      "url": "https://open.spotify.com/track/5S8zFPQ3KIlF2y9Kt8mRhg"
     },
     {
       "album": {

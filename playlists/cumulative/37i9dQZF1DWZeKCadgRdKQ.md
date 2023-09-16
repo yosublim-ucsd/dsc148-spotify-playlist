@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-612 songs - 1 day 9 hr 17 min
+613 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [So Long, Lonesome](https://open.spotify.com/track/5veFQvY6ooJ0rzjxO9cAkW) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/7LNOp3ZlUVM32K3bBczUux) | 3:40 | 2019-05-26\* | 2019-06-19 |
 | [Soft Upon Your Face](https://open.spotify.com/track/2BhV8WT7wkp5T3pcl7RRNa) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/0yly5h7LGTBQz6Z8Mx72HV) | 3:14 | 2022-07-27 | 2022-10-15 |
 | [Soft Upon Your Face](https://open.spotify.com/track/49LQIdr4hToVH3JdvzTQYC) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/177eLIIJkUNlLVYqxxfPCO) | 3:14 | 2019-06-19\* | 2022-07-29 |
+| [Solar](https://open.spotify.com/track/2QFkWZArmWfAwDHHkkKYaV) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Solar](https://open.spotify.com/album/5IUKS8HMNHSKWEkrkPDLZq) | 3:04 | 2023-09-15 |  |
 | [Solatium](https://open.spotify.com/track/4br0nM6NdvDKMJgLj44foR) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Solatium](https://open.spotify.com/album/5ZHBmc04tDmr7TZcbWZVOw) | 2:06 | 2022-07-27 |  |
 | [Solitude](https://open.spotify.com/track/2QerGrNeDLsJgMqpIRhjih) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Solitude](https://open.spotify.com/album/7srh64CFgzsCOIToYhCusB) | 2:44 | 2020-01-03 | 2021-09-21 |
 | [Someday](https://open.spotify.com/track/5zOetBDO9NONS4KnIBXtnx) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Chapter I](https://open.spotify.com/album/4lGIi8xhiVxxvpYmuXW2WD) | 4:48 | 2019-12-11 | 2022-10-15 |
@@ -599,7 +600,7 @@
 | [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2019-06-19\* | 2023-01-12 |
 | [Wild Flowers](https://open.spotify.com/track/3j2VxSCmFJcrNZ6QR7e8DR) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Wild Flowers](https://open.spotify.com/album/029AFhYiRp84M6nfrpXTcU) | 2:14 | 2020-10-08 |  |
 | [Wild Trails](https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny) | [Epi\-Soothe](https://open.spotify.com/artist/3nbFHhWXhyhU1QACy18PlF) | [Wild Trails](https://open.spotify.com/album/3tMJzCDzTcRS8o6pImIE2c) | 3:38 | 2019-09-14 | 2022-11-18 |
-| [Will to Live](https://open.spotify.com/track/3FoVLAXDlxCrGXZD6ppT85) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Will to Live](https://open.spotify.com/album/6EHCbvJVYCY9C7SrTLOjIZ) | 2:15 | 2020-09-17 |  |
+| [Will to Live](https://open.spotify.com/track/3FoVLAXDlxCrGXZD6ppT85) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Will to Live](https://open.spotify.com/album/6EHCbvJVYCY9C7SrTLOjIZ) | 2:15 | 2020-09-17 | 2023-09-16 |
 | [Willet](https://open.spotify.com/track/6UesrqZXshkMjY07kVnlkU) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Swan](https://open.spotify.com/album/3CcjnNWOPCrrDBKEgUQ3Mk) | 2:59 | 2020-06-19 | 2021-09-14 |
 | [Willow \- Instrumental Version](https://open.spotify.com/track/5TtfSQoBYHfCVPRS0M9DUs) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Fireflies & Willow \(Instrumental Version\)](https://open.spotify.com/album/3ULQIed3zR6E2Ak2oV66sW) | 3:39 | 2023-04-07 |  |
 | [Willow \- Instrumental Version](https://open.spotify.com/track/6dRo3av1dw6j1IrdKZaCQL) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Fireflies & Willow \(Instrumental Version\)](https://open.spotify.com/album/4xjZ7UTVG55BZDAgFYwkeb) | 3:39 | 2021-07-01 | 2023-04-12 |

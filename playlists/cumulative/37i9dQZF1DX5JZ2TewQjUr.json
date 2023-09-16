@@ -8731,6 +8731,28 @@
     },
     {
       "album": {
+        "name": "\u4e94\u6642",
+        "url": "https://open.spotify.com/album/2o2HbTE1WTnFenq0gqnU0y"
+      },
+      "artists": [
+        {
+          "name": "\u53ca\u6642\u96e8",
+          "url": "https://open.spotify.com/artist/6ohGilWzOogVjW2UDCX1xp"
+        },
+        {
+          "name": "Novel Friday",
+          "url": "https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240005,
+      "name": "\u4e94\u6642",
+      "url": "https://open.spotify.com/track/4as7WlRzGLuWRJnl140n3s"
+    },
+    {
+      "album": {
         "name": "\u4e94\u7a2e\u611b\u7684\u5bc6\u8a9e",
         "url": "https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG"
       },

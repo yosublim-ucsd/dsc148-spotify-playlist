@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2057634,
+  "num_followers": 2057721,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM5MTMsODc2Zjc0M2EwZmZjYjVlYzYyMzBiOWE0ZTAwMTRiZGVjNDIwMjI3MQ==",
+  "snapshot_id": "MTM5MjgsNmIxNzg3NzEyNzRmYTlmYTZjOWZlMDUwYjliZTAzZDU4ODVlMTUzOQ==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -673,6 +673,26 @@
       "url": "https://open.spotify.com/track/0Q3SC6kEhxYagDP3bFe5K9"
     },
     {
+      "added_at": "2023-09-15 19:55:09",
+      "album": {
+        "name": "Existence",
+        "url": "https://open.spotify.com/album/76ryfgoc14jxLSmk7bjmnU"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Fifty Grand",
+          "url": "https://open.spotify.com/artist/6XVOloBtqazlT9fufDyyZV"
+        }
+      ],
+      "duration_ms": 161006,
+      "name": "Existence",
+      "url": "https://open.spotify.com/track/16hPKxLT8rxloIGI4EU4ak"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "All I See, You See Me",
@@ -777,6 +797,138 @@
       "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
     },
     {
+      "added_at": "2023-09-15 16:09:44",
+      "album": {
+        "name": "DEUS DA MORTE",
+        "url": "https://open.spotify.com/album/4jGrg1HT6SMHZ7pJ1cNsHN"
+      },
+      "artists": [
+        {
+          "name": "ICHIRO",
+          "url": "https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "DEUS DA MORTE",
+      "url": "https://open.spotify.com/track/61oL0lzGD0CkQ0o4S2ZqFc"
+    },
+    {
+      "added_at": "2023-09-15 16:10:24",
+      "album": {
+        "name": "SENTEN\u00c7A DE MORTE",
+        "url": "https://open.spotify.com/album/2RudoSMlfZ822f5k5lzWRn"
+      },
+      "artists": [
+        {
+          "name": "Seek",
+          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
+        },
+        {
+          "name": "crvvdy",
+          "url": "https://open.spotify.com/artist/15SwHotAFiElM5jeUhlOYe"
+        }
+      ],
+      "duration_ms": 93529,
+      "name": "SENTEN\u00c7A DE MORTE",
+      "url": "https://open.spotify.com/track/6hiUOo5c2VPacqaFUM3XGR"
+    },
+    {
+      "added_at": "2023-09-15 16:12:09",
+      "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/0uh3F7FWBO4dXDB1osclxE"
+      },
+      "artists": [
+        {
+          "name": "37R",
+          "url": "https://open.spotify.com/artist/0oXTmSgYfCqL4sbxxOwXDP"
+        },
+        {
+          "name": "FORBIDDEN",
+          "url": "https://open.spotify.com/artist/38WHLDUHNVqfTTSYsz0hoO"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "SAVAGE",
+      "url": "https://open.spotify.com/track/4JBRECHBQgv9NEfbM3L3Ze"
+    },
+    {
+      "added_at": "2023-09-15 16:14:12",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/1yTxpadK6ibPHYR0moDfxM"
+      },
+      "artists": [
+        {
+          "name": "Yonexx",
+          "url": "https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm"
+        },
+        {
+          "name": "lunar",
+          "url": "https://open.spotify.com/artist/6ba0gaC9S69uLIwRyRvdMr"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6a0XyDhUU6jfOavzXOik7j"
+    },
+    {
+      "added_at": "2023-09-15 16:15:16",
+      "album": {
+        "name": "Astral (remix)",
+        "url": "https://open.spotify.com/album/73nkDWYSEZS5jctcM0G5I9"
+      },
+      "artists": [
+        {
+          "name": "Shinigami Tenshi",
+          "url": "https://open.spotify.com/artist/0bxtJGTaXfnmliU3lOBKGv"
+        },
+        {
+          "name": "stere\u00f8verse",
+          "url": "https://open.spotify.com/artist/43gTfnfPEADGlnYd8PBatp"
+        }
+      ],
+      "duration_ms": 140931,
+      "name": "Astral - remix",
+      "url": "https://open.spotify.com/track/1AoAM8db8Po78Q0jxgLlJv"
+    },
+    {
+      "added_at": "2023-09-15 16:16:17",
+      "album": {
+        "name": "ADRENALINE",
+        "url": "https://open.spotify.com/album/4Qxc7pJHI1Vhv9KC4gVR00"
+      },
+      "artists": [
+        {
+          "name": "SAOTOMAMORE",
+          "url": "https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "ADRENALINE",
+      "url": "https://open.spotify.com/track/1cKLruLixxtrtQfqFIYzAS"
+    },
+    {
+      "added_at": "2023-09-15 16:16:42",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/2L4fNHpknsAsNCwBANyYh5"
+      },
+      "artists": [
+        {
+          "name": "Jayx",
+          "url": "https://open.spotify.com/artist/6YJqRzgXW6MEhTLSi27oPf"
+        }
+      ],
+      "duration_ms": 93855,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/1HMZEuNKoAOvMy1UxTHXAR"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "Phonk Nation",
@@ -827,6 +979,26 @@
       "duration_ms": 273802,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g"
+    },
+    {
+      "added_at": "2023-09-15 16:17:57",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/3SohBXVe0oMpjKJCD6c91V"
+      },
+      "artists": [
+        {
+          "name": "NIO",
+          "url": "https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -1147,6 +1319,26 @@
       "duration_ms": 79304,
       "name": "NOVINHA",
       "url": "https://open.spotify.com/track/3FTlbsFazH2mP4oBxuyzAI"
+    },
+    {
+      "added_at": "2023-09-15 16:41:45",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3bRGO3zDRiBIOv0AaDyL6b"
+      },
+      "artists": [
+        {
+          "name": "FarKnown",
+          "url": "https://open.spotify.com/artist/2fmyQ4158h70QFHJJV3YCa"
+        },
+        {
+          "name": "CassMae",
+          "url": "https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/4WzBtcN2VsGH6qnNq726mG"
     },
     {
       "added_at": "2023-09-06 04:03:55",

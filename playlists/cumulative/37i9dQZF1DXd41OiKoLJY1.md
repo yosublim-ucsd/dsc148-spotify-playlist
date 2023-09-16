@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Suspiria Pink  Artwork: Isu Kim
 
-1,669 songs - 4 day 3 hr 8 min
+1,672 songs - 4 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Dito Ka Lang](https://open.spotify.com/track/67xU0MqPJ9McrUzTSKKQcD) | [Eyluke](https://open.spotify.com/artist/0upxuPJ3rfJ88WYSQOXZFq), [RCHRD](https://open.spotify.com/artist/3XEPhTiqZhOcAyueu5DlmO) | [Dito Ka Lang](https://open.spotify.com/album/0Jaar1EvYvSqbNyzcIGxg8) | 4:42 | 2023-02-02 | 2023-02-17 |
 | [Dito Ka Lang](https://open.spotify.com/track/4ZyGXk0n5nSJmRbNsokvcA) | [RCHRD](https://open.spotify.com/artist/3XEPhTiqZhOcAyueu5DlmO), [Don Gab](https://open.spotify.com/artist/5DdSIE3q3m121yjE3eKFcz) | [Dito Ka Lang](https://open.spotify.com/album/01iHz4vGUy25VXEd2U785i) | 4:16 | 2022-11-03 | 2023-02-03 |
 | [Dito Ka Lang](https://open.spotify.com/track/4TUCi0cHa6eu9X58e6mxp6) | [Shaqim](https://open.spotify.com/artist/4jJ33GuU2w49i8j4IykKrM), [DSH](https://open.spotify.com/artist/5jrp2mK9RLMSBhulri3aUA) | [Dito Ka Lang](https://open.spotify.com/album/1yKPb0qp8defRzMxvgs7Np) | 3:47 | 2023-04-06 | 2023-04-21 |
+| [Dito Ka Muna](https://open.spotify.com/track/76I7vSRELRBa4NIe2gaXsd) | [Royette](https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU), [Kyd Alvson](https://open.spotify.com/artist/5pYOuKoWJ8TfadbJYyQbem) | [Dito Ka Muna](https://open.spotify.com/album/5Frb3NMDiCJo9Uq03tZ6IC) | 3:32 | 2023-09-14 |  |
 | [Dito Ka Na Lang](https://open.spotify.com/track/2O9arvl8nMl8LOGo3wXj29) | [Frank Saturday](https://open.spotify.com/artist/7EYbDLfdMh8yyuWpHGdZ6o) | [Dito Ka Na Lang](https://open.spotify.com/album/09kvKo99N4DYbHnYaizDqo) | 3:44 | 2023-02-16 | 2023-03-03 |
 | [Dito muna ko'](https://open.spotify.com/track/5PZa5nUZbl5CgexjUvXFuY) | [Sultanlobo](https://open.spotify.com/artist/7yq2o3KcUiUEz49NND7t3b), [YZ](https://open.spotify.com/artist/4NV5xC9aDz51d1YWBWygL9) | [Dito muna ko'](https://open.spotify.com/album/7xp2XI5HJHCEhBigaCfW9Q) | 2:34 | 2023-05-18 | 2023-06-02 |
 | [Dive](https://open.spotify.com/track/3uH3ZDKMHx1VncTFcqpkXs) | [Roseo 011](https://open.spotify.com/artist/73wzWldpQRC6ctIQkc9nYq), [Trippy Alex](https://open.spotify.com/artist/6EhdEoWMvdtAfOytJCwMC4), [Chie](https://open.spotify.com/artist/6CM89UwFDwMsFttSuQ6Ean) | [Dive](https://open.spotify.com/album/28MjRjInEezdqVWDXvo4GX) | 4:02 | 2023-02-23 | 2023-03-03 |
@@ -944,6 +945,7 @@
 | [Manifest](https://open.spotify.com/track/7a5tav4Sqyu5zzLLCgqpFz) | [Jayve Diaz](https://open.spotify.com/artist/5wo89Py0fYVvVpGaGCWcCo) | [Manifest](https://open.spotify.com/album/0GbMfRJCC5WVmmBGcIYDKa) | 2:29 | 2022-03-31 | 2022-04-08 |
 | [MANLILIKHARI](https://open.spotify.com/track/2mgegQ1inujns4tBfKiJua) | [Gianne Hinolan](https://open.spotify.com/artist/5OHIMSFA9R88wAW10q2Q1H) | [MANLILIKHARI](https://open.spotify.com/album/20C1u82pG3ozJxB9SHxawT) | 5:07 | 2023-02-16 | 2023-03-03 |
 | [MANU](https://open.spotify.com/track/19KHG12tjFfce2y88DYblX) | [Aurelius](https://open.spotify.com/artist/2Sinzznmvm6x6UamDkSB2u) | [MANU](https://open.spotify.com/album/5ai4MMK6blXMDmElxsWern) | 2:53 | 2022-06-16 | 2022-07-29 |
+| [Mao Lagi](https://open.spotify.com/track/4pIKdCD54npj2ql3RpyIX2) | [SY8](https://open.spotify.com/artist/422yzMTfpgG1MY27ybR1IL), [D\-GARS](https://open.spotify.com/artist/3VWvsW4dghlKOePKaY9jae) | [Mao Lagi](https://open.spotify.com/album/6QG0VPUf4UtLKfFpAm5IcE) | 2:39 | 2023-09-14 |  |
 | [Marahuyo](https://open.spotify.com/track/0Mq4bwlJi2oFTLpIwbFIQ2) | [Jeremiah Ellaga](https://open.spotify.com/artist/0zH0VRggznE2vwaL6OLm2i) | [Marahuyo](https://open.spotify.com/album/6ZcO1oThwT8LGq7Szi13AN) | 3:41 | 2022-02-10 | 2022-04-01 |
 | [Marahuyo](https://open.spotify.com/track/4z1ryiuqpSEg17jnvoENLQ) | [Not November](https://open.spotify.com/artist/0rGaxDX6tMuzciublTIK8o) | [Marahuyo](https://open.spotify.com/album/4CjMuLM6ONapPIBOHFaJKv) | 5:30 | 2023-05-11 | 2023-05-26 |
 | [Marahuyo \(Prod\. by Jarlo Bâse\)](https://open.spotify.com/track/3sn6zFeOQnEKYu6hPKhycP) | [Manuel Bruno](https://open.spotify.com/artist/1czxPqEOp4lajFSoegS6zx) | [Marahuyo \(Prod\. By Jarlo Bâse\)](https://open.spotify.com/album/6XN2tj8F856CKeRN08XrY0) | 3:57 | 2022-09-08 | 2022-12-01 |
@@ -1435,6 +1437,7 @@
 | [Suyo](https://open.spotify.com/track/0qM6vsBSniqE4Qew8oJVa3) | [MRAS](https://open.spotify.com/artist/6by6ixL24jHxR9q3iHPEXP) | [Suyo](https://open.spotify.com/album/5knInqHzz3Yf3yyuoN3QwQ) | 3:53 | 2022-03-10 | 2022-04-01 |
 | [Sweet](https://open.spotify.com/track/1LxZ0XxraDGn8brrL8tv9W) | [N1C0LAS](https://open.spotify.com/artist/6yAYmKDwfmxLhkVtiSxjYO) | [Sweet](https://open.spotify.com/album/5iei6Qn5wpaFDSCimKvf7b) | 3:43 | 2023-06-22 | 2023-07-07 |
 | [Sweet Sixteen](https://open.spotify.com/track/4ughMxm8mF5jKGnQSOmrbd) | [ghen.](https://open.spotify.com/artist/5zpcDVAl7cn1EnYecqlOdi) | [Sweet Sixteen](https://open.spotify.com/album/3vytKtXrzd2RYNy9vGVju2) | 3:52 | 2023-03-02 | 2023-03-25 |
+| [sweet tea](https://open.spotify.com/track/7gbFhoE3soYh1G1aB7FbXL) | [Dani Saldo](https://open.spotify.com/artist/7y1Al7FB0GXDQCyh1wNTsH) | [everything i didn't say](https://open.spotify.com/album/3fYLyQ86xuvl6nOol2BvDK) | 3:57 | 2023-09-14 |  |
 | [Swerte Sayo](https://open.spotify.com/track/151u0Jt8E7mRXh10jZpXfP) | [Daniel Cee](https://open.spotify.com/artist/6htV6naf3rsQ9ugrIGojm5) | [Swerte Sayo](https://open.spotify.com/album/4NOR9hhPF52HTELWo2OTYZ) | 3:32 | 2023-04-20 | 2023-05-05 |
 | [Swimming](https://open.spotify.com/track/4mfcuIAOZjf8Yb5bY5FRaT) | [Lil Panty](https://open.spotify.com/artist/3ocQOpsiqghIwiXS3frzb8) | [Swimming](https://open.spotify.com/album/57R4rVzZvQYarinnKnrp7B) | 3:04 | 2023-06-01 | 2023-06-16 |
 | [SWMD](https://open.spotify.com/track/2yhVTQrU1Nmbeu2d6pkt0A) | [Lyrus Lee](https://open.spotify.com/artist/6TApVvDDtb3qrJUWxII8VM) | [SWMD](https://open.spotify.com/album/23TvvDP1opaStFGUH324cn) | 2:55 | 2023-07-06 | 2023-07-21 |

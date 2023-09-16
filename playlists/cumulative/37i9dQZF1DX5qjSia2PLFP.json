@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:   <a href=\"https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk?si=reGe_ti5QJ-5X5Mwq_TjUg\">Missy Elliot</a>, <a href=\"https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S?si=KTWCX6R1R-SsPmlxEAXgmQ\">Flyana Boss</a> and <a href=\"https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL?si=agsNgccIQ2C07zYhjj3ujQ\">Kaliii</a>",
+  "description": "New music breaking waves.  Cover:   <a href=\"https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq?si=wOs-xnXXSZugLvWWQBRR6A\">Cleo Sol</a>",
   "name": "RIPPLE EFFECT",
   "tracks": [
     {
@@ -839,6 +839,32 @@
     },
     {
       "album": {
+        "name": "Bound For Glory",
+        "url": "https://open.spotify.com/album/1jxZ7qtv7zCiNq66ISEyje"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        },
+        {
+          "name": "Markus Vides\u00e4ter",
+          "url": "https://open.spotify.com/artist/0cADysfVZiggDl1JoWJarv"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161201,
+      "name": "Bound For Glory (feat. Markus Vides\u00e4ter of Solence)",
+      "url": "https://open.spotify.com/track/5qPvBmcIscVajn1Fh3QXhO"
+    },
+    {
+      "album": {
         "name": "Boy's a liar",
         "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
       },
@@ -1165,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/5MCauxko02CqzLRjptNIuX"
+      },
+      "artists": [
+        {
+          "name": "EXUM",
+          "url": "https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235599,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/7lLp5dtiWkM8d0oVfnD2WS"
+    },
+    {
+      "album": {
         "name": "Chardonnay",
         "url": "https://open.spotify.com/album/0KxMCnYlNr9YkKdP0JFctu"
       },
@@ -1220,7 +1264,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 126094,
       "name": "Chemical Warfare",
       "url": "https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ"
@@ -1364,7 +1408,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 124080,
       "name": "Coffee Shop",
       "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
@@ -1530,7 +1574,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 196384,
       "name": "Cracchead Chic",
       "url": "https://open.spotify.com/track/2Tur9NvjOAeunBuifKWIjX"
@@ -1942,7 +1986,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 154459,
       "name": "diss track maybe",
       "url": "https://open.spotify.com/track/0Kv1056a877L5cWlQPhlRH"
@@ -2673,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "FRIED",
+        "url": "https://open.spotify.com/album/0yvrH8FMw4q4rJulnhRs5K"
+      },
+      "artists": [
+        {
+          "name": "DavidTheTragic",
+          "url": "https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108588,
+      "name": "FRIED",
+      "url": "https://open.spotify.com/track/3Ni3aIyhb653KodcYFae0L"
+    },
+    {
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/7dZEbiYj7YziJFSJWTf6D8"
       },
@@ -2778,7 +2840,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 169230,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/5deRvXDZlILXkHZG1DA4sJ"
@@ -2865,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155761,
+      "name": "Good Ex",
+      "url": "https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve"
+    },
+    {
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/4XBC6xmWwswsKiITRNeIL2"
       },
@@ -2916,6 +2996,24 @@
       "duration_ms": 185140,
       "name": "Good Movie",
       "url": "https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS"
+    },
+    {
+      "album": {
+        "name": "good things",
+        "url": "https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174656,
+      "name": "good things",
+      "url": "https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid"
     },
     {
       "album": {
@@ -4192,7 +4290,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 167843,
       "name": "Louisiana",
       "url": "https://open.spotify.com/track/6KXdlYA1REDyMeWUlLcVOt"
@@ -4890,6 +4988,28 @@
       "duration_ms": 237272,
       "name": "NO2",
       "url": "https://open.spotify.com/track/0hRA9X9Ga7aT66sNgNOUht"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/2QhVHAu7Jw3HLZNuEaoEgM"
+      },
+      "artists": [
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183267,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a"
     },
     {
       "album": {
@@ -5727,6 +5847,28 @@
     },
     {
       "album": {
+        "name": "Pull Up(s)",
+        "url": "https://open.spotify.com/album/3YctpjaNzPkk8faA4Scemh"
+      },
+      "artists": [
+        {
+          "name": "omniboi",
+          "url": "https://open.spotify.com/artist/3I4kM4D2rNnlG8JwEH5bHx"
+        },
+        {
+          "name": "Ehiorobo",
+          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286635,
+      "name": "Pull Up(s)",
+      "url": "https://open.spotify.com/track/5ycFHqi89RSSSC9kWNT3Zr"
+    },
+    {
+      "album": {
         "name": "VIRALITY",
         "url": "https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B"
       },
@@ -5789,6 +5931,24 @@
     },
     {
       "album": {
+        "name": "Red Light",
+        "url": "https://open.spotify.com/album/1w0t2M46PMA76fvR5rMEbo"
+      },
+      "artists": [
+        {
+          "name": "Amaal Nuux",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148717,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp"
+    },
+    {
+      "album": {
         "name": "Every Lie is Two Lies (Deluxe)",
         "url": "https://open.spotify.com/album/3sI7fJqLzRuOsepgGh8WYX"
       },
@@ -5800,7 +5960,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 156363,
       "name": "Regrets Pt II",
       "url": "https://open.spotify.com/track/72MmoEuk9caU2tTBsSqR28"
@@ -5826,7 +5986,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 162427,
       "name": "RICH",
       "url": "https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG"
@@ -6048,6 +6208,24 @@
       "duration_ms": 186873,
       "name": "Searching",
       "url": "https://open.spotify.com/track/53k7LfWJFhHOaavpvuNEVg"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "album": {
@@ -6463,6 +6641,24 @@
     },
     {
       "album": {
+        "name": "Sonho Azul",
+        "url": "https://open.spotify.com/album/59nv6qmdMsilfp8P65eh1L"
+      },
+      "artists": [
+        {
+          "name": "Vanyfox",
+          "url": "https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202442,
+      "name": "Sonho Azul",
+      "url": "https://open.spotify.com/track/2J1taExAQxgrsu6crcJXjr"
+    },
+    {
+      "album": {
         "name": "Spring Cleaning",
         "url": "https://open.spotify.com/album/7IJW92NOjPepBorGcCSJBQ"
       },
@@ -6794,7 +6990,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 171506,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/1hpwh231orYstXAUAEPwp6"

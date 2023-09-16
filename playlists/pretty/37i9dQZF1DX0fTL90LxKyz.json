@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 54190,
+  "num_followers": 54222,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGUyNjljODc0MDdhYWQ5ZDVjOGFiYzM4ZWY5YTMzNzA4ZGZmY2I4",
+  "snapshot_id": "MCw5Y2M4MzVjMjI1ZGE1MDRjN2ExZTE3OWQ5NDVlZDA5YTJjMzY4ZDg1",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Bad One",
-        "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
-      },
-      "artists": [
-        {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
-        }
-      ],
-      "duration_ms": 134142,
-      "name": "Bad One",
-      "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/2Q2m0wCeOf3m5BoCllmlLH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 200429,
       "name": "Crep Shop",
       "url": "https://open.spotify.com/track/0it3s0ugg3G4ZlzeH1qbOi"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
+      },
+      "artists": [
+        {
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        }
+      ],
+      "duration_ms": 134142,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
     },
     {
       "added_at": "2022-10-23 18:38:51",

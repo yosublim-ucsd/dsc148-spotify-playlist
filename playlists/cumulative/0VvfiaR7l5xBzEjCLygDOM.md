@@ -4,7 +4,7 @@
 
 > 
 
-35 songs - 2 hr 6 min
+36 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Two Princes](https://open.spotify.com/track/00l1imIjCo1jAOVZbI2SNn) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Empire Vol.2](https://open.spotify.com/album/0I0vznmlRKjRwggRxViV0g) | 4:12 | 2022-02-03 |  |
 | [Unbelievable](https://open.spotify.com/track/01M51iepGfV71Pr908CXDY) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Epic](https://open.spotify.com/album/2hcgnBO2G4WoJsoGDJA9h9) | 3:29 | 2022-02-03 |  |
 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 | 2023-05-12 |  |
+| [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-09-15 |  |
 | [Why Don't You Get A Job](https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:52 | 2023-05-18 |  |
 | [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 | 2023-07-02 |  |
 | [Your Woman](https://open.spotify.com/track/0iMY5tGwbGpA207GBtWqJJ) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Top Of The Pops \- One Hit Wonders](https://open.spotify.com/album/3KbPjOQzgGICdMuQtqjjHS) | 4:19 | 2022-02-03 |  |

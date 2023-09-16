@@ -4883,6 +4883,24 @@
     },
     {
       "album": {
+        "name": "FULL KARETA",
+        "url": "https://open.spotify.com/album/29T3FV1ciYGu3ywMAyxPOf"
+      },
+      "artists": [
+        {
+          "name": "Lidl",
+          "url": "https://open.spotify.com/artist/5df1MDaEizfGIh9fYEOTIJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132266,
+      "name": "FULL KARETA",
+      "url": "https://open.spotify.com/track/3WPZ5Z7a7urRmHb4pIz8iA"
+    },
+    {
+      "album": {
         "name": "Full och dum",
         "url": "https://open.spotify.com/album/6g9SWAbmTvrK5YqSmY2DOg"
       },

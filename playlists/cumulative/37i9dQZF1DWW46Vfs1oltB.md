@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Huh\(허성현\)\)
 
-989 songs - 2 day 6 hr 21 min
+990 songs - 2 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -752,6 +752,7 @@
 | [Rosario](https://open.spotify.com/track/31LHplV8BL8F0Uu9YbvTAY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:50 | 2021-12-21 | 2022-06-29 |
 | [Rosario \(Feat\. CL, ZICO\)](https://open.spotify.com/track/0OWBz5FCeATA2zhHgAk7Uh) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 3:50 | 2022-09-17 | 2022-10-30 |
 | [Routine](https://open.spotify.com/track/2xlPC8QQTT3MVoxX64EvdK) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Routine](https://open.spotify.com/album/5ijIMGX1ePma3opNeb9GAe) | 3:38 | 2021-12-29 | 2022-07-01 |
+| [RSVP](https://open.spotify.com/track/6XPVbbIYNhJ4N0C9npE876) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [RSVP](https://open.spotify.com/album/5mJzVwaJ4ecUO1aSkpeKJM) | 2:57 | 2023-09-15 |  |
 | [Rule Breaker \(Feat\. Coogie\)](https://open.spotify.com/track/3XSWacmwEyiaqeyt8FpIhI) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Rule Breaker](https://open.spotify.com/album/1RsM2FDQlL59ksBbwuOcSY) | 3:31 | 2023-07-03 | 2023-07-18 |
 | [Run](https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Mirror \(28 Look at Youth\)](https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t) | 4:59 | 2023-01-03 | 2023-01-11 |
 | [RUN AWAY](https://open.spotify.com/track/54QnwP0o6MPBo4UNTbXrUO) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Taxidriver OST Part.5](https://open.spotify.com/album/48OOn8rhiGD0fAIndTcC5w) | 3:15 | 2021-12-18 | 2022-07-08 |

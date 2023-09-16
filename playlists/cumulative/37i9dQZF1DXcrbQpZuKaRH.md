@@ -4,7 +4,7 @@
 
 > Ambient with the sound of waves for a blissful meditation.
 
-70 songs - 3 hr 24 min
+73 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Beach House](https://open.spotify.com/track/185rHhcOJAVKvWwrBFp7PZ) | [Mochas](https://open.spotify.com/artist/4GimdSN8NMDW7LYdSHtjIH) | [Beach House](https://open.spotify.com/album/2BgBRAo5RrWqn6NveIiE7A) | 3:11 | 2023-04-28 |  |
 | [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 | 2023-04-28 |  |
 | [Brionglóid \(Sound Bath\)](https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Brionglóid \(Sound Bath\)](https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y) | 2:45 | 2023-05-26 |  |
+| [Cabin by the pier](https://open.spotify.com/track/53aQA3GN9tTpAhAAXIymaC) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Cabin by the pier](https://open.spotify.com/album/6H0psReFa2dCwCbX6tOLjO) | 2:43 | 2023-09-15 |  |
 | [Calm Night](https://open.spotify.com/track/0GBLzni5lps2xbA5XnpSxg) | [Devans Tushar](https://open.spotify.com/artist/0NZhgsof9BXdMrzgt3S5rj) | [Calm Night](https://open.spotify.com/album/3rX4s5iGt5XMhgHr8eRsuK) | 3:16 | 2023-04-28 | 2023-07-29 |
 | [Calm Seas](https://open.spotify.com/track/2x4ymM6CVBuDAGNEJ16qko) | [Fleeting Spirit](https://open.spotify.com/artist/2r0qRPtgmjVkJpIM7xtbFX), [Magic Room](https://open.spotify.com/artist/1pgC9mDwkvCetVYKv3tKcv) | [Calm Seas](https://open.spotify.com/album/3I253zKHlY1vf3mxh8DsTJ) | 3:14 | 2023-08-18 |  |
 | [Calm Waters](https://open.spotify.com/track/7C4MGx7vjDNQeSJT4mZvLx) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 2:35 | 2023-04-28 |  |
@@ -32,7 +33,9 @@
 | [Flumen](https://open.spotify.com/track/1mOEGoddEFOMgYKGUoSBQb) | [Calmisi](https://open.spotify.com/artist/70ES1wACbZKHnLEeysUGMy) | [Flumen](https://open.spotify.com/album/3gYjOZCknkQz3GGzAW8MFJ) | 2:05 | 2023-04-28 |  |
 | [Gentle Sail](https://open.spotify.com/track/0jk7Cda4qWk0f4zxShEDim) | [Highland Falls](https://open.spotify.com/artist/52WuJ5gqkSx8o5QIeJBMWl) | [Gentle Sail](https://open.spotify.com/album/1sVjTQDOGfWPizUQs7kDUD) | 2:57 | 2023-04-28 | 2023-08-19 |
 | [Joshmit Beach](https://open.spotify.com/track/4vDw0JzE1goBugh7lh4lFQ) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:24 | 2023-04-28 |  |
+| [Lighthouse](https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj) | [Time Sphere](https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT) | [Lighthouse](https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6) | 3:36 | 2023-09-15 |  |
 | [Love Story Star](https://open.spotify.com/track/4rQcoBXbQlYyXAej1yse4w) | [Ashlynn Vinno](https://open.spotify.com/artist/2LJPtJzLybu9EKKX8X84DJ) | [In Your Dreams](https://open.spotify.com/album/5qKhYrJX3hmlU35Kld74bN) | 2:45 | 2023-04-28 |  |
+| [Majestic \(Ocean\)](https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Majestic \(Ocean\)](https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH) | 3:06 | 2023-09-15 |  |
 | [Mane Fluctus](https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:40 | 2023-04-28 |  |
 | [Marigold Chain](https://open.spotify.com/track/6DGIQf8liKwdwrPISYOqpH) | [Rose Schwartz](https://open.spotify.com/artist/0qVKo0IM22oSsFlWSHKgmZ) | [Marigold Chain](https://open.spotify.com/album/3WQnhPBzeoPFZnMidaKMEA) | 3:24 | 2023-04-28 |  |
 | [Mente Complacida](https://open.spotify.com/track/26g7RAfsaR6kdU6Y4RJ615) | [Mawina](https://open.spotify.com/artist/4hFQD0ZEl15cbGogNKjUur) | [Mente Complacida](https://open.spotify.com/album/6FBMx95vwGvwOmkiZpeW0Q) | 3:03 | 2023-04-28 |  |
@@ -56,7 +59,7 @@
 | [Sea Waves](https://open.spotify.com/track/16OA2Oc9beh2NUkhbWTmA5) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:36 | 2023-04-28 |  |
 | [Seaside Dawning](https://open.spotify.com/track/1xjZj05TgVIJHsSUs71nEJ) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Seaside Dawning](https://open.spotify.com/album/5hzy1Wdj7EJ6iK7ZZUB7e4) | 2:52 | 2023-04-28 |  |
 | [Sentimental](https://open.spotify.com/track/1eAFXZP3IlDUNE4fXUyw8E) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Sentimental](https://open.spotify.com/album/0ocJg4WeN8H8Rq1fKsAfw6) | 2:57 | 2023-04-28 |  |
-| [Shape of Your Breathing](https://open.spotify.com/track/48nyXuiDi17jGNYQPEwzb1) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:29 | 2023-04-28 |  |
+| [Shape of Your Breathing](https://open.spotify.com/track/48nyXuiDi17jGNYQPEwzb1) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:29 | 2023-04-28 | 2023-09-16 |
 | [Shimmerways](https://open.spotify.com/track/4oJHynkLeTy9CpqvpiGIAm) | [Eve Gutmansdottir](https://open.spotify.com/artist/0xr8KeOkIIGXkXh3Ehj5F4) | [Shimmerways](https://open.spotify.com/album/2qNLLvnenuUvl9KMSVMLIt) | 3:15 | 2023-04-28 |  |
 | [Sleep Under the Stars](https://open.spotify.com/track/52fxNMSJtgwPzbMadGr2Ie) | [Aron Stieg](https://open.spotify.com/artist/7ClOSDzQR2MESJ37Uqd0wi) | [Sleep Under the Stars](https://open.spotify.com/album/0w78gT2FjWEV9jvYZ2P07L) | 2:16 | 2023-04-28 |  |
 | [Soothing the Ocean](https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK) | [Zonestays](https://open.spotify.com/artist/7qrpF6gvKx1zA0dGofJVdh) | [Soothing the Ocean](https://open.spotify.com/album/26sn9bQUdYBJpalMa9Fikl) | 2:41 | 2023-04-28 |  |

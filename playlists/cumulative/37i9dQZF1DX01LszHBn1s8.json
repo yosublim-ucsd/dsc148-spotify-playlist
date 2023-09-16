@@ -612,7 +612,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177524,
-      "name": "Afraid to Feel",
+      "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
@@ -3130,6 +3130,24 @@
     {
       "album": {
         "name": "Melodramatic",
+        "url": "https://open.spotify.com/album/5W9Qrru4JRDToERv3xxmX1"
+      },
+      "artists": [
+        {
+          "name": "Garrett Atterberry",
+          "url": "https://open.spotify.com/artist/0KppDOsHTsrrm0zAfRzZcC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "Can You Remember The Rain - Sequence Remix",
+      "url": "https://open.spotify.com/track/5wHBA7ROxraWgOBcMwVJ7P"
+    },
+    {
+      "album": {
+        "name": "Melodramatic",
         "url": "https://open.spotify.com/album/68QwVLwpCilgbZorXibyd2"
       },
       "artists": [
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 186723,
       "name": "Can You Remember the Rain - Sequence Remix",
       "url": "https://open.spotify.com/track/5jikmrFL7wzkaCvdUSePkB"

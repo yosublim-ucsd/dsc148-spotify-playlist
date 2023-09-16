@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-165 songs - 12 hr 1 min
+166 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Kabira](https://open.spotify.com/track/20nB2JG804edG8Dvudr9zJ) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Nirmal Mann](https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG) | 3:51 | 2023-04-28 |  |
 | [Kailashi](https://open.spotify.com/track/0mr0CICPJj19Y4cp1HNOdx) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Kailashi](https://open.spotify.com/album/3xnVdpJCC98xufKIo0LMa6) | 3:19 | 2023-04-21 |  |
 | [Kapla Bhati](https://open.spotify.com/track/74HMbs5LeHYxv53RVzssJS) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 7:18 | 2022-09-30 |  |
+| [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 | 2023-09-15 |  |
 | [Kharasha](https://open.spotify.com/track/5b0pO1D67bUkGKzx4kNP56) | [The Sitar Lounge Experience](https://open.spotify.com/artist/2KdoHKu7K72giUrFxLQjKe) | [The Sitar Lounge Experience](https://open.spotify.com/album/0OILgZSp5RbtJszUSJXNog) | 4:48 | 2022-04-04 | 2022-04-21 |
 | [King of the Ragas \(Darbari\)](https://open.spotify.com/track/7n4BUekVuwAYTIHtxoz9n4) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Ãnanda Nãda](https://open.spotify.com/album/1MYMwqJ5tCmMUjCc2NkJsZ) | 8:00 | 2022-04-04 |  |
 | [Kirwani](https://open.spotify.com/track/0j438lJoTSWzhmdaokcljh) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Ragas from Lahore: Improvisations with Jaubi](https://open.spotify.com/album/5SB0DHPRMnyCY8tbMvDkmB) | 4:32 | 2022-07-18 | 2022-08-13 |
@@ -89,7 +90,7 @@
 | [Matunga Road](https://open.spotify.com/track/1xyPoM0HauExUsfEaIzdF0) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Moksha](https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY) | 3:17 | 2022-05-16 |  |
 | [Meditation Mornings](https://open.spotify.com/track/5W4ANWiWKDqXSnAy5OMY7f) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 5:14 | 2022-04-04 |  |
 | [Meeting of Two Oceans](https://open.spotify.com/track/76PToF9tQlklwSUbt4RNbk) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:14 | 2022-04-04 |  |
-| [Mereya](https://open.spotify.com/track/4ob12xPI4xKPLoryBcxHmz) | [Dangle](https://open.spotify.com/artist/5hoKc2VVEGfNKUOWtPCRwv) | [Mereya](https://open.spotify.com/album/4GvbUJO6wPX6d5yD2rInya) | 2:53 | 2022-04-04 |  |
+| [Mereya](https://open.spotify.com/track/4ob12xPI4xKPLoryBcxHmz) | [Dangle](https://open.spotify.com/artist/5hoKc2VVEGfNKUOWtPCRwv) | [Mereya](https://open.spotify.com/album/4GvbUJO6wPX6d5yD2rInya) | 2:53 | 2022-04-04 | 2023-09-16 |
 | [Moksha](https://open.spotify.com/track/5DwDWj14zb1G2fF7xQgqbv) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Moksha](https://open.spotify.com/album/2DEYwbAEe0uXNgWdevqUrw) | 3:18 | 2022-04-04 |  |
 | [Morning Dawn](https://open.spotify.com/track/0AvtIHB9BG8N725eCesw5F) | [ZoneMan](https://open.spotify.com/artist/4mzinlkJyhkA2mAmZlZ07E) | [Optimistic Horizon](https://open.spotify.com/album/172cwUyK1cBDDHl0lFdo8h) | 2:22 | 2022-12-02 |  |
 | [Morning in Jaipur](https://open.spotify.com/track/6bq2sIFBwDlNSvAeRSUOfC) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Morning in Jaipur](https://open.spotify.com/album/36LWh671wy1VsrgVeThoCy) | 2:44 | 2023-04-14 |  |

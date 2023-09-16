@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,538 likes - 112 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,592 likes - 112 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 11 | [Half Light](https://open.spotify.com/track/7wKp9THGLEsCRLm8Btccgx) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [In the Garden](https://open.spotify.com/album/4GnHKzBoHdWxr0s64TgQaw) | 2:20 |
 | 12 | [Heart\-Shaped](https://open.spotify.com/track/35Y8cKrF1T4fvkWkfEXCZM) | [Lovely Rascals](https://open.spotify.com/artist/3vxzErr7ghDB5qnfFXnaw3) | [Heart\-Shaped](https://open.spotify.com/album/3QREKCZ4wBIIjZT9iLnXN8) | 2:48 |
 | 13 | [Shaped by the Sea](https://open.spotify.com/track/3Nlgde2GCvK7phTY6RhOSq) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Shaped by the Sea](https://open.spotify.com/album/7LDdAZlXFG37V5biHmu5vP) | 2:33 |
-| 14 | [Furry Love](https://open.spotify.com/track/34Npia6FKnDC6sTv8mRwJS) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Pawmises](https://open.spotify.com/album/3jVaMpKBuBZGR8wFeVQwO2) | 2:31 |
+| 14 | [Furry Love](https://open.spotify.com/track/6g6TMQ4UBnsCi4wyURafjQ) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Pawmises](https://open.spotify.com/album/43ab60R3uqxuiXVdQLYICK) | 2:31 |
 | 15 | [By The Creek](https://open.spotify.com/track/2jDDwJobulNfNZxOJTNjEz) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Diiolme](https://open.spotify.com/artist/29GPUrWlYRtiq1NMNpQiQo) | [By The Creek](https://open.spotify.com/album/34OHpo2d3Xjqyv0mN2zyKz) | 2:39 |
 | 16 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 |
 | 17 | [Last Days of Summer](https://open.spotify.com/track/3FsBpfFdkScMDLRXoJbixf) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l) | [Last Days of Summer](https://open.spotify.com/album/6QXnQxEAS9BIHSvHLk8uR3) | 1:44 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 111 | [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 |
 | 112 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 |
 
-Snapshot ID: `MCwxYjYwY2E0NmRjYzRmYmIzYjE4YzAwMGUyOWQzZWY3NzVjNDYxNGE5`
+Snapshot ID: `MCwzNTM0MzNiOTkwMmYxMTdkMzBmOTBiMmJhNDk1OGU4NDk3OTk0ZmI0`

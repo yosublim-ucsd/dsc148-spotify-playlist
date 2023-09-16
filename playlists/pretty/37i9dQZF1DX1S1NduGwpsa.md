@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,581 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,744 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 9 | [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 |
 | 10 | [Dreamer](https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:30 |
 | 11 | [Body of Mine](https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Body of Mine](https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE) | 3:31 |
-| 12 | [Deluxe Refuge](https://open.spotify.com/track/0eFIAyTitJRLPeLp5e4sVh) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Deluxe Refuge](https://open.spotify.com/album/2DCu6EpOMOPlYGlAUqGbqe) | 5:27 |
+| 12 | [Deluxe Refuge](https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Deluxe Refuge](https://open.spotify.com/album/4bmmEf1HnNsp44VM8YKWbg) | 5:27 |
 | 13 | [To S.](https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Dolce Vita](https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg) | 4:26 |
 | 14 | [Love is Never Too Late](https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Love is Never Too Late](https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc) | 3:37 |
 | 15 | [Apache Woman](https://open.spotify.com/track/6gH3Nrt0v6AZzCfaMAjyO2) | [Henri Texier](https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES), [Manu Codjia](https://open.spotify.com/artist/5pgPy5GD36vX0EM48DrvE4), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO), [Carlo Nardozza](https://open.spotify.com/artist/1eYCiyEsYPHpLci3OUborg), [Sylvain Rifflet](https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni), [Sébastien Texier](https://open.spotify.com/artist/6zwjF5PQCREmT9hfRnSEeu), [Himiko Paganotti](https://open.spotify.com/artist/7nOiX0kJl9GXiBt8GmFhYC) | [Apache Woman](https://open.spotify.com/album/2drFeRDhAXuzdccDxj40uw) | 7:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Bonaventura](https://open.spotify.com/track/6GMqhc3dcBUExHWViNubtM) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Bonaventura](https://open.spotify.com/album/15HRPbNuHuuTmMkWHM9nKD) | 2:25 |
 | 50 | [Closer](https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Closer](https://open.spotify.com/album/2aVYyjgHni7OpuNf53KUH0) | 4:55 |
 
-Snapshot ID: `MCw5N2YzMDU5YjJkNGNmNWRkMTY5YjQ1NTZiODhmNjU1ZTI5YWFhNjIw`
+Snapshot ID: `MCw2ODliYWEzYTg1ZjlhNGMzZDMzYmIxNDFhMzg1YjVjMzU1Mjk3ODRj`

@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 173786,
       "name": "Peaceful Memory",
       "url": "https://open.spotify.com/track/3F8pwlF36S14zSKLfWH6LZ"
@@ -3624,6 +3624,24 @@
       "duration_ms": 176106,
       "name": "The Tower of Embellion",
       "url": "https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0"
+    },
+    {
+      "album": {
+        "name": "Theologus",
+        "url": "https://open.spotify.com/album/1xWRjZyPVFXOUlVrSXdJM3"
+      },
+      "artists": [
+        {
+          "name": "Isolde Nyqvist",
+          "url": "https://open.spotify.com/artist/5Z82jCDK9nRyo88w6jVqWF"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Theologus",
+      "url": "https://open.spotify.com/track/3RvwXY7RhoEGhM76ctJedG"
     },
     {
       "album": {

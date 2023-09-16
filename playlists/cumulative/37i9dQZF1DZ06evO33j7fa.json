@@ -500,10 +500,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 165986,
       "name": "Magic - Orchestrated Version 2",
       "url": "https://open.spotify.com/track/32Z3miiD5SZgaIkaGEWStf"
+    },
+    {
+      "album": {
+        "name": "Made To Love Magic",
+        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131680,
+      "name": "Mayfair - Cambridge Version",
+      "url": "https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE"
     },
     {
       "album": {

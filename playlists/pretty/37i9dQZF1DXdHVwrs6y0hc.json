@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 63425,
+  "num_followers": 63509,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzM4YzllNWZiMzFmMDI1ZjBiZDE4M2Q1NTA3OTBjNzU3Zjc2YzE0",
+  "snapshot_id": "MCwxZjQ2MDYyMzE3NTE0ZWQ4OWJmODBjMDA3Yjc5Njc3OGUyMGQzNjA4",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -223,6 +223,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Canyon Moonrise",
+        "url": "https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq"
+      },
+      "artists": [
+        {
+          "name": "Turlough",
+          "url": "https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Smoke and Strong Whiskey",
+      "url": "https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Irish Ballads and Songs",
         "url": "https://open.spotify.com/album/015erneqKmEPClgUAzqc1L"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 184613,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/47Aj72P6zTD6UqkIN44IiM"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Canyon Moonrise",
-        "url": "https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq"
-      },
-      "artists": [
-        {
-          "name": "Turlough",
-          "url": "https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Smoke and Strong Whiskey",
-      "url": "https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -371,6 +371,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Tara: Irish Songs (Paddy Dreaming)",
+        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
+      },
+      "artists": [
+        {
+          "name": "Tara",
+          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Paddy Dreaming",
+      "url": "https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Irish Ballads and Songs",
         "url": "https://open.spotify.com/album/015erneqKmEPClgUAzqc1L"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 182613,
       "name": "Spancil Hill",
       "url": "https://open.spotify.com/track/7GBFFTfwfS0vTHFacPUDjr"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Tara: Irish Songs (Paddy Dreaming)",
-        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
-      },
-      "artists": [
-        {
-          "name": "Tara",
-          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Paddy Dreaming",
-      "url": "https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -811,6 +811,26 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Home Is the Rover",
+        "url": "https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU"
+      },
+      "artists": [
+        {
+          "name": "Noel McLoughlin",
+          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
+        },
+        {
+          "name": "Denis Carey",
+          "url": "https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY"
+        }
+      ],
+      "duration_ms": 256398,
+      "name": "Roseville Fair",
+      "url": "https://open.spotify.com/track/6Tc4EflXu4AyHPkY9iMuHQ"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "20 Best Irish Songs",
         "url": "https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ"
       },
@@ -840,26 +860,6 @@
           "url": "https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY"
         }
       ],
-      "duration_ms": 256398,
-      "name": "Roseville Fair",
-      "url": "https://open.spotify.com/track/6Tc4EflXu4AyHPkY9iMuHQ"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Home Is the Rover",
-        "url": "https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU"
-      },
-      "artists": [
-        {
-          "name": "Noel McLoughlin",
-          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
-        },
-        {
-          "name": "Denis Carey",
-          "url": "https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY"
-        }
-      ],
       "duration_ms": 162093,
       "name": "The Old Dungarvan Oak",
       "url": "https://open.spotify.com/track/0I16G9QzUo5AmEsIKsAAhI"
@@ -867,8 +867,8 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Kieran Fahy: Irish Fiddle - Man From the West",
-        "url": "https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe"
+        "name": "Ireland: Tales of Our Land",
+        "url": "https://open.spotify.com/album/0yFRD63u0M2gHXgG7oAfl9"
       },
       "artists": [
         {
@@ -876,21 +876,13 @@
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "Philip Masure",
-          "url": "https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F"
-        },
-        {
-          "name": "Patrick Michiels",
-          "url": "https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N"
-        },
-        {
-          "name": "Kieran Fahy",
-          "url": "https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF"
+          "name": "Janet Sutton",
+          "url": "https://open.spotify.com/artist/2V5kNou7X20lwOxEp42ofy"
         }
       ],
-      "duration_ms": 165893,
-      "name": "The Whole Chicken in the Soup - The Crooked Road",
-      "url": "https://open.spotify.com/track/1XseuQQQgFa3Ge2ReHbnSX"
+      "duration_ms": 198733,
+      "name": "Road to Granard / Gallagher's Frolics / Out on the Ocean",
+      "url": "https://open.spotify.com/track/7DyemM63ebf7A8Xr1XbDra"
     }
   ],
   "unique_name": "Irish Tavern",

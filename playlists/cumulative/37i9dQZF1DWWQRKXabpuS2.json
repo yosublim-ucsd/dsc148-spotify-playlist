@@ -2197,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "Ma Fagadtek",
+        "url": "https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239774,
+      "name": "Ma Fagadtek",
+      "url": "https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv"
+    },
+    {
+      "album": {
         "name": "Maashar AlOshag",
         "url": "https://open.spotify.com/album/4SVOCuVTPM93lStypg1RuG"
       },

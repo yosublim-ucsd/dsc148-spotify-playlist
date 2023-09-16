@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Wim Tapley
 
-3,143 songs - 6 day 15 hr 57 min
+3,144 songs - 6 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1875,7 +1875,8 @@
 | [Mr\. Nice Guy](https://open.spotify.com/track/5bIbEL2OTC3aLdvtXBE3Wr) | [Sabrina Lee](https://open.spotify.com/artist/4KN3qs2dSQCL9GK5yMljau) | [Mr\. Nice Guy](https://open.spotify.com/album/5rmGvVbZTmxSOKCtypbuVe) | 2:34 | 2022-02-23 | 2022-03-24 |
 | [MR\. WOLFE](https://open.spotify.com/track/6duBOKo0072yN2n4IdMY18) | [Conel](https://open.spotify.com/artist/0cVXY7kKnex4KMaxWyoTTl) | [MR\. WOLFE](https://open.spotify.com/album/2tRFOUcGUpzK0o0Kg9gePk) | 2:53 | 2021-11-19 | 2021-12-01 |
 | [Mum I Made a Friend](https://open.spotify.com/track/4mNRFubPCCyu3LQn6IEvNu) | [Lane Webber](https://open.spotify.com/artist/3jpPTQw0VsjxujEsmgbgh4) | [Mum I Made a Friend](https://open.spotify.com/album/6yOgdR3lA0JpeB6nNnmf8y) | 2:47 | 2022-05-04 | 2022-06-09 |
-| [MURDER MY FEELINGS](https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib) | 2:44 | 2023-08-02 |  |
+| [MURDER MY FEELINGS](https://open.spotify.com/track/5ew8NaSZdrhpRfJaN8ni2A) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/0HQB2AgiDGDFkFgvSRYqAM) | 2:44 | 2023-08-02 |  |
+| [MURDER MY FEELINGS](https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib) | 2:44 | 2023-08-02 | 2023-09-16 |
 | [Murder Party](https://open.spotify.com/track/0BJHFunrXh8e7NFQzi8crG) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [Murder Party](https://open.spotify.com/album/2Rg9k0Bky03vcVNPQQwiGS) | 2:17 | 2021-02-17 | 2022-01-13 |
 | [Mutual XO](https://open.spotify.com/track/5IGoUYZdWjfTUjGlfeTKRc) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Mutual XO](https://open.spotify.com/album/4poZocs3xwN5Xp0WgdQU46) | 2:52 | 2022-03-09 | 2022-04-28 |
 | [My Adeline](https://open.spotify.com/track/3T72wXLxck8AboLdSvEW3Y) | [Isla Rose](https://open.spotify.com/artist/7id0KhxSicAZjV9e0aDTie) | [My Adeline](https://open.spotify.com/album/3xyqEqodJFI4DaSNc8dUsm) | 3:01 | 2022-03-16 | 2022-04-28 |

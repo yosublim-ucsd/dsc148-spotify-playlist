@@ -952,7 +952,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 193000,
       "name": "As The Light Slowly Fades",
       "url": "https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl"
@@ -4304,6 +4304,24 @@
       "duration_ms": 198618,
       "name": "Ever Connecting Thoughts",
       "url": "https://open.spotify.com/track/6JsGwsk7OGOrzUJ3lueufO"
+    },
+    {
+      "album": {
+        "name": "Evolving",
+        "url": "https://open.spotify.com/album/2YdJbbRTrBOYYMCDu9D1WR"
+      },
+      "artists": [
+        {
+          "name": "Cthulhu Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205025,
+      "name": "Evolving",
+      "url": "https://open.spotify.com/track/0CSMEI3zYa4Jued0MkyNcz"
     },
     {
       "album": {
@@ -10165,6 +10183,24 @@
     },
     {
       "album": {
+        "name": "Seafaring",
+        "url": "https://open.spotify.com/album/2QrLp5rUnECW6NE2SOUgf4"
+      },
+      "artists": [
+        {
+          "name": "Loki Minder",
+          "url": "https://open.spotify.com/artist/71PXav3tiDxIWWVrpiaI7l"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146687,
+      "name": "Seafaring",
+      "url": "https://open.spotify.com/track/0LppZsCkSjYa4aTqDh2Bpe"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg"
       },
@@ -11566,6 +11602,24 @@
       "duration_ms": 201761,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0"
+    },
+    {
+      "album": {
+        "name": "Supernus",
+        "url": "https://open.spotify.com/album/538Y2jVTlI7GhGmS7UoLJL"
+      },
+      "artists": [
+        {
+          "name": "Adrian Stenhammar",
+          "url": "https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "Supernus",
+      "url": "https://open.spotify.com/track/1s4VSiybT9ffhJmkKihPW9"
     },
     {
       "album": {

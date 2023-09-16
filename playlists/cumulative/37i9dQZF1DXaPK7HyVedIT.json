@@ -689,6 +689,28 @@
     },
     {
       "album": {
+        "name": "Computers Take Over The World (Remixes)",
+        "url": "https://open.spotify.com/album/6VhnussdJIvf9LGBVkUr6J"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179498,
+      "name": "Computers Take Over The World - Cat Dealers Remix",
+      "url": "https://open.spotify.com/track/1EMJQUJy57fHZ4dyqrFvjN"
+    },
+    {
+      "album": {
         "name": "Creepin'",
         "url": "https://open.spotify.com/album/4NN5vXPGsEnIjg0EyT721i"
       },
@@ -1010,10 +1032,36 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 141600,
       "name": "Focus (Double MZK Remix)",
       "url": "https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT"
+    },
+    {
+      "album": {
+        "name": "Fritando",
+        "url": "https://open.spotify.com/album/25j9WeVKzk826nDodLE3Zg"
+      },
+      "artists": [
+        {
+          "name": "Ronald DJ",
+          "url": "https://open.spotify.com/artist/5MjKm3b0XYvzervh54609T"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152044,
+      "name": "Fritando",
+      "url": "https://open.spotify.com/track/0XVH2KvgEwUatVf5bLwDtX"
     },
     {
       "album": {
@@ -1112,7 +1160,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 214560,
       "name": "Hear you calling",
       "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
@@ -1168,6 +1216,24 @@
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
+    },
+    {
+      "album": {
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Hijos De La Noche",
+      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
     },
     {
       "album": {
@@ -1616,7 +1682,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 186754,
       "name": "My Neck, My Back",
       "url": "https://open.spotify.com/track/37zAxyf8mkOLjNBIMFZQUd"
@@ -1641,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Night Is Closing",
+        "url": "https://open.spotify.com/album/3lDpGeWM1LS4mCF2qX8Hcw"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247142,
+      "name": "Night Is Closing",
+      "url": "https://open.spotify.com/track/6dQaJrwoir4GS9RaqEHYsz"
+    },
+    {
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/4VPlyMZAnN0D78J2C49cky"
       },
@@ -1652,7 +1736,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 209516,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/7eByPAx572J3cclC8y3mkp"
@@ -1674,7 +1758,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 354374,
       "name": "NO8DO - Plaza Edit",
       "url": "https://open.spotify.com/track/6nkuxT71Ze6bi3fNxOUO2K"
@@ -1876,7 +1960,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 196000,
       "name": "Piece of Mind",
       "url": "https://open.spotify.com/track/077nlPyo66esQ7ZmcVxcbL"
@@ -2140,7 +2224,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 185625,
       "name": "Rock The Casbah",
       "url": "https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr"
@@ -2227,6 +2311,54 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/0eYKrcg6wgIlRwTurG3pvr"
+      },
+      "artists": [
+        {
+          "name": "Scorsi",
+          "url": "https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT"
+        },
+        {
+          "name": "The Otherz",
+          "url": "https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224761,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0KYgrhOR22AirR2Z13KtCg"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1AwWchPQJO8jKekhSBjOHw"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Lia Rose",
+          "url": "https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300320,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2dj9wzusMoIgFX9z9MXq8H"
+    },
+    {
+      "album": {
         "name": "Taki",
         "url": "https://open.spotify.com/album/274pH7bndWdA3YdBQz09g9"
       },
@@ -2268,6 +2400,28 @@
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+    },
+    {
+      "album": {
+        "name": "Telesexo",
+        "url": "https://open.spotify.com/album/6zl8QIrWLpGE9Vl4Bnjbj9"
+      },
+      "artists": [
+        {
+          "name": "Coppola",
+          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
+        },
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212540,
+      "name": "Telesexo",
+      "url": "https://open.spotify.com/track/609zzeuRVGBYi0Q1sTDpxF"
     },
     {
       "album": {
@@ -2466,6 +2620,24 @@
       "duration_ms": 330000,
       "name": "TRiPPPY",
       "url": "https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr"
+    },
+    {
+      "album": {
+        "name": "Tudo Bem, Tudo Bom",
+        "url": "https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "Tudo Bem, Tudo Bom - Radio Edit",
+      "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
     },
     {
       "album": {

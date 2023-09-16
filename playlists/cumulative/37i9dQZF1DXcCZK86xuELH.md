@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-97 songs - 6 hr 54 min
+99 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Black Mountain](https://open.spotify.com/track/2vJOuZQThWcaiRnnGS2xb4) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH), [Jet Li](https://open.spotify.com/artist/1yGTTJEqOBvqXDQ3AcrbiX) | [Shelflife 7](https://open.spotify.com/album/14RSiSsPnHBZRNwOuyN3T8) | 6:17 | 2022-12-09 | 2023-07-22 |
 | [Blank Pages](https://open.spotify.com/track/2aUrM2EbVx2XGTalUh6Zco) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Atlas / 1](https://open.spotify.com/album/56Gcw4yzUceZQmMrPt3fTw) | 4:59 | 2022-12-09 |  |
 | [Bleeding Out](https://open.spotify.com/track/60rnWUaFlJw45uvIkObLno) | [Visionobi](https://open.spotify.com/artist/54llsSjxdbdGegB0X5uXEP), [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [Aaliyah Esprit](https://open.spotify.com/artist/73JRJE3o5cLbEOIoksppmG) | [Bleeding Out](https://open.spotify.com/album/0MtsVyLf8DVnQLK8n79RPj) | 4:17 | 2023-07-21 |  |
+| [Bonesaw](https://open.spotify.com/track/0cumlrgDodkXR7VeIKwWmK) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Bonesaw](https://open.spotify.com/album/0WpOUGGwTkA7R0CcYs5Tcj) | 4:34 | 2023-09-15 |  |
 | [Bongolian Belt Roller](https://open.spotify.com/track/2rVlgDArW7maMLtYnVZVv6) | [T>I](https://open.spotify.com/artist/0MDSr2KF63ydZmcqIvSPR3) | [The Locksmith EP](https://open.spotify.com/album/0QfPlN0yjGVG5R2bvyVpuy) | 4:24 | 2022-12-09 |  |
 | [Bubble & Squeak](https://open.spotify.com/track/10o8WlGMTARDhFBfBAh4Sl) | [Unkoded](https://open.spotify.com/artist/7wZqY0cDl08DCC4QWDBkGS) | [All Jungliss EP](https://open.spotify.com/album/5gODYKopZLayyusxKiAiIh) | 4:33 | 2022-12-09 | 2023-07-22 |
 | [Bye Bye Bye \(feat\. Chronixx\) \- S.P.Y Remix](https://open.spotify.com/track/0JPHV6kJG2QB7XUXH9eqCk) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Raggamuffin Reloaded](https://open.spotify.com/album/7ck2hQEDtns36ZczA84H13) | 4:17 | 2022-12-09 |  |
@@ -103,6 +104,7 @@
 | [Wa Dadda Deng](https://open.spotify.com/track/45YHlPYJuTXJJJALMS6HeD) | [Potential Badboy](https://open.spotify.com/artist/3tgRH8lQ25Totz9QkeyC3n), [Uncle Nuts](https://open.spotify.com/artist/3atHmdi4sYlgyjZu5Alxqj) | [Wa Dadda Deng](https://open.spotify.com/album/38Qfhynen6d7Vuk2j2pkVW) | 3:20 | 2022-12-09 |  |
 | [Wait for You](https://open.spotify.com/track/349dbUh4GYHnmnubRwWsVJ) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 4:38 | 2023-07-21 |  |
 | [We Got It \- S.P.Y Remix](https://open.spotify.com/track/1Iuo5rSPfXDVKxCyl2ePbW) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Rothwell](https://open.spotify.com/artist/5uPbfbVvS1knjpH37U1Mgr), [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [We Got It](https://open.spotify.com/album/1VBPJ2FXlBgEVwgiT6ixfi) | 4:57 | 2022-12-09 | 2023-07-22 |
+| [Wicked Man](https://open.spotify.com/track/2wUYAuTYpyImtO7AfCjbT6) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Wicked Man](https://open.spotify.com/album/5izVDkfJltrhQDuDSvwhhQ) | 3:18 | 2023-09-15 |  |
 | [Yagga Yagga](https://open.spotify.com/track/0MlPQbWano66UAk68eMSnF) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5cQjxfc0PLl9FZ6g8blq8A) | 4:17 | 2023-07-21 | 2023-09-01 |
 | [Yagga Yagga](https://open.spotify.com/track/1lNbpZLKfyAt0H9Uxs7Ceb) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5gS4eEAEOwyTiWvl1pPs3Y) | 4:17 | 2023-07-21 | 2023-08-02 |
 

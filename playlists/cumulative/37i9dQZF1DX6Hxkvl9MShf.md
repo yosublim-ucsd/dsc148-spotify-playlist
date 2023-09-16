@@ -4,7 +4,7 @@
 
 > Melodic house and techno to concentrate the mind.
 
-87 songs - 6 hr 10 min
+88 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Creatures](https://open.spotify.com/track/2Xu88uUM8dvRSzsZa8Tm2W) | [Justin Berghart](https://open.spotify.com/artist/2U8TggBhPjlTITew6Z3Dgt) | [Creatures](https://open.spotify.com/album/4GSSe42yWKGReogQuuUfuE) | 4:58 | 2023-01-06 |  |
 | [Crepuscular](https://open.spotify.com/track/5mFUHYZXlZhiSdqKmscDcU) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Balmy](https://open.spotify.com/album/2w24KFSj3y18ardZ75SIMm) | 5:10 | 2023-01-06 |  |
 | [Cygni](https://open.spotify.com/track/6YZ9SMO6M3xiLFdSGTDF16) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Cygni](https://open.spotify.com/album/1bisz6k9iWqxXgFhI40NDk) | 3:38 | 2023-01-06 |  |
+| [Deep Breaths](https://open.spotify.com/track/76CZ2QsN9I65OgsUHICRRg) | [ysurgi](https://open.spotify.com/artist/19hEr5cdWJEUO9p9aNk6lk) | [Deep Breaths](https://open.spotify.com/album/4Wcwbs5TobD4hmI6PG4QuJ) | 2:36 | 2023-09-15 |  |
 | [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2023-01-06 |  |
 | [Discovery](https://open.spotify.com/track/5npj4pyFmLxaV7sl59tZVB) | [Can Yıldızay](https://open.spotify.com/artist/5z9s8EUJoZ0HcoRqNrlFNg) | [Discovery](https://open.spotify.com/album/5jxCiCAEmvRsXosoyQXjok) | 3:46 | 2023-01-06 |  |
 | [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2023-01-06 |  |

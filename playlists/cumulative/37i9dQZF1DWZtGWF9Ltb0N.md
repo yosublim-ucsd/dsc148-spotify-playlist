@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-500 songs - 1 day 12 hr 46 min
+501 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Altair](https://open.spotify.com/track/4U95OXDYDP37bDPQmQAjYO) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Altair](https://open.spotify.com/album/4ysjvZUUh0pBHJL78QXjqa) | 5:01 | 2022-02-17 | 2022-07-28 |
 | [Ange](https://open.spotify.com/track/4TvmFIi8lcfZBnuU9omTYN) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Ange](https://open.spotify.com/album/2nT20AFqNcpq1HDuqU2xHW) | 5:54 | 2023-03-10 |  |
 | [Apply The Pressure](https://open.spotify.com/track/7sH8I4dYmxPibuLE3wvHh0) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Apply The Pressure](https://open.spotify.com/album/1cDdKxOHymuhtAssTIWwLV) | 3:07 | 2023-03-24 |  |
-| [Asura](https://open.spotify.com/track/4rYmKvCB2STFuskk0rgT6U) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Asura](https://open.spotify.com/album/1Q6WH0SaTmORCqMNWnM0hO) | 3:30 | 2023-08-25 |  |
+| [Asura](https://open.spotify.com/track/4rYmKvCB2STFuskk0rgT6U) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Asura](https://open.spotify.com/album/1Q6WH0SaTmORCqMNWnM0hO) | 3:30 | 2023-08-25 | 2023-09-16 |
 | [Avec Gang](https://open.spotify.com/track/3iNTexknoEaPnvU2y1VNGH) | [Boofy](https://open.spotify.com/artist/1w2QxapVigswBn0iFFmhAm) | [Avec Gang](https://open.spotify.com/album/7MTLaQsUGD6AYJa9uucT1T) | 3:51 | 2022-07-01 | 2022-12-18 |
 | [Azazel](https://open.spotify.com/track/6Qi2YQRnX5w4W9u5xjEm1T) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Hatched 17](https://open.spotify.com/album/6MCZ1few4hvpeQYOcNaQcu) | 4:36 | 2022-02-17 | 2022-04-28 |
 | [Back Once](https://open.spotify.com/track/1Gp13Xovwsy9de6qZDynOv) | [Stillhead](https://open.spotify.com/artist/6kAJ3c9QA35wGowhDQeaya) | [Back Once](https://open.spotify.com/album/5B8QqeBqkTb9EUYk50p8zg) | 4:52 | 2022-02-17 |  |
@@ -67,6 +67,7 @@
 | [Call](https://open.spotify.com/track/1Q9sqJ2fGODwIaYzJ7RhxG) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Call](https://open.spotify.com/album/2G8aFQihMD4IhyBq49bWse) | 2:59 | 2023-03-17 | 2023-06-10 |
 | [Cartel](https://open.spotify.com/track/59IiQCRjKBFmjPbFd0MOzs) | [Sub Basics](https://open.spotify.com/artist/6zpwlKhz2dq8BlG1BME5Zh) | [Horus / Cartel](https://open.spotify.com/album/6E99Te82rtI1y9rXKdLZgQ) | 4:26 | 2022-02-17 | 2023-08-07 |
 | [CBDUB \- Wake and Bake Mix](https://open.spotify.com/track/4SkXv0xdoJHmBocbtsG5Es) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Rico O.B.F](https://open.spotify.com/artist/3WQz2q2oUIdhBTxoCexWuH) | [Patience](https://open.spotify.com/album/1OxYshleIbIpM22OjG3Dlp) | 4:09 | 2022-03-25 | 2022-10-25 |
+| [Certified](https://open.spotify.com/track/3mYP9Tec1OzcwNKuCEqJzE) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [MontyCler](https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw) | [Certified](https://open.spotify.com/album/70eXJWr1u3t8PF81jx6mLL) | 3:39 | 2023-09-15 |  |
 | [Chainba \- Re\-master](https://open.spotify.com/track/6gv55mP8tMeUWBH39KRbhG) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [Chainba](https://open.spotify.com/album/1qXZ92jIEGRaUKrRFjjTBP) | 5:11 | 2022-02-17 | 2022-04-26 |
 | [Chamber](https://open.spotify.com/track/2yCz3n7e0rJXpALsmEs1JI) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Chamber](https://open.spotify.com/album/4vhVPZxXfFP9V7Z9MFWeWR) | 2:40 | 2022-10-28 |  |
 | [Changes](https://open.spotify.com/track/4QeJJXqKtMDFYMWhcvwdMU) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [Forgive / Changes](https://open.spotify.com/album/7rtkA3xcICf9NWuRxcJVy4) | 6:50 | 2022-02-17 | 2022-04-09 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-106 songs - 8 hr 5 min
+108 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [False Spring](https://open.spotify.com/track/0luuQTSSYiyAEJkTiR5ohg) | [Quadrant](https://open.spotify.com/artist/2rekrvrzMex0PPBX6zvvfj), [Iris](https://open.spotify.com/artist/5PDWYfx3o05zDhOvruFS6N) | [False Spring / Muse](https://open.spotify.com/album/7osfoUTmBzOzNrUb1LnyvC) | 5:15 | 2022-07-11 | 2023-07-22 |
 | [Fatto In Casa](https://open.spotify.com/track/3ymGRP1GUiEkd63nwogvd4) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Fatto In Casa](https://open.spotify.com/album/7ef6O6G86dB4ru6mFj6Dcl) | 4:28 | 2023-07-21 |  |
 | [Feelings](https://open.spotify.com/track/5UFzhENo7hU5XQsyPmAvuu) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Feelings / Understand](https://open.spotify.com/album/1AxECQiAkllT26Nwyxtp0h) | 6:02 | 2022-07-11 | 2023-07-22 |
-| [Five Nines](https://open.spotify.com/track/0IyhTRQxLG1RGRk5CBkzVs) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu) | [Five Nines / Choppy](https://open.spotify.com/album/1uOqFsvbMts8yJRGxBLfsZ) | 4:35 | 2023-07-21 |  |
+| [Five Nines](https://open.spotify.com/track/0IyhTRQxLG1RGRk5CBkzVs) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu) | [Five Nines / Choppy](https://open.spotify.com/album/1uOqFsvbMts8yJRGxBLfsZ) | 4:35 | 2023-07-21 | 2023-09-16 |
+| [Five Nines](https://open.spotify.com/track/4M2MNVPz9V9KKzkXC7I2dJ) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu) | [Five Nines / Choppy](https://open.spotify.com/album/3k4Ec6RWPYiaaXOx0ZgfK6) | 4:35 | 2023-07-21 |  |
 | [Framed](https://open.spotify.com/track/2AK0exPJcoT78algPct8Fq) | [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV), [Sl8r](https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR) | [Framed](https://open.spotify.com/album/1XYB7QKIZJLBUrXP8GT6dD) | 4:16 | 2023-07-21 |  |
 | [Get Serious](https://open.spotify.com/track/7y5TMfJqAvvAKfy6PYB5ma) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Beneath the Surface](https://open.spotify.com/album/05dtnn7yufEGZbfQ8loopK) | 4:13 | 2022-07-11 | 2023-07-22 |
 | [Getting Hot](https://open.spotify.com/track/0R7tFVDEPuMu1euN2PC7GU) | [Beeson](https://open.spotify.com/artist/2Bz33Qcq5GYQK0Cfk2YT9I) | [Getting Hot / Come To Mind](https://open.spotify.com/album/4xZ7HywRUbTOCQBMfvZig4) | 4:52 | 2023-07-21 |  |
@@ -101,7 +102,8 @@
 | [Techy](https://open.spotify.com/track/77IwSWO5w5oxfoY3RbzNPi) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW), [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM) | [Techy / Spice](https://open.spotify.com/album/0x0DRZKdbuL206ws8YKaKE) | 4:20 | 2022-07-11 | 2023-07-22 |
 | [Tell You What I Did](https://open.spotify.com/track/4cdTUcdzvpbVz9BJazc1ou) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [Tell You What I Did](https://open.spotify.com/album/7dkwus9p5TrJ10AO9hKrO0) | 3:29 | 2023-07-21 |  |
 | [Tempest](https://open.spotify.com/track/4KmY87fV2G2UoQg0FeM2Qe) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5) | [Tempest / You Want It All](https://open.spotify.com/album/5TFQcoOawAAPjTOZaMWn5X) | 5:24 | 2023-07-21 |  |
-| [That's A Lyric Ya Know](https://open.spotify.com/track/01QrCJzho8JfQlaGahCjTa) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [That's A Lyric Ya Know / Oddball](https://open.spotify.com/album/1nSV8lSUZng3kE2QXbD47s) | 4:24 | 2023-07-21 |  |
+| [That's A Lyric Ya Know](https://open.spotify.com/track/01QrCJzho8JfQlaGahCjTa) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [That's A Lyric Ya Know / Oddball](https://open.spotify.com/album/1nSV8lSUZng3kE2QXbD47s) | 4:24 | 2023-07-21 | 2023-09-16 |
+| [That's A Lyric Ya Know](https://open.spotify.com/track/7jzzNfVBZHJGlcBdU7yp4t) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [That's A Lyric Ya Know / Oddball](https://open.spotify.com/album/3lwaweybTBFV0zWi9irzlc) | 4:24 | 2023-07-21 |  |
 | [The Guillotine](https://open.spotify.com/track/4OwCRJEc8wKDODmmzvKIQZ) | [Marcus Intalex](https://open.spotify.com/artist/1LUyPCV4OiooCwffEq5ftD) | [Sell Your Soul](https://open.spotify.com/album/01jCedkuDzg5UGUXceOIrY) | 5:09 | 2023-07-21 |  |
 | [The Guillotine](https://open.spotify.com/track/4Z7JifYoK6cQOEmJ1rXxMu) | [Marcus Intalex](https://open.spotify.com/artist/1LUyPCV4OiooCwffEq5ftD) | [Sell Your Soul](https://open.spotify.com/album/6HOm06oFJxRZyM8wUKXnYy) | 5:09 | 2023-07-21 | 2023-09-10 |
 | [Unconditional](https://open.spotify.com/track/3mDNzIjc9h57KX4ozoGo4Q) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Unconditional](https://open.spotify.com/album/1RW5DwuUNyidhAPOjBpifM) | 3:44 | 2023-07-21 |  |

@@ -1508,10 +1508,36 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 115040,
       "name": "The Brook",
       "url": "https://open.spotify.com/track/0sK6jRVjGwUTEXVNCFe9t7"
+    },
+    {
+      "album": {
+        "name": "Pegan Hill",
+        "url": "https://open.spotify.com/album/3olh0hdIR0hLqYxJcfoPQB"
+      },
+      "artists": [
+        {
+          "name": "Kurt Stewart",
+          "url": "https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO"
+        },
+        {
+          "name": "Lomme",
+          "url": "https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6"
+        },
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115040,
+      "name": "The Brook",
+      "url": "https://open.spotify.com/track/1sLUDiE3A4PuWT3vmiCAio"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Music blasting, faith on swole\.  Get your beast mode on!  Guest Curated by <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=ee8a724b019b4d6d">KB</a>
 
-459 songs - 23 hr 1 min
+460 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Not A Monster](https://open.spotify.com/track/46eyVsonXTfTmLcUVYskUw) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Not A Monster](https://open.spotify.com/album/5lRFlm41b8JwBWgKtW1eqm) | 2:32 | 2022-02-04 | 2022-07-29 |
 | [Not Backing Down](https://open.spotify.com/track/085JBuPwP0YbPgc2t6Lscc) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Blanca](https://open.spotify.com/album/16pXhg6B9C9fLmM7HU4xfV) | 3:18 | 2022-03-23 | 2022-04-21 |
 | [NOTHING](https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [NOTHING BUT JESUS](https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw) | 2:37 | 2022-09-03 |  |
+| [Nowhere to Hide](https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw) | [Deraj](https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD) | [Nowhere to Hide](https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX) | 2:38 | 2023-08-11 |  |
 | [Obvious](https://open.spotify.com/track/4IiFVaOYaKvQ8IDxIxdEkX) | [Double Atl](https://open.spotify.com/artist/5IVXa5D4ctnpdKOHrWHDMh), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Obvious](https://open.spotify.com/album/495qhvw3b9LR0MvoTcvJYQ) | 2:28 | 2022-03-11 | 2022-03-24 |
 | [Okay](https://open.spotify.com/track/3W83exgQnWggvGqB0F6i35) | [Jay Scribe](https://open.spotify.com/artist/0j7Sg6xQXHEhywlC6UJBbl) | [Okay](https://open.spotify.com/album/1HmM7Zy0QP4IIpVrKMTSGB) | 2:33 | 2022-07-17 | 2022-08-07 |
 | [On God](https://open.spotify.com/track/2SasoXZyv82yYgHiVOvxQn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 2:16 | 2022-03-11 | 2022-04-21 |
@@ -352,7 +353,7 @@
 | [Ruckus](https://open.spotify.com/track/4RWpsZUfHdfCVX1KgpQgWU) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Crispin](https://open.spotify.com/artist/0rMwQONuoIsaJir7AFSTTZ) | [Ruckus](https://open.spotify.com/album/389d4pSwwuFlDxsvOwsIXd) | 3:00 | 2022-03-23 | 2022-04-21 |
 | [Run](https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Run](https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ) | 2:59 | 2022-09-03 | 2022-12-17 |
 | [Run It Up](https://open.spotify.com/track/1IfbrVnmsCJBYeSmULBC5c) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Run It Up](https://open.spotify.com/album/2EfvnFJwGxdmegKVWCmPAA) | 2:18 | 2022-02-04 |  |
-| [RUSH](https://open.spotify.com/track/6dxId4EEZvdUJqVmH3qA61) | [Kaboose](https://open.spotify.com/artist/2zD5NNTrgXT3o2RVrRBvv1), [Joe Bills](https://open.spotify.com/artist/1W0jgt0r6ladSy83zw9Ik4) | [RUSH](https://open.spotify.com/album/065QDCv1XieAGlpweuCSEP) | 2:49 | 2022-04-30 |  |
+| [RUSH](https://open.spotify.com/track/6dxId4EEZvdUJqVmH3qA61) | [Kaboose](https://open.spotify.com/artist/2zD5NNTrgXT3o2RVrRBvv1), [Joe Bills](https://open.spotify.com/artist/1W0jgt0r6ladSy83zw9Ik4) | [RUSH](https://open.spotify.com/album/065QDCv1XieAGlpweuCSEP) | 2:49 | 2022-04-30 | 2023-09-16 |
 | [Satisfied](https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Grace In The Wilderness](https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w) | 2:46 | 2022-04-30 | 2023-08-12 |
 | [Say That Then \(feat\. Porsha Love\)](https://open.spotify.com/track/0WwUaVViYistlgzq0vUHiw) | [Marc Stevens](https://open.spotify.com/artist/1fmn2V2H1bqmwk9SCdnuCd), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Say That Then \(feat\. Porsha Love\)](https://open.spotify.com/album/18PzgqbHFeir4vnTAEYsRW) | 2:18 | 2022-03-11 | 2022-03-24 |
 | [Season](https://open.spotify.com/track/6eaicDoH7Icxf9J4HdPfVk) | [Jamil](https://open.spotify.com/artist/4JDmvmyrWfrOVik0WkuoSu), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl) | [Season](https://open.spotify.com/album/74b2u5FRQAm3fGaZVuNN4k) | 2:24 | 2022-04-30 |  |

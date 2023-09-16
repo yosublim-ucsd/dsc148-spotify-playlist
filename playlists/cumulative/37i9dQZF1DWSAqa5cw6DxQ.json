@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Dreams of fall",
+        "url": "https://open.spotify.com/album/27YWWQyYxwpRAXu7mXrvtD"
+      },
+      "artists": [
+        {
+          "name": "Samaneh Awad",
+          "url": "https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135939,
+      "name": "Dreams of fall",
+      "url": "https://open.spotify.com/track/02esDcjYYynYTsa4Hi9umw"
+    },
+    {
+      "album": {
         "name": "Dreams of Mercury",
         "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
       },
@@ -2134,6 +2152,24 @@
       "duration_ms": 185348,
       "name": "Sensory Perception",
       "url": "https://open.spotify.com/track/0gkpdzAJ3065QgKDO0Nm8x"
+    },
+    {
+      "album": {
+        "name": "Serenity Collective",
+        "url": "https://open.spotify.com/album/3sMB7HNE0u3yu7MaY6AMud"
+      },
+      "artists": [
+        {
+          "name": "Cody Wallter",
+          "url": "https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197402,
+      "name": "Serenity Collective",
+      "url": "https://open.spotify.com/track/08mKLl5jtGsfUpaut2wroQ"
     },
     {
       "album": {

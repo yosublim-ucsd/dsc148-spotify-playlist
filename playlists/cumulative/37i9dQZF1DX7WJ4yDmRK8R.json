@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
@@ -1262,6 +1262,28 @@
       "duration_ms": 209594,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/7GcBhU9KW2cdxWQ39VY0Ri"
+    },
+    {
+      "album": {
+        "name": "Gotta Keep It Going",
+        "url": "https://open.spotify.com/album/37mFb0lfYnSslaJxUYabIX"
+      },
+      "artists": [
+        {
+          "name": "The Gramophone Allstars",
+          "url": "https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN"
+        },
+        {
+          "name": "Rodrigo Lavi\u00f1a",
+          "url": "https://open.spotify.com/artist/2GY6Es5fP09QBZW8KDbbv5"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225397,
+      "name": "Gotta Keep It Going",
+      "url": "https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j"
     },
     {
       "album": {
@@ -1996,7 +2018,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 144426,
       "name": "Lost It",
       "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
@@ -2338,7 +2360,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 240186,
       "name": "No Place Like (Not Being) Home",
       "url": "https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3"
@@ -2648,6 +2670,28 @@
       "duration_ms": 176693,
       "name": "Pressure Drop",
       "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
+    },
+    {
+      "album": {
+        "name": "Que me quemen tus ojos",
+        "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        },
+        {
+          "name": "Macha Y El Bloque Depresivo",
+          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Que me quemen tus ojos",
+      "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
     },
     {
       "album": {
@@ -4102,6 +4146,24 @@
       "duration_ms": 159000,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/56SbrhQBAmYHEQWT5bNmxj"
+    },
+    {
+      "album": {
+        "name": "Utakatarattara",
+        "url": "https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Utakatarattara",
+      "url": "https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Mayberg
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,565 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,756 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Teil vom Ganzen](https://open.spotify.com/track/6QIlkQBSjeYyNbDSZrcwuJ) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Macloud](https://open.spotify.com/artist/1CQUPR60ihhBANxqwTZv8O), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Teil vom Ganzen](https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn) | 2:16 |
 | 75 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
 
-Snapshot ID: `MCw5NGVmMTYyOTkwMTFjM2VmNGMxYWFjYWU4NmUzNTgxN2I1Y2VhYWYw`
+Snapshot ID: `MCw0M2I2YzI5YzRkZjM0NGEyNzZmMzgxYjI2ZGE3MDAwYzc4ZjY0YjFh`

@@ -3924,7 +3924,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 173142,
       "name": "Tet Ou Wo",
       "url": "https://open.spotify.com/track/6dFDWlG7CChRzolv1x0URN"
@@ -4312,6 +4312,24 @@
       "duration_ms": 112714,
       "name": "Water",
       "url": "https://open.spotify.com/track/6BiDHHaky7B7TaxMsY897N"
+    },
+    {
+      "album": {
+        "name": "Way Too Nice",
+        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
+      },
+      "artists": [
+        {
+          "name": "Eyo-E",
+          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125600,
+      "name": "Way Too Nice",
+      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
     },
     {
       "album": {

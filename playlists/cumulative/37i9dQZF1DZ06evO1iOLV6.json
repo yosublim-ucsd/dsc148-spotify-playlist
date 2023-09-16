@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 259230,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/0vtXr3xIGXkHI0eidEOuUg"
@@ -2320,6 +2320,28 @@
       "duration_ms": 196260,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
+    },
+    {
+      "album": {
+        "name": "TONIGHT (SPED UP)",
+        "url": "https://open.spotify.com/album/35G3wbgsPubiXVaUV73MXb"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73800,
+      "name": "Tonight SPED UP",
+      "url": "https://open.spotify.com/track/7BdYlZyuqWGtW5fD31fMNM"
     },
     {
       "album": {

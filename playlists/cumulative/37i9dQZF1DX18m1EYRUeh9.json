@@ -1834,10 +1834,32 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 173981,
       "name": "Some Of Us Are Brave (Georgia Anne Muldrow's Geemix)",
       "url": "https://open.spotify.com/track/0kVJEG5pdADLbeyEabOyYi"
+    },
+    {
+      "album": {
+        "name": "Some Of Us Are Brave (Deluxe)",
+        "url": "https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173981,
+      "name": "Some Of Us Are Brave (Georgia Anne Muldrow's Geemix)",
+      "url": "https://open.spotify.com/track/67xeUEYZOxGcrjsjvs1mxG"
     },
     {
       "album": {

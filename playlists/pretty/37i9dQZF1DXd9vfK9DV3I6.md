@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,792 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,958 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 45 | [Arabian Magic](https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Arabian Magic](https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX) | 3:08 |
 | 46 | [Amelia](https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f) | 3:13 |
 | 47 | [Il Mattino](https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy) | [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Anis Karek](https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8) | [Il Mattino](https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM) | 5:31 |
-| 48 | [Euphrates](https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Amare](https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K) | 6:50 |
-| 49 | [Escuro](https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv) | [Cut Off](https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1) | [Escuro](https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx) | 4:45 |
+| 48 | [Escuro](https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv) | [Cut Off](https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1) | [Escuro](https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx) | 4:45 |
+| 49 | [Euphrates](https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Amare](https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K) | 6:50 |
 | 50 | [Yâr \- Ezgi Sağlık Vocal Edit](https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [fidanson](https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh), [Ezgi Sağlık](https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9) | [Yâr](https://open.spotify.com/album/770XPLwAlImTgzG070HEvX) | 1:37 |
 | 51 | [Lala](https://open.spotify.com/track/5FJiSLoCEAV9fkX4oZd2ou) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Lala](https://open.spotify.com/album/40fLzSAhU3F0x5tSaZtVt6) | 6:34 |
-| 52 | [Heatiche \- Vip Mix](https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO) | [Mpirgkel](https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4) | [Heatiche \(Vip Mix\)](https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3) | 3:36 |
-| 53 | [3ala bali](https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Pamela Antoun](https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN) | [3ala bali](https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5) | 3:30 |
-| 54 | [Cry](https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd), [Kristian Gusho](https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL) | [Cry](https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2) | 3:20 |
+| 52 | [Cry](https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd), [Kristian Gusho](https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL) | [Cry](https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2) | 3:20 |
+| 53 | [Heatiche \- Vip Mix](https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO) | [Mpirgkel](https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4) | [Heatiche \(Vip Mix\)](https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3) | 3:36 |
+| 54 | [3ala bali](https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Pamela Antoun](https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN) | [3ala bali](https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5) | 3:30 |
 | 55 | [Ahwak \(Deeper Remix\)](https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Ahwak \(Deeper Remix\)](https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90) | 5:00 |
 | 56 | [Bangladesh](https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf) | [Esotique](https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF), [Sandra N.](https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L) | [Bangladesh](https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl) | 2:27 |
 | 57 | [Jasmine](https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Jasmine](https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG) | 3:14 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 70 | [Moulat Lkhala](https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Moulat Lkhala](https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5) | 3:12 |
 | 71 | [Dahlia Girl](https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Dahlia Girl](https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv) | 3:17 |
 | 72 | [Lik \(Mashti & Polyesta Remix for Womex 14\)](https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Buddha Bar XVII](https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN) | 5:23 |
-| 73 | [La Blanche](https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN) | [TEHRACH](https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt), [omar](https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd) | [La Blanche](https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ) | 5:32 |
-| 74 | [Lamouni](https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Lamouni](https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ) | 3:37 |
+| 73 | [Lamouni](https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Lamouni](https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ) | 3:37 |
+| 74 | [La Blanche](https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN) | [TEHRACH](https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt), [omar](https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd) | [La Blanche](https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ) | 5:32 |
 | 75 | [Ala Moj Al Bahr \- Javid Remix](https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [JAVID](https://open.spotify.com/artist/6rcpZJj6qCAAYEqbDR7oif) | [Letters](https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t) | 9:11 |
 | 76 | [Souq](https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Sireli](https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk) | 6:21 |
 | 77 | [Marrakech](https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 5:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Vestido Preto](https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl) | [IV\-IN](https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Riviera](https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY) | 4:22 |
 | 100 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn) | [Lane Moje](https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE) | 2:59 |
 
-Snapshot ID: `MCwxMWY3NGExODYwZDAxNGEyNTBkYmM2OWMzOTUzOWEwMDJkNzNjZjE1`
+Snapshot ID: `MCxiMDFkYjdjYTdhNjg1NmJiNTM1YzI0YzFjMWQ2YzQyOWRiY2UzNTkz`

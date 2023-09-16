@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Travel back to the start, tracing the roots of what would become bluegrass through to some of its early hits and gems. Cover: Remembering Jesse McReynolds",
+  "description": "Travel back to the start, tracing the roots of bluegrass through to early hits and gems. Cover: Jesse McReynolds",
   "name": "Bluegrass Origins",
   "tracks": [
     {
@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Back Porch Bluegrass",
+        "url": "https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea"
+      },
+      "artists": [
+        {
+          "name": "The Dillards",
+          "url": "https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "Rainin' Here This Morning",
+      "url": "https://open.spotify.com/track/2DPQSoHXS4NnB6qambnomR"
+    },
+    {
+      "album": {
         "name": "The Essential Bill Monroe",
         "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
       },
@@ -1258,6 +1276,32 @@
       "duration_ms": 129360,
       "name": "She Left Me Standing On the Mountain",
       "url": "https://open.spotify.com/track/4hloQEApxIXnB66RSrdtXn"
+    },
+    {
+      "album": {
+        "name": "Sundown and Sorrow",
+        "url": "https://open.spotify.com/album/26voGhF3UnKRku2pSqatz0"
+      },
+      "artists": [
+        {
+          "name": "The Reno Brothers",
+          "url": "https://open.spotify.com/artist/2vruTtpGNMuQuxxZllS2JQ"
+        },
+        {
+          "name": "Don Reno",
+          "url": "https://open.spotify.com/artist/7rB502Ec9wP6wZQxhztkM7"
+        },
+        {
+          "name": "The Reno Family",
+          "url": "https://open.spotify.com/artist/3Xy23rmREB48e4f2EIaqw1"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169773,
+      "name": "Sundown and Sorrow",
+      "url": "https://open.spotify.com/track/7A8rKK3BKcWjA8HOfDhv3i"
     },
     {
       "album": {

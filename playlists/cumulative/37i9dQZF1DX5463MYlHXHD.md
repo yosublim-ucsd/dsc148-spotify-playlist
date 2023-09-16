@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: BM & La Champions Liga.
 
-148 songs - 8 hr 1 min
+149 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 | 2023-05-26 |  |
 | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT) | 2:45 | 2023-05-26 |  |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [En Este Futuro Brillante, No Puedes Olvidar Tu Pasado](https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H) | 3:00 | 2023-05-26 |  |
-| [Hdp](https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Hdp](https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp) | 3:05 | 2023-05-26 |  |
+| [Hdp](https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Hdp](https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp) | 3:05 | 2023-05-26 | 2023-09-16 |
 | [Hola \- Remix](https://open.spotify.com/track/0cBDwyo9iFsSd3i4RrcKaB) | [Ezequiel Llanos](https://open.spotify.com/artist/3l4qjCL1496zAgprejycLi), [MEDINAS](https://open.spotify.com/artist/1bqz6MNvjWHhtP8Lvilwoi), [Tatum 73](https://open.spotify.com/artist/2tTL8JtRIV3HwikWnKA2JQ), [Dimelo Ismael](https://open.spotify.com/artist/0L42E3i2czZnCU0BYWdkor), [gonza maza](https://open.spotify.com/artist/16sCPb3OQ3HmvFLCcjWeyL) | [Hola \(Remix\)](https://open.spotify.com/album/79ZYNjHhMRByHU6xYGYWuI) | 2:58 | 2023-05-29 |  |
 | [Hoy Acá en el Baile \(Cara de Gitana\) \- Versión El Pepo](https://open.spotify.com/track/0GXohhvxGe7ehlH84YGBO5) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Libre](https://open.spotify.com/album/6ilkDJx9M7ppTKzFvs5tQx) | 2:14 | 2023-05-26 |  |
 | [Hoy Te Vi](https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6), [Melodia Kallejera](https://open.spotify.com/artist/0E36ZeuCI1sTkXy8Vol6pL) | [Gracia Divina](https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz) | 3:38 | 2023-05-26 |  |
@@ -156,5 +156,6 @@
 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 | 2023-05-26 |  |
 | [Yo Fumo](https://open.spotify.com/track/2AOiUFvBd1AbUtEnmwqhaI) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Yo Fumo](https://open.spotify.com/album/33FknRCSpak207j4cmiApB) | 3:10 | 2023-05-26 | 2023-06-13 |
 | [Yo Me Enamoré](https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:12 | 2023-05-26 |  |
+| [YO SOY TU MAESTRO \- Remix](https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [YO SOY TU MAESTRO \(Remix\)](https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG) | 3:25 | 2023-09-15 |  |
 
 \*This playlist was first scraped on 2023-05-28. Prior content cannot be recovered.

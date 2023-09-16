@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Norah Jones
 
-360 songs - 1 day 2 hr 4 min
+361 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-29 | 2023-01-13 |
 | [Dear Lord](https://open.spotify.com/track/4kv4y1ksmfSfdMcJkZvLtd) | [Harold Mabern](https://open.spotify.com/artist/0CHdvqcELhkUJEsftEZ965) | [Mabern Plays Coltrane](https://open.spotify.com/album/4suBtE9VUuPLhZ6BI7NUaW) | 5:36 | 2022-04-14 | 2022-05-13 |
 | [Delta Lady](https://open.spotify.com/track/2LU7TTi6IBhCwn3g1vyQ1N) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [Delta Lady](https://open.spotify.com/album/7dJygQ3xuMrppaDbrBeJYL) | 3:03 | 2022-06-30 | 2022-10-14 |
-| [Deluxe Refuge](https://open.spotify.com/track/0eFIAyTitJRLPeLp5e4sVh) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Deluxe Refuge](https://open.spotify.com/album/2DCu6EpOMOPlYGlAUqGbqe) | 5:27 | 2023-09-14 |  |
+| [Deluxe Refuge](https://open.spotify.com/track/0eFIAyTitJRLPeLp5e4sVh) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Deluxe Refuge](https://open.spotify.com/album/2DCu6EpOMOPlYGlAUqGbqe) | 5:27 | 2023-09-14 | 2023-09-16 |
+| [Deluxe Refuge](https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Deluxe Refuge](https://open.spotify.com/album/4bmmEf1HnNsp44VM8YKWbg) | 5:27 | 2023-09-14 |  |
 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 | 2022-08-25 | 2022-12-09 |
 | [Dirty Mariposa](https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Moonlight Love Affair](https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp) | 5:24 | 2022-04-28 | 2022-09-17 |
 | [Disco Ears](https://open.spotify.com/track/5li75DMlmHshiqcMStzxhF) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [LongGone \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/album/52Vr22XzeD9rIOnOQ3OSKR) | 6:21 | 2022-09-22 | 2023-01-13 |

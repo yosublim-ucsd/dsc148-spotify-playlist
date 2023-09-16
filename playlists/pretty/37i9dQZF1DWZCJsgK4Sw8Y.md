@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,854 likes - 87 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,947 likes - 67 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,32 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 58 | [Southtown](https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:07 |
 | 59 | [Be My Escape](https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:00 |
 | 60 | [Bitter Taste](https://open.spotify.com/track/2xEjW8dKDsAk77k2LgmhPV) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [You Can't Handle The Tooth](https://open.spotify.com/album/0JCZGN5sBlqlfRC0imo3ln) | 2:10 |
-| 61 | [Jesus Freak \- Remastered 2013](https://open.spotify.com/track/4zAjQDduJhIRFSpfrIN68Z) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 4:49 |
-| 62 | [Someone Else's Arms](https://open.spotify.com/track/3wPUVeBg5vUdDYKp8FNMKR) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [You Can't Handle The Tooth](https://open.spotify.com/album/0JCZGN5sBlqlfRC0imo3ln) | 5:11 |
-| 63 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 |
-| 64 | [Already Over](https://open.spotify.com/track/3SP1LUtLle97QNFvFFopnG) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [End Of Silence](https://open.spotify.com/album/3ntOXFMHUPIedU3l2QNE0n) | 4:24 |
-| 65 | [Faith Like That](https://open.spotify.com/track/7aBjju8338UrDu043NCM1U) | [Jonah33](https://open.spotify.com/artist/0Chu9tSPIjW9bGr5OLlvy0) | [Jonah33](https://open.spotify.com/album/5ZnDqixFeRh73LZVutNVQQ) | 4:24 |
-| 66 | [Jonah \- Flying Album Version](https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV) | [Grammatrain](https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn) | [Flying](https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P) | 2:41 |
-| 67 | [Writing On The Walls](https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:02 |
-| 68 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
-| 69 | [Horizon](https://open.spotify.com/track/78nsDXdPdsSEgQ7uE8o1JU) | [38th Parallel](https://open.spotify.com/artist/7iKsdIqgy2s5xMbKiVafjv) | [Turn the Tides](https://open.spotify.com/album/1gTvrOuCP6SjwS8aCFiFBo) | 3:53 |
-| 70 | [Kill Me, Heal Me](https://open.spotify.com/track/4uAoGnYtLYdDTCNxG6liOJ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Alien Youth](https://open.spotify.com/album/5AffZsDjtfhfUhLCkjvypp) | 3:35 |
-| 71 | [Set Your Eyes to Zion](https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:06 |
-| 72 | [Super Good Feeling \- Static Album Version](https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI) | [Bleach](https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y) | [Static](https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU) | 3:19 |
-| 73 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
-| 74 | [Energy](https://open.spotify.com/track/1YJ6AWU6RPVuHfi0wwOEsC) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 3:56 |
-| 75 | [Suspension](https://open.spotify.com/track/2F2BqlVi9YWOSrCeHGSCOX) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [The Everglow](https://open.spotify.com/album/2p44huLsquBxzop7L8e5kk) | 4:00 |
-| 76 | [Gasoline](https://open.spotify.com/track/050IFBYeEqDS4FavXJifoe) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Skillet](https://open.spotify.com/album/5PUVPlbwm347Jt0Vdcw3s5) | 4:02 |
-| 77 | [Buckets for Bullet Wounds](https://open.spotify.com/track/3qNBCIgwGShM7ov8OVHDdZ) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Say No More](https://open.spotify.com/album/4WP3o8SgjBINbEowuHFCg4) | 3:39 |
-| 78 | [Best Kept Secret](https://open.spotify.com/track/2cG1yPMbPZWoZF4LqqM3a4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Invincible](https://open.spotify.com/album/5tzRPb7jOVIiERbbxlCIAD) | 3:55 |
-| 79 | [Let the Music Do the Talking](https://open.spotify.com/track/2imvWwJzFTUj1OXIRMxbGn) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Snuff the Punk](https://open.spotify.com/album/7e5QNC3nZ2g563b22IzdrQ) | 3:42 |
-| 80 | [Keep Waiting](https://open.spotify.com/track/2nie6zXCdvw3iWFlLVfHLt) | [Stavesacre](https://open.spotify.com/artist/0TyFKV9Tlx4eibaotGxHPS) | [Speakeasy](https://open.spotify.com/album/5GrGjFaWxaMKou9L7WU107) | 4:33 |
-| 81 | [One Time \- Earthsuit 2000 Album Version](https://open.spotify.com/track/1Q9o5YS8sF60FpCzhG7628) | [Earthsuit](https://open.spotify.com/artist/0ues6uPY9fNQNLlpV9Qxqr) | [Kaleidoscope Superior](https://open.spotify.com/album/0t0depqHMDvV1M2Zvm4bXp) | 4:20 |
-| 82 | [Collide](https://open.spotify.com/track/0dWy5gz8IwvIyJEHOPKwKU) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 5:38 |
-| 83 | [Paperthin Hymn](https://open.spotify.com/track/6VSmHLLvYAAkzrYFT3LloU) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:17 |
-| 84 | [Cold Cash And Cold Hearts](https://open.spotify.com/track/52eKlQVgqvdSzEUYDi3ihh) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 2:53 |
-| 85 | [Embers and Envelopes](https://open.spotify.com/track/1UEQUcL0XEpX3WLNFvv4uM) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/0KSoZMT7Q7q5nylNQnvtUa) | 4:18 |
-| 86 | [Preacher's Kid](https://open.spotify.com/track/1MYeiUMvuupmhDqMqwM2tN) | [Johnny Q\. Public](https://open.spotify.com/artist/0TLrBAUaGIFgurLKPIPaCi) | [Extra Ordinary](https://open.spotify.com/album/3Ou72BgMUjJImE7s53V8iZ) | 3:59 |
-| 87 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 |
+| 61 | [One Time \- Earthsuit 2000 Album Version](https://open.spotify.com/track/1Q9o5YS8sF60FpCzhG7628) | [Earthsuit](https://open.spotify.com/artist/0ues6uPY9fNQNLlpV9Qxqr) | [Kaleidoscope Superior](https://open.spotify.com/album/0t0depqHMDvV1M2Zvm4bXp) | 4:20 |
+| 62 | [Collide](https://open.spotify.com/track/0dWy5gz8IwvIyJEHOPKwKU) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 5:38 |
+| 63 | [Paperthin Hymn](https://open.spotify.com/track/6VSmHLLvYAAkzrYFT3LloU) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:17 |
+| 64 | [Cold Cash And Cold Hearts](https://open.spotify.com/track/52eKlQVgqvdSzEUYDi3ihh) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 2:53 |
+| 65 | [Embers and Envelopes](https://open.spotify.com/track/1UEQUcL0XEpX3WLNFvv4uM) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [Destination: Beautiful](https://open.spotify.com/album/0KSoZMT7Q7q5nylNQnvtUa) | 4:18 |
+| 66 | [Preacher's Kid](https://open.spotify.com/track/1MYeiUMvuupmhDqMqwM2tN) | [Johnny Q\. Public](https://open.spotify.com/artist/0TLrBAUaGIFgurLKPIPaCi) | [Extra Ordinary](https://open.spotify.com/album/3Ou72BgMUjJImE7s53V8iZ) | 3:59 |
+| 67 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 |
 
-Snapshot ID: `MCw0ZjdlYTU4N2UwNWQ5NzQ4MmM2N2E3Mjc5Y2ZjZTFkOWRkOGZlNGRm`
+Snapshot ID: `MCw1ZGJmNTNjZjA5MDZlZGZhZmUzNmFmYTI4MjBhYjFlMmRjNjI1ZDRm`

@@ -4,7 +4,7 @@
 
 > una lloradita tranqui
 
-192 songs - 10 hr 55 min
+193 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Y Te Amo](https://open.spotify.com/track/1DoTRhlog44wbVaK5ERhQV) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Con Amor](https://open.spotify.com/album/7cXlxCCL0nXob07Nss8z2k) | 3:03 | 2023-02-03 |  |
 | [Y Volveré \- Remastered 1994](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 | 2022-01-18 |  |
 | [Ya Corazón](https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK) | 2:57 | 2023-03-16 | 2023-08-09 |
-| [Ya se va](https://open.spotify.com/track/2810wDguo4vr31y99SPCIx) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [12 Grandes exitos Vol\. 1](https://open.spotify.com/album/0PF2nlzIDjYBouRSRCDFbi) | 2:51 | 2022-01-18 |  |
+| [Ya Se Va](https://open.spotify.com/track/7fY3uepjB5N2hVKiGP8mQ5) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Colección De Oro](https://open.spotify.com/album/6DNT81e4TIT0sbVsJOePTh) | 2:48 | 2023-05-05 |  |
+| [Ya se va](https://open.spotify.com/track/2810wDguo4vr31y99SPCIx) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [12 Grandes exitos Vol\. 1](https://open.spotify.com/album/0PF2nlzIDjYBouRSRCDFbi) | 2:51 | 2022-01-18 | 2023-09-16 |
 | [Ya Se Va \(Walk It Out\)](https://open.spotify.com/track/5VwipG3i91leS98z6OmiG3) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Los Originales](https://open.spotify.com/album/6lZ9vgAPDLgCO9EvNcPsoE) | 2:47 | 2022-01-18 | 2022-07-29 |
 | [Yo Te Necesito](https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Yo Te Necesito](https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz) | 2:58 | 2022-01-18 |  |
 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 | 2022-01-18 |  |

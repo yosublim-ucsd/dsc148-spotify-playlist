@@ -1,13 +1,49 @@
 {
   "description": "Not NOT pop. Cover: 347aidan.          ",
-  "num_followers": 696690,
+  "num_followers": 696771,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjVhMzYyN2ZlYjc2NzcxYmU4NGJiNDI0YTMzYzdlNzMzNjUzMDA1",
+  "snapshot_id": "MCw1NDQxODcxMWVmMzVlZGIwMzVlODI2ZjQxMzZhNGUxYWQwNTVmM2Rl",
   "tracks": [
+    {
+      "added_at": "2023-09-15 03:35:33",
+      "album": {
+        "name": "sins (let me in)",
+        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 128326,
+      "name": "sins (let me in)",
+      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
+    },
+    {
+      "added_at": "2023-09-15 03:35:33",
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "WHIPCREAM",
+      "url": "https://open.spotify.com/track/55iO3rILBsWI8bMntmW1Mh"
+    },
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
@@ -25,6 +61,38 @@
       "url": "https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn"
     },
     {
+      "added_at": "2023-09-15 03:35:33",
+      "album": {
+        "name": "Fairweather Friends",
+        "url": "https://open.spotify.com/album/0Lgte4FZ2oPj12uHFYWCQn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 94857,
+      "name": "Fairweather Friends",
+      "url": "https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J"
+    },
+    {
+      "added_at": "2023-09-15 03:35:33",
+      "album": {
+        "name": "the Rake (can\u2019t complain)",
+        "url": "https://open.spotify.com/album/1fThTzAJxKmxgg2WgpeTD4"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "the Rake (can\u2019t complain)",
+      "url": "https://open.spotify.com/track/6UsCvuLD64nzgGSSJu6fnd"
+    },
+    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "Nothing Sacred",
@@ -39,22 +107,6 @@
       "duration_ms": 150052,
       "name": "Putting On Airs",
       "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
-    },
-    {
-      "added_at": "2023-09-01 16:22:41",
-      "album": {
-        "name": "marry me",
-        "url": "https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 157604,
-      "name": "marry me",
-      "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
     },
     {
       "added_at": "2023-09-01 16:22:41",
@@ -123,6 +175,26 @@
       "duration_ms": 189978,
       "name": "X-RAY",
       "url": "https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR"
+    },
+    {
+      "added_at": "2023-09-15 03:35:33",
+      "album": {
+        "name": "Pull Up(s)",
+        "url": "https://open.spotify.com/album/3YctpjaNzPkk8faA4Scemh"
+      },
+      "artists": [
+        {
+          "name": "omniboi",
+          "url": "https://open.spotify.com/artist/3I4kM4D2rNnlG8JwEH5bHx"
+        },
+        {
+          "name": "Ehiorobo",
+          "url": "https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5"
+        }
+      ],
+      "duration_ms": 286635,
+      "name": "Pull Up(s)",
+      "url": "https://open.spotify.com/track/5ycFHqi89RSSSC9kWNT3Zr"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -213,6 +285,22 @@
       "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
     },
     {
+      "added_at": "2023-09-15 03:35:33",
+      "album": {
+        "name": "Bad Joke",
+        "url": "https://open.spotify.com/album/31ceqD4m45Pk4AKR3tbYC4"
+      },
+      "artists": [
+        {
+          "name": "adan diaz",
+          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
+        }
+      ],
+      "duration_ms": 105669,
+      "name": "Bad Joke",
+      "url": "https://open.spotify.com/track/1uAdlow4ZhOSQYNFQw7GOw"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "wallflower",
@@ -269,6 +357,26 @@
       "url": "https://open.spotify.com/track/3jbivGLXf7sguAk3P7SyOR"
     },
     {
+      "added_at": "2023-09-15 03:35:33",
+      "album": {
+        "name": "maybe i won't get high",
+        "url": "https://open.spotify.com/album/05DzxjpzuuxTBDUO3DR3OR"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        },
+        {
+          "name": "mykel online",
+          "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
+        }
+      ],
+      "duration_ms": 142660,
+      "name": "maybe i won't get high",
+      "url": "https://open.spotify.com/track/0JR0sxHccA1Arbq5lc65ak"
+    },
+    {
       "added_at": "2023-07-11 13:27:25",
       "album": {
         "name": "NO THANK YOU",
@@ -283,22 +391,6 @@
       "duration_ms": 245819,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
-    },
-    {
-      "added_at": "2023-09-13 15:10:09",
-      "album": {
-        "name": "Run from you",
-        "url": "https://open.spotify.com/album/3CCw8H7YKnufmFZ0baD7vf"
-      },
-      "artists": [
-        {
-          "name": "Downtown Kayoto",
-          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
-        }
-      ],
-      "duration_ms": 146489,
-      "name": "Run from you",
-      "url": "https://open.spotify.com/track/2hGgCuB3Cqmu92eULAiXhW"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -351,6 +443,26 @@
       "duration_ms": 182146,
       "name": "Crying In My Car (with Teezo Touchdown)",
       "url": "https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl"
+    },
+    {
+      "added_at": "2023-09-15 03:35:33",
+      "album": {
+        "name": "nu genesis",
+        "url": "https://open.spotify.com/album/0nRwPTtogG3muGAFSw6J2r"
+      },
+      "artists": [
+        {
+          "name": "Deko",
+          "url": "https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn"
+        },
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        }
+      ],
+      "duration_ms": 131471,
+      "name": "just sayin (\u3065\uffe3 \u00b3\uffe3)\u3065",
+      "url": "https://open.spotify.com/track/4DbvcF5jOZTMOKeczBPPSg"
     },
     {
       "added_at": "2023-09-01 16:22:41",
@@ -841,26 +953,6 @@
       "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "the world is big, get over it",
-        "url": "https://open.spotify.com/album/0OmGufWKh3Mvwtn33Z0j9P"
-      },
-      "artists": [
-        {
-          "name": "Godly the Ruler",
-          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
-        },
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 188020,
-      "name": "balenciaga size 42",
-      "url": "https://open.spotify.com/track/4sNZrt2CzEzWT931xRE2Iu"
-    },
-    {
       "added_at": "2023-08-04 13:30:02",
       "album": {
         "name": "Soft Landing",
@@ -909,22 +1001,6 @@
       "url": "https://open.spotify.com/track/6Awe5dR7eYAfHVkycO6m5X"
     },
     {
-      "added_at": "2023-07-27 15:36:37",
-      "album": {
-        "name": "Let Me Fight",
-        "url": "https://open.spotify.com/album/0tbp6MUMK5mIJd4GG8soi3"
-      },
-      "artists": [
-        {
-          "name": "Creams",
-          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
-        }
-      ],
-      "duration_ms": 168069,
-      "name": "Let Me Fight",
-      "url": "https://open.spotify.com/track/08tAIp0mVArkmIdUAnKMsb"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Antennae",
@@ -939,58 +1015,6 @@
       "duration_ms": 190960,
       "name": "Freakin",
       "url": "https://open.spotify.com/track/40tmc5Wjz7tmvtqmspCSp3"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo"
-      },
-      "artists": [
-        {
-          "name": "Zinadelphia",
-          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Underdog",
-      "url": "https://open.spotify.com/track/5YXz0NGgRxNSUqNzRO66M7"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "sub 32",
-        "url": "https://open.spotify.com/album/1ayf7TVmz3NSRUD1q36mMJ"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 108526,
-      "name": "sub 32",
-      "url": "https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "REAL B*TCHES DON'T DIE!",
-        "url": "https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX"
-      },
-      "artists": [
-        {
-          "name": "Kari Faux",
-          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
-        },
-        {
-          "name": "Gangsta Boo",
-          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
-        }
-      ],
-      "duration_ms": 196163,
-      "name": "WHITE CAPRICE",
-      "url": "https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1107,34 +1131,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/5akoXt3vSCNWMeXupFFMJM"
-      },
-      "artists": [
-        {
-          "name": "grouptherapy.",
-          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
-        },
-        {
-          "name": "Jadagrace",
-          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
-        },
-        {
-          "name": "TJOnline",
-          "url": "https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS"
-        },
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
-        }
-      ],
-      "duration_ms": 210281,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/5lloTtcIATH7MXSx2BQSvC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Driver",
         "url": "https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4"
       },
@@ -1195,22 +1191,6 @@
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "SNAKE EYES",
-        "url": "https://open.spotify.com/album/3S6MFjq2tvxbK8pWhQBnvQ"
-      },
-      "artists": [
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
-        }
-      ],
-      "duration_ms": 130369,
-      "name": "SNAKE EYES",
-      "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
     },
     {
       "added_at": "2023-03-01 23:35:59",

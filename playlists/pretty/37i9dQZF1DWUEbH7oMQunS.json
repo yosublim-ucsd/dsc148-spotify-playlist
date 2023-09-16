@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 51722,
+  "num_followers": 51812,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
+  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Burning Edge of Dawn",
-        "url": "https://open.spotify.com/album/23a5fqEE5DSe4NOqS6wqSW"
-      },
-      "artists": [
-        {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
-        }
-      ],
-      "duration_ms": 164960,
-      "name": "Be Kind to Yourself",
-      "url": "https://open.spotify.com/track/6kg7KswPKQVqJkgNaQl2MH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Call on Your Name (Piano Version)",
         "url": "https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 228385,
       "name": "Call on Your Name - Piano Version",
       "url": "https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Burning Edge of Dawn",
+        "url": "https://open.spotify.com/album/23a5fqEE5DSe4NOqS6wqSW"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "duration_ms": 164960,
+      "name": "Be Kind to Yourself",
+      "url": "https://open.spotify.com/track/6kg7KswPKQVqJkgNaQl2MH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm"
-      },
-      "artists": [
-        {
-          "name": "Random Forest",
-          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Leaving Safe Places",
-      "url": "https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Instrumental Worship Music, Vol. 1",
         "url": "https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 330000,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm"
+      },
+      "artists": [
+        {
+          "name": "Random Forest",
+          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Leaving Safe Places",
+      "url": "https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Attention (a Devotional Project)",
+        "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 222613,
+      "name": "Rest with Me",
+      "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Yoga Practice & Mindfulness Music",
         "url": "https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj"
       },
@@ -687,38 +703,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Attention (a Devotional Project)",
-        "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 222613,
-      "name": "Rest with Me",
-      "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        }
+      ],
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Mother's Love",
+        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+      },
+      "artists": [
+        {
+          "name": "Antonious",
+          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+        }
+      ],
+      "duration_ms": 60944,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "You Are Good",
         "url": "https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 358373,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Mother's Love",
-        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
-      },
-      "artists": [
-        {
-          "name": "Antonious",
-          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
-        }
-      ],
-      "duration_ms": 60944,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fantasize",
-        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
-      },
-      "artists": [
-        {
-          "name": "Kye Kye",
-          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Phone to Logos",
         "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 447355,
       "name": "Pomegranates",
       "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
+      },
+      "artists": [
+        {
+          "name": "Kye Kye",
+          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
-      },
-      "artists": [
-        {
-          "name": "Carinthia",
-          "url": "https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU"
-        }
-      ],
-      "duration_ms": 411933,
-      "name": "Every Mountain View",
-      "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Freedom Fighter (Jimmy James Remix)",
         "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 210461,
       "name": "Freedom Fighter (Jimmy James Remix)",
       "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
+      },
+      "artists": [
+        {
+          "name": "Carinthia",
+          "url": "https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU"
+        }
+      ],
+      "duration_ms": 411933,
+      "name": "Every Mountain View",
+      "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "A Search for Somewhere Else",
+        "url": "https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Jorgensen",
+          "url": "https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ"
+        }
+      ],
+      "duration_ms": 152444,
+      "name": "A Dream Familiar",
+      "url": "https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Grunewald Church Session",
         "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
       },
@@ -1443,34 +1459,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "A Search for Somewhere Else",
-        "url": "https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs"
+        "name": "Psalm 68",
+        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
       },
       "artists": [
         {
-          "name": "Daniel Jorgensen",
-          "url": "https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ"
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
         }
       ],
-      "duration_ms": 152444,
-      "name": "A Dream Familiar",
-      "url": "https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
-      },
-      "artists": [
-        {
-          "name": "Christa Wells",
-          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
-        }
-      ],
-      "duration_ms": 237481,
-      "name": "Velveteen",
-      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
+      "duration_ms": 252000,
+      "name": "Psalm 68",
+      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Psalm 68",
-        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
       },
       "artists": [
         {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
+          "name": "Christa Wells",
+          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Psalm 68",
-      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
+      "duration_ms": 237481,
+      "name": "Velveteen",
+      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",

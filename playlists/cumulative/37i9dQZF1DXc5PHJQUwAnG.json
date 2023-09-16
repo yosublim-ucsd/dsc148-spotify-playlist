@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 168013,
       "name": "fornai",
       "url": "https://open.spotify.com/track/3I2uEeXlZX00Z8TrwYeRo4"
@@ -2098,6 +2098,32 @@
       "duration_ms": 159845,
       "name": "Me Levanto Solo",
       "url": "https://open.spotify.com/track/46p3bmxFXQ5vMfv1n1kE5m"
+    },
+    {
+      "album": {
+        "name": "Me Quieren Hablar",
+        "url": "https://open.spotify.com/album/5q2l1YuIsTkB6J0iZlznHA"
+      },
+      "artists": [
+        {
+          "name": "Osiris El Enemy",
+          "url": "https://open.spotify.com/artist/0sYqNybTSecGUJAMu3qQUl"
+        },
+        {
+          "name": "Mbs Rolling",
+          "url": "https://open.spotify.com/artist/4GIy6u1MoQSwTIgeBexEKY"
+        },
+        {
+          "name": "Krusha G",
+          "url": "https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Me Quieren Hablar",
+      "url": "https://open.spotify.com/track/5Zg8JvIOfmf2UpJ16NeSxO"
     },
     {
       "album": {
@@ -3162,7 +3188,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 121759,
       "name": "SAMBA DRIFT",
       "url": "https://open.spotify.com/track/5CkqO8uJYDHp9RqGpVgbz3"
@@ -3413,6 +3439,32 @@
     },
     {
       "album": {
+        "name": "Tirando Flow Sesh #12",
+        "url": "https://open.spotify.com/album/0vFKvPG4pHq3r0MYgy7OfS"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Tirando Flow Sesh #12",
+      "url": "https://open.spotify.com/track/6DddJtjNkqAmo5HghXa5iB"
+    },
+    {
+      "album": {
         "name": "Tirando Flow Sesh #8",
         "url": "https://open.spotify.com/album/6KVKStSWXUvoZF2ibE643k"
       },
@@ -3436,6 +3488,24 @@
       "duration_ms": 156387,
       "name": "Tirando Flow Sesh #8",
       "url": "https://open.spotify.com/track/48LRWkjqh0MuiyQmGkqzgP"
+    },
+    {
+      "album": {
+        "name": "Trapman",
+        "url": "https://open.spotify.com/album/1llef7nzTSwQDrdaCrS8jO"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Trapman",
+      "url": "https://open.spotify.com/track/25l6wVWXH3LIf5dJQqZyqf"
     },
     {
       "album": {
@@ -3508,7 +3578,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 126923,
       "name": "UZI",
       "url": "https://open.spotify.com/track/3lDKFNhgDpu7W7UEQ6ix3O"

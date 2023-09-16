@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 277661,
+  "num_followers": 277793,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzliZDQ3ODA1NjM0OGY4ZDI4NmFkYjVmMzE4ZGM5M2NlM2UyZjA2",
+  "snapshot_id": "MCxmYWM4ZjIyN2ViN2IyNTIyMTJlZTc1MzhhNTc3MGY2OGUzNjVlODg3",
   "tracks": [
     {
       "added_at": "2023-08-16 06:37:57",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Moune\u00efssa",
-        "url": "https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa"
-      },
-      "artists": [
-        {
-          "name": "Rokia Traor\u00e9",
-          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Laidu",
-      "url": "https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
         "name": "Ak\u00f6",
         "url": "https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 124054,
       "name": "Mama",
       "url": "https://open.spotify.com/track/795HmjjJWGQUMfL3foScIr"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
+        "name": "Moune\u00efssa",
+        "url": "https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa"
+      },
+      "artists": [
+        {
+          "name": "Rokia Traor\u00e9",
+          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+        }
+      ],
+      "duration_ms": 386973,
+      "name": "Laidu",
+      "url": "https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
+        "name": "Alkibar",
+        "url": "https://open.spotify.com/album/2iYA7xvN6sFDWgwFYvOInV"
+      },
+      "artists": [
+        {
+          "name": "Afel Bocoum",
+          "url": "https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Alasidi",
+      "url": "https://open.spotify.com/track/5RhFZ82NnuUrRxQOWphUI3"
+    },
+    {
+      "added_at": "2023-08-16 06:37:57",
+      "album": {
         "name": "The Routes of Slavery",
         "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 223973,
       "name": "Sinanon Saran (Chant de griot)",
       "url": "https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9"
-    },
-    {
-      "added_at": "2023-08-16 06:37:57",
-      "album": {
-        "name": "Alkibar",
-        "url": "https://open.spotify.com/album/2iYA7xvN6sFDWgwFYvOInV"
-      },
-      "artists": [
-        {
-          "name": "Afel Bocoum",
-          "url": "https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Alasidi",
-      "url": "https://open.spotify.com/track/5RhFZ82NnuUrRxQOWphUI3"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Soul of Morocco",
-        "url": "https://open.spotify.com/album/1C00IcQUmLjluDOZjgxUM5"
+        "name": "Emmaar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH"
       },
       "artists": [
         {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
         }
       ],
-      "duration_ms": 432066,
-      "name": "Taragalte",
-      "url": "https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8"
+      "duration_ms": 259919,
+      "name": "Toumast Tincha",
+      "url": "https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord"
     },
     {
       "added_at": "2023-08-16 06:37:57",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-08-16 06:37:57",
       "album": {
-        "name": "Emmaar (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH"
+        "name": "Soul of Morocco",
+        "url": "https://open.spotify.com/album/1C00IcQUmLjluDOZjgxUM5"
       },
       "artists": [
         {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
         }
       ],
-      "duration_ms": 259919,
-      "name": "Toumast Tincha",
-      "url": "https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord"
+      "duration_ms": 432066,
+      "name": "Taragalte",
+      "url": "https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8"
     },
     {
       "added_at": "2023-08-16 06:37:57",

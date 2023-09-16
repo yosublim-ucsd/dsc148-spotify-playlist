@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Live In London",
+        "url": "https://open.spotify.com/album/3Lqzd6AFTfeVybMiBbBDse"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324016,
+      "name": "Midnight Heat - Live",
+      "url": "https://open.spotify.com/track/2HlfyyZwGq6tQYwl2qU0vY"
+    },
+    {
+      "album": {
         "name": "Mind\u2019s Eye (Live)",
         "url": "https://open.spotify.com/album/6ccQ4vz1nVEDHdT0vco2nO"
       },
@@ -1816,6 +1834,28 @@
       "duration_ms": 272160,
       "name": "Soul Salvation - Live",
       "url": "https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq"
+    },
+    {
+      "album": {
+        "name": "Live in Boston",
+        "url": "https://open.spotify.com/album/5h3MWDw8xiiRCWxWMvoIaS"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457239,
+      "name": "SoulBQue - Live in Boston",
+      "url": "https://open.spotify.com/track/5Q1osWuey1198DjmVlaHrJ"
     },
     {
       "album": {

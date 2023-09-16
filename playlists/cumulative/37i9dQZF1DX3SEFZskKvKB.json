@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 421960,
       "name": "The Ocean Of Night",
       "url": "https://open.spotify.com/track/3PZpaI1cvrnVJsWVFH05Dr"
@@ -2042,6 +2042,24 @@
       "duration_ms": 205062,
       "name": "West Africa Drums",
       "url": "https://open.spotify.com/track/6mMIrVpOvAfzvdGXM82tLh"
+    },
+    {
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/75mPPbdsfWEmFzMhZ9B6qU"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271304,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/7o0fPw3ZlzfWREnTHBCCnU"
     },
     {
       "album": {

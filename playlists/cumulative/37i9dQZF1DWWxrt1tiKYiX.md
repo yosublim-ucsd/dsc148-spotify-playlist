@@ -2,7 +2,7 @@
 
 ### [Acoustic Pop](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Lovely, acoustic pop\. Cover: Ashley Kutcher
+> Lovely, acoustic pop\. Cover: Jonah Kagen
 
 207 songs - 11 hr 26 min
 

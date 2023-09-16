@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-319 songs - 15 hr 50 min
+320 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Confianza](https://open.spotify.com/track/5MN8kJAw4b4lgNlz1KO32M) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Confianza](https://open.spotify.com/album/168r4UP4oBoygnv2Y47oLp) | 3:18 | 2023-04-06 |  |
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2023-04-06 |  |
 | [Corfu](https://open.spotify.com/track/26Ai0IMyGM4cGA0Dp2uTjm) | [The Blue Sun](https://open.spotify.com/artist/7IovadbLWNyXi5BWqo98gD) | [The Blue Sun](https://open.spotify.com/album/2vYFhbACGYRpPk5tlH0drO) | 3:48 | 2023-04-06 |  |
+| [Crimson Skies](https://open.spotify.com/track/4RDswM1o8ulgXwj4zh1qVb) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Crimson Skies](https://open.spotify.com/album/0I0iTRLRdj9uU8I8TKUIKh) | 3:11 | 2023-09-15 |  |
 | [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 | 2023-04-06 |  |
 | [Crystal Rainbow](https://open.spotify.com/track/38KA0V0itQdu90o81fF216) | [Divinioso](https://open.spotify.com/artist/6Zh8cnbJ69ONeH5eDcUqpR) | [Crystal Rainbow](https://open.spotify.com/album/1gIS9yjql6sT3bQmRYZuMk) | 3:39 | 2023-04-06 |  |
 | [Crystals](https://open.spotify.com/track/1YpXhScYe8acVxMPtAaj89) | [Meadowsweet](https://open.spotify.com/artist/2LvDYoVgXkWs04t60YxK9z) | [Crystals](https://open.spotify.com/album/2OJofztg1QQ3J6RFEvRHrl) | 3:02 | 2023-04-06 |  |
@@ -260,7 +261,7 @@
 | [Solitude](https://open.spotify.com/track/1sPHdG6zyTuvpX9rWV5rEz) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Solitude](https://open.spotify.com/album/1fj611g3arEQ7KGaQxiHLo) | 2:28 | 2023-04-06 |  |
 | [Sona](https://open.spotify.com/track/685glMCresRk1Yvy50O1wO) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Sona](https://open.spotify.com/album/5eCtu7zfvFUWQyqp63NDHu) | 2:30 | 2023-04-06 |  |
 | [Sonder](https://open.spotify.com/track/6c0Srq5sb8Bvh2SckSv9gy) | [Modal Colours](https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i) | [Sonder](https://open.spotify.com/album/6MXqIMIuB1wNDFXEuhvgfg) | 3:01 | 2023-04-06 |  |
-| [Song for Gabriel](https://open.spotify.com/track/7xmHqFXxe901vCQmY4CkaN) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Song for Gabriel](https://open.spotify.com/album/7CUNSCyEihuSYjAwRyoLYr) | 3:25 | 2023-04-06 |  |
+| [Song for Gabriel](https://open.spotify.com/track/7xmHqFXxe901vCQmY4CkaN) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Song for Gabriel](https://open.spotify.com/album/7CUNSCyEihuSYjAwRyoLYr) | 3:25 | 2023-04-06 | 2023-09-16 |
 | [Sotto La Superficie](https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR) | [Alcine Sala](https://open.spotify.com/artist/6sXYZyjQRKE4ID1x9Y7ZiC) | [Sotto La Superficie](https://open.spotify.com/album/0hY1Y1Jk2abRgY1KeVN9Kf) | 2:27 | 2023-04-06 |  |
 | [Sovande](https://open.spotify.com/track/1dJJWFg94Ogmq3aiILfwv8) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Sovande](https://open.spotify.com/album/1mnQAVjKz6Tjh001npCgKw) | 2:27 | 2023-08-25 |  |
 | [Spirals](https://open.spotify.com/track/78HCy9rFb20PwAJvk9Tv73) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Spirals](https://open.spotify.com/album/4bzZ0mCQXJOBOvTVLxa7iZ) | 2:49 | 2023-04-06 |  |

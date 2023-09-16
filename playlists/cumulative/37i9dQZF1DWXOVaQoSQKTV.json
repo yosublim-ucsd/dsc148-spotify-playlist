@@ -2787,6 +2787,28 @@
     },
     {
       "album": {
+        "name": "See What I Mean",
+        "url": "https://open.spotify.com/album/1Hb1cIQ9janmPepeZNidbS"
+      },
+      "artists": [
+        {
+          "name": "Beat Market",
+          "url": "https://open.spotify.com/artist/5xoyBvcEcZXtv6rjvGoCOe"
+        },
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140519,
+      "name": "See What I Mean",
+      "url": "https://open.spotify.com/track/0ZuZ9B2P1nFMuvHutlrIob"
+    },
+    {
+      "album": {
         "name": "Sun Machine",
         "url": "https://open.spotify.com/album/5UO0Tc7Bjt0HMJk8nmCyxr"
       },
@@ -2802,7 +2824,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 140519,
       "name": "See What I Mean",
       "url": "https://open.spotify.com/track/6a97gInTiOqpxouoejcRV3"

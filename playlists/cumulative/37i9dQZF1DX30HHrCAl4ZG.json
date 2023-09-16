@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie rock right now. Featuring new music by JAWNY",
+  "description": "The best indie rock right now. Featuring new music by The Beaches.",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5bRp8yobrVP976E6ZB9ewn"
+      },
+      "artists": [
+        {
+          "name": "A Beacon School",
+          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199983,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1CfIN1M7ADg6kUgNthy96D"
+    },
+    {
+      "album": {
         "name": "Alone But Not Lonely",
         "url": "https://open.spotify.com/album/2IORnkfSCkRnHGIKsN0r4w"
       },
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 256901,
       "name": "apartment402",
       "url": "https://open.spotify.com/track/3tzhG9Y64aTdoQj9p2pije"
@@ -2905,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "boy blue",
+        "url": "https://open.spotify.com/album/1YKLzM6MSF46YSHoJ9vBWY"
+      },
+      "artists": [
+        {
+          "name": "Angelsaur",
+          "url": "https://open.spotify.com/artist/1GfyE51MdTYnvRvPAuDUXb"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248853,
+      "name": "boy blue",
+      "url": "https://open.spotify.com/track/39ygtx2y6C3LFOggktXHEM"
+    },
+    {
+      "album": {
         "name": "Boy Of The Month",
         "url": "https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu"
       },
@@ -3680,7 +3716,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 218335,
       "name": "Car Sex",
       "url": "https://open.spotify.com/track/07Y0MWRfkOeOxEtjMKv7Mb"
@@ -4740,6 +4776,24 @@
       "duration_ms": 229960,
       "name": "Cry",
       "url": "https://open.spotify.com/track/6m4E54GfmxDReiIoPMPALO"
+    },
+    {
+      "album": {
+        "name": "Crybaby",
+        "url": "https://open.spotify.com/album/3xDHBJ5tlIVVNRo9fHTf2u"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220465,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/4kQVyej9KLlxX3Ro969Poa"
     },
     {
       "album": {
@@ -6336,7 +6390,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 217342,
       "name": "Elvis In The Army",
       "url": "https://open.spotify.com/track/1nsKgm05eIOz71wYP2sLTN"
@@ -9910,7 +9964,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 214200,
       "name": "I Want To Be Your Only Pet",
       "url": "https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St"
@@ -13223,6 +13277,28 @@
     },
     {
       "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        },
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "My Body ft Your Lips",
+      "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
+    },
+    {
+      "album": {
         "name": "My Echo",
         "url": "https://open.spotify.com/album/3y33CXQRWrRZttJV1hXl2L"
       },
@@ -13910,6 +13986,24 @@
       "duration_ms": 299943,
       "name": "Nothing Stays the Same",
       "url": "https://open.spotify.com/track/1e21RCz12vwZ0yurMrEZ5z"
+    },
+    {
+      "album": {
+        "name": "Nothing Works",
+        "url": "https://open.spotify.com/album/6LkILMcjrr8n9WBKVpCLz5"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252797,
+      "name": "Nothing Works",
+      "url": "https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN"
     },
     {
       "album": {
@@ -16084,7 +16178,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 187487,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
@@ -18651,6 +18745,24 @@
     },
     {
       "album": {
+        "name": "The Dead Come Talking",
+        "url": "https://open.spotify.com/album/3BxsQSkKIAP9bMWA706L1u"
+      },
+      "artists": [
+        {
+          "name": "Roe Kapara",
+          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133535,
+      "name": "The Dead Come Talking",
+      "url": "https://open.spotify.com/track/30rgtGTl30WcfiyDDqo94A"
+    },
+    {
+      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -20800,7 +20912,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 231518,
       "name": "What Doesn't Kill You Makes You Paranoid",
       "url": "https://open.spotify.com/track/1na4kP9vFyaXHq8ZOGOC16"

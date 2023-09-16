@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Suspiria Pink  Artwork: Isu Kim\n",
-  "num_followers": 57074,
+  "num_followers": 57100,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDc0MTllODc4MTdjZDUzYjM2MThlNTNlMDM3OTYzYzZiYWNiZWU2",
+  "snapshot_id": "MCxmNzQwOTEzODA5NTBmZjVjZGExMDFkNDAyM2M5MTNmMjIyNjhiOWFk",
   "tracks": [
     {
       "added_at": "2023-09-14 16:00:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-09-14 16:00:00",
       "album": {
+        "name": "everything i didn't say",
+        "url": "https://open.spotify.com/album/3fYLyQ86xuvl6nOol2BvDK"
+      },
+      "artists": [
+        {
+          "name": "Dani Saldo",
+          "url": "https://open.spotify.com/artist/7y1Al7FB0GXDQCyh1wNTsH"
+        }
+      ],
+      "duration_ms": 237916,
+      "name": "sweet tea",
+      "url": "https://open.spotify.com/track/7gbFhoE3soYh1G1aB7FbXL"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
         "name": "TALK",
         "url": "https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44"
       },
@@ -75,6 +91,26 @@
       "duration_ms": 227560,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/0bGDSMvtpQd4ikRombkPyC"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Mao Lagi",
+        "url": "https://open.spotify.com/album/6QG0VPUf4UtLKfFpAm5IcE"
+      },
+      "artists": [
+        {
+          "name": "SY8",
+          "url": "https://open.spotify.com/artist/422yzMTfpgG1MY27ybR1IL"
+        },
+        {
+          "name": "D-GARS",
+          "url": "https://open.spotify.com/artist/3VWvsW4dghlKOePKaY9jae"
+        }
+      ],
+      "duration_ms": 159758,
+      "name": "Mao Lagi",
+      "url": "https://open.spotify.com/track/4pIKdCD54npj2ql3RpyIX2"
     },
     {
       "added_at": "2023-09-14 16:00:00",
@@ -131,6 +167,26 @@
       "duration_ms": 210291,
       "name": "On Heat",
       "url": "https://open.spotify.com/track/1nDS87VMqoCKOhEmmijbn2"
+    },
+    {
+      "added_at": "2023-09-14 16:00:00",
+      "album": {
+        "name": "Dito Ka Muna",
+        "url": "https://open.spotify.com/album/5Frb3NMDiCJo9Uq03tZ6IC"
+      },
+      "artists": [
+        {
+          "name": "Royette",
+          "url": "https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU"
+        },
+        {
+          "name": "Kyd Alvson",
+          "url": "https://open.spotify.com/artist/5pYOuKoWJ8TfadbJYyQbem"
+        }
+      ],
+      "duration_ms": 212411,
+      "name": "Dito Ka Muna",
+      "url": "https://open.spotify.com/track/76I7vSRELRBa4NIe2gaXsd"
     },
     {
       "added_at": "2023-09-14 16:00:00",

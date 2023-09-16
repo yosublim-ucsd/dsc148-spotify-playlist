@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paula Rivas.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,562 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,574 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Brindemos por Ellos](https://open.spotify.com/track/7G8iKkndVdVZyVdS4Fz1cV) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Aquí Comienza Nuestra Historia](https://open.spotify.com/album/0VD7iwPecnytsRxk4JUaAU) | 2:37 |
 | 50 | [Demencia por Amor](https://open.spotify.com/track/0HVTRu8tQNY1NpMLOeYY2s) | [Cecilia Echenique](https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY) | [Demencia por Amor](https://open.spotify.com/album/3s1mZseI3Qt1ekDMvIB3fF) | 2:43 |
 
-Snapshot ID: `MCw1ZDgxODZjZjg0Yjc5NDgxZmU2NWViYzBhM2FkZTc0YTVkM2NhZjE0`
+Snapshot ID: `MCxmNjFhMmI5YTA0YTliN2E3MTY5MmE5YzI3YmY5NDNjMzBjZDFkOTIw`

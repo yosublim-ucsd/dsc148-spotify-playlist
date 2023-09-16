@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx?si=EzDRsNliTqKI0xKJPjwzhA\">Cream Machine</a> ",
-  "num_followers": 1196,
+  "num_followers": 1198,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDUzMmVkZDIzYmE0OWY1MWUyNDBjOWFjYzc5ZDY1NmMzOWU4NGM1",
+  "snapshot_id": "MCw3ODgxNTllZjFiMzIzMTM5ODQ5MmU0NGY1ODRkNDJmOTZiYzQzZjZi",
   "tracks": [
     {
       "added_at": "2023-08-04 08:38:57",
@@ -27,6 +27,26 @@
       "duration_ms": 227691,
       "name": "JMHWB",
       "url": "https://open.spotify.com/track/2iVtx13izbsfNMdDjmK7Th"
+    },
+    {
+      "added_at": "2023-09-15 03:59:21",
+      "album": {
+        "name": "wies djy",
+        "url": "https://open.spotify.com/album/3bykGAOg691F7FDEDWroxS"
+      },
+      "artists": [
+        {
+          "name": "Niello",
+          "url": "https://open.spotify.com/artist/5Jpoo4DrC5ALCK4pFjK69t"
+        },
+        {
+          "name": "arjay",
+          "url": "https://open.spotify.com/artist/12yz6aI7XIu1D6T3FxBLlZ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "wies djy",
+      "url": "https://open.spotify.com/track/6REk3z1Zf5zgfSqEtmje8e"
     },
     {
       "added_at": "2023-08-17 22:01:39",
@@ -63,6 +83,22 @@
       "duration_ms": 152054,
       "name": "Noem My 'n Goen",
       "url": "https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1"
+    },
+    {
+      "added_at": "2023-09-15 03:59:21",
+      "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw"
+      },
+      "artists": [
+        {
+          "name": "Demo Ricch",
+          "url": "https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK"
     },
     {
       "added_at": "2023-08-04 08:38:57",
@@ -715,30 +751,6 @@
     {
       "added_at": "2022-09-08 21:59:00",
       "album": {
-        "name": "Dala wat jy moet",
-        "url": "https://open.spotify.com/album/1G0WLpHnyXzTtfV62BSmo3"
-      },
-      "artists": [
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        },
-        {
-          "name": "Irshaad",
-          "url": "https://open.spotify.com/artist/3n8uAgnScYtwFHIkfnxj10"
-        },
-        {
-          "name": "Ameen Harron",
-          "url": "https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Dala wat jy moet - Radio Edit",
-      "url": "https://open.spotify.com/track/4e3bju60JhI6KWRTsagoAB"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
         "name": "Gan Se Jou Mense",
         "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
       },
@@ -855,18 +867,18 @@
     {
       "added_at": "2022-09-08 21:59:00",
       "album": {
-        "name": "There It Is",
-        "url": "https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B"
+        "name": "Rare Steak",
+        "url": "https://open.spotify.com/album/5fyfK8q6TANWOXxrL7i7Fe"
       },
       "artists": [
         {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+          "name": "Cream Machine",
+          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
         }
       ],
-      "duration_ms": 183062,
-      "name": "There It Is",
-      "url": "https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS"
+      "duration_ms": 185360,
+      "name": "Rare Steak",
+      "url": "https://open.spotify.com/track/29kYp8MB3eq1RQIXLWWQCX"
     },
     {
       "added_at": "2023-05-05 04:30:19",
@@ -883,22 +895,6 @@
       "duration_ms": 159813,
       "name": "Rich Boy",
       "url": "https://open.spotify.com/track/3OPHM9E96Q138fPxyF8bcN"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Rare Steak",
-        "url": "https://open.spotify.com/album/5fyfK8q6TANWOXxrL7i7Fe"
-      },
-      "artists": [
-        {
-          "name": "Cream Machine",
-          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Rare Steak",
-      "url": "https://open.spotify.com/track/29kYp8MB3eq1RQIXLWWQCX"
     },
     {
       "added_at": "2022-09-08 21:59:00",

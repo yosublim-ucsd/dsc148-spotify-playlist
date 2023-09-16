@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-190 songs - 9 hr 53 min
+193 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Isla de es Vedrá](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM) | [Bongo Percy](https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg) | [Isla de es Vedrá](https://open.spotify.com/album/5AG0PyT3GWsfuORBBW99Rz) | 4:20 | 2023-05-05 |  |
 | [Kaah](https://open.spotify.com/track/4G2CdDwJAQhZsbEJyHOqk7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Ramo / Kaah](https://open.spotify.com/album/3x4v1MsJDziEVciqG9n2Dp) | 5:07 | 2023-05-05 |  |
 | [Kailani](https://open.spotify.com/track/5KBPNVwuAg7oVpKQvEtIeS) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kailani](https://open.spotify.com/album/2YzyYJAKupYwoaxkM0czMv) | 2:31 | 2023-09-01 |  |
+| [Kanoa](https://open.spotify.com/track/7sNOk3Bfv0CTl80ctSkkw6) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kanoa](https://open.spotify.com/album/2txBLe5ISOYhG9WFQlmRKq) | 2:38 | 2023-09-15 |  |
 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2023-05-05 |  |
 | [La La \(I Need You\)](https://open.spotify.com/track/2ANLe3sjVcI2kphdjfVOWt) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Reflection](https://open.spotify.com/album/1dltDJv5BfhQXXbCqMzsHs) | 3:36 | 2023-05-05 |  |
 | [lazy days](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [lazy days](https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC) | 2:04 | 2023-05-05 |  |
@@ -124,12 +125,13 @@
 | [Nomade](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [Nomade](https://open.spotify.com/album/7B1MFYFEIxirQuLFahhqmC) | 2:12 | 2023-05-05 |  |
 | [Northshire](https://open.spotify.com/track/3dLEbBPOPjZ7J9OOiOsgeA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Northshire](https://open.spotify.com/album/5kQjccSno4yLJxCuVgH3FN) | 2:30 | 2023-07-07 |  |
 | [Old Prophecies](https://open.spotify.com/track/08cXfidFNX5g9cZPNcteWM) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Old Prophecies](https://open.spotify.com/album/1jo42bHLmo4IPXiPIHxpNP) | 3:14 | 2023-05-05 |  |
-| [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2023-05-05 |  |
+| [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2023-05-05 | 2023-09-16 |
 | [On My Mind](https://open.spotify.com/track/7H7Usg7m2APDrNrzOZXcPH) | [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [The Other Day](https://open.spotify.com/album/578IDaArIjl31LaVFT3VpM) | 2:27 | 2023-05-05 |  |
 | [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2023-05-05 | 2023-07-22 |
 | [On The Pull](https://open.spotify.com/track/6zKrDm8h18jJxPMbMSUGMs) | [Hoboken](https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH) | [On The Pull](https://open.spotify.com/album/5mHSvzcAKCPYR9Nm07SMMW) | 2:35 | 2023-05-26 |  |
 | [On You](https://open.spotify.com/track/3YPCgxtKB2O7A3hTi4BgnT) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [On You](https://open.spotify.com/album/4ueEYavC1Oasr5tRAPlYxj) | 4:24 | 2023-05-05 | 2023-06-20 |
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2023-05-05 |  |
+| [Out Of Mind](https://open.spotify.com/track/36nFJrBZPAgGSEFVDEWkaX) | [Grey Qoo](https://open.spotify.com/artist/3UGtMIm5fs6Jd4ss8FXRh7) | [Out Of Mind](https://open.spotify.com/album/4Lj8EgQigC8HiSiFeCA4pI) | 2:26 | 2023-09-15 |  |
 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 | 2023-05-05 |  |
 | [Panorama](https://open.spotify.com/track/2KdKLnwFSmXPTFllAPXcQ4) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [Panorama](https://open.spotify.com/album/5NRsQdDUtEx4l2shHW7yKm) | 2:49 | 2023-05-05 |  |
 | [Para Sol](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Para Sol](https://open.spotify.com/album/4zCjXYDYpNXj1p7CHYKfGp) | 3:16 | 2023-08-04 |  |
@@ -140,7 +142,7 @@
 | [Poolside](https://open.spotify.com/track/7MwdpC8XHqrQuk8PZS0H7t) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Poolside](https://open.spotify.com/album/6ZNvoxhhS4FY1nTZg1OpAj) | 2:54 | 2023-05-05 |  |
 | [Port Ella](https://open.spotify.com/track/6Q6gpf2CqaZU3on49r1NcU) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Pomaque](https://open.spotify.com/album/7ya9jIowdJzZlk01WLo2IX) | 3:46 | 2023-07-14 |  |
 | [Porto Cervo](https://open.spotify.com/track/5ttNhRQkOoNHJCdxIzdIlr) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Porto Cervo](https://open.spotify.com/album/7wmUcfuOooVUBok4lfNIbb) | 3:27 | 2023-05-05 |  |
-| [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2023-05-05 |  |
+| [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2023-05-05 | 2023-09-16 |
 | [Relax \(Hold On\)](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD) | [Autohacker](https://open.spotify.com/artist/6sm7q9WmAu9389oxf09I8m) | [Relax \(Hold On\)](https://open.spotify.com/album/6dVR47c4jMAnRBuqYPol2n) | 2:37 | 2023-05-05 |  |
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2023-05-05 |  |
 | [Run Run](https://open.spotify.com/track/0sms64g9Sgd2QZJ9URMaXY) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Run Run](https://open.spotify.com/album/1mCDqCwuQE7m4cCeA1Jc3o) | 2:44 | 2023-05-05 |  |
@@ -157,6 +159,7 @@
 | [Souvenirs](https://open.spotify.com/track/2TJXryzOQ5UestW8w3DNSU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Souvenirs](https://open.spotify.com/album/1wAXvwqX3yl6RN6vNx84Tp) | 2:06 | 2023-05-05 |  |
 | [Staff Picks](https://open.spotify.com/track/62xIvs75XUHtoFt3u6P5Lf) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Staff Picks](https://open.spotify.com/album/4m23AzN8nbxwe9DUOxtaWT) | 2:56 | 2023-05-05 |  |
 | [Started Falling](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX) | [Jac AM](https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Started Falling](https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09) | 2:12 | 2023-07-07 |  |
+| [Stella Marina](https://open.spotify.com/track/41t2H4SSr8XZxkFiv8iHhw) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Stella Marina](https://open.spotify.com/album/1I6Z3FD9O4pYQnzTyCUGMp) | 2:48 | 2023-09-15 |  |
 | [Straight Curves](https://open.spotify.com/track/2t7tr3u3eP9maEcdnxdWco) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Straight Curves](https://open.spotify.com/album/5txvqoRrYhbH8xDGuSxbgt) | 2:31 | 2023-08-11 |  |
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2023-05-05 |  |
 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 | 2023-05-05 |  |
@@ -169,7 +172,7 @@
 | [The Hamptons](https://open.spotify.com/track/0mfXh24MxeIm3kIJ9gDDOp) | [Schwarz & Funk](https://open.spotify.com/artist/5tOiT7pdFoQN3hf2OWj2fv) | [The Hamptons](https://open.spotify.com/album/7rCpLRT2NW2mEf8blkCkgs) | 3:00 | 2023-05-05 |  |
 | [The man from Belvedere](https://open.spotify.com/track/1FejRJLhghkDcEEoxDpA6s) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [The man from Belvedere](https://open.spotify.com/album/3gl6i7N9soagDkaOrImZVk) | 2:54 | 2023-05-05 |  |
 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 | 2023-05-05 |  |
-| [The Same \(Edit\)](https://open.spotify.com/track/0aqEZp0UaK15stGpUn8fNS) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [The Same \(Edit\)](https://open.spotify.com/album/1zHwX4q5vNJzewIvnYbaNr) | 4:11 | 2023-05-05 |  |
+| [The Same \(Edit\)](https://open.spotify.com/track/0aqEZp0UaK15stGpUn8fNS) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [The Same \(Edit\)](https://open.spotify.com/album/1zHwX4q5vNJzewIvnYbaNr) | 4:11 | 2023-05-05 | 2023-09-16 |
 | [The Two of Us \(We Only Need\)](https://open.spotify.com/track/7mKOhewqU0whbsRHw2vD3t) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [The Two of Us \(We Only Need\)](https://open.spotify.com/album/7hA8pFcuyGgljiYegOCr3b) | 3:57 | 2023-05-05 | 2023-08-25 |
 | [This Feelin \(feat\. Andy Allo\)](https://open.spotify.com/track/00beHO2oTWTZMfcGukiHo2) | [Miguel Migs](https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi), [Andy Allo](https://open.spotify.com/artist/4oEWPXhZkFvFOJhaWZSLBx) | [Dim Division](https://open.spotify.com/album/3OQONOxy6x3pmChYfg0heS) | 5:18 | 2023-05-05 |  |
 | [Tide](https://open.spotify.com/track/4BBlimMXFek1ZFyCafeEVY) | [Solicit](https://open.spotify.com/artist/4BgSaBlB2eULHaOUtXSgys) | [Tide](https://open.spotify.com/album/4gDzDcwlRZ5zDGfduf9lJw) | 3:11 | 2023-05-05 |  |

@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Paulo Cesar Baruk, Marcela Tais
 
-124 songs - 9 hr 10 min
+125 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Eu Me Rendo \(I Surrender\) \- Acústico](https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Acústico Mergulhar](https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl) | 6:14 | 2022-09-02 |  |
 | [Eu Não Sou Mais Órfão \- Acústico](https://open.spotify.com/track/5WOCuracx7DrET4eOVP2ZG) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Eu Não Sou Mais Órfão \(Acústico\)](https://open.spotify.com/album/2VjaDxyEHiM8CoQMlvL9Em) | 3:28 | 2022-10-28 |  |
 | [Eu Não Sou Mais Órfão \- Acústico](https://open.spotify.com/track/7BlLmanL024pf0doBknUi4) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Eu Não Sou Mais Órfão \(Acústico\)](https://open.spotify.com/album/0SRSWrnuWiDoWzU3QRVM0e) | 3:28 | 2022-09-02 | 2022-11-14 |
-| [Eu Quero Mais \- Acústico](https://open.spotify.com/track/5wvUzC9YACj9eZm89nktkO) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [2 OU + \(Acústico\)](https://open.spotify.com/album/64u8UuetKumdaxAHxgJYc7) | 4:04 | 2023-07-14 |  |
+| [Eu Quero Mais \- Acústico](https://open.spotify.com/track/5wvUzC9YACj9eZm89nktkO) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [2 OU + \(Acústico\)](https://open.spotify.com/album/64u8UuetKumdaxAHxgJYc7) | 4:04 | 2023-07-14 | 2023-09-16 |
 | [Eu Sei Que Não Estou Só \(Ao Vivo\)](https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Eu Sei Que Não Estou Só \(Ao Vivo\)](https://open.spotify.com/album/0DEHvPPLbnhAPQR40QDm2l) | 2:36 | 2022-09-02 |  |
 | [Eu Te Agradeço \(Essência Sessions\)](https://open.spotify.com/track/2gMLLBjJgVTWiH4u8X3xVV) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Weslei Santos no Essência Sessions](https://open.spotify.com/album/57c7bRChhj4vPRaeafLnI5) | 5:00 | 2022-09-02 | 2023-03-25 |
 | [Eu Te Vejo Em Tudo \- Acoustic Session](https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig) | 4:40 | 2022-09-02 |  |
@@ -115,6 +115,7 @@
 | [Resposta a quem corresponda](https://open.spotify.com/track/5oW7L4aGkJnp4dFCgkmlo2) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Resposta a quem corresponda](https://open.spotify.com/album/19TWJet5DtRXE5hqbVUr98) | 3:15 | 2023-05-26 | 2023-07-15 |
 | [Rude Cruz \(Ao Vivo\)](https://open.spotify.com/track/583p2yhPa1VqXQiPH0yGzb) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [Rude Cruz \(Ao Vivo\)](https://open.spotify.com/album/1R8t64G5z3pRiAzlDSeA6C) | 5:03 | 2023-05-12 |  |
 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Graça \(Ao Vivo\)](https://open.spotify.com/album/0Gdv1W2qUBvyGokxjDmK71) | 8:33 | 2022-09-02 |  |
+| [Se Ele Não For o Primeiro](https://open.spotify.com/track/1MBI2bYuq96Vhj74kNrUbp) | [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1), [Jader Santos](https://open.spotify.com/artist/0LgOPOdCNpAxAkFWiliKpx), [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e) | [Se Ele Não For o Primeiro](https://open.spotify.com/album/1hlJXKLDHrVpSXsBivotcv) | 5:04 | 2023-09-15 |  |
 | [Se Não Fosse Ele](https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ) | [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Se Não Fosse Ele](https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr) | 4:49 | 2023-04-15 |  |
 | [Segure Minhas Mãos \- Acústico](https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Segure Minhas Mãos \(Acústico\)](https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY) | 7:17 | 2022-09-02 |  |
 | [Seu Amor: YOUnique \- Acústico](https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor: YOUnique \(Acústico\)](https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA) | 7:24 | 2022-09-02 |  |

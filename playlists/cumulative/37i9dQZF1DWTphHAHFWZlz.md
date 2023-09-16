@@ -2,9 +2,9 @@
 
 ### [POGO](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> Nuevo sonido, misma actitud.<br/>📷 C.R.O
+> Nuevo sonido, misma actitud.<br/>📷 FEMI
 
-265 songs - 15 hr 29 min
+266 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Quebrada](https://open.spotify.com/track/1L3xA6uzfTr0GVJU4fJZL4) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quimera](https://open.spotify.com/album/1JI9ZZLKRWzQVzq38OsE0H) | 5:02 | 2023-04-28 | 2023-05-20 |
 | [Queso Ruso](https://open.spotify.com/track/3Zf6FUeAVlk0Rk1VIgBHlb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 4:52 | 2023-05-30 | 2023-06-09 |
 | [Radio de la mañana](https://open.spotify.com/track/1NgZYkt0KGPrkROQdRxDmo) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Parientes](https://open.spotify.com/album/0p22bJMkBBhstlPWua0iRI) | 3:16 | 2022-08-12 | 2022-10-15 |
+| [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 | 2023-09-15 |  |
 | [Relajar](https://open.spotify.com/track/1kwQdi5SzOveKrlgEEfDnR) | [Rey Hindú](https://open.spotify.com/artist/0IdZ8iwao6oUqBJ2gfjSIW) | [Relajar](https://open.spotify.com/album/4XyQAtwJkj8XGLr1uObFWF) | 3:21 | 2022-06-29 | 2023-05-20 |
 | [Remera](https://open.spotify.com/track/0TRuSKE4Bg12qdFi2oZVHG) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE), [Francisco Lago](https://open.spotify.com/artist/3vBvFZBnjjDdjV35dDvL9L) | [Remera](https://open.spotify.com/album/0K4fJa7MxlrX46oCOymaxY) | 3:33 | 2022-09-09 | 2023-05-20 |
 | [Revelado](https://open.spotify.com/track/2K822m6CHGBliLJqG9JkHt) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1) | [Revelado](https://open.spotify.com/album/1dWi6jCXNTxxCrpMd7aB5q) | 3:10 | 2022-06-29 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-548 songs - 23 hr 21 min
+549 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Only Through Enlightenment](https://open.spotify.com/track/4YK0viVtLMNg58qQs10rF1) | [Spinning Eye](https://open.spotify.com/artist/1bBb8bJslH6Z4JUr2DgaCU) | [Old School Beats](https://open.spotify.com/album/2ImM3in9ITJOxD3euym4tN) | 1:41 | 2022-04-15 | 2023-07-29 |
 | [Out Of Nothing](https://open.spotify.com/track/1JT9cRJV8IyQT1aWKV0cxM) | [the beats of...](https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr) | [Out Of Nothing](https://open.spotify.com/album/0qieGIV1ehZACjDA04nTST) | 2:58 | 2021-11-10 | 2022-04-15 |
 | [Out Of Nowhere](https://open.spotify.com/track/1X7SwXy7095XlufeAKwAfP) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Out Of Nowhere](https://open.spotify.com/album/2Xda4z1VMnhUT5EUa94m9q) | 2:01 | 2021-11-10 | 2022-01-22 |
+| [out to sea](https://open.spotify.com/track/0nOwu86Ng6UtnnovLh9hpP) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [out to sea](https://open.spotify.com/album/2ISmy0vWGQEwofWjLbITW6) | 2:28 | 2023-09-15 |  |
 | [Outlines](https://open.spotify.com/track/3xp0lOdtZuczuq7cZFVYBK) | [Luigi Valentino](https://open.spotify.com/artist/5we8GkSvBODzF7t0TLaiOS) | [Outlines](https://open.spotify.com/album/3nf6Yp27qmRCzusFEEgChh) | 1:57 | 2021-11-10 | 2022-01-22 |
 | [Outside Rain](https://open.spotify.com/track/66ATSTJt7wrixymgMeQS3J) | [Left Foote](https://open.spotify.com/artist/3ucdGmQW0HQLPi6zqpYDl2) | [Outside Rain](https://open.spotify.com/album/1wNo7PIK16HMuevt6tUUz5) | 2:16 | 2021-11-10 | 2022-05-11 |
 | [pacific stars](https://open.spotify.com/track/0sDJcl9cf4ir3HBwAtVBTM) | [Phet Kharma](https://open.spotify.com/artist/4iAzEYiC4HuGDyzGVcq4B6) | [pacific stars](https://open.spotify.com/album/0xPYPTXQbXQxsG6H4YDi1g) | 2:45 | 2021-11-10 | 2022-07-01 |
@@ -418,7 +419,7 @@
 | [Serene Flame](https://open.spotify.com/track/7afR9AuuXPIG2UPpyV1S9j) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [The Cat's Meow](https://open.spotify.com/album/6S5Saal4XqDxBcTXQd1EoT) | 1:23 | 2022-05-27 | 2023-07-29 |
 | [Set The Mood](https://open.spotify.com/track/4z5WgQAWYtCgJOmZ3NQNL1) | [Abel Cainstro](https://open.spotify.com/artist/5CPBSgpTzpVWoLHc5sCLgk) | [Set The Mood](https://open.spotify.com/album/6vmfWgXEirC3uMPHIuD1bF) | 2:40 | 2022-04-05 |  |
 | [Setting Sun](https://open.spotify.com/track/4CFg2q13saR2lVuPGHKyYd) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Setting Sun](https://open.spotify.com/album/7Ev7SWsT2LKzXXumytX0Oh) | 2:26 | 2022-10-28 |  |
-| [Seva](https://open.spotify.com/track/5VafHfnsGU1wZA0QqdQ68q) | [Jongsong Peak](https://open.spotify.com/artist/19YoNS6yPazSydJCj5tiCl) | [Seva](https://open.spotify.com/album/36tRev9gsEsSKMUs4SAFC3) | 3:52 | 2022-11-25 |  |
+| [Seva](https://open.spotify.com/track/5VafHfnsGU1wZA0QqdQ68q) | [Jongsong Peak](https://open.spotify.com/artist/19YoNS6yPazSydJCj5tiCl) | [Seva](https://open.spotify.com/album/36tRev9gsEsSKMUs4SAFC3) | 3:52 | 2022-11-25 | 2023-09-16 |
 | [Shadow Cycle](https://open.spotify.com/track/1zlbeVYcTnlW8fSCCBiTfj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 2:44 | 2022-07-15 |  |
 | [shhh!](https://open.spotify.com/track/3O1PLxwBkPciBux8JWIGir) | [Dubtrack](https://open.spotify.com/artist/7649N0LXjp4mVaHfuLqcGo) | [shhh!](https://open.spotify.com/album/2mVmQ0wosGjjF2mExS52RF) | 2:28 | 2022-01-21 | 2023-01-13 |
 | [Shimmering](https://open.spotify.com/track/2uzQJY0ibdqTLZz3vmRxgv) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Shimmering](https://open.spotify.com/album/0qKuCV64xoMRuIyVIJmYoR) | 2:41 | 2022-08-05 | 2023-01-13 |

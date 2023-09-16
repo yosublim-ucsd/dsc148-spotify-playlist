@@ -7845,6 +7845,28 @@
     },
     {
       "album": {
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+    },
+    {
+      "album": {
         "name": "DA UMA TRAGADA NO BECK",
         "url": "https://open.spotify.com/album/1Z7wDfi6A95BOd4UNA35bv"
       },
@@ -9356,7 +9378,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 166195,
       "name": "Dois Fugitivos",
       "url": "https://open.spotify.com/track/6rCHkWwRHF28kAAToJm6uB"
@@ -10982,6 +11004,24 @@
       "duration_ms": 151373,
       "name": "ETA",
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
+    },
+    {
+      "album": {
+        "name": "Baby Gal",
+        "url": "https://open.spotify.com/album/4xwrb5n2CXbYbhmypjjinc"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244786,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/1ngbz6irbfEmpsYcZhzX6L"
     },
     {
       "album": {
@@ -14744,7 +14784,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
@@ -16532,10 +16572,28 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 134853,
       "name": "Le Monde",
       "url": "https://open.spotify.com/track/424DkevE18QJazwlljiTD4"
+    },
+    {
+      "album": {
+        "name": "Le Monde (From Talk to Me)",
+        "url": "https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir"
+      },
+      "artists": [
+        {
+          "name": "Richard Carter",
+          "url": "https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134853,
+      "name": "Le Monde - From Talk to Me",
+      "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H"
     },
     {
       "album": {
@@ -20212,10 +20270,40 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 145055,
       "name": "MONTAGEM CORAL",
       "url": "https://open.spotify.com/track/5Rx4Uj4Mk55oBcRzqQDrEl"
+    },
+    {
+      "album": {
+        "name": "Montagem Coral",
+        "url": "https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu"
+      },
+      "artists": [
+        {
+          "name": "DJ Holanda",
+          "url": "https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC"
+        },
+        {
+          "name": "MC Cyclope",
+          "url": "https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145080,
+      "name": "Montagem Coral",
+      "url": "https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix"
     },
     {
       "album": {
@@ -28730,7 +28818,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -29174,7 +29262,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 148800,
       "name": "Sintomas de Prazer",
       "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
@@ -31654,7 +31742,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 136916,
       "name": "Tira a Roupa",
       "url": "https://open.spotify.com/track/3FB6FIh3OqLOhji5QD94O1"
@@ -32128,6 +32216,24 @@
       "duration_ms": 76137,
       "name": "TROPA DA LUD",
       "url": "https://open.spotify.com/track/54KKRKI2rZWaCqSwWYLixe"
+    },
+    {
+      "album": {
+        "name": "Fluxo de Goi\u00e1s 3",
+        "url": "https://open.spotify.com/album/6sJdOYNShKMSI0ale8HhNO"
+      },
+      "artists": [
+        {
+          "name": "PIKE DE GOIAS",
+          "url": "https://open.spotify.com/artist/4e5Ukepj3XUS1s8fBluN45"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137044,
+      "name": "Tropa do Escobar",
+      "url": "https://open.spotify.com/track/6Xw8mjKhdBmMmpuQPnOsqM"
     },
     {
       "album": {

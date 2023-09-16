@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-231 songs - 11 hr 42 min
+232 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2022-07-15 | 2023-03-18 |
 | [Aero](https://open.spotify.com/track/2qEoxihjscVFFyPr2xvtfS) | [Madna Eúra](https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe) | [Aero](https://open.spotify.com/album/3qvFfJjBCK4hwwrBNgQdou) | 2:52 | 2023-04-07 |  |
 | [Akitai](https://open.spotify.com/track/1nhygEpFiytaSNKmnj3QNp) | [Polydora](https://open.spotify.com/artist/0bOWZ1PEGNLA3kJTnkKTiT) | [Akitai](https://open.spotify.com/album/2HNm4TUulw9oTAyX3Wl4hZ) | 3:12 | 2022-10-15 |  |
+| [All Of Us](https://open.spotify.com/track/6e18CFquaTbBT8aUQ0Vl1A) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [All Of Us](https://open.spotify.com/album/0HM8y58DFBfqDjGiaIoMWQ) | 2:56 | 2023-09-15 |  |
 | [Alpha](https://open.spotify.com/track/3rZhO9sRiOj2iC0g8UlxBr) | [River Zomnia](https://open.spotify.com/artist/3dkf1Aj7lFgshUMWmIgcX6) | [Alpha](https://open.spotify.com/album/24iln1loly7XtwB6qsfBVy) | 3:05 | 2022-10-15 |  |
 | [always](https://open.spotify.com/track/5Nusgvqw46McIdfuqrvM4c) | [Florence Adame](https://open.spotify.com/artist/0OyLeqzC9Bd1d8uc5DgYCz) | [always](https://open.spotify.com/album/1Zqgnlwg96XIvVOrvYATK4) | 2:56 | 2022-07-15 |  |
 | [Amethelia](https://open.spotify.com/track/5vLKYUd7N8TPZ1KoYWH07I) | [Polydora](https://open.spotify.com/artist/0bOWZ1PEGNLA3kJTnkKTiT) | [Amethelia](https://open.spotify.com/album/4wOAyPFSTLlEVB6hn5fe79) | 3:35 | 2022-11-11 |  |
@@ -85,7 +86,7 @@
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2022-07-15 |  |
 | [Feathers](https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa) | [Aiyden](https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD) | [Feathers](https://open.spotify.com/album/68btKDvVJKuKLW9IiRuv6V) | 3:12 | 2022-09-13 |  |
 | [Finally Home](https://open.spotify.com/track/6ggz7xBE6dTOAiSe7RNaF3) | [Keely Bain](https://open.spotify.com/artist/2ueoP3YsFTlMOO2Y2Co9Ad) | [Finally Home](https://open.spotify.com/album/2cp4SZMOwKu7SbPbtT0w49) | 2:52 | 2022-11-22 |  |
-| [First Ray of Sun](https://open.spotify.com/track/7lEws7eRAGDDUY39l8VlBH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Moto Perpetuo](https://open.spotify.com/album/5PiMD2EnpqjMBfQgCfLJ6C) | 2:19 | 2022-07-15 |  |
+| [First Ray of Sun](https://open.spotify.com/track/7lEws7eRAGDDUY39l8VlBH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Moto Perpetuo](https://open.spotify.com/album/5PiMD2EnpqjMBfQgCfLJ6C) | 2:19 | 2022-07-15 | 2023-09-16 |
 | [Fleeting](https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Illusive](https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71) | 3:01 | 2022-12-09 |  |
 | [Fly Among Clouds](https://open.spotify.com/track/6Kf6iSevn3QqANd6SHHHOk) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:18 | 2022-07-15 |  |
 | [For Simplicity's Sake](https://open.spotify.com/track/6pQxeKnVSxdasJR9PEfFom) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [For Simplicity's Sake](https://open.spotify.com/album/4zN9OaGKrnJOb5y8bukzc7) | 1:56 | 2022-07-15 | 2023-07-29 |

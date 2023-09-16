@@ -4,7 +4,7 @@
 
 > Let these songs soundtrack your busy wedding season.
 
-60 songs - 3 hr 33 min
+61 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ghodi Chadhke](https://open.spotify.com/track/60FSUBoIQqw5dqrivd6eFc) | [Raajeev V Bhalla](https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Keka Ghoshal](https://open.spotify.com/artist/0wSJ0KREerVo5QVQtZyBvv), [Ravi Mishra](https://open.spotify.com/artist/1YDHJp6tlLwbVaqL0qZ6Qx) | [14 Phere \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0k4AA6m1QLBM4EvZxumSRS) | 3:19 | 2021-10-29 | 2022-01-13 |
 | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl) | 3:08 | 2021-10-29 |  |
 | [Iski Uski](https://open.spotify.com/track/0ON0JdGgRTVcCInt8j6eod) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 4:14 | 2021-10-29 |  |
+| [JALSA 2.0 \- From "Mission Raniganj: The Great Bharat Rescue"](https://open.spotify.com/track/4OgcGtcurJBgS7H1iW7peT) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P) | [JALSA 2.0 \(From "Mission Raniganj: The Great Bharat Rescue"\)](https://open.spotify.com/album/0nUDc18ivjvaNEGh7iJKck) | 3:16 | 2023-09-15 |  |
 | [Jugjugg Jeeyo](https://open.spotify.com/track/3RQcCpagpbqjwOvZnxhsuH) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 2:22 | 2022-06-24 |  |
 | [Kaun Nachdi](https://open.spotify.com/track/7r8QeC6Uy3AbIXqH7W9y0K) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:03 | 2021-10-29 |  |
 | [Khulke Dulke](https://open.spotify.com/track/1yuUBRdfEwyDjunvpLaOzl) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Befikre](https://open.spotify.com/album/2NdNeBKi8ctKgKRH5UGRbO) | 3:14 | 2021-10-29 | 2022-01-13 |

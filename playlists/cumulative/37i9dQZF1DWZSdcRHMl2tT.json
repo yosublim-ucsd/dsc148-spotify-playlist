@@ -3003,6 +3003,24 @@
     },
     {
       "album": {
+        "name": "Jennie with the Smile",
+        "url": "https://open.spotify.com/album/2LsLOGB19Ed3sybcG9QU7w"
+      },
+      "artists": [
+        {
+          "name": "Plastik Flamingos",
+          "url": "https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175874,
+      "name": "Jennie with the Smile",
+      "url": "https://open.spotify.com/track/5DKtGnxDaPvaHHeOnCWvb4"
+    },
+    {
+      "album": {
         "name": "The Softest Smile",
         "url": "https://open.spotify.com/album/6QZs23x9KCVuPhU1lvpKD0"
       },
@@ -3742,6 +3760,24 @@
       "duration_ms": 189272,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/36Uz12ctE58QztkK67Doya"
+    },
+    {
+      "album": {
+        "name": "Maraschino Cherry",
+        "url": "https://open.spotify.com/album/0PR1ouGbo2S9AZxFnIHaK2"
+      },
+      "artists": [
+        {
+          "name": "Trausch",
+          "url": "https://open.spotify.com/artist/5SmNLY6rv1DodiaaM3e6Mx"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170519,
+      "name": "Maraschino Cherry",
+      "url": "https://open.spotify.com/track/5x7yKdw07UdQ6N6SlCuuFN"
     },
     {
       "album": {

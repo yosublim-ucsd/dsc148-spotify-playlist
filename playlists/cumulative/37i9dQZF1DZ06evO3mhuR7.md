@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-131 songs - 15 hr 11 min
+132 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Metallic Side \(feat\. David Gilmour\) \- Stereo Version](https://open.spotify.com/track/1ogszJGyiYSlrVGpHtoNMm) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres \(feat\. David Gilmour\)](https://open.spotify.com/album/6cefhJmt3jwGwcLIcsyEVq) | 28:41 | 2022-06-24 | 2022-11-14 |
 | [Metallic Side \- Stereo Version](https://open.spotify.com/track/6MyKagqW2c9kA0bh7j8emc) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres](https://open.spotify.com/album/7Kj5DZcW4jlqGjYnu0UTT7) | 28:41 | 2022-05-29 |  |
 | [Metallic Spheres In Colour: Movement 1 \- Excerpt](https://open.spotify.com/track/206zO5RTPKKjXnVq2UjJ1W) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour: Movement 1 \- Excerpt](https://open.spotify.com/album/4GecjGVxIqh9KGvo92FbUh) | 4:41 | 2023-08-19 |  |
+| [Metallic Spheres In Colour: Movement 2 \- Excerpt](https://open.spotify.com/track/1fpuphYAwKaoVxYGWkNaV7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour: Movement 2 \- Excerpt](https://open.spotify.com/album/54OHjqMfotsJPkVWnRqkts) | 3:38 | 2023-09-15 |  |
 | [Molten Love](https://open.spotify.com/track/50d54uCsxATy9amaJTanTm) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 6:39 | 2022-06-29 | 2023-06-18 |
 | [Montagne D'Or \(Der Gute Berg\)](https://open.spotify.com/track/5DRapdJgelwzIP7wWcXWj1) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 10:41 | 2022-05-30 | 2022-10-13 |
 | [Moon Scapes 2703 BC](https://open.spotify.com/track/0tF5FCXgG3mroz1rV3gtxx) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Moonbuilding 2703 AD](https://open.spotify.com/album/1pSigtLUTHraLsmmc1PYAv) | 14:40 | 2022-06-15 | 2022-10-09 |
@@ -114,7 +115,7 @@
 | [Spheres Side \- Stereo Version](https://open.spotify.com/track/4B18MaOudRkiTmaGO3pTN3) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres](https://open.spotify.com/album/7Kj5DZcW4jlqGjYnu0UTT7) | 20:08 | 2022-05-29 |  |
 | [Squirrels in Jumpsuits](https://open.spotify.com/track/5Z6KB3zOCuKRcy2scNdtDi) | [Roland & Albert](https://open.spotify.com/artist/4IxAOrsCpsess4wqaugx1K), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Roland & Albert Meet the Orb Upcountry in Uganda](https://open.spotify.com/album/0ctPNiGuvi3lDPjikkaPRR) | 7:05 | 2022-05-29 | 2022-10-14 |
 | [Star 6 & 7 8 9](https://open.spotify.com/track/2rptpw6hQQ8YewzB2hKOrj) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 8:10 | 2022-06-25 | 2022-10-09 |
-| [Sticky End](https://open.spotify.com/track/5OSSD6jXQBMnvjMuGyp0UC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 0:50 | 2022-06-02 |  |
+| [Sticky End](https://open.spotify.com/track/5OSSD6jXQBMnvjMuGyp0UC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 0:50 | 2022-06-02 | 2023-09-16 |
 | [Strong Man's Variations of a Camel Party](https://open.spotify.com/track/5Yxq6XoSEM0nPb1991W7Sn) | [OSS](https://open.spotify.com/artist/4rDMVGigxANzIctI89hCeH), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Enter the Kettle](https://open.spotify.com/album/6ijPm9fn5hVPo5II2IZOod) | 6:58 | 2022-05-29 | 2022-12-18 |
 | [Super Nova At The End Of The Universe](https://open.spotify.com/track/1QOIvqLUacNvxOBAoA1cDJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 11:56 | 2022-05-29 |  |
 | [Switch on Leon](https://open.spotify.com/track/5YYjzjQKL32k7pqJmaJRQn) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Electronica 2: The Heart of Noise](https://open.spotify.com/album/2Q5Mrul369ojL9N8DWkWQZ) | 4:43 | 2022-05-29 |  |

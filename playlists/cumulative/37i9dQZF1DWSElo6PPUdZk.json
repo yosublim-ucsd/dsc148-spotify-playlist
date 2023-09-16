@@ -681,6 +681,28 @@
     },
     {
       "album": {
+        "name": "License",
+        "url": "https://open.spotify.com/album/0yDxXtnTfsajw6L4idWi4Q"
+      },
+      "artists": [
+        {
+          "name": "Barbie Maan",
+          "url": "https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat"
+        },
+        {
+          "name": "Rav Dhaliwal",
+          "url": "https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154223,
+      "name": "License",
+      "url": "https://open.spotify.com/track/0sZMzHirZ6Iw4Zpg7K67nX"
+    },
+    {
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/6ezeADqN6YlvTaG5w5Cmv5"
       },

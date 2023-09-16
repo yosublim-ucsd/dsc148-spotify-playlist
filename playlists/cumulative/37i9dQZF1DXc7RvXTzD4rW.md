@@ -4,7 +4,7 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 麻倉もも
 
-254 songs - 16 hr 58 min
+255 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Gotoubun no Kiseki](https://open.spotify.com/track/2AwBIdLN9ctHkCLSAMh27c) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kiseki](https://open.spotify.com/album/5Q8K6uKltxF0H7qR6CTnoI) | 4:09 | 2022-07-13 | 2022-09-23 |
 | [Guide](https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Guide](https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL) | 3:41 | 2022-08-05 | 2022-11-03 |
 | [Haiiro](https://open.spotify.com/track/6FCMUZ0ecM2nAfOnPmmPar) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Haiiro](https://open.spotify.com/album/5N12cQsHxO70Xs3wWiBwJ2) | 3:53 | 2023-07-26 |  |
-| [Hanauta to Mawarimichi](https://open.spotify.com/track/37Fx5MyAKqKt5cGGu7SO0f) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Hanauta to Mawarimichi](https://open.spotify.com/album/7D7g3pL9H6eT9Ey3kWgt8C) | 3:35 | 2023-04-06 |  |
+| [Hanauta to Mawarimichi](https://open.spotify.com/track/37Fx5MyAKqKt5cGGu7SO0f) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Hanauta to Mawarimichi](https://open.spotify.com/album/7D7g3pL9H6eT9Ey3kWgt8C) | 3:35 | 2023-04-06 | 2023-09-16 |
+| [Hanauta to Mawarimichi](https://open.spotify.com/track/6TQPI2kY11bldGSdmL8aJF) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Act 2](https://open.spotify.com/album/3EKlyqIFT3uFzIobG7lIEq) | 3:38 | 2023-08-14 |  |
 | [Happy\-go\-Journey](https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Happy\-go\-Journey](https://open.spotify.com/album/35AHPNHsfU1eezJfDJfWrN) | 3:37 | 2023-02-03 | 2023-04-07 |
 | [HERO](https://open.spotify.com/track/3gTwnTWjFSjkxUv4yyHxM8) | [鈴村健一](https://open.spotify.com/artist/2GI6Rs7eT3ZDZ4mjvjxDH1) | [ROOTS](https://open.spotify.com/album/0xRi6wtLzzZnhk1MGR4SpR) | 4:05 | 2023-05-31 |  |
 | [HOLY TALE](https://open.spotify.com/track/2mM3EpaWr850L0hsZ5enND) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:58 | 2022-07-13 | 2022-11-19 |

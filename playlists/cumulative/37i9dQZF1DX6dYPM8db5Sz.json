@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=ocADamumSRy0dYjZEFLB1g\">aboynamedblu</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs?si=-WcH5l06TfefXYBiX2jQlA\">Yung Beathoven</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -431,6 +431,32 @@
     },
     {
       "album": {
+        "name": "The Bohemian Underground",
+        "url": "https://open.spotify.com/album/3NdCQegppalv14TnDyktt3"
+      },
+      "artists": [
+        {
+          "name": "Savio",
+          "url": "https://open.spotify.com/artist/6dtQQr6xQEbWPD7BgvBdqN"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        },
+        {
+          "name": "The Indications",
+          "url": "https://open.spotify.com/artist/4Bi2r5s8zPqvMLZgTNyDtO"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Any Wonder",
+      "url": "https://open.spotify.com/track/4CD1fsXvcBFi8UpEG5NXZt"
+    },
+    {
+      "album": {
         "name": "Appaloosa Bones",
         "url": "https://open.spotify.com/album/5IlwxjLUUcUFUTX5nGVM7J"
       },
@@ -464,6 +490,24 @@
       "duration_ms": 197333,
       "name": "Apples and Pairs",
       "url": "https://open.spotify.com/track/1mhMAOaxIASCwkSCLBLC0V"
+    },
+    {
+      "album": {
+        "name": "As the Universe so the Soul",
+        "url": "https://open.spotify.com/album/46w2rQ7A25zuEBwRsbpYp1"
+      },
+      "artists": [
+        {
+          "name": "Recall from the FUTURE",
+          "url": "https://open.spotify.com/artist/0O8ssLACysgZ8d9AQlLo1c"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265718,
+      "name": "As the Universe so the Soul",
+      "url": "https://open.spotify.com/track/5etRGpBT0YASzCvCrpTKu7"
     },
     {
       "album": {
@@ -1179,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "BULLSHIT",
+        "url": "https://open.spotify.com/album/2leqLPJD8i4vkVzzvcZEUv"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147900,
+      "name": "BULLSHIT",
+      "url": "https://open.spotify.com/track/7fcL6j5ndJeVpjehFynz7I"
+    },
+    {
+      "album": {
         "name": "Burning Man",
         "url": "https://open.spotify.com/album/6Sqa77UtbnmmC2v68lOUlg"
       },
@@ -1671,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Crescent",
+        "url": "https://open.spotify.com/album/2UqMiDdH0yhMelJ9pvvkCf"
+      },
+      "artists": [
+        {
+          "name": "Talicia",
+          "url": "https://open.spotify.com/artist/1baOgaGLdga7kB0JcsgTUP"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/419o5hR6s53S0ic5iP984q"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/72k6MNNkcVaiJSE68LDgZz"
       },
@@ -1704,6 +1784,24 @@
       "duration_ms": 327003,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/6bQSb2CjixL7Hh5Kp2zku3"
+    },
+    {
+      "album": {
+        "name": "LAYERS",
+        "url": "https://open.spotify.com/album/6Luqz4dKQ3tXYH3hqFq4uC"
+      },
+      "artists": [
+        {
+          "name": "Carla Franco",
+          "url": "https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166967,
+      "name": "CYMBALS",
+      "url": "https://open.spotify.com/track/1sODRUHlwWBXvx4wu6gQH5"
     },
     {
       "album": {
@@ -3591,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/54a6XljieAbrYatQMLKyec"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "I'm A Queen Bee",
+      "url": "https://open.spotify.com/track/2LjjY0ncuemeQfYWtn8cd8"
+    },
+    {
+      "album": {
         "name": "i'm gonna make it",
         "url": "https://open.spotify.com/album/0lQSjQ2XsaOzr2gsBLG8eG"
       },
@@ -4107,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Impala Lily",
+        "url": "https://open.spotify.com/album/6nZwXleBjZ43KF94QqP15m"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Arnott",
+          "url": "https://open.spotify.com/artist/0wcIDgL72YoVi3dmCydELC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215196,
+      "name": "Leader",
+      "url": "https://open.spotify.com/track/0gmgRX6SFUQ0wOSo9VZr97"
+    },
+    {
+      "album": {
         "name": "Leave the City",
         "url": "https://open.spotify.com/album/0638Pa7KDrtOpSICo4uO3K"
       },
@@ -4550,6 +4684,24 @@
       "duration_ms": 125187,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/6AyEEfEKvqUp54XyFsL70I"
+    },
+    {
+      "album": {
+        "name": "Mental Hell",
+        "url": "https://open.spotify.com/album/7D6oCguGU90Sg5tY5niQNG"
+      },
+      "artists": [
+        {
+          "name": "Werner Bekker",
+          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165466,
+      "name": "Mental Hell",
+      "url": "https://open.spotify.com/track/5VgPz5vJdTNeFIoJNnXDJD"
     },
     {
       "album": {
@@ -5341,6 +5493,24 @@
     },
     {
       "album": {
+        "name": "One Way Train",
+        "url": "https://open.spotify.com/album/6XglhrpK2eS7LCczljJJan"
+      },
+      "artists": [
+        {
+          "name": "Miles Sievwright",
+          "url": "https://open.spotify.com/artist/0JlHD2QNc6R8IzoCzdsp08"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296160,
+      "name": "One Way Train",
+      "url": "https://open.spotify.com/track/0ZOKIIRIhUQhabsT8MsafH"
+    },
+    {
+      "album": {
         "name": "Open My Door",
         "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
       },
@@ -5562,6 +5732,24 @@
       "duration_ms": 147519,
       "name": "PITY PARTY",
       "url": "https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b"
+    },
+    {
+      "album": {
+        "name": "Pizza Party",
+        "url": "https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Pizza Party",
+      "url": "https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr"
     },
     {
       "album": {
@@ -6279,6 +6467,42 @@
     },
     {
       "album": {
+        "name": "Self Talk",
+        "url": "https://open.spotify.com/album/0hk4okEhyO7aDLiTObO5I7"
+      },
+      "artists": [
+        {
+          "name": "Mike Baz",
+          "url": "https://open.spotify.com/artist/1wwKCIcDbJw2jUA2OvGhGQ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189189,
+      "name": "Self Talk",
+      "url": "https://open.spotify.com/track/0J4crYwpC6mNygzXWU6AY3"
+    },
+    {
+      "album": {
+        "name": "Seriously, Goodluck With That",
+        "url": "https://open.spotify.com/album/72vFcIJ5QGoRZTjOlx2WYV"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209346,
+      "name": "Seriously, Goodluck With That",
+      "url": "https://open.spotify.com/track/4GuGH9ty89UAljxqjxJU4H"
+    },
+    {
+      "album": {
         "name": "sex symbol",
         "url": "https://open.spotify.com/album/4lP4M2v4xZZgQol0IrAC3V"
       },
@@ -6822,6 +7046,24 @@
       "duration_ms": 235000,
       "name": "Stereoscope",
       "url": "https://open.spotify.com/track/5oancP3AQtHfh7BuYZYknB"
+    },
+    {
+      "album": {
+        "name": "Still A RockStar",
+        "url": "https://open.spotify.com/album/2Tj3VYZ73mhSYMZwPmNZG2"
+      },
+      "artists": [
+        {
+          "name": "KVSE",
+          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146062,
+      "name": "Still A RockStar",
+      "url": "https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3"
     },
     {
       "album": {
@@ -7803,6 +8045,24 @@
     },
     {
       "album": {
+        "name": "Typical You (Radio Edit)",
+        "url": "https://open.spotify.com/album/7uVPxRMjBKhU6zuej7jp0W"
+      },
+      "artists": [
+        {
+          "name": "Alex Solomon",
+          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217434,
+      "name": "Typical You - Radio Edit",
+      "url": "https://open.spotify.com/track/0DCzIR6OsJCudA125jJPF9"
+    },
+    {
+      "album": {
         "name": "ukuthanda wena",
         "url": "https://open.spotify.com/album/34EfitSWSsf04PbFF4qE39"
       },
@@ -8342,6 +8602,24 @@
       "duration_ms": 170007,
       "name": "Wicked Wonder",
       "url": "https://open.spotify.com/track/5mkXZy7MQ3GIDgWKDhv082"
+    },
+    {
+      "album": {
+        "name": "Wild City",
+        "url": "https://open.spotify.com/album/0mWT8QTDmKjVngRWBcuLNE"
+      },
+      "artists": [
+        {
+          "name": "Caroline Mackintosh",
+          "url": "https://open.spotify.com/artist/1fv1s2eLO0JBseE31bSTQb"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297011,
+      "name": "Wild City",
+      "url": "https://open.spotify.com/track/5ALBOB9JGa6dpkT1IQtktz"
     },
     {
       "album": {

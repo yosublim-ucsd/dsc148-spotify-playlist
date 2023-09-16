@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 54090,
+  "num_followers": 54137,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzUwOTQwODRjYWQ0OWMwMDJlZWIyNzBlYjNmNzM1MjJiMzQwNTg3",
+  "snapshot_id": "MCw4YzMyZmYyMGYwYmUxZTY3YzQ3ZDA4MTI3YWVjYTQ4NTllOWZiMjcz",
   "tracks": [
     {
       "added_at": "2023-08-25 04:01:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5"
     },
     {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/1Gr8ZUvFXgVZWzSLOMW7bE"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "duration_ms": 273500,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7"
+    },
+    {
       "added_at": "2023-09-08 04:01:00",
       "album": {
         "name": "Monalisa",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/1N26FYH3eEpD9k00ffxqFM"
     },
     {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "A Beautiful Dream",
+        "url": "https://open.spotify.com/album/3OLBqYv0Tv6QAlRdcpxQsl"
+      },
+      "artists": [
+        {
+          "name": "Andy Snitzer",
+          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "A Beautiful Dream",
+      "url": "https://open.spotify.com/track/54q9Z3bppcAviIX7cX5mXB"
+    },
+    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "C'mon Y'all",
@@ -71,6 +103,22 @@
       "duration_ms": 235653,
       "name": "C'mon Y'all",
       "url": "https://open.spotify.com/track/3saNbbFn6fncpSFq9YoYis"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Champagne Sky",
+        "url": "https://open.spotify.com/album/7813D7cYBLXzJAxmGeTtd9"
+      },
+      "artists": [
+        {
+          "name": "Ilya Serov",
+          "url": "https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G"
+        }
+      ],
+      "duration_ms": 248431,
+      "name": "Champagne Sky",
+      "url": "https://open.spotify.com/track/1Nl85nf0Q9JNUVOxSa86k4"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -697,34 +745,6 @@
       "url": "https://open.spotify.com/track/5Rml9CE4KJnj06zjRnLT8P"
     },
     {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Coastline Drive",
-        "url": "https://open.spotify.com/album/7b10TnCDp3qRm3BRvdbcW9"
-      },
-      "artists": [
-        {
-          "name": "Joe Plass",
-          "url": "https://open.spotify.com/artist/1SaAsMx53d7GZMPiIx2HgZ"
-        },
-        {
-          "name": "Andy Warr",
-          "url": "https://open.spotify.com/artist/1DmqVz5vUTOUohMbObbpn7"
-        },
-        {
-          "name": "Barry Aiken",
-          "url": "https://open.spotify.com/artist/2NUtA1qclTkkIWxitGzNPn"
-        },
-        {
-          "name": "John Raymond",
-          "url": "https://open.spotify.com/artist/4gxDZB7u8L1xEVkBDGngi3"
-        }
-      ],
-      "duration_ms": 321750,
-      "name": "Coastline Drive",
-      "url": "https://open.spotify.com/track/5j05IaaOCvj4AGfZmrp656"
-    },
-    {
       "added_at": "2023-04-21 04:01:00",
       "album": {
         "name": "Manhattan Nights (Radio Edit)",
@@ -815,38 +835,6 @@
       "duration_ms": 244276,
       "name": "Our Night",
       "url": "https://open.spotify.com/track/0MVwhMNLPjnZssyiYPDrg4"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Piano Tales",
-        "url": "https://open.spotify.com/album/5bwJsdVDal2LTrKPeMKuNL"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
-        }
-      ],
-      "duration_ms": 248712,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "G-Stream 2-Turn It Up",
-        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "G-Wiggle",
-      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
       "added_at": "2023-03-17 05:00:00",

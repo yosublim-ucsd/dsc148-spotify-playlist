@@ -1359,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "GROUPIES",
+        "url": "https://open.spotify.com/album/3e0u0TUdHfcvJPotNBP1r1"
+      },
+      "artists": [
+        {
+          "name": "NaBrisa",
+          "url": "https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c"
+        },
+        {
+          "name": "BeatzbyNolan",
+          "url": "https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124055,
+      "name": "GROUPIES",
+      "url": "https://open.spotify.com/track/5yB3lKEERZ1u7ag44te5bi"
+    },
+    {
+      "album": {
         "name": "Hater",
         "url": "https://open.spotify.com/album/1T3ku3EPCv8Lwti5vyoxAy"
       },
@@ -2856,7 +2878,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 150743,
       "name": "S N P B",
       "url": "https://open.spotify.com/track/2ZILRHM8AfMlXY8FshGkgy"

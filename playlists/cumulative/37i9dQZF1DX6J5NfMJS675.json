@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 390037,
       "name": "Brunt",
       "url": "https://open.spotify.com/track/6lXm60fg9Nh0mJONXKTvxv"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 347462,
       "name": "Contact - Original Mix",
       "url": "https://open.spotify.com/track/4WWdUXRaZYMLYZVQVzcDWU"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 262299,
       "name": "Crave",
       "url": "https://open.spotify.com/track/1VNThqTH5v8gi02dplXrSw"
@@ -1990,6 +1990,24 @@
       "duration_ms": 354503,
       "name": "Cryptic Speech - Original Mix",
       "url": "https://open.spotify.com/track/5tzcReCKuj6qYbQQVS0ehG"
+    },
+    {
+      "album": {
+        "name": "Dads Backyard",
+        "url": "https://open.spotify.com/album/6wLrpkVDd1oz51wRYU9QmH"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "Dads Backyard",
+      "url": "https://open.spotify.com/track/3zkI4XgK1kJHP8hWs0GhJG"
     },
     {
       "album": {
@@ -3909,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "Golden Pills",
+        "url": "https://open.spotify.com/album/4FGHlOMlDAwr0F8MdQ2Z0H"
+      },
+      "artists": [
+        {
+          "name": "AIROD",
+          "url": "https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242320,
+      "name": "Golden Pills",
+      "url": "https://open.spotify.com/track/7xowrgAZVHQGOrITSXFHw3"
+    },
+    {
+      "album": {
         "name": "Good Energy",
         "url": "https://open.spotify.com/album/0QhvkMApI7fDSW7D1e4y1x"
       },
@@ -4556,7 +4592,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 337851,
       "name": "Hypnosis",
       "url": "https://open.spotify.com/track/7HzhldCbuhio7KE746L66l"
@@ -6579,6 +6615,24 @@
     },
     {
       "album": {
+        "name": "Old School EP",
+        "url": "https://open.spotify.com/album/5n8Ql5AetOmyb7XNWIPuRw"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331934,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/0bIrl9bmKPztH1TQCTwuEr"
+    },
+    {
+      "album": {
         "name": "Black Jupiter",
         "url": "https://open.spotify.com/album/6HIgcKru4CgQsiPcDb7Nu9"
       },
@@ -7478,7 +7532,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 229852,
       "name": "Resist",
       "url": "https://open.spotify.com/track/5lRrhdbtPXkrBGkjzoFxh6"
@@ -8394,6 +8448,28 @@
       "duration_ms": 436931,
       "name": "Spule",
       "url": "https://open.spotify.com/track/21t50P2lLUDKXFnlekKBEX"
+    },
+    {
+      "album": {
+        "name": "Steam Room",
+        "url": "https://open.spotify.com/album/2XXBZ5juCP3vLdWC1Jn5vj"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "FOLUAL",
+          "url": "https://open.spotify.com/artist/50xEou9cTjanfYp46mLhBw"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "Steam Room",
+      "url": "https://open.spotify.com/track/49vBCqsbEYutjf4klDISVT"
     },
     {
       "album": {
@@ -9342,6 +9418,24 @@
       "duration_ms": 240000,
       "name": "The Unexpected",
       "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
+    },
+    {
+      "album": {
+        "name": "The Violator",
+        "url": "https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241770,
+      "name": "The Violator",
+      "url": "https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc"
     },
     {
       "album": {

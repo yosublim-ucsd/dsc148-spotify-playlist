@@ -1,12 +1,12 @@
 {
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Anuradha Pal",
-  "num_followers": 4551,
+  "num_followers": 4575,
   "original_name": "ECHO : Tabla Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2U5MWYyNjMwMTFhYzM5N2VkNmJlMDIyZDNjODg5MTgzOGM2MGU2",
+  "snapshot_id": "MCwyZWQ0YWJmYjkzYTBkMWRkZTdmOTk4NzU2MGRiZDA5ZDE3NTkzMTA2",
   "tracks": [
     {
       "added_at": "2023-08-18 00:32:33",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Timeless Tabla",
-        "url": "https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL"
-      },
-      "artists": [
-        {
-          "name": "Bickram Ghosh",
-          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
-        },
-        {
-          "name": "Shivkumar Sharma",
-          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
-        }
-      ],
-      "duration_ms": 1000724,
-      "name": "The Beauty of Sangat (feat. Pt. Shivkumar Sharma)",
-      "url": "https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
         "name": "The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival",
         "url": "https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 379626,
       "name": "Tabla Solo In Ektal - Live",
       "url": "https://open.spotify.com/track/4FsUTO3VyjORPxOtcuuDRQ"
+    },
+    {
+      "added_at": "2023-06-20 11:40:39",
+      "album": {
+        "name": "Timeless Tabla",
+        "url": "https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL"
+      },
+      "artists": [
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        },
+        {
+          "name": "Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
+        }
+      ],
+      "duration_ms": 1000724,
+      "name": "The Beauty of Sangat (feat. Pt. Shivkumar Sharma)",
+      "url": "https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -465,24 +465,20 @@
       "url": "https://open.spotify.com/track/0c5Vqd09VAMMdrq3bnYOTc"
     },
     {
-      "added_at": "2023-06-20 11:40:39",
+      "added_at": "2023-07-19 10:41:33",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+        "name": "Get Recharged!!!",
+        "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
       },
       "artists": [
         {
-          "name": "Nayan Ghosh",
-          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
-        },
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
         }
       ],
-      "duration_ms": 348615,
-      "name": "Tabla Solo - Taal Rupak",
-      "url": "https://open.spotify.com/track/5cdhZYN3heCcIaZyyj4nWs"
+      "duration_ms": 408888,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -503,18 +499,22 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Taaleem",
-        "url": "https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj"
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
       },
       "artists": [
         {
-          "name": "Anuradha Pal",
-          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
         }
       ],
-      "duration_ms": 570506,
-      "name": "Drut Teentaal (Tabla solo)",
-      "url": "https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd"
+      "duration_ms": 348615,
+      "name": "Tabla Solo - Taal Rupak",
+      "url": "https://open.spotify.com/track/5cdhZYN3heCcIaZyyj4nWs"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -575,6 +575,22 @@
       "duration_ms": 526767,
       "name": "Tani Avartanam",
       "url": "https://open.spotify.com/track/0bfmfkz53UD4H5h1fv4vKw"
+    },
+    {
+      "added_at": "2023-06-20 11:40:39",
+      "album": {
+        "name": "Taaleem",
+        "url": "https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "duration_ms": 570506,
+      "name": "Drut Teentaal (Tabla solo)",
+      "url": "https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd"
     },
     {
       "added_at": "2023-07-06 10:56:11",
@@ -689,10 +705,10 @@
       "url": "https://open.spotify.com/track/3H5cOjtgzcmqibnmYxxuIU"
     },
     {
-      "added_at": "2023-07-19 10:41:33",
+      "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Get Recharged!!!",
-        "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
+        "name": "Recharge Plus",
+        "url": "https://open.spotify.com/album/5FMe1RbNL7ckc9AThaEB4k"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
         }
       ],
-      "duration_ms": 408888,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h"
+      "duration_ms": 479217,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/74JXYwu7XbyiHVYhOnTZZX"
     },
     {
       "added_at": "2023-06-25 05:02:36",
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
-        "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
-      },
-      "artists": [
-        {
-          "name": "Adho Vrikshasana",
-          "url": "https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx"
-        }
-      ],
-      "duration_ms": 380995,
-      "name": "Tabla Music for Meditation",
-      "url": "https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
         "name": "Authentic India: Indian Percussion",
         "url": "https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Recharge Plus",
-        "url": "https://open.spotify.com/album/5FMe1RbNL7ckc9AThaEB4k"
+        "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
+        "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
       },
       "artists": [
         {
-          "name": "Anuradha Pal",
-          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+          "name": "Adho Vrikshasana",
+          "url": "https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx"
         }
       ],
-      "duration_ms": 479217,
-      "name": "Cloud Nine",
-      "url": "https://open.spotify.com/track/74JXYwu7XbyiHVYhOnTZZX"
+      "duration_ms": 380995,
+      "name": "Tabla Music for Meditation",
+      "url": "https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN"
     },
     {
       "added_at": "2023-06-25 04:36:23",

@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Vintage Trouble",
-  "num_followers": 441463,
+  "num_followers": 441568,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDdjYmE1YjY1N2FmZmI5Yjg3YWE1OGQ4NjNlYmZiMGFkMTI4MjEw",
+  "snapshot_id": "MCxjNGViOGU2MGMyY2IxNGI5YTdhMmM1YmM4ZTAyMzZjZGExYTMxOTQ2",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/3IfNXZSR5nEnYmnu2zsVUJ"
     },
     {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Bad Spell (Acoustic)",
+        "url": "https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 194970,
+      "name": "Bad Spell - Acoustic",
+      "url": "https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0"
+    },
+    {
       "added_at": "2023-08-18 04:01:00",
       "album": {
         "name": "You're the One",
@@ -63,6 +79,30 @@
       "duration_ms": 219746,
       "name": "Yet to Be (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/6iHor3auKtisM4nmBmyGpE"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Jumpin'",
+        "url": "https://open.spotify.com/album/6whK2FCC7tIBihqZeFR8vY"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        },
+        {
+          "name": "Jonny Morgan",
+          "url": "https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD"
+        },
+        {
+          "name": "The Biscuit Dispute",
+          "url": "https://open.spotify.com/artist/7ABJ3TprcTxyyCxbVZh2Ck"
+        }
+      ],
+      "duration_ms": 162589,
+      "name": "Jumpin'",
+      "url": "https://open.spotify.com/track/0mFMDuXQ5Rb1I9hxT4GZl2"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -765,22 +805,6 @@
       "url": "https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "There's a Light",
-        "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        }
-      ],
-      "duration_ms": 277675,
-      "name": "Empty Me Out",
-      "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
-    },
-    {
       "added_at": "2022-08-05 04:02:00",
       "album": {
         "name": "Bloodline Maintenance",
@@ -939,38 +963,6 @@
       "duration_ms": 314608,
       "name": "Jet Black Cadillac",
       "url": "https://open.spotify.com/track/5W0GIUYxM787mpfkl84hSF"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Ice Cream & Cigarettes",
-        "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
-      },
-      "artists": [
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "Ice Cream & Cigarettes",
-      "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC"
-      },
-      "artists": [
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6"
     },
     {
       "added_at": "2022-05-27 04:03:00",

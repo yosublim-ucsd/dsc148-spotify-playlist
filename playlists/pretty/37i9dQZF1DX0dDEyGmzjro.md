@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dDEyGmzjro.md) - [plain]
 
 > Featuring Nicki Nicole, Young Miko, Myke Towers & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 25 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 619 likes - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dDEyGmzjro.md) - [plain]
 | 13 | [90S Kid](https://open.spotify.com/track/5LrPy9LvwsrI5IM536D0As) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mixtape Rich Vagos](https://open.spotify.com/album/6Md2vrD9ioekgr6GmzF5ce) | 2:42 |
 | 14 | [Grillz](https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Grillz](https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg) | 3:12 |
 | 15 | [Tqm, Ptm](https://open.spotify.com/track/1DM1HpfqOGe4VV0UzrD1pr) | [Bolishe One](https://open.spotify.com/artist/0xlPxX2JioH67ifjTQwQcA) | [Cotidiano](https://open.spotify.com/album/5TN6envq3h0nZZstCs52GY) | 3:28 |
-| 16 | [Flight 0008](https://open.spotify.com/track/57wTi5tNWiIpSJhZTxUpUe) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0008](https://open.spotify.com/album/4jVLUwOIKjTZKk0OvZYPvL) | 2:20 |
+| 16 | [Flight 0008](https://open.spotify.com/track/57wTi5tNWiIpSJhZTxUpUe) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Danni Ble](https://open.spotify.com/artist/1zBY2uQAr60siJjrsWkbsn), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0008](https://open.spotify.com/album/4jVLUwOIKjTZKk0OvZYPvL) | 2:20 |
 | 17 | [Waiting](https://open.spotify.com/track/60XKYSAexkc70KPDefZzYs) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Waiting](https://open.spotify.com/album/6bvRJ36iuSYbQD5kYaP64I) | 2:45 |
 | 18 | [BIEN O MAL](https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:56 |
 | 19 | [18+1](https://open.spotify.com/track/5rxzvuFvtIVFWSSte40IFe) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:01 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dDEyGmzjro.md) - [plain]
 | 24 | [CREAM CARAMEL](https://open.spotify.com/track/4la3LtvfpDLQcS0DXLONEy) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 2:27 |
 | 25 | [Fatal](https://open.spotify.com/track/73n6qiGIOCKW8eImS71oP7) | [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [Fatal](https://open.spotify.com/album/25IcGnmcCrXqygh2A3YzYn) | 2:33 |
 
-Snapshot ID: `MCw4NjgwMTNjMTFkMjdiNDk0ZjkwMmJlZjBiMTc2NzNjYmI2ZjQwOTIy`
+Snapshot ID: `MCxmNjQyYmQ0OTQ0ZWUyMGUwMjU4ZThhYjQ5NTlhYTg0MTRiMzdlNDUz`

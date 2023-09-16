@@ -2797,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "Country Chapel",
+        "url": "https://open.spotify.com/album/4fXxMiJGwvEOUwIlghN86T"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "Nobody's Fault But Mine",
+      "url": "https://open.spotify.com/track/27Gcs6x0EV4npr9v5btbu8"
+    },
+    {
+      "album": {
         "name": "Not A Dry Eye In The House",
         "url": "https://open.spotify.com/album/3iOsbjIjInM7sXnfb47IeT"
       },

@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Hope Starts Here",
+        "url": "https://open.spotify.com/album/5BWcScvgGjyU022sEcSIyx"
+      },
+      "artists": [
+        {
+          "name": "Venus Bay",
+          "url": "https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Hope Starts Here",
+      "url": "https://open.spotify.com/track/5uwXOFaQy8v7iQVnGhrJXo"
+    },
+    {
+      "album": {
         "name": "One Woman\u2019s Journey",
         "url": "https://open.spotify.com/album/38hVrYvEJd9dcs5rx7Z9Dg"
       },

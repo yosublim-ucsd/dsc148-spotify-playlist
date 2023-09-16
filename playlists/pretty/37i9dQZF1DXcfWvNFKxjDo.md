@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: R3HAB, Michael Schulte
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,658 likes - 74 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,802 likes - 74 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 14 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
 | 15 | [ITALODISCO \- English Version](https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ITALODISCO \(English Version\)](https://open.spotify.com/album/43pxODk9GVXEEnXfzzNLRu) | 3:19 |
 | 16 | [Dirty Talk \(with Sam Feldt\)](https://open.spotify.com/track/4Q5A1yfmDXlB4s7JyuDKzw) | [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Dirty Talk \(with Sam Feldt\)](https://open.spotify.com/album/6CkeZGNC4LSSDOHkahPgfp) | 2:21 |
-| 17 | [Meet You There](https://open.spotify.com/track/4vnubsflkoKuOHEfSSMZEI) | [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jimmy James](https://open.spotify.com/artist/4i8dpFnW5usydk6H7eez30) | [Meet You There](https://open.spotify.com/album/2lNPrtWgJDHDh1NuBcGp9a) | 2:40 |
+| 17 | [Meet You There](https://open.spotify.com/track/4vnubsflkoKuOHEfSSMZEI) | [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jimmy James](https://open.spotify.com/artist/7et8xRIk2umQqXw4r8FAmU) | [Meet You There](https://open.spotify.com/album/2lNPrtWgJDHDh1NuBcGp9a) | 2:40 |
 | 18 | [Can't Get You out of My Head](https://open.spotify.com/track/5M5KUXnWP2pB3NugBHcER9) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Can't Get You out of My Head](https://open.spotify.com/album/6JGdqchvfbGFc2cMnLdZBn) | 2:28 |
 | 19 | [Because Of You](https://open.spotify.com/track/0FpqoxLdZcP4FmTeypWBn3) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Because Of You](https://open.spotify.com/album/74CYF70WB9pAPRLQhltTc6) | 2:17 |
 | 20 | [Yeah 3x](https://open.spotify.com/track/0XX58KCqDXy0cNnZ9XxGtS) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Yeah 3x](https://open.spotify.com/album/1HSrReXjgHAyxDL14SWYaS) | 2:43 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [Do You Ever Think Of Me](https://open.spotify.com/track/18rYVFWfX3Qswv887VGPkK) | [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [FADES](https://open.spotify.com/artist/2VElyouiCfoYPDJluzwJwK) | [Do You Ever Think Of Me](https://open.spotify.com/album/4k94fSI7hqHBZKgeasz62W) | 1:59 |
 | 74 | [Play](https://open.spotify.com/track/6YoqG5R2uqq5MQBj4kbnz4) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 3:19 |
 
-Snapshot ID: `MCxiY2M3ZjFhNzU3NTZlOGU1NWU4ZjY0OTc4NjU4NDMwNmE4MGFjN2Rj`
+Snapshot ID: `MCw3MDRjNDRiYjJlZGM4MzhiODA4OGYyMjk2OTI4NmI1Mzk0YzM4ZmM5`

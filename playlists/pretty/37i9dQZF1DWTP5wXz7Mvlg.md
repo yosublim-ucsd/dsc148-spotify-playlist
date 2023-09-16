@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,357 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,371 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 10 | [Edge Of The World](https://open.spotify.com/track/4dj216OBqXsm7c0WewjVlC) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [King](https://open.spotify.com/album/4ueUL0q3kZV7huV9hHJp9W) | 4:35 |
 | 11 | [Poetry](https://open.spotify.com/track/41DGLEehbFxpZ9pfQrSUSX) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Poetry](https://open.spotify.com/album/2ua6GR0mpXz7fS1y05WKdQ) | 3:54 |
 | 12 | [Love Conspiration](https://open.spotify.com/track/2ztafS9ba55k5K2pZFYiuQ) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Love Conspiration](https://open.spotify.com/album/2QVnzc77wuvWcq5Cwraenp) | 4:51 |
-| 13 | [That's A Lyric Ya Know](https://open.spotify.com/track/01QrCJzho8JfQlaGahCjTa) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [That's A Lyric Ya Know / Oddball](https://open.spotify.com/album/1nSV8lSUZng3kE2QXbD47s) | 4:24 |
+| 13 | [That's A Lyric Ya Know](https://open.spotify.com/track/7jzzNfVBZHJGlcBdU7yp4t) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [That's A Lyric Ya Know / Oddball](https://open.spotify.com/album/3lwaweybTBFV0zWi9irzlc) | 4:24 |
 | 14 | [Ruckus](https://open.spotify.com/track/6g2UF3rnM1OnxnTVycQFgU) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk), [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV) | [Ruckus](https://open.spotify.com/album/1cssfu7lB2KABLvhpNLXFg) | 4:32 |
 | 15 | [Dance Again](https://open.spotify.com/track/7CmCmJbOnytbrybfbclZ71) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [Dance Again](https://open.spotify.com/album/3DmJD3FSP8XIvi40lWdB6K) | 3:25 |
 | 16 | [Tempest](https://open.spotify.com/track/4KmY87fV2G2UoQg0FeM2Qe) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5) | [Tempest / You Want It All](https://open.spotify.com/album/5TFQcoOawAAPjTOZaMWn5X) | 5:24 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 21 | [Afraid of Love](https://open.spotify.com/track/2m57M6Hjm1gGbu0LXRlywI) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8), [En:vy](https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU) | [The Art of Change](https://open.spotify.com/album/12Vki3P91ze8Gba8EOGqFQ) | 4:20 |
 | 22 | [Vices \- Bladerunner Remix](https://open.spotify.com/track/5bqfrXlfvuQHDznFhHSb2C) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb), [Collette Warren](https://open.spotify.com/artist/2pzGbNf0oadczuFlVAxZC3), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Bladerunner](https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl) | [Vices](https://open.spotify.com/album/6Pi8S5hFpj4qoCtoIvEDTM) | 4:28 |
 | 23 | [CHICA](https://open.spotify.com/track/4Bg8cLW1mKbLmag6WcN0zM) | [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [CHICA](https://open.spotify.com/album/2qyjqgcVZIFkPMyYD5PFc6) | 3:19 |
-| 24 | [Five Nines](https://open.spotify.com/track/0IyhTRQxLG1RGRk5CBkzVs) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu) | [Five Nines / Choppy](https://open.spotify.com/album/1uOqFsvbMts8yJRGxBLfsZ) | 4:35 |
+| 24 | [Five Nines](https://open.spotify.com/track/4M2MNVPz9V9KKzkXC7I2dJ) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu) | [Five Nines / Choppy](https://open.spotify.com/album/3k4Ec6RWPYiaaXOx0ZgfK6) | 4:35 |
 | 25 | [Getting Hot](https://open.spotify.com/track/0R7tFVDEPuMu1euN2PC7GU) | [Beeson](https://open.spotify.com/artist/2Bz33Qcq5GYQK0Cfk2YT9I) | [Getting Hot / Come To Mind](https://open.spotify.com/album/4xZ7HywRUbTOCQBMfvZig4) | 4:52 |
 | 26 | [Everything Is Possible \- DJ Marky & Makoto Remix](https://open.spotify.com/track/4h2YTOsQQsV7VR8IiTCLbn) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ), [DJ Marky & Makoto](https://open.spotify.com/artist/00eYX01IyyHcG2lMvStEG4) | [Everything Is Possible \(DJ Marky & Makoto Remix\)](https://open.spotify.com/album/0fUbrCLI2PKdI4lVpqCb7P) | 4:47 |
 | 27 | [Another Life](https://open.spotify.com/track/7nSkmLDcDU1JcpwcKcQsx8) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 49 | [All Night](https://open.spotify.com/track/0MQyfSkAFO27Ki90MKnkcs) | [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [All Night](https://open.spotify.com/album/5WGeVk6PF7WZ9kWeN4xfCL) | 3:37 |
 | 50 | [Here Comes](https://open.spotify.com/track/2FlFInnKJTaP5YBMf6dax6) | [Melinki](https://open.spotify.com/artist/71BxfcyzIwRxmdx2BRYDVD) | [Here Comes](https://open.spotify.com/album/1ppwK870Dyp5CTKK94f11w) | 4:55 |
 
-Snapshot ID: `MCxiMTlhOWRkN2E2NWM5YmQzN2NlNDU4OGVjYmVlODc5ZmU2NmQ5Yzlk`
+Snapshot ID: `MCwxNDY2NmJhYWU5N2ZlYWM2NjMzM2Y0YjE3MTljNmJiMzNlNDZmM2M0`

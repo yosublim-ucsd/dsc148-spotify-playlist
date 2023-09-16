@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 231333,
       "name": "Gee Baby Ain't I Good To You",
       "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 280040,
       "name": "Hard To Be A Human",
       "url": "https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW"
@@ -3464,7 +3464,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-16",
       "duration_ms": 216893,
       "name": "Nobody's Fool",
       "url": "https://open.spotify.com/track/1s2I2P6bXRdQyePO016Os9"
@@ -3986,6 +3986,24 @@
       "duration_ms": 172332,
       "name": "Root City",
       "url": "https://open.spotify.com/track/047ghmBqV2962LxO24aUm9"
+    },
+    {
+      "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y"
+      },
+      "artists": [
+        {
+          "name": "Judith Hill",
+          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255084,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y"
     },
     {
       "album": {
@@ -4629,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "Sweet 'Lil Lies",
+        "url": "https://open.spotify.com/album/6UCqBQAXge2aQLiZa6HrLu"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317719,
+      "name": "Sweet 'Lil Lies",
+      "url": "https://open.spotify.com/track/6ibzlLNs7baLXzz4RjMLd9"
+    },
+    {
+      "album": {
         "name": "New Morning",
         "url": "https://open.spotify.com/album/2TTXWDSbuk0LDVDEUNnsCh"
       },
@@ -4644,6 +4680,24 @@
       "duration_ms": 336920,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/5Ft33jkZFk4vtCURt4BaHX"
+    },
+    {
+      "album": {
+        "name": "Talkin' Company Man Blues",
+        "url": "https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2"
+      },
+      "artists": [
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250092,
+      "name": "Talkin' Company Man Blues",
+      "url": "https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI"
     },
     {
       "album": {

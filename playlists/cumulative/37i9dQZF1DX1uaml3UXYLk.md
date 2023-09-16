@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-553 songs - 1 day 11 hr 0 min
+555 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,10 +200,12 @@
 | [Get Over](https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Get Over](https://open.spotify.com/album/3ZyU5uKTIk3cJe4lnuZX1X) | 3:05 | 2021-11-10 | 2022-07-01 |
 | [getting ideas](https://open.spotify.com/track/4g5zahq9MIoBxji1q0YF5F) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [getting ideas](https://open.spotify.com/album/10lwP63JZMKOnydAJ2o8uI) | 3:12 | 2022-08-19 |  |
 | [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2020-10-20\* | 2022-06-24 |
+| [GlamLife](https://open.spotify.com/track/1YilzehYmkU2He5hrZJysC) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [GlamLife](https://open.spotify.com/album/7IvEIZXRi8byX1Q5Bb6G7A) | 2:33 | 2023-09-15 |  |
 | [Glaskupad \- Axel E Remix \(Radio Edit\)](https://open.spotify.com/track/3fUtw6vacMxmpRHay1VztG) | [LEHNBERG](https://open.spotify.com/artist/7BRf7UkrsYXvgABbadmh3L), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Axel E](https://open.spotify.com/artist/1GHddwV8QFsOhnDlLlYANI) | [Glaskupad \(Axel E Remix\)](https://open.spotify.com/album/2kcieKSF7jELFFBZ7UOVIP) | 3:51 | 2020-11-21 | 2022-09-23 |
 | [Glass and Plastic \(Instrumental Version\)](https://open.spotify.com/track/2yfAkyDlAzx3zuMvgC0N9g) | [Particle House](https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS) | [Glass and Plastic](https://open.spotify.com/album/6OvqhTnUPNZ2GSPzp5x8WP) | 3:08 | 2020-10-20\* | 2020-10-30 |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2021-06-04 | 2022-10-07 |
 | [Glow](https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:47 | 2020-12-24 | 2022-09-02 |
+| [Golden Destiny](https://open.spotify.com/track/3uIb5mjwBPlISNSAGAiojl) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Golden Destiny](https://open.spotify.com/album/3AOOrt1mfG94t5AGUMP7vh) | 2:14 | 2023-09-15 |  |
 | [Good Rising](https://open.spotify.com/track/74f0VaipJke6lIWI5BEfTW) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Good Rising](https://open.spotify.com/album/6FpPtyj1Q86xBCiHgAKxL6) | 2:25 | 2021-04-15 | 2021-05-13 |
 | [Granite Stone \(Instrumental Version\)](https://open.spotify.com/track/5AsK51bvshzxVrR33GwlXf) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS), [Wai](https://open.spotify.com/artist/2naLLiIUfTp0IxAN6JM3hn) | [Rumors](https://open.spotify.com/album/5QxpbwNLKbIpNTO7LbZCVB) | 3:27 | 2020-10-20\* | 2022-04-06 |
 | [Grapefruit Diet](https://open.spotify.com/track/2wALasLtHG5IBHxc5Xlj2O) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Grapefruit Diet](https://open.spotify.com/album/1vlo1lL9bs1e6xuGcsob0X) | 2:57 | 2023-05-05 |  |

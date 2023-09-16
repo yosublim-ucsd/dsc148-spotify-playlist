@@ -2,9 +2,9 @@
 
 ### [Bluegrass Origins](https://open.spotify.com/playlist/37i9dQZF1DX0RwLEp3x6W4)
 
-> Travel back to the start, tracing the roots of what would become bluegrass through to some of its early hits and gems\. Cover: Remembering Jesse McReynolds
+> Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Jesse McReynolds
 
-88 songs - 3 hr 42 min
+90 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [On the Banks of the Ohio](https://open.spotify.com/track/5ns4O5fVbhx3BpfqVHA0fC) | [The Monroe Brothers](https://open.spotify.com/artist/4eaGB6IFAhm0pqXElO5MJZ) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 3:26 | 2018-04-04 |  |
 | [Orange Blossom Special](https://open.spotify.com/track/0IaemLXkOOagp5IMG1b73v) | [The Rouse Brothers](https://open.spotify.com/artist/19PcAMFuV5N5B5aj6I8CiU) | [East Virginia Blues \(When The Sun Goes Down Series\)](https://open.spotify.com/album/66wStchYv8JtHijDL3UlA4) | 2:53 | 2018-04-04 |  |
 | [Rabbit In the Log \(with The Virginia Boys\)](https://open.spotify.com/track/6ASifFs9LjXe5sPOiCMGkW) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq), [The Virginia Boys](https://open.spotify.com/artist/0a7GoDJVPmN1ThQg8Kmh31) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:40 | 2018-04-04 |  |
+| [Rainin' Here This Morning](https://open.spotify.com/track/2DPQSoHXS4NnB6qambnomR) | [The Dillards](https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS) | [Back Porch Bluegrass](https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea) | 3:09 | 2023-09-15 |  |
 | [Rocky Road Blues](https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:33 | 2018-04-04 |  |
 | [Rocky Top](https://open.spotify.com/track/6se4sK4ZbkNgOJUkmszbxX) | [The Osborne Brothers](https://open.spotify.com/artist/6gM87haEMrst4Eqdobf98c) | [From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant](https://open.spotify.com/album/6O6e7u27FqCw3G0PK4Dcw4) | 2:41 | 2022-09-09 |  |
 | [Roll In My Sweet Baby's Arms](https://open.spotify.com/track/4E9r16yASQAAVq14J4GhGC) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [The Best Of Flatt and Scruggs](https://open.spotify.com/album/0CRyCufE06Z3RQEUmwKw2b) | 2:37 | 2018-04-04 | 2022-07-29 |
@@ -74,6 +75,7 @@
 | [Roving Gambler](https://open.spotify.com/track/3UuWMFOMUqAe68LViLsAl1) | [The Country Gentlemen](https://open.spotify.com/artist/6QtdwqSCN5B4wvBoHaNwTx) | [Country Songs, Old and New](https://open.spotify.com/album/523u4foCjynMuGfgZAHKZK) | 3:10 | 2018-04-04 |  |
 | [Sally Gooden](https://open.spotify.com/track/5VdYenFr9hnB0jTBDzs9NC) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [American Epic: The Collection](https://open.spotify.com/album/73iz4oHKG9ivUHYoQWXifI) | 3:10 | 2018-04-04 |  |
 | [She Left Me Standing On the Mountain](https://open.spotify.com/track/4hloQEApxIXnB66RSrdtXn) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:09 | 2018-04-04 |  |
+| [Sundown and Sorrow](https://open.spotify.com/track/7A8rKK3BKcWjA8HOfDhv3i) | [The Reno Brothers](https://open.spotify.com/artist/2vruTtpGNMuQuxxZllS2JQ), [Don Reno](https://open.spotify.com/artist/7rB502Ec9wP6wZQxhztkM7), [The Reno Family](https://open.spotify.com/artist/3Xy23rmREB48e4f2EIaqw1) | [Sundown and Sorrow](https://open.spotify.com/album/26voGhF3UnKRku2pSqatz0) | 2:49 | 2023-09-15 |  |
 | [That Home Far Away](https://open.spotify.com/track/3rRcj6Pi1ONmd0WVCRov3W) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Best of the Best](https://open.spotify.com/album/1BQYYKH5IPhrWQJJqmVlHs) | 2:06 | 2022-10-07 | 2022-11-13 |
 | [That Home Far Away](https://open.spotify.com/track/1Jso0EGbuknStEGE3BNVtX) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Bluegrass Salvation](https://open.spotify.com/album/6xLntxpd4hP4okMk8SpYcc) | 2:08 | 2018-04-04 |  |
 | [That Home Far Away](https://open.spotify.com/track/2NTGDJYD0ads1ZGt7PJg5u) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD), [The Clinch Mountain Boys](https://open.spotify.com/artist/5TRZoBM3xjsgdoTzndsko9) | [Hymns and Sacred Songs](https://open.spotify.com/album/24KcO6ut6MvcoaDXyqMSUc) | 2:07 | 2018-04-04 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 45997,
+  "num_followers": 46031,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3",
+  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Un Canto",
-        "url": "https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B"
-      },
-      "artists": [
-        {
-          "name": "MUTA",
-          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
-        }
-      ],
-      "duration_ms": 284915,
-      "name": "Un Canto",
-      "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Elegancia Tropical",
         "url": "https://open.spotify.com/album/0tR3iN3sdyxAHcP66cB68F"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 301173,
       "name": "El Alma y el Cuerpo",
       "url": "https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Un Canto",
+        "url": "https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B"
+      },
+      "artists": [
+        {
+          "name": "MUTA",
+          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
+        }
+      ],
+      "duration_ms": 284915,
+      "name": "Un Canto",
+      "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
     },
     {
       "added_at": "2023-03-31 18:13:24",
