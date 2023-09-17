@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-230 songs - 13 hr 40 min
+231 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Paris](https://open.spotify.com/track/1NqHsocjKaEmyjKhXJbIk8) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg), [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Paris](https://open.spotify.com/album/0hzxwjmrSYnUIhaQElBQMj) | 2:44 | 2022-12-21 |  |
 | [Paris Boogie \- Original Mix](https://open.spotify.com/track/48cwCNwfP9YfDCeVLnPZKk) | [Hmcee Da Duke](https://open.spotify.com/artist/0EUM5aLhl9WnqmAhhJyrNF) | [Badmen Bandits](https://open.spotify.com/album/2MB3GNmJTqCJTtjlYpDtap) | 4:16 | 2022-05-20 |  |
 | [Paris Tropical](https://open.spotify.com/track/2J3bOjsCkPbriZaKz0H3xp) | [Minuit](https://open.spotify.com/artist/3T5VmqTVAlLU7X0HKfCqY5) | [Vertigo](https://open.spotify.com/album/2ZZiUqmOAdG2odHhT3rmlo) | 3:56 | 2022-05-20 |  |
-| [Parler](https://open.spotify.com/track/42LuCktvePTTc8ukR82PbR) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/0OCn4bgtoQGfEUP1RjkQrO) | 3:38 | 2022-12-21 |  |
+| [Parler](https://open.spotify.com/track/2uNHNErhFsnhlLvjFaufZT) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/16AkdXaH7x32OT9RQm6pol) | 3:38 | 2022-12-21 |  |
+| [Parler](https://open.spotify.com/track/42LuCktvePTTc8ukR82PbR) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/0OCn4bgtoQGfEUP1RjkQrO) | 3:38 | 2022-12-21 | 2023-09-17 |
 | [Party](https://open.spotify.com/track/6vxJSyYjRi7ASIuRXyMFPZ) | [Black Lilys](https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH) | [Party](https://open.spotify.com/album/4evIIlOWRKyPrq8Xu4qbaf) | 3:45 | 2022-12-21 |  |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2022-05-20 |  |
 | [Passion sonore](https://open.spotify.com/track/5uHoa6U6DbM99BLcwzsWlW) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Lucile](https://open.spotify.com/artist/6qAmINWmct8hujGGpNsnaJ) | [Affection sauvage](https://open.spotify.com/album/3EybPWwdMnd47308xzhn9N) | 2:33 | 2022-12-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,610 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,647 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [LOST IN THE CITY](https://open.spotify.com/track/7bHz0ZMFED3ZN39InD2YmZ) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LEGACY](https://open.spotify.com/album/74v3ofUMm9rHBHV8u0a5sr) | 3:13 |
 | 100 | [The Suburbs](https://open.spotify.com/track/2M33H5HtCUuXKxVX7jxMQ6) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [The Suburbs](https://open.spotify.com/album/659h0ktcFI9MKCjtTkNUp4) | 2:47 |
 
-Snapshot ID: `MCxhZjgyZjFhNDAyNWJjNzYyZDYzYzU0OTMwODBhNGM2ZWZhOTdlN2Mx`
+Snapshot ID: `MCwyOGQzNzc5ZGY3MWU0ZDRjMmNjNzRiMWQ3YWY4N2VjMzEzYWYwYmM3`

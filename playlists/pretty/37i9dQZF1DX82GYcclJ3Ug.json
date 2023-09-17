@@ -1,12 +1,12 @@
 {
   "description": "No rules or boundaries. The very best new alternative tracks. Cover: DON BROCO",
-  "num_followers": 1125112,
+  "num_followers": 1125145,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmRhNGNlNjY4MGRlNWFkZDgyNmIxNGU1OGE3ZTA2ODJjNmYyZmZh",
+  "snapshot_id": "MCwyYjIxYWI5NDJjNWIxMDAwNDJkNTZiZmIwNDBlYWQ3ZGJmZGJjYzcw",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1075,6 +1075,22 @@
       "duration_ms": 172153,
       "name": "Wishbone",
       "url": "https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/1CEYnd0M5NIW7u6HheJka5"
+      },
+      "artists": [
+        {
+          "name": "Hunter Oliveri",
+          "url": "https://open.spotify.com/artist/1y3NQbmjuRQshFiRjiterz"
+        }
+      ],
+      "duration_ms": 173271,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/47MthNdmvuTrV3SP4MPFGV"
     },
     {
       "added_at": "2023-09-15 04:00:00",

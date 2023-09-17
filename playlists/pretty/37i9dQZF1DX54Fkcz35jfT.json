@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u6625\u306d\u3080\u308a",
-  "num_followers": 39757,
+  "num_followers": 39837,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmIyYzYxNDcwYTJiOTg4NzY0Yzg5MTNkM2JhNWRhNDM5MDJiZDQz",
+  "snapshot_id": "MCw3ZmQzZWY2NGUwMGVmNWI2YjdmMmE2ODY3MjVlNmRmZjQyNDcwNGVm",
   "tracks": [
     {
       "added_at": "2023-09-12 15:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-09-12 15:00:00",
       "album": {
-        "name": "I'M A RAT",
-        "url": "https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE"
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq"
       },
       "artists": [
         {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
         }
       ],
-      "duration_ms": 124719,
-      "name": "I'M A RAT",
-      "url": "https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa"
+      "duration_ms": 186962,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
     },
     {
       "added_at": "2023-09-12 15:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-09-12 15:00:00",
       "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq"
+        "name": "I'M A RAT",
+        "url": "https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE"
       },
       "artists": [
         {
-          "name": "HEY-SMITH",
-          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
         }
       ],
-      "duration_ms": 186962,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
+      "duration_ms": 124719,
+      "name": "I'M A RAT",
+      "url": "https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa"
     },
     {
       "added_at": "2023-09-12 15:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-12 15:00:00",
       "album": {
-        "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
-        "url": "https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21"
-      },
-      "artists": [
-        {
-          "name": "BACKSHOW",
-          "url": "https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D"
-        }
-      ],
-      "duration_ms": 185877,
-      "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
-      "url": "https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC"
-    },
-    {
-      "added_at": "2023-09-12 15:00:00",
-      "album": {
         "name": "\u30b3\u30ea\u30f3\u30ba",
         "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 168280,
       "name": "SLAM",
       "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
+    },
+    {
+      "added_at": "2023-09-12 15:00:00",
+      "album": {
+        "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
+        "url": "https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21"
+      },
+      "artists": [
+        {
+          "name": "BACKSHOW",
+          "url": "https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D"
+        }
+      ],
+      "duration_ms": 185877,
+      "name": "\u30ae\u30df\u00a5\u30a8\u30f3~Give me yen",
+      "url": "https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC"
     },
     {
       "added_at": "2023-09-12 15:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-09-12 15:00:00",
       "album": {
+        "name": "gene",
+        "url": "https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W"
+      },
+      "artists": [
+        {
+          "name": "Pay money To my Pain",
+          "url": "https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw"
+        }
+      ],
+      "duration_ms": 485880,
+      "name": "Voice",
+      "url": "https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd"
+    },
+    {
+      "added_at": "2023-09-12 15:00:00",
+      "album": {
         "name": "Flash Back",
         "url": "https://open.spotify.com/album/2KcAV6KysLCrNb2zyakHv2"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 230680,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/360qOFQEAvNatJD65tMehi"
-    },
-    {
-      "added_at": "2023-09-12 15:00:00",
-      "album": {
-        "name": "gene",
-        "url": "https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W"
-      },
-      "artists": [
-        {
-          "name": "Pay money To my Pain",
-          "url": "https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw"
-        }
-      ],
-      "duration_ms": 485880,
-      "name": "Voice",
-      "url": "https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd"
     },
     {
       "added_at": "2023-09-12 15:00:00",

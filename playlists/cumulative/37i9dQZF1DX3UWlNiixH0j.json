@@ -7308,7 +7308,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 234375,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/7fqFrsnOKSqgv5pGLhaHk0"
@@ -12626,6 +12626,24 @@
       "duration_ms": 249720,
       "name": "\u4e94\u6b21\u5143Surfin'",
       "url": "https://open.spotify.com/track/5dJFzvOC7t0FVOO75ZmQrD"
+    },
+    {
+      "album": {
+        "name": "\u4f1a\u3044\u305f\u3044",
+        "url": "https://open.spotify.com/album/4M4391JYcKGO5GBhl5bbbd"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30c3\u30ad\u30fc\u30bb\u30d9\u30f3",
+          "url": "https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267689,
+      "name": "\u4f1a\u3044\u305f\u3044",
+      "url": "https://open.spotify.com/track/5VPbNf4LkDv7reM1SDsFyH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,766 likes - 69 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,814 likes - 69 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 24 | [Lepas Berdansa](https://open.spotify.com/track/0IzuVV47KPKT0ejyaKLQaT) | [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd), [Mondo Gascaro](https://open.spotify.com/artist/6x92tfaXHuPBctPxrfTeMY) | [Cipta di Batas Rasa / Lepas Berdansa](https://open.spotify.com/album/1jdYQWbLFxrTX6aHyHDfgj) | 4:06 |
 | 25 | [High School in Jakarta](https://open.spotify.com/track/0r6oCPoDuCOXvEPOPV6UXN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/3QtwI1FUvH2kCD9Y5HaG9y) | 3:39 |
 | 26 | [Rooftop](https://open.spotify.com/track/5WvjSwYF94M3xnqfBgrOsc) | [StarBe](https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo) | [Fly As One](https://open.spotify.com/album/4OG67OY8Bw4bErc9acA2df) | 3:06 |
-| 27 | [Desire](https://open.spotify.com/track/48wBjW6siHVJPhYfkAW9su) | [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd) | [Desire](https://open.spotify.com/album/3kW3zUAjG6JFOA5bHGQtPZ) | 3:38 |
+| 27 | [Desire](https://open.spotify.com/track/72tBEGOdJ3hFhJvn7JWOO5) | [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd) | [Desire](https://open.spotify.com/album/5malPhrB5WRxN66gtSE24v) | 3:38 |
 | 28 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 |
 | 29 | [Tunggu Aku Di Jakarta](https://open.spotify.com/track/0Z0K5nZGqw8WuV4WOLxVnR) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 5:07 |
 | 30 | [Terdiam](https://open.spotify.com/track/3eEC4ad1GlR6eOiU06Hcuu) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Terdiam](https://open.spotify.com/album/68PWcMgXQ3nV0rHPk6GbLt) | 3:06 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 68 | [Cintaku](https://open.spotify.com/track/41S84NxXxO4IkYRp4WHr1d) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Badai Pasti Berlalu](https://open.spotify.com/album/5xBOU4ZYI4GZ1QnRj3bUMp) | 4:38 |
 | 69 | [All Good](https://open.spotify.com/track/3s8ik4CUIZXXGDBgD0EAZ5) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [All Good](https://open.spotify.com/album/5b5nv0yq43oHzu1HcuY3ZI) | 3:13 |
 
-Snapshot ID: `MCxlMmZhYmNmMjEyY2Q5YjEwMDcwNmY3ZDViYWRkOGQxMGEwZDJlMDA3`
+Snapshot ID: `MCw2NjRmMDE3MjNlMzA0ZWU2OTEzMjRkY2FiNjE2MWI2ZWZhOWRkYzE1`

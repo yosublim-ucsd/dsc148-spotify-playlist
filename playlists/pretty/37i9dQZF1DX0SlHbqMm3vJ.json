@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Kemuel",
-  "num_followers": 214273,
+  "num_followers": 214344,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGQzNzY4Zjg0NTRiOWEwNjI0N2I2YTQ5YTRhMTVlN2E3YTM2OGFj",
+  "snapshot_id": "MCw3MTA5NGM1ODZlOWVhOWNiNzY3MmEzOTJhNDEwOTU4YzZmOTY1ZWQ3",
   "tracks": [
     {
       "added_at": "2023-09-08 06:05:57",
@@ -99,26 +99,6 @@
     {
       "added_at": "2023-09-08 06:05:57",
       "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
-    },
-    {
-      "added_at": "2023-09-08 06:05:57",
-      "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2023-09-08 06:05:57",
+      "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2023-09-08 06:05:57",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-09-08 06:05:57",
       "album": {
+        "name": "Don't Lie/See It Through - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 338975,
+      "name": "Don't Lie/See It Through - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto"
+    },
+    {
+      "added_at": "2023-09-08 06:05:57",
+      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 200000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
-    },
-    {
-      "added_at": "2023-09-08 06:05:57",
-      "album": {
-        "name": "Don't Lie/See It Through - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 338975,
-      "name": "Don't Lie/See It Through - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto"
     },
     {
       "added_at": "2023-09-08 06:05:57",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-09-08 06:05:57",
       "album": {
+        "name": "Cheers To Life.",
+        "url": "https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        },
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 177669,
+      "name": "Slip & Slide (feat. Rotimi)",
+      "url": "https://open.spotify.com/track/097kkEBc5vfQ4kSadaZNwW"
+    },
+    {
+      "added_at": "2023-09-08 06:05:57",
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 220894,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm"
-    },
-    {
-      "added_at": "2023-09-08 06:05:57",
-      "album": {
-        "name": "Cheers To Life.",
-        "url": "https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        },
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 177669,
-      "name": "Slip & Slide (feat. Rotimi)",
-      "url": "https://open.spotify.com/track/097kkEBc5vfQ4kSadaZNwW"
     },
     {
       "added_at": "2023-09-08 06:05:57",

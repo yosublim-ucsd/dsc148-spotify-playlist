@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Uche Yara, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,762 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,772 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 50 | [Herzblatt](https://open.spotify.com/track/6uxSryn80SMOFcczFKduhN) | [swimgirl](https://open.spotify.com/artist/1vCDq3HjvLVGcUuh7nv49s), [Young Meyerlack](https://open.spotify.com/artist/5myzwn2vq9wGjQVyKo46ir) | [Herzblatt](https://open.spotify.com/album/2rdVsyNRDA5PAYYe0FUrXH) | 2:59 |
 | 51 | [17](https://open.spotify.com/track/6bmiDWvLMOJToIujv306Iy) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Fadeout](https://open.spotify.com/album/4D5VD564HwWroy78dcADVh) | 3:33 |
 | 52 | [Recent Dreams](https://open.spotify.com/track/3mysAJygmjPesmxLlXFEvn) | [Tanzcafé Attersee](https://open.spotify.com/artist/0LEwqMTDiitSfmrKUiGUfE), [Toby Whyle](https://open.spotify.com/artist/6OK4uiQe9BNxePmZm7vV65) | [Recent Dreams](https://open.spotify.com/album/1hr7lVg6evaCtP9zTIPdyB) | 4:07 |
-| 53 | [Wasting Time](https://open.spotify.com/track/3DH3S7OXN3DyH9P94t9TCt) | [Ant Antic](https://open.spotify.com/artist/34jTCtoMOb0kkqoKXpafPh) | [Wasting Time](https://open.spotify.com/album/7M2fRWS5vhr1BqoCrrhmZm) | 3:11 |
+| 53 | [wasting time](https://open.spotify.com/track/3DH3S7OXN3DyH9P94t9TCt) | [Ant Antic](https://open.spotify.com/artist/34jTCtoMOb0kkqoKXpafPh) | [wasting time](https://open.spotify.com/album/7M2fRWS5vhr1BqoCrrhmZm) | 3:11 |
 | 54 | [Feuer & Licht](https://open.spotify.com/track/2vg6sBQm9TsnT4eKIHmLRB) | [David Rausch](https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG), [Joulyn](https://open.spotify.com/artist/4jiarfPX3Ve0H0wcEymkAO) | [Feuer & Licht](https://open.spotify.com/album/24ozTGiddzxlsJzPvwSXVu) | 6:56 |
 | 55 | [Liar](https://open.spotify.com/track/4oOYJDT0D6cgHsIyoqQSXv) | [David Ost](https://open.spotify.com/artist/6w6wZxrkurPtakOOnf4FZR) | [Liar](https://open.spotify.com/album/2uhygzcwNbkJVZOnIWGuge) | 4:45 |
 | 56 | [Backseat Dreams](https://open.spotify.com/track/7ymGUcvRGJKJzQnw7tJBtI) | [Margo](https://open.spotify.com/artist/5qGyCigKI60uP8GxQXyIer) | [Backseat Dreams](https://open.spotify.com/album/6sFkRtqFK5wjr3xFemAeLu) | 3:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Wertlos](https://open.spotify.com/track/5bXHDGs5dgQjTKuEyt3RvR) | [das blühende leben](https://open.spotify.com/artist/5j2wAhtgYolAMqJK8JzbLK) | [Wertlos](https://open.spotify.com/album/2BrudNVwWtkcRjTs0j4tPX) | 3:48 |
 | 80 | [Blank Page](https://open.spotify.com/track/7n3PGud6gQWS5GnFF8SAbb) | [Elena Shirin](https://open.spotify.com/artist/7d94AgU8YMpNvzuRhHu7Fj) | [Blank Page](https://open.spotify.com/album/0mi3Vk3Y069hOCdYA0e3gj) | 3:02 |
 
-Snapshot ID: `MCw4OTEwNjRmZTFjYmVkY2NmMzVkYjg2ZWI4NDg4NWQzMjAyNjRkYWM4`
+Snapshot ID: `MCxlYjRmZjZmMjIxNmE2NDdiODJmNmMxMDQyMTFkNDBlZmE3NzQ5ZjZm`

@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Xenia Manasseh
+> R&B of the moment by the artists of the future\. Cover: Äyanna
 
-666 songs - 1 day 10 hr 21 min
+667 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 | 2023-05-05 | 2023-07-29 |
 | [Go Home](https://open.spotify.com/track/3lQeU943lFCg95XDi8De7Y) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Left on Read](https://open.spotify.com/album/0yJkua96DygoM61HyEQ4Uy) | 2:15 | 2022-03-25 | 2022-05-07 |
 | [GODDESS REIGN](https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [GODDESS REIGN](https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1) | 3:29 | 2022-08-12 | 2022-08-20 |
+| [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 | 2023-09-16 |  |
 | [Good Life](https://open.spotify.com/track/7IdZPp5Zn6y0lXCvXA7CFN) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Good Life](https://open.spotify.com/album/2BQlDB6YRNp88euumKdHG2) | 3:35 | 2022-03-05 | 2022-04-09 |
 | [Good Love](https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t) | [Joey XL](https://open.spotify.com/artist/0OQOwTGju6MADakqECMNoV) | [Good Love](https://open.spotify.com/album/3Idj13qAmwJNOvF9QPLxUn) | 3:01 | 2022-09-02 | 2023-03-11 |
 | [Good Soup](https://open.spotify.com/track/6v5ScPhmqynAcnDv5MwZiA) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Good Soup](https://open.spotify.com/album/6Ht6MZtQ6q3KGA3XPJRxE5) | 2:45 | 2023-03-24 | 2023-04-29 |

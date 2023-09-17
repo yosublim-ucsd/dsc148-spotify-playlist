@@ -6956,10 +6956,28 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 216400,
       "name": "Kau Tigakan Cinta",
       "url": "https://open.spotify.com/track/44PWXTnHRRpKvldbfKK9Oq"
+    },
+    {
+      "album": {
+        "name": "Kau Tigakan Cinta",
+        "url": "https://open.spotify.com/album/5c1SVP01BdGT3chGeQhlHE"
+      },
+      "artists": [
+        {
+          "name": "Elkasih",
+          "url": "https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Kau Tigakan Cinta",
+      "url": "https://open.spotify.com/track/7F3RSsk4kgdWDF0h8xvalZ"
     },
     {
       "album": {
@@ -10316,7 +10334,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -11686,7 +11704,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"

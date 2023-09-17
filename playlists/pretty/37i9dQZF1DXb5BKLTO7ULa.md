@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Siggy & D1ns \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a>\-artiesten\) op de cover\. De nieuwste releases elke vrijdag op Spotify!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,507 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,544 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 76 | [Bluebird \(single\-edit\)](https://open.spotify.com/track/4iWfnfMq1tKTUIQT2MWe5E) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa) | [Bluebird](https://open.spotify.com/album/2tO87zQ1AyQ1WtDmPDNtVr) | 3:20 |
 | 77 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 |
 | 78 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 |
-| 79 | [Don't Call](https://open.spotify.com/track/6lMbvsh7bKmUlfVC7mwrlp) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [Don't Call](https://open.spotify.com/album/35tIKCbaCQhGkzV5C9WpJy) | 3:40 |
+| 79 | [Don't Call](https://open.spotify.com/track/6lMbvsh7bKmUlfVC7mwrlp) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Don't Call](https://open.spotify.com/album/35tIKCbaCQhGkzV5C9WpJy) | 3:40 |
 | 80 | [Gimme](https://open.spotify.com/track/6Dr2wJDKpLYLK6eJBxU3Q7) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Gimme](https://open.spotify.com/album/3fW5jXxfLXPYMCc4vJqitm) | 4:05 |
 | 81 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 |
 | 82 | [Good News](https://open.spotify.com/track/2oXhUifLIC0brl2xFfjONm) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Good News](https://open.spotify.com/album/4c0gGmxV7oCRLp79PrebTe) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [if i wanted to](https://open.spotify.com/track/3xSWezmaKHVUVWE4XT78z0) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [if i wanted to](https://open.spotify.com/album/1bMqahsmebu45DMUgGCI6T) | 3:02 |
 | 100 | [Milk & Honey](https://open.spotify.com/track/6yG8sxSJNeaViOHwcNs24B) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 2:50 |
 
-Snapshot ID: `MCxkZGZkYmZjMTYyZTY5YmRjNTA1YjBhZjVmNThjYjI4ODg1NTE4OTA4`
+Snapshot ID: `MCw4MmMzODc5Nzk5OTk4Njg1NmNmMDVkZjk0NmYzODYxOTZmNjExOWU0`

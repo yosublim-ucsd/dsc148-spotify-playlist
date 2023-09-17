@@ -4,12 +4,13 @@
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-235 songs - 13 hr 24 min
+236 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [21 Reasons \(feat\. Ella Henderson\) \- Acoustic](https://open.spotify.com/track/0oubikePN5zgE3sFGLLWkP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\) \[Acoustic\]](https://open.spotify.com/album/0lfTLJlqbgLRaJcYT5zwGJ) | 2:47 | 2022-05-27 | 2023-08-15 |
 | [7.6.14 \(Intro\)](https://open.spotify.com/track/2aetwlVz87DIsK7psjLlPT) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Friends EP](https://open.spotify.com/album/4WmEAPlQs2ZFxGsBO9UiFJ) | 1:01 | 2022-03-25 | 2022-04-21 |
+| [7.6.14 \(Intro\)](https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Grabbitz \- Friends EP](https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw) | 1:01 | 2023-03-20 |  |
 | [Alive \- Acoustic Version](https://open.spotify.com/track/1eh4iPma8RQsu6sjKrMZ8p) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Alive \(Acoustic Version\)](https://open.spotify.com/album/57O0bwkfvbaxM28mvYwTQg) | 2:50 | 2021-12-10 | 2022-07-29 |
 | [All That Really Matters \- Stripped Version](https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters \(Stripped Version\)](https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM) | 3:18 | 2022-08-26 |  |
 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 | 2021-12-10 |  |
@@ -221,7 +222,7 @@
 | [Tri\-State](https://open.spotify.com/track/5VvREanHtgxZ5mIsKrEhne) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Above & Beyond Tri\-State](https://open.spotify.com/album/0btVL1AemASPb6ZZjZ3GDQ) | 4:11 | 2022-03-25 | 2022-04-20 |
 | [Used To Have It All \- Acoustic](https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Used To Have It All \(Acoustic Version\)](https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ) | 3:01 | 2021-12-10 |  |
 | [Virtual Friend \[Bonus Track\] \- Acoustic Version](https://open.spotify.com/track/3ZZMiqk5rTDnuDgY1s3puN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sophie](https://open.spotify.com/artist/4wDc5abr4uJzIxIUWpBlMx) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/3XMxkQzqskNvKVbG6g80Jr) | 3:54 | 2021-12-10 | 2022-06-15 |
-| [Waiting \- Strings & Vocals Mix](https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Starting Fires](https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM) | 3:49 | 2021-12-10 |  |
+| [Waiting \- Strings & Vocals Mix](https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Starting Fires](https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM) | 3:49 | 2021-12-10 | 2023-09-17 |
 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv) | 3:45 | 2022-03-25 |  |
 | [Walking Alone \(David Komar Piano Rendition\)](https://open.spotify.com/track/2xhOTvCCJShuMcAIOk8sYB) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Walking Alone](https://open.spotify.com/album/2FaZTMjqptM3RX9ZbeAnGP) | 4:57 | 2022-03-25 | 2022-06-18 |
 | [Walking With Shadows \- Acoustic Version](https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [The Acoustics](https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7) | 2:41 | 2021-12-10 |  |

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-334 songs - 1 day 4 hr 48 min
+335 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Cyberlove](https://open.spotify.com/track/5wpnorsUa9T5pcWzYL59l4) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Cyberlove](https://open.spotify.com/album/2fmUH8FRtfCmaHWS5yjb43) | 6:16 | 2023-05-31 | 2023-06-10 |
 | [Cycles](https://open.spotify.com/track/3EtEfnPhlRPuM6ShLIcd33) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Mardraüs](https://open.spotify.com/artist/3q5A1HlL3MuhN1DKH4UHSm) | [Cycles](https://open.spotify.com/album/4jpO0xkA40y6zJUPp2yMUm) | 5:00 | 2022-12-06 | 2023-02-20 |
 | [Dance Alone \- Hidden Empire Remix](https://open.spotify.com/track/6xcKHNfHEcyG0TG6gVEUrn) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Dance Alone](https://open.spotify.com/album/3OOU0i7XGbvVYWVjfb7Blx) | 6:34 | 2022-12-28 | 2023-01-06 |
-| [Dance for Me](https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Dance for Me](https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W) | 4:05 | 2023-03-24 |  |
+| [Dance for Me](https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Dance for Me](https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W) | 4:05 | 2023-03-24 | 2023-09-17 |
 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-11-23 |  |
 | [Dance!](https://open.spotify.com/track/0qNHdyhouo2nJWQ3M92ld4) | [DJ Dee](https://open.spotify.com/artist/6BJUZfk50Ru1g0sMC4dcsf) | [Dance!](https://open.spotify.com/album/37jpCS2ScxL6e4ppd8kqTX) | 4:00 | 2023-04-28 | 2023-05-06 |
 | [Dark Future](https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Mind Kontrol EP](https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc) | 6:43 | 2023-04-28 | 2023-05-06 |
@@ -227,6 +227,7 @@
 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 | 2022-11-24 | 2022-12-03 |
 | [Queen of Ice \- Nora En Pure Remix](https://open.spotify.com/track/2qrBzOokp9UlLY712vglIy) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Queen of Ice \(Nora En Pure Remix\)](https://open.spotify.com/album/6o5REIm1HCnvCQXG8gqC6P) | 3:19 | 2022-12-28 | 2023-01-06 |
 | [Rave](https://open.spotify.com/track/5YDbSfN5oKWBoeyf9nBA38) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 6:45 | 2022-11-24 | 2023-02-28 |
+| [Ray Of Solar \- Mau P Remix](https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Ray Of Solar \(Mau P Remix\)](https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh) | 4:11 | 2023-09-15 |  |
 | [Rebirth](https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rebirth](https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2) | 4:21 | 2023-05-05 |  |
 | [Reflected Wisdom \- Five Phases Project \(4/5\)](https://open.spotify.com/track/24yUM08mhAzWSLvCQultZY) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Five Phases \- Reflected Wisdom](https://open.spotify.com/album/50Dg2MYfTZ8NPXmcX6lh2e) | 4:59 | 2023-01-27 |  |
 | [Reflections](https://open.spotify.com/track/6xNOV4axXIb0dvK9BPPbkC) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:45 | 2022-12-28 | 2023-01-06 |

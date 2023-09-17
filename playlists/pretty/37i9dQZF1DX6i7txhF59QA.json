@@ -1,12 +1,12 @@
 {
   "description": "Let's party with cheerful Korean trot medley. Cover: Nahee Kim(\uae40\ub098\ud76c) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 20685,
+  "num_followers": 20694,
   "original_name": "K-Trot Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODUwYzNiYmU0ZmYwZDBkZTU1MmM1YTUzOTFmZDQ5MTBjZWVlMmI4",
+  "snapshot_id": "MCw2ODk5Yzk0YzcyNDcyNjZkNGM4ZDE0YjYxNTAwNGMyMjBlNzY3OTJj",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -727,22 +727,18 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Love call center PART35",
-        "url": "https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ"
+        "name": "pr\u00e9paration(\uc058\ub808\ube60\ub77c\uc528\uc6a9)",
+        "url": "https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20"
       },
       "artists": [
         {
-          "name": "UV",
-          "url": "https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem"
-        },
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "Jang Yoon-Jeong",
+          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
         }
       ],
-      "duration_ms": 378040,
-      "name": "Tralalala",
-      "url": "https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz"
+      "duration_ms": 211733,
+      "name": "\ubaa9\ud3ec\ud589 \uc644\ud589\uc5f4\ucc28",
+      "url": "https://open.spotify.com/track/1tb1vddvrGHwE1wSRwGB6V"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -763,18 +759,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "pr\u00e9paration(\uc058\ub808\ube60\ub77c\uc528\uc6a9)",
-        "url": "https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20"
+        "name": "Love call center PART35",
+        "url": "https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ"
       },
       "artists": [
         {
-          "name": "Jang Yoon-Jeong",
-          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
+          "name": "UV",
+          "url": "https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem"
+        },
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
         }
       ],
-      "duration_ms": 211733,
-      "name": "\ubaa9\ud3ec\ud589 \uc644\ud589\uc5f4\ucc28",
-      "url": "https://open.spotify.com/track/1tb1vddvrGHwE1wSRwGB6V"
+      "duration_ms": 378040,
+      "name": "Tralalala",
+      "url": "https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Seven light scents",
-        "url": "https://open.spotify.com/album/2I4GRfDw9exxNFHNRciBho"
-      },
-      "artists": [
-        {
-          "name": "Na Hoon-A",
-          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Face off",
-      "url": "https://open.spotify.com/track/6iJnWbreyP8SymfLDEX7AR"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Love call center PART28",
         "url": "https://open.spotify.com/album/5KgKaiW0GORPs45M6Ewp2v"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 221826,
       "name": "The Forgotten Season",
       "url": "https://open.spotify.com/track/4Z5NS9w7D3iRDJ64pKpMbm"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Seven light scents",
+        "url": "https://open.spotify.com/album/2I4GRfDw9exxNFHNRciBho"
+      },
+      "artists": [
+        {
+          "name": "Na Hoon-A",
+          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Face off",
+      "url": "https://open.spotify.com/track/6iJnWbreyP8SymfLDEX7AR"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/5VZzzQBGBtjpyXEN8vTY5H"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uad70",
-          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "Breakfast",
-      "url": "https://open.spotify.com/track/1fAr5z76bNzGqzs1gKRJo9"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Andenayon...(Subtitle: no?)",
         "url": "https://open.spotify.com/album/46zG4HcbAYXvgpxtrnc8N9"
       },
@@ -1279,22 +1263,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Super Five - Hello",
-        "url": "https://open.spotify.com/album/0gXiN3TJJ7wHlCmc2KvDsk"
-      },
-      "artists": [
-        {
-          "name": "Super Five",
-          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "\uc798 \ub420 \uac70\uc57c",
-      "url": "https://open.spotify.com/track/1gd0lmgYBXOV9PUGP1STYu"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "[2020 TrotAwards] BEST",
         "url": "https://open.spotify.com/album/7HG7FBpiTxtXkEYZpY0dzK"
       },
@@ -1311,6 +1279,38 @@
       "duration_ms": 202373,
       "name": "That's too much + A song for a wife",
       "url": "https://open.spotify.com/track/6Lp04YjlZjXKB2xmxHg6WU"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Super Five - Hello",
+        "url": "https://open.spotify.com/album/0gXiN3TJJ7wHlCmc2KvDsk"
+      },
+      "artists": [
+        {
+          "name": "Super Five",
+          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "\uc798 \ub420 \uac70\uc57c",
+      "url": "https://open.spotify.com/track/1gd0lmgYBXOV9PUGP1STYu"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/5VZzzQBGBtjpyXEN8vTY5H"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uad70",
+          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/1fAr5z76bNzGqzs1gKRJo9"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
-        "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
+        "name": "pr\u00e9paration(\uc058\ub808\ube60\ub77c\uc528\uc6a9)",
+        "url": "https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20"
       },
       "artists": [
         {
-          "name": "Tae Yeon Kim",
-          "url": "https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd"
+          "name": "Jang Yoon-Jeong",
+          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
         }
       ],
-      "duration_ms": 235520,
-      "name": "Wind road",
-      "url": "https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958"
+      "duration_ms": 198586,
+      "name": "\uc5ec\uc790\uc608\uc694",
+      "url": "https://open.spotify.com/track/7fAVgSWyatO93M3o6FvmlQ"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
+        "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
+      },
+      "artists": [
+        {
+          "name": "Tae Yeon Kim",
+          "url": "https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Wind road",
+      "url": "https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Music source of <MissTrot2> FINAL Songwriter Mission",
         "url": "https://open.spotify.com/album/55myCPZ3HKzK1yXcw7AGG6"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 248693,
       "name": "Don't Cross That River",
       "url": "https://open.spotify.com/track/7A03yyubZKMSkSpZTI48cG"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "pr\u00e9paration(\uc058\ub808\ube60\ub77c\uc528\uc6a9)",
-        "url": "https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20"
-      },
-      "artists": [
-        {
-          "name": "Jang Yoon-Jeong",
-          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "\uc5ec\uc790\uc608\uc694",
-      "url": "https://open.spotify.com/track/7fAVgSWyatO93M3o6FvmlQ"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
-        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
+        "name": "MISS TROT2 PRELIMINARY BEST PART2",
+        "url": "https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx"
       },
       "artists": [
         {
-          "name": "YOYOMI",
-          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
+          "name": "Yujin Jeon",
+          "url": "https://open.spotify.com/artist/3BFcxv7uPQ7efI42KZtDfY"
         }
       ],
-      "duration_ms": 194487,
-      "name": "\ud558\ud2b8\ubfc5\ubfc5",
-      "url": "https://open.spotify.com/track/3xV3HFBSTVhqgI0UmXYJ4e"
+      "duration_ms": 167773,
+      "name": "Let's live in Seoul",
+      "url": "https://open.spotify.com/track/17RtMYFvvUkesJ9DqlbJj9"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1475,18 +1475,38 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "MISS TROT2 PRELIMINARY BEST PART2",
-        "url": "https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx"
+        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
+        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
       },
       "artists": [
         {
-          "name": "Yujin Jeon",
-          "url": "https://open.spotify.com/artist/3BFcxv7uPQ7efI42KZtDfY"
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
         }
       ],
-      "duration_ms": 167773,
-      "name": "Let's live in Seoul",
-      "url": "https://open.spotify.com/track/17RtMYFvvUkesJ9DqlbJj9"
+      "duration_ms": 194487,
+      "name": "\ud558\ud2b8\ubfc5\ubfc5",
+      "url": "https://open.spotify.com/track/3xV3HFBSTVhqgI0UmXYJ4e"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Love call center PART9",
+        "url": "https://open.spotify.com/album/1lAFblayoSOk4ZzgtqGT0I"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        },
+        {
+          "name": "YOUNGTAK",
+          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
+        }
+      ],
+      "duration_ms": 268219,
+      "name": "Scars deeper than love",
+      "url": "https://open.spotify.com/track/6ZDGfuLzNSNYtuY3JETdaz"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Love call center PART9",
-        "url": "https://open.spotify.com/album/1lAFblayoSOk4ZzgtqGT0I"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        },
-        {
-          "name": "YOUNGTAK",
-          "url": "https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4"
-        }
-      ],
-      "duration_ms": 268219,
-      "name": "Scars deeper than love",
-      "url": "https://open.spotify.com/track/6ZDGfuLzNSNYtuY3JETdaz"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Finger Heart",
         "url": "https://open.spotify.com/album/536AwbTSsZRzotWrQ8zPUq"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
-        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
-      },
-      "artists": [
-        {
-          "name": "YOYOMI",
-          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
-        }
-      ],
-      "duration_ms": 218688,
-      "name": "\uc774 \uc624\ube60 \ubb50\uc57c",
-      "url": "https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "Music source of Mr. Trot Death match Part2",
         "url": "https://open.spotify.com/album/0OjXvl6OUHiVZYIvvmSWSe"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 176254,
       "name": "Why are you crying",
       "url": "https://open.spotify.com/track/3GgkHnqjgPC9oQCbcYRJx5"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "\uccab\ubc88\uc9f8 \uc774\uc57c\uae30",
+        "url": "https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo"
+      },
+      "artists": [
+        {
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
+        }
+      ],
+      "duration_ms": 218688,
+      "name": "\uc774 \uc624\ube60 \ubb50\uc57c",
+      "url": "https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD"
     },
     {
       "added_at": "2023-09-08 04:01:00",

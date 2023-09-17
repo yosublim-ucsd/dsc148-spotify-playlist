@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 111818,
       "name": "A Part of Everything",
       "url": "https://open.spotify.com/track/3sEQ7CcBmtQ2AgWBS33rld"
@@ -14954,7 +14954,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 111325,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/7pLGolUwsim4ShRclN6sET"
@@ -21352,7 +21352,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 120145,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/05OLav4TT1ys02hEq6UKLW"
@@ -30414,7 +30414,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 136435,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/2pCd8dAzdIwxgZaahmSyiA"
@@ -37486,7 +37486,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 140736,
       "name": "Free",
       "url": "https://open.spotify.com/track/3RJbVV9U9xcXxMqypt45lv"
@@ -45508,7 +45508,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 133667,
       "name": "Hot Ice Tea",
       "url": "https://open.spotify.com/track/6TaHz6VKJPonV2rGBbXvz4"
@@ -57414,7 +57414,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 168000,
       "name": "Lluvia Azul",
       "url": "https://open.spotify.com/track/2CnpibBCEGKHiANk5wImnr"
@@ -67492,7 +67492,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 134256,
       "name": "My House, Your Rules",
       "url": "https://open.spotify.com/track/6qAFemH2WWhEM9ZNn5dcBN"
@@ -70684,6 +70684,28 @@
       "duration_ms": 165365,
       "name": "Non Troppo",
       "url": "https://open.spotify.com/track/5769mk2Z62iRhm0qyIC3kn"
+    },
+    {
+      "album": {
+        "name": "Nonna",
+        "url": "https://open.spotify.com/album/0MMqjvdD2mvGEkldZFqISq"
+      },
+      "artists": [
+        {
+          "name": "Billa Qause",
+          "url": "https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y"
+        },
+        {
+          "name": "Ephraim Giepen",
+          "url": "https://open.spotify.com/artist/0e2y1APikRsX7vHPtbPShP"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Nonna",
+      "url": "https://open.spotify.com/track/3wL6BVuFNfjyA0mIQXDPGE"
     },
     {
       "album": {
@@ -84852,7 +84874,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 107080,
       "name": "Salad Days",
       "url": "https://open.spotify.com/track/2GyrB5OrYKwOIreB9mCICC"
@@ -111002,7 +111024,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 140571,
       "name": "What are we eating?",
       "url": "https://open.spotify.com/track/02vItcwtoE9ioCLqvMd7Pj"
@@ -112464,7 +112486,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 118500,
       "name": "Wild Dreams",
       "url": "https://open.spotify.com/track/4lke2maACdsWr6iYXJAfQd"

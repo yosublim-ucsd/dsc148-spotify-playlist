@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0gg11prPP6OqtUvBcKnPpq">Rylo Rodriguez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,789,960 likes - 99 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,790,123 likes - 99 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 |
 | 99 | [Flyest in The City \(feat\. A Boogie Wit da Hoodie & Jeremih\)](https://open.spotify.com/track/3LzcF35kaoR15JSBJflDZ7) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [C3](https://open.spotify.com/album/3IyUsMKChk9h8J9NeZYWl0) | 3:51 |
 
-Snapshot ID: `MCxjMTc3ZTM2MjFkNjU3ZmYwOGM4NmQzODk0ZDQ3ZmI2YTljYzFkNjJi`
+Snapshot ID: `MCw3YjY0MWYzNDBmNGUzNzIwMzQyYWJiOGEzZGNkZjk4MmU0MmE5NTZl`

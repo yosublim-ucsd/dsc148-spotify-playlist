@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,271 songs - 2 day 20 hr 4 min
+1,272 songs - 2 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Apagoreumeno](https://open.spotify.com/track/2S2OTWlmddsahTVv7hB82y) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [Apon](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7), [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [Apagoreumeno](https://open.spotify.com/album/6teh0vSpGSZPxbQ1ooqVSE) | 2:53 | 2021-07-11 | 2021-08-23 |
 | [Apatewn](https://open.spotify.com/track/1gK70fcr4UnSDmP7KXtH0F) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [Apatewn](https://open.spotify.com/album/69WsIiBINGuXODn7zzmk0u) | 4:53 | 2021-03-29 | 2021-05-23 |
 | [Apo Erota...](https://open.spotify.com/track/5gMU1jp5PRDpPr8Tgcju3j) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Apo Erota...](https://open.spotify.com/album/4OEMBWXfUe4qqJAE4HmX1B) | 3:53 | 2021-10-03 | 2021-10-22 |
+| [Apo Mena Einai Oxi](https://open.spotify.com/track/28CNdsr18IE5Kn4N8M4UQz) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Apo Mena Einai Oxi](https://open.spotify.com/album/54BwEJhmSNH6fHCLaMFlOM) | 3:12 | 2023-09-16 |  |
 | [Apofasi](https://open.spotify.com/track/0OEChhNS8PjgKVm0tdJBAQ) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 2:28 | 2022-02-26 | 2022-02-28 |
 | [Apopse](https://open.spotify.com/track/0GXrOfGwmN3Myw5U4o87jq) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [Skive](https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO) | [Romeo](https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU) | 3:57 | 2022-07-08 | 2022-07-18 |
 | [Apostash Anapnohs](https://open.spotify.com/track/0HUVuymkKobJrTUtcMMUbO) | [FANN](https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269), [Greco Beats](https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV) | [Kyrios Nekrikos Part I](https://open.spotify.com/album/0Is0VPWEV0FhVMfAp0vqwZ) | 2:54 | 2023-01-20 | 2023-01-22 |
@@ -528,7 +529,7 @@
 | [Intro](https://open.spotify.com/track/5NkREaWsEC6OKuCsUZmNFC) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 2:28 | 2022-04-27 | 2022-04-29 |
 | [Intro \(Apo Tous Yponomous\)](https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Metro](https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa) | 3:04 | 2022-05-13 | 2022-11-13 |
 | [Intro In A Minor](https://open.spotify.com/track/032Eib1ph0DoAwlqxPiOvM) | [Beats Pliz](https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E) | [Arte Povera](https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU) | 2:25 | 2023-04-22 | 2023-04-27 |
-| [IOY](https://open.spotify.com/track/6EcBVtQYaDjktpmkk4Vy4F) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [IOY](https://open.spotify.com/album/55Z2F3BSSZmNZARj1fFbyN) | 3:26 | 2023-09-09 |  |
+| [IOY](https://open.spotify.com/track/6EcBVtQYaDjktpmkk4Vy4F) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [IOY](https://open.spotify.com/album/55Z2F3BSSZmNZARj1fFbyN) | 3:26 | 2023-09-09 | 2023-09-17 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [Issues](https://open.spotify.com/track/6yWrVpXkyFjvOjYrYLl8HT) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [rigasbeats](https://open.spotify.com/artist/11Clnp2vx1BgBKgfngjuMZ) | [ATHENA](https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc) | 3:38 | 2022-12-17 | 2022-12-19 |
 | [Istories](https://open.spotify.com/track/1bQGzQGGybgdEVkRIcHx1O) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 4:30 | 2023-05-20 | 2023-05-28 |

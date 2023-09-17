@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-240 songs - 15 hr 22 min
+241 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [22](https://open.spotify.com/track/7jCwf7cmTz39HrFEkIH5Qu) | [Mountain Faith](https://open.spotify.com/artist/0AOY0FBz2frjClgCdTWOlD) | [Mountain Faith Pop Series](https://open.spotify.com/album/6jn2ods9b838kQ5oQh7WtF) | 1:27 | 2022-05-27 | 2022-12-03 |
 | [7 Nation Army](https://open.spotify.com/track/1lEoFZKzfqvuJxap6zUxiJ) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [Grasswhoopin' Party Pack, Vol\. 1](https://open.spotify.com/album/7rshiDjLOz7ID3HsoEUvck) | 2:56 | 2021-08-20 | 2022-01-08 |
 | [99 Problems](https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6) | 2:17 | 2021-08-20 |  |
-| [A Good Hearted Woman](https://open.spotify.com/track/5Za6LTepYPw8X903BdTS90) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Good Hearted Woman](https://open.spotify.com/album/6HYgWWKVD2fxDY8f9vHa8K) | 4:58 | 2023-09-08 |  |
+| [A Good Hearted Woman](https://open.spotify.com/track/5Za6LTepYPw8X903BdTS90) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Good Hearted Woman](https://open.spotify.com/album/6HYgWWKVD2fxDY8f9vHa8K) | 4:58 | 2023-09-08 | 2023-09-17 |
+| [A Good Hearted Woman](https://open.spotify.com/track/5yYiscs4YSUXKm7EdmENQj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Bluegrass](https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO) | 4:58 | 2023-09-15 |  |
 | [A Hard Day's Night](https://open.spotify.com/track/5zDZO6WqKkGk4oa6fkFLwH) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [In Good Company](https://open.spotify.com/album/19tknRni9ciIV9pVGdZbTr) | 2:40 | 2021-08-20 |  |
 | [Aerials](https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [Aerials](https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4) | 3:48 | 2023-02-10 |  |
 | [Africa](https://open.spotify.com/track/4XRQgH9uA2hNcphAjSoPUs) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/0uUGpBzLNyLbbHLiKkJcTk) | 4:03 | 2021-08-20 | 2023-08-19 |

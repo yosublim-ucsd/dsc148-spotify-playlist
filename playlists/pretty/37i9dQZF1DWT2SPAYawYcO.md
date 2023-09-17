@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,711 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,753 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 98 | [Waking Dream](https://open.spotify.com/track/6wuX11M0gbpmdjtMJ0O98c) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [JULIA](https://open.spotify.com/album/6kSnkFQGSNserpUB78IE4m) | 3:06 |
 | 99 | [Body Beat](https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/7JGTe36pDv9qlUAKrII5O6) | 3:01 |
 
-Snapshot ID: `MCwxN2YyNmUzNTMyMzNmZDI4Y2YwNjk5ZThhZDliOTA2YTY1NjQ0YzY4`
+Snapshot ID: `MCxhOGY5ZjQ4YWU0NzBkNGQwYmMyNzIzYzA3NzRlZTM0ZjMyZjc5OTVj`

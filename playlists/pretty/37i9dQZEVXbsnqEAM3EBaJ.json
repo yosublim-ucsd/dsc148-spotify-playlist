@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDU3ODAsMDAwMDAwMDA3Zjk2ZTI5MDFlMGEyZDUxODljNjE5YzVkNGNiNjA1Ng==",
+  "snapshot_id": "MjgyNDU3ODAsMDAwMDAwMDBiNDcwNWRiMmY1MDY0NzlkMzZmNzkzOGFmZGM5YjU2Mw==",
   "tracks": [
     {
       "added_at": "2023-09-15 03:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 350893,
       "name": "Aunque Los Pasos Toquen",
       "url": "https://open.spotify.com/track/2pOAHrx64N8CX44f3bcdrd"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023)",
-        "url": "https://open.spotify.com/album/7vr0BCGwcB5BNuEWwISAO1"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 288230,
-      "name": "Too Far Gone? - Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023",
-      "url": "https://open.spotify.com/track/50T5tj2DdZ0yajhBrSESve"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -191,38 +175,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Love Can Heal (Dark-Side Mix)",
-        "url": "https://open.spotify.com/album/20WPUErgD9ia0v9s1mFqiQ"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 360503,
-      "name": "Love Can Heal - Dark-Side Mix",
-      "url": "https://open.spotify.com/track/7IOJKh6TomNexUadGLns5l"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/6eDULzAgKI7kIWRSY9R6zy"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Human - Accapella Version",
-      "url": "https://open.spotify.com/track/0CrBLW25dHSjbzDhZ0lKjw"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "To The Faithful Departed (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0cg6OTD0VxMSAzQghLeecH"
       },
@@ -255,26 +207,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Listen To Your Heart (Alle Farben Remix)",
-        "url": "https://open.spotify.com/album/2Jg1Ff9HdTkLaz9vjRClo4"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        },
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 146268,
-      "name": "Listen To Your Heart (Alle Farben Remix)",
-      "url": "https://open.spotify.com/track/58XoPq7Ae5SL2TRMF63uD8"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
       },
@@ -291,18 +223,38 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Slave Driver (Live At The Sundown Theatre, Edmonton, UK / May 1973)",
-        "url": "https://open.spotify.com/album/4uaL5ocB7JkJMmuEwzXMUp"
+        "name": "Human",
+        "url": "https://open.spotify.com/album/6eDULzAgKI7kIWRSY9R6zy"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 243520,
-      "name": "Slave Driver - Live At The Sundown Theatre, Edmonton, UK / May 1973",
-      "url": "https://open.spotify.com/track/6umprZ3p3BbDjBFa6bsKd4"
+      "duration_ms": 123000,
+      "name": "Human - Accapella Version",
+      "url": "https://open.spotify.com/track/0CrBLW25dHSjbzDhZ0lKjw"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Listen To Your Heart (Alle Farben Remix)",
+        "url": "https://open.spotify.com/album/2Jg1Ff9HdTkLaz9vjRClo4"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 146268,
+      "name": "Listen To Your Heart (Alle Farben Remix)",
+      "url": "https://open.spotify.com/track/58XoPq7Ae5SL2TRMF63uD8"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -371,22 +323,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Qu\u00e9 hermosa estas all\u00ed",
-        "url": "https://open.spotify.com/album/0jvmmDwFUIFDBBqpsaqpti"
-      },
-      "artists": [
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 314932,
-      "name": "Qu\u00e9 hermosa estas all\u00ed",
-      "url": "https://open.spotify.com/track/17MT53RyOPcyQRWW5BNoAW"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Bad Bitch Supreme",
         "url": "https://open.spotify.com/album/6qgVfNQpi4hKok5r85P7pE"
       },
@@ -407,6 +343,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Qu\u00e9 hermosa estas all\u00ed",
+        "url": "https://open.spotify.com/album/0jvmmDwFUIFDBBqpsaqpti"
+      },
+      "artists": [
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 314932,
+      "name": "Qu\u00e9 hermosa estas all\u00ed",
+      "url": "https://open.spotify.com/track/17MT53RyOPcyQRWW5BNoAW"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Oler A Ti",
         "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
       },
@@ -419,6 +371,22 @@
       "duration_ms": 225013,
       "name": "Oler A Ti",
       "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "The Man in Me (Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978)",
+        "url": "https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
+      "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -512,9 +480,9 @@
           "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 854413,
-      "name": "Perpetual Change - Live: Yale Bowl, USA 24th July 1971",
-      "url": "https://open.spotify.com/track/1AddVSixWyY5c0kJxAYsko"
+      "duration_ms": 428634,
+      "name": "I've Seen All Good People - Live: Yale Bowl, USA 24th July 1971",
+      "url": "https://open.spotify.com/track/79E74cEOPLkFbdOdnErNjl"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -564,17 +532,17 @@
       },
       "artists": [
         {
-          "name": "Modest Mussorgsky",
-          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
         },
         {
           "name": "Manuel del Corral",
           "url": "https://open.spotify.com/artist/1399uZh5GCbxPwTfXkx6mb"
         }
       ],
-      "duration_ms": 122711,
-      "name": "Hopak",
-      "url": "https://open.spotify.com/track/7t4bXpsDCAFMHZvkXCPM0K"
+      "duration_ms": 230380,
+      "name": "Hymn to the Sun",
+      "url": "https://open.spotify.com/track/70XVkRO1xd2vnECuo68hzq"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -591,26 +559,6 @@
       "duration_ms": 245690,
       "name": "The Future is Now",
       "url": "https://open.spotify.com/track/5zGhhbzdQACPf4ABpVWE2d"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Happy Birthday Beautiful",
-        "url": "https://open.spotify.com/album/3dQo0HpK7skdcan7h64LWq"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 198571,
-      "name": "Happy Birthday Beautiful",
-      "url": "https://open.spotify.com/track/4GSuM4hs9whUAxM2jEways"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -692,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
         }
       ],
-      "duration_ms": 319962,
-      "name": "Lights Out - Live In Vienna 1998",
-      "url": "https://open.spotify.com/track/3olFCE0utXa0SwxakIFM85"
+      "duration_ms": 283841,
+      "name": "This Kid's - Live In Vienna 1998",
+      "url": "https://open.spotify.com/track/2kf6PloMCppZSVoJc4hF7v"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -735,22 +683,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Come On Home",
-        "url": "https://open.spotify.com/album/4j3v3azOHHyP15NNqyVuwA"
+        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
+        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
       },
       "artists": [
         {
-          "name": "Danni Baylor",
-          "url": "https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK"
-        },
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 225107,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/1t0lazgh8uQmXzXigJkYe8"
+      "duration_ms": 162000,
+      "name": "THE GIRLS - BLACKPINK THE GAME OST",
+      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -812,33 +756,9 @@
           "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 63226,
-      "name": "Sick Things - Live",
-      "url": "https://open.spotify.com/track/6mlAOexwC7hQkmHCDnFADP"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Rosa Jaguar",
-        "url": "https://open.spotify.com/album/4AVYqLbOTTkUFEesXGcxJ8"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        },
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 183448,
-      "name": "Rosa Jaguar",
-      "url": "https://open.spotify.com/track/2Di3e6XoC6LOZ1bP0vcJlT"
+      "duration_ms": 147720,
+      "name": "School's Out - Live",
+      "url": "https://open.spotify.com/track/3hKo142ynCDNTi0dXj0Jbx"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

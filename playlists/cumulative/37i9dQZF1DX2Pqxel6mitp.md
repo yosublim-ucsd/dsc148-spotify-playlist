@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-172 songs - 10 hr 41 min
+173 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 | 2022-07-01 |  |
 | [Black Horizon](https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 4:49 | 2022-07-29 |  |
 | [Blessings and Blues](https://open.spotify.com/track/3OCKRAHhEjcKIvJLdMKfPK) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH) | [Blessings and Blues](https://open.spotify.com/album/3jwBxGIKQ3tIuENpVWSvoL) | 2:34 | 2022-05-25 | 2023-02-17 |
+| [Blessings and Blues](https://open.spotify.com/track/4hSUdK0NhIX8jmGG06Xmzj) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH) | [So Far](https://open.spotify.com/album/1BwFy9B8atyBeOWMlK0tCN) | 2:34 | 2023-08-23 |  |
 | [Blue River Rising](https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 6:00 | 2022-05-25 |  |
 | [Blues Chase up a Rabbit](https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 2:39 | 2022-05-25 |  |
 | [Blues Up The River](https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 2:34 | 2023-01-13 |  |
@@ -50,7 +51,7 @@
 | [Death Valley Blues](https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Death Valley Blues](https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM) | 2:43 | 2022-07-01 | 2023-04-30 |
 | [Delta by the Beach](https://open.spotify.com/track/5grwVBDib4CwIcvPqAmexS) | [Delta by the Beach](https://open.spotify.com/artist/0OrJZ0NUZEcABLBLSBCiGg), [Flattop Tom](https://open.spotify.com/artist/7383pq5vqDNdGvYepg5Li9) | [Delta by the Beach](https://open.spotify.com/album/2dKeBXScUH7RMIGs7uwqC6) | 2:39 | 2022-05-25 | 2022-05-30 |
 | [Devil Got My Woman](https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Devil Got My Woman](https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr) | 5:15 | 2022-05-25 |  |
-| [Dirtiest Little Darling](https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7) | [Blind Boy Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2), [NO](https://open.spotify.com/artist/7d7puoArkvCslRGWxOxFFC) | [Dirtiest Little Darling / Railroad Bill](https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5) | 3:31 | 2023-03-24 |  |
+| [Dirtiest Little Darling](https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7) | [Blind Boy Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2), [NO](https://open.spotify.com/artist/7d7puoArkvCslRGWxOxFFC) | [Dirtiest Little Darling / Railroad Bill](https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5) | 3:31 | 2023-03-24 | 2023-09-17 |
 | [Driftin' Blues](https://open.spotify.com/track/2GobDOqRDg3TZwM54xIBKX) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Blues Masters: The Greatest](https://open.spotify.com/album/2eb3cUrLqyJrCCEOrH0QFe) | 3:28 | 2022-05-25 | 2022-07-29 |
 | [Driftin' Blues \- Single Version](https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:28 | 2022-07-08 |  |
 | [Drifting](https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o) | [John Littlejohn](https://open.spotify.com/artist/2HzWKvI04SaehwU6bM9GUn) | [When Your Best Friend Turns Their Back On You](https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4) | 6:01 | 2022-05-25 |  |

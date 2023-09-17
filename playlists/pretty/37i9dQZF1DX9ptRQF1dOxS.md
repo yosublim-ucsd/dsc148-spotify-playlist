@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Corinne Bailey Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,968 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,974 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 25 | [Middle of Love](https://open.spotify.com/track/2dqg6jHb6ubKaXi4GbnYi0) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [Soulsville](https://open.spotify.com/album/2FhIa0Dtpy6S5rEklsjuBo) | 4:10 |
 | 26 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
 | 27 | [Killer – A COLORS SHOW](https://open.spotify.com/track/7zGUftLI0F1OcJNwISGt72) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Killer – A COLORS SHOW](https://open.spotify.com/album/6vK8fImEMRRWwGC1sSc7hR) | 2:56 |
-| 28 | [OUCH](https://open.spotify.com/track/1xAnIsvhZGnBg1olQU8EBk) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [OUCH](https://open.spotify.com/album/0EDRMxQdYVVodh736VwLU3) | 2:33 |
+| 28 | [OUCH!](https://open.spotify.com/track/5nJvvGNR2c7zqlFi9rKuZk) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [OUCH!](https://open.spotify.com/album/682IqglnNNtloFxcPSNRQg) | 2:33 |
 | 29 | [Car Park](https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lifetime of Wanting](https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS) | 3:04 |
 | 30 | [no spine](https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 3:02 |
 | 31 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 49 | [Don't Say Love \- R&B Version](https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love \(R&B Version\)](https://open.spotify.com/album/0suvINTZqdzzV37L4XR3tS) | 3:00 |
 | 50 | [i want, doesn't get](https://open.spotify.com/track/04W4goRWBFhucHH5XmHMvt) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [i want, doesn't get](https://open.spotify.com/album/3uN3Syyka3yAaYdfzDPhoi) | 2:31 |
 
-Snapshot ID: `MCw5ZDdiZjMwM2UxNjY2YWU3MzAxYzA5Y2E5Njk1NWYzYWJmMzQ5Mjc2`
+Snapshot ID: `MCw1YmJjNGZmZjRhMWNiOTdlNDAwOTg5NzA0NDJkY2ZhZGY4MmY0ZTlm`

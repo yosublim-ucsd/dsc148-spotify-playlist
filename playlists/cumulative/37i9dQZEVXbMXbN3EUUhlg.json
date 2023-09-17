@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "LUAN CITY 2.0 - FASE 2",
+        "url": "https://open.spotify.com/album/3HZoYUVz3aRNa7xL8LIg8Y"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144307,
+      "name": "AMBIENTE ERRADO - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SWDToufOxRVIngk8c1oZi"
+    },
+    {
+      "album": {
         "name": "AMBIENTE ERRADO (Ao Vivo)",
         "url": "https://open.spotify.com/album/5OyqoxpsEn7XEilamuZcXU"
       },
@@ -936,7 +954,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 144307,
       "name": "AMBIENTE ERRADO - Ao Vivo",
       "url": "https://open.spotify.com/track/2nfnhFDhwMet9yZodpGfn3"
@@ -1634,6 +1652,28 @@
       "duration_ms": 225671,
       "name": "Baby Me Atende",
       "url": "https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy"
+    },
+    {
+      "album": {
+        "name": "Back for More (with Anitta)",
+        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
     },
     {
       "album": {
@@ -5124,7 +5164,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
@@ -7288,7 +7328,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 143999,
       "name": "Halls na L\u00edngua - Remix",
       "url": "https://open.spotify.com/track/2uGk60j3LR5bp6tGq9vtII"
@@ -16502,7 +16542,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 147132,
       "name": "Voltou Com Quem N\u00e3o Voltava - Ao Vivo",
       "url": "https://open.spotify.com/track/0Q1oLvAI9QaD3DIlvluTqx"

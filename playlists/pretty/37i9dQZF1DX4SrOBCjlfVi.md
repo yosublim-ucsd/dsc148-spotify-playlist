@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Rod Wave and more\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,045 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,293 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [FRIED](https://open.spotify.com/track/3Ni3aIyhb653KodcYFae0L) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [FRIED](https://open.spotify.com/album/0yvrH8FMw4q4rJulnhRs5K) | 1:48 |
 | 51 | [Day I Got Shot](https://open.spotify.com/track/5tSNezeNAkfObxNhlTqhXd) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Day I Got Shot](https://open.spotify.com/album/0lz246QSLrOp5EAE7wfbNG) | 2:48 |
 
-Snapshot ID: `MCxkMTRkNGMzMjc2NzA4OTI5NTA3N2I5YWZlOTBiMDllNjZlMDg3Yzc5`
+Snapshot ID: `MCw5ZjEzNDgzZDA1NjhlZGZmYzYwNzVkODYyNGExNzk5MTlkYTFmOTlm`

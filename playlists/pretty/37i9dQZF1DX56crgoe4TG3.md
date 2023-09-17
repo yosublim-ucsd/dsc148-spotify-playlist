@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,285 likes - 130 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,341 likes - 130 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sun and Water \(Here Comes the Sun/Waters of March\)](https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Sun and Water \(Here Comes the Sun/Waters of March\)](https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh) | 3:34 |
 | 2 | [Shape Of You](https://open.spotify.com/track/7nrwVt1Zgt2r9WT6Yo9emQ) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Solid Butter](https://open.spotify.com/album/4oJM8xjP495Q7WxcyYD3id) | 3:53 |
 | 3 | [Listen To The Radio](https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Listen To The Radio](https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg) | 4:00 |
-| 4 | [A Good Hearted Woman](https://open.spotify.com/track/5Za6LTepYPw8X903BdTS90) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Good Hearted Woman](https://open.spotify.com/album/6HYgWWKVD2fxDY8f9vHa8K) | 4:58 |
+| 4 | [A Good Hearted Woman](https://open.spotify.com/track/5yYiscs4YSUXKm7EdmENQj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Bluegrass](https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO) | 4:58 |
 | 5 | [Feelin' Good Again](https://open.spotify.com/track/6NPQXZup3ytDnmgWFlaqqU) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:31 |
 | 6 | [Southern Cross](https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0), [Darrell Scott String Band](https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh), [John Cowan](https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY) | [Old Cane Back Rocker](https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik) | 5:15 |
 | 7 | [Wake Me When It's Over](https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wake Me When It's Over](https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz) | 4:18 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 129 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 | 130 | [On The Road Again](https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Country Mountain Tributes: The Songs of Willie Nelson](https://open.spotify.com/album/5hVPIFkN55JJWu2iM6CW5D) | 3:22 |
 
-Snapshot ID: `MCw5YTU2NWU5MmRjNDc4ZDM1NDA0MzA4NmNlMWQxOWY2NmFmYzY5OTU1`
+Snapshot ID: `MCxlOGE1MThlODM3NjM0ZDNhMzdjYzEzNzcyNmQzNzJhOGRiYTU1NmU1`

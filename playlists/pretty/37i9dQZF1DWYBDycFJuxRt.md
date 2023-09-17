@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/322039?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,490 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,549 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Blind man theory](https://open.spotify.com/track/5iRhjCtqluCy2YEGRws7UA) | [ISH\-ONE](https://open.spotify.com/artist/0ywLwPt2AsDYor1f8z9YRP), [TEAM2MVCH](https://open.spotify.com/artist/4uT1lXYK6BODZs8UmLyMBn) | [Illuminate](https://open.spotify.com/album/24WpRSwrojMLNDIBGMDIlw) | 2:35 |
 | 80 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/69xcj07x7CoDq2X82QA14j) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4h3k67qvKQdWTM7LWpSYOH) | 5:12 |
 
-Snapshot ID: `MCw5OGNhOWVlNjE1YzMxOWVkNjU4OTNmZDFmZTE2ZGE3MTY1YzczMmJl`
+Snapshot ID: `MCwwMWI4YjQzZTQ5N2QyZWE3MTNjMzY3NTM2YjEzNzY0MzYyYTFkNmJl`

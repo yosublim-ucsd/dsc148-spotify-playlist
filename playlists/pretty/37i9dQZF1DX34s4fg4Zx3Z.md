@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,467 likes - 98 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,475 likes - 98 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 97 | [hey..\. it's me](https://open.spotify.com/track/0b9K97p7kD4JQeRRM4uFrk) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [hey..\. it's me](https://open.spotify.com/album/0WxEFNcfuumej9TWPvQi3D) | 2:50 |
 | 98 | [em lai di dau day?](https://open.spotify.com/track/1JZUgjMN8onMfdCAQxb0xb) | [Cáu](https://open.spotify.com/artist/79RDZmnftJOANOKbYtEo5e) | [em lai di dau day?](https://open.spotify.com/album/1mXPFMkwnS8WP19cgIO0oy) | 2:51 |
 
-Snapshot ID: `MCxiNzkwOTlmZWRhMjBjMGIxZmZlMDBmNDNhMDc4MWU2NmRmMTllNzQ3`
+Snapshot ID: `MCxlMjZhOTQ3ZjgxYzU5ZGQzNjBjMDNiNTc4ZTUzNjUzYWU0ZjFmNDE0`

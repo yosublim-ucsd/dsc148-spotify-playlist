@@ -4,7 +4,7 @@
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-133 songs - 8 hr 5 min
+134 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Playing with Plastic Beads in a Cup](https://open.spotify.com/track/15oRLd0H3ooRIJ4e5oF9iH) | [Donna Elizabeth](https://open.spotify.com/artist/24kQ4acClf5y4bbFpK30e4) | [ASMR Plastic](https://open.spotify.com/album/1h3ZFqNc6dN9RL1ywE1dx4) | 3:09 | 2021-11-12 |  |
 | [Playing with Rubber Cat Toy](https://open.spotify.com/track/1nf0NCBNF5OoxVMuhwsqxo) | [ASMR Universe](https://open.spotify.com/artist/2b6aLbBGomJ14xcyzSLz89) | [Little Triggers](https://open.spotify.com/album/0Kzk3egGX2gCDuVDnM021y) | 3:54 | 2022-07-14 |  |
 | [Playing with Small Phone](https://open.spotify.com/track/1hoOVYXHpeJyEJdXXuGruO) | [My ASMR Moments](https://open.spotify.com/artist/4fDLOWMUohFG9nRjxY7aHL) | [Dreams in ASMR](https://open.spotify.com/album/1mNdthvtI5W5sOlNc6WlV7) | 4:57 | 2021-11-12 |  |
-| [Putting the Coins Into Purses](https://open.spotify.com/track/49IoPmLj9SYslxqycNgKEl) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Sorting Fantasy & Medieval Coins \| ASMR Cozy Basics](https://open.spotify.com/album/53mRZ0RNRh0pMAkFMrhLV8) | 5:50 | 2021-11-12 |  |
+| [Putting the Coins Into Purses](https://open.spotify.com/track/49IoPmLj9SYslxqycNgKEl) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Sorting Fantasy & Medieval Coins \| ASMR Cozy Basics](https://open.spotify.com/album/53mRZ0RNRh0pMAkFMrhLV8) | 5:50 | 2021-11-12 | 2023-09-17 |
+| [Putting the Coins Into Purses](https://open.spotify.com/track/7yvcrUSEg3bgPw0UxoU3xc) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Sorting Fantasy & Medieval Coins \| ASMR Cozy Basics](https://open.spotify.com/album/7Amaypzgbs3yueIMb6AeYF) | 5:50 | 2023-09-08 |  |
 | [Putting You To Sleep Pt.7](https://open.spotify.com/track/4qOBlczmSyBUq6Drs8PYea) | [Jojo's ASMR](https://open.spotify.com/artist/7ivkAId7fKuhHHCKi28jSy) | [Putting You To Sleep](https://open.spotify.com/album/3BmeQRVYXzHccay4m7v8LH) | 5:36 | 2021-11-12 |  |
 | [Raros sonidos de libros ASMR](https://open.spotify.com/track/5UwGmjRlaGMWgoMwTuG8ik) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [ASMR Varios](https://open.spotify.com/album/1rOQR4ZuFPCAhEDFANTLl1) | 1:36 | 2021-11-12 | 2023-09-05 |
 | [Removing Nail Polish](https://open.spotify.com/track/6BUAMwW7lmtL8YQxC8Fmao) | [Belinda ASMR](https://open.spotify.com/artist/54SWHdIOdwWYOlgyF9gVJ6) | [Removing Nail Polish](https://open.spotify.com/album/1UowKiwaFXbz3NfJ7Rd5hz) | 3:28 | 2022-07-14 |  |

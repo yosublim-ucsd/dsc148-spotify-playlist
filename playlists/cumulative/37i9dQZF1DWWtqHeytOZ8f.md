@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-599 songs - 2 day 5 hr 13 min
+600 songs - 2 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [Shadows \(The Light of Light\)](https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [Shadows \(The Light of Light\)](https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2) | 4:34 | 2021-10-20 |  |
 | [Shifting Waveforms](https://open.spotify.com/track/5AQBGyLSAo7WDcminnWzd7) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Shifting Waveforms](https://open.spotify.com/album/4g5jCuB4W9PgM079v3scP5) | 3:45 | 2021-10-20 | 2022-07-29 |
 | [Shortwave](https://open.spotify.com/track/2hqhIH3UeFZ4Sa2eDpbEMw) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There's a Riot Going On](https://open.spotify.com/album/32XGOlFpD3mpyLXQfyKXvJ) | 5:44 | 2021-10-20 | 2022-07-29 |
-| [Shortwave](https://open.spotify.com/track/3pwTbqkqTbko4Nds3togoX) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There’s A Riot Going On](https://open.spotify.com/album/05TwuwqwLCm1V0GimPcXrD) | 5:44 | 2021-10-20 |  |
+| [Shortwave](https://open.spotify.com/track/3pwTbqkqTbko4Nds3togoX) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There’s A Riot Going On](https://open.spotify.com/album/05TwuwqwLCm1V0GimPcXrD) | 5:44 | 2021-10-20 | 2023-09-17 |
 | [Silence](https://open.spotify.com/track/1WWe3wNH9u2Z5Hg5GbEQ9A) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/1La939vqONBIqsOFnsUmOr) | 3:00 | 2021-10-20 | 2022-11-06 |
 | [Silence](https://open.spotify.com/track/4hDzsyjdmMSA89mHQNgHdO) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/3SS8Pj4KizsVF4d4nHvXOo) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [Silencio y Amancer](https://open.spotify.com/track/1A9iQiTMgYoc8Qky2dTDSe) | [Dyb](https://open.spotify.com/artist/2XaoeOBIkNSE1V4DeGueLn) | [Al Margen de los Sueños](https://open.spotify.com/album/2s2AevR8DMOgSr1VwFSFAX) | 4:16 | 2022-12-21 | 2023-02-16 |
@@ -486,6 +486,7 @@
 | [Stepping Out of Sync \- Steffi's Broken Dub Mix](https://open.spotify.com/track/31bbvNX7ghgO3pLvUp50iK) | [Makeness](https://open.spotify.com/artist/5xQkKp2z5Kt3OYoOcla503), [Steffi](https://open.spotify.com/artist/644PvPeYIyoq0n0eBP5fxG) | [Stepping Out of Sync \(Steffi's Broken Dub Mix\)](https://open.spotify.com/album/5IhJzzeet9j3BLN0OSNeK9) | 5:20 | 2021-10-20 | 2022-04-21 |
 | [Still Spaced](https://open.spotify.com/track/0Nhm3rU3gckWOSOebmfWmR) | [Bob Boilen](https://open.spotify.com/artist/5BQdg2fUFKdhtwWAOU6q18) | [Hidden Smiles](https://open.spotify.com/album/7d1tWxqSfdUBwB7FRqFJqU) | 7:59 | 2021-10-20 | 2022-07-29 |
 | [Stillness](https://open.spotify.com/track/0dX6Scf3sYmoD4fgZJxcQF) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Stillness](https://open.spotify.com/album/4nqEiuOb8dB62WoPn5cO7J) | 3:16 | 2021-10-20 | 2022-07-04 |
+| [Stood in Highland Winds](https://open.spotify.com/track/4gcjjdE7qykHgANCgCyeCI) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [You're Listening](https://open.spotify.com/album/3YsYqh84csVSujMaLMcn8s) | 3:53 | 2021-10-20 |  |
 | [Stood in Highland Winds](https://open.spotify.com/track/6vRkeoG3OGkbVOXAInMiR1) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Stood in Highland Winds](https://open.spotify.com/album/3FHqMTTCUOKuyDSAfMwpeV) | 3:53 | 2021-10-20 | 2022-05-20 |
 | [Stranded](https://open.spotify.com/track/2zbwLUD1TbAls6wNUAYYxC) | [Landon Caldwell](https://open.spotify.com/artist/7HWeoxxxg9n9Lg5JuitzvQ) | [Deep Strand](https://open.spotify.com/album/7EeJcmZi54FaSCD66nTZJN) | 1:36 | 2021-10-20 | 2022-07-29 |
 | [Stratum](https://open.spotify.com/track/5xgMuXY71hCb7VLTqTY6nx) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [Stratum](https://open.spotify.com/album/5dOc0fmih3oQHSU1c4dU5k) | 7:11 | 2021-10-20 | 2022-07-09 |

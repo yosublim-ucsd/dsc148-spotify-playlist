@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn?si=rTglW8cHTY\-t8QgrCfw0vw">Neon Adejo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,334 likes - 110 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,367 likes - 110 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 109 | [Church](https://open.spotify.com/track/4hv60ZZey1ngWek5Kb2X9i) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [Church](https://open.spotify.com/album/0mXnLS5qqlw5yo1Tq5Rbci) | 2:27 |
 | 110 | [Webale](https://open.spotify.com/track/0TgmJrYEQMm6BF5toik8th) | [Kevin Caleb](https://open.spotify.com/artist/4OaLdeytt5rqkH0x69PTVW) | [Webale](https://open.spotify.com/album/72o0W81ZxYNLx5KTLv03qM) | 3:16 |
 
-Snapshot ID: `MCw5NWI2MzViNTNhMGVlYzk0NDNkMWIzNmQxNzJmZWJjMWNiMmUwZDE1`
+Snapshot ID: `MCw1ODYwOGQ0YmJiYjg3NTNkOTRiZWQxZWJiMTRjYjhkYjY2ZmU4YmJk`

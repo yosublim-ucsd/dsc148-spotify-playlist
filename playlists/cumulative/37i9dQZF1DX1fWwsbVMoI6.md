@@ -4,7 +4,7 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Orquesta Candela
 
-131 songs - 9 hr 9 min
+132 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Si Supieras](https://open.spotify.com/track/5rTBTSxkCV2keoEaVGqFHQ) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [No Te Confundas… Sigue la Moda](https://open.spotify.com/album/276eFq7IZTyldke1uhvnXz) | 4:00 | 2022-02-11 |  |
 | [Si Supieras](https://open.spotify.com/track/2cRSwtruzYvuCwg8rzbLIL) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [No Te Confundas...sigue la Moda](https://open.spotify.com/album/6QW5tBaFCDcWnjCgaiKiSr) | 4:05 | 2022-02-11 | 2022-07-29 |
 | [Siempre Pierdo en el Amor](https://open.spotify.com/track/0YVUUyBOAKembHPXCSR8Lt) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 3:12 | 2022-02-11 | 2023-06-04 |
+| [Siempre Pierdo En El Amor](https://open.spotify.com/track/5Ti64XuKfJ3WOEBtsmgQwo) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Solo](https://open.spotify.com/album/4b8oxjXF5LqxnOD5nyTJ8j) | 3:14 | 2023-03-31 |  |
 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/6mJObKwNw6bwuJcrvjoCA1) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Solo](https://open.spotify.com/album/1SWOl6JImOQeV9zdSkbEsj) | 3:14 | 2023-03-31 | 2023-09-03 |
 | [Siempre pierdo en el Amor](https://open.spotify.com/track/0jEaIweH6qBspoAjehVVHx) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Clásicos de Oro](https://open.spotify.com/album/0dLDoxUSEuj7vZvklIcqmh) | 3:15 | 2022-02-11 | 2022-07-29 |
 | [Soy Solterito](https://open.spotify.com/track/5kog9fwWFbCwoOc8J48dQg) | [Grupo Alegría](https://open.spotify.com/artist/3NeLWXcGcsLsHT5Ypw0MF5) | [Éxitos de Siempre](https://open.spotify.com/album/4Nl0McFcWiLkBUVdjFJveW) | 4:30 | 2022-02-11 | 2022-07-14 |
@@ -123,7 +124,7 @@
 | [Te Juro Que Te Amo](https://open.spotify.com/track/0FM3J2SxnI6DiKNU0UMqyD) | [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mi Trayectoria](https://open.spotify.com/album/4lcFiYbjms1U8DhzkzunmF) | 6:03 | 2022-11-11 | 2022-11-13 |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/2yCpEZSEC0iw94ORV8qkdU) | [Claveles de la Cumbia](https://open.spotify.com/artist/6xONmQbNz6KhUEabbxPb6S) | [Seguimos Imparables](https://open.spotify.com/album/24DilvlrCWcXijotIJLVhm) | 5:58 | 2022-02-11 | 2022-07-29 |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/122MuCOG99PHG2mpnWeJrj) | [Claveles de la Cumbia](https://open.spotify.com/artist/6xONmQbNz6KhUEabbxPb6S) | [Te Vas Te Vas](https://open.spotify.com/album/2GWUqR8sZM4hjcMM5LddRx) | 6:03 | 2022-02-11 |  |
-| [Tres Cruces](https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Amos del Ritmo Caliente, Vol\. 2](https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md) | 3:51 | 2022-11-11 |  |
+| [Tres Cruces](https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Amos del Ritmo Caliente, Vol\. 2](https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md) | 3:51 | 2022-11-11 | 2023-09-17 |
 | [Tres cruces](https://open.spotify.com/track/5ZpvU9WPs6hIiYDkrNyLQN) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Cumbias de Oro Vol\. 2](https://open.spotify.com/album/5SPbW2Q9beZM1TzPUE5OdV) | 3:51 | 2022-02-11 | 2022-07-29 |
 | [Tu amor fue una mentira](https://open.spotify.com/track/62JXVPey9QjeB8mxAQDLLu) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Vol.11 Tu amor fué una mentira](https://open.spotify.com/album/01MVw4qCCfafHo3k894gHT) | 3:36 | 2022-02-11 | 2022-07-29 |
 | [Tu Amor Fue una Mentira](https://open.spotify.com/track/6BnqTZLQNh3bLSuGOHqLoa) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:36 | 2022-02-11 |  |

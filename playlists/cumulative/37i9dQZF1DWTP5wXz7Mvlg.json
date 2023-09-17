@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "Changing Moods",
+        "url": "https://open.spotify.com/album/0F34OSuJLMMbmVG4IyITXW"
+      },
+      "artists": [
+        {
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
+        },
+        {
+          "name": "Lorna King",
+          "url": "https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269557,
+      "name": "Changing Moods",
+      "url": "https://open.spotify.com/track/2yJFxmKxB3B2OX6M9CFFP3"
+    },
+    {
+      "album": {
         "name": "Innerground 100",
         "url": "https://open.spotify.com/album/51VA7pPbQh9AZxv8LDchbS"
       },
@@ -418,7 +440,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 269557,
       "name": "Changing Moods",
       "url": "https://open.spotify.com/track/65GTRsXRYgSh6Se0ziQ6ep"
@@ -886,10 +908,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 292408,
       "name": "Getting Hot",
       "url": "https://open.spotify.com/track/0R7tFVDEPuMu1euN2PC7GU"
+    },
+    {
+      "album": {
+        "name": "Getting Hot / Come To Mind",
+        "url": "https://open.spotify.com/album/7lNMy911thnBKt0Pe2BCKw"
+      },
+      "artists": [
+        {
+          "name": "Beeson",
+          "url": "https://open.spotify.com/artist/2Bz33Qcq5GYQK0Cfk2YT9I"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292408,
+      "name": "Getting Hot",
+      "url": "https://open.spotify.com/track/6v1bVEs8AdUUIm8geyvDww"
     },
     {
       "album": {
@@ -1366,10 +1406,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 267906,
       "name": "Moore's Law",
       "url": "https://open.spotify.com/track/4lgVbCE0R1gnM5igDvLtfh"
+    },
+    {
+      "album": {
+        "name": "Moore's Law / Flawless",
+        "url": "https://open.spotify.com/album/3mEICIrmCgNIAG0bJhUhlM"
+      },
+      "artists": [
+        {
+          "name": "Alibi",
+          "url": "https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267906,
+      "name": "Moore's Law",
+      "url": "https://open.spotify.com/track/5iwnGekawbmdsGGGpALiSr"
     },
     {
       "album": {

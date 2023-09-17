@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 13352,
+  "num_followers": 13468,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODg1NmM5Y2JkMzEzNGFhOWUwMWI4NjZhODk1OWFkOTNlNmQ5YzNh",
+  "snapshot_id": "MCxiNWNjZmJhOGQ0ZjFjNDYzZWM4MWFlYmRlODA4OTBhNjZmYTEyNDNk",
   "tracks": [
     {
       "added_at": "2023-09-12 14:35:18",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7"
+        "name": "Take a Breath",
+        "url": "https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu"
       },
       "artists": [
         {
-          "name": "Homesong",
-          "url": "https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s"
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
         }
       ],
-      "duration_ms": 229000,
-      "name": "The Long Way Home",
-      "url": "https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf"
+      "duration_ms": 170000,
+      "name": "Take a Breath",
+      "url": "https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob"
     },
     {
       "added_at": "2023-09-12 14:35:18",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7"
+      },
+      "artists": [
+        {
+          "name": "Homesong",
+          "url": "https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "The Long Way Home",
+      "url": "https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf"
+    },
+    {
+      "added_at": "2023-09-12 14:35:18",
+      "album": {
         "name": "Morning on a STHLM Island",
         "url": "https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 168374,
       "name": "Morning on a STHLM Island",
       "url": "https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr"
-    },
-    {
-      "added_at": "2023-09-12 14:35:18",
-      "album": {
-        "name": "Beautiful Walk",
-        "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
-      },
-      "artists": [
-        {
-          "name": "Loftet",
-          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
-        }
-      ],
-      "duration_ms": 165501,
-      "name": "New Lakes",
-      "url": "https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs"
     },
     {
       "added_at": "2023-09-12 14:35:18",
@@ -731,34 +731,18 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
-        "name": "Take a Breath",
-        "url": "https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu"
+        "name": "Beautiful Walk",
+        "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
       },
       "artists": [
         {
-          "name": "Moon Garden",
-          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Take a Breath",
-      "url": "https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob"
-    },
-    {
-      "added_at": "2023-09-12 14:35:18",
-      "album": {
-        "name": "From the meadow",
-        "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
-      },
-      "artists": [
-        {
-          "name": "Alana Westwood",
-          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
-        }
-      ],
-      "duration_ms": 135144,
-      "name": "Song from the meadow",
-      "url": "https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg"
+      "duration_ms": 165501,
+      "name": "New Lakes",
+      "url": "https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs"
     },
     {
       "added_at": "2023-09-12 14:35:18",
@@ -779,6 +763,22 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj"
+      },
+      "artists": [
+        {
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+        }
+      ],
+      "duration_ms": 167678,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp"
+    },
+    {
+      "added_at": "2023-09-12 14:35:18",
+      "album": {
         "name": "Back to life",
         "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj"
+        "name": "From the meadow",
+        "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
       },
       "artists": [
         {
-          "name": "Forest Gold",
-          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+          "name": "Alana Westwood",
+          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
         }
       ],
-      "duration_ms": 167678,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp"
+      "duration_ms": 135144,
+      "name": "Song from the meadow",
+      "url": "https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg"
     },
     {
       "added_at": "2023-09-12 14:35:18",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7"
-      },
-      "artists": [
-        {
-          "name": "Homesong",
-          "url": "https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Through the Clouds",
-      "url": "https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu"
-    },
-    {
-      "added_at": "2023-09-12 14:35:18",
-      "album": {
         "name": "The Blue Dragon",
         "url": "https://open.spotify.com/album/69idyZhdF1As3JRdfZhXBz"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 219643,
       "name": "The Blue Dragon",
       "url": "https://open.spotify.com/track/6oNdphvzPO37XFCLtZMKVC"
+    },
+    {
+      "added_at": "2023-09-12 14:35:18",
+      "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7"
+      },
+      "artists": [
+        {
+          "name": "Homesong",
+          "url": "https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Through the Clouds",
+      "url": "https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu"
     },
     {
       "added_at": "2023-09-12 14:35:18",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
-        "name": "Secunda Carmina",
-        "url": "https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG"
-      },
-      "artists": [
-        {
-          "name": "Valeria Pintile",
-          "url": "https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "Secunda Carmina",
-      "url": "https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3"
-    },
-    {
-      "added_at": "2023-09-12 14:35:18",
-      "album": {
         "name": "Above all",
         "url": "https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 144500,
       "name": "Above all",
       "url": "https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L"
+    },
+    {
+      "added_at": "2023-09-12 14:35:18",
+      "album": {
+        "name": "Secunda Carmina",
+        "url": "https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG"
+      },
+      "artists": [
+        {
+          "name": "Valeria Pintile",
+          "url": "https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Secunda Carmina",
+      "url": "https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3"
     },
     {
       "added_at": "2023-09-12 14:35:18",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
+        "name": "Calm in Green",
+        "url": "https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo"
+      },
+      "artists": [
+        {
+          "name": "Pontiver Bogross",
+          "url": "https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw"
+        }
+      ],
+      "duration_ms": 197447,
+      "name": "Calm in Green",
+      "url": "https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e"
+    },
+    {
+      "added_at": "2023-09-12 14:35:18",
+      "album": {
         "name": "Evening meditation",
         "url": "https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
-        "name": "Calm in Green",
-        "url": "https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo"
-      },
-      "artists": [
-        {
-          "name": "Pontiver Bogross",
-          "url": "https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw"
-        }
-      ],
-      "duration_ms": 197447,
-      "name": "Calm in Green",
-      "url": "https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e"
-    },
-    {
-      "added_at": "2023-09-12 14:35:18",
-      "album": {
         "name": "Noruega",
         "url": "https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
-        "name": "Nota Placidit\u00e0",
-        "url": "https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC"
-      },
-      "artists": [
-        {
-          "name": "Alfred Mizzi",
-          "url": "https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp"
-        }
-      ],
-      "duration_ms": 151480,
-      "name": "Nota Placidit\u00e0",
-      "url": "https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv"
-    },
-    {
-      "added_at": "2023-09-12 14:35:18",
-      "album": {
         "name": "Song Of The Willow",
         "url": "https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 138139,
       "name": "Song Of The Willow",
       "url": "https://open.spotify.com/track/2qauTYzfcc16QprcwV8put"
+    },
+    {
+      "added_at": "2023-09-12 14:35:18",
+      "album": {
+        "name": "Nota Placidit\u00e0",
+        "url": "https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC"
+      },
+      "artists": [
+        {
+          "name": "Alfred Mizzi",
+          "url": "https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp"
+        }
+      ],
+      "duration_ms": 151480,
+      "name": "Nota Placidit\u00e0",
+      "url": "https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv"
     },
     {
       "added_at": "2023-09-12 14:35:18",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-09-12 14:35:18",
       "album": {
-        "name": "...comes sunshine",
-        "url": "https://open.spotify.com/album/27PmpZSLnHo4qjl3f7R7bm"
-      },
-      "artists": [
-        {
-          "name": "Ava Cerasoli",
-          "url": "https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "...comes sunshine",
-      "url": "https://open.spotify.com/track/4HfWzLFR1tHW1rQuzKW3Be"
-    },
-    {
-      "added_at": "2023-09-12 14:35:18",
-      "album": {
         "name": "At Dawn",
         "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 134414,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri"
+    },
+    {
+      "added_at": "2023-09-12 14:35:18",
+      "album": {
+        "name": "...comes sunshine",
+        "url": "https://open.spotify.com/album/27PmpZSLnHo4qjl3f7R7bm"
+      },
+      "artists": [
+        {
+          "name": "Ava Cerasoli",
+          "url": "https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "...comes sunshine",
+      "url": "https://open.spotify.com/track/4HfWzLFR1tHW1rQuzKW3Be"
     },
     {
       "added_at": "2023-09-12 14:35:18",

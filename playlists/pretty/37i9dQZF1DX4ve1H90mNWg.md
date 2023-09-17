@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. <br/> Cover:  <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=d14048b372484137">Teezo Touchdown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,700 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,742 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 14 | [Motion](https://open.spotify.com/track/43xk74ljarl0Ac73TxxXFm) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Motion](https://open.spotify.com/album/1qxKTielQitxvspLsPgHuR) | 2:49 |
 | 15 | [DELRESTO \(ECHOES\)](https://open.spotify.com/track/04CXnx5jbmTSXhItqc13fs) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DELRESTO \(ECHOES\)](https://open.spotify.com/album/0219TxSZyWhfo1DgafkjX2) | 4:34 |
 | 16 | [Go](https://open.spotify.com/track/1SaBjge0Wc65VjzwlRVtof) | [David Saint Val](https://open.spotify.com/artist/0KrQ2j4V5xKu9eNVC2UP6J) | [Go](https://open.spotify.com/album/7noQPTRv1Xo3rCciuswmj0) | 2:37 |
-| 17 | [I <3 My Nigga](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My Nigga](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 |
+| 17 | [I <3 My N\*\*\*a](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My N\*\*\*a](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 |
 | 18 | [Submarine.2](https://open.spotify.com/track/5uSFZPRYgy4HZus1xcqoIl) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX), [Fendi P](https://open.spotify.com/artist/4OYcOsMNf3EpRcS49S0JlW) | [JAM DEJO.2](https://open.spotify.com/album/7ruLPRa0UbNhNqUtaYQHet) | 4:45 |
 | 19 | [Walk](https://open.spotify.com/track/4YC6s9M0ZGZymTZUQBO4f6) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Walk](https://open.spotify.com/album/5FybWLKWTqIvn2lMKnjiQt) | 2:44 |
 | 20 | [emoTional](https://open.spotify.com/track/4KdCfqgaZ14QyGg5bQ5GME) | [Bobby Sessions](https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL) | [emoTional](https://open.spotify.com/album/08oqwgx6X8DOaikW1ajwfK) | 3:28 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 64 | [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 |
 | 65 | [Vacant](https://open.spotify.com/track/2mMIkj4LBzhP3aZcwWRoKO) | [GGO Kurt](https://open.spotify.com/artist/0vz5Vjiz8a9dq9PEBACdRG) | [Vacant](https://open.spotify.com/album/6lTDtpozVlXzggm0IQz1vp) | 2:21 |
 
-Snapshot ID: `MCw1OTY3NmIyMGY2NGE3ZjE5ZWVlYmQ5ZDk4YjEzYTVkZjBjYWEwZWZj`
+Snapshot ID: `MCw4OWYwNjgwMTFkMWFhYWE1NGI3YTlkMjkxMmRiZWQ3OWYwNGYyOTk3`

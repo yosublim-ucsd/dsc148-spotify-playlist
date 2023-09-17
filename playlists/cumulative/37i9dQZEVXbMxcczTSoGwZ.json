@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 152124,
       "name": "Clean",
       "url": "https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK"
@@ -4030,7 +4030,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -7875,6 +7875,24 @@
     },
     {
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "album": {
         "name": "GRINDR MAYHEM (feat. BESS)",
         "url": "https://open.spotify.com/album/4FrHzKtnbUyn3QlEEgy9I8"
       },
@@ -10615,6 +10633,28 @@
     },
     {
       "album": {
+        "name": "It's Crazy It's Party (feat. Tommy Cash)",
+        "url": "https://open.spotify.com/album/0YFNkhRzugyL2Td9loECCh"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194003,
+      "name": "It's Crazy It's Party (feat. Tommy Cash)",
+      "url": "https://open.spotify.com/track/1FtibWDIm2kxf7zOlUcXvx"
+    },
+    {
+      "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
       },
@@ -13140,10 +13180,28 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 186925,
       "name": "Kolmatta linjaa",
       "url": "https://open.spotify.com/track/11hOJIqY45K2vunLNQmTUH"
+    },
+    {
+      "album": {
+        "name": "Hupsis",
+        "url": "https://open.spotify.com/album/0IwhR2jwfVmUX7kUJnK8S2"
+      },
+      "artists": [
+        {
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187175,
+      "name": "Kolmatta linjaa",
+      "url": "https://open.spotify.com/track/5Qs9ffkKJ2ydaUx9S9cKcq"
     },
     {
       "album": {
@@ -13260,7 +13318,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 197085,
       "name": "Kompastun",
       "url": "https://open.spotify.com/track/0y0FKZsyh3vtqVGpDKr8oJ"
@@ -13612,7 +13670,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 153792,
       "name": "Kylm\u00e4 (feat. Etta)",
       "url": "https://open.spotify.com/track/6DZb09dWZhI7dF4wLRRxfz"
@@ -13946,7 +14004,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 163818,
       "name": "K\u00f6yh\u00e4 laulaa (feat. Diandra)",
       "url": "https://open.spotify.com/track/3csvI7Z6Zi0uiQbbpUkvhE"
@@ -14058,6 +14116,28 @@
       "duration_ms": 176213,
       "name": "Laineet (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/12wxMb290Ty8grRXjsG62V"
+    },
+    {
+      "album": {
+        "name": "Lambo (feat. VJ)",
+        "url": "https://open.spotify.com/album/0KpXeYkbN15bBnD3ITxnup"
+      },
+      "artists": [
+        {
+          "name": "DAVI",
+          "url": "https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV"
+        },
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130059,
+      "name": "Lambo (feat. VJ)",
+      "url": "https://open.spotify.com/track/0IJEnvu1p4OIzkY8UiQXCt"
     },
     {
       "album": {
@@ -17867,6 +17947,24 @@
     },
     {
       "album": {
+        "name": "Muistipalatsi",
+        "url": "https://open.spotify.com/album/2EEc1yPPP1MEObQoOFcXIa"
+      },
+      "artists": [
+        {
+          "name": "Stam1na",
+          "url": "https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297733,
+      "name": "Muistipalatsi",
+      "url": "https://open.spotify.com/track/3GqvZPF0tXR0N0rO4QrvUg"
+    },
+    {
+      "album": {
         "name": "Muistuta mua (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
         "url": "https://open.spotify.com/album/4PB2f8Yd39k9iQfFi1KXV3"
       },
@@ -19495,6 +19593,28 @@
     },
     {
       "album": {
+        "name": "Oikee mies",
+        "url": "https://open.spotify.com/album/4KZoMrIueuR2gyZrejUlN1"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        },
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "Oikee mies",
+      "url": "https://open.spotify.com/track/1D7EPvrBZpKfa8ff0nOVtn"
+    },
+    {
+      "album": {
         "name": "Oisko t\u00e4\u00e4 t\u00e4s / Popinpelko",
         "url": "https://open.spotify.com/album/67o8azfNdjm3DER0vezrN3"
       },
@@ -19724,6 +19844,28 @@
       "duration_ms": 261543,
       "name": "On BS",
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+    },
+    {
+      "album": {
+        "name": "On My Love",
+        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222911,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
       "album": {
@@ -23958,6 +24100,28 @@
       "duration_ms": 162000,
       "name": "Silkkii",
       "url": "https://open.spotify.com/track/3kRNvLMvGH0nCZJAxueCg1"
+    },
+    {
+      "album": {
+        "name": "Hupsis",
+        "url": "https://open.spotify.com/album/0IwhR2jwfVmUX7kUJnK8S2"
+      },
+      "artists": [
+        {
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
+        },
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154098,
+      "name": "Silkkiin verhoiltuna (feat. jambo)",
+      "url": "https://open.spotify.com/track/1e8DVYKeCZBGyHd3SqwQXL"
     },
     {
       "album": {
@@ -28600,7 +28764,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 218473,
       "name": "Vastustamaton",
       "url": "https://open.spotify.com/track/12zIIWVV5guPmsV7yQGsOM"
@@ -29132,10 +29296,28 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 209052,
       "name": "Viimeisi\u00e4 sanoja",
       "url": "https://open.spotify.com/track/3STatpBP2zJ1CTca7PRSKp"
+    },
+    {
+      "album": {
+        "name": "Hupsis",
+        "url": "https://open.spotify.com/album/0IwhR2jwfVmUX7kUJnK8S2"
+      },
+      "artists": [
+        {
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209302,
+      "name": "Viimeisi\u00e4 sanoja",
+      "url": "https://open.spotify.com/track/2qLzkSZ3nstuozJLipRIrS"
     },
     {
       "album": {
@@ -29752,7 +29934,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

@@ -2,7 +2,7 @@
 
 ### [Rock Love Songs](https://open.spotify.com/playlist/37i9dQZF1DX7Z7kYpKKGTc)
 
-> The romantic side of classic rock and metal
+> El lado romántico del rock clásico y el metal.
 
 438 songs - 1 day 9 hr 17 min
 
@@ -14,7 +14,7 @@
 | [\(I Wanna Take\) Forever Tonight](https://open.spotify.com/track/1uybEGNH2GIvNdzGB7L2Qj) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [You're the Inspiration: A Collection](https://open.spotify.com/album/0lHNWtBk8qkFUaqCAobtNq) | 4:34 | 2021-12-20 | 2022-07-29 |
 | [\(Make Me Do\) Anything You Want](https://open.spotify.com/track/0fWTGqNoC0nsbhA0aRAkDf) | [Helix](https://open.spotify.com/artist/7JF6mRd5N8LzsKugg4rcSG) | [Walkin' The Razor's Edge](https://open.spotify.com/album/6bLC4Ik5DP9E0nrPCNs4Sh) | 4:03 | 2022-03-30 | 2022-04-15 |
 | [10,000 Lovers \(In One\)](https://open.spotify.com/track/44hQ12efld4Q85ACRPgxmO) | [TNT](https://open.spotify.com/artist/363VbwpX9anvrThJ2qDwBy) | [The Big Bang](https://open.spotify.com/album/0fXwQ37ihR7t2QH0dENLth) | 2:56 | 2022-04-24 | 2022-05-11 |
-| [3AM](https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:45 | 2022-03-30 | 2023-09-07 |
+| [3AM](https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:45 | 2022-03-30 |  |
 | [A Teenager in Love \- 2012 Remaster](https://open.spotify.com/track/5kuvOXaO2WiHwES81fSeu3) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Rock & Roll Hall of Fame Covers \- EP](https://open.spotify.com/album/2DKXYxXlATCLvg6SVcJsxB) | 3:00 | 2022-03-30 | 2022-04-19 |
 | [Accidentally In Love](https://open.spotify.com/track/4ccM2xBxicGigjLqt6A0YY) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Accidentally In Love](https://open.spotify.com/album/70NalxU5fQaMxOpe0T69Ob) | 3:08 | 2022-03-30 | 2022-04-21 |
 | [Ain't No Reason Why](https://open.spotify.com/track/0t9vPyiJ17Hxpa3xTT5ldQ) | [Tattoo Rodeo](https://open.spotify.com/artist/2NeGdrg1lSstK00dsWk6OP) | [Rode Hard \- Put Away Wet](https://open.spotify.com/album/6IVU5LNlSFyfmNZJzADQHe) | 4:45 | 2021-12-20 | 2022-05-11 |
@@ -319,7 +319,7 @@
 | [Sea of Love \- 2006 Remaster](https://open.spotify.com/track/0VMGij4wSGBM5pSTcqjxeD) | [The Honeydrippers](https://open.spotify.com/artist/7J7YRBSoiXpdTmcbkKZL2C) | [The Honeydrippers, Vol\. 1 \(Expanded\)](https://open.spotify.com/album/0fwGgCBAMQ0ItsxR7yBE8O) | 3:03 | 2022-03-30 | 2022-04-16 |
 | [Secret](https://open.spotify.com/track/7tQxhJ3Vl57OMuFW8PBGWS) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:14 | 2021-12-20 | 2022-07-29 |
 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 5:23 | 2022-03-30 | 2022-04-15 |
-| [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 | 2022-07-05 |  |
+| [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 | 2022-07-05 | 2023-09-17 |
 | [Serenade](https://open.spotify.com/track/5eDmCbmySQNCtINzEfijyG) | [Steeler](https://open.spotify.com/artist/0Bok9cwEPeFS6vv7iVrkDj) | [Steeler](https://open.spotify.com/album/6X4xOK2vncouastY92OcYw) | 6:15 | 2022-03-30 | 2022-04-20 |
 | [Seven Wonders \- 2017 Remaster](https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:42 | 2022-03-30 | 2023-06-28 |
 | [Shape Of My Heart](https://open.spotify.com/track/5TrvGxuqaYKsF7C0NfrLrY) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Ten Summoner's Tales](https://open.spotify.com/album/4Bi4yzmfOupSFm2gl2jeaQ) | 4:38 | 2022-03-30 | 2022-04-20 |

@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 169915,
       "name": "ALL GAS",
       "url": "https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga"
@@ -4384,6 +4384,28 @@
       "duration_ms": 163973,
       "name": "That's Why We Fight (feat. Koe Wetzel)",
       "url": "https://open.spotify.com/track/33MnBkmn4aV4AbUQS17eYU"
+    },
+    {
+      "album": {
+        "name": "The Better Me",
+        "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195236,
+      "name": "The Better Me",
+      "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
     },
     {
       "album": {

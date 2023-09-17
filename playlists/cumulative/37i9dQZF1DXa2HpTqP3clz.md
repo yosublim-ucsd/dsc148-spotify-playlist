@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-474 songs - 1 day 4 hr 32 min
+475 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,8 @@
 | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/track/2YlsQaN9pT4mB3hCkSmFQf) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/album/4XH92T51JxlIqQOmnaYupi) | 3:39 | 2023-07-28 | 2023-09-09 |
 | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/track/6iHor3auKtisM4nmBmyGpE) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:39 | 2023-09-08 |  |
 | [You Can't Stop Me from Staying](https://open.spotify.com/track/4I5setKgeqtfcz4NZDxPdC) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [You Can't Stop Me from Staying](https://open.spotify.com/album/7vwbl0BxNmBuzY5L6VhaX6) | 3:16 | 2022-02-25 | 2023-07-29 |
-| [You Left Me A Long, Long Time Ago](https://open.spotify.com/track/2zMuGPbl3pgxbbO3ayqoQE) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [You Left Me A Long, Long Time Ago](https://open.spotify.com/album/10pIXX2E1ZNIWFBGQDlMXt) | 4:18 | 2023-06-23 |  |
+| [You Left Me A Long, Long Time Ago](https://open.spotify.com/track/2zMuGPbl3pgxbbO3ayqoQE) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [You Left Me A Long, Long Time Ago](https://open.spotify.com/album/10pIXX2E1ZNIWFBGQDlMXt) | 4:18 | 2023-06-23 | 2023-09-17 |
+| [You Left Me A Long, Long Time Ago](https://open.spotify.com/track/3qbcegQkwaklZ48d27DOti) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Bluegrass](https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO) | 4:18 | 2023-09-15 |  |
 | [You Were On My Mind This Morning](https://open.spotify.com/track/4XHgu6RHqSyUE7pFKTAlzW) | [Hot Rize](https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r) | [Hot Rize's 40th Anniversary Bash](https://open.spotify.com/album/7fMaqMPpQI0LdCj09T50nA) | 2:57 | 2021-12-17 | 2022-07-25 |
 | [You Were on My Mind This Morning](https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy) | [Hot Rize](https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r) | [When I'm Free](https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza) | 3:02 | 2021-12-17 |  |
 | [You'd Better Get Right](https://open.spotify.com/track/09JQxDl9plFdG0N4A7OUPX) | [Riverbend](https://open.spotify.com/artist/6HPFID7LsnsyJraGB0iq8s) | [You'd Better Get Right](https://open.spotify.com/album/2EhVPLXNROEpclRbf94plI) | 2:01 | 2021-12-17 | 2022-07-25 |

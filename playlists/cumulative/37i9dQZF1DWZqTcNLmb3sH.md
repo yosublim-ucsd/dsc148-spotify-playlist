@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side A
 
-861 songs - 2 day 5 hr 9 min
+862 songs - 2 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,6 +836,7 @@
 | [Vasundharadevi \(Title Song\) \- From "Vasundharadevi"](https://open.spotify.com/track/3wmCotziSIGCU1vu7fZd3j) | [Chetan Naik](https://open.spotify.com/artist/6VBD518zAyVMaK6K0EAlOp), [Vinu Manasu](https://open.spotify.com/artist/1ZibIIoDWcMC9UkJ4dHCfL), [Girish Ramanjaneya](https://open.spotify.com/artist/20fv9nOfjtq6tzizZ2RdhM) | [Vasundharadevi \(Title Song\) \[From "Vasundharadevi"\]](https://open.spotify.com/album/5HapwOz0371U7aRcujzYx9) | 3:57 | 2023-07-08 | 2023-07-18 |
 | [Veera Raja Veera](https://open.spotify.com/track/4IYL0ax3QT1TB2YeC4MmJK) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijayprakash](https://open.spotify.com/artist/5CP1YPJH6WUS7yOUsjGdrT), [Sivasri Skandaprasad](https://open.spotify.com/artist/3Du1Eif2lkTAauqUT3uFai), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [PS\-2 \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/09x1YIyNqIdcCWAkq6Eytx) | 5:02 | 2023-03-29 | 2023-08-05 |
 | [Vikrant Rona Tribute Song](https://open.spotify.com/track/2O9NIFR9BHadAMIKq0z53z) | [Nachiketh Bharadwaj](https://open.spotify.com/artist/1nXTIjBY69DYMnD6oVqCM3), [Arpita Hegde](https://open.spotify.com/artist/4WCfAtp6cYqX4OOml8ucrA), [Gururaj Seetur](https://open.spotify.com/artist/2Qh03l5f9OGZVKGl80pn2c), [Mad\- D Ameya G Kulkarni](https://open.spotify.com/artist/7ymvfAnVIEmgoH1rWLldf9), [Varun Koushik](https://open.spotify.com/artist/2VXdFMj1gj1YQz5ZZgA6y1) | [Vikrant Rona Tribute Song](https://open.spotify.com/album/35KCoEECxuvdFk4fvrS0Lk) | 2:10 | 2022-08-23 | 2022-11-15 |
+| [Vivarane \(From "Hi Nanna"\)](https://open.spotify.com/track/2Xc0jsOBqPWhyuS29dQnvz) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Vivarane \(From "Hi Nanna"\)](https://open.spotify.com/album/2f3RV99CfM3He6gL1ZT47Y) | 3:24 | 2023-09-16 |  |
 | [Vivaravagi \- From "Olave Mandara 2"](https://open.spotify.com/track/0hkDlS90S2F3Bmka2aZ618) | [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY), [Dr Kiran Thotambyle](https://open.spotify.com/artist/25KsrmIjelYihucIqYh8Za) | [Vivaravagi \(From "Olave Mandara 2"\)](https://open.spotify.com/album/1Uqx2D82ydwTl2SiojQnex) | 4:12 | 2023-09-12 |  |
 | [Watt A Lyffu](https://open.spotify.com/track/6I4CZjKJFKQZtHEmkVg76v) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Rathnan Prapancha](https://open.spotify.com/album/2fQQMj7xBSZsfVYzkyE6MU) | 3:55 | 2021-12-06 | 2022-05-19 |
 | [Welcome To Bengaluru](https://open.spotify.com/track/1oZuRYmEywtRzRbDrfrE8Y) | [Suraj Jois](https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp), [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Welcome To Bengaluru \(From "Raaghu"\)](https://open.spotify.com/album/0n2gtFLjglPhVN9iUJ0nNZ) | 2:52 | 2023-04-13 | 2023-04-15 |

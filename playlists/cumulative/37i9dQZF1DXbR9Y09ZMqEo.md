@@ -4,7 +4,7 @@
 
 > Listen to music from and inspired by You Are So Not Invited To My Bat Mitzvah, now streaming on Netflix.
 
-53 songs - 2 hr 11 min
+54 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Rite of Party](https://open.spotify.com/track/5Q5FkgjA4gXin675dmRfTo) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 0:29 | 2023-08-25 |  |
 | [Rite of Passage](https://open.spotify.com/track/7aNLtTj67KTk6uCo82GB6D) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 0:15 | 2023-08-25 |  |
 | [Rock and Roll, Hoochie Koo](https://open.spotify.com/track/4VDHlRakaVHzHE8PUdcU49) | [Rick Derringer](https://open.spotify.com/artist/1FX4aA0cUcWndv39j1YoTm) | [All American Boy \(Expanded Edition\)](https://open.spotify.com/album/2qUO0zPeu06VHisaFdmqpZ) | 3:45 | 2023-08-25 |  |
-| [Réputation](https://open.spotify.com/track/09Kl5FRg7r0ARrJ7J7kaCs) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime](https://open.spotify.com/album/2AnS2YC2kJzE8gBw5peWL8) | 3:22 | 2023-08-25 |  |
+| [Réputation](https://open.spotify.com/track/09Kl5FRg7r0ARrJ7J7kaCs) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime](https://open.spotify.com/album/2AnS2YC2kJzE8gBw5peWL8) | 3:22 | 2023-08-25 | 2023-09-17 |
+| [Réputation](https://open.spotify.com/track/5lvYF7h7GkCv4n1ndjxKdr) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime](https://open.spotify.com/album/2O6KlO4PZKdNq2cvniEYD9) | 3:22 | 2023-09-01 |  |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2023-08-25 |  |
 | [Stupid Love](https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:13 | 2023-08-25 |  |
 | [Take As A Maybe](https://open.spotify.com/track/7pSpnRfU8pX1wONpAq916O) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 0:18 | 2023-08-25 |  |

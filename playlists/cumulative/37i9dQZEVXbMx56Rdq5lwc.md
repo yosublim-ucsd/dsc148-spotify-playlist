@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,297 songs - 2 day 22 hr 45 min
+1,299 songs - 2 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:48 | 2023-01-21 | 2023-06-03 |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-01-15 | 2023-01-22 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-06-03 |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 |  |
 | [growing up is getting old \- Eurovision Version](https://open.spotify.com/track/6R6i1KOZjiPYLZ8dC0cUgd) | [VICTORIA](https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq) | [growing up is getting old \(Eurovision Version\)](https://open.spotify.com/album/5R6zdpQ4MYdVKnxpeR3YxJ) | 3:08 | 2021-05-25 | 2021-05-26 |
 | [Grįšiu](https://open.spotify.com/track/0SCewo5K6t75DKRwrQrMVK) | [jautì](https://open.spotify.com/artist/1kfCwVVXg1E5gFZQPM152L), [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Grįšiu](https://open.spotify.com/album/3pSB7Ao6zU7jr0tiLCbYTb) | 2:34 | 2022-09-05 | 2022-09-07 |
 | [Grįšiu](https://open.spotify.com/track/7tavcxKMArAfiFc8Wf2aI3) | [jautì](https://open.spotify.com/artist/1kfCwVVXg1E5gFZQPM152L), [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Meilė](https://open.spotify.com/album/7F9V8XJuvohR0MCuZYzz5a) | 2:34 | 2022-04-26 | 2022-04-30 |
@@ -528,12 +529,13 @@
 | [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 | 2022-11-05 | 2022-11-07 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-04 |
 | [Juoda spalva naktų](https://open.spotify.com/track/1321IxNzcrRjWRVWM8eDpf) | [FC Baseball](https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD) | [ŽVĖRYNĖ](https://open.spotify.com/album/0HQUjiRWR7bIQIEiBRYIfr) | 4:19 | 2022-02-02 | 2022-02-05 |
-| [JUODOS AKYS](https://open.spotify.com/track/6qOG7l1Ph1eDVd3F1P0reG) | [Radvis](https://open.spotify.com/artist/4YRFIGQeG0tQg3VWT9ajbq) | [JUODOS AKYS](https://open.spotify.com/album/68mOWty2K0X7dxxBkfQMHR) | 2:37 | 2023-09-15 |  |
+| [JUODOS AKYS](https://open.spotify.com/track/6qOG7l1Ph1eDVd3F1P0reG) | [Radvis](https://open.spotify.com/artist/4YRFIGQeG0tQg3VWT9ajbq) | [JUODOS AKYS](https://open.spotify.com/album/68mOWty2K0X7dxxBkfQMHR) | 2:37 | 2023-09-15 | 2023-09-17 |
 | [Just A Dream](https://open.spotify.com/track/4ft48rkthIRGV49AdAARwa) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [5.0 Deluxe](https://open.spotify.com/album/17T8wyeiIcfNg7wYfSSqZq) | 3:57 | 2022-01-08 | 2022-01-21 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-20 | 2023-05-08 |
 | [K\-POP](https://open.spotify.com/track/1RlcvK95g0XfRpDvFbGLUO) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP \(Chopped & Screwed\)](https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl) | 3:05 | 2023-07-25 | 2023-07-29 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 | 2023-08-06 |
 | [KAI SKAUDA](https://open.spotify.com/track/3InOXis1G8q80QwDTDmBPW) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [BILIETAS I ROJU](https://open.spotify.com/album/0ilD8GaVRbNbeSwqbNPXvD) | 2:16 | 2022-08-27 | 2022-09-06 |
+| [Kaip Diena](https://open.spotify.com/track/2put4ujMska9sLbQdh7JY4) | [morre](https://open.spotify.com/artist/53huFS9Cpu1ejFA9abqx3a) | [Juoda Avys](https://open.spotify.com/album/4abENuB79QjmFD3iGWMRkq) | 2:58 | 2023-09-16 |  |
 | [Kaip Radai](https://open.spotify.com/track/15SdxthrnmbhdUxBL6ona6) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [DĖMESIO! \(Deluxe\)](https://open.spotify.com/album/4eSMe59X7Gj42Pk53iMFaf) | 3:43 | 2022-04-27 | 2022-04-30 |
 | [kalbėsimės/mylėsimės](https://open.spotify.com/track/3LkoKG9B53GpTtGBGjF5eH) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [DEBESIMIS BRAIDYTI](https://open.spotify.com/album/48M4JnKlrmi3WU3KOJr6cO) | 2:35 | 2023-05-06 | 2023-09-13 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-30 |
@@ -859,7 +861,7 @@
 | [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 | 2022-11-04 | 2022-11-06 |
 | [Physical](https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:13 | 2022-06-20 | 2022-06-24 |
 | [PINIGAI](https://open.spotify.com/track/5QiBpME5iV2DdLHggosCta) | [Lindensinger](https://open.spotify.com/artist/3VzxSrqMmT8ShjiTFtM69X) | [PINIGAI](https://open.spotify.com/album/0nv49cekA3Bj2rn5GTMSZK) | 2:36 | 2023-01-28 | 2023-02-03 |
-| [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2023-09-13 |  |
+| [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2023-09-13 | 2023-09-17 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-06 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-09-22 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-06 |

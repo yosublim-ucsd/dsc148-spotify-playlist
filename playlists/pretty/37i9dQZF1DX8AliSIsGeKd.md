@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Kölsch
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,685 likes - 90 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,804 likes - 90 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [BLIND](https://open.spotify.com/track/5VsCOd9drtI7gMoUKnRh9o) | [Asa 808](https://open.spotify.com/artist/2clnQoRMSrsLAHktJx8SHR) | [BLIND](https://open.spotify.com/album/0B8BXY7YFVoKkv9Kr8XC9A) | 4:10 |
 | 90 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 |
 
-Snapshot ID: `MCw0YjA4NmIyZjBjNjNkOGY1NzBjZDM1ZWQwZTQ4Nzk2OTExODIxOTAy`
+Snapshot ID: `MCwwNjhhYzgwNjQ4MmJlYTIyYTVjMTAxY2FjOTYxYTJjOWYxMmVmNWMy`

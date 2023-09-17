@@ -5947,6 +5947,24 @@
     },
     {
       "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/1CEYnd0M5NIW7u6HheJka5"
+      },
+      "artists": [
+        {
+          "name": "Hunter Oliveri",
+          "url": "https://open.spotify.com/artist/1y3NQbmjuRQshFiRjiterz"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173271,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/47MthNdmvuTrV3SP4MPFGV"
+    },
+    {
+      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
       },

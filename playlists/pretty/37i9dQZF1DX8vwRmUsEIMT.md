@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,934 likes - 79 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,962 likes - 79 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 78 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 |
 | 79 | [Like It Like That](https://open.spotify.com/track/40mp0DdVTooKn70CSgbFFS) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Like It Like That](https://open.spotify.com/album/2l9cx4DNMpPRd8WMvv3GGD) | 2:29 |
 
-Snapshot ID: `MCw2ZGVlM2I0ZTlkZjI2NjRmNWI2NzhlNWMxZTUyZWIwZTg0OTdlMjZi`
+Snapshot ID: `MCw1YTRmZDJlZTdkZTgzZDdkMjgzNmUyMTYyOTQ2ODU0NDkzMzE2ZDYy`

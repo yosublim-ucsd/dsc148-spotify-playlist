@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Chales Ans y Sharif en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,982 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,993 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 11 | [Alerta](https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Alerta](https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl) | 3:09 |
 | 12 | [Celos](https://open.spotify.com/track/0lqYJX9XoHCsJKKCZ4hk60) | [Luck](https://open.spotify.com/artist/7zwitdSes97HTlglggSPoj) | [Celos](https://open.spotify.com/album/2mK8A5KVsMA9Fh7fP0770B) | 2:29 |
 | 13 | [Pasta Pesto](https://open.spotify.com/track/25T4fyLC8RRMvDfn2uMAux) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Pasta Pesto](https://open.spotify.com/album/6PypAIwniXvOrXFlZts9c2) | 3:08 |
-| 14 | [Otra Mañana](https://open.spotify.com/track/61PqBSVrQj731y4fIEBd4l) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Otra Mañana](https://open.spotify.com/album/29brObp9wWNYkMmKJBRUgR) | 2:41 |
+| 14 | [Otra Mañana](https://open.spotify.com/track/61PqBSVrQj731y4fIEBd4l) | [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Otra Mañana](https://open.spotify.com/album/29brObp9wWNYkMmKJBRUgR) | 2:41 |
 | 15 | [NO SOMOS LOS MISMOS](https://open.spotify.com/track/61RgoL4wkgH82ZpBFvakqe) | [Blood G](https://open.spotify.com/artist/5ziMak61OEXsu6NvkAF7Gu), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [NO SOMOS LOS MISMOS](https://open.spotify.com/album/6hXTIfIAEvZUPPEPcsHEes) | 3:04 |
 | 16 | [MORE FYAH](https://open.spotify.com/track/4L3eRmXwGZ4fPcvtF285El) | [Nik Valenda](https://open.spotify.com/artist/0cZv93w9tKGYcPq0mueSZU), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Kulto Kultibo](https://open.spotify.com/artist/5Zn0cTUwF6VjPS353kkQGk), [Pipo Ti](https://open.spotify.com/artist/5IxU70PZhE8uqCBOGHZHgJ), [Lasai](https://open.spotify.com/artist/4jm1fGGclMs7yvK3BgFDsN), [Pino](https://open.spotify.com/artist/2JgqO1FtZS5ZuihPGpaBoL), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Bman Zerowan](https://open.spotify.com/artist/1e93sDxSMqpA3Sa6FtczbB), [C\-Zar](https://open.spotify.com/artist/4HaJ944PAG7xX9rvPblQsq), [Toledo](https://open.spotify.com/artist/2edDMZSglhNmjytJPdkSbZ), [Garolo](https://open.spotify.com/artist/62NbFDwCtexT3AgFzXsmzw), [Señor R](https://open.spotify.com/artist/13vrdQMvV0zBFOEFetg0Rb), [Dash Shamash](https://open.spotify.com/artist/6QZVlYUbrI0L0XavKGfNUY) | [MORE FYAH](https://open.spotify.com/album/5LdNhgoWkHGJdePD8ga9nm) | 10:42 |
 | 17 | [No Voy a Parar](https://open.spotify.com/track/4tFAmTT9xRkeczQ3tKBVZm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [No Voy a Parar](https://open.spotify.com/album/2I1f9O1Z7uxWaCjmu0etel) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [BEEMO](https://open.spotify.com/track/7sBkokjVVW3wfU1SLE33Eh) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Sr\. Freddy Malaria](https://open.spotify.com/album/3DuxazPpULOeNqRAkq02AB) | 2:08 |
 | 100 | [INESTABLE](https://open.spotify.com/track/7oZU0WfiYy81ezw6tnSpH7) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [INESTABLE](https://open.spotify.com/album/7u83atv1sRDpcLZTx60sfV) | 2:54 |
 
-Snapshot ID: `MCxmYjI2NTU1MjZmOTdmYmI5ODM0OWJhZTFhMmMxMzY5NjIzY2NkMjgz`
+Snapshot ID: `MCxiNmJkMjM0NTFmOGM2M2VjNTljZjBhOGE5ZDczM2ZlYzVjYWQzMDdm`

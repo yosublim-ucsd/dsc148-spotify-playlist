@@ -1,13 +1,29 @@
 {
   "description": "Mood: Turnt",
-  "num_followers": 6706771,
+  "num_followers": 6707586,
   "original_name": "Get Turnt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2YzZTJlNmZiZGM1NzMwNDlmNWU5M2QyNmUwNWEyMmFhNjIwMjAz",
+  "snapshot_id": "MCw3M2NlN2VlNmZjYWZhMGVkOWQyNWQxMzBlYmQwMGNjYzY5YWUzNGVm",
   "tracks": [
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {

@@ -8181,6 +8181,28 @@
     },
     {
       "album": {
+        "name": "Nobody Special (with Future)",
+        "url": "https://open.spotify.com/album/7AL7cdhzjigaVkUVhRiphE"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Nobody Special (with Future)",
+      "url": "https://open.spotify.com/track/4hxAZVGVvBibnz36zIF6QN"
+    },
+    {
+      "album": {
         "name": "Expensive Pain",
         "url": "https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K"
       },
@@ -8694,6 +8716,24 @@
       "duration_ms": 193072,
       "name": "Ordinary (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/3rMvNNeC4BumGpIbKPFECJ"
+    },
+    {
+      "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140480,
+      "name": "OTR Freestyle",
+      "url": "https://open.spotify.com/track/4CVJsHkkPmAgQToSk5dNg9"
     },
     {
       "album": {

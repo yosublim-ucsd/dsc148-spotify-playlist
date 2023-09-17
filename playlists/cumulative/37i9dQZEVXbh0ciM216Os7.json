@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 445933,
       "name": "All Mountains",
       "url": "https://open.spotify.com/track/1u7JDkPMV47l42Ajimwnzw"
@@ -789,6 +789,36 @@
     },
     {
       "album": {
+        "name": "Another One Of Me",
+        "url": "https://open.spotify.com/album/2xnqikpcvH2vBYc89VnwwL"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
+      "url": "https://open.spotify.com/track/3vAdBZvbr3bFBiSLT4iVap"
+    },
+    {
+      "album": {
         "name": "The Love Album: Off The Grid",
         "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
       },
@@ -812,7 +842,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
@@ -2305,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Ram",
+        "url": "https://open.spotify.com/album/3o88dhnm1Bn9EH8vweXsnM"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204573,
+      "name": "Credit Card",
+      "url": "https://open.spotify.com/track/43TbuGlhIlV8G70L8rATQo"
+    },
+    {
+      "album": {
         "name": "Cracker Island (Deluxe)",
         "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
       },
@@ -2736,6 +2784,24 @@
       "duration_ms": 482744,
       "name": "Denardirn",
       "url": "https://open.spotify.com/track/3FHEoo8XBBkPTBzn6xvKe5"
+    },
+    {
+      "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482744,
+      "name": "Denardirn",
+      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
     },
     {
       "album": {
@@ -4122,7 +4188,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 172653,
       "name": "Fingerblast",
       "url": "https://open.spotify.com/track/2EJQGBhREOhahAghqchmKt"
@@ -6418,7 +6484,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 150480,
       "name": "Just Chillin - Beat",
       "url": "https://open.spotify.com/track/3fMaz0UQd2urkpmG0Z59dS"
@@ -6440,6 +6506,32 @@
       "duration_ms": 196800,
       "name": "Just What I Need",
       "url": "https://open.spotify.com/track/1FxlApP9GjAwZMigYP3LUI"
+    },
+    {
+      "album": {
+        "name": "KAYTRAMIN\u00c9 (Instrumentals)",
+        "url": "https://open.spotify.com/album/6qYJO4dmiWCqILHweWVmUf"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "K&A - Instrumental",
+      "url": "https://open.spotify.com/track/7z5rBtWxHWNpkqyPxGpkke"
     },
     {
       "album": {
@@ -7181,6 +7273,24 @@
     },
     {
       "album": {
+        "name": "End",
+        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370653,
+      "name": "Loved Ones",
+      "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
+    },
+    {
+      "album": {
         "name": "LOVELY BASTARDS",
         "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
       },
@@ -7244,6 +7354,24 @@
       "duration_ms": 241532,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4vRlN2qaQbdtpL9caPqh5q"
+    },
+    {
+      "album": {
+        "name": "Magic Dust",
+        "url": "https://open.spotify.com/album/4DyKsUIl4sBkC3S9UvOIfF"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124086,
+      "name": "Magic Dust",
+      "url": "https://open.spotify.com/track/0spCbuvYiF5DHP0H6WkNgz"
     },
     {
       "album": {
@@ -8465,6 +8593,36 @@
     },
     {
       "album": {
+        "name": "So Gold (Immersive Edition)",
+        "url": "https://open.spotify.com/album/7vsKdJyq79Nf8MChnGpGpy"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Didda Joe",
+          "url": "https://open.spotify.com/artist/6RiH4it36bTUNBvUjPH2DP"
+        },
+        {
+          "name": "August Rose",
+          "url": "https://open.spotify.com/artist/4cGbWF0MMhak6Ws9ROGC44"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246977,
+      "name": "No Particulars",
+      "url": "https://open.spotify.com/track/0cP1OjR8nVm0iA4Zk3EYnC"
+    },
+    {
+      "album": {
         "name": "No Particulars",
         "url": "https://open.spotify.com/album/37Yc7iDKfuLvW9KIRof1iM"
       },
@@ -8612,7 +8770,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 211894,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/2j5J8ywEvdkXIPL8bjzaOz"
@@ -8898,6 +9056,28 @@
       "duration_ms": 183157,
       "name": "Painted Houses (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218794,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
     },
     {
       "album": {
@@ -9381,6 +9561,24 @@
     },
     {
       "album": {
+        "name": "Battle Pass Mixtape",
+        "url": "https://open.spotify.com/album/7uAISPJ5P2xO7x1L1RrfrJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Marsiv",
+          "url": "https://open.spotify.com/artist/16HroKQr2QoO2mBunvXSoh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241937,
+      "name": "Protect ya Neck - Beat",
+      "url": "https://open.spotify.com/track/3v8miUWCBtKwa1u0pDhzC1"
+    },
+    {
+      "album": {
         "name": "PSYCHO (Metal Version)",
         "url": "https://open.spotify.com/album/0dkjVxhFAmNFY9RDokxMvp"
       },
@@ -9630,7 +9828,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 118436,
       "name": "Rebuke - Instrumental",
       "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
@@ -10888,7 +11086,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 226203,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
@@ -11768,7 +11966,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 230720,
       "name": "The Caliphate (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
@@ -13056,7 +13254,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 98000,
       "name": "USA",
       "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"

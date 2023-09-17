@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Asteroid",
+      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
+    },
+    {
+      "album": {
         "name": "Astro",
         "url": "https://open.spotify.com/album/7fPegLkUOqVHIMGcFMMYWg"
       },
@@ -1409,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/70eXJWr1u3t8PF81jx6mLL"
+      },
+      "artists": [
+        {
+          "name": "EAZYBAKED",
+          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
+        },
+        {
+          "name": "MontyCler",
+          "url": "https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/3mYP9Tec1OzcwNKuCEqJzE"
+    },
+    {
+      "album": {
         "name": "CHAOS",
         "url": "https://open.spotify.com/album/1bTD0WCBtN3Vsl5qBBnBD8"
       },
@@ -1956,7 +2000,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 204782,
       "name": "Deranged",
       "url": "https://open.spotify.com/track/5GuFNblmTTazW0UKhf0d34"
@@ -2622,7 +2666,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 188749,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/0URVvPEQafAqfYVBVoWyI0"
@@ -4522,7 +4566,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 163071,
       "name": "lozer",
       "url": "https://open.spotify.com/track/66DiGAO6hsJYfJiYKLBmXc"
@@ -4734,7 +4778,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 150620,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/5xWvRtgAxkWUZPGXqICbpx"
@@ -5362,6 +5406,28 @@
       "duration_ms": 168000,
       "name": "OG BOI BE BACK",
       "url": "https://open.spotify.com/track/6N4CWmnnPyCP2UBsgQK7So"
+    },
+    {
+      "album": {
+        "name": "Oh Dang!",
+        "url": "https://open.spotify.com/album/2cH3Kn78CviETvrlRsSlI4"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        },
+        {
+          "name": "Ahee",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "Oh Dang!",
+      "url": "https://open.spotify.com/track/6RfJ36FxithGj2P3bfbG1L"
     },
     {
       "album": {
@@ -7496,6 +7562,24 @@
       "duration_ms": 228576,
       "name": "Sweet Revenge",
       "url": "https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ"
+    },
+    {
+      "album": {
+        "name": "Switzerland",
+        "url": "https://open.spotify.com/album/711I1FS2T6BqFWtOWZQWfW"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Switzerland",
+      "url": "https://open.spotify.com/track/3FCayE3jBJijv56xbtl179"
     },
     {
       "album": {

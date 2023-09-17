@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5kH7ZateqBrrUv6u6snhnp">ta Ukrainka</a>
 
-107 songs - 5 hr 22 min
+108 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Need a break](https://open.spotify.com/track/6n86Viph09xx4i63kpsvWM) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Need a break](https://open.spotify.com/album/3iG3XNnDa3r90Kx8DqnFkU) | 3:33 | 2023-06-04 |  |
 | [neonowe laczki](https://open.spotify.com/track/6iNm8Px8IQwiFRfFlARt80) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [jestem bryska \(mini album\)](https://open.spotify.com/album/694sraSss3PDwTtbnn0U8N) | 2:30 | 2022-09-23 | 2023-03-14 |
 | [Niebieska Noc](https://open.spotify.com/track/5urPVqVx8tb3mUY8m9MLAo) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Niebieska Noc](https://open.spotify.com/album/1DyTAOv7dXCE2WuawmUzVh) | 2:47 | 2023-02-06 | 2023-03-14 |
-| [Niebieski sweter](https://open.spotify.com/track/28JkH7zChrtA1EWKZsIA2V) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Blaza](https://open.spotify.com/album/0gw1Iu0Qy9i6ZClil2iHp9) | 3:46 | 2023-02-06 |  |
+| [Niebieski sweter](https://open.spotify.com/track/28JkH7zChrtA1EWKZsIA2V) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Blaza](https://open.spotify.com/album/0gw1Iu0Qy9i6ZClil2iHp9) | 3:46 | 2023-02-06 | 2023-09-17 |
+| [Niebieski sweter](https://open.spotify.com/track/7e6tfAscP8KHxBimBXVlmc) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Niebieski sweter](https://open.spotify.com/album/4OjFUK09FKHX6WROvvFNRi) | 3:46 | 2023-09-15 |  |
 | [Nothin’ to worry](https://open.spotify.com/track/2r9c6RIWi7elZWGDxQZC0n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Nothin’ to worry](https://open.spotify.com/album/1jnB1ZnjhNLSv6EZii6iRv) | 2:42 | 2022-08-26 |  |
 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 | 2022-08-26 |  |
 | [odbicie \- Mark Neve Remix](https://open.spotify.com/track/71Y5CV2iG2t0dPzVqvTwZR) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [moja ciemność \(deluxe edition\)](https://open.spotify.com/album/5JDuoSUawI1hto3pkbvyVS) | 3:00 | 2022-08-26 | 2022-09-24 |

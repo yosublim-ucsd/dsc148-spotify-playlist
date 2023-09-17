@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Dead Poet Society
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,473 likes - 126 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,512 likes - 126 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [Riot](https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:17 |
 | 126 | [Burn The Way](https://open.spotify.com/track/0TTby1f21gEo00neP83WEy) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Burn The Way](https://open.spotify.com/album/0jbrgIEJ1S1XC9Wc0ZuwPf) | 3:46 |
 
-Snapshot ID: `MCwwODY1M2M4MDhlN2NjNWQ2YTA5ZDAxMzEwNWQ4ZmY2MmFhOTdmOTNl`
+Snapshot ID: `MCw0ODFiNGE0MzZhZjMzMDkzYzM3ZmYyODg5ODI2M2MzZDljMDc2NjE1`

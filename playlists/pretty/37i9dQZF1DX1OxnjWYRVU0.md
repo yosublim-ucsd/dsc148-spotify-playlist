@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,110 likes - 356 songs - 15 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,327 likes - 356 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -356,7 +356,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 346 | [G Paradise](https://open.spotify.com/track/7y7LyqA3W6R6dmh1BoCHNS) | [Arnon](https://open.spotify.com/artist/5NvOktRLQaWY8N3R1VI18u), [Jonisa](https://open.spotify.com/artist/7IqPkDHe3rPcgFMpu3ukEL) | [G Paradise](https://open.spotify.com/album/6U83KgSyCZ3IDhtkWvgPJX) | 3:08 |
 | 347 | [Listen To Your Heart](https://open.spotify.com/track/15gmr8vUVlXEjALCiO7XMy) | [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn) | [Listen To Your Heart](https://open.spotify.com/album/2B5LmH7n56Oiuwq5z9cNec) | 2:38 |
 | 348 | [Numb](https://open.spotify.com/track/2OfQvGrr83FGpdLA1nAR01) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Aaron Richards](https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea), [Cour](https://open.spotify.com/artist/2wXlDjhPhTLuw6Fs6vc2xS) | [Numb](https://open.spotify.com/album/16Ckk31ZbrjJQs4z5sxrSo) | 2:10 |
-| 349 | [Killing Me Softly \- Cover Extended Mix](https://open.spotify.com/track/1N2P0mUsBSoQDQ9ASJGrSu) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Summer Sounds](https://open.spotify.com/album/4zj2VYjQkaM5atgkcTP26h) | 4:45 |
+| 349 | [Killing Me Softly \- Extended Version](https://open.spotify.com/track/3tm4mHMZaU7Z0TWT012gBX) | [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Killing Me Softly \(Extended Version\)](https://open.spotify.com/album/3E92QT8iZ3F3mKLBUPIn6i) | 4:45 |
 | 350 | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/track/3ArDS1f0uJjaotIuIkg2cJ) | [Marcus Brodowski](https://open.spotify.com/artist/3U5sS2ernX7nUjFZ9GSxWh), [Emily Sander](https://open.spotify.com/artist/3mysMigndcBXvVgkpa7gvc) | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/album/3wgPs3nwytZ4mIXHuy9Z1L) | 3:34 |
 | 351 | [Wicked Game](https://open.spotify.com/track/0Uint40zfuA4r7SjxCb0O7) | [loafers](https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Wicked Game](https://open.spotify.com/album/0FNDod9zD4moSzr5izXHmZ) | 3:08 |
 | 352 | [1, 2 Step](https://open.spotify.com/track/2Cb2ZghHqyyVekpJwCHP6J) | [Marty Guilfoyle](https://open.spotify.com/artist/34QHr1kYdBCLlvXDMEEbe5), [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo) | [1, 2 Step](https://open.spotify.com/album/4770hePlCyLR8l1mddWgsv) | 2:40 |
@@ -365,4 +365,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 355 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 356 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCwxMWIwYjVjOGRiZjhlMjE1MWVhMTdjNDcyNGFmY2ExZjJkYWI1Njg4`
+Snapshot ID: `MCw4MDdiYmViMjRjODU1ZjlhMzNlY2JiNzNjMjM1MjlmNWI5OGU3M2Fi`

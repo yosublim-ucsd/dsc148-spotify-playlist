@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-756 songs - 1 day 5 hr 24 min
+757 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Eskgrow](https://open.spotify.com/track/4SMMdkI3aMh08Ntf9DxuCh) | [Moon Ladder](https://open.spotify.com/artist/0oYx4r2AY0nWFoE5KUyqQI) | [Epsom Road](https://open.spotify.com/album/56OGV838fAkynsOASVD2im) | 3:15 | 2022-04-15 |  |
 | [Everything I'm not](https://open.spotify.com/track/3VRUnokiLze9VzGfeQWt8i) | [lowerful](https://open.spotify.com/artist/5vud9meb096x8pcNKiGDAm) | [Everything I'm not](https://open.spotify.com/album/25MzO5IM7UJI0YLX1eNfbM) | 1:48 | 2022-04-15 | 2022-07-08 |
 | [Everything's Better With You](https://open.spotify.com/track/49mdBU2g01KDLPhsbadqgo) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Happy To See You](https://open.spotify.com/album/2RQywmTrDDg7Zf4FdOKNIr) | 2:06 | 2022-04-15 | 2022-07-08 |
+| [Everything's Ok](https://open.spotify.com/track/6joF5vzWbc6Uk4t8jCSG4p) | [baker dalton](https://open.spotify.com/artist/0LbEUtI30VRNEZMbbD2rFe), [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [Sanu](https://open.spotify.com/artist/4a9bZ6Cp8BXlUxJ7YgX1fq) | [Everything's Ok](https://open.spotify.com/album/20C5Uyn4WpAkSCe6Hmyeox) | 1:54 | 2023-09-08 |  |
 | [Evolving](https://open.spotify.com/track/37hLVHigPp4MXxcVXuCYNS) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Evolving](https://open.spotify.com/album/65z7ihFuafei3XHk0jwcPq) | 1:55 | 2022-11-11 |  |
 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 | 2022-04-15 |  |
 | [Exomoon](https://open.spotify.com/track/4FLT1TsEUpJeme07ITfMkn) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Exomoon](https://open.spotify.com/album/2OzIqe33YRwCqjuS3rmjK3) | 2:14 | 2022-08-12 | 2023-07-20 |
@@ -758,7 +759,7 @@
 | [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2022-11-11 | 2023-09-13 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3SkGlju255xnaTQld9d0DO) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Yesterday's Tomorrow](https://open.spotify.com/album/5yfF9N6Cgy7olJBLPKRkhM) | 2:13 | 2022-12-16 | 2023-02-16 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3TBKlAMde3C7TNQEU7shez) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/2kHc5vqdqza5IlCMGXlGAQ) | 2:13 | 2023-01-20 |  |
-| [Yobidashi](https://open.spotify.com/track/6PV4hjKJ06jVHSH6HKhTkj) | [Aitobaiku](https://open.spotify.com/artist/6gSKO7qtjLIxagi1tfq4xu) | [Yobidashi](https://open.spotify.com/album/6IEc72I4ixBYTjvqRhTalK) | 2:24 | 2022-12-09 |  |
+| [Yobidashi](https://open.spotify.com/track/6PV4hjKJ06jVHSH6HKhTkj) | [Aitobaiku](https://open.spotify.com/artist/6gSKO7qtjLIxagi1tfq4xu) | [Yobidashi](https://open.spotify.com/album/6IEc72I4ixBYTjvqRhTalK) | 2:24 | 2022-12-09 | 2023-09-17 |
 | [Your Glow](https://open.spotify.com/track/7wig0c7koqSvDiincDAEXX) | [Prime Suspect](https://open.spotify.com/artist/5YQhFX1KlOhn5yZJL22mAR) | [Your Glow](https://open.spotify.com/album/1xuQYgF21HQ9va023HWgod) | 1:52 | 2022-08-12 |  |
 | [Your Lie](https://open.spotify.com/track/5vG2FtCtt8sBRQMNmMM4Pn) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Your Lie](https://open.spotify.com/album/3F5unzmA4JIAdD84m3DiNf) | 3:02 | 2023-01-06 |  |
 | [youth](https://open.spotify.com/track/57AaSVynhepCoToU0n3w0w) | [surf bagel](https://open.spotify.com/artist/38YfrSySicHwZBiHjHcMua) | [youth](https://open.spotify.com/album/57gANshT81YvlraLaR26TN) | 2:01 | 2022-11-11 |  |

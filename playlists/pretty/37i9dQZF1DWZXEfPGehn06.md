@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXEfPGehn06.md) - [plain]
 
 > Sit back, relax, and let some legendary pianists take a turn at the keyboard\. These are the most iconic piano pieces by Mozart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,282 likes - 71 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,305 likes - 71 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXEfPGehn06.md) - [plain]
 | 70 | [Adagio in B Minor, K\. 540](https://open.spotify.com/track/5G3e9ddqWpWsUVaZ90TJNN) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Mozart: Piano Sonatas K\. 281, K\. 330 & K\. 333; Rondo K\. 485; Adagio K\. 540](https://open.spotify.com/album/0891v20sBglQcCS0WQ5u0w) | 7:55 |
 | 71 | [Piano Sonata No\. 8 in A Minor, K\. 310: II\. Andante cantabile con espressione](https://open.spotify.com/track/6mdMPlvsPL7q899LvFpOj8) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Glenn Gould plays Mozart: The Piano Sonatas \(No\. 10: Recordings of 1958 & 1970\); Fantasias K\. 397 & K\. 475; Fantasia & Fugue K\. 394; Piano Concerto No\. 24 K\. 491](https://open.spotify.com/album/3g22ma0KOLr9B2sfU0trh3) | 6:19 |
 
-Snapshot ID: `MCxhNmExMTAwMjkyZWJmMDI5YjUyZWY4OWM0NDQ0OTVkMmIzMTgwOWVi`
+Snapshot ID: `MCxkMjg0MWYzYWU1ZTIzNDYxM2M1YjgxZTUyMmRhMmI3ODk5NTdmN2Nm`

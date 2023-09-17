@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,648 songs - 5 day 19 hr 49 min
+3,649 songs - 5 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Alicante](https://open.spotify.com/track/3u3vFZw2rdjJdaxIuBett2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Alicante](https://open.spotify.com/album/05mYEeImGnMwV6XSziIh3g) | 3:02 | 2021-10-01 | 2021-11-19 |
 | [Alkaline](https://open.spotify.com/track/0OLOedccgpHlbwbAVbq5E0) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Alkaline](https://open.spotify.com/album/1O1glf5xkwb3tjF24HUR5N) | 2:07 | 2021-12-17 | 2021-12-23 |
 | [All About Us](https://open.spotify.com/track/3OGxdoXW2cXAdQ2ygP17CW) | [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [All About Us / Backpackers](https://open.spotify.com/album/4Pp8uHbcqmnBOhLR6MNLOb) | 2:02 | 2021-05-29 | 2021-10-14 |
+| [All Day](https://open.spotify.com/track/6txWAmBuNC0wGG9SzL6MRd) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [More/Less](https://open.spotify.com/album/09Nry8bvYmaqCRfv0sO52Y) | 2:04 | 2023-09-14 |  |
 | [All For](https://open.spotify.com/track/2hKFvprbrBNcS4YvSGNMKS) | [TV Culture](https://open.spotify.com/artist/4SMpfT0gDr82P6jyWArDve) | [All For](https://open.spotify.com/album/3NHwpJwQEh3tm4hA3be7BX) | 3:36 | 2021-10-22 | 2022-01-07 |
 | [All In](https://open.spotify.com/track/3sAaA0bpnPiauuKKJLiQFW) | [LBL](https://open.spotify.com/artist/0j0BXMwyoY9NJTbcviFEOp), [Johannes Onetake](https://open.spotify.com/artist/0VVyuGRHXy7PM7JELDbtbD), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [All In](https://open.spotify.com/album/4BUDocjcTETflwkQwBi0oW) | 2:01 | 2022-02-24 | 2022-04-01 |
 | [All In](https://open.spotify.com/track/5bx8CLHgWo7OS9nFLwhjlK) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [Good Place](https://open.spotify.com/album/1st3ueuRjZLQYItGBa79mQ) | 2:17 | 2020-05-19 | 2020-07-31 |
@@ -877,7 +878,7 @@
 | [Earth](https://open.spotify.com/track/2APhx63Q8xpqlQ1lkomqTO) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [Earth](https://open.spotify.com/album/1fhepsHiihwTlCXEn178yj) | 1:39 | 2020-01-17 | 2020-04-24 |
 | [Earthbound](https://open.spotify.com/track/67WJXRdXuqpM47Ip1O6e1R) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF) | [Earthbound](https://open.spotify.com/album/2jvhHmrGz1BRsAd1H0FWKH) | 2:45 | 2021-05-21 | 2021-07-02 |
 | [Earthbound \- Drum Quixote Remix](https://open.spotify.com/track/4CGEmTX3M5IzoLPS9HHMDq) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF), [Drum Quixote](https://open.spotify.com/artist/6s5uUqayWTF9ZOfxrElDmy) | [Earthbound \(Drum Quixote Remix\)](https://open.spotify.com/album/6PGrAuCS1nIgkKhhnQjsNf) | 2:25 | 2021-06-19 | 2021-07-23 |
-| [Ease](https://open.spotify.com/track/06pFUizccmNiPuB8ESkbDg) | [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Ease](https://open.spotify.com/album/1NAxOPiikSD680J3EOsOJu) | 2:19 | 2023-09-14 |  |
+| [Ease](https://open.spotify.com/track/06pFUizccmNiPuB8ESkbDg) | [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Ease](https://open.spotify.com/album/1NAxOPiikSD680J3EOsOJu) | 2:19 | 2023-09-14 | 2023-09-17 |
 | [Easy Moment](https://open.spotify.com/track/7Etx5TaPzbG0xGRc0aBlLD) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Easy Moment](https://open.spotify.com/album/2VQujS29AAw3FafFj0NTZc) | 2:24 | 2021-05-29 | 2021-09-17 |
 | [Easy n Dizzy](https://open.spotify.com/track/7xAgwh4EEpebPn75bca378) | [a boy with a balloon](https://open.spotify.com/artist/2RU6buhw0TjkxXj5oIyDX8) | [Sunny Dreams](https://open.spotify.com/album/3YVZuyfJR72CYj5l6OqQVg) | 2:23 | 2020-10-03 | 2021-05-14 |
 | [Ebony](https://open.spotify.com/track/197x2einuu4SBFlykVQAXS) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU), [Rzuma](https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8) | [Ebony](https://open.spotify.com/album/6bbGjDvLvrCQNPnTg66fjb) | 1:52 | 2021-12-17 | 2022-10-01 |

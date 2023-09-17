@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,847 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,875 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 10 | [Aye Papi](https://open.spotify.com/track/4UJAKQiPqouKS5wgQmOyKI) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [Aye Papi](https://open.spotify.com/album/5rwxcvFQcmNmUXuYVnNVUF) | 3:27 |
 | 11 | [Ready To Work](https://open.spotify.com/track/4tgVHmJylmMyE1IpH8ppFb) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS) | [Art Is Long EP](https://open.spotify.com/album/4euE7MFZxtkiwLGkbs408U) | 6:31 |
 | 12 | [Don't Be Afraid \(feat\. LATASHÁ\)](https://open.spotify.com/track/1sY09LjCOiWtZKooLBhwUI) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 4:04 |
-| 13 | [U Feel Mi \- Kai Alce's New Feel](https://open.spotify.com/track/7kAWkF6EHSxR0lXmFJokYc) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN), [Kai Alce](https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh) | [The Remixes EP](https://open.spotify.com/album/6HNu1M0z0dSVFTyA9WPGxQ) | 5:25 |
+| 13 | [U Feel Mi \- Kai Alce's New Feel](https://open.spotify.com/track/7kAWkF6EHSxR0lXmFJokYc) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN), [Kai Alcé](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [The Remixes EP](https://open.spotify.com/album/6HNu1M0z0dSVFTyA9WPGxQ) | 5:25 |
 | 14 | [PAMOJA \- Tayllor Remix](https://open.spotify.com/track/1UN9wXD1hlNsIUu4qY4lr2) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [PAMOJA \(Tayllor Remix\)](https://open.spotify.com/album/5Tm2zn1M6vfctd1USxtAg1) | 4:07 |
 | 15 | [Vowels \- Renato Cohen Remix](https://open.spotify.com/track/7kguHkRONjTciORJhAvOKE) | [Lubelski](https://open.spotify.com/artist/7EPi1KiQMnSB6cxmuGcEnS), [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Vowels EP](https://open.spotify.com/album/6U8weC32Kpt6gifARyRaw5) | 7:29 |
 | 16 | [Sabor a Disco](https://open.spotify.com/track/6Cex0sfMMYwarQWCx2Hrip) | [Fernanda Arrau](https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6), [Balam](https://open.spotify.com/artist/0dqcQcbpMnfEvu72FFLmjL) | [Sabor a Disco EP](https://open.spotify.com/album/1iS9OMb0rKSTzofKta7zvY) | 6:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 99 | [Groove Dealer](https://open.spotify.com/track/0NDbTnVPCszdI2G9FQWfKx) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Groove Dealer EP](https://open.spotify.com/album/3YO1Tk3rbxnr4HFHeb6UXD) | 6:58 |
 | 100 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 
-Snapshot ID: `MCxmZjAxYWNhMzM4OTA5MTlmOGNjMGMwNjFkNzAyMTdjOGUxNjU2NGRh`
+Snapshot ID: `MCxiZDZkMWYzNGUzNjk3YjcyNzNkMDNlYjU4MmU2NTA2YjgxM2ZkOTQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Henrique & Juliano, TXT e Anitta, Luan Santana, Pocah, DENNIS, Mc Poze do Rodo e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,918,486 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,919,100 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 19 | [Liberdade](https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 3:05 |
 | 20 | [Cruzeiro do Ney](https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:55 |
 | 21 | [Não Vou Dançar Sozinho](https://open.spotify.com/track/4XMnWCE1u1qYFcnmNf1xFS) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Não Vou Dançar Sozinho](https://open.spotify.com/album/0zL7xX3yuzJde6dkkhgoXV) | 2:04 |
-| 22 | [Beijo Equivocado](https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Guilherme e Benuto](https://open.spotify.com/artist/0NhJv6L4qsiDbrfJodfYYn) | [Beijo Equivocado](https://open.spotify.com/album/5omEOoTV8w9GpCeCOmvSpT) | 2:36 |
+| 22 | [Beijo Equivocado](https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Beijo Equivocado](https://open.spotify.com/album/5omEOoTV8w9GpCeCOmvSpT) | 2:36 |
 | 23 | [Ortobom \- Ao Vivo](https://open.spotify.com/track/6JO3N1vP47rwwdlfPopxtS) | [Thiago Aquino](https://open.spotify.com/artist/7yPoxj2lXWy7J4ixQHVubk), [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC) | [Ortobom \(Ao Vivo\)](https://open.spotify.com/album/6OQWMBDXcN4n4lgufRJWOf) | 2:57 |
 | 24 | [Seu Sentimento Mente \(Ao Vivo\)](https://open.spotify.com/track/2NVJ8coZgklpjfVEh6a3l5) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Versão Brasileira \- Bloco Eu Não Quero, Mas Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/0JR1H7yqqXwmUEAQrMlDbE) | 2:55 |
 | 25 | [Eu Não Te Amei À Toa \- Ao Vivo Em Goiânia](https://open.spotify.com/track/6RgUzwShTknym7Y4Bg94tK) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn) | [Eu Não Te Amei À Toa \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/2wZ47mgduCOujGnj8dlhsI) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Fases da Vida](https://open.spotify.com/track/7wVfxMleDc8z52sT0ZX2Uf) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Fases da Vida](https://open.spotify.com/album/4S9O0HX42wSVc8GwMHUz0S) | 2:49 |
 | 100 | [Surrender](https://open.spotify.com/track/2dj9wzusMoIgFX9z9MXq8H) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Lia Rose](https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0) | [Surrender](https://open.spotify.com/album/1AwWchPQJO8jKekhSBjOHw) | 5:00 |
 
-Snapshot ID: `MCxlMTc1ZWI5YzExZmFhYTkxZmE3NThhYmE4ZTRkMjg2M2IwYTc2NDVk`
+Snapshot ID: `MCxlZmU2NGNjODI5M2VhODdhYjE4MDRiN2NkMzlmOWUxODJmOTY1NmZj`

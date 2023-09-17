@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,566 songs - 2 day 11 hr 28 min
+1,567 songs - 2 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Cold](https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Cold](https://open.spotify.com/album/6EXP2j4i43fQjPy1qdIecE) | 2:15 | 2022-10-14 |  |
 | [Cold](https://open.spotify.com/track/4k4XSebMs9YTob9EteN0rQ) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Cold](https://open.spotify.com/album/5zJxYQ8vgaYru1uBzEH1ge) | 1:37 | 2023-04-03 |  |
 | [Cold Nose](https://open.spotify.com/track/4UmcSZJKJ63wnB5qHyYaIV) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Lofi Koji](https://open.spotify.com/artist/6TEf8a5eAulCH644EY9Hvf) | [Cold Nose](https://open.spotify.com/album/3pDDF30FOgvIJwueAXVWDZ) | 2:24 | 2023-01-06 |  |
+| [Cologne](https://open.spotify.com/track/51Y2wtkgr7E6H2qs0w1xi0) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Cologne](https://open.spotify.com/album/7KU81f2QeZGlqrGMztXlmW) | 1:36 | 2023-09-15 |  |
 | [Color Violet](https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Color Violet](https://open.spotify.com/album/2tmTKjBGtFNnSZqabuflcE) | 2:08 | 2023-08-17 |  |
 | [Colorful Leaves](https://open.spotify.com/track/56zclYajeHI9U3KDWmFwwE) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Colorful Leaves](https://open.spotify.com/album/3xCpC0Mda19tESAUFUnO2t) | 1:50 | 2022-04-15 | 2022-08-12 |
 | [Colors Reborn](https://open.spotify.com/track/35TEwXps2V5OY2SQuj4MZR) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Colors Reborn](https://open.spotify.com/album/01qBohYObZzLvk49rEtlov) | 2:32 | 2022-04-15 | 2022-06-10 |
@@ -321,7 +322,7 @@
 | [Court Mix](https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Court Mix](https://open.spotify.com/album/1FKVxpuffdBOe2vzCpTGO0) | 1:39 | 2022-11-11 |  |
 | [Cravings](https://open.spotify.com/track/0iGfk7XZl6YCXEsHNGOuYc) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Cravings](https://open.spotify.com/album/0i2saFNmr3DXFWvwVC72hm) | 1:36 | 2022-11-18 | 2023-09-16 |
 | [Cream](https://open.spotify.com/track/7eQOu4XYBDd1ynA8fcVqaQ) | [BUTTER](https://open.spotify.com/artist/2dsmILbZhqhou4oj1qUDm1) | [Cream](https://open.spotify.com/album/2FVgHaMpWTzSrbumS1S5cc) | 1:36 | 2022-08-19 | 2022-12-17 |
-| [Create your own](https://open.spotify.com/track/5xqsnPwf5kPC0t6OjMldGK) | [Fog Syndrome](https://open.spotify.com/artist/4NXRqaZArYh3bigTkqLd2G) | [Fog Syndrome](https://open.spotify.com/album/2iHPHfcK0Uixn74qn8SDJa) | 2:04 | 2022-10-01 |  |
+| [Create your own](https://open.spotify.com/track/5xqsnPwf5kPC0t6OjMldGK) | [Fog Syndrome](https://open.spotify.com/artist/4NXRqaZArYh3bigTkqLd2G) | [Fog Syndrome](https://open.spotify.com/album/2iHPHfcK0Uixn74qn8SDJa) | 2:04 | 2022-10-01 | 2023-09-17 |
 | [creative space](https://open.spotify.com/track/0tEX5NhgBIAMpmENzncJJt) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [creative space](https://open.spotify.com/album/3umdf5xeOH2UbMXJfkOuTx) | 2:06 | 2022-12-23 |  |
 | [Crescent Moon](https://open.spotify.com/track/2MSDnSQe2Ni6I2pY1V1WSd) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Crescent Moon](https://open.spotify.com/album/5xtLcdd2Mt45EqpUXZwHCU) | 2:04 | 2022-04-15 | 2022-10-01 |
 | [Crickets in the Clouds](https://open.spotify.com/track/5RympJSBDjBLazHFthkhug) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Crickets in the Clouds](https://open.spotify.com/album/2y6zoXDqTJJIphmJqkM0BV) | 4:05 | 2022-04-15 | 2022-07-22 |

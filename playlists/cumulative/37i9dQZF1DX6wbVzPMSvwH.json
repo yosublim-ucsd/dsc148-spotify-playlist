@@ -488,10 +488,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 218000,
       "name": "Desire",
       "url": "https://open.spotify.com/track/48wBjW6siHVJPhYfkAW9su"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/5malPhrB5WRxN66gtSE24v"
+      },
+      "artists": [
+        {
+          "name": "Agatha Pricilla",
+          "url": "https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/72tBEGOdJ3hFhJvn7JWOO5"
     },
     {
       "album": {

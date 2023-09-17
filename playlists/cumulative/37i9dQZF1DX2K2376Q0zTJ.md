@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: AI
 
-962 songs - 2 day 9 hr 5 min
+963 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Candy Racer](https://open.spotify.com/track/3rn4vlDtVfXCR6GaNyJZLM) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 5:06 | 2023-04-04 | 2023-05-03 |
 | [Car♡Wash♡Girl](https://open.spotify.com/track/2ijNxRyvM9bEqNZPo1ievQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 3:37 | 2023-04-04 | 2023-05-03 |
 | [celebrate \- Prod.KM](https://open.spotify.com/track/0mwG7feAmZJCv6z59JRj6d) | [honoka](https://open.spotify.com/artist/2kKDR6hnn3AHWhVBr5RfEu) | [celebrate \(Prod.KM\)](https://open.spotify.com/album/5w7Ex0lHjbc4JHVOcLBPI9) | 3:40 | 2022-07-05 | 2022-08-03 |
-| [Chanel Pt.2](https://open.spotify.com/track/23c24zwWGRCrqSw5sRthHl) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Chanel Pt.2](https://open.spotify.com/album/2gOV25J2FKIWJM93zRPrN4) | 1:46 | 2023-09-05 |  |
+| [Chanel pt.2](https://open.spotify.com/track/4xtTbKmWGNSFaC4kDAuuKL) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [KAWAII BUBBLY LOVELY III](https://open.spotify.com/album/00NHoF1XbizRrBTny378TI) | 1:46 | 2023-09-05 |  |
+| [Chanel Pt.2](https://open.spotify.com/track/23c24zwWGRCrqSw5sRthHl) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Chanel Pt.2](https://open.spotify.com/album/2gOV25J2FKIWJM93zRPrN4) | 1:46 | 2023-09-05 | 2023-09-17 |
 | [Check](https://open.spotify.com/track/5iHZPaB54QchDFG76x7gMr) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [リットです。](https://open.spotify.com/album/0divinpfUm2T1rRl1Cp7ti) | 2:01 | 2021-11-30 | 2022-01-05 |
 | [Cheeky Cheeky](https://open.spotify.com/track/0y27fubrSe6yI95Ko5ghos) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr), [ガンバレルーヤ](https://open.spotify.com/artist/2LDquWZQikMo151mOQqLhk) | [Cheeky Cheeky](https://open.spotify.com/album/7eBOMFVBCfOpffLpYSiNd3) | 3:28 | 2023-04-04 | 2023-05-03 |
 | [Cheers！Cheers！](https://open.spotify.com/track/1AQ4UPkGibo0ELl4zvPoZj) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [BUTTERFLY EFFECT](https://open.spotify.com/album/3jMsXyruxQMw80CVCQPmas) | 3:11 | 2023-09-05 |  |

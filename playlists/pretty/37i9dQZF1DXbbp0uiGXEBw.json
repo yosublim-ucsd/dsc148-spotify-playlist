@@ -1,13 +1,81 @@
 {
   "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Thu Minh",
-  "num_followers": 23208,
+  "num_followers": 23222,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmJjZDgxYmY4MWJhMWNjZDVhZjU3MjVlNWRmOGE0OTQyYzAzODJm",
+  "snapshot_id": "MCwyMDE4YmEwMDk0MmUzZDU2NGU2NTlmYmY3OWVmNGEyYTk1YzFlMjcy",
   "tracks": [
+    {
+      "added_at": "2023-09-05 17:00:00",
+      "album": {
+        "name": "T\u1eadp 12: The Masked Singer Vietnam",
+        "url": "https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA"
+      },
+      "artists": [
+        {
+          "name": "Myra Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd"
+        }
+      ],
+      "duration_ms": 270643,
+      "name": "Anh Ch\u01b0a Th\u01b0\u01a1ng Em \u0110\u1ebfn V\u1eady \u0110\u00e2u",
+      "url": "https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7"
+    },
+    {
+      "added_at": "2023-09-05 17:00:00",
+      "album": {
+        "name": "n\u1ebfu l\u00fac \u0111\u00f3",
+        "url": "https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
+        {
+          "name": "2pillz",
+          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "n\u1ebfu l\u00fac \u0111\u00f3",
+      "url": "https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz"
+    },
+    {
+      "added_at": "2023-09-05 17:00:00",
+      "album": {
+        "name": "C\u00f4 \u0110\u01a1n Tr\u00ean Sofa",
+        "url": "https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5"
+      },
+      "artists": [
+        {
+          "name": "H\u1ed3 Ng\u1ecdc H\u00e0",
+          "url": "https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ"
+        }
+      ],
+      "duration_ms": 263362,
+      "name": "C\u00f4 \u0110\u01a1n Tr\u00ean Sofa",
+      "url": "https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia"
+    },
+    {
+      "added_at": "2023-09-05 17:00:00",
+      "album": {
+        "name": "Em H\u00e1t Ai Nghe",
+        "url": "https://open.spotify.com/album/484MnMltSafY73ocrCoKgv"
+      },
+      "artists": [
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        }
+      ],
+      "duration_ms": 279152,
+      "name": "Em H\u00e1t Ai Nghe",
+      "url": "https://open.spotify.com/track/1SzlLbTE7hTs75M2R1a1Tg"
+    },
     {
       "added_at": "2023-09-07 13:00:00",
       "album": {
@@ -63,26 +131,6 @@
       "duration_ms": 231497,
       "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh",
       "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
-    },
-    {
-      "added_at": "2023-09-05 17:00:00",
-      "album": {
-        "name": "n\u1ebfu l\u00fac \u0111\u00f3",
-        "url": "https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV"
-      },
-      "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        },
-        {
-          "name": "2pillz",
-          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "n\u1ebfu l\u00fac \u0111\u00f3",
-      "url": "https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz"
     },
     {
       "added_at": "2023-09-05 17:00:00",
@@ -215,22 +263,6 @@
       "duration_ms": 302465,
       "name": "Ch\u01b0a Qu\u00ean Ng\u01b0\u1eddi Y\u00eau C\u0169",
       "url": "https://open.spotify.com/track/3yKzLSeR9NTwCTg9HvQkcJ"
-    },
-    {
-      "added_at": "2023-09-05 17:00:00",
-      "album": {
-        "name": "T\u1eadp 12: The Masked Singer Vietnam",
-        "url": "https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA"
-      },
-      "artists": [
-        {
-          "name": "Myra Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd"
-        }
-      ],
-      "duration_ms": 270643,
-      "name": "Anh Ch\u01b0a Th\u01b0\u01a1ng Em \u0110\u1ebfn V\u1eady \u0110\u00e2u",
-      "url": "https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7"
     },
     {
       "added_at": "2023-09-05 17:00:00",
@@ -551,22 +583,6 @@
     {
       "added_at": "2023-09-05 17:00:00",
       "album": {
-        "name": "C\u00f4 \u0110\u01a1n Tr\u00ean Sofa",
-        "url": "https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5"
-      },
-      "artists": [
-        {
-          "name": "H\u1ed3 Ng\u1ecdc H\u00e0",
-          "url": "https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ"
-        }
-      ],
-      "duration_ms": 263362,
-      "name": "C\u00f4 \u0110\u01a1n Tr\u00ean Sofa",
-      "url": "https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia"
-    },
-    {
-      "added_at": "2023-09-05 17:00:00",
-      "album": {
         "name": "Sau L\u01b0ng Anh C\u00f3 Ai K\u00eca",
         "url": "https://open.spotify.com/album/36Dvo2mP3FZEERwagzc0YB"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 244827,
       "name": "R\u1ed3i M\u00ecnh S\u1ebd G\u1eb7p Nhau - M\u01b0\u1eddi: L\u1eddi Nguy\u1ec1n Tr\u1edf L\u1ea1i Original Soundtrack",
       "url": "https://open.spotify.com/track/5EHV4QKIcf95NDmXH8nMg7"
-    },
-    {
-      "added_at": "2023-09-05 17:00:00",
-      "album": {
-        "name": "Em H\u00e1t Ai Nghe",
-        "url": "https://open.spotify.com/album/484MnMltSafY73ocrCoKgv"
-      },
-      "artists": [
-        {
-          "name": "Orange",
-          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
-        }
-      ],
-      "duration_ms": 279152,
-      "name": "Em H\u00e1t Ai Nghe",
-      "url": "https://open.spotify.com/track/1SzlLbTE7hTs75M2R1a1Tg"
     },
     {
       "added_at": "2023-09-05 17:00:00",

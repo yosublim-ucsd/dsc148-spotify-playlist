@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Uyara Torrente
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,054 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,060 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 13 | [Superficialidade](https://open.spotify.com/track/7pU23BhtMm53tbUHeQGlsR) | [Lourandes](https://open.spotify.com/artist/3Un59PenImYu2RdwRb6cDv) | [Superficialidade](https://open.spotify.com/album/3eMrv9WO94DVdgrRNgrK6I) | 3:30 |
 | 14 | [O Que é Ser Feliz?](https://open.spotify.com/track/62jUI4m8LQe1dnNAdnrGJw) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [O Que é Ser Feliz?](https://open.spotify.com/album/31sns1W2I24ykXz0vQ9UTR) | 2:46 |
 | 15 | [Sol de Meio Dia](https://open.spotify.com/track/7fz1tHUUg2OVtkLuRXWPry) | [Uyara Torrente](https://open.spotify.com/artist/1N0nFrM7Pjp6Y2X3KYFSi3) | [Montada em Seu Cabelo](https://open.spotify.com/album/7m9fVKmEsp4Q9H6qqjDevz) | 4:08 |
-| 16 | [Trincheira Nº 2](https://open.spotify.com/track/6QmfwUIedEkpYkzTyAPX5s) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY) | [Trincheira Nº 2](https://open.spotify.com/album/4kC2HnOGtisWp4pVtSNevg) | 3:21 |
+| 16 | [Trincheira Nº 02](https://open.spotify.com/track/6QmfwUIedEkpYkzTyAPX5s) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY) | [Trincheira Nº 02](https://open.spotify.com/album/4kC2HnOGtisWp4pVtSNevg) | 3:21 |
 | 17 | [se escolher primeiro](https://open.spotify.com/track/2a2IQ1Bbc6sgzhki9WqgpX) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX) | [ANTIPÁTICA](https://open.spotify.com/album/3nMF2SqvgYgvCkPRBWxba2) | 3:32 |
 | 18 | [Lágrima na Língua](https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc) | [Pedro Fonte](https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Luz Na Madrugada / Late Night Light](https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq) | 3:35 |
 | 19 | [Bicho Solto](https://open.spotify.com/track/7xKocq5r0niCRi1J0tM3kG) | [Lê Almeida](https://open.spotify.com/artist/4OHUAFNTvf9buFreLAAomV) | [Bicho Solto](https://open.spotify.com/album/205ulviajNbo2C25tOlzgY) | 4:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Camará Station](https://open.spotify.com/track/20WqfPX5U5kBIo3uMQRtVR) | [mellina](https://open.spotify.com/artist/7nGtXBuI7PJa8Rcy4aL9SY), [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh) | [Camará Station](https://open.spotify.com/album/6GvEAAEut6TqOuzZtIVkSU) | 2:19 |
 | 70 | [Infinita](https://open.spotify.com/track/4yv4dVvcP0ldZxjck7sQAF) | [Cidrais](https://open.spotify.com/artist/5QYAoZeTdLdRkiECvhZ5VE) | [Infinita](https://open.spotify.com/album/2Sni0Wz8fACtUr8Q96FgI2) | 3:58 |
 
-Snapshot ID: `MCwxZWI3OGRiZDU2ZGRiYjBiZTNmNDQ1Njg3MTk0Nzc5M2M3MjE4ZWY2`
+Snapshot ID: `MCxmMGI2NjJlOWY0YTQzMGUzYTcyMWExZmEwZDE1NjIwNDFhZmRiZTdj`

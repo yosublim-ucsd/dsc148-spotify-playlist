@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
 
-325 songs - 19 hr 32 min
+326 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Beijam](https://open.spotify.com/track/7CIWnLmuWHKIc3f5IoR8wD) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Beijam](https://open.spotify.com/album/0FqokGojULcFWTeeE1fVuU) | 3:50 | 2022-01-14 | 2022-07-02 |
 | [Beijei](https://open.spotify.com/track/2vZmLR6tlYvTv8UJOtLijZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Itary](https://open.spotify.com/artist/73JleuMWIuH1oUwF1bpd3w) | [Conexões Angola & Brasil](https://open.spotify.com/album/3DdYxPf8B8tsWQTDWuzrr2) | 3:41 | 2021-12-10 | 2022-06-01 |
 | [Bela](https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Bela](https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA) | 3:58 | 2021-12-10 |  |
-| [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 | 2021-12-10 |  |
+| [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 | 2021-12-10 | 2023-09-17 |
 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 | 2023-04-06 |  |
 | [Bet on yourself](https://open.spotify.com/track/0Olq5WLGSxtYR6nGiIjOaU) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Bet on yourself](https://open.spotify.com/album/4KIUJShFpdopaMTgIxMbuI) | 2:56 | 2022-04-22 | 2022-04-25 |
 | [Bet on yourself \- Remix](https://open.spotify.com/track/3ABmOg3mNqEysRnkfibTOL) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Bet on yourself \(Remix\)](https://open.spotify.com/album/4vBuMB8H9Uzw1ZJIKMTwrv) | 2:55 | 2022-05-13 | 2022-05-26 |
@@ -162,6 +162,7 @@
 | [Medo](https://open.spotify.com/track/0bkEoIUJf76pkTNopXcw81) | [NZ GANG](https://open.spotify.com/artist/1o38mG2THcoYNgnrNYRKyu) | [Medo](https://open.spotify.com/album/71opZXt6QorbZzUl3hHxnx) | 4:00 | 2022-01-27 | 2022-02-01 |
 | [Melhor De Mim](https://open.spotify.com/track/7MEDcLf5GnKbAZilveql59) | [Lupambo Produções](https://open.spotify.com/artist/21jubjQ9J5zyNTcO9EzOWK) | [Melhor De Mim](https://open.spotify.com/album/1HU1IPpg4qpPrUAX7AsetQ) | 3:42 | 2022-01-14 | 2022-02-03 |
 | [Menino Veneno](https://open.spotify.com/track/3OOWGAABy0Yj2U0Muw8JoN) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Menino Veneno](https://open.spotify.com/album/0jDx4qEfq1x82ASZnyLW4k) | 3:13 | 2023-04-13 | 2023-05-05 |
+| [Menta](https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Menta](https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk) | 3:16 | 2023-09-14 |  |
 | [Meu Marido](https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Meu Marido](https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq) | 3:39 | 2021-12-10 |  |
 | [Meu Paraíso](https://open.spotify.com/track/6M73AhE63sGLhHxmqCnW9E) | [Don Kikas](https://open.spotify.com/artist/4mgUfMSN3ZcadycYr07UJz) | [Meu Paraíso](https://open.spotify.com/album/5eU3rFR8WVEpnlandSG3O6) | 3:18 | 2022-02-25 | 2022-07-21 |
 | [Meu Tesouro](https://open.spotify.com/track/6cyJ5Q8AIpK3ocmcIrzWX2) | [Vladir](https://open.spotify.com/artist/0pPhGIiRWSnhALVdA98ybT) | [Meu Tesouro](https://open.spotify.com/album/3bsiP6JtB3tGbYagv7P1W5) | 3:57 | 2022-02-11 | 2022-02-17 |

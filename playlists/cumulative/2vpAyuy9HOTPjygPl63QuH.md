@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,305 songs - 3 day 2 hr 28 min
+1,306 songs - 3 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,6 +1028,7 @@
 | [Soul](https://open.spotify.com/track/2UgmTyemgoqkAVJoVnVgBO) | [MADDOW](https://open.spotify.com/artist/4hYtHrM4tWloVKMfKyxOVH) | [Soul](https://open.spotify.com/album/1tKWd6oGNVQgV68xNOHopZ) | 3:23 | 2023-04-28 | 2023-05-06 |
 | [Soul \- Extended](https://open.spotify.com/track/4n44U3URhByNH1BdXenHkx) | [Marra](https://open.spotify.com/artist/5WDLNKig5a9JSqAH9axXeM) | [Soul \(Extended\)](https://open.spotify.com/album/0IXQ0T4k9KRJO3iYfjcRzo) | 4:58 | 2023-06-09 | 2023-06-25 |
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-14 | 2022-10-29 |
+| [Sound Surrender](https://open.spotify.com/track/3BBkWotOi8D3QRQsZoFdsb) | [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH), [SELCO \(BE\)](https://open.spotify.com/artist/0GXQS4aBpAGNNvbGM9qSFt) | [Sound Surrender](https://open.spotify.com/album/5AxELIyZBP8NQMJIptYovG) | 3:52 | 2023-09-16 |  |
 | [Soundboy](https://open.spotify.com/track/5RU33jajJPKSXfqJoZpABf) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Soundboy](https://open.spotify.com/album/1FSB0rdp9vJrhfW9Aql04O) | 2:35 | 2023-08-25 | 2023-09-02 |
 | [Space Trip](https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Space Trip](https://open.spotify.com/album/2cPvcE5SPbVPyWNGOsisRD) | 2:50 | 2023-03-24 | 2023-04-01 |
 | [Speaker Freaker](https://open.spotify.com/track/5f2y5tmQpZULdL0hVmbv2G) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Speaker Freaker](https://open.spotify.com/album/4mloW9V9myqJR0LJBl6eVN) | 3:41 | 2023-09-15 |  |
@@ -1298,7 +1299,7 @@
 | [YDK](https://open.spotify.com/track/7uX1MHI86spjNNWuVXGHIH) | [GrooveYard](https://open.spotify.com/artist/2itNATItXtIi6sV8V4P2pT), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [YDK](https://open.spotify.com/album/5JdSrFEJ2DmB6Wa3pXutg5) | 3:38 | 2023-09-11 | 2023-09-16 |
 | [Yeah The Girls \(feat\. MERYLL\)](https://open.spotify.com/track/5hMlz6wuVF3gqwMGu1iDTg) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls \(feat\. MERYLL\)](https://open.spotify.com/album/3zr7x5u0ykdFsQo3t5GWJt) | 3:14 | 2022-09-02 | 2022-09-10 |
 | [You](https://open.spotify.com/track/64XuVVslGI3wdiz1nbFRcp) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [You](https://open.spotify.com/album/3loEQDP8cVTqbspSywER7u) | 5:29 | 2023-06-30 | 2023-07-16 |
-| [You Don't Know \(feat\. PVC\) \- Original Mix](https://open.spotify.com/track/17f8MQbbICShN6ChgIbmwb) | [Double Agent](https://open.spotify.com/artist/4BwhvsUVmhKmN2VuD8sUMM), [PVC](https://open.spotify.com/artist/2MhBByeZkfHW85qngIOjrK) | [You Don't Know \(feat\. PVC\)](https://open.spotify.com/album/5GoSswuHq1gZm8EvClZgrz) | 3:15 | 2023-09-15 |  |
+| [You Don't Know \(feat\. PVC\)](https://open.spotify.com/track/17f8MQbbICShN6ChgIbmwb) | [Double Agent](https://open.spotify.com/artist/4BwhvsUVmhKmN2VuD8sUMM), [PVC](https://open.spotify.com/artist/2MhBByeZkfHW85qngIOjrK) | [You Don't Know \(feat\. PVC\)](https://open.spotify.com/album/5GoSswuHq1gZm8EvClZgrz) | 3:15 | 2023-09-15 |  |
 | [You Got It](https://open.spotify.com/track/4TaEDUmbRR4t69Z7RwoWmQ) | [TYPE3](https://open.spotify.com/artist/4KdMZjTfXrkQ5v2IlGuj6S) | [You Got It](https://open.spotify.com/album/5PC1Objhufq1wettIi5kYM) | 3:37 | 2022-10-28 | 2022-11-06 |
 | [You Know](https://open.spotify.com/track/20bLpH2CElIpgse5pScosv) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [You Know](https://open.spotify.com/album/2hDT8orOLKA8uFP12x5BDM) | 2:57 | 2023-03-17 | 2023-03-25 |
 | [You Set Me Free](https://open.spotify.com/track/75HQDik0zGfqBjdqctuHqL) | [AISKA](https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [You Set Me Free](https://open.spotify.com/album/1GYS0TxlnkfulEtzqT4EU0) | 2:41 | 2022-05-18 | 2022-05-30 |

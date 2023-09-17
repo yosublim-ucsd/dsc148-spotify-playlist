@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Viva México, Caaaaaaaanciones chiditas para celebrar las fiestas patrias\. Nata, Balvin y Usher, Nodal, Doja, Sia y hasta Uzielito Mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,261 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,411 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Malquerido](https://open.spotify.com/track/6G1yySMkZOYwDrfePlBlwU) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [MALQUERIDO](https://open.spotify.com/album/7ueFtpTz3bDI2jTWLeRC4Q) | 3:27 |
 | 50 | [Can't Eat Clout](https://open.spotify.com/track/0nUSsajo4CTDlyytV0tzIJ) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Can't Eat Clout](https://open.spotify.com/album/7jQcrtFcRaVMrmirksldom) | 3:29 |
 
-Snapshot ID: `MCw2Y2QwNjQ0ZjVhYzdiZGNiNDc3MzY0YjFkYjFkMmQwYjFmNjcyMTBi`
+Snapshot ID: `MCw3YmZkNjU0MTg0MDI2MzkyZTJhMmJiMjg4YTVhOTg4MTIwY2IxYmMy`

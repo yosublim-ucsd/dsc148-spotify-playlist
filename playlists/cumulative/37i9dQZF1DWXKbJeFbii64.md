@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-85 songs - 4 hr 2 min
+86 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Heavy Thunderstorm](https://open.spotify.com/track/2FdcQ9lycbLNjjxjZobvzT) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:07 | 2022-10-28 |  |
 | [Hometown Thunders](https://open.spotify.com/track/6bgUoT7qJnDPKZi6uopxwR) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Hometown](https://open.spotify.com/album/2oJvTwCJsPFgAJPci0XKGR) | 1:55 | 2022-10-28 | 2023-06-29 |
 | [Lake Rain With Thunder](https://open.spotify.com/track/4yuc0tswxfh6DgaPTGXnA0) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [The Wet Forest](https://open.spotify.com/album/3lK8bIdeNTajiIBuBW9NP6) | 2:20 | 2022-10-28 |  |
+| [Let the Storm Pass](https://open.spotify.com/track/4pi0xQcZkKVpTiLBuxcJYm) | [Lewis Woods](https://open.spotify.com/artist/5W519wj4MHsdi0FStS6eNY) | [Let the Storm Pass](https://open.spotify.com/album/7HTbe1o8sEcuDLLIQgFfsy) | 2:06 | 2023-02-13 |  |
 | [Light And Thunder](https://open.spotify.com/track/7cJ41Y7QPLJiChkVBPcmsS) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Light Rain Passing Thunder](https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain Passing Thunder](https://open.spotify.com/album/4U6EdYlsg5cP85xBk7uBdM) | 3:13 | 2022-10-28 | 2023-07-20 |
 | [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 | 2023-02-16 |
@@ -74,7 +75,7 @@
 | [Thunder and Rain Sounds for Sleep](https://open.spotify.com/track/1IPWimN1vmECIFzZbhzuSk) | [Pure Relaxing Vibes](https://open.spotify.com/artist/4XdPbkEAdTU7KDmfOCIakS) | [Thunderstorm Sounds for Sleep](https://open.spotify.com/album/4yeyKUHbsCyfW4sLM8zFlV) | 8:19 | 2022-10-28 | 2023-01-06 |
 | [Thunder Around The Clock](https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Century Storm](https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ) | 2:20 | 2022-10-28 |  |
 | [Thunder In Spring](https://open.spotify.com/track/6Gs3SkXflNh1QrTcFVxjtz) | [Peal Of Thunder](https://open.spotify.com/artist/4JNb7YkGnc92m2gIqgeM0F) | [Thunder In Spring](https://open.spotify.com/album/19W4kCGzbmSQBfNmdmkUE8) | 2:33 | 2022-10-28 |  |
-| [Thunder In The Forest](https://open.spotify.com/track/0GHYPILlyRq1NTVNEmhNZR) | [Drizzly Bear](https://open.spotify.com/artist/4kFH5XN6V0zQVZ2G6sp0ZE) | [Thunder In The Forest](https://open.spotify.com/album/7iLrSoNoZPV83W7i2Hx2Gm) | 2:18 | 2022-12-09 |  |
+| [Thunder In The Forest](https://open.spotify.com/track/0GHYPILlyRq1NTVNEmhNZR) | [Drizzly Bear](https://open.spotify.com/artist/4kFH5XN6V0zQVZ2G6sp0ZE) | [Thunder In The Forest](https://open.spotify.com/album/7iLrSoNoZPV83W7i2Hx2Gm) | 2:18 | 2022-12-09 | 2023-09-17 |
 | [Thunder In The Forest \- Seamless](https://open.spotify.com/track/3N96NGKoU8lgJs9ENxRUpc) | [Tranquility Sound Machine](https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj) | [Thunder In The Forest](https://open.spotify.com/album/1WAmKL4qkDBnNjeMNt9M3w) | 2:50 | 2022-10-28 |  |
 | [Thunder In The Night](https://open.spotify.com/track/1LbrOh8zHb6VRNJLQi8HmK) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Thunder On The Mountain](https://open.spotify.com/album/2VDjzhhW14ytIWeqte0oSs) | 3:38 | 2022-10-28 | 2023-09-09 |
 | [Thunder Meditation](https://open.spotify.com/track/3SeR8lSXT7oZ6MB7YLZqnr) | [Tempest](https://open.spotify.com/artist/6vVLDxFDTld21ezPmiTJZ0) | [Wandering Storm](https://open.spotify.com/album/0raeXON0wVFrZAe4mQn1sm) | 3:28 | 2022-10-28 | 2023-04-10 |

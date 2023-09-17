@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: GIMS, Maluma",
-  "num_followers": 37920,
+  "num_followers": 37935,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTUyMWYwZGJhNzFkMWQ1OTM1ODI2YWE2M2IyMTUwM2UxY2MzODJl",
+  "snapshot_id": "MCxjNGMxYmNjMTAyOWYzZGFhMDJmOGZiMzBhMDY1ZGQ3YTBiZTg2NGY3",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -135,26 +135,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Y Dor",
-        "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
         },
         {
-          "name": "Unleaded",
-          "url": "https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 145620,
-      "name": "Y Dor",
-      "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
+      "duration_ms": 136711,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -175,22 +171,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7"
+        "name": "Y Dor",
+        "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
       },
       "artists": [
         {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         },
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Unleaded",
+          "url": "https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 136711,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
+      "duration_ms": 145620,
+      "name": "Y Dor",
+      "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "C\u2019est la Vie",
+        "url": "https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 208469,
+      "name": "C\u2019est la Vie",
+      "url": "https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "TESLA (feat. DaChoyce)",
         "url": "https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "C\u2019est la Vie",
-        "url": "https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD"
-      },
-      "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        }
-      ],
-      "duration_ms": 208469,
-      "name": "C\u2019est la Vie",
-      "url": "https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "\u00c7a va",
         "url": "https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv"
       },
@@ -379,6 +379,26 @@
       "duration_ms": 171853,
       "name": "\u00c7a va",
       "url": "https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 176109,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/02RGARryimtGfuawXbKj8P"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -399,22 +419,6 @@
       "duration_ms": 154580,
       "name": "\u00c7a va !",
       "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Femmes",
-        "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 131399,
-      "name": "Femmes",
-      "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -451,6 +455,22 @@
       "duration_ms": 171754,
       "name": "Localis\u00e9",
       "url": "https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Femmes",
+        "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 131399,
+      "name": "Femmes",
+      "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -547,18 +567,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Mon jaun\u00e9",
-        "url": "https://open.spotify.com/album/0PXL8hSka7EKM9IO4ijtwD"
+        "name": "La Peuf 6",
+        "url": "https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp"
       },
       "artists": [
         {
-          "name": "Gambino",
-          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
         }
       ],
-      "duration_ms": 198844,
-      "name": "Mon jaun\u00e9",
-      "url": "https://open.spotify.com/track/33Wq09RGanTl3JXuyUN0ga"
+      "duration_ms": 168359,
+      "name": "La Peuf 6",
+      "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -595,24 +615,24 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "La Peuf 6",
-        "url": "https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp"
+        "name": "Mon jaun\u00e9",
+        "url": "https://open.spotify.com/album/0PXL8hSka7EKM9IO4ijtwD"
       },
       "artists": [
         {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
         }
       ],
-      "duration_ms": 168359,
-      "name": "La Peuf 6",
-      "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
+      "duration_ms": 198844,
+      "name": "Mon jaun\u00e9",
+      "url": "https://open.spotify.com/track/33Wq09RGanTl3JXuyUN0ga"
     },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "R+V",
-        "url": "https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja"
+        "name": "LOVE'n'TENDRESSE",
+        "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
       },
       "artists": [
         {
@@ -620,25 +640,9 @@
           "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
         }
       ],
-      "duration_ms": 89146,
-      "name": "R+V",
-      "url": "https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "M\u00e9diterran\u00e9e",
-        "url": "https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4"
-      },
-      "artists": [
-        {
-          "name": "Bon Entendeur",
-          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz"
+      "duration_ms": 194666,
+      "name": "LOVE'n'TENDRESSE",
+      "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -659,6 +663,22 @@
       "duration_ms": 173036,
       "name": "Je remplace mes exs",
       "url": "https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "M\u00e9diterran\u00e9e",
+        "url": "https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        }
+      ],
+      "duration_ms": 183346,
+      "name": "M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -739,8 +759,8 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "LOVE'n'TENDRESSE",
-        "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
+        "name": "R+V",
+        "url": "https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja"
       },
       "artists": [
         {
@@ -748,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
         }
       ],
-      "duration_ms": 194666,
-      "name": "LOVE'n'TENDRESSE",
-      "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
+      "duration_ms": 89146,
+      "name": "R+V",
+      "url": "https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -787,6 +807,38 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        }
+      ],
+      "duration_ms": 159841,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Z\u00e9nith",
+        "url": "https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r"
+      },
+      "artists": [
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Z\u00e9nith",
+      "url": "https://open.spotify.com/track/7waEJapWACgWkq3by4intP"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Grazie",
         "url": "https://open.spotify.com/album/5Q239NRdV7f1dPgXgDfGPb"
       },
@@ -799,26 +851,6 @@
       "duration_ms": 185400,
       "name": "Grazie",
       "url": "https://open.spotify.com/track/3VqP91f5h7apVS5huW6Tbr"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Double Feature",
-        "url": "https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41"
-      },
-      "artists": [
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        },
-        {
-          "name": "Ya Cetidon",
-          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Rien \u00e0 faire",
-      "url": "https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -839,50 +871,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Par Fiert\u00e9",
-        "url": "https://open.spotify.com/album/3joknrlbS386Npao4I4p49"
+        "name": "D\u00e9nouement heureux",
+        "url": "https://open.spotify.com/album/3xMJrYwzMPCjf5Co98wuAI"
       },
       "artists": [
         {
-          "name": "Philippine",
-          "url": "https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E"
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
         }
       ],
-      "duration_ms": 232927,
-      "name": "Jn'attendrai plus",
-      "url": "https://open.spotify.com/track/6UOGItOYXOpnqCORE9VP9t"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Taxi",
-        "url": "https://open.spotify.com/album/7MxQpGrwCZXl2qiVX2J0rA"
-      },
-      "artists": [
-        {
-          "name": "Clio",
-          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/4bVvBgvk8UmbGDerfsDex5"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Sandy",
-        "url": "https://open.spotify.com/album/7xplnZSEdsGyiOU2QBQXzi"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 165407,
-      "name": "Sandy",
-      "url": "https://open.spotify.com/track/1szKZnGxBmd1JgMzPEzF8G"
+      "duration_ms": 202266,
+      "name": "D\u00e9nouement heureux",
+      "url": "https://open.spotify.com/track/5zbKy1U5QmtMldEVvhuQpe"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

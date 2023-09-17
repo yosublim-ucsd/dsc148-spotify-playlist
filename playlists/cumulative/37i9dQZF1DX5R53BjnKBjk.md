@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-278 songs - 14 hr 23 min
+279 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [foda que ela era linda](https://open.spotify.com/track/1pGKEGUMYsHhEdKnE6itcZ) | [Pelados](https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU) | [Foi Mal](https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD) | 3:11 | 2022-11-18 |  |
 | [Fuga](https://open.spotify.com/track/2fsUMYtYOVfZbTqMw0bpOC) | [Karla](https://open.spotify.com/artist/3aM66YTgWf67QaT8HVg3ck) | [Fuga](https://open.spotify.com/album/5DWzUkiahHCRG1X1GsWNA1) | 3:36 | 2022-01-14 | 2022-09-24 |
 | [Fugir da Miragem](https://open.spotify.com/track/1pwYWr1LQ1D3l5Y9Xmgy3I) | [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw), [Magno Brito](https://open.spotify.com/artist/6PBnyjnpLiQIhicjCOV8dX), [Raíssa Leal](https://open.spotify.com/artist/72ig3Ygi4pm50DjZXJm0tY) | [Fugir da Miragem](https://open.spotify.com/album/12V2fGjtCL440oPef3NBDv) | 3:26 | 2022-01-07 | 2022-07-23 |
-| [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 | 2022-12-09 |  |
+| [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 | 2022-12-09 | 2023-09-17 |
 | [Fundo Azul](https://open.spotify.com/track/6hJ5xJA0c5P6C3wrdeqDvP) | [Guilherme Simon](https://open.spotify.com/artist/3Tp96mCSKhM8Uf6DsDLadW) | [Fundo Azul](https://open.spotify.com/album/4iIlN7xm4zlqxq10wX716A) | 3:05 | 2022-01-07 | 2022-02-19 |
 | [Fênix](https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV) | [Amanda Cadore](https://open.spotify.com/artist/1QzbQKoB7I3Z9GP4BlfZNA), [Dandara Manoela](https://open.spotify.com/artist/1lh8s7gXcq7nXaidv3OMt3), [Joana Castanheira](https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn) | [Fênix](https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR) | 3:46 | 2022-08-12 | 2022-11-26 |
 | [Goleada](https://open.spotify.com/track/7a3aJIjePAAOwR7sSyb3kQ) | [Lukas Motta](https://open.spotify.com/artist/6HyIMetsnAda0NtVs0rGzH) | [Goleada](https://open.spotify.com/album/7tHt4NCu03XILmJB2I6TS9) | 2:04 | 2022-10-28 | 2022-11-18 |
@@ -133,6 +133,7 @@
 | [Livre Demais](https://open.spotify.com/track/1pSno5Vgb2OxrLrKj2mzdW) | [MARI DK](https://open.spotify.com/artist/7DOnSkR7q0ollBBQp6yzs5) | [Livre Demais](https://open.spotify.com/album/5qAEvQ49A6y6EmctXgKr0B) | 3:25 | 2022-01-07 | 2022-08-20 |
 | [Longe Daqui](https://open.spotify.com/track/2dLB3PppSIb8Q1FeAEfCW6) | [Ana Morais](https://open.spotify.com/artist/7h2iWQdQSLt2BzbdKFSUg6) | [Pensei em Esquecer o Amanhã](https://open.spotify.com/album/5r3Kde6oZpr8Pz3EJdAtJv) | 1:45 | 2022-08-26 | 2022-12-10 |
 | [Lucy](https://open.spotify.com/track/4QR0Kn2lUmZkmGwMDquXkf) | [Corage](https://open.spotify.com/artist/07QN0Upi26yasBhiwF7ekO), [By Zero](https://open.spotify.com/artist/2bzreBUv7BOuRtNBUK5PuJ), [Wav](https://open.spotify.com/artist/7iLM6Q1zaaBEfulJi73b69) | [Lucy](https://open.spotify.com/album/6Uhtrvi5cf9utDldaPXNqz) | 2:17 | 2022-06-23 | 2022-10-01 |
+| [Lágrima na Língua](https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc) | [Pedro Fonte](https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Luz Na Madrugada / Late Night Light](https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq) | 3:35 | 2023-09-15 |  |
 | [Madrugada](https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Madrugada](https://open.spotify.com/album/4zntUGntUiylFop68gZFiw) | 2:38 | 2022-12-02 |  |
 | [Madá \- Remix](https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [Madá \(Remix\)](https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0) | 3:25 | 2022-12-09 |  |
 | [Mais uma Vez](https://open.spotify.com/track/1Tdiy0Gq9FfzdlhMR0B7zk) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Mais uma Vez](https://open.spotify.com/album/7fpqWKQ8b4sDfhJ6rBBMFj) | 3:22 | 2022-01-07 | 2022-07-23 |

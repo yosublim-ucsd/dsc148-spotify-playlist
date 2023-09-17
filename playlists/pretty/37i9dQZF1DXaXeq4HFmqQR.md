@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paula Rivas.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,574 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,572 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,26 +13,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 3 | [Adentro](https://open.spotify.com/track/4CROIfMRtC28Wx9otPTPER) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:18 |
 | 4 | [Agua Segura](https://open.spotify.com/track/1ieytmUoQYwRV9AzvdgVjf) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Todas Seremos Reinas](https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd) | 3:40 |
 | 5 | [Millones](https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Almismotiempo](https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ) | 3:42 |
-| 6 | [DEJA TU SHOW](https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [DEJA TU SHOW](https://open.spotify.com/album/3DCIaAZtRrAlytdhtnRIZB) | 3:29 |
-| 7 | [Nos lo hemos dicho todo](https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nos lo hemos dicho todo](https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3) | 4:13 |
+| 6 | [Nos lo hemos dicho todo](https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nos lo hemos dicho todo](https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3) | 4:13 |
+| 7 | [DEJA TU SHOW](https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [DEJA TU SHOW](https://open.spotify.com/album/3DCIaAZtRrAlytdhtnRIZB) | 3:29 |
 | 8 | [Como Yo Ninguna](https://open.spotify.com/track/0Eql8IdecTYHRMOBI8Srh3) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Mariposa](https://open.spotify.com/album/5O6FpOsXDn8QRejuC3t3Gg) | 3:31 |
 | 9 | [Humedad](https://open.spotify.com/track/71JlWe6b281dzhGZVZS0Tc) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 4:13 |
 | 10 | [e\-mail](https://open.spotify.com/track/4XZvEK7CpqmBEBvZoEiwTl) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Red Fingers](https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo) | [e\-mail](https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn) | 2:31 |
 | 11 | [Búscate Otra :\(](https://open.spotify.com/track/7vHjX6rRKFXoMz91dl6M2X) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Búscate Otra :\(](https://open.spotify.com/album/0tsIWQmMJ2O8A3zZYA8b3h) | 3:30 |
 | 12 | [Jugando Con Fuego](https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:18 |
-| 13 | [Invencible](https://open.spotify.com/track/79tK7MDahFqieifay7yXCb) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Invencible](https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl) | 3:56 |
+| 13 | [Rika](https://open.spotify.com/track/5bSIyaz49u9YhmMjtgzQfS) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/2cjlPueJH53uVj1n1N1brG) | 3:08 |
 | 14 | [Faroles](https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Faroles](https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0) | 2:58 |
 | 15 | [El Compromiso](https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 2:51 |
-| 16 | [Rika](https://open.spotify.com/track/5bSIyaz49u9YhmMjtgzQfS) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Rika](https://open.spotify.com/album/2cjlPueJH53uVj1n1N1brG) | 3:08 |
+| 16 | [Invencible](https://open.spotify.com/track/79tK7MDahFqieifay7yXCb) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Invencible](https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl) | 3:56 |
 | 17 | [Al Fin Te Encontre](https://open.spotify.com/track/7odQniwuBwQRemt2fr15Oy) | [Camila Silva](https://open.spotify.com/artist/729RhSgVpFUGyfQpiRHadP) | [Camila Silva](https://open.spotify.com/album/73V37JUsjK8ejSN84QzS5Y) | 3:23 |
 | 18 | [Yo Sin Tu Amor](https://open.spotify.com/track/4sarzJnQZIJJ2n0me3jKdK) | [Monserrat Bustamante](https://open.spotify.com/artist/1whqJsYsiIvbWi0Kz0kHLx) | [La Chica de Rojo](https://open.spotify.com/album/1APLL3BxSZiYpMQ4v15Ao1) | 3:42 |
 | 19 | [A Veces Tú](https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Maleza](https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd) | 3:28 |
 | 20 | [Doncella](https://open.spotify.com/track/20HsMGWCEbTCCpqBriaaSK) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Doncella](https://open.spotify.com/album/7DRvyobzwi9UOhFAagwe6D) | 3:34 |
 | 21 | [El Regalito](https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [El Regalito](https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl) | 2:31 |
 | 22 | [Cómo Voy a Renunciar a Ti](https://open.spotify.com/track/2RZKss79TnsQXTzxXvXJLv) | [Cecilia Echenique](https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY) | [El Amor Existe Aún](https://open.spotify.com/album/6Xp1xglTVJn57Ia8euOBF0) | 4:13 |
-| 23 | [Si Te Volvieras Real](https://open.spotify.com/track/4qeQ2gEhB8zz8zyU3Uo6gz) | [Andrea Labarca](https://open.spotify.com/artist/5sHK6Fs9yxvTkYJhHnykTK) | [Andrea Labarca](https://open.spotify.com/album/7iqFva1GftiB41jKOXcJfn) | 5:02 |
+| 23 | [Dame Luz](https://open.spotify.com/track/6SCiGD1ztcfEu7tPaUI027) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 4:58 |
 | 24 | [Me Enamore De Mi](https://open.spotify.com/track/5Ollqs3igkGH8yxiAyCjj1) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Todas Seremos Reinas](https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd) | 2:48 |
-| 25 | [Dame Luz](https://open.spotify.com/track/6SCiGD1ztcfEu7tPaUI027) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 4:58 |
+| 25 | [Si Te Volvieras Real](https://open.spotify.com/track/4qeQ2gEhB8zz8zyU3Uo6gz) | [Andrea Labarca](https://open.spotify.com/artist/5sHK6Fs9yxvTkYJhHnykTK) | [Andrea Labarca](https://open.spotify.com/album/7iqFva1GftiB41jKOXcJfn) | 5:02 |
 | 26 | [Aprendí De Ti](https://open.spotify.com/track/1734yg0bzf4SyRTrE61l6o) | [Soledad Guerrero](https://open.spotify.com/artist/2mC6OvTH4wDXUVYofwCrki) | [Soledad](https://open.spotify.com/album/7EY7Z13sJfpKBrWnrttzvx) | 3:50 |
 | 27 | [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 |
 | 28 | [Matorrales](https://open.spotify.com/track/4Ps9r2oTq5c60edB1Pj0sn) | [La Guacha](https://open.spotify.com/artist/1XjMUgVvJTqba3Cvsbw1zi) | [Fácil](https://open.spotify.com/album/4NYS5h8qs6oZOwylo3OVBT) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Brindemos por Ellos](https://open.spotify.com/track/7G8iKkndVdVZyVdS4Fz1cV) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Aquí Comienza Nuestra Historia](https://open.spotify.com/album/0VD7iwPecnytsRxk4JUaAU) | 2:37 |
 | 50 | [Demencia por Amor](https://open.spotify.com/track/0HVTRu8tQNY1NpMLOeYY2s) | [Cecilia Echenique](https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY) | [Demencia por Amor](https://open.spotify.com/album/3s1mZseI3Qt1ekDMvIB3fF) | 2:43 |
 
-Snapshot ID: `MCxmNjFhMmI5YTA0YTliN2E3MTY5MmE5YzI3YmY5NDNjMzBjZDFkOTIw`
+Snapshot ID: `MCw1ZDgxODZjZjg0Yjc5NDgxZmU2NWViYzBhM2FkZTc0YTVkM2NhZjE0`

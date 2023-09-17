@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW!  BERCHANDYA! Cover: CLAUDIA, HNATA",
-  "num_followers": 15812,
+  "num_followers": 15833,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2U4MjY0ZTUyZDcwODQ4OTY1MWVmMjMwMDc0M2UxM2YzOTA0MzM5",
+  "snapshot_id": "MCxhMjFkNjM2M2VjNDY4MzI2ODJhYzQxN2YyMGU1ZjdlMWE0MDRmNTVk",
   "tracks": [
     {
       "added_at": "2023-09-15 01:40:23",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-15 01:40:23",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
-      },
-      "artists": [
-        {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
-    },
-    {
-      "added_at": "2023-09-15 01:40:23",
-      "album": {
         "name": "Semua Aku Dirayakan",
         "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 310625,
       "name": "Semua Aku Dirayakan",
       "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
+    },
+    {
+      "added_at": "2023-09-15 01:40:23",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
+      },
+      "artists": [
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N"
     },
     {
       "added_at": "2023-09-15 01:40:23",
@@ -875,22 +875,22 @@
     {
       "added_at": "2023-09-15 01:40:23",
       "album": {
-        "name": "Ekspektasi",
-        "url": "https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M"
+        "name": "Berona",
+        "url": "https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV"
       },
       "artists": [
         {
-          "name": "Aruma",
-          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         },
         {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 299210,
-      "name": "Ekspektasi",
-      "url": "https://open.spotify.com/track/5DEur1IK5rtQx90C0DcHpz"
+      "duration_ms": 193000,
+      "name": "Luka",
+      "url": "https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp"
     }
   ],
   "unique_name": "OTW ",

@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 6477,
+  "num_followers": 6487,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NzU1Miw5YjQ1OGU3ODA0NDBjYjViMDc2OTVkZDJjZjE4NDg1MzUyNjk4ZGU3",
+  "snapshot_id": "NzU1NSwxMTM0MzI0OGM1ZTQzNDU0OWQ0Mjc0ODk1YzJkZGYwYmZhYzQ4MWIy",
   "tracks": [
     {
       "added_at": "2023-09-15 09:03:38",
@@ -425,7 +425,7 @@
         }
       ],
       "duration_ms": 195348,
-      "name": "You Don't Know (feat. PVC) - Original Mix",
+      "name": "You Don't Know (feat. PVC)",
       "url": "https://open.spotify.com/track/17f8MQbbICShN6ChgIbmwb"
     },
     {
@@ -463,6 +463,26 @@
       "duration_ms": 291102,
       "name": "How it is - Subshift Remix",
       "url": "https://open.spotify.com/track/0Hfss4Bbjukqm44GRxsJvF"
+    },
+    {
+      "added_at": "2023-09-16 07:51:27",
+      "album": {
+        "name": "Sound Surrender",
+        "url": "https://open.spotify.com/album/5AxELIyZBP8NQMJIptYovG"
+      },
+      "artists": [
+        {
+          "name": "Poolhaus",
+          "url": "https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH"
+        },
+        {
+          "name": "SELCO (BE)",
+          "url": "https://open.spotify.com/artist/0GXQS4aBpAGNNvbGM9qSFt"
+        }
+      ],
+      "duration_ms": 232538,
+      "name": "Sound Surrender",
+      "url": "https://open.spotify.com/track/3BBkWotOi8D3QRQsZoFdsb"
     },
     {
       "added_at": "2023-09-15 09:06:06",

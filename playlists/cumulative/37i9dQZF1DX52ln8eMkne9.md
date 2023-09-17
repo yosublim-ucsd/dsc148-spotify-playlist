@@ -4,13 +4,13 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-303 songs - 22 hr 43 min
+304 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Moon River"](https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | ["Moon River"](https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf) | 2:52 | 2023-03-16 |  |
 | ['Round Midnight](https://open.spotify.com/track/11Ixvu6JuymPvgpOhQlR1M) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 5:51 | 2021-12-17 | 2022-07-29 |
-| ['Round Midnight](https://open.spotify.com/track/33nFpxA8wfc2dKw5lFw7PF) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 5:51 | 2023-05-30 |  |
+| ['Round Midnight](https://open.spotify.com/track/33nFpxA8wfc2dKw5lFw7PF) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 5:51 | 2023-05-30 | 2023-09-17 |
 | ['S Wonderful](https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:50 | 2021-12-17 |  |
 | ['Tis Autumn](https://open.spotify.com/track/0VUDiPnBlf13otxOPzSPd9) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Pat LaBarbera](https://open.spotify.com/artist/5RUD9RUhciOcJG5dL8s3Ja) | ['Tis Autumn](https://open.spotify.com/album/2SU5rrWTBsP4snnjoHBtyD) | 4:35 | 2022-09-27 |  |
 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 | 2022-02-18 |  |
@@ -297,6 +297,7 @@
 | [What'll I Do](https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [What'll I Do](https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz) | 4:05 | 2021-12-17 |  |
 | [When I Grow Too Old To Dream \- Remastered 1999](https://open.spotify.com/track/1CANiqTKDkdkLklQnvGjvf) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:34 | 2021-12-17 | 2022-05-03 |
 | [When The World Was Young](https://open.spotify.com/track/041C0yfThCF0m5dKdrO3zZ) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 3:29 | 2021-12-17 |  |
+| [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 | 2023-09-15 |  |
 | [Where or When](https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 3:50 | 2022-09-27 |  |
 | [While My Lady Sleeps \(take 10\) \- Alternate Take](https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 4:22 | 2021-12-17 |  |
 | [Will I Find](https://open.spotify.com/track/34Qfsdz0oLWpI0E9Z64Ps1) | [Carmen Q\. Rothwell](https://open.spotify.com/artist/3gIcOkO2AmfH34rmPfXBct) | [Don't Get Comfy / Nowhere](https://open.spotify.com/album/6OY9cmz2EmT35b9LwkdJ4S) | 4:10 | 2021-12-17 |  |

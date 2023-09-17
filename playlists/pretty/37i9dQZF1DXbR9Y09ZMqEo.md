@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 
 > Listen to music from and inspired by You Are So Not Invited To My Bat Mitzvah, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,107 likes - 53 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,208 likes - 53 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 | 24 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
 | 25 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/79j4vuHRCd99r5PvgG1zev) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I Know Alone](https://open.spotify.com/album/4veKZd8uf7TDVo1KQRVhuk) | 3:24 |
 | 26 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 |
-| 27 | [Réputation](https://open.spotify.com/track/09Kl5FRg7r0ARrJ7J7kaCs) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime](https://open.spotify.com/album/2AnS2YC2kJzE8gBw5peWL8) | 3:22 |
+| 27 | [Réputation](https://open.spotify.com/track/5lvYF7h7GkCv4n1ndjxKdr) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime](https://open.spotify.com/album/2O6KlO4PZKdNq2cvniEYD9) | 3:22 |
 | 28 | [Post Humorous](https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X) | 4:39 |
 | 29 | [Party of a Lifetime](https://open.spotify.com/track/3eLX0D55TUe7sswSA3Vs4W) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Party of a Lifetime](https://open.spotify.com/album/1dsW2oJzZPWs8muuGUk0Lm) | 2:30 |
 | 30 | [Cha Cha Slide \- Original Live Platinum Band Mix](https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 6:27 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR9Y09ZMqEo.md) - [plain]
 | 52 | [Credits](https://open.spotify.com/track/1BQox2F40JFMA2zUEf10lo) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 1:18 |
 | 53 | [What's Mine Is Yours](https://open.spotify.com/track/42ZVy4bY9hFT21Cb70oqit) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 1:14 |
 
-Snapshot ID: `MCxlYWIxZDcxNGNjZmJjY2RlYjYzZjE1OWExNmVjYzE2ZWQxNTEyZTBi`
+Snapshot ID: `MCw4ZTE5YjE4MGE1MjVlNzJmYmM5ZjA5NTgwNDdkMDJlYzZiMjRhOGNm`

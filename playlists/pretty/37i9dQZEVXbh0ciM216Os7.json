@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDA3ZjFkZGEyMzEyMTZkOWEyYmZkMzgzZDlhYjUyNDRlNg==",
+  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDBhOTBmYzE2OTJiMzVmYzc3NDgxZWI1MzFlMTVmMmIyZg==",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -20,15 +20,15 @@
           "url": "https://open.spotify.com/artist/16HroKQr2QoO2mBunvXSoh"
         }
       ],
-      "duration_ms": 150480,
-      "name": "Just Chillin - Beat",
-      "url": "https://open.spotify.com/track/3fMaz0UQd2urkpmG0Z59dS"
+      "duration_ms": 241937,
+      "name": "Protect ya Neck - Beat",
+      "url": "https://open.spotify.com/track/3v8miUWCBtKwa1u0pDhzC1"
     },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Fingerblast",
-        "url": "https://open.spotify.com/album/1rt0e7RP4a3PMHcQuzkUjq"
+        "name": "Ram",
+        "url": "https://open.spotify.com/album/3o88dhnm1Bn9EH8vweXsnM"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
         }
       ],
-      "duration_ms": 172653,
-      "name": "Fingerblast",
-      "url": "https://open.spotify.com/track/2EJQGBhREOhahAghqchmKt"
+      "duration_ms": 204573,
+      "name": "Credit Card",
+      "url": "https://open.spotify.com/track/43TbuGlhIlV8G70L8rATQo"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -60,9 +60,9 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 118436,
-      "name": "Rebuke - Instrumental",
-      "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
+      "duration_ms": 304000,
+      "name": "K&A - Instrumental",
+      "url": "https://open.spotify.com/track/7z5rBtWxHWNpkqyPxGpkke"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -87,6 +87,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Doomsday Party",
         "url": "https://open.spotify.com/album/4vjJPfQI2sQ0lmGMmsqwrj"
       },
@@ -99,6 +115,26 @@
       "duration_ms": 315964,
       "name": "Doomsday Party",
       "url": "https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 218794,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -123,6 +159,34 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "So Gold (Immersive Edition)",
+        "url": "https://open.spotify.com/album/7vsKdJyq79Nf8MChnGpGpy"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Didda Joe",
+          "url": "https://open.spotify.com/artist/6RiH4it36bTUNBvUjPH2DP"
+        },
+        {
+          "name": "August Rose",
+          "url": "https://open.spotify.com/artist/4cGbWF0MMhak6Ws9ROGC44"
+        }
+      ],
+      "duration_ms": 246977,
+      "name": "No Particulars",
+      "url": "https://open.spotify.com/track/0cP1OjR8nVm0iA4Zk3EYnC"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
       },
@@ -132,9 +196,25 @@
           "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 445933,
-      "name": "All Mountains",
-      "url": "https://open.spotify.com/track/1u7JDkPMV47l42Ajimwnzw"
+      "duration_ms": 370653,
+      "name": "Loved Ones",
+      "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Warrior Tour (Live Studio)",
+        "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
+      },
+      "artists": [
+        {
+          "name": "IAM",
+          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Je danse le mia - Live Studio",
+      "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -159,62 +239,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "The Caliphate (feat. Vince Staples)",
-        "url": "https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "The Caliphate (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Warrior Tour (Live Studio)",
-        "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
-      },
-      "artists": [
-        {
-          "name": "IAM",
-          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "Je danse le mia - Live Studio",
-      "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Bigger Houses",
         "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
       },
@@ -231,8 +255,8 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Love Album: Off The Grid",
-        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
+        "name": "Another One Of Me",
+        "url": "https://open.spotify.com/album/2xnqikpcvH2vBYc89VnwwL"
       },
       "artists": [
         {
@@ -254,7 +278,7 @@
       ],
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
-      "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
+      "url": "https://open.spotify.com/track/3vAdBZvbr3bFBiSLT4iVap"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -291,22 +315,6 @@
       "duration_ms": 150000,
       "name": "Asleep",
       "url": "https://open.spotify.com/track/3U4CpnJrvtVacXGhVhY32y"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "USA",
-        "url": "https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "USA",
-      "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -355,6 +363,22 @@
       "duration_ms": 192000,
       "name": "Asking (feat. Clementine Douglas) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/6bJa9BTNHYGyeHhJr41Kfb"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Magic Dust",
+        "url": "https://open.spotify.com/album/4DyKsUIl4sBkC3S9UvOIfF"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "duration_ms": 124086,
+      "name": "Magic Dust",
+      "url": "https://open.spotify.com/track/0spCbuvYiF5DHP0H6WkNgz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -451,6 +475,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 482744,
+      "name": "Denardirn",
+      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Good Brother",
         "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
       },
@@ -467,22 +507,6 @@
       "duration_ms": 193390,
       "name": "Good Brother",
       "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/7g09Qn1ZsVdk4V8KusjWUn"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 226203,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -527,26 +551,6 @@
       "duration_ms": 125518,
       "name": "Shaolin's Revenge",
       "url": "https://open.spotify.com/track/6LN4koIhyYzlVTCYTPhK7h"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/6I5IlEokrrRc7JE06R6R3n"
-      },
-      "artists": [
-        {
-          "name": "Gangman",
-          "url": "https://open.spotify.com/artist/5ggH1sWqm8IFkr1df1QXQB"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 211894,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/2j5J8ywEvdkXIPL8bjzaOz"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: THE F LIBRA.
 
-598 songs - 1 day 6 hr 15 min
+599 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Dar as Mãos](https://open.spotify.com/track/2nDEQfT7BX5uduIec2q6k4) | [Khronic](https://open.spotify.com/artist/4EZ98wKOxPWAdOfUKSbrxx), [Mikas Cabral](https://open.spotify.com/artist/10akRpZgnUrvq9FE6MvMzh) | [Dar as Mãos](https://open.spotify.com/album/788fdxFBcQBrvwHYkg87Im) | 4:33 | 2022-08-25 | 2022-09-21 |
 | [Darwin](https://open.spotify.com/track/2BmGKNe3gmxh8Nx65rwNen) | [Drew](https://open.spotify.com/artist/3VpAv7j8HvUdhcg8U7ZZEA), [Stavo](https://open.spotify.com/artist/14BtFyOsIojw0xiQ1dGM9a) | [Darwin](https://open.spotify.com/album/1KBSMFrvi0ER46ILzSgjy1) | 3:03 | 2023-01-06 | 2023-03-18 |
 | [de longe](https://open.spotify.com/track/64Dw1NR6wGTJHMIdWyZUz9) | [Bala de Prata](https://open.spotify.com/artist/6oh2B9GVxXsJ0cEMZuHbpr), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y), [Djimetta](https://open.spotify.com/artist/1v1FKWoa3qc7TZBySi0eCW) | [de longe](https://open.spotify.com/album/04GuuwxXFyYKrApJTvDobv) | 4:13 | 2023-04-27 | 2023-07-28 |
-| [Deixa\-me ir](https://open.spotify.com/track/4R3NIm33KTJll9OAJtSJJ9) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Deixa\-me ir](https://open.spotify.com/album/41IpZL7Rn6Tazqc8UpsXrf) | 3:57 | 2023-08-03 |  |
+| [Deixa\-Me Ir](https://open.spotify.com/track/2zqmgEjKaHLhdl2JRlNf8I) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Deixa\-Me Ir](https://open.spotify.com/album/5cFft1CM46iWYyArgD2NxJ) | 3:57 | 2023-09-14 |  |
+| [Deixa\-me ir](https://open.spotify.com/track/4R3NIm33KTJll9OAJtSJJ9) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Deixa\-me ir](https://open.spotify.com/album/41IpZL7Rn6Tazqc8UpsXrf) | 3:57 | 2023-08-03 | 2023-09-17 |
 | [Dele Alli](https://open.spotify.com/track/3U5SWJ5uxIwqp3aRQ4IWY5) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Dele Alli](https://open.spotify.com/album/5Ghz80EAzDqxa8ZcD5GjUE) | 3:47 | 2022-12-23 | 2023-03-01 |
 | [delírios mensais](https://open.spotify.com/track/3cx5XFljN7ctdY0eMjmC6l) | [redoma](https://open.spotify.com/artist/0GY7wkYtCMtRC31RueQtyr) | [delírios mensais](https://open.spotify.com/album/1skpNJL9T0yidQRepE6PBB) | 4:20 | 2023-04-06 | 2023-06-30 |
 | [Depois do Meu Show](https://open.spotify.com/track/6XXoCxLTdKmRs3sUbWFEn8) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Á Velocidade Do Som](https://open.spotify.com/album/2Ekoz6lujC25idXk4GwQvD) | 3:01 | 2023-06-13 | 2023-09-15 |

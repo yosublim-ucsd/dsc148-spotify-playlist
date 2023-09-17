@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 135855,
+  "num_followers": 136013,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTE0YTczYzQ5OWFhOTU0NmE1NDI5MjQwYTdlOGFhOWI2NmRjYThm",
+  "snapshot_id": "MCw2MmYwZTliYWEwZjg3MzU4ZWU3MjJjNDgwMmVlY2U5ZDVmNDNjNzkz",
   "tracks": [
     {
       "added_at": "2023-09-01 11:38:42",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
+        "name": "Lazers Not Included",
+        "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "duration_ms": 287241,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
+    },
+    {
+      "added_at": "2023-09-01 11:38:42",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7jchd6Tg5YkJqsAsR7hyyY"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 249642,
       "name": "Gold",
       "url": "https://open.spotify.com/track/1c2aEprxW446Ht7ni3ESqL"
-    },
-    {
-      "added_at": "2023-09-01 11:38:42",
-      "album": {
-        "name": "Lazers Not Included",
-        "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
-      },
-      "artists": [
-        {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        }
-      ],
-      "duration_ms": 287241,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
     },
     {
       "added_at": "2023-09-01 11:38:42",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
-        "name": "Heartbroken 2022",
-        "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
-      },
-      "artists": [
-        {
-          "name": "T2",
-          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
-        },
-        {
-          "name": "ARPA",
-          "url": "https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd"
-        }
-      ],
-      "duration_ms": 172371,
-      "name": "Heartbroken 2022",
-      "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
-    },
-    {
-      "added_at": "2023-09-01 11:38:42",
-      "album": {
         "name": "Mash up the Dance (Kings of the Rollers Remix)",
         "url": "https://open.spotify.com/album/6FS0y1f1pL45RPIWr6kYl0"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 177882,
       "name": "Mash up the Dance - Kings of the Rollers Remix",
       "url": "https://open.spotify.com/track/3hHgU7QO5ev5R6FZVsPsJZ"
+    },
+    {
+      "added_at": "2023-09-01 11:38:42",
+      "album": {
+        "name": "Heartbroken 2022",
+        "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
+      },
+      "artists": [
+        {
+          "name": "T2",
+          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+        },
+        {
+          "name": "ARPA",
+          "url": "https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd"
+        }
+      ],
+      "duration_ms": 172371,
+      "name": "Heartbroken 2022",
+      "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
     },
     {
       "added_at": "2023-09-01 11:38:42",

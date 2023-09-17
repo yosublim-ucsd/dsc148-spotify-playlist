@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Aziz Maraka
 
-172 songs - 10 hr 35 min
+173 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ashekt Rouhak](https://open.spotify.com/track/17SLR4fggn2DSt4mbAbkuy) | [Remie Akl](https://open.spotify.com/artist/0yKnrHyeDfAEr5XHuwA9xK) | [Ashekt Rouhak](https://open.spotify.com/album/5fXHircpFotE13R8AYYFjm) | 3:31 | 2021-12-23 | 2022-02-19 |
 | [Awal Kelmi](https://open.spotify.com/track/3wsvQrjCkPZFoOF8MLGGaz) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Awal Kelmi](https://open.spotify.com/album/2TdxqR34fvEuXo6gnLzrvr) | 3:33 | 2023-09-07 |  |
 | [Azazel](https://open.spotify.com/track/3MUnx2w6D1cCvi3KmgJ8h0) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Azazel](https://open.spotify.com/album/2D3mK6wH9go588dDe9Xz4U) | 5:37 | 2021-12-23 | 2022-03-11 |
+| [Badareek \- بداريك](https://open.spotify.com/track/1Iw0LkV3VNc9KhwkTzPaku) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Badareek \(بداريك\)](https://open.spotify.com/album/34dPhKMYFcyEThP7eMbXqg) | 2:53 | 2023-09-16 |  |
 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 | 2022-07-18 | 2023-04-24 |
 | [Battuta](https://open.spotify.com/track/1bhawZFU74KSkOF4b8kvjD) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Battuta](https://open.spotify.com/album/3X3StGDp4lCVhfUg55CUBr) | 3:25 | 2023-07-10 | 2023-08-24 |
 | [Biban](https://open.spotify.com/track/55dTPO8aX2KIGR0kP24sVa) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [Biban](https://open.spotify.com/album/427SljlsOOfw6AVPdRPdfx) | 4:32 | 2023-05-26 |  |

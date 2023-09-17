@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-566 songs - 23 hr 10 min
+567 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Eskgrow](https://open.spotify.com/track/4SMMdkI3aMh08Ntf9DxuCh) | [Moon Ladder](https://open.spotify.com/artist/0oYx4r2AY0nWFoE5KUyqQI) | [Epsom Road](https://open.spotify.com/album/56OGV838fAkynsOASVD2im) | 3:15 | 2023-09-08 |  |
 | [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-02-17 | 2023-09-09 |
 | [Everlasting Energy](https://open.spotify.com/track/5CFgDie02AjtB8Kf0fX8PN) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Virtue](https://open.spotify.com/album/5nOfl1TFoybsvjAFi5Ip69) | 2:44 | 2022-02-17 | 2023-09-09 |
+| [Everything's Ok](https://open.spotify.com/track/6joF5vzWbc6Uk4t8jCSG4p) | [baker dalton](https://open.spotify.com/artist/0LbEUtI30VRNEZMbbD2rFe), [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [Sanu](https://open.spotify.com/artist/4a9bZ6Cp8BXlUxJ7YgX1fq) | [Everything's Ok](https://open.spotify.com/album/20C5Uyn4WpAkSCe6Hmyeox) | 1:54 | 2023-09-08 |  |
 | [Evolving](https://open.spotify.com/track/37hLVHigPp4MXxcVXuCYNS) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Evolving](https://open.spotify.com/album/65z7ihFuafei3XHk0jwcPq) | 1:55 | 2023-09-08 |  |
 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 | 2023-09-08 |  |
 | [Extra](https://open.spotify.com/track/1m5OGKLquB59mNASxCsvkF) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Extra](https://open.spotify.com/album/7LH0JuhJc2ZT0Qbi9vcmsf) | 2:19 | 2022-02-17 | 2023-09-09 |
@@ -567,7 +568,7 @@
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2023-09-08 |  |
 | [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2023-09-08 | 2023-09-13 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3TBKlAMde3C7TNQEU7shez) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/2kHc5vqdqza5IlCMGXlGAQ) | 2:13 | 2023-09-08 |  |
-| [Yobidashi](https://open.spotify.com/track/6PV4hjKJ06jVHSH6HKhTkj) | [Aitobaiku](https://open.spotify.com/artist/6gSKO7qtjLIxagi1tfq4xu) | [Yobidashi](https://open.spotify.com/album/6IEc72I4ixBYTjvqRhTalK) | 2:24 | 2023-09-08 |  |
+| [Yobidashi](https://open.spotify.com/track/6PV4hjKJ06jVHSH6HKhTkj) | [Aitobaiku](https://open.spotify.com/artist/6gSKO7qtjLIxagi1tfq4xu) | [Yobidashi](https://open.spotify.com/album/6IEc72I4ixBYTjvqRhTalK) | 2:24 | 2023-09-08 | 2023-09-17 |
 | [Yoko](https://open.spotify.com/track/2idiYkZiNtzFm8hwsY7lfT) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Brandy & Apple Juice](https://open.spotify.com/album/42YfWVfh7I3fuUvvlQGN99) | 3:20 | 2022-02-17 | 2023-09-09 |
 | [Your Glow](https://open.spotify.com/track/7wig0c7koqSvDiincDAEXX) | [Prime Suspect](https://open.spotify.com/artist/5YQhFX1KlOhn5yZJL22mAR) | [Your Glow](https://open.spotify.com/album/1xuQYgF21HQ9va023HWgod) | 1:52 | 2023-09-08 |  |
 | [Your Lie](https://open.spotify.com/track/5vG2FtCtt8sBRQMNmMM4Pn) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Your Lie](https://open.spotify.com/album/3F5unzmA4JIAdD84m3DiNf) | 3:02 | 2023-09-08 |  |

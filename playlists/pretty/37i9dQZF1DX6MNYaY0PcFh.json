@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 66412,
+  "num_followers": 66502,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzA3ZDY0NGMyMDQwMmJjOWMyNjAxNTc4ZjA3ZmMwY2I5ZjZlZmYw",
+  "snapshot_id": "MCwyMmYxNjliMmI3ZDZkMDZlNTRjZmU5ZTNlODlhOGI5YjkwODJmNWI3",
   "tracks": [
     {
       "added_at": "2023-06-08 23:00:00",
@@ -471,26 +471,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5"
+        "name": "Alright (feat. Lucy Virji)",
+        "url": "https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au"
       },
       "artists": [
         {
-          "name": "KURUPT FM",
-          "url": "https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         },
         {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
-        },
-        {
-          "name": "MIST",
-          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+          "name": "Lucy Virji",
+          "url": "https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E"
         }
       ],
-      "duration_ms": 209745,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls"
+      "duration_ms": 277000,
+      "name": "Alright (feat. Lucy Virji)",
+      "url": "https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX"
     },
     {
       "added_at": "2023-09-01 12:15:50",
@@ -511,22 +507,26 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Alright (feat. Lucy Virji)",
-        "url": "https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au"
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5"
       },
       "artists": [
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "KURUPT FM",
+          "url": "https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q"
         },
         {
-          "name": "Lucy Virji",
-          "url": "https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E"
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        },
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Alright (feat. Lucy Virji)",
-      "url": "https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX"
+      "duration_ms": 209745,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Foul Play EP",
-        "url": "https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE"
-      },
-      "artists": [
-        {
-          "name": "Kessler",
-          "url": "https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC"
-        }
-      ],
-      "duration_ms": 264953,
-      "name": "Hood Mentality",
-      "url": "https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
         "name": "Closer (Higgo Remix)",
         "url": "https://open.spotify.com/album/5RlEEIkT3FV1DcpR9iV9nb"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 135409,
       "name": "Closer (Higgo Remix)",
       "url": "https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
+        "name": "Foul Play EP",
+        "url": "https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE"
+      },
+      "artists": [
+        {
+          "name": "Kessler",
+          "url": "https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC"
+        }
+      ],
+      "duration_ms": 264953,
+      "name": "Hood Mentality",
+      "url": "https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz"
     },
     {
       "added_at": "2023-06-08 23:00:00",

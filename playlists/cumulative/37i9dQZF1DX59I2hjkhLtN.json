@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Deixa-Me Ir",
+        "url": "https://open.spotify.com/album/5cFft1CM46iWYyArgD2NxJ"
+      },
+      "artists": [
+        {
+          "name": "Westy",
+          "url": "https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237997,
+      "name": "Deixa-Me Ir",
+      "url": "https://open.spotify.com/track/2zqmgEjKaHLhdl2JRlNf8I"
+    },
+    {
+      "album": {
         "name": "Deixa-me ir",
         "url": "https://open.spotify.com/album/41IpZL7Rn6Tazqc8UpsXrf"
       },
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 237997,
       "name": "Deixa-me ir",
       "url": "https://open.spotify.com/track/4R3NIm33KTJll9OAJtSJJ9"

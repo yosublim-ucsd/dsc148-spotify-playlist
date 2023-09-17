@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-172 songs - 13 hr 27 min
+173 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,12 +173,13 @@
 | [Wind Cries Mary](https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:36 | 2022-09-13 |  |
 | [Wonderwall](https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Rock Swings](https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl) | 3:36 | 2022-09-20 |  |
 | [Yellow](https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI) | [Ive Mendes](https://open.spotify.com/artist/536ylK53FB0GDGfTmwk7ZN) | [Magnetism, Vol\. 1](https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw) | 3:40 | 2022-09-13 |  |
-| [Yesterday](https://open.spotify.com/track/4GjfAPlsQg9U6YqdwJHkxC) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Jazz Pop Covers by JazzEcho](https://open.spotify.com/album/6zrW0dqr05YPJPLbf3nuyT) | 2:42 | 2023-09-15 |  |
+| [Yesterday](https://open.spotify.com/track/4GjfAPlsQg9U6YqdwJHkxC) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Jazz Pop Covers by JazzEcho](https://open.spotify.com/album/6zrW0dqr05YPJPLbf3nuyT) | 2:42 | 2023-09-15 | 2023-09-17 |
 | [Yesterday](https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Oliver Nelson Plays Michelle](https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw) | 2:42 | 2022-09-13 | 2023-08-10 |
 | [You've Got A Friend](https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:21 | 2022-09-13 |  |
 | [You've Got a Friend in Me](https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:52 | 2022-09-13 |  |
 | [Your Mother Should Know](https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know](https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO) | 2:18 | 2022-12-08 | 2023-02-27 |
 | [Your Mother Should Know](https://open.spotify.com/track/67ZAqk0egv33NmEW0OpGHt) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 2:18 | 2023-02-23 |  |
+| [Your Song](https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Your Song](https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4) | 4:30 | 2023-09-15 |  |
 | [Ｗｏｎｄｅｒｗａｌｌ](https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl) | [tea](https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4) | [Songbird](https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO) | 4:41 | 2023-04-26 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

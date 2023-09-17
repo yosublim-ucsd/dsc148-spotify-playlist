@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: F\u00faria",
-  "num_followers": 124894,
+  "num_followers": 124969,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWViZjVkODdlOTQ1ZDkyOTEwYWE2MmE5YWI0OWNlNTNmNWJmOGQ4",
+  "snapshot_id": "MCxhNjFiYWUwOTY4OGE4Yjk2NWU1ZDg4ODIxYmFlNzhhZmYwNjA3OTEw",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Ironicamente",
-        "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "No Cutty",
-          "url": "https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ"
-        }
-      ],
-      "duration_ms": 164269,
-      "name": "Ironicamente",
-      "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Mimo Caro",
         "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 249600,
       "name": "Mimo Caro",
       "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Ironicamente",
+        "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "No Cutty",
+          "url": "https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ"
+        }
+      ],
+      "duration_ms": 164269,
+      "name": "Ironicamente",
+      "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Drip Sesh, Vol. 1",
-        "url": "https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Vianna",
-          "url": "https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA"
-        }
-      ],
-      "duration_ms": 150581,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 191867,
       "name": "Reino na Terra",
       "url": "https://open.spotify.com/track/7lY80jq9loXF9fc2mW3OB3"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Drip Sesh, Vol. 1",
+        "url": "https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Vianna",
+          "url": "https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA"
+        }
+      ],
+      "duration_ms": 150581,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1111,30 +1111,6 @@
       "duration_ms": 204839,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Sereno",
-        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Did Brock",
-          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 136072,
-      "name": "Sereno",
-      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1227,8 +1203,8 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
       },
       "artists": [
         {
@@ -1236,21 +1212,17 @@
           "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "Thiago Sub",
-          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
         },
         {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         }
       ],
-      "duration_ms": 140308,
-      "name": "Aumentando os Lucros",
-      "url": "https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP"
+      "duration_ms": 136072,
+      "name": "Sereno",
+      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1275,6 +1247,34 @@
       "duration_ms": 166788,
       "name": "Marcha",
       "url": "https://open.spotify.com/track/1M0j0NI2vuIWOmTN8satNh"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
+        }
+      ],
+      "duration_ms": 140308,
+      "name": "Aumentando os Lucros",
+      "url": "https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP"
     }
   ],
   "unique_name": "O Drip",

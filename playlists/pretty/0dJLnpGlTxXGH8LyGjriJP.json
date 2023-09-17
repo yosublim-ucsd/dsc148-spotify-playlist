@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "ODE3LDBiNDFmMDRmOWQ1Y2M4ZjEzMzViZmY1Y2E1MzIyMjUyYzNiYzcxZDE=",
+  "snapshot_id": "ODE5LGUwMGYwN2JmYWFhNjMwMWNmYTI2NTIxNzZiYmQ1MmIwZDkzMzE3YjQ=",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -12359,6 +12359,42 @@
       "duration_ms": 197459,
       "name": "First Day Out (Freestyle) Pt. 2",
       "url": "https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi"
+    },
+    {
+      "added_at": "2023-09-16 03:24:18",
+      "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 140480,
+      "name": "OTR Freestyle",
+      "url": "https://open.spotify.com/track/4CVJsHkkPmAgQToSk5dNg9"
+    },
+    {
+      "added_at": "2023-09-16 19:26:02",
+      "album": {
+        "name": "Nobody Special (with Future)",
+        "url": "https://open.spotify.com/album/7AL7cdhzjigaVkUVhRiphE"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Nobody Special (with Future)",
+      "url": "https://open.spotify.com/track/4hxAZVGVvBibnz36zIF6QN"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

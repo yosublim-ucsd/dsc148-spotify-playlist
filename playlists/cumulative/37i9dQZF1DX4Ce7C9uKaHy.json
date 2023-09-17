@@ -160,10 +160,28 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 126203,
       "name": "Amber",
       "url": "https://open.spotify.com/track/4OdNQ6NpG14f2sbGm3Y8WT"
+    },
+    {
+      "album": {
+        "name": "Contrasts",
+        "url": "https://open.spotify.com/album/6OeWr8HGcl6JmYqJnUcHJI"
+      },
+      "artists": [
+        {
+          "name": "dryhope",
+          "url": "https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126203,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/6G0vgx6pRV8UspD63Xq1W4"
     },
     {
       "album": {
@@ -1120,10 +1138,28 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 178570,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/5BVIZf8m649sKuvqDMeDdz"
+    },
+    {
+      "album": {
+        "name": "Kingdom in Blue",
+        "url": "https://open.spotify.com/album/49jIsH9XQXw0IYubfJK4Kv"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178570,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5aMQOS7eAIN9uN4N1DWyx8"
     },
     {
       "album": {
@@ -1396,10 +1432,32 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 80714,
       "name": "Maki",
       "url": "https://open.spotify.com/track/1jgZPU8y5lg8fulf33SE08"
+    },
+    {
+      "album": {
+        "name": "Jiro Dreams",
+        "url": "https://open.spotify.com/album/4DHRLiWxggGVwKx3YHLMLe"
+      },
+      "artists": [
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80714,
+      "name": "Maki",
+      "url": "https://open.spotify.com/track/5WcLfC09cGS2bMnyNGTi8j"
     },
     {
       "album": {
@@ -1426,7 +1484,7 @@
     {
       "album": {
         "name": "Calm Lands",
-        "url": "https://open.spotify.com/album/4dglmAUDnppEU1kx3zRCPJ"
+        "url": "https://open.spotify.com/album/3tyVWBn2zoOcSmrxnnPb0n"
       },
       "artists": [
         {
@@ -1437,6 +1495,24 @@
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 151428,
+      "name": "Meet You in the Park",
+      "url": "https://open.spotify.com/track/4JCkBUk8FNCxdDXKc9zLqu"
+    },
+    {
+      "album": {
+        "name": "Calm Lands",
+        "url": "https://open.spotify.com/album/4dglmAUDnppEU1kx3zRCPJ"
+      },
+      "artists": [
+        {
+          "name": "Monma",
+          "url": "https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-17",
       "duration_ms": 151428,
       "name": "Meet You in the Park",
       "url": "https://open.spotify.com/track/4it9vYyCde5RrYXxqBbxKo"
@@ -1706,10 +1782,28 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 141538,
       "name": "Owls of the Night",
       "url": "https://open.spotify.com/track/0DxFNeiT0zuSfF2IjX9vDX"
+    },
+    {
+      "album": {
+        "name": "1 Am. Study Session",
+        "url": "https://open.spotify.com/album/6a1N8QyPPdXy1cmicmWktX"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141538,
+      "name": "Owls of the Night",
+      "url": "https://open.spotify.com/track/5kYN1soZw4z5FXIBIIy6rG"
     },
     {
       "album": {
@@ -1884,10 +1978,28 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 156023,
       "name": "Pure Bliss",
       "url": "https://open.spotify.com/track/69uZTz8xKc5cb0rZEUy8YC"
+    },
+    {
+      "album": {
+        "name": "Future Feelings",
+        "url": "https://open.spotify.com/album/5KMJsVyHhAFkNkwLoA5LkP"
+      },
+      "artists": [
+        {
+          "name": "SPEECHLESS",
+          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156023,
+      "name": "Pure Bliss",
+      "url": "https://open.spotify.com/track/7yyV8oeANSz5KP6eYyWatR"
     },
     {
       "album": {
@@ -2060,7 +2172,7 @@
     {
       "album": {
         "name": "Tomorrows That Follow",
-        "url": "https://open.spotify.com/album/30KbuLXO5pTJ75mBilXPVI"
+        "url": "https://open.spotify.com/album/0ZgIHa9OFZA1e3AaWosBCP"
       },
       "artists": [
         {
@@ -2075,6 +2187,28 @@
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 144006,
+      "name": "Shifting",
+      "url": "https://open.spotify.com/track/1tMxvHhoDImCLLjOjx1Hbr"
+    },
+    {
+      "album": {
+        "name": "Tomorrows That Follow",
+        "url": "https://open.spotify.com/album/30KbuLXO5pTJ75mBilXPVI"
+      },
+      "artists": [
+        {
+          "name": "ENRA",
+          "url": "https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4"
+        },
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-17",
       "duration_ms": 144006,
       "name": "Shifting",
       "url": "https://open.spotify.com/track/5pWSFR7XCupryMCju8umk0"

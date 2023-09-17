@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: All Time Low
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,504 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,578 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Pretend](https://open.spotify.com/track/17rev5TwrcPMTXNOo267sw) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [Pretend](https://open.spotify.com/album/6yLmA8rJQecpueryDynXH9) | 4:10 |
 | 100 | [Femme Boi](https://open.spotify.com/track/0TNjyeIVTlqh8ut9ua7aUW) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Femme Boi](https://open.spotify.com/album/2vkUsynjITqWKLBhIX7MW9) | 3:01 |
 
-Snapshot ID: `MCwxNjllODI0MDYzOGVlMDBhNWVlY2RlNGU3MTMzNTY1OTUyNGRkM2Uz`
+Snapshot ID: `MCxlNTYwN2IyOWNlZDg1ZDZiYTYwOTBmOWUzODMzM2ZlYmM2ZmQyMjcy`

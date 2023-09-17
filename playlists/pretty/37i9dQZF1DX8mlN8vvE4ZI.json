@@ -1,12 +1,12 @@
 {
   "description": "Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses. Cover : Rishab Rikhiram Sharma",
-  "num_followers": 8844,
+  "num_followers": 9942,
   "original_name": "ECHO : Soulful Sitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzZjNGNjNWU4ZTgwZDgwYjQ4NWVlNmY1OTllMjdhOGI5N2FlOTg4",
+  "snapshot_id": "MCxhZWNhYjEzMjQyMjM3ZDM2NDM0YjBmZDYyNWMxNzZjMTQ4MmY3OTU3",
   "tracks": [
     {
       "added_at": "2023-08-18 00:33:02",
@@ -433,24 +433,20 @@
       "url": "https://open.spotify.com/track/7MqMNGo9VrtjonRkwbGUG6"
     },
     {
-      "added_at": "2023-06-20 11:43:22",
+      "added_at": "2023-08-23 08:05:52",
       "album": {
-        "name": "Instrumental India",
-        "url": "https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX"
+        "name": "Inspiration",
+        "url": "https://open.spotify.com/album/69qEVU3jV5p0NVpfA5q8rO"
       },
       "artists": [
         {
-          "name": "Rais Khan",
-          "url": "https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK"
-        },
-        {
-          "name": "Sultan Khan",
-          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
+          "name": "Chirag Katti",
+          "url": "https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Yaman Kalyan",
-      "url": "https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4"
+      "duration_ms": 416363,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/67XJ39k65gnMALcoiKLe9r"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -469,20 +465,24 @@
       "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
     },
     {
-      "added_at": "2023-08-23 08:05:52",
+      "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Inspiration",
-        "url": "https://open.spotify.com/album/69qEVU3jV5p0NVpfA5q8rO"
+        "name": "Instrumental India",
+        "url": "https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX"
       },
       "artists": [
         {
-          "name": "Chirag Katti",
-          "url": "https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo"
+          "name": "Rais Khan",
+          "url": "https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK"
+        },
+        {
+          "name": "Sultan Khan",
+          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
         }
       ],
-      "duration_ms": 416363,
-      "name": "Inspiration",
-      "url": "https://open.spotify.com/track/67XJ39k65gnMALcoiKLe9r"
+      "duration_ms": 260013,
+      "name": "Yaman Kalyan",
+      "url": "https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Raga Khan",
-        "url": "https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4"
-      },
-      "artists": [
-        {
-          "name": "Nishat Khan",
-          "url": "https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm"
-        }
-      ],
-      "duration_ms": 531453,
-      "name": "Raga Gaoti",
-      "url": "https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Sitar & Tabla: Music of India",
         "url": "https://open.spotify.com/album/1XcwgOx2s1ksPVPrVnn7Kk"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 316404,
       "name": "Rag: Piloo",
       "url": "https://open.spotify.com/track/6OhLKq3TEFW0JAYFXtzEwa"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Raga Khan",
+        "url": "https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4"
+      },
+      "artists": [
+        {
+          "name": "Nishat Khan",
+          "url": "https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm"
+        }
+      ],
+      "duration_ms": 531453,
+      "name": "Raga Gaoti",
+      "url": "https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Sitar (Instrumental)",
-        "url": "https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz"
-      },
-      "artists": [
-        {
-          "name": "Sitar A Seyer Otsenre",
-          "url": "https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk"
-        }
-      ],
-      "duration_ms": 413000,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "The Pleasurable Mind in Healing Music",
         "url": "https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 140571,
       "name": "Beauty of Sitar",
       "url": "https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Sitar (Instrumental)",
+        "url": "https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz"
+      },
+      "artists": [
+        {
+          "name": "Sitar A Seyer Otsenre",
+          "url": "https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk"
+        }
+      ],
+      "duration_ms": 413000,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp"
     },
     {
       "added_at": "2023-06-20 11:43:22",

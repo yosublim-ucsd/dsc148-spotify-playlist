@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,683 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,759 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 23 | [Turrita](https://open.spotify.com/track/0zZX1KC6rGJfXMh4brGv5q) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Turrita](https://open.spotify.com/album/44liNl52XZzjDDztOfuFoB) | 2:52 |
 | 24 | [Ponte de Espalda](https://open.spotify.com/track/0ANwt3bp7HC1wnWEeavWEq) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Ponte de Espalda](https://open.spotify.com/album/6TmlXgWcxq0zOtlE8FN19R) | 3:20 |
 | 25 | [Dale Turro](https://open.spotify.com/track/1Ds2QYmrzQcunE2JVWU99K) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Dale Turro](https://open.spotify.com/album/3sJ724L98lgfu7solnxtbe) | 2:54 |
-| 26 | [SUELTA SOLTERA](https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [SUELTA SOLTERA](https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd) | 2:29 |
+| 26 | [SUELTA SOLTERA](https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [SUELTA SOLTERA](https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd) | 2:32 |
 | 27 | [Poderes](https://open.spotify.com/track/1CsAAeTHONoV6rt3TRM5RP) | [JonLee](https://open.spotify.com/artist/5WZUKAptUOnbCoZsHDSkH3), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Poderes](https://open.spotify.com/album/7n0Ws1K2eNeSyWXesuIc8t) | 3:48 |
 | 28 | [CRUEL](https://open.spotify.com/track/6pCxR3xhYUQ012h4fmoO6b) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [CRUEL](https://open.spotify.com/album/1wRSvY6Q11YTmZ75SCQ2Dh) | 3:00 |
 | 29 | [Veneno](https://open.spotify.com/track/0eGLGVXSo88hIuR3EudVqV) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Veneno](https://open.spotify.com/album/6lFHCmSEhPUFRP1CVKIevm) | 2:43 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 64 | [Ahora Quién](https://open.spotify.com/track/68tklnvxWWWBZhRYrtk9gU) | [La Pardo](https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU), [Sonyk El Dragón](https://open.spotify.com/artist/1dPGTfknpFpTXTiFtixt8b) | [Te Lo Dedico](https://open.spotify.com/album/5d9zoGGEU1KQwMpvVeAS4Y) | 2:59 |
 | 65 | [No va a pasar](https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [No va a pasar](https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T) | 3:31 |
 
-Snapshot ID: `MCw5NGE3YTljNjk4YzQ1MzE5NzQwNWI1ZDZmODRmN2EzMjhhYTQ2MDhm`
+Snapshot ID: `MCwxZjAyZGEwZjgzMTZkM2UxMGY2MTc4ZjM4YTkzMzJhNWFiNDdjZDMy`

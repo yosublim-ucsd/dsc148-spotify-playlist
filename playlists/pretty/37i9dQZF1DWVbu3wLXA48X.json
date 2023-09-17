@@ -1,12 +1,12 @@
 {
   "description": "Current indie tunes from Asia and around the world. Cover: Mitski",
-  "num_followers": 102851,
+  "num_followers": 102868,
   "original_name": "Indie Shuffle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmQzOTc2NTYyYTJmZWUyNWJiZjExZTU2ZDg1Y2NmNDQ5ZGNlMzA2",
+  "snapshot_id": "MCxlMWIxMjAxZjA5NjVmNjAyZWMyY2U4MWFmMWE3NDI1YmE4NWY1OTcz",
   "tracks": [
     {
       "added_at": "2023-09-15 07:59:24",
@@ -703,6 +703,22 @@
       "duration_ms": 208250,
       "name": "I'm Just Like That",
       "url": "https://open.spotify.com/track/5UGjhJC4d0xSkrQlnqmpR4"
+    },
+    {
+      "added_at": "2023-09-15 07:59:24",
+      "album": {
+        "name": "Broadview",
+        "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Broadview",
+      "url": "https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe"
     },
     {
       "added_at": "2023-09-15 07:59:24",

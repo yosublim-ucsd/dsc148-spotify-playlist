@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: 李佳歡 \(Kaia Lee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,762 likes - 72 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,771 likes - 72 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [You Say Goodbye Easily](https://open.spotify.com/track/4JiP9YjPXjP8Axcx779PKk) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:09 |
 | 72 | [Liminal](https://open.spotify.com/track/5qPW6ipIDI0ViYTqy7YEkI) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN) | [Liminal](https://open.spotify.com/album/3UsruFkybIk53R1DQf5o75) | 3:19 |
 
-Snapshot ID: `MCxhNjI0Y2FhYjg4MWExZGFhMDQ4NGU0NzgyOTdhMTg5MzJjOWI4ZGYz`
+Snapshot ID: `MCw5ZGE0NTExMjQxMjY3NzdjNTM5MDZjMjExODZhNmYzNzlkNTVkZTYy`

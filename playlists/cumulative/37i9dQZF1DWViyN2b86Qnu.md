@@ -4,7 +4,7 @@
 
 > <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Cry Club
 
-246 songs - 13 hr 48 min
+247 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [My Old Ways](https://open.spotify.com/track/1Jsnddjhos1brpb3d0NHy2) | [Left at London](https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE) | [Transgender Street Legend, Vol\. 3](https://open.spotify.com/album/7lnslX0F9zCMSNqdCvA3QU) | 2:32 | 2023-03-31 |  |
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2021-10-05 | 2022-10-13 |
 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 | 2022-07-14 | 2023-01-24 |
-| [Neo Thang](https://open.spotify.com/track/4HTGB55yrGZGlTon0irIEb) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT.2](https://open.spotify.com/album/3N0IZzpTfvreEOo2zKFdym) | 2:31 | 2023-03-31 |  |
+| [Neo Thang](https://open.spotify.com/track/4HTGB55yrGZGlTon0irIEb) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT.2](https://open.spotify.com/album/3N0IZzpTfvreEOo2zKFdym) | 2:31 | 2023-03-31 | 2023-09-17 |
+| [Neo Thang](https://open.spotify.com/track/5b1OMdOMZKPabNweOF6oug) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 2:31 | 2023-09-14 |  |
 | [Nights Like These](https://open.spotify.com/track/7s7KOxwTHHnVBmtphJKWRk) | [Pigeon Pit](https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv) | [Shut In](https://open.spotify.com/album/2vvB2Q0Hyekckd7ic6wOrf) | 2:01 | 2023-02-17 | 2023-04-01 |
 | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Bears In Trees](https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2) | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp) | 2:59 | 2023-03-31 |  |
 | [No Thoughts, Head Empty \- Single Version](https://open.spotify.com/track/7v5rX1Id8Lo1t8SeKcGWMf) | [Tape Girl](https://open.spotify.com/artist/04RmwYKUtw7TelYW3UQ3L6) | [No Thoughts, Head Empty](https://open.spotify.com/album/1mc4tA9yDBwHlt6XBGKnlW) | 2:44 | 2022-03-04 | 2023-04-01 |

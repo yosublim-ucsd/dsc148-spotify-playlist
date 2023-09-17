@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Xenia Manasseh",
-  "num_followers": 43455,
+  "description": "R&B of the moment by the artists of the future. Cover: \u00c4yanna",
+  "num_followers": 43498,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzAxODlmOWUwMGRjNmI2ZTI0YjMzMzgxM2Y1ZGIwZGE2MTBmMTU0",
+  "snapshot_id": "MCwzZGZjNzk3MTJlM2NiYTRlM2UxYWE4N2QxNDhmMmZkZDY4ZTIwY2M2",
   "tracks": [
+    {
+      "added_at": "2023-09-16 04:00:00",
+      "album": {
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 155761,
+      "name": "Good Ex",
+      "url": "https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve"
+    },
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {

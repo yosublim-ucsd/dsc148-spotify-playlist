@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: 吉井和哉
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,848 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,904 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 79 | [The Beginning of the End](https://open.spotify.com/track/4DyNo4QolzSJQbBtZnkRmQ) | [Damian Hamada's Creatures](https://open.spotify.com/artist/5mu3Lpg65rLQhkwqwPLPVe) | [The Beginning of the End](https://open.spotify.com/album/7kZBW9mm5qBkPSIYbkJRCG) | 3:58 |
 | 80 | [還暦ありがとう。](https://open.spotify.com/track/3JbWFAaeCvRJDZkrHiOMeq) | [Rolly](https://open.spotify.com/artist/1J5hmFwYzVTHnkRIcM3Mhf) | [60](https://open.spotify.com/album/66mj2GRt8WMzn5QeNU4zth) | 4:01 |
 
-Snapshot ID: `MCw1NTgxYTI2ODJhYzcxMzUzOWY5NTdmNDUwODc2NTM3OTM1OTFkNzJm`
+Snapshot ID: `MCxmN2MwMjk5NzNhYjZkMThkYmExOTA5MTgyNWM0MDUzZjQxMjBkMzEy`

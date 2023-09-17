@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: salem ilese
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,514 likes - 102 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,595 likes - 102 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [A Series of Unfortunate Events](https://open.spotify.com/track/4jkFpWbEpiS7LBmSidWwUX) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [A Series of Unfortunate Events](https://open.spotify.com/album/791lKGOskm8eOC85qu1XGQ) | 2:45 |
 | 102 | [Drip Drop](https://open.spotify.com/track/13Oms7rPHZlvGz1ny1F2FO) | [Erika Jayne](https://open.spotify.com/artist/3jgs1QD0amFu2y6bqSK36Y) | [Drip Drop](https://open.spotify.com/album/3Q711uLnVZ9ufizLWrXUn5) | 3:44 |
 
-Snapshot ID: `MCwyNTI2ZGI4MjgyNWJjNjY0MWQxNzlhMTFhMzU0MGZiYzJhNGFjZjAw`
+Snapshot ID: `MCw1MGZmZTRjMmY1MTkyMTc3NmNjZDcyODUwZjIyOTUzMjgxOTU4NmFj`

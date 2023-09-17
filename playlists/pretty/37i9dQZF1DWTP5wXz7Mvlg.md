@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,371 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,386 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Come Back](https://open.spotify.com/track/5eBLyfMZMbm6xa69h3LvPU) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV) | [The Time Is Right](https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo) | 4:27 |
 | 2 | [Tell You What I Did](https://open.spotify.com/track/4cdTUcdzvpbVz9BJazc1ou) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [Tell You What I Did](https://open.spotify.com/album/7dkwus9p5TrJ10AO9hKrO0) | 3:29 |
 | 3 | [The Guillotine](https://open.spotify.com/track/4OwCRJEc8wKDODmmzvKIQZ) | [Marcus Intalex](https://open.spotify.com/artist/1LUyPCV4OiooCwffEq5ftD) | [Sell Your Soul](https://open.spotify.com/album/01jCedkuDzg5UGUXceOIrY) | 5:09 |
-| 4 | [Changing Moods](https://open.spotify.com/track/65GTRsXRYgSh6Se0ziQ6ep) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [Innerground 100](https://open.spotify.com/album/51VA7pPbQh9AZxv8LDchbS) | 4:29 |
+| 4 | [Changing Moods](https://open.spotify.com/track/2yJFxmKxB3B2OX6M9CFFP3) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [Changing Moods](https://open.spotify.com/album/0F34OSuJLMMbmVG4IyITXW) | 4:29 |
 | 5 | [Fatto In Casa](https://open.spotify.com/track/3ymGRP1GUiEkd63nwogvd4) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Fatto In Casa](https://open.spotify.com/album/7ef6O6G86dB4ru6mFj6Dcl) | 4:28 |
 | 6 | [Ill Vibe](https://open.spotify.com/track/1gRE5q4XmrVtt42cF2VkIg) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG) | [Ill Vibe](https://open.spotify.com/album/2iIVZsS8USgB8QNvHWNwth) | 4:28 |
 | 7 | [Sliding Gliding](https://open.spotify.com/track/4DPHd9trjYHc1EEdMaRhJd) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Dossa & Locuzzed](https://open.spotify.com/artist/1hjb2l5U7cvWiXBpTyQF39) | [Sliding Gliding](https://open.spotify.com/album/4eNrXH1JmhJaeSUzGmOc7C) | 4:12 |
-| 8 | [Moore's Law](https://open.spotify.com/track/4lgVbCE0R1gnM5igDvLtfh) | [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV) | [Moore's Law / Flawless](https://open.spotify.com/album/77FBxtfwHuqI7i0xI3vIEJ) | 4:27 |
+| 8 | [Moore's Law](https://open.spotify.com/track/5iwnGekawbmdsGGGpALiSr) | [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV) | [Moore's Law / Flawless](https://open.spotify.com/album/3mEICIrmCgNIAG0bJhUhlM) | 4:27 |
 | 9 | [Like This](https://open.spotify.com/track/6hU8ZNdJbpncSye5IXmXzF) | [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs) | [Roll With It / Like This](https://open.spotify.com/album/6yP8tbWAEZT0Q23scueKnD) | 4:52 |
 | 10 | [Edge Of The World](https://open.spotify.com/track/4dj216OBqXsm7c0WewjVlC) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [King](https://open.spotify.com/album/4ueUL0q3kZV7huV9hHJp9W) | 4:35 |
 | 11 | [Poetry](https://open.spotify.com/track/41DGLEehbFxpZ9pfQrSUSX) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Poetry](https://open.spotify.com/album/2ua6GR0mpXz7fS1y05WKdQ) | 3:54 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 22 | [Vices \- Bladerunner Remix](https://open.spotify.com/track/5bqfrXlfvuQHDznFhHSb2C) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb), [Collette Warren](https://open.spotify.com/artist/2pzGbNf0oadczuFlVAxZC3), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Bladerunner](https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl) | [Vices](https://open.spotify.com/album/6Pi8S5hFpj4qoCtoIvEDTM) | 4:28 |
 | 23 | [CHICA](https://open.spotify.com/track/4Bg8cLW1mKbLmag6WcN0zM) | [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [CHICA](https://open.spotify.com/album/2qyjqgcVZIFkPMyYD5PFc6) | 3:19 |
 | 24 | [Five Nines](https://open.spotify.com/track/4M2MNVPz9V9KKzkXC7I2dJ) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu) | [Five Nines / Choppy](https://open.spotify.com/album/3k4Ec6RWPYiaaXOx0ZgfK6) | 4:35 |
-| 25 | [Getting Hot](https://open.spotify.com/track/0R7tFVDEPuMu1euN2PC7GU) | [Beeson](https://open.spotify.com/artist/2Bz33Qcq5GYQK0Cfk2YT9I) | [Getting Hot / Come To Mind](https://open.spotify.com/album/4xZ7HywRUbTOCQBMfvZig4) | 4:52 |
+| 25 | [Getting Hot](https://open.spotify.com/track/6v1bVEs8AdUUIm8geyvDww) | [Beeson](https://open.spotify.com/artist/2Bz33Qcq5GYQK0Cfk2YT9I) | [Getting Hot / Come To Mind](https://open.spotify.com/album/7lNMy911thnBKt0Pe2BCKw) | 4:52 |
 | 26 | [Everything Is Possible \- DJ Marky & Makoto Remix](https://open.spotify.com/track/4h2YTOsQQsV7VR8IiTCLbn) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ), [DJ Marky & Makoto](https://open.spotify.com/artist/00eYX01IyyHcG2lMvStEG4) | [Everything Is Possible \(DJ Marky & Makoto Remix\)](https://open.spotify.com/album/0fUbrCLI2PKdI4lVpqCb7P) | 4:47 |
 | 27 | [Another Life](https://open.spotify.com/track/7nSkmLDcDU1JcpwcKcQsx8) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 4:28 |
 | 28 | [Camels](https://open.spotify.com/track/6Dvbm1h0w7fRcRnqxPOPqo) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 49 | [All Night](https://open.spotify.com/track/0MQyfSkAFO27Ki90MKnkcs) | [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [All Night](https://open.spotify.com/album/5WGeVk6PF7WZ9kWeN4xfCL) | 3:37 |
 | 50 | [Here Comes](https://open.spotify.com/track/2FlFInnKJTaP5YBMf6dax6) | [Melinki](https://open.spotify.com/artist/71BxfcyzIwRxmdx2BRYDVD) | [Here Comes](https://open.spotify.com/album/1ppwK870Dyp5CTKK94f11w) | 4:55 |
 
-Snapshot ID: `MCwxNDY2NmJhYWU5N2ZlYWM2NjMzM2Y0YjE3MTljNmJiMzNlNDZmM2M0`
+Snapshot ID: `MCxiMTlhOWRkN2E2NWM5YmQzN2NlNDU4OGVjYmVlODc5ZmU2NmQ5Yzlk`

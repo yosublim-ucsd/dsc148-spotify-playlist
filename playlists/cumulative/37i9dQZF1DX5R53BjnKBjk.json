@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 209486,
       "name": "Fugitivos",
       "url": "https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk"
@@ -2388,6 +2388,28 @@
       "duration_ms": 137000,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/4QR0Kn2lUmZkmGwMDquXkf"
+    },
+    {
+      "album": {
+        "name": "Luz Na Madrugada / Late Night Light",
+        "url": "https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fonte",
+          "url": "https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215742,
+      "name": "L\u00e1grima na L\u00edngua",
+      "url": "https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc"
     },
     {
       "album": {

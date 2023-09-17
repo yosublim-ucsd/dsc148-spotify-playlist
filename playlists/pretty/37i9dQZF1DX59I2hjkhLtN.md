@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: THE F LIBRA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,945 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,959 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 38 | [PARIS](https://open.spotify.com/track/3rS6DQZTEpufrgWuWGCejA) | [Marianne](https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme) | [PARIS](https://open.spotify.com/album/6vOPfB9jESehCOBUHKrNZi) | 2:46 |
 | 39 | [Saúde & Sucesso](https://open.spotify.com/track/6AuyARczcoHFAvBZSqUfZR) | [Chav](https://open.spotify.com/artist/1otM9dcrZZ5Tsquh17qzkS), [Amaro](https://open.spotify.com/artist/2PFhhQZgtdqOT8mXiAHJ0A) | [Saúde & Sucesso](https://open.spotify.com/album/07XilKgPB6uj1qwwPEPDPN) | 3:06 |
 | 40 | [Sorry Not Sorry](https://open.spotify.com/track/7LMqh05dl5Zr0XOM2ugHp4) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2) | [S/ VERGONHA](https://open.spotify.com/album/6joK8rFJW0rfyAKabP8g3T) | 2:19 |
-| 41 | [Deixa\-me ir](https://open.spotify.com/track/4R3NIm33KTJll9OAJtSJJ9) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Deixa\-me ir](https://open.spotify.com/album/41IpZL7Rn6Tazqc8UpsXrf) | 3:57 |
+| 41 | [Deixa\-Me Ir](https://open.spotify.com/track/2zqmgEjKaHLhdl2JRlNf8I) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Deixa\-Me Ir](https://open.spotify.com/album/5cFft1CM46iWYyArgD2NxJ) | 3:57 |
 | 42 | [Local Trapper](https://open.spotify.com/track/71han8vjg02xa6D26SKZK5) | [YVNG CIRIUS](https://open.spotify.com/artist/49Vq1CEhXIzeNDnXPWYDzA) | [Local Trapper](https://open.spotify.com/album/46IBfuRF8kyPjXu6uyDZnd) | 2:14 |
 | 43 | [Marginal](https://open.spotify.com/track/2uiB8gSttF2l8sjNUO1yE0) | [Kaps](https://open.spotify.com/artist/3LHoFLdOjSILRX0fMvfrjT) | [Marginal](https://open.spotify.com/album/2sbqzhnlamC2cb1ITFcCsn) | 2:15 |
 | 44 | [Nada Mais Interessa](https://open.spotify.com/track/5V6iNdPfrNkRn1IK3e5JB5) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2) | [Nada Mais Interessa](https://open.spotify.com/album/4CMlLGXMAUdsqOLWSJKkbC) | 1:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [100 FALHAS](https://open.spotify.com/track/2uCCLGZSppxEMjH936nwbl) | [J Puro](https://open.spotify.com/artist/0YmfUBWWHzOlG92JNsqiFl), [Manuel Bastos](https://open.spotify.com/artist/5JbZvptDWsEWaHgBe6pqhI) | [100 FALHAS](https://open.spotify.com/album/2BcvWxy4TAcXO7gaz8LReh) | 4:50 |
 | 100 | [Parque](https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c) | [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Parque](https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb) | 2:21 |
 
-Snapshot ID: `MCwyMjI4MTIxN2M4Yjc1MDEzNjBhYzc0YTM2MmViM2U4OWVjZDY3YjEz`
+Snapshot ID: `MCw0OTI3Njk4MWUzNWI2ZDFmMzQ3MDQxN2ZkZWNiYjk3MzNlZWI1YmYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,198 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,204 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 49 | [Hinya](https://open.spotify.com/track/2vp3E0GaE2VBHY1EbVuy5p) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe), [Yo Alex](https://open.spotify.com/artist/3PA8YnbJW4N0PuiPamfEJb) | [NOW THAT WE ARE HERE](https://open.spotify.com/album/1lvyxxI5vdtdLTY64WUVYP) | 5:16 |
 | 50 | [Anaweza](https://open.spotify.com/track/0kjoe34OL34ON1BiilcX2e) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq), [Mwinda](https://open.spotify.com/artist/385E4qebI5ISB89FLVuP1w), [Kris Erroh](https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2), [Yo Alex](https://open.spotify.com/artist/2dyAmcFC6RZpQdECgopzAT), [Shani](https://open.spotify.com/artist/6KYXhgWVbPSFpndvKW0jVe) | [Anaweza](https://open.spotify.com/album/6ihadbtYKqtsTJMWWBY3n3) | 3:20 |
 
-Snapshot ID: `MCw5M2E1NGZlMWQ5NTA1YzlhODQ2ZmM2NmU0NGQyNjhlOWQ2OWI4MzZm`
+Snapshot ID: `MCwzM2ZlOGI3OTNkZDU3MjY1ZDYyMDdmMWFkNDMyNWFlNzYxNzQ0Mzgx`

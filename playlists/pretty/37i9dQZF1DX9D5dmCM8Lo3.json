@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 176309,
+  "num_followers": 176824,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjQ3MzJlZDVjOTEwMzBjNzMzZTlhNDFlNmU0MzkzYjk1ODNlZDY2",
+  "snapshot_id": "MCxjMDMyMzUwOWZkOTcyYjhlOTNjODYyOGYwMzI2ZGQyZmFmNDdhMDZk",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "C3L3STIAL\u5929\u306e",
-        "url": "https://open.spotify.com/album/6yiGXFTyMYPu8EabAjSaud"
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
       "artists": [
         {
-          "name": "bliss3three",
-          "url": "https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 68571,
-      "name": "C3L3STIAL_CITY",
-      "url": "https://open.spotify.com/track/7qfIfb1Wh9K1gVsVzz99jx"
+      "duration_ms": 228866,
+      "name": "Fingerbib",
+      "url": "https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -303,22 +303,6 @@
       "duration_ms": 350690,
       "name": "Sad Machine",
       "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Fingerbib",
-      "url": "https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -387,22 +371,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc"
-      },
-      "artists": [
-        {
-          "name": "Zock",
-          "url": "https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP"
-        }
-      ],
-      "duration_ms": 96414,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Enchanted Instrumentals and Whispers",
         "url": "https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N"
       },
@@ -415,6 +383,22 @@
       "duration_ms": 256188,
       "name": "Deep Swim",
       "url": "https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc"
+      },
+      "artists": [
+        {
+          "name": "Zock",
+          "url": "https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP"
+        }
+      ],
+      "duration_ms": 96414,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -499,22 +483,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Somoku Hodo",
-        "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Doku",
-      "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "RePorpoised Phantasies",
         "url": "https://open.spotify.com/album/5BPW34xVtNwez7rVSjWQB3"
       },
@@ -527,6 +495,22 @@
       "duration_ms": 305454,
       "name": "Cyan Hardcore",
       "url": "https://open.spotify.com/track/3tHuc2GGxetquuJKCleNmK"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Somoku Hodo",
+        "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Doku",
+      "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -771,22 +755,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71"
-      },
-      "artists": [
-        {
-          "name": "Drive45",
-          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
-        }
-      ],
-      "duration_ms": 175624,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Aether",
         "url": "https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV"
       },
@@ -803,6 +771,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71"
+      },
+      "artists": [
+        {
+          "name": "Drive45",
+          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
+        }
+      ],
+      "duration_ms": 175624,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": ".Temp",
         "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 116589,
       "name": "Chiltonwalk.Temp",
       "url": "https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Zapper",
+        "url": "https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7"
+      },
+      "artists": [
+        {
+          "name": "NANORAY",
+          "url": "https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1"
+        }
+      ],
+      "duration_ms": 241411,
+      "name": "NEKOMATA'97",
+      "url": "https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I"
     }
   ],
   "unique_name": "webcore",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Corinne Bailey Rae \(pictured\), Chase & Status, Tate McRae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,654 likes - 129 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,733 likes - 129 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,9 +133,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 123 | [REMEMBRANCE](https://open.spotify.com/track/32JwJxSXpel0JglG9I0Vom) | [DATSKO](https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY) | [REMEMBRANCE](https://open.spotify.com/album/2j4aWo6LfDSiTve9b1XuNc) | 4:11 |
 | 124 | [Smile](https://open.spotify.com/track/77FvmDMZvPF97ThaTYSObR) | [The KTNA](https://open.spotify.com/artist/4ClCPFCSoK2JUTEpiHnKuG) | [Smile](https://open.spotify.com/album/2ArC5b6zu63FNvl37UraGD) | 4:04 |
 | 125 | [Only One](https://open.spotify.com/track/0S1nrhZQ0bqQMrygVlDil8) | [Junior Andre](https://open.spotify.com/artist/4eO9fhg3LPhptayuHVwmqF) | [Only One](https://open.spotify.com/album/5SBgVEv4utAZscxDbLSee5) | 2:33 |
-| 126 | [Funeral](https://open.spotify.com/track/4QW5nDlIiWPDLmX54hGZSg) | [CHELJI](https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO) | [Funeral](https://open.spotify.com/album/6qQaUmIg8vJw3Ily6NSL51) | 2:21 |
+| 126 | [Funeral](https://open.spotify.com/track/4QW5nDlIiWPDLmX54hGZSg) | [CHELJI](https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO) | [Funeral](https://open.spotify.com/album/6qQaUmIg8vJw3Ily6NSL51) | 2:18 |
 | 127 | [Soro](https://open.spotify.com/track/76abHIxTSiIwfx8WiVbaCn) | [Shae Jacobs](https://open.spotify.com/artist/6ImrY70oL7099KK1RSFq1J) | [Ale Ati Ojo](https://open.spotify.com/album/6PkxvFKeEgy0RP8XgWYzDY) | 2:21 |
 | 128 | [Dubby](https://open.spotify.com/track/6rPbTqoepgoHoDZrBItweP) | [Play Nice](https://open.spotify.com/artist/1ghxd86r7phiK0vgytiGkh) | [Dubby](https://open.spotify.com/album/5Tgqa6Sze1uf3X4SV8hUqg) | 1:28 |
 | 129 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 |
 
-Snapshot ID: `MCxhNTY2ZGJlY2YzMTVkMDA5M2JjNjJjZDc3OTIwMTZjYWQ5ZDQ3NzJi`
+Snapshot ID: `MCxlMGJlZTE5ODRlMWUzMDA2M2M3NjJmODNiOTU2ODhkZTBkZTUwNWRk`

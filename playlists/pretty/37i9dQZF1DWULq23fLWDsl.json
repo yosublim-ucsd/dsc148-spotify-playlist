@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 203322,
+  "num_followers": 203514,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjZiZTcxNzViOWEzZDMyMjMxZjcyZjdjZGM4NTkyNTA1ZjQxMTg1",
+  "snapshot_id": "MCwzMzM2OGYzOTZjODMxMWIyMTIyYjM4ODIxNTUwZTdkYzI1NTdjOTUz",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Halcyon Digest",
-        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
-      },
-      "artists": [
-        {
-          "name": "Deerhunter",
-          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
-        }
-      ],
-      "duration_ms": 404413,
-      "name": "Desire Lines",
-      "url": "https://open.spotify.com/track/34OYZJDVLJC0HS401190FN"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "The Suburbs (Deluxe)",
         "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
+        "name": "Halcyon Digest",
+        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Deerhunter",
+          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
         }
       ],
-      "duration_ms": 288720,
-      "name": "Zebra",
-      "url": "https://open.spotify.com/track/6asU049doNupkVllo61luh"
+      "duration_ms": 404413,
+      "name": "Desire Lines",
+      "url": "https://open.spotify.com/track/34OYZJDVLJC0HS401190FN"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1155,6 +1139,22 @@
       "duration_ms": 198213,
       "name": "Next Girl",
       "url": "https://open.spotify.com/track/2UE4m8egf0aREmOi47sDOk"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/6asU049doNupkVllo61luh"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "She's Long Gone",
-      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Before Today",
         "url": "https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "She's Long Gone",
+      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Wounded Rhymes",
         "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
       },
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Halcyon Digest",
-        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
+        "name": "King of the Beach",
+        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
       },
       "artists": [
         {
-          "name": "Deerhunter",
-          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
         }
       ],
-      "duration_ms": 449373,
-      "name": "He Would Have Laughed",
-      "url": "https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL"
+      "duration_ms": 158106,
+      "name": "King of the Beach",
+      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "King of the Beach",
-        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
+        "name": "Halcyon Digest",
+        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
       },
       "artists": [
         {
-          "name": "Wavves",
-          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+          "name": "Deerhunter",
+          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
         }
       ],
-      "duration_ms": 158106,
-      "name": "King of the Beach",
-      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
+      "duration_ms": 449373,
+      "name": "He Would Have Laughed",
+      "url": "https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "/\\/\\ /\\ Y /\\",
-        "url": "https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "BORN FREE",
-      "url": "https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Gorilla Manor",
         "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 237933,
       "name": "Airplanes",
       "url": "https://open.spotify.com/track/6qsArsTq6WoqtUFUe1e15W"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "/\\/\\ /\\ Y /\\",
+        "url": "https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "BORN FREE",
+      "url": "https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/60wcxIoRFqx9kVE87j562F"
     },
     {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Odd Blood",
-        "url": "https://open.spotify.com/album/4OTfa7TIDrZjGKCDu8dUqG"
-      },
-      "artists": [
-        {
-          "name": "Yeasayer",
-          "url": "https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Ambling Alp",
-      "url": "https://open.spotify.com/track/4gmivt1Q8UbnQZMVHLH43v"
-    },
-    {
       "added_at": "2022-01-03 14:21:42",
       "album": {
         "name": "Dark Night of The Soul",
@@ -1579,6 +1563,22 @@
       "duration_ms": 272933,
       "name": "Little Girl (feat. Julian Casablancas)",
       "url": "https://open.spotify.com/track/6lGzMfAWjZbvPPf8SLpu0Y"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Odd Blood",
+        "url": "https://open.spotify.com/album/4OTfa7TIDrZjGKCDu8dUqG"
+      },
+      "artists": [
+        {
+          "name": "Yeasayer",
+          "url": "https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Ambling Alp",
+      "url": "https://open.spotify.com/track/4gmivt1Q8UbnQZMVHLH43v"
     },
     {
       "added_at": "2021-10-05 08:40:49",

@@ -8140,6 +8140,24 @@
     {
       "album": {
         "name": "Going Under",
+        "url": "https://open.spotify.com/album/0lhTYswfOeJph432W7zU2P"
+      },
+      "artists": [
+        {
+          "name": "Russell Louder",
+          "url": "https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209545,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/5JDBGWaittRF3rbVXExDWe"
+    },
+    {
+      "album": {
+        "name": "Going Under",
         "url": "https://open.spotify.com/album/1a914TVEVrPr8HjljjPgGu"
       },
       "artists": [
@@ -8150,7 +8168,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 209545,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/5Qu0vk5db6nygY3B9Aa90H"

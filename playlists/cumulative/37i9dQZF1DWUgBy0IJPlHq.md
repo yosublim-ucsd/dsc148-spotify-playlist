@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Stephen Wilson Jr.
 
-486 songs - 1 day 6 hr 3 min
+488 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 | 2022-06-17 | 2023-02-25 |
 | [12th of June](https://open.spotify.com/track/0TUcn0qBz7kS0VtPyKviPm) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/5szOii0PaRjMwUqV1VJpfH) | 4:54 | 2022-04-01 | 2022-08-06 |
 | [1959](https://open.spotify.com/track/674CK3mooQHsch9JvA9Kvc) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 3:22 | 2022-08-05 | 2022-12-17 |
-| [68](https://open.spotify.com/track/6LtSvOXW9K6oo4lmJZmMji) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/7B9cPzzx0ZuOcGveznlL53) | 3:27 | 2023-04-21 |  |
+| [68](https://open.spotify.com/track/6LtSvOXW9K6oo4lmJZmMji) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/7B9cPzzx0ZuOcGveznlL53) | 3:27 | 2023-04-21 | 2023-09-17 |
+| [68](https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:27 | 2023-09-15 |  |
 | [68 \- Live](https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Live at Bo Bash 2021](https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M) | 3:28 | 2023-03-17 | 2023-04-22 |
 | [7:28](https://open.spotify.com/track/4vN75DSxzy9YPrYkd4gorU) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [7:28](https://open.spotify.com/album/2DxqBPRu9rPtHbly8A2uVe) | 4:02 | 2021-12-17 | 2022-06-18 |
 | [A Cat in the Rain](https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 5:17 | 2023-08-25 |  |
@@ -441,7 +442,8 @@
 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 | 2023-03-03 |  |
 | [Trouble](https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl) | [Sophie & The Broken Things](https://open.spotify.com/artist/620A5QNUAGBCuBYOUHf0c0), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Trouble](https://open.spotify.com/album/4zFeo0LkLXCgiYgPqKouI7) | 3:47 | 2021-12-17 | 2022-01-29 |
 | [Two Timin'](https://open.spotify.com/track/0grVSIK1Dt81ZDMnBGeJ6O) | [The Watson Twins](https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4), [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Two Timin'](https://open.spotify.com/album/404XRPTtRC0I56OL6lcACE) | 3:08 | 2022-05-20 | 2022-07-23 |
-| [Unoriginal Sin](https://open.spotify.com/track/0UYl5wtIuUCqsQbPqLP1bY) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Strays II \(Act II: Mind Travel\)](https://open.spotify.com/album/7z5QiX0dg41jTKWOMg9uvY) | 3:01 | 2023-09-15 |  |
+| [Unoriginal Sin](https://open.spotify.com/track/0UYl5wtIuUCqsQbPqLP1bY) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Strays II \(Act II: Mind Travel\)](https://open.spotify.com/album/7z5QiX0dg41jTKWOMg9uvY) | 3:01 | 2023-09-15 | 2023-09-17 |
+| [Unoriginal Sin \[Feat\. Mike Campbell\]](https://open.spotify.com/track/3LaEsaM0VWzl3elLRQrAR8) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Mike Campbell](https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V) | [Strays II \(Act II: Mind Travel\)](https://open.spotify.com/album/5ywCGRWYJmrE0bFwip9OnO) | 3:01 | 2023-09-15 |  |
 | [Useless](https://open.spotify.com/track/1JHtHEe65WWFypjHAuXB6S) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Useless](https://open.spotify.com/album/29Cep4HZMEuokBgwiNSV6p) | 3:09 | 2022-10-21 | 2023-06-10 |
 | [Using Again](https://open.spotify.com/track/6TQzLEc2mFHyZ4eYXu50ma) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [I Will Rise](https://open.spotify.com/album/1Vl2kmltMKBocyjqcqGSZH) | 2:43 | 2022-11-25 | 2023-07-01 |
 | [Vanlife](https://open.spotify.com/track/45VMPMgzOLjEc7XHcWXiJJ) | [Willi Carlisle](https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L) | [Vanlife](https://open.spotify.com/album/1R1JBKJdMh57oGTmp37vuF) | 4:46 | 2022-06-17 | 2022-08-13 |

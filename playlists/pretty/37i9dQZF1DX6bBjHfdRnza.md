@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Kuren\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,922 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,955 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 92 | [Love](https://open.spotify.com/track/1szQmkXiC5hZ3iCkgDctvl) | [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [Gouldian Finch 5](https://open.spotify.com/album/3FdxkBoB4O86sbVRYeTPsZ) | 2:38 |
 | 93 | [Tribute to Fireflies](https://open.spotify.com/track/2b1Nfgy5SUCx3ixxviq33G) | [Dawns From Tomorrow](https://open.spotify.com/artist/4LB17M8h7RkbRyY8e5jjdG), [Furia](https://open.spotify.com/artist/21eiOIycysmwvv0hSl5XBS), [Society on Mars](https://open.spotify.com/artist/58y20IVXP54TavDolirnyP) | [Tribute to Fireflies](https://open.spotify.com/album/3czqK4zhn2SBWgKjtSGD2s) | 3:30 |
 | 94 | [Forgotten](https://open.spotify.com/track/38Rl28axGYoLgOhCOoSYU1) | [Martin HERRS](https://open.spotify.com/artist/6co92uBAF8UvpJ09OE0xsx) | [Forgotten](https://open.spotify.com/album/4FOV9VcF9xTDytPcqOONMQ) | 5:40 |
-| 95 | [New Life Livin](https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY) | [Kai Alce](https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh) | [New Life Livin](https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z) | 5:11 |
+| 95 | [New Life Livin](https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY) | [Kai Alcé](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [New Life Livin](https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z) | 5:11 |
 | 96 | [Daylight](https://open.spotify.com/track/19Luc7GiDa8gswDvBbOHEs) | [Disco Face](https://open.spotify.com/artist/7aaUzg2BMYDI4YRSrmr8kO) | [Daylight](https://open.spotify.com/album/2m45hUPf6JdtvHdyGjeRE3) | 3:18 |
 | 97 | [Nobody](https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Nobody](https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW) | 3:46 |
 | 98 | [Galactic Banana](https://open.spotify.com/track/7xI4L7WRsMs4nnpaiIxFUI) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [SNACK BOX VOL\. 1](https://open.spotify.com/album/0rqOpmA7OvwXMtCBqy2YHC) | 5:34 |
 | 99 | [Aqua Stars](https://open.spotify.com/track/5wwe7RrU67xsa6Ykd5Sy80) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Aqua Stars](https://open.spotify.com/album/6VZObR7olr2Lr67Q6iJ6YI) | 7:05 |
 | 100 | [Here \- Cyril Hahn Remix](https://open.spotify.com/track/7tSGPterBgbfa6Zt9MMviZ) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Shiny Things \(Deluxe Edition\)](https://open.spotify.com/album/1ahO6sNz28MvmuaHNd0NKY) | 4:01 |
 
-Snapshot ID: `MCxiZmE0MzllOTY0YzM2YTdiNjRlNDA3Y2I0OGQyOWM4MTMwOTIyNjJi`
+Snapshot ID: `MCxhZDJhYzg3NDhjNjMwYjE1NWY1YzY2YjdkMTRlYWVkOWNmMWQ0Y2Rm`

@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 14419,
+  "num_followers": 14428,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTIzNTg0M2UwOTIxZmIwZGExYmI2YTA5ZDJmNTllNzI3NzYyNGY2",
+  "snapshot_id": "MCwxMTRjYTY3YjNjY2FhYjQ2Njg4ZDQyOThkMTQ2OGQzMzgzNjQzNzc4",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
-        "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
-      },
-      "artists": [
-        {
-          "name": "Jaime Sin Tierra",
-          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
-        }
-      ],
-      "duration_ms": 143866,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Manzana de Metal",
         "url": "https://open.spotify.com/album/3eXS2iglmCZJ9feMoyX7dm"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 263173,
       "name": "Atl\u00e1ntico",
       "url": "https://open.spotify.com/track/7nXLrabjv9W94NyjK8WNga"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 Y Yo Sigo Volando",
+        "url": "https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB"
+      },
+      "artists": [
+        {
+          "name": "Jaime Sin Tierra",
+          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4"
     },
     {
       "added_at": "2020-03-13 13:21:28",

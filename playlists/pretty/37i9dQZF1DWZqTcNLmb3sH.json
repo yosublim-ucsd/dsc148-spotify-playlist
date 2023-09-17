@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 52592,
+  "num_followers": 52675,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjA0YmYwYjM4ODc4ZWUzNTVjZGUyZjM2YjA2YjZmNDY5MTUzMTAx",
+  "snapshot_id": "MCw1YTI4YmM0YjMyMDMyYWYzNGE4OWQzYTJkNDg3YzY3YjdmOWQxMGEy",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -51,6 +51,30 @@
       "duration_ms": 226958,
       "name": "Summane Naga Bahudhe Hudugi (from \"Jigar\")",
       "url": "https://open.spotify.com/track/60LKP71JQ3BM1k8zc7GV5b"
+    },
+    {
+      "added_at": "2023-09-16 06:19:40",
+      "album": {
+        "name": "Vivarane (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/2f3RV99CfM3He6gL1ZT47Y"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 204082,
+      "name": "Vivarane (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/2Xc0jsOBqPWhyuS29dQnvz"
     },
     {
       "added_at": "2023-09-12 08:17:16",

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 100122,
+  "num_followers": 100117,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTQzNjlmMzcxZjNiZjVhNTc2NmI0MmI5OGFjNjZjZTg1ZjNjYmNl",
+  "snapshot_id": "MCw5OWE0ZGEyMDhkYTVhZjcwYzE3MWQyYTI4Zjc4MTA3Njc4M2ZhODhm",
   "tracks": [
     {
       "added_at": "2023-09-13 11:38:54",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-13 11:38:54",
       "album": {
-        "name": "When My Heart Finds Christmas",
-        "url": "https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "(It Must've Been Ol') Santa Claus",
-      "url": "https://open.spotify.com/track/54G7kjF8wbQAwG3WGmP6Ji"
-    },
-    {
-      "added_at": "2023-09-13 11:38:54",
-      "album": {
         "name": "Here We Come A-Caroling",
         "url": "https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-09-13 11:38:54",
       "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+        "name": "When My Heart Finds Christmas",
+        "url": "https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 195173,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
+      "duration_ms": 276400,
+      "name": "(It Must've Been Ol') Santa Claus",
+      "url": "https://open.spotify.com/track/54G7kjF8wbQAwG3WGmP6Ji"
     },
     {
       "added_at": "2023-09-13 11:38:54",
@@ -491,6 +475,22 @@
       "duration_ms": 145333,
       "name": "Shake Hands with Santa Claus - Mono Recording",
       "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
+    },
+    {
+      "added_at": "2023-09-13 11:38:54",
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
     },
     {
       "added_at": "2023-09-13 11:38:54",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-09-13 11:38:54",
       "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/4NVXNilJI92yp86NwlVc87"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 139880,
+      "name": "Ring Those Christmas Bells",
+      "url": "https://open.spotify.com/track/2YA3CMWrGfQeLxtiS4zFZO"
+    },
+    {
+      "added_at": "2023-09-13 11:38:54",
+      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2023-09-13 11:38:54",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/4NVXNilJI92yp86NwlVc87"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 139880,
-      "name": "Ring Those Christmas Bells",
-      "url": "https://open.spotify.com/track/2YA3CMWrGfQeLxtiS4zFZO"
-    },
-    {
-      "added_at": "2023-09-13 11:38:54",
-      "album": {
         "name": "This is Christmas",
         "url": "https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 185030,
       "name": "Diddly Squat",
       "url": "https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph"
-    },
-    {
-      "added_at": "2023-09-13 11:38:54",
-      "album": {
-        "name": "Their Complete Recordings Together",
-        "url": "https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Poppa Santa Claus",
-      "url": "https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X"
     },
     {
       "added_at": "2023-09-13 11:38:54",
@@ -611,6 +591,26 @@
       "duration_ms": 176379,
       "name": "The Very Best Day This Year",
       "url": "https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ"
+    },
+    {
+      "added_at": "2023-09-13 11:38:54",
+      "album": {
+        "name": "Their Complete Recordings Together",
+        "url": "https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Poppa Santa Claus",
+      "url": "https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X"
     },
     {
       "added_at": "2023-09-13 11:38:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-09-13 11:38:54",
       "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 146022,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz"
-    },
-    {
-      "added_at": "2023-09-13 11:38:54",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 162746,
       "name": "Boogie Woogie Santa Claus",
       "url": "https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ"
+    },
+    {
+      "added_at": "2023-09-13 11:38:54",
+      "album": {
+        "name": "Gospel Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 146022,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz"
     },
     {
       "added_at": "2023-09-13 11:38:54",
@@ -731,38 +731,6 @@
     {
       "added_at": "2023-09-13 11:38:54",
       "album": {
-        "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
-        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        },
-        {
-          "name": "Dan Brubeck",
-          "url": "https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l"
-        },
-        {
-          "name": "Bill Smith",
-          "url": "https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz"
-        },
-        {
-          "name": "Jack Six",
-          "url": "https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX"
-        },
-        {
-          "name": "Randy Jones",
-          "url": "https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
-    },
-    {
-      "added_at": "2023-09-13 11:38:54",
-      "album": {
         "name": "Little Saint Nick",
         "url": "https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 152973,
       "name": "Dig That Crazy Santa Claus",
       "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
+    },
+    {
+      "added_at": "2023-09-13 11:38:54",
+      "album": {
+        "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
+        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        },
+        {
+          "name": "Dan Brubeck",
+          "url": "https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l"
+        },
+        {
+          "name": "Bill Smith",
+          "url": "https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz"
+        },
+        {
+          "name": "Jack Six",
+          "url": "https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX"
+        },
+        {
+          "name": "Randy Jones",
+          "url": "https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
     },
     {
       "added_at": "2023-09-13 11:38:54",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-09-13 11:38:54",
       "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
+    },
+    {
+      "added_at": "2023-09-13 11:38:54",
+      "album": {
         "name": "My Christmas Night",
         "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 175243,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV"
-    },
-    {
-      "added_at": "2023-09-13 11:38:54",
-      "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
     },
     {
       "added_at": "2023-09-13 11:38:54",

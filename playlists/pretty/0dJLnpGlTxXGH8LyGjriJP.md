@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 654 songs - 1 day 8 hr 53 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 656 songs - 1 day 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -662,5 +662,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 652 | [Booby Trap](https://open.spotify.com/track/6PqRhA7KUAhWaD0iQeQ6cR) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:16 |
 | 653 | [Too Comfortable](https://open.spotify.com/track/0biVzpdI2z0vAxwfU9xuuA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:56 |
 | 654 | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/album/2GMbT6TVTPmb8XQc2IOBNW) | 3:17 |
+| 655 | [OTR Freestyle](https://open.spotify.com/track/4CVJsHkkPmAgQToSk5dNg9) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:20 |
+| 656 | [Nobody Special \(with Future\)](https://open.spotify.com/track/4hxAZVGVvBibnz36zIF6QN) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Nobody Special \(with Future\)](https://open.spotify.com/album/7AL7cdhzjigaVkUVhRiphE) | 2:49 |
 
-Snapshot ID: `ODE3LDBiNDFmMDRmOWQ1Y2M4ZjEzMzViZmY1Y2E1MzIyMjUyYzNiYzcxZDE=`
+Snapshot ID: `ODE5LGUwMGYwN2JmYWFhNjMwMWNmYTI2NTIxNzZiYmQ1MmIwZDkzMzE3YjQ=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: DEKKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,096 likes - 212 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,109 likes - 212 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 55 | [hookah envenena](https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [hookah envenena](https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z) | 2:50 |
 | 56 | [saboteo](https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 3:32 |
 | 57 | [me conquistaste](https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [malos hábitos](https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP) | 2:53 |
-| 58 | [Sensualidad](https://open.spotify.com/track/6JS18buYzOHFQal2s83Wua) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe) | [ETDM Reloaded](https://open.spotify.com/album/7Ef3Tpm2A87GFx4xnfwrMb) | 2:44 |
+| 58 | [Sensualidad](https://open.spotify.com/track/6JS18buYzOHFQal2s83Wua) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [ETDM Reloaded](https://open.spotify.com/album/7Ef3Tpm2A87GFx4xnfwrMb) | 2:44 |
 | 59 | [Comodow](https://open.spotify.com/track/4vddNlUsBACYjcd8Bj6kRi) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [ETDM Reloaded](https://open.spotify.com/album/7Ef3Tpm2A87GFx4xnfwrMb) | 2:24 |
 | 60 | [Tocándote](https://open.spotify.com/track/4wyUjwhYVZi08QWzCU1DqM) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [ETDM Reloaded](https://open.spotify.com/album/7Ef3Tpm2A87GFx4xnfwrMb) | 3:32 |
 | 61 | [Influencer](https://open.spotify.com/track/7qEPiZyQmliBHQI4PHYbIc) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [XXX](https://open.spotify.com/album/5hEiUWJ6S4X1Lm2JYkuahP) | 2:23 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 211 | [CAEN LAS ESTRELLAS](https://open.spotify.com/track/4L2v8fOruCUk2wbXC0PKHt) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:25 |
 | 212 | [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 |
 
-Snapshot ID: `MCwxOTk5OGI0ZDc3NTgzNGJlNTlkOGIyZTUyZDE0NmJiNTY0ZGUzYWY5`
+Snapshot ID: `MCxlYjU0ZDdkMmE5ODVkZDVlOTg2M2Y0NDYzNWE3YmI0M2RlYzIxNTU0`

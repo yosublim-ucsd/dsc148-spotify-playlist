@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: MAKSIM & Emma Heesters
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,206 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,237 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Wat Ik Met Je Moet](https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM) | [AMBER](https://open.spotify.com/artist/44pmqyq9sUSOoXo0gyrmXe) | [Wat Ik Met Je Moet](https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF) | 3:00 |
 | 70 | [Glaasje of 2](https://open.spotify.com/track/608bP3vB7pwjatfREMItX6) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Glaasje of 2](https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j) | 2:03 |
 
-Snapshot ID: `MCwyNzc4Y2M4YzM5NGExMzQ0MmMyMzVkZDVjMWIyZjdiZDY1ZjIyMTEw`
+Snapshot ID: `MCw4MWU1ODViOTAyOTBkNzk1ZjIwMjUzY2ZjNjc5MjVmOTYwMzY0YWIx`

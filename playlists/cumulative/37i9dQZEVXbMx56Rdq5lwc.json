@@ -7691,6 +7691,24 @@
     },
     {
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "album": {
         "name": "growing up is getting old (Eurovision Version)",
         "url": "https://open.spotify.com/album/5R6zdpQ4MYdVKnxpeR3YxJ"
       },
@@ -10212,7 +10230,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 157400,
       "name": "JUODOS AKYS",
       "url": "https://open.spotify.com/track/6qOG7l1Ph1eDVd3F1P0reG"
@@ -10322,6 +10340,24 @@
       "duration_ms": 136126,
       "name": "KAI SKAUDA",
       "url": "https://open.spotify.com/track/3InOXis1G8q80QwDTDmBPW"
+    },
+    {
+      "album": {
+        "name": "Juoda Avys",
+        "url": "https://open.spotify.com/album/4abENuB79QjmFD3iGWMRkq"
+      },
+      "artists": [
+        {
+          "name": "morre",
+          "url": "https://open.spotify.com/artist/53huFS9Cpu1ejFA9abqx3a"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178943,
+      "name": "Kaip Diena",
+      "url": "https://open.spotify.com/track/2put4ujMska9sLbQdh7JY4"
     },
     {
       "album": {
@@ -16606,7 +16642,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"

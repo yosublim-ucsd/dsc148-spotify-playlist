@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de J Balvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,852 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,944 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 14 | [Solta\-te](https://open.spotify.com/track/2UI3cAPpvUIQDVxZZn9WUo) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Solta\-te](https://open.spotify.com/album/6xPbkBh6qJsdV2T427pWzL) | 3:08 |
 | 15 | [DAME](https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:51 |
 | 16 | [CARNET](https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [CARNET](https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3) | 2:19 |
-| 17 | [N.E.T.S.Y](https://open.spotify.com/track/5Phv0qgcTp68RdOP8tcfxM) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [Miraz](https://open.spotify.com/artist/2AX6OUipntldKmXpt3o3k0), [Steven Singe](https://open.spotify.com/artist/6SRnLzJk2MMZLkVzOUg5d3) | [N.E.T.S.Y](https://open.spotify.com/album/7ckk7ovvJat4m7lbwZW4qR) | 2:56 |
+| 17 | [N.E.T.S.Y](https://open.spotify.com/track/5Phv0qgcTp68RdOP8tcfxM) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [N.E.T.S.Y](https://open.spotify.com/album/7ckk7ovvJat4m7lbwZW4qR) | 2:56 |
 | 18 | [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 |
 | 19 | [CUKI](https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 2:45 |
 | 20 | [SPANISH TETEO](https://open.spotify.com/track/5qYEnemubz0o1cXwdhaQel) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [SPANISH TETEO](https://open.spotify.com/album/5LcKv1TwB32BLjtvkKYbA0) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [Almas Gemelas](https://open.spotify.com/track/5Y37PYMXdUxfpCWn9o5r6f) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [12 12](https://open.spotify.com/album/6zSJ3hOlv7MdsBnoTsorpd) | 2:09 |
 | 100 | [KYLIE](https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:00 |
 
-Snapshot ID: `MCxlOTJkYTA5ZGI2ZTZiZjcwNGRmMDBhODcyNDZkY2Q2MDdlNDY3OGM2`
+Snapshot ID: `MCxkMjdlZDU1M2Q4YTNiZjZjZGFjMDA2NTJlMWY3MzkzZGI0NjkwMzkw`

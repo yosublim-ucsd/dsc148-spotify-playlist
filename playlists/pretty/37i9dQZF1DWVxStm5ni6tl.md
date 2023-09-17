@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Nicholas Cangiano, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 945 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 946 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Settle Down](https://open.spotify.com/track/4tdfBSO7R0wsJRiROQE9zC) | [Eekwol](https://open.spotify.com/artist/6qHlJGY4hYFoVWtoHxAMvb) | [Settle Down](https://open.spotify.com/album/1Er6yOIXEVqLxhs8gtQzoS) | 3:18 |
 | 75 | [LIL BOAT](https://open.spotify.com/track/7MuHFhsiZRRXHtngQHk0qM) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [Malikai Motion](https://open.spotify.com/artist/1KrLsmuo1aPixXK9SeCOid) | [LIL BOAT](https://open.spotify.com/album/1o9ti0AEZ3sx3mLT67NGOj) | 2:56 |
 
-Snapshot ID: `MCw0ZTU3NmI4ZGM3MmEzNjZhZTE3NWI1YmU0MGQxMWMzYmViYTRiNDQw`
+Snapshot ID: `MCxjMzU1M2JkZGNkMjAzY2U5MGY4ZDAwYmM3MTFhNWM2MzZkZWRlNGQx`

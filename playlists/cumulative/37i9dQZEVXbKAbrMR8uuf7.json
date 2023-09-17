@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "5 De Marzo",
+        "url": "https://open.spotify.com/album/1YpTPWFha4zUf8leMKFJN9"
+      },
+      "artists": [
+        {
+          "name": "Dk Robert",
+          "url": "https://open.spotify.com/artist/6pkSMulSKLM4ZH7RV2lMUs"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200903,
+      "name": "5 De Marzo",
+      "url": "https://open.spotify.com/track/3pA1pgdfzQoaIktAppReiG"
+    },
+    {
+      "album": {
         "name": "SEN2 KBRN VOL. 1",
         "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
       },
@@ -3082,7 +3100,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 234057,
       "name": "Cari\u00f1o Mio",
       "url": "https://open.spotify.com/track/5YdUCL82yFqJjrUxwpgZun"
@@ -3238,7 +3256,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 168133,
       "name": "CHORRITO PA LAS ANIMAS",
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
@@ -3958,7 +3976,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 200454,
       "name": "Cuerpo Natural",
       "url": "https://open.spotify.com/track/4EvvYJIu3l45MCUHDvZf7Q"
@@ -6192,7 +6210,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 198591,
       "name": "En las Bahamas",
       "url": "https://open.spotify.com/track/2X1ufApPzGGWd5jkMrXRMG"
@@ -9898,7 +9916,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 127627,
       "name": "La Palida",
       "url": "https://open.spotify.com/track/0dpvEhTjlOPRO9al8fg1Dw"
@@ -10048,7 +10066,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 144015,
       "name": "La Tola",
       "url": "https://open.spotify.com/track/0hWLbSKDbg2iBhZg8cIRiT"
@@ -13680,7 +13698,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
@@ -18654,7 +18672,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 145344,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/7Lq6O09reN4j1nNtgk34jP"
@@ -20342,7 +20360,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 138205,
       "name": "True",
       "url": "https://open.spotify.com/track/47H26TwwZ6SCcU1CF2aRYn"

@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -2930,6 +2930,24 @@
       "duration_ms": 126545,
       "name": "Drug 2.0",
       "url": "https://open.spotify.com/track/5ByxpTTH6KSqkSlBvQhJXn"
+    },
+    {
+      "album": {
+        "name": "Dying 2 Live",
+        "url": "https://open.spotify.com/album/7yMQk27W7SKWEUgn30vglk"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Dying 2 Live",
+      "url": "https://open.spotify.com/track/1E9hNjQeyecspfUZVmM4ZK"
     },
     {
       "album": {
@@ -4700,7 +4718,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-17",
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
@@ -22152,6 +22170,28 @@
       "duration_ms": 156428,
       "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
       "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"
+    },
+    {
+      "album": {
+        "name": "\u0424\u0430\u043a\u0442\u044b",
+        "url": "https://open.spotify.com/album/6Y8Tb1YBeGaJzKjOzA9ASQ"
+      },
+      "artists": [
+        {
+          "name": "Markul",
+          "url": "https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2"
+        },
+        {
+          "name": "OG Buda",
+          "url": "https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141421,
+      "name": "\u0424\u0430\u043a\u0442\u044b",
+      "url": "https://open.spotify.com/track/3zpgh23io9Y7RdFMf1wvcg"
     },
     {
       "album": {
