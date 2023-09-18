@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Fey en portada.",
-  "num_followers": 73507,
+  "num_followers": 73558,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjk1MGQwNTg4Zjc5ZDI3NGIxOGMwZjdhMTZmY2ZkODdkNmE2NWMz",
+  "snapshot_id": "MCwyMjg4MGM3NDIwZjM2ODIwZjdlODZjNzUxMDAxZjI1ZjIxMTgwMTM2",
   "tracks": [
     {
       "added_at": "2023-09-08 19:13:36",
@@ -27,26 +27,26 @@
     {
       "added_at": "2023-09-08 19:13:36",
       "album": {
-        "name": "No_se_ve.mp3",
-        "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
+        "name": "ELOVRGA",
+        "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "ZECCA",
-          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
         }
       ],
-      "duration_ms": 203636,
-      "name": "No_se_ve.mp3",
-      "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+      "duration_ms": 194769,
+      "name": "ELOVRGA",
+      "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
     },
     {
       "added_at": "2023-09-08 19:13:36",
@@ -151,26 +151,26 @@
     {
       "added_at": "2023-09-08 19:13:36",
       "album": {
-        "name": "ELOVRGA",
-        "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
+        "name": "No_se_ve.mp3",
+        "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         },
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
         }
       ],
-      "duration_ms": 194769,
-      "name": "ELOVRGA",
-      "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
+      "duration_ms": 203636,
+      "name": "No_se_ve.mp3",
+      "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
     },
     {
       "added_at": "2023-09-08 19:13:36",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-09-08 19:13:36",
       "album": {
+        "name": "S\u00daPER ULTRA MEGA",
+        "url": "https://open.spotify.com/album/4Cv7WFBZEfCDuZaFHdNhaF"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "S\u00daPER ULTRA MEGA",
+      "url": "https://open.spotify.com/track/1RR4V0naoxfy9dVgMjzcxZ"
+    },
+    {
+      "added_at": "2023-09-08 19:13:36",
+      "album": {
         "name": "A Un Paso De La Luna (Remix)",
         "url": "https://open.spotify.com/album/7uqAed3H0PhUrLDoyVATh8"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 194262,
       "name": "A Un Paso De La Luna - Remix",
       "url": "https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv"
-    },
-    {
-      "added_at": "2023-09-08 19:13:36",
-      "album": {
-        "name": "S\u00daPER ULTRA MEGA",
-        "url": "https://open.spotify.com/album/4Cv7WFBZEfCDuZaFHdNhaF"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "S\u00daPER ULTRA MEGA",
-      "url": "https://open.spotify.com/track/1RR4V0naoxfy9dVgMjzcxZ"
     },
     {
       "added_at": "2023-09-08 19:13:36",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-09-08 19:13:36",
       "album": {
-        "name": "Crayola",
-        "url": "https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3"
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/3ibZ6PyJY3pJYIpJcmw6MP"
       },
       "artists": [
         {
-          "name": "SHEISA",
-          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
         }
       ],
-      "duration_ms": 150461,
-      "name": "Crayola",
-      "url": "https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI"
+      "duration_ms": 198321,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/65gTApZvCndEZnnEGHayN1"
     },
     {
       "added_at": "2023-09-08 19:13:36",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-09-08 19:13:36",
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/3ibZ6PyJY3pJYIpJcmw6MP"
+        "name": "Crayola",
+        "url": "https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3"
       },
       "artists": [
         {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+          "name": "SHEISA",
+          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
         }
       ],
-      "duration_ms": 198321,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/65gTApZvCndEZnnEGHayN1"
+      "duration_ms": 150461,
+      "name": "Crayola",
+      "url": "https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI"
     },
     {
       "added_at": "2023-09-08 19:13:36",

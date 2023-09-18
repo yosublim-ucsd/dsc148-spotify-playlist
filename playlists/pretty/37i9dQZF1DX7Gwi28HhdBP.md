@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,322 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,448 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 49 | [Betkhony Ya Waleed](https://open.spotify.com/track/76CDBfhrgF0pgL1ygK6q7y) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Betkhony Ya Waleed](https://open.spotify.com/album/6UKoFFHNtrat5J7yztu4sJ) | 3:08 |
 | 50 | [أنا العريس](https://open.spotify.com/track/08VaEgwrjwYF62fJr8A0nF) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [أنا العريس](https://open.spotify.com/album/2I2dMRK4GoHT8OqLqUOnxf) | 4:14 |
 
-Snapshot ID: `MCw5YjE1MTc5Y2ZhMWQ0NGQzZjlkN2ViOTk2NjFiYzQ4NTg4MWZlMTU4`
+Snapshot ID: `MCxiM2MwZTdlY2RjZDlkZTczMTc3NjYyZmZiYWYzYTAzMGI5ODAyMjJj`

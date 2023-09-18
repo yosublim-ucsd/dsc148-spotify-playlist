@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Davi Sacer, Simone",
-  "num_followers": 518067,
+  "num_followers": 518306,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmM1YjA4OThkNTUwZjU2M2YwNDFkYTAzY2I4NWM3ODJlODE1YTM4",
+  "snapshot_id": "MCxjNjAxZmQyNjkyMTc5NTQ5Y2MwMWQxMTM4NWM1Njc0NmY3MTNiNDQ5",
   "tracks": [
     {
       "added_at": "2023-07-21 04:44:41",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
+        "name": "O Melhor de Deus Esta Por Vir",
+        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
+      },
+      "artists": [
+        {
+          "name": "Voz da Verdade",
+          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "O Escudo",
+      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
-        "name": "O Melhor de Deus Esta Por Vir",
-        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
-      },
-      "artists": [
-        {
-          "name": "Voz da Verdade",
-          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "O Escudo",
-      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
     },
     {
       "added_at": "2023-07-21 04:44:41",

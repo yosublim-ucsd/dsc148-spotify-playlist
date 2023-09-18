@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Corinne Bailey Rae
 
-884 songs - 2 day 2 hr 9 min
+885 songs - 2 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,7 +580,8 @@
 | [OPTION](https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [OPTION](https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv) | 3:00 | 2022-11-02 | 2022-12-01 |
 | [Other Side](https://open.spotify.com/track/7cF2hKTFZ1JgoyEObsx2K4) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Other Side](https://open.spotify.com/album/2PqqKi9JNeXzT9zqFHwFEP) | 6:09 | 2022-06-01 | 2022-07-07 |
 | [OUCH](https://open.spotify.com/track/1xAnIsvhZGnBg1olQU8EBk) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [OUCH](https://open.spotify.com/album/0EDRMxQdYVVodh736VwLU3) | 2:33 | 2023-09-05 | 2023-09-17 |
-| [OUCH!](https://open.spotify.com/track/5nJvvGNR2c7zqlFi9rKuZk) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [OUCH!](https://open.spotify.com/album/682IqglnNNtloFxcPSNRQg) | 2:33 | 2023-09-05 |  |
+| [OUCH](https://open.spotify.com/track/2w4Sr2JyibE0XqAfwyiLKi) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [OUCH](https://open.spotify.com/album/5Wdb3pgkC6v1aJ4HzLVAnS) | 2:33 | 2023-09-05 |  |
+| [OUCH!](https://open.spotify.com/track/5nJvvGNR2c7zqlFi9rKuZk) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [OUCH!](https://open.spotify.com/album/682IqglnNNtloFxcPSNRQg) | 2:33 | 2023-09-05 | 2023-09-18 |
 | [Our Darkness](https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Joined Up Writing/The Sitting Room](https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ) | 5:24 | 2023-03-01 | 2023-04-05 |
 | [our time](https://open.spotify.com/track/6WBacWkfkwZxteVJ7MMBLZ) | [AZA](https://open.spotify.com/artist/1TuDcLFLVVf4Acp0Ja5O9Z) | [introducing AZA](https://open.spotify.com/album/4mAejHwVXINF599ZZ9XPVo) | 3:23 | 2022-11-02 |  |
 | [Out](https://open.spotify.com/track/307LMAWIYSpyNweOpB1vR3) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chance Of Rain](https://open.spotify.com/album/0ItFk3ohAXF6hiGMHEaUl0) | 1:29 | 2023-03-01 | 2023-04-05 |

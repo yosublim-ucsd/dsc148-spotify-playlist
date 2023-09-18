@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Chales Ans y Sharif en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,993 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,003 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [400 Estrellas](https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [400 Estrellas](https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr) | 3:43 |
 | 2 | [Freud](https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Ecolocalización](https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P) | 1:56 |
 | 3 | [No Me Quedo Callado](https://open.spotify.com/track/649r5qyGQRlAKFTRt8xGcO) | [Raydo HII](https://open.spotify.com/artist/2A1QlR1RYOumuUOHElKFi2), [Chikano Jcr](https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC), [Vizual Dealer](https://open.spotify.com/artist/55rW4Zyiqqky6OxedADMkY) | [No Me Quedo Callado](https://open.spotify.com/album/6QPOO1TGd1xu3UT6cjHBKr) | 3:26 |
-| 4 | [Butty Bang Bang](https://open.spotify.com/track/0u4oKIXxl0geFS2fuWiVXh) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Butty Bang Bang](https://open.spotify.com/album/75ggrmbV5iht00LL2DOu87) | 3:08 |
+| 4 | [Booty Bang Bang](https://open.spotify.com/track/0u4oKIXxl0geFS2fuWiVXh) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Booty Bang Bang](https://open.spotify.com/album/75ggrmbV5iht00LL2DOu87) | 3:08 |
 | 5 | [De Abajo Pa'rriba](https://open.spotify.com/track/6PjZKJvXhZcyBKSX0kNa7R) | [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V), [Farock](https://open.spotify.com/artist/68ozuRzjeeZGbKPU9b1nb2) | [De Abajo Pa'rriba](https://open.spotify.com/album/2xQWLcU7XkscadXAhDmbJl) | 3:20 |
 | 6 | [Enrolemos uno](https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L) | [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Chenguedengue](https://open.spotify.com/artist/2BbaWbkYiUZw3MRpiZYFdi) | [Enrolemos uno](https://open.spotify.com/album/5gaExTOw8xJLQdZkDwEqRE) | 3:06 |
 | 7 | [Boombap](https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Kintuper](https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ) | [Boombap](https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [BEEMO](https://open.spotify.com/track/7sBkokjVVW3wfU1SLE33Eh) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Sr\. Freddy Malaria](https://open.spotify.com/album/3DuxazPpULOeNqRAkq02AB) | 2:08 |
 | 100 | [INESTABLE](https://open.spotify.com/track/7oZU0WfiYy81ezw6tnSpH7) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [INESTABLE](https://open.spotify.com/album/7u83atv1sRDpcLZTx60sfV) | 2:54 |
 
-Snapshot ID: `MCxiNmJkMjM0NTFmOGM2M2VjNTljZjBhOGE5ZDczM2ZlYzVjYWQzMDdm`
+Snapshot ID: `MCxmYjI2NTU1MjZmOTdmYmI5ODM0OWJhZTFhMmMxMzY5NjIzY2NkMjgz`

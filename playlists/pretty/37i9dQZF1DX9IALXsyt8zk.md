@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: LE SSERAFIM \(르세라핌\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,095 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,141 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [HDYF \(Feat\. Hash Swan\)](https://open.spotify.com/track/32dRFUzFQND2iuWeCnWdx8) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Midnight law](https://open.spotify.com/album/0AoUsMZkciETOGsxubJX77) | 3:05 |
 | 50 | [lullaby](https://open.spotify.com/track/5svaQXGGlWWzuJW4eGAN9p) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [lullaby](https://open.spotify.com/album/3xrgoW81mLMRai347DLCW2) | 3:14 |
 
-Snapshot ID: `MCxmOTY3Mzc2Y2E5ZGRmNzg1MTVhNWJhNjdjOWRiYmVhOTA0NzA0NDA0`
+Snapshot ID: `MCxlNjlhNGZiNTg5OTQxZmUyYzM4MmYzZDA0OGU5MTQyM2QyYjI3ZTA2`

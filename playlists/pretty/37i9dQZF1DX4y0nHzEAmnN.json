@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1356,
+  "num_followers": 1357,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODVmMjc0MmQyY2Y0MjU1ZmYyMWY5YjkyNGFiNWU0M2I1MGZiNWQx",
+  "snapshot_id": "MCwwMGUxNTc3ZWMyNTE5NzczZTRmNzNlZDBiMTNlN2Y1ZGU0OWVmOGU4",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Wash Your Hands with Baby Shark",
-        "url": "https://open.spotify.com/album/3Fjfrc6xmbPee9QPHBKPZC"
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2"
       },
       "artists": [
         {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 87849,
-      "name": "Wash Your Hands with Baby Shark",
-      "url": "https://open.spotify.com/track/5hf6QzXXpaJOzS7UHMXCXQ"
+      "duration_ms": 260853,
+      "name": "Family Time",
+      "url": "https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -307,34 +307,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2"
+        "name": "Wash Your Hands with Baby Shark",
+        "url": "https://open.spotify.com/album/3Fjfrc6xmbPee9QPHBKPZC"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
         }
       ],
-      "duration_ms": 260853,
-      "name": "Family Time",
-      "url": "https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+      "duration_ms": 87849,
+      "name": "Wash Your Hands with Baby Shark",
+      "url": "https://open.spotify.com/track/5hf6QzXXpaJOzS7UHMXCXQ"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -351,6 +335,22 @@
       "duration_ms": 157363,
       "name": "The Hand Washing Song",
       "url": "https://open.spotify.com/track/4CxHoh9FDpv8z6tx0F5RVl"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Fantastic Voyages",
         "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 144666,
       "name": "The Potty Song",
       "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
     },
     {
       "added_at": "2023-03-17 09:43:03",

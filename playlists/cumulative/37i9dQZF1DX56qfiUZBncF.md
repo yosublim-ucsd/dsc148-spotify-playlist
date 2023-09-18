@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-262 songs - 15 hr 38 min
+263 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/5DnmZd2ZVkWPL4QcZYJwfs) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Emotion feat\. Wild Nothing](https://open.spotify.com/album/2p6O1yfG7YGebBhfUBD3LH) | 4:05 | 2021-01-08 | 2022-07-29 |
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 | 2022-04-29 |  |
 | [Fading](https://open.spotify.com/track/0eVlWvarzhQRj9L6RMqbud) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Fading](https://open.spotify.com/album/3ZFLPLihB9cSGqHev2sf3T) | 3:22 | 2020-11-04\* | 2022-07-28 |
+| [Fading](https://open.spotify.com/track/7lKl0UjUeIE3KJMTnn8CMW) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:22 | 2023-01-11 |  |
 | [Fading](https://open.spotify.com/track/2fKEunM0KZVpVLwlvmVlDZ) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Fading](https://open.spotify.com/album/5oVNwCnYkB6mp4w9sa4aak) | 4:40 | 2020-11-04\* | 2022-10-22 |
 | [Fading](https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Fading](https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I) | 4:42 | 2022-04-29 |  |
 | [Fallss](https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Fallss](https://open.spotify.com/album/7t7xugAJAhJhY4AL5M5w1H) | 4:00 | 2022-04-29 |  |
@@ -95,7 +96,7 @@
 | [Francesca](https://open.spotify.com/track/4SKt118N7T1TKhodbTPNw9) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Francesca / Weekends](https://open.spotify.com/album/7mJkDAmNIiSWCRZHBuiuwS) | 3:39 | 2020-12-04 | 2022-07-29 |
 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 | 2023-01-11 |  |
 | [Gemini](https://open.spotify.com/track/64KwQ4YwBr9ZVq34aOdwZY) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Gemini](https://open.spotify.com/album/5pb11EuV3UqFcSZR37oR1i) | 3:23 | 2020-11-04\* | 2022-07-29 |
-| [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2023-01-11 |  |
+| [Ghost in the Machine](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2023-01-11 |  |
 | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/track/1eJaHVCXkDnZcB9yB8buJ9) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/album/0jmztT0knaYPwbO9D7kgwT) | 3:43 | 2021-03-26 | 2022-11-13 |
 | [Giving In To The Love](https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:01 | 2022-04-29 |  |
 | [Giving In To The Love](https://open.spotify.com/track/2QlRLjTVBHYreIiS6BvGof) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Giving In To The Love](https://open.spotify.com/album/3Y5o2C8NuaZTnJEVIamHDy) | 3:01 | 2021-10-19 | 2022-09-15 |
@@ -192,7 +193,7 @@
 | [Purple Candy](https://open.spotify.com/track/7dMelypWXvdBG5RpRO1RJU) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Purple Candy](https://open.spotify.com/album/1yntuGDRMZlcjOIyd27Tr9) | 4:15 | 2020-11-04\* | 2022-07-29 |
 | [Purple Heart \(feat\. Drifting Lights\)](https://open.spotify.com/track/4KS0zjYvLr3474mwt2fXLi) | [MUTO](https://open.spotify.com/artist/4899wIU2stpjOmoq2mgyeW), [Drifting Lights](https://open.spotify.com/artist/2PwN5QY8kPXr21PkRilpdG) | [Purple Heart \(feat\. Drifting Lights\)](https://open.spotify.com/album/61w6EzBqO4q2Ebmrh7sAL3) | 3:45 | 2020-11-04\* | 2021-10-20 |
 | [Purple Sand \(My Home\)](https://open.spotify.com/track/4knUlOyIeFGKH1ObRzfRcl) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 3:38 | 2020-11-04\* |  |
-| [Queen of the Valley](https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Size of Relief](https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI) | 4:06 | 2022-04-29 |  |
+| [Queen of the Valley](https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Size of Relief](https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI) | 4:06 | 2022-04-29 | 2023-09-18 |
 | [Queen of the Valley](https://open.spotify.com/track/5buhito8NFSHnMeI9SaPCd) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Queen of the Valley](https://open.spotify.com/album/4BvUzGeo3jxhyz44CfVRnU) | 4:06 | 2020-11-04\* | 2022-07-29 |
 | [Rebound](https://open.spotify.com/track/5VhqfEogUz8FvBZrFK8I4M) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb), [Nick Hill](https://open.spotify.com/artist/3UcDmN34xqN0zyMFZkY3jk), [JANEVA](https://open.spotify.com/artist/6gmHQVzmcuzRTAv2fhjSfm) | [Rebound](https://open.spotify.com/album/4bxtB1niW98Y3wvuh46zWj) | 4:04 | 2020-11-04\* | 2022-11-13 |
 | [Repeat Pleasure](https://open.spotify.com/track/1sMdCnlHMzKpOPcoZuHvQt) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf) | 3:35 | 2020-11-04\* | 2021-10-20 |

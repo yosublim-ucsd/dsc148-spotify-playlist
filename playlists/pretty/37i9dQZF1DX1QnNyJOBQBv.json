@@ -1,12 +1,12 @@
 {
   "description": "The hottest Latin pop tracks right now. Cover: Sebastian Yatra",
-  "num_followers": 1888141,
+  "num_followers": 1888351,
   "original_name": "Latin Pop Today",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWM1ZmNhYWY1MzgzZGYyMDNhN2NmNGJmOWY3MjlkZWRmYTVlYzll",
+  "snapshot_id": "MCxiMGI4NDhmZTVjYjVhOTg5ZThkOTQ5MDc0ZmQ2YjhhM2Y2NjU3MDUw",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -647,7 +647,7 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "No Quiero Olvidarte",
+        "name": "no quiero olvidarte",
         "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
       },
       "artists": [
@@ -657,7 +657,7 @@
         }
       ],
       "duration_ms": 230049,
-      "name": "No Quiero Olvidarte",
+      "name": "no quiero olvidarte",
       "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
     },
     {

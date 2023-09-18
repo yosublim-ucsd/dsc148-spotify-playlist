@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-1,249 songs - 3 day 1 hr 28 min
+1,251 songs - 3 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,8 @@
 | [Gió \- Official](https://open.spotify.com/track/4YrI4tUJTzqi1hfvICCJPD) | [JanK x N2L](https://open.spotify.com/artist/4o52B6GZw0oZrxVTzfO3hV) | [Gió \(Official\)](https://open.spotify.com/album/1N6qUEJau1cE4DJ7PRKnGg) | 4:37 | 2023-03-20 | 2023-06-14 |
 | [Gió Đông Về](https://open.spotify.com/track/2DEHCbXNbdmYG9vRrj7pWg) | [Ymai](https://open.spotify.com/artist/3G2dFolgIn10dKe81WtwGI) | [Gió Đông Về](https://open.spotify.com/album/6pbRiPyv3jyWNHRThHAsXf) | 2:50 | 2022-09-22 | 2022-09-30 |
 | [Giấc Mơ Có Thật](https://open.spotify.com/track/6b2FyhgvZUKwtrlV0IUsgU) | [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Giấc Mơ Có Thật](https://open.spotify.com/album/1Lf38boWNm6TrJ8KPgqWxW) | 4:31 | 2022-08-26 | 2022-09-22 |
-| [Giấc Mơ Của Em](https://open.spotify.com/track/5C4ajMLziq5yB7I5K6EsLS) | [MYLINA](https://open.spotify.com/artist/4yx3BsXxY9l6BRyStNIB8y), [fueled by boba](https://open.spotify.com/artist/4NKeJPVrlhASY3FXkQsLGn) | [Giấc Mơ Của Em](https://open.spotify.com/album/6f49KGOfETVpBrh6TerBr3) | 3:18 | 2023-08-24 |  |
+| [Giấc Mơ Của Em](https://open.spotify.com/track/5C4ajMLziq5yB7I5K6EsLS) | [MYLINA](https://open.spotify.com/artist/4yx3BsXxY9l6BRyStNIB8y), [fueled by boba](https://open.spotify.com/artist/4NKeJPVrlhASY3FXkQsLGn) | [Giấc Mơ Của Em](https://open.spotify.com/album/6f49KGOfETVpBrh6TerBr3) | 3:18 | 2023-08-24 | 2023-09-18 |
+| [Giấc Mơ Của Em \- Sister Version](https://open.spotify.com/track/54YWSJwFqilgIM3yQm5fl6) | [MYLINA](https://open.spotify.com/artist/4yx3BsXxY9l6BRyStNIB8y), [Mỹ Mỹ](https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm), [fueled by boba](https://open.spotify.com/artist/4NKeJPVrlhASY3FXkQsLGn) | [Giấc Mơ Của Em \(Sister Version\)](https://open.spotify.com/album/4IKqSU57K4wMY0tuIgZ1Jb) | 2:53 | 2023-09-17 |  |
 | [Giấc Mơ Rất Thơ](https://open.spotify.com/track/0xMIMrT7Vmwsejznw8LJAE) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [thaison!](https://open.spotify.com/artist/1VQyG9aks9QYQYzwmP12Fz) | [Giấc Mơ Rất Thơ](https://open.spotify.com/album/0Enf631SjxZSfjAHGPgpIU) | 2:52 | 2022-07-28 | 2023-01-27 |
 | [Giấc Mơ Rất Thơ](https://open.spotify.com/track/546ce8vBSyZFwiEfOZ3fx1) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [thaison!](https://open.spotify.com/artist/1VQyG9aks9QYQYzwmP12Fz) | [Giấc Mơ Rất Thơ](https://open.spotify.com/album/3emRWovxjpnUNKVYbDTctY) | 2:52 | 2022-01-06 | 2022-07-29 |
 | [Giấc mơ vỡ tan](https://open.spotify.com/track/5HL5mUa3H6olQKvDBU2Ayk) | [Cris](https://open.spotify.com/artist/2fa1aZaz9x7sIFWBHxb0vV) | [Giấc mơ vỡ tan](https://open.spotify.com/album/3MIqjC5mbsC9jdlMB8VuT0) | 4:26 | 2023-03-04 | 2023-03-18 |
@@ -441,6 +442,7 @@
 | [Gọi Cho Anh](https://open.spotify.com/track/0xJGa0K3KvrlpMZsdzeayG) | [Thai Son](https://open.spotify.com/artist/1JEYPHTPWUuKR38zPFW7IW) | [HOTPOT](https://open.spotify.com/album/2TVD6DSUbNed2M7Ebb0pkl) | 3:29 | 2022-01-26 | 2022-02-09 |
 | [Gửi Chúng Ta Của Thời Gian Ấy](https://open.spotify.com/track/4zBwI3oID39SfX1Lf1bSO4) | [Nhâm Nhựt Vân](https://open.spotify.com/artist/4srmDZhTFeLBiyE4coHJRi) | [Gửi Chúng Ta Của Thời Gian Ấy](https://open.spotify.com/album/77fWGqh3T6nci4j3zcnZL6) | 4:23 | 2022-05-24 | 2022-06-17 |
 | [Gửi Ngàn Lời Yêu](https://open.spotify.com/track/64iWUlgGOEmsKUZSCXHfl4) | [Hồng Dương](https://open.spotify.com/artist/6xDaSKkOUfOxR5HCf6Gmq7) | [Gửi Ngàn Lời Yêu](https://open.spotify.com/album/63z0Dd3bhfhNkBF788J5GV) | 4:19 | 2022-07-09 | 2022-10-03 |
+| [Habromania \- :01](https://open.spotify.com/track/6hN1nb91TQZ6ZiJbuf8RF8) | [bạn khoa](https://open.spotify.com/artist/1ZA7ZwfsbYctdPB5P4us6l) | [Habromania](https://open.spotify.com/album/39SZ4QMzeSsQDTZ2MzFf62) | 3:55 | 2023-09-17 |  |
 | [hai chiều](https://open.spotify.com/track/4g0eKK6YNDh9XKgDKwSIau) | [iMAZE](https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU), [Yang E](https://open.spotify.com/artist/2NjLqE71ijKZQUNpl9K9Xm) | [hai chiều](https://open.spotify.com/album/2gNbqIGZFxrjj7jTdBhaA6) | 3:18 | 2023-08-10 |  |
 | [Hai Người Chưa Từng Quen](https://open.spotify.com/track/24jfrzlThH7nvfC1JvH2I0) | [Tuấn Hii](https://open.spotify.com/artist/01sQMaNacwDYUqE7rAHDhE), [NVM](https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC) | [Hai Người Chưa Từng Quen](https://open.spotify.com/album/1MiSGq36LSq5AVntdr9HcT) | 2:29 | 2022-09-17 | 2023-01-06 |
 | [Hai Người Chưa Từng Quen](https://open.spotify.com/track/5uLITd8MGIMJRFR6fyaDVI) | [Tuấn Hii](https://open.spotify.com/artist/01sQMaNacwDYUqE7rAHDhE), [NVM](https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC) | [Hai Người Chưa Từng Quen](https://open.spotify.com/album/6v3HDBqZyoRB0s1q36gwrn) | 2:29 | 2022-05-27 | 2022-09-18 |

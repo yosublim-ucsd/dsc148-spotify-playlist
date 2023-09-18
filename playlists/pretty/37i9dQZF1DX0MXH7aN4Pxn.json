@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 690096,
+  "num_followers": 690090,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmZlZDQ0YWE1MjQ2YzU3ZGZiNjU5ZjIxNzJjN2U3ZjFiMDM4ZjNm",
+  "snapshot_id": "MCw0ZjkyYTg3ZDhjNDUxM2UzZWU2NWNhOWJmOTNiYThjNDZiNTczMDY4",
   "tracks": [
     {
       "added_at": "2023-09-08 00:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "Miss You (Sped Up Version)",
-        "url": "https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        }
-      ],
-      "duration_ms": 171701,
-      "name": "Miss You - Sped Up Version",
-      "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
-    },
-    {
-      "added_at": "2023-09-08 00:00:00",
-      "album": {
         "name": "Make Me Feel Good",
         "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 197472,
       "name": "Make Me Feel Good",
       "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
+    },
+    {
+      "added_at": "2023-09-08 00:00:00",
+      "album": {
+        "name": "Miss You (Sped Up Version)",
+        "url": "https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 171701,
+      "name": "Miss You - Sped Up Version",
+      "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
     },
     {
       "added_at": "2023-09-08 00:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
-    },
-    {
-      "added_at": "2023-09-08 00:00:00",
-      "album": {
         "name": "Enter The Dragon (Are You Up?)",
         "url": "https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 180774,
       "name": "Enter The Dragon (Are You Up?)",
       "url": "https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9"
+    },
+    {
+      "added_at": "2023-09-08 00:00:00",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
     },
     {
       "added_at": "2023-09-08 00:00:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "The Music",
-        "url": "https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj"
-      },
-      "artists": [
-        {
-          "name": "Kideko",
-          "url": "https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj"
-        },
-        {
-          "name": "Saffron Stone",
-          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
-        }
-      ],
-      "duration_ms": 146412,
-      "name": "The Music",
-      "url": "https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9"
-    },
-    {
-      "added_at": "2023-09-08 00:00:00",
-      "album": {
         "name": "Selecta",
         "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
+    },
+    {
+      "added_at": "2023-09-08 00:00:00",
+      "album": {
+        "name": "The Music",
+        "url": "https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj"
+      },
+      "artists": [
+        {
+          "name": "Kideko",
+          "url": "https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj"
+        },
+        {
+          "name": "Saffron Stone",
+          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+        }
+      ],
+      "duration_ms": 146412,
+      "name": "The Music",
+      "url": "https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9"
     },
     {
       "added_at": "2023-09-08 00:00:00",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "T. Matthias",
-          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
-        }
-      ],
-      "duration_ms": 174649,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
-    },
-    {
-      "added_at": "2023-09-08 00:00:00",
-      "album": {
         "name": "Free (feat. Tyrone & Chris Nichols) [Nathan Dawe Freemix]",
         "url": "https://open.spotify.com/album/4olzFO245ebsDV7MZX43d8"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 195692,
       "name": "Free (feat. Tyrone & Chris Nichols) - Nathan Dawe Freemix",
       "url": "https://open.spotify.com/track/2RdWvdzQztDTypZCywTHH8"
+    },
+    {
+      "added_at": "2023-09-08 00:00:00",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "T. Matthias",
+          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
+        }
+      ],
+      "duration_ms": 174649,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
     },
     {
       "added_at": "2023-09-08 00:00:00",

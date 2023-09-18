@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db?si=FtwW6NTFRWONZlSI\-\-5snw">Sion Nación Santa</a>
 
-1,215 songs - 3 day 15 hr 22 min
+1,216 songs - 3 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1167,6 +1167,7 @@
 | [Vimos su gloria](https://open.spotify.com/track/4LpFTjeWVBGYzWFsFZknwS) | [Rosa Karina](https://open.spotify.com/artist/1KzJGm3pCl6STUWvCVg5sx) | [Vimos su gloria](https://open.spotify.com/album/25v9HzbKdz1DWaER3oWGk9) | 4:43 | 2023-09-15 |  |
 | [Vine A Buscarte](https://open.spotify.com/track/24dWgvBSis3etl6ieapzZG) | [Shealy Worship](https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61), [Nick Gaggero](https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S) | [This is What We Came For](https://open.spotify.com/album/1pSBztmBA4hsDbnClXY6ii) | 3:56 | 2022-07-22 | 2022-09-24 |
 | [Vine a Salvarte](https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vine a Salvarte](https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu) | 3:29 | 2022-02-25 | 2022-04-23 |
+| [Vine Lleno](https://open.spotify.com/track/2LwQODarpwgOCELsdehwHr) | [Albert Miliano](https://open.spotify.com/artist/7ofAYf298XeFeUCLMzseYf) | [Dembow Con Biblia](https://open.spotify.com/album/2rV3xfVGgik5ren020vIBG) | 2:58 | 2023-09-15 |  |
 | [Vital](https://open.spotify.com/track/0LjclnXU2tPq5HMycbNZju) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Ritzy Escobar](https://open.spotify.com/artist/3n8Qm7dgXUXyeXC46feBS2) | [Vital](https://open.spotify.com/album/01X9qSjYEJN5DndyA87Uzt) | 2:53 | 2022-06-24 | 2022-09-03 |
 | [Vive](https://open.spotify.com/track/3VFOh655IwOLgcz9AePHVv) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Vive](https://open.spotify.com/album/5gThgZJB0mCkrYljBOEour) | 4:21 | 2022-11-11 | 2023-01-21 |
 | [Vive Jesús](https://open.spotify.com/track/0EW3TYY9Rm5cBj7eNWkvVh) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Vive Jesús](https://open.spotify.com/album/60u3ruNLOYMX2ixpVr7uBR) | 4:12 | 2023-04-14 | 2023-05-20 |

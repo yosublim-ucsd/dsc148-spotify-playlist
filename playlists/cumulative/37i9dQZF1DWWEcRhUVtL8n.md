@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: boyish
 
-1,664 songs - 3 day 15 hr 41 min
+1,665 songs - 3 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,6 +820,7 @@
 | [Jesse C'mon](https://open.spotify.com/track/2MdlGVpttAcmVjMUo5hHbW) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Jesse C'mon](https://open.spotify.com/album/4pJ1u7tSjvImnIwgRQjyS6) | 2:26 | 2022-01-21 | 2022-04-16 |
 | [JPA989](https://open.spotify.com/track/2zZamOTUSQBF9HMY0NYIpG) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [JPA989](https://open.spotify.com/album/2gIRQ8aZF5aTZ8ex83pY70) | 2:56 | 2021-03-01 | 2021-05-26 |
 | [Juliene](https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Juliene](https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU) | 3:22 | 2023-06-30 | 2023-08-19 |
+| [july](https://open.spotify.com/track/5qAK8ceZCzwvNabw9Mu17F) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [july](https://open.spotify.com/album/51wHhJCdpwZ2591Es9Jqea) | 2:37 | 2023-07-28 |  |
 | [JUMPSHOT!](https://open.spotify.com/track/1hWIeur5Q8BJ9hUrDyTI8W) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [JUMPSHOT!](https://open.spotify.com/album/0jUh0PoLQtLry0B3JXyDiW) | 2:59 | 2022-04-29 | 2022-06-30 |
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2021-02-24 | 2021-05-25 |
 | [Just a Waste](https://open.spotify.com/track/6WCgeGzEYlkluHeqQqmnl6) | [summervibes](https://open.spotify.com/artist/1JPqepX6kQ0rU9Btzsbb1C) | [Just a Waste](https://open.spotify.com/album/4v2u9tXp3irRw0UB9VUYZK) | 2:07 | 2021-10-06 | 2021-10-13 |
@@ -1564,7 +1565,7 @@
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2021-02-23 | 2021-02-26 |
 | [virtual reality](https://open.spotify.com/track/7wWqAGY1k2cr1ntffgBBH1) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [virtual reality](https://open.spotify.com/album/3I8QGm5k3zW9MU5alzXI2c) | 2:41 | 2021-02-28 | 2021-12-29 |
 | [Virtually Anything \(feat\. Sophie Meiers\)](https://open.spotify.com/track/2g9bvABQeN7pNCFJkAo0d1) | [GRANDMA](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Virtually Anything \(feat\. Sophie Meiers\)](https://open.spotify.com/album/7A4X3EQsPoLwpnwl7EO7Ga) | 2:26 | 2020-10-13\* | 2020-10-16 |
-| [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 | 2023-08-25 |  |
+| [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 | 2023-08-25 | 2023-09-18 |
 | [Wait](https://open.spotify.com/track/3cZghnx0vGbhMgPtSSNKWG) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Rancho Catastrophe](https://open.spotify.com/album/5mEz2wLWBXDB76mAv5qW6T) | 3:07 | 2020-11-20 | 2021-05-28 |
 | [Waiting](https://open.spotify.com/track/7JfqyQ8JSRve0oXhbH1Y8m) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Waiting](https://open.spotify.com/album/3dDEzizNaiMilGP4dHFNUn) | 2:39 | 2020-11-10 | 2021-01-15 |
 | [Wake Me up When My 20's End](https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Wake Me up When My 20's End](https://open.spotify.com/album/7cNEaCkk9aR3DeTXxyYgID) | 3:14 | 2022-04-15 | 2022-04-18 |

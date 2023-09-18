@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate playlist for the best in Mollywood!\nCover: King of Kotha",
-  "num_followers": 70543,
+  "num_followers": 70801,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTI2MzFmZWEyOGE5ZDgxNGQ0OWZiZWYxMTUyZmJhY2Q3YTM1MDI1",
+  "snapshot_id": "MCw0ZmY3NDYwOWQ0YTc1MTMxN2I0YzI2NTkzMmQ3OWY2MDg5ZmNlNTZi",
   "tracks": [
     {
       "added_at": "2023-09-15 10:32:16",
@@ -91,26 +91,6 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Love Action Drama",
-        "url": "https://open.spotify.com/album/0PyduGao02LM04po12NKcm"
-      },
-      "artists": [
-        {
-          "name": "Shaan Rahman",
-          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
-        },
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        }
-      ],
-      "duration_ms": 157609,
-      "name": "Kudukku",
-      "url": "https://open.spotify.com/track/3QRSs8nzHXXvcQjdnx0CsJ"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
         "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6U0sKj7nG5fnmwIQmpQa2b"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 236013,
       "name": "Uyiril Thodum (From \"Kumbalangi Nights\")",
       "url": "https://open.spotify.com/track/4J0UI8dLtEpT9ATtVEjCnD"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
+        "name": "Love Action Drama",
+        "url": "https://open.spotify.com/album/0PyduGao02LM04po12NKcm"
+      },
+      "artists": [
+        {
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+        },
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        }
+      ],
+      "duration_ms": 157609,
+      "name": "Kudukku",
+      "url": "https://open.spotify.com/track/3QRSs8nzHXXvcQjdnx0CsJ"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -215,26 +215,6 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Bangalore Days",
-        "url": "https://open.spotify.com/album/2ZRSQZ15TIIsvC1nMbQreN"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Gopi Sundar",
-          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
-        }
-      ],
-      "duration_ms": 325156,
-      "name": "Aethu Kari Raavilum - From \"Bangalore Days\"",
-      "url": "https://open.spotify.com/track/7zxHiMmVLt4LGWpOMqOpUh"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
         "name": "Sulaikha Manzil (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3KEn6h4Pr8FJ3vHyS3DfvH"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 336545,
       "name": "Jil Jil Jil",
       "url": "https://open.spotify.com/track/3DTtRxqlIhnWKW9WjRQnGj"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
+        "name": "Bangalore Days",
+        "url": "https://open.spotify.com/album/2ZRSQZ15TIIsvC1nMbQreN"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        }
+      ],
+      "duration_ms": 325156,
+      "name": "Aethu Kari Raavilum - From \"Bangalore Days\"",
+      "url": "https://open.spotify.com/track/7zxHiMmVLt4LGWpOMqOpUh"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -591,30 +591,6 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "4 Years (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6R8chwtoEvPlo3yQd32wJk"
-      },
-      "artists": [
-        {
-          "name": "Sankar Sharma",
-          "url": "https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE"
-        },
-        {
-          "name": "Arun Alat",
-          "url": "https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW"
-        },
-        {
-          "name": "Sony Mohan",
-          "url": "https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ"
-        }
-      ],
-      "duration_ms": 385874,
-      "name": "En Kanavil - The Love Story",
-      "url": "https://open.spotify.com/track/5dqcl7jGMRkHsPMgCGG0fW"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
         "name": "Thallumaala Paattu (From \"Thallumaala\")",
         "url": "https://open.spotify.com/album/2SJjygAl0nTOitVhhBmhNn"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 183737,
       "name": "Thallumaala Paattu",
       "url": "https://open.spotify.com/track/1JGdOSXhyXpAu7xUpoygxW"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
+        "name": "4 Years (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6R8chwtoEvPlo3yQd32wJk"
+      },
+      "artists": [
+        {
+          "name": "Sankar Sharma",
+          "url": "https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE"
+        },
+        {
+          "name": "Arun Alat",
+          "url": "https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW"
+        },
+        {
+          "name": "Sony Mohan",
+          "url": "https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ"
+        }
+      ],
+      "duration_ms": 385874,
+      "name": "En Kanavil - The Love Story",
+      "url": "https://open.spotify.com/track/5dqcl7jGMRkHsPMgCGG0fW"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -771,22 +771,22 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Ayyappanum Koshiyum (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0GWt8AypWByLvy3G0oWIAH"
+        "name": "Ambili (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/22v9N3FlD4SDIIy7fSFhal"
       },
       "artists": [
         {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
         },
         {
-          "name": "ANJU BRAMASMI",
-          "url": "https://open.spotify.com/artist/2kr25HqZPrVzGq992qkH75"
+          "name": "Madhuvanthi Narayan",
+          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
         }
       ],
-      "duration_ms": 124245,
-      "name": "Kalakkatha",
-      "url": "https://open.spotify.com/track/667y08kCQ18lpjvdLK5wQi"
+      "duration_ms": 360938,
+      "name": "Aaraadhike",
+      "url": "https://open.spotify.com/track/7nHQjVpEncX7NEdA2G6kU1"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -811,22 +811,22 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Ambili (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/22v9N3FlD4SDIIy7fSFhal"
+        "name": "Ayyappanum Koshiyum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0GWt8AypWByLvy3G0oWIAH"
       },
       "artists": [
         {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
         },
         {
-          "name": "Madhuvanthi Narayan",
-          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
+          "name": "ANJU BRAMASMI",
+          "url": "https://open.spotify.com/artist/2kr25HqZPrVzGq992qkH75"
         }
       ],
-      "duration_ms": 360938,
-      "name": "Aaraadhike",
-      "url": "https://open.spotify.com/track/7nHQjVpEncX7NEdA2G6kU1"
+      "duration_ms": 124245,
+      "name": "Kalakkatha",
+      "url": "https://open.spotify.com/track/667y08kCQ18lpjvdLK5wQi"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -899,34 +899,6 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Jacobinte Swargarajyam",
-        "url": "https://open.spotify.com/album/6g51wIHKGOMCI58H6ATja1"
-      },
-      "artists": [
-        {
-          "name": "Shaan Rahman",
-          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
-        },
-        {
-          "name": "Unni Menon",
-          "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
-        },
-        {
-          "name": "Sithara Krishnakumar",
-          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
-        },
-        {
-          "name": "Meera Scharma",
-          "url": "https://open.spotify.com/artist/6KepfgxU9OD3UJ7g9t0rAP"
-        }
-      ],
-      "duration_ms": 241475,
-      "name": "Thiruvaavaniraavu",
-      "url": "https://open.spotify.com/track/5G3hYU6EYSFRX4JsXxR3aF"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
         "name": "Queen (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3zJJZhzOM1rkKwuuPy8X32"
       },
@@ -955,6 +927,34 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
+        "name": "Jacobinte Swargarajyam",
+        "url": "https://open.spotify.com/album/6g51wIHKGOMCI58H6ATja1"
+      },
+      "artists": [
+        {
+          "name": "Shaan Rahman",
+          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+        },
+        {
+          "name": "Unni Menon",
+          "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Meera Scharma",
+          "url": "https://open.spotify.com/artist/6KepfgxU9OD3UJ7g9t0rAP"
+        }
+      ],
+      "duration_ms": 241475,
+      "name": "Thiruvaavaniraavu",
+      "url": "https://open.spotify.com/track/5G3hYU6EYSFRX4JsXxR3aF"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
         "name": "Premam",
         "url": "https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 183196,
       "name": "Aluva Puzha",
       "url": "https://open.spotify.com/track/3JZ5u4W8XV2cuNjHeybVd9"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
+        "name": "Kali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/309xee2nPeysNP1B7F8Ars"
+      },
+      "artists": [
+        {
+          "name": "Divya S Menon",
+          "url": "https://open.spotify.com/artist/3fjEU4fb7YikO0zObLz159"
+        }
+      ],
+      "duration_ms": 264852,
+      "name": "Vaarthinkale",
+      "url": "https://open.spotify.com/track/7fccqI6j1XXpVpAO5gkDXL"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -999,22 +1015,6 @@
       "duration_ms": 253560,
       "name": "Dooreyo",
       "url": "https://open.spotify.com/track/4uQoxOrlxVocX2PbyFPqAK"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
-        "name": "Kali (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/309xee2nPeysNP1B7F8Ars"
-      },
-      "artists": [
-        {
-          "name": "Divya S Menon",
-          "url": "https://open.spotify.com/artist/3fjEU4fb7YikO0zObLz159"
-        }
-      ],
-      "duration_ms": 264852,
-      "name": "Vaarthinkale",
-      "url": "https://open.spotify.com/track/7fccqI6j1XXpVpAO5gkDXL"
     },
     {
       "added_at": "2023-09-15 10:32:16",

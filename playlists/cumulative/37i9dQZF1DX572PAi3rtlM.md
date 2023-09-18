@@ -4,7 +4,7 @@
 
 > Fading into an Italian night with GCDS’s SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Giuliano Calza.
 
-215 songs - 18 hr 12 min
+216 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 | 2023-09-07 |  |
 | [Baxter \(these are my friends\)](https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O) | [Baxter \(these are my friends\)](https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz) | 4:04 | 2023-05-17 | 2023-09-08 |
 | [Beautiful Jazz](https://open.spotify.com/track/6IuRBqO3QnCFQl5GsorGCD) | [Robb Swinga](https://open.spotify.com/artist/63FanJVTy0fbVXsGkVGL06) | [Beautiful Jazz](https://open.spotify.com/album/0xwqLXyiNpbxPkXRBhBTkJ) | 6:31 | 2021-09-01 | 2022-07-29 |
-| [Black Magic](https://open.spotify.com/track/4OxoaHUJOSf9lB9d3NkFxX) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Brilliant Astrud Gilberto](https://open.spotify.com/album/0oWOstwe9AAcDR7CnRV0kW) | 3:04 | 2023-09-07 |  |
+| [Black Magic](https://open.spotify.com/track/4OxoaHUJOSf9lB9d3NkFxX) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Brilliant Astrud Gilberto](https://open.spotify.com/album/0oWOstwe9AAcDR7CnRV0kW) | 3:04 | 2023-09-07 | 2023-09-18 |
+| [Black Magic](https://open.spotify.com/track/3zfQ6WNptGdbZce4uSvW76) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl From Ipanema](https://open.spotify.com/album/5WqxSD9v6z4uhK0rbFplwM) | 3:06 | 2023-09-07 |  |
 | [Black Rainbow](https://open.spotify.com/track/35fdFuD916UVSJ9BBAlMt4) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Black Rainbow / Moonlight](https://open.spotify.com/album/3OJZNp1l2uBQWXa0YTujmA) | 4:32 | 2021-09-01 | 2022-05-22 |
 | [Blow Your Mind](https://open.spotify.com/track/4NerBgDZ7vrX8qhvT1MfZJ) | [DJLMP](https://open.spotify.com/artist/0bZWy1hnnFGjx6Niqo4Clv) | [Take It Easy 002](https://open.spotify.com/album/2Itwek1n23RHJ26xKyoU0p) | 5:48 | 2021-09-01 | 2022-07-29 |
 | [Blu Terra](https://open.spotify.com/track/5kEhdDvmA7rjnxP8cTD3RN) | [Nuno Canavarro](https://open.spotify.com/artist/1Af916mBj2FbJyBEB3U13b) | [Fingertracks : Vol 1](https://open.spotify.com/album/6em4G8ar1bZwK6kgDqRr0N) | 7:02 | 2021-09-01 | 2022-06-18 |

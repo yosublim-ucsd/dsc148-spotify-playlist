@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,588 likes - 116 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,667 likes - 116 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 37 | [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 |
 | 38 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 |
 | 39 | [I Want You To Know](https://open.spotify.com/track/4bZAsC7ftR11pHpRNk2Mhc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 4:47 |
-| 40 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 |
+| 40 | [Sweet](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 |
 | 41 | [4Evigt](https://open.spotify.com/track/1sodFmtsIoWysJzqbZKoQ5) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [4Evigt](https://open.spotify.com/album/5ZF2JNTgtG6HtAkl0hN5BV) | 4:17 |
 | 42 | [BUMPIN](https://open.spotify.com/track/0NOAdp3v6CTLfMpHEKua2M) | [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk), [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [ULTRAVIOLET](https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT) | 4:40 |
 | 43 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 115 | [My Friends](https://open.spotify.com/track/2fi8WhqDakWNi1PNyeCzxB) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [My Friends](https://open.spotify.com/album/4PjKKci0rniDrcyaCLF4nS) | 2:06 |
 | 116 | [Fragile](https://open.spotify.com/track/0twVtYBVwNXIA15brQRf5y) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Fragile](https://open.spotify.com/album/6gjW6IETdWXGmJLQPMT7ZT) | 4:39 |
 
-Snapshot ID: `MCxkYmY5ZmZlYzYxY2JkYTk4ZmMwMTlmYTY4ZmM3M2RlZWQwYmM5NWYx`
+Snapshot ID: `MCw4ZWNlYzkyYTRjYjFkMjI1OWRhYzhjYTc1MzZiMTc3MjI0NmY2YmQ5`

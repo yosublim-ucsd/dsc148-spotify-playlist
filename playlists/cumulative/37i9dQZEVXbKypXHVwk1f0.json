@@ -5535,6 +5535,24 @@
     },
     {
       "album": {
+        "name": "Espinas",
+        "url": "https://open.spotify.com/album/4PCpSl9iWhfWKIfI8bKCrY"
+      },
+      "artists": [
+        {
+          "name": "Mary Angels",
+          "url": "https://open.spotify.com/artist/446z04mP9CHOpsvpZilTYH"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Espinas",
+      "url": "https://open.spotify.com/track/4KSRjzODSOcssCxzvtuSGn"
+    },
+    {
+      "album": {
         "name": "Estrella",
         "url": "https://open.spotify.com/album/2hlVRUUVAg7mJVtWyTBx9v"
       },
@@ -10468,7 +10486,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 190496,
       "name": "MODELITO",
       "url": "https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff"
@@ -10904,7 +10922,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 356044,
       "name": "Nadie Te Ama Como Yo",
       "url": "https://open.spotify.com/track/4KYz9MrUZ7poQtVOroS2UG"
@@ -17108,7 +17126,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 269714,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/4tQofG51E0juZBBVr6pral"

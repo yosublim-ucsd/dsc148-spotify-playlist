@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 220935,
       "name": "Ancelotti",
       "url": "https://open.spotify.com/track/3jBIofMaOimfUgK4E3hBGB"
@@ -12692,7 +12692,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 176109,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/02RGARryimtGfuawXbKj8P"
@@ -16094,7 +16094,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 116666,
       "name": "hustler",
       "url": "https://open.spotify.com/track/78ZmN4UVnpEedKiGqyzzDd"
@@ -16246,7 +16246,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -16506,7 +16506,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -28169,6 +28169,28 @@
     },
     {
       "album": {
+        "name": "Pasha Nanen",
+        "url": "https://open.spotify.com/album/3TSxx03oQYfHpcpMbFpass"
+      },
+      "artists": [
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        },
+        {
+          "name": "THIS IS DARDY",
+          "url": "https://open.spotify.com/artist/5rzxh7YXsfZBMxNRXjhKKJ"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139201,
+      "name": "Pasha Nanen",
+      "url": "https://open.spotify.com/track/34qSrPlvRJh2KxwitMyt0N"
+    },
+    {
+      "album": {
         "name": "PASS AUF",
         "url": "https://open.spotify.com/album/0EwK4GJ6Gy9qnNFwnnuHu0"
       },
@@ -29310,7 +29332,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Pse",
       "url": "https://open.spotify.com/track/3r7sw5soVrbMM5jX6ScvYX"
@@ -32188,7 +32210,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 219865,
       "name": "Shavkat",
       "url": "https://open.spotify.com/track/0IzfVZmlCiwPZmjNkRJehY"
@@ -32902,6 +32924,28 @@
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
+    },
+    {
+      "album": {
+        "name": "Slime You Out",
+        "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
     },
     {
       "album": {
@@ -34028,7 +34072,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"

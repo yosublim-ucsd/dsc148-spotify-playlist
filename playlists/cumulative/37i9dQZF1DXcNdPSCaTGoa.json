@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/6MM9LwtQg2yYEI1jqjJuCc"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/4fYvhqvAjOifw4ih3IU2z7"
+    },
+    {
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/0M6etJRitjGp9FyYImM6Nn"
       },
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 471973,
       "name": "Whistling in Tongues",
       "url": "https://open.spotify.com/track/3yGPPz2VJbscAtwWpyHaqj"

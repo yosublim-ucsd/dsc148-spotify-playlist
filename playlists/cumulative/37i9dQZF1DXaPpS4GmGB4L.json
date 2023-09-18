@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "No Entry",
+        "url": "https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD"
+      },
+      "artists": [
+        {
+          "name": "Errol Linton",
+          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250750,
+      "name": "Fools for Love",
+      "url": "https://open.spotify.com/track/65oJF7sCSUj1Bzlox3lRdU"
+    },
+    {
+      "album": {
         "name": "Footprints on My Floor",
         "url": "https://open.spotify.com/album/7MBv0PMZFBn1t7YB84pG0X"
       },
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 130866,
       "name": "Trouble in Mind",
       "url": "https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1"

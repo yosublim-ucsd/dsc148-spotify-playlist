@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Kuren\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,955 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,978 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Aqua Stars](https://open.spotify.com/track/5wwe7RrU67xsa6Ykd5Sy80) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Aqua Stars](https://open.spotify.com/album/6VZObR7olr2Lr67Q6iJ6YI) | 7:05 |
 | 100 | [Here \- Cyril Hahn Remix](https://open.spotify.com/track/7tSGPterBgbfa6Zt9MMviZ) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Shiny Things \(Deluxe Edition\)](https://open.spotify.com/album/1ahO6sNz28MvmuaHNd0NKY) | 4:01 |
 
-Snapshot ID: `MCxhZDJhYzg3NDhjNjMwYjE1NWY1YzY2YjdkMTRlYWVkOWNmMWQ0Y2Rm`
+Snapshot ID: `MCxiZmE0MzllOTY0YzM2YTdiNjRlNDA3Y2I0OGQyOWM4MTMwOTIyNjJi`

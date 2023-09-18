@@ -2790,10 +2790,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 217795,
       "name": "The Well",
       "url": "https://open.spotify.com/track/0wDL2SlmwZtb1WmvHd53xw"
+    },
+    {
+      "album": {
+        "name": "West Of It All",
+        "url": "https://open.spotify.com/album/411HEAs67Ulmlen1UlEO9t"
+      },
+      "artists": [
+        {
+          "name": "Briscoe",
+          "url": "https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217795,
+      "name": "The Well",
+      "url": "https://open.spotify.com/track/720DXnPFSZgboGcNcovsPP"
     },
     {
       "album": {

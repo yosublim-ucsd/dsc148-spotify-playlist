@@ -4,13 +4,13 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-240 songs - 12 hr 59 min
+242 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2022-07-25 |  |
 | [19](https://open.spotify.com/track/42N7MWyPMujFAd5IXAPWSE) | [FAITH](https://open.spotify.com/artist/4PWAVQW9TUwRLwe2tQlCu6) | [19](https://open.spotify.com/album/5vRAiv5EiCLp0PCSKXCpTF) | 3:06 | 2022-06-06 | 2022-07-29 |
-| [2002](https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [2002](https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU) | 3:06 | 2023-05-29 |  |
+| [2002](https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [2002](https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU) | 3:06 | 2023-05-29 | 2023-09-18 |
 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 | 2022-07-25 |  |
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2022-07-25 |  |
 | [A Night like tonight](https://open.spotify.com/track/6gmxkkVLw51az4M9a1tL49) | [BY THE MOON](https://open.spotify.com/artist/2g5MOIN60s8JoTb5sEeMNE) | [A Night like tonight](https://open.spotify.com/album/3GVYtIrETuLWBoLhfNVLD1) | 3:49 | 2022-06-06 | 2022-07-29 |
@@ -118,6 +118,7 @@
 | [Lagoon](https://open.spotify.com/track/3NLMY8Wh4hUC32sPANETIA) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Lagoon](https://open.spotify.com/album/2QGfhTS180MI7eSFO0Uc8E) | 4:17 | 2023-01-16 | 2023-01-24 |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-06-06 | 2022-07-29 |
 | [Let Love Go](https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Let Love Go](https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj) | 2:53 | 2022-07-04 | 2022-07-12 |
+| [let me know](https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [let me know](https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw) | 3:28 | 2023-09-18 |  |
 | [Let You Down](https://open.spotify.com/track/2UwJWhNPeYfpTaNbI8MNkJ) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [Let You Down](https://open.spotify.com/album/0vZ4pVjynDiIPGz5WPyveN) | 2:45 | 2022-06-06 | 2022-07-29 |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2022-10-19 |  |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2022-07-25 | 2022-10-13 |
@@ -157,7 +158,7 @@
 | [oh my my](https://open.spotify.com/track/5ueeVcx0oBiVqkSQoOvRTp) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [adway®](https://open.spotify.com/artist/2OJlg97eRkj7rI11FFklk1) | [oh my my](https://open.spotify.com/album/4cfdvElT2txGSpuB46dPjT) | 3:08 | 2022-06-06 | 2022-07-29 |
 | [Old With You](https://open.spotify.com/track/2a8dFwynGpl0p0YYSUEnax) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Old With You](https://open.spotify.com/album/25IShYtZX8wk1wFgPObY8m) | 3:26 | 2023-02-13 | 2023-02-21 |
 | [One Day at a Time](https://open.spotify.com/track/1xt9Nzh3Gc7oFdNIIbbvJr) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [One Day at a Time](https://open.spotify.com/album/0cFFxwnLmAYZhMwHSYPAkA) | 3:12 | 2023-04-17 | 2023-04-25 |
-| [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 | 2023-09-11 |  |
+| [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 | 2023-09-11 | 2023-09-18 |
 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 | 2023-02-13 |  |
 | [Past](https://open.spotify.com/track/5mP43567lDj2gnYd7i6BDY) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Past](https://open.spotify.com/album/2jJoOuyXfPorWCpRAKyv1C) | 2:57 | 2023-01-03 | 2023-01-17 |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-07-25 |  |
@@ -220,6 +221,7 @@
 | [The Way I Am](https://open.spotify.com/track/6qNALlmZa1ESnCxJmXE1K9) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:06 | 2023-09-11 |  |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2022-07-25 |  |
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-11-21 | 2022-11-29 |
+| [The Worst Part](https://open.spotify.com/track/521RUfyAt3TYMdrynEn0KT) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [HNATA](https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O) | [The Worst Part](https://open.spotify.com/album/6Z0AsQIf39jSgX0W9bhEFL) | 2:45 | 2023-09-18 |  |
 | [Thirsty](https://open.spotify.com/track/37Gq279gcbTuEndcpQhr24) | [The Sam Willows](https://open.spotify.com/artist/0mXXLFHmd5bUHxkzaC9ujw) | [I Know, But Where](https://open.spotify.com/album/74LIZ0NAj4d5eXwvpdH1xg) | 3:21 | 2022-06-06 | 2022-07-29 |
 | [Throw It Off](https://open.spotify.com/track/4cq3AXjJ3y75uVo71XE5QM) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [Throw It Off](https://open.spotify.com/album/0s1SW2HOER0iorhOwFNWh7) | 3:42 | 2022-06-06 | 2022-07-29 |
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2022-10-10 |  |

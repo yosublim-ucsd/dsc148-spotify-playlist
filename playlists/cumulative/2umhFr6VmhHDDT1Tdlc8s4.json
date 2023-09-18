@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145026,
+      "name": "Silly Girl",
+      "url": "https://open.spotify.com/track/6B9hQU3z8L6u8Yd3qHLuhe"
+    },
+    {
+      "album": {
         "name": "Lovers Fevers",
         "url": "https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB"
       },

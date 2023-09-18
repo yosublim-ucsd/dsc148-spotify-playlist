@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,048 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,118 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 | 19 | [Little Lion Man](https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:07 |
 | 20 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 |
 | 21 | [Cassy O'](https://open.spotify.com/track/0KlUnDYTACNGFPFIUa3eZd) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:04 |
-| 22 | [Heavy Feet](https://open.spotify.com/track/0BmNElDPN8uGmJtCwPY5fH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:06 |
+| 22 | [Heavy Feet](https://open.spotify.com/track/5MUx7O0LlgofSxTp05nshi) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird \(Deluxe Version\)](https://open.spotify.com/album/0sqzJshVP3uHIyCkSaNXev) | 4:06 |
 | 23 | [We Are the Tide](https://open.spotify.com/track/6vpATnRbTUGyMqQ9UYVMh7) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [We Are the Tide](https://open.spotify.com/album/4jAXE8gSio8mc9ZFaTTQGs) | 3:17 |
 | 24 | [Run](https://open.spotify.com/track/1G2y3ckwnDX4IOiemPOXEW) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [After It All](https://open.spotify.com/album/0HvAm2vysVverWiodCEhON) | 2:58 |
 | 25 | [Kick Drum Heart](https://open.spotify.com/track/0KKist1jJYO17nOqtO1sb2) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 2:54 |

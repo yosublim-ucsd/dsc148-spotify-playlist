@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-388 songs - 21 hr 35 min
+389 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Right Here](https://open.spotify.com/track/04Gz4F6I7YMUhmBkl2NDE6) | [Mike Todd](https://open.spotify.com/artist/4QpvRL62L5TZ19EWL8Wq2s) | [Right Here](https://open.spotify.com/album/2MivY9KRb55fQ6s5671geq) | 2:44 | 2021-10-31 | 2022-07-21 |
 | [Right on Time \(feat\. Tobymac\)](https://open.spotify.com/track/1uk0BgTF1QWpOpUuEyFbo3) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Right on Time \(feat\. Tobymac\)](https://open.spotify.com/album/2dswllr3Hg9hIavTk9Knv2) | 3:19 | 2021-10-31 | 2023-02-08 |
 | [Right on Time \(feat\. Tobymac\)](https://open.spotify.com/track/2vMAoAyBQiKGfMwSwd8eE9) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Right on Time \(feat\. Tobymac\)](https://open.spotify.com/album/75p9254Rl4Rp4Qv0ZwqiEm) | 3:19 | 2021-10-31 | 2022-07-15 |
+| [Right With You](https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [In the Upper Room](https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC) | 2:46 | 2023-02-07 |  |
 | [Rooftops](https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Rooftops](https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq) | 2:49 | 2023-02-08 | 2023-02-15 |
 | [Run](https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Run](https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ) | 2:59 | 2023-02-07 |  |
 | [Same God \- Remix](https://open.spotify.com/track/5OCs8SURfADDJf5UZWHp4U) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God \(Remix\)](https://open.spotify.com/album/0HNTg0P2gJvcuD4sDUXuYf) | 3:24 | 2021-10-31 | 2022-07-28 |
@@ -372,7 +373,7 @@
 | [Who Says?](https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [Who Says?](https://open.spotify.com/album/60mgib427tgTcQiBP5na0y) | 4:06 | 2021-10-31 | 2023-02-08 |
 | [Who We Are \- Zach Paradis Remix](https://open.spotify.com/track/6Cp5BKOFRlsEhi98jhPF0F) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Who We Are \(The Remixes\)](https://open.spotify.com/album/5jJFIFtGXUIvemASIuWdhL) | 3:19 | 2021-10-31 | 2022-07-14 |
 | [Who You Say I Am \- Reyer & Retain Remix](https://open.spotify.com/track/3MEsc8g0qmBEFIWTtXEFBG) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF), [Anna Benton](https://open.spotify.com/artist/2zMW2Ndexng4GyIdKiKRpb) | [Who You Say I Am \(Reyer & Retain Remix\)](https://open.spotify.com/album/22dmQnkbUY20t4qas1MSju) | 3:23 | 2021-10-31 | 2022-07-29 |
-| [Wide Awake](https://open.spotify.com/track/0y6TqV4FeDaaui7G4olxzJ) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB), [KB](https://open.spotify.com/artist/1pd14y0VMTckHthjGWy4gX) | [Glory Fills This Room](https://open.spotify.com/album/3hoJ8FJip2vvCaWqwd6NwW) | 3:48 | 2023-02-07 |  |
+| [Wide Awake](https://open.spotify.com/track/0y6TqV4FeDaaui7G4olxzJ) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB), [KB](https://open.spotify.com/artist/1pd14y0VMTckHthjGWy4gX) | [Glory Fills This Room](https://open.spotify.com/album/3hoJ8FJip2vvCaWqwd6NwW) | 3:48 | 2023-02-07 | 2023-09-18 |
 | [WILD LOVE](https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WILD LOVE](https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE) | 2:47 | 2021-10-31 | 2023-02-08 |
 | [Wildfire](https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Wildfire](https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z) | 3:11 | 2021-10-31 | 2023-02-08 |
 | [WILLY](https://open.spotify.com/track/6FqN3BoTTfwatP3MKEgkLB) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [WILLY](https://open.spotify.com/album/1uWfDlRKiGXsWMOlSXQHpa) | 2:58 | 2021-10-31 | 2023-02-08 |

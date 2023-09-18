@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-176 songs - 10 hr 6 min
+177 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Feels Good Doin' Bad](https://open.spotify.com/track/75eOGI76V6Su2U6Vn2Hzfl) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Feels Good Doin' Bad](https://open.spotify.com/album/3wz0nuy7TC0xGonaSM3yc9) | 3:30 | 2022-07-08 | 2022-11-19 |
 | [Find the Truth \(OurVinyl Sessions\)](https://open.spotify.com/track/6l7401iZemL0HxoIZollVi) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [The Sheepdogs \| OurVinyl Sessions](https://open.spotify.com/album/1ULvFLOv6RuLpR1xudAKf4) | 2:53 | 2023-08-18 |  |
 | [Flying High](https://open.spotify.com/track/79w4w08Q8Rn9uu9bPO3OFr) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Flying High](https://open.spotify.com/album/4JMqOQEwutakJ4kLg1eyt6) | 2:30 | 2023-01-06 |  |
+| [Fools for Love](https://open.spotify.com/track/65oJF7sCSUj1Bzlox3lRdU) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [No Entry](https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD) | 4:10 | 2023-09-15 |  |
 | [Footprints on My Floor](https://open.spotify.com/track/0SxiUVY0WZpZxghvz2aV1j) | [Hillfolk Noir](https://open.spotify.com/artist/4alcboeaGrEX6CcqhSsyBb) | [Footprints on My Floor](https://open.spotify.com/album/7MBv0PMZFBn1t7YB84pG0X) | 3:41 | 2023-08-18 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-27 |  |
 | [From a Buick 6](https://open.spotify.com/track/1plmVWEUfEsgZz38Xpm7hP) | [The Wave Pictures](https://open.spotify.com/artist/4MOV18YgNAGUBCJi0MIrHw) | [French Cricket](https://open.spotify.com/album/0QxCkPJNB6e3oxjAENImTF) | 3:05 | 2022-11-17 | 2023-09-02 |
@@ -167,7 +168,7 @@
 | [Time to Get Movin'](https://open.spotify.com/track/1L4bBxv6uRhBjRVXTFAQ3R) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Somebody Save Me](https://open.spotify.com/album/6is4NsogY9tsZX0vcQWCv2) | 3:37 | 2022-11-17 |  |
 | [Time to Get Movin'](https://open.spotify.com/track/1srQrPOCvEGRn5kScgDnTv) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Somebody Save Me](https://open.spotify.com/album/6FGuP68nWXCaLrskmUipbY) | 3:37 | 2022-05-27 | 2022-07-28 |
 | [Too Old To Grow Up](https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Too Old To Grow Up](https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH) | 3:21 | 2022-03-11 |  |
-| [Trouble in Mind](https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Trouble in Mind](https://open.spotify.com/album/6qTzLaPhAN34FgEaaqEber) | 2:10 | 2023-08-18 |  |
+| [Trouble in Mind](https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Trouble in Mind](https://open.spotify.com/album/6qTzLaPhAN34FgEaaqEber) | 2:10 | 2023-08-18 | 2023-09-18 |
 | [Trouble No More](https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 | 2022-08-18 |  |
 | [Two Headed Woman](https://open.spotify.com/track/1EHqKdXyX3tGEZl1eHvECc) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 2:41 | 2022-11-17 |  |
 | [Voodoo Woman \- Album Outtake](https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Voodoo Woman](https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU) | 3:57 | 2023-08-04 |  |

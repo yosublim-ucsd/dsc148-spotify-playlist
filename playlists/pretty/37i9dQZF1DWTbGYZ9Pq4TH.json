@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 171257,
+  "num_followers": 171283,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGY0MGRjMTU5ZmEzMWZhZmZlZjEzY2Q0ZDk4ZTkzMTM2NmMwYTgz",
+  "snapshot_id": "MCw1OTQyYWViZDdiNWI4ZmQxODNjNWM4YjllYzk2MzIzYjFhN2FmZWQ1",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Un'emozione per sempre",
-      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+      "duration_ms": 193573,
+      "name": "Sopra",
+      "url": "https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Un'emozione per sempre",
+      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "VASCONONSTOP",
         "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 282720,
       "name": "Senza Parole",
       "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Sopra",
-      "url": "https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Samuele Bersani",
-        "url": "https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR"
-      },
-      "artists": [
-        {
-          "name": "Samuele Bersani",
-          "url": "https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Giudizi universali",
-      "url": "https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Stanza Singola",
         "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 196615,
       "name": "Stanza Singola (feat. Tommaso Paradiso)",
       "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Samuele Bersani",
+        "url": "https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR"
+      },
+      "artists": [
+        {
+          "name": "Samuele Bersani",
+          "url": "https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Giudizi universali",
+      "url": "https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "it.pop",
+        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
+      },
+      "artists": [
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Oggi Sono Io",
+      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Soundtrack '96 - 06 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 266746,
       "name": "Gli Ostacoli Del Cuore",
       "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "it.pop",
-        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Oggi Sono Io",
-      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
     },
     {
       "added_at": "2023-02-20 09:56:57",

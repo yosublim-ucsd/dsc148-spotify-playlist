@@ -4,7 +4,7 @@
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-82 songs - 5 hr 3 min
+83 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [NO CD](https://open.spotify.com/track/7wxSkft3f6OG3Y3Vysd470) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Rebel Kleff](https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6) | [Yesterday's Gone](https://open.spotify.com/album/0tgsACxUMuBElueq2YRe1K) | 4:17 | 2020-06-17 | 2022-07-29 |
 | [No Gravity](https://open.spotify.com/track/0fiAdufitTMckDdiNz653u) | [Marc Jones](https://open.spotify.com/artist/5v8CIAC4mqGf8qaG5BlIrp) | [No Gravity](https://open.spotify.com/album/19a7CnrO5lmrWVhewTzuiB) | 3:27 | 2020-06-17 |  |
 | [No Gravity](https://open.spotify.com/track/4upiX0Cm8rEWdj3gA7ly7O) | [Marc Jones](https://open.spotify.com/artist/5v8CIAC4mqGf8qaG5BlIrp) | [No Gravity](https://open.spotify.com/album/4m7yWHMv7Jv60Bff7fHLRg) | 3:27 | 2020-06-17 | 2022-10-21 |
+| [Not Normal](https://open.spotify.com/track/4y91MyrwtphpODTtsgfvup) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Moody](https://open.spotify.com/album/7r35SQX9UlGneWZ8zssDNg) | 2:49 | 2020-06-17 |  |
 | [Not Normal](https://open.spotify.com/track/1keMi9lLQJBOPH4Fx15oeR) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav), [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Not Normal](https://open.spotify.com/album/3pTvdtoUeGkR32CWE82oNZ) | 2:49 | 2020-06-17 | 2023-04-13 |
-| [Not Normal](https://open.spotify.com/track/5AtxqV1YiSWeeummpFFGQs) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav), [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Not Normal](https://open.spotify.com/album/3JJaILxOsjmjTAbH42h9sE) | 2:49 | 2020-06-17 |  |
+| [Not Normal](https://open.spotify.com/track/5AtxqV1YiSWeeummpFFGQs) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav), [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Not Normal](https://open.spotify.com/album/3JJaILxOsjmjTAbH42h9sE) | 2:49 | 2020-06-17 | 2023-09-18 |
 | [Only God Can Judge Me](https://open.spotify.com/track/1C6L5Lir4LeWhkPo722Rs0) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [Let the Trap Say Amen](https://open.spotify.com/album/1oDkUnjCBAHsaQtr0J0s3t) | 2:57 | 2020-06-17 |  |
 | [Only God Can Judge Me](https://open.spotify.com/track/1UDD2pLOJxKWfN9PMg9wO3) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [Let the Trap Say Amen](https://open.spotify.com/album/11fDBZXZPjeyzq1L1JloLa) | 2:57 | 2020-06-17 | 2022-07-29 |
 | [ONLY U \(feat\. Terrian\)](https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:22 | 2020-06-17 |  |

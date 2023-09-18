@@ -4,7 +4,7 @@
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
-47 songs - 2 hr 50 min
+48 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [First Time](https://open.spotify.com/track/2qEv3RLo2KTgjP844901gV) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:44 | 2015-07-25 | 2022-07-29 |
 | [First Time](https://open.spotify.com/track/6OFKVE2HZdK3n2tbTDMhn3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:44 | 2022-07-29 |  |
 | [Fool for Love](https://open.spotify.com/track/3g0XVm6ZTWHbtTTfKhmMo7) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Fool for Love](https://open.spotify.com/album/1J4OG63lFxJ65zzwLyF3rp) | 4:34 | 2015-07-25 |  |
-| [Heavy Feet](https://open.spotify.com/track/0BmNElDPN8uGmJtCwPY5fH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:06 | 2015-07-25 |  |
+| [Heavy Feet](https://open.spotify.com/track/0BmNElDPN8uGmJtCwPY5fH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:06 | 2015-07-25 | 2023-09-18 |
+| [Heavy Feet](https://open.spotify.com/track/5MUx7O0LlgofSxTp05nshi) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird \(Deluxe Version\)](https://open.spotify.com/album/0sqzJshVP3uHIyCkSaNXev) | 4:06 | 2023-09-18 |  |
 | [Home](https://open.spotify.com/track/6ZapsNk1ZpaebNXAIohP9R) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/4EBtalKeisyblXwox9mMXf) | 5:03 | 2015-07-25 | 2022-07-29 |
 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 | 2022-07-29 |  |
 | [How Bad We Need Each Other](https://open.spotify.com/track/2nxmj0bOGYbIRMWn2xSsvB) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Out of Style](https://open.spotify.com/album/7wJuetT1Y6ZH6F7UJS5Z2F) | 3:13 | 2023-09-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This week's best new metal tracks. Cover: Baroness",
-  "num_followers": 706460,
+  "num_followers": 706576,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWExNmY0NzQyMTAwODE2ZGNmOTk0YWNkYWU3ZmVkZjAwZDYyOWM5",
+  "snapshot_id": "MCxmN2Q4NmI1MDBhOGEwOGYxMTBlZWZiMmMwYWE5NTMyMmNmYmFlOTQy",
   "tracks": [
     {
       "added_at": "2023-09-15 04:17:14",
@@ -187,17 +187,21 @@
     {
       "added_at": "2023-09-15 04:17:14",
       "album": {
-        "name": "Thank You, Again",
+        "name": "Thank You, Again (feat. Phil Bozeman)",
         "url": "https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1"
       },
       "artists": [
         {
           "name": "Spite",
           "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        },
+        {
+          "name": "Phil Bozeman",
+          "url": "https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y"
         }
       ],
       "duration_ms": 184830,
-      "name": "Thank You, Again",
+      "name": "Thank You, Again (feat. Phil Bozeman)",
       "url": "https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i"
     },
     {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-1,548 songs - 3 day 13 hr 53 min
+1,549 songs - 3 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,7 +585,7 @@
 | [Historia de un Amor \- with Pablo Alboran](https://open.spotify.com/track/2QI2S23GUATtWiytIaNKQq) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Historia de Un Amor](https://open.spotify.com/album/4g5NG0Yw1gcW0MKYC3s46O) | 2:32 | 2022-03-04 | 2022-03-06 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-05-27 | 2023-06-14 |
 | [Hola Como Vas](https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:18 | 2022-01-09 | 2023-02-06 |
-| [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 | 2023-08-22 |  |
+| [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 | 2023-08-22 | 2023-09-18 |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-25 | 2023-05-14 |
 | [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 | 2023-04-25 | 2023-05-04 |
 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2022-12-13 | 2023-01-01 |
@@ -1394,6 +1394,7 @@
 | [Tu Chacal](https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz) | [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb) | [Tu Chacal](https://open.spotify.com/album/54TJ2t2cbWixJjwffEK68w) | 2:51 | 2023-05-01 | 2023-08-04 |
 | [TU DIABLO](https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [TU DIABLO](https://open.spotify.com/album/4hgAxWNVceOSRdMeaIcmIo) | 4:09 | 2022-11-29 | 2022-12-05 |
 | [Tu Ex](https://open.spotify.com/track/31lG9APw4p43d7q4gBHKlt) | [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Ex](https://open.spotify.com/album/6DTANl204D1DMFeczZHoQs) | 2:42 | 2022-07-26 | 2022-07-30 |
+| [tu fan](https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tu fan](https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx) | 4:00 | 2023-09-17 |  |
 | [Tu Gato Bellaco](https://open.spotify.com/track/7uvSA8c4CCMlaL571PSRS9) | [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP) | [Tu Gato Bellaco](https://open.spotify.com/album/7kw8apeDsdchYMe38HNfIy) | 3:23 | 2022-08-10 | 2022-08-18 |
 | [Tu Loco](https://open.spotify.com/track/2KQj2OQo0UcJ2uFAe5LG47) | [Mole](https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Tu Loco](https://open.spotify.com/album/0t9xJs4Z8Po09tdPwg05xi) | 5:19 | 2023-01-24 | 2023-04-05 |
 | [Tu Lokotron Remix](https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o) | [Dj Jouga](https://open.spotify.com/artist/4YVBK1IbFdZXRGIbfgeLV1) | [Tu Lokotron Remix](https://open.spotify.com/album/0Ux38IUGtLmSvNiPRrik70) | 6:58 | 2022-05-10 | 2022-06-01 |

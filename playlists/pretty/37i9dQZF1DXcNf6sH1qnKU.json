@@ -1,6 +1,6 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 473257,
+  "num_followers": 473903,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "The Comforts of Madness",
+        "url": "https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "duration_ms": 337600,
+      "name": "Sight of You",
+      "url": "https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Pygmalion",
         "url": "https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 248744,
       "name": "Holy Forest",
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "The Comforts of Madness",
-        "url": "https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2"
-      },
-      "artists": [
-        {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
-        }
-      ],
-      "duration_ms": 337600,
-      "name": "Sight of You",
-      "url": "https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S"
     },
     {
       "added_at": "2021-10-01 10:38:06",

@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 70962,
+  "num_followers": 71032,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWJiMjk3YTIzNjlhMDkyYTNiYTIxNDc5NWE2ZWFlYTc0NzJkNGJh",
+  "snapshot_id": "MCxjYjJhZTEyYWM4M2E0MDg4NWYzMmI2ZGRmOTI2NzNhNjQ1MGFkN2Nl",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 259239,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "La Chica Que So\u00f1e",
-        "url": "https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g"
-      },
-      "artists": [
-        {
-          "name": "Tropical Panam\u00e1",
-          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "La Chica Que So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 162920,
       "name": "Como Agua en las Manos",
       "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "La Chica Que So\u00f1e",
+        "url": "https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g"
+      },
+      "artists": [
+        {
+          "name": "Tropical Panam\u00e1",
+          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "La Chica Que So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Quen Pompo",
-        "url": "https://open.spotify.com/album/6ZXHFy31PiXJFufZzxfXFn"
+        "name": "Ni Juana la Cubana",
+        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
       "artists": [
         {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
         }
       ],
-      "duration_ms": 146860,
-      "name": "Quen Pompo",
-      "url": "https://open.spotify.com/track/4Gu5KSinsMNv4KTkCNVa7G"
+      "duration_ms": 171746,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Ni Juana la Cubana",
-        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
+        "name": "Quen Pompo",
+        "url": "https://open.spotify.com/album/6ZXHFy31PiXJFufZzxfXFn"
       },
       "artists": [
         {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
         }
       ],
-      "duration_ms": 171746,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+      "duration_ms": 146860,
+      "name": "Quen Pompo",
+      "url": "https://open.spotify.com/track/4Gu5KSinsMNv4KTkCNVa7G"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
-      },
-      "artists": [
-        {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Cozumel",
-      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 165186,
       "name": "Leticia",
       "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
+      },
+      "artists": [
+        {
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Cozumel",
+      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "El Ritmo De Chico Che Y La Crisis",
-        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Donde Te Agarro el Temblor",
-      "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Lo Maximo De Los Sonideros, Vol. 1",
         "url": "https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 221622,
       "name": "Cumbia De Los Patos",
       "url": "https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "El Ritmo De Chico Che Y La Crisis",
+        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Donde Te Agarro el Temblor",
+      "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Macumba",
-        "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
-      },
-      "artists": [
-        {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
-        }
-      ],
-      "duration_ms": 164884,
-      "name": "Macumba",
-      "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "M\u00fasica Tropical de Colombia, Vol. 3",
         "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Poquito a Poquito",
-        "url": "https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E"
+        "name": "Macumba",
+        "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
       },
       "artists": [
         {
-          "name": "Los Abelardos",
-          "url": "https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX"
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
         }
       ],
-      "duration_ms": 191059,
-      "name": "Por Unas Monedas",
-      "url": "https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD"
+      "duration_ms": 164884,
+      "name": "Macumba",
+      "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1327,6 +1311,22 @@
       "duration_ms": 168803,
       "name": "De Quen Chon",
       "url": "https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Poquito a Poquito",
+        "url": "https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E"
+      },
+      "artists": [
+        {
+          "name": "Los Abelardos",
+          "url": "https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX"
+        }
+      ],
+      "duration_ms": 191059,
+      "name": "Por Unas Monedas",
+      "url": "https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD"
     },
     {
       "added_at": "2023-06-16 16:50:57",

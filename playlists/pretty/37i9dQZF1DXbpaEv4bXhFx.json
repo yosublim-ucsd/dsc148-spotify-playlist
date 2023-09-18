@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 12880,
+  "num_followers": 12996,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-09-15 05:13:03",
       "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2023-09-15 05:13:03",
-      "album": {
         "name": "Sun Shower (A Business Proposal OST Part.3)",
         "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+    },
+    {
+      "added_at": "2023-09-15 05:13:03",
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "added_at": "2023-09-15 05:13:03",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-09-15 05:13:03",
       "album": {
+        "name": "You Are My Spring OST Part 3",
+        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 161738,
+      "name": "Still Wonder",
+      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
+    },
+    {
+      "added_at": "2023-09-15 05:13:03",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2023-09-15 05:13:03",
       "album": {
-        "name": "You Are My Spring OST Part 3",
-        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
+        "name": "tokki",
+        "url": "https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0"
       },
       "artists": [
         {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         }
       ],
-      "duration_ms": 161738,
-      "name": "Still Wonder",
-      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
+      "duration_ms": 210857,
+      "name": "tokki",
+      "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
     },
     {
       "added_at": "2023-09-15 05:13:03",
@@ -831,34 +847,18 @@
     {
       "added_at": "2023-09-15 05:13:03",
       "album": {
-        "name": "tokki",
-        "url": "https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0"
+        "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
+        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
         }
       ],
-      "duration_ms": 210857,
-      "name": "tokki",
-      "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
-    },
-    {
-      "added_at": "2023-09-15 05:13:03",
-      "album": {
-        "name": "Rainy Season",
-        "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 222285,
-      "name": "Rainy Season",
-      "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
+      "duration_ms": 255297,
+      "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
+      "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798",

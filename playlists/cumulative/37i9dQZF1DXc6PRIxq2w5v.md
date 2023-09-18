@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Brunno Ramos
 
-287 songs - 14 hr 59 min
+289 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Coração Quebrado](https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt) | [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SCampos](https://open.spotify.com/artist/35Ec0e31nIQQ67eQqK0dhZ) | [Coração Quebrado](https://open.spotify.com/album/349KT4LJKGKSgtajbT031W) | 2:02 | 2023-07-14 |  |
 | [Cores Novas](https://open.spotify.com/track/5mumRcr5TySm83gAq490ZK) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Cores Novas](https://open.spotify.com/album/1yhKSiRIQgRJ4CV0v00Vr7) | 2:18 | 2022-04-29 | 2022-08-20 |
 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 | 2022-03-22 |  |
-| [Cristo Faz a Wave](https://open.spotify.com/track/4ULVDlXFFMSBwpNcLQ9fzz) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Cristo Faz a Wave](https://open.spotify.com/album/2HHraXPwYlN1vabl4zfnSv) | 3:00 | 2023-09-01 |  |
+| [Cristo Faz a Wave](https://open.spotify.com/track/4ULVDlXFFMSBwpNcLQ9fzz) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Cristo Faz a Wave](https://open.spotify.com/album/2HHraXPwYlN1vabl4zfnSv) | 3:00 | 2023-09-01 | 2023-09-18 |
+| [Cristo Faz a Wave](https://open.spotify.com/track/7qA4ovLWETJrwMXOAa7X00) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Cristo Faz a Wave](https://open.spotify.com/album/3cnklZJoW7feW3nF9pZYWL) | 3:00 | 2023-09-15 |  |
 | [CULTURA \(feat\. Heddy Beats\)](https://open.spotify.com/track/6P0NHhm01puldJ1V2qTkZO) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS) | [CULTURA \(feat\. Heddy Beats\)](https://open.spotify.com/album/3yGZtdvWzrqwAD1wBiyaGD) | 1:28 | 2022-09-30 | 2022-10-22 |
 | [Céu](https://open.spotify.com/track/1VBbIwGEjT8NLyRmBEY97V) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Céu](https://open.spotify.com/album/5SQAJeCQJhDU9txcD2eUTh) | 2:00 | 2022-10-28 |  |
 | [Céu](https://open.spotify.com/track/2gWJECcGcgrnlRdtdoTrvI) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Céu](https://open.spotify.com/album/5R1ZegDpgnJerbLgDjXUUi) | 2:00 | 2022-03-22 | 2022-11-09 |
@@ -165,7 +166,8 @@
 | [Meu Aliado É o Rei dos Reis \- Remix](https://open.spotify.com/track/3wbnh1rrH1G5yWoSCN46vW) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Meu Aliado É o Rei dos Reis \- Remix](https://open.spotify.com/album/4kjlVXdtRTb9O9yjnpaKzH) | 4:49 | 2023-06-02 | 2023-06-24 |
 | [Meu Deus Não Falha](https://open.spotify.com/track/6xyUrWih5dQ3hIoGbklFr9) | [Pacificadores](https://open.spotify.com/artist/2uwIwpXUSnFLDvw6tfiX43), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Meu Deus Não Falha](https://open.spotify.com/album/0SeOYSog9uZmO7S5w1Z4Kc) | 4:11 | 2023-07-21 | 2023-07-29 |
 | [Meu Maior Bem \- Speed](https://open.spotify.com/track/2jJlcXWhvXVNx1ro2r2eZW) | [Tutuzzin](https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Meu Maior Bem \(Speed\)](https://open.spotify.com/album/28DAmcBlt8CUfsNJTYOf46) | 2:07 | 2023-07-28 | 2023-08-05 |
-| [Meu Primeiro Amor](https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Azero](https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN) | [Meu Primeiro Amor](https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg) | 3:00 | 2023-07-07 |  |
+| [Meu Primeiro Amor](https://open.spotify.com/track/0AGpTYmXuygXrjiixCBFD8) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Azero](https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN) | [Meu Primeiro Amor](https://open.spotify.com/album/1GnENPwUsv1h03yBeFT8W7) | 3:00 | 2023-09-15 |  |
+| [Meu Primeiro Amor](https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Azero](https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN) | [Meu Primeiro Amor](https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg) | 3:00 | 2023-07-07 | 2023-09-18 |
 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 | 2022-03-22 | 2023-02-25 |
 | [Montanha](https://open.spotify.com/track/4KnjB9F6E9TKv7fYh3GpkP) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Montanha](https://open.spotify.com/album/6DgOXKXNHH3UPQghDRfRYK) | 3:13 | 2022-03-22 | 2023-04-29 |
 | [Morada de Deus](https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Morada de Deus](https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ) | 3:43 | 2023-04-28 | 2023-09-09 |

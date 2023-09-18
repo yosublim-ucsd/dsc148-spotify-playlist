@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Molly Millington\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,038 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,089 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 98 | [Ephemeral](https://open.spotify.com/track/1pLxO6dL8JsCajU1pSvffR) | [Candy Moore](https://open.spotify.com/artist/3U7I69WIz0gHzaKBFMp2uO) | [Ephemeral](https://open.spotify.com/album/3zwM5UADUgf7BfAqUQlMTc) | 3:51 |
 | 99 | [Paper](https://open.spotify.com/track/4MjeAkO7ZXOE2U4y8E6Fq4) | [Georgia Mulligan](https://open.spotify.com/artist/4tXhvq7trzNGSORS5pAB9o) | [Paper](https://open.spotify.com/album/6PNHQPFsmBhoE1HTztuQ6a) | 2:48 |
 
-Snapshot ID: `MCw4ZWZlZjc4NzhhYmY5YzViYzhhMzQ0NzlmYjhhMjYyMDI1YTMxMGRh`
+Snapshot ID: `MCw1MDIxNTdkMjM3ZTliZTYzOTdmZTExYzAyNDJkYTIwYjZiMzY1ODVm`

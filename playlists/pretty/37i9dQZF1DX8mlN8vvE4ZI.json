@@ -1,12 +1,12 @@
 {
   "description": "Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses. Cover : Rishab Rikhiram Sharma",
-  "num_followers": 9942,
+  "num_followers": 10651,
   "original_name": "ECHO : Soulful Sitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWNhYjEzMjQyMjM3ZDM2NDM0YjBmZDYyNWMxNzZjMTQ4MmY3OTU3",
+  "snapshot_id": "MCw0NzZjNGNjNWU4ZTgwZDgwYjQ4NWVlNmY1OTllMjdhOGI5N2FlOTg4",
   "tracks": [
     {
       "added_at": "2023-08-18 00:33:02",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Nada Yoga: Music of the Mystic",
-        "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
-      },
-      "artists": [
-        {
-          "name": "Ustad Usman Khan",
-          "url": "https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq"
-        }
-      ],
-      "duration_ms": 540160,
-      "name": "Raga Hansadhwani (Dancing Spring)",
-      "url": "https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "World Music Day",
         "url": "https://open.spotify.com/album/0yZVA0nB0uH0qwGiHfUMvE"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 258246,
       "name": "Sitar Symphony",
       "url": "https://open.spotify.com/track/7K0iwTdjpiBagDCfhXWWFe"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Nada Yoga: Music of the Mystic",
+        "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
+      },
+      "artists": [
+        {
+          "name": "Ustad Usman Khan",
+          "url": "https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq"
+        }
+      ],
+      "duration_ms": 540160,
+      "name": "Raga Hansadhwani (Dancing Spring)",
+      "url": "https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -401,38 +401,6 @@
       "url": "https://open.spotify.com/track/1uNp7hTMUp8eaNP6QX7Ucy"
     },
     {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "From The NCPA Archives",
-        "url": "https://open.spotify.com/album/1KrPa1S1Trn8DUKIU6q98E"
-      },
-      "artists": [
-        {
-          "name": "Nikhil Banerjee",
-          "url": "https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Raga Maluha Kalyan - Jod",
-      "url": "https://open.spotify.com/track/2rCP1X7FudFJDpD5B4QckL"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "Sitar Gaze",
-        "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
-      },
-      "artists": [
-        {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
-        }
-      ],
-      "duration_ms": 307520,
-      "name": "Sitar Gaze (reprise)",
-      "url": "https://open.spotify.com/track/7MqMNGo9VrtjonRkwbGUG6"
-    },
-    {
       "added_at": "2023-08-23 08:05:52",
       "album": {
         "name": "Inspiration",
@@ -451,6 +419,38 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
+        "name": "Sitar Gaze",
+        "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "duration_ms": 307520,
+      "name": "Sitar Gaze (reprise)",
+      "url": "https://open.spotify.com/track/7MqMNGo9VrtjonRkwbGUG6"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "From The NCPA Archives",
+        "url": "https://open.spotify.com/album/1KrPa1S1Trn8DUKIU6q98E"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Banerjee",
+          "url": "https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1"
+        }
+      ],
+      "duration_ms": 172493,
+      "name": "Raga Maluha Kalyan - Jod",
+      "url": "https://open.spotify.com/track/2rCP1X7FudFJDpD5B4QckL"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
         "name": "Chanakya",
         "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 163071,
       "name": "Chanakya",
       "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Relaxing Ragas, Vol. 5",
+        "url": "https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI"
+      },
+      "artists": [
+        {
+          "name": "Bapu Padmanabha",
+          "url": "https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x"
+        }
+      ],
+      "duration_ms": 215917,
+      "name": "Sitar Desh",
+      "url": "https://open.spotify.com/track/74KQTFppDkD7jYakAgdQ5Q"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -487,22 +503,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Relaxing Ragas, Vol. 5",
-        "url": "https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI"
-      },
-      "artists": [
-        {
-          "name": "Bapu Padmanabha",
-          "url": "https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x"
-        }
-      ],
-      "duration_ms": 215917,
-      "name": "Sitar Desh",
-      "url": "https://open.spotify.com/track/74KQTFppDkD7jYakAgdQ5Q"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Inde Du Nord - North India : Raga Marwa Surbahar",
         "url": "https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Sitar (Instrumental)",
-        "url": "https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz"
-      },
-      "artists": [
-        {
-          "name": "Sitar A Seyer Otsenre",
-          "url": "https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Creation",
-      "url": "https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/5gAIr1fiVjKV5k2Dj0BOHa"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 154666,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/6sZgorH2FrlsrkDKY5nI58"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Sitar (Instrumental)",
+        "url": "https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz"
+      },
+      "artists": [
+        {
+          "name": "Sitar A Seyer Otsenre",
+          "url": "https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Creation",
+      "url": "https://open.spotify.com/track/4cjtMaPntkcWErWAv9ZeW1"
     },
     {
       "added_at": "2023-06-21 04:09:47",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Sitar Gaze",
-        "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
-      },
-      "artists": [
-        {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
-        }
-      ],
-      "duration_ms": 663040,
-      "name": "Sensuous",
-      "url": "https://open.spotify.com/track/0INV6NEQi7C40y9QAN46sa"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Morning Sitar Peace",
         "url": "https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 117630,
       "name": "Dreaming Sitar - Original Mix",
       "url": "https://open.spotify.com/track/0CwcCMYR8AkoQHYLKCIe2D"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Sitar Gaze",
+        "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "duration_ms": 663040,
+      "name": "Sensuous",
+      "url": "https://open.spotify.com/track/0INV6NEQi7C40y9QAN46sa"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Nada Yoga: Music of the Mystic",
-        "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
-      },
-      "artists": [
-        {
-          "name": "Ustad Usman Khan",
-          "url": "https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq"
-        }
-      ],
-      "duration_ms": 543373,
-      "name": "Raga Shivaranjani (Yearning)",
-      "url": "https://open.spotify.com/track/0KIsFToKwuGkPALbFxatlE"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Ekla Chalo Re Rabindra Sangeet (Live)",
         "url": "https://open.spotify.com/album/1Q2H4Dh1hZs4lmGhCSxbLC"
       },
@@ -679,18 +663,34 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Traces Of You",
-        "url": "https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq"
+        "name": "Nada Yoga: Music of the Mystic",
+        "url": "https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9"
       },
       "artists": [
         {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+          "name": "Ustad Usman Khan",
+          "url": "https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq"
         }
       ],
-      "duration_ms": 278520,
-      "name": "Lasya",
-      "url": "https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi"
+      "duration_ms": 543373,
+      "name": "Raga Shivaranjani (Yearning)",
+      "url": "https://open.spotify.com/track/0KIsFToKwuGkPALbFxatlE"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "The Pleasurable Mind in Healing Music",
+        "url": "https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x"
+      },
+      "artists": [
+        {
+          "name": "Mystical Guide, Loner Wolf",
+          "url": "https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Beauty of Sitar",
+      "url": "https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
-        "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
-      },
-      "artists": [
-        {
-          "name": "Adho Vrikshasana",
-          "url": "https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Best Sitar Music",
-      "url": "https://open.spotify.com/track/4RvwQkxmTl1SjNH1WXWFgS"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Sitarscape",
         "url": "https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 218893,
       "name": "Soul Mate",
       "url": "https://open.spotify.com/track/5Sa7kopLOVpnoDFquNvuG9"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
+        "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
+      },
+      "artists": [
+        {
+          "name": "Adho Vrikshasana",
+          "url": "https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Best Sitar Music",
+      "url": "https://open.spotify.com/track/4RvwQkxmTl1SjNH1WXWFgS"
     },
     {
       "added_at": "2023-08-18 14:11:07",
@@ -775,18 +775,34 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "The Pleasurable Mind in Healing Music",
-        "url": "https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x"
+        "name": "Traces Of You",
+        "url": "https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq"
       },
       "artists": [
         {
-          "name": "Mystical Guide, Loner Wolf",
-          "url": "https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6"
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
         }
       ],
-      "duration_ms": 140571,
-      "name": "Beauty of Sitar",
-      "url": "https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs"
+      "duration_ms": 278520,
+      "name": "Lasya",
+      "url": "https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds (Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation)",
+        "url": "https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu"
+      },
+      "artists": [
+        {
+          "name": "Meditation Mantras Guru",
+          "url": "https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b"
+        }
+      ],
+      "duration_ms": 229958,
+      "name": "Sanctuary - Sitar Meditation",
+      "url": "https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -821,22 +837,6 @@
       "url": "https://open.spotify.com/track/3Jm1yN30e4Q1BVdnpsAPpW"
     },
     {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds (Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation)",
-        "url": "https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu"
-      },
-      "artists": [
-        {
-          "name": "Meditation Mantras Guru",
-          "url": "https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b"
-        }
-      ],
-      "duration_ms": 229958,
-      "name": "Sanctuary - Sitar Meditation",
-      "url": "https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52"
-    },
-    {
       "added_at": "2023-08-23 08:05:52",
       "album": {
         "name": "Seeker",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Acoustic Ascension 3",
-        "url": "https://open.spotify.com/album/71LW4bsnEwuJ6BjgcZRz2H"
-      },
-      "artists": [
-        {
-          "name": "Relaxing Guitar for Massage, Yoga, and Meditation",
-          "url": "https://open.spotify.com/artist/4WODuSdwIPGqA4HfBU8bag"
-        }
-      ],
-      "duration_ms": 546440,
-      "name": "Tantric Bliss / Sitar and Tabla",
-      "url": "https://open.spotify.com/track/4ni1OURmXaoq3YWxfK9e2D"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "50 New Age, Relaxation & Massage Tracks (For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age)",
         "url": "https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 149306,
       "name": "Evenings in Dehli - Sitar/Guitar Melodies for Relaxation",
       "url": "https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Acoustic Ascension 3",
+        "url": "https://open.spotify.com/album/71LW4bsnEwuJ6BjgcZRz2H"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Guitar for Massage, Yoga, and Meditation",
+          "url": "https://open.spotify.com/artist/4WODuSdwIPGqA4HfBU8bag"
+        }
+      ],
+      "duration_ms": 546440,
+      "name": "Tantric Bliss / Sitar and Tabla",
+      "url": "https://open.spotify.com/track/4ni1OURmXaoq3YWxfK9e2D"
     }
   ],
   "unique_name": "ECHO : Soulful Sitar",

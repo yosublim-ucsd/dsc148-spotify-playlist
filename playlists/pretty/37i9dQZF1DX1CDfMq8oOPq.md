@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Paige
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,997 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,024 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Kawo](https://open.spotify.com/track/4TCNy9SAKNl3LLpsK8ITID) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Kawo](https://open.spotify.com/album/75C45QT4TPLkGrOzevo1MN) | 3:37 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCxmYTFhM2M5NWQxNWMwMmExNzM0Nzc3NDMwN2YwMTJkZjcxMzgyYTRk`
+Snapshot ID: `MCw3NzIwNGE5ZmVjZGRlZjEzYWY5ZTg0MDA5YTlmMWE5OTE3MTZjZmFj`

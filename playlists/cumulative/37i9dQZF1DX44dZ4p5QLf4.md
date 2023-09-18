@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Kymara
 
-353 songs - 21 hr 7 min
+354 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,8 +160,9 @@
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-06-30 |  |
 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-06-16 | 2023-08-16 |
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-17 |  |
-| [Kaleidoscope](https://open.spotify.com/track/0qC5SZciej450MxB7efCMu) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Scarlett Fae](https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK) | [Kaleidoscope](https://open.spotify.com/album/1XgRvfnyEknQJPtwU99A2a) | 3:46 | 2023-04-26 |  |
+| [Kaleidoscope](https://open.spotify.com/track/0qC5SZciej450MxB7efCMu) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Scarlett Fae](https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK) | [Kaleidoscope](https://open.spotify.com/album/1XgRvfnyEknQJPtwU99A2a) | 3:46 | 2023-04-26 | 2023-09-18 |
 | [Kaleidoscope](https://open.spotify.com/track/1EooppnhDM3kkCrhE7TIPl) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Scarlett Fae](https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK) | [Kaleidoscope](https://open.spotify.com/album/02RNJRYM3Tz7owxBJeMAc8) | 3:46 | 2023-04-06 | 2023-04-30 |
+| [Kaleidoscope](https://open.spotify.com/track/3UJUR8VPooWaFP3qkqfHzB) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Scarlett Fae](https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK) | [Summing Up](https://open.spotify.com/album/3i2iavFSYOci10RdJoNSnX) | 3:46 | 2023-09-14 |  |
 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 | 2021-12-16 | 2022-10-15 |
 | [Kicked to the Curb](https://open.spotify.com/track/0RG3L67GqmTBBX0kfSAXE8) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape](https://open.spotify.com/album/1HGjV64pCowXYDK1Tb2tUa) | 3:53 | 2022-10-07 | 2023-02-18 |
 | [Kicked to the Curb](https://open.spotify.com/track/4yzRABpnrtTV3HxOQPzzv7) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [The In and Out of Love Tape](https://open.spotify.com/album/2L9YPeuEgWPyFmRbq5JWsD) | 3:53 | 2022-02-10 | 2022-10-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 65174,
+  "num_followers": 65270,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2Q3NTc4ODNkYWI1NWI0NGU1ZDc3ZDNhMDY3ZGUxZjFiNTRhOGJi",
+  "snapshot_id": "MCw3YTBlNzZlMTkwM2ZjYmQ0MWY4ZTYyYThjMWE2YmQ5ZWE3YjlkOGI1",
   "tracks": [
     {
       "added_at": "2023-08-31 11:42:11",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 290693,
-      "name": "You Don't Know What Love Is - Remastered 2004",
-      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "The Complete Piano Duets",
         "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 208706,
       "name": "I Cried For You",
       "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 290693,
+      "name": "You Don't Know What Love Is - Remastered 2004",
+      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Once Upon A Summertime",
-      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "The Thrill Is Gone",
         "url": "https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 290426,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Once Upon A Summertime",
+      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "The Complete Piano Duets",
         "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 297866,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/2rjsU7OPalE0FuS0UULII9"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Maybe You'll Be There",
+      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
         "name": "April Fooled Me",
         "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 231400,
       "name": "April Fooled Me",
       "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Maybe You'll Be There",
-      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Beware My Heart",
-      "url": "https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Gentle Is My Love",
         "url": "https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 162186,
       "name": "Who Can I Turn To (When Nobody Needs Me)",
       "url": "https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Beware My Heart",
+      "url": "https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "It's All Over But The Swingin'",
-        "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
+        "name": "The Essential Doris Day",
+        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
       "artists": [
         {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Les Brown & His Orchestra",
+          "url": "https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX"
         }
       ],
-      "duration_ms": 280093,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
+      "duration_ms": 184253,
+      "name": "You Won't Be Satisfied (Until You Break My Heart) (with Les Brown & His Orchestra)",
+      "url": "https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -1335,22 +1339,18 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "The Essential Doris Day",
-        "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
+        "name": "It's All Over But The Swingin'",
+        "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Les Brown & His Orchestra",
-          "url": "https://open.spotify.com/artist/5jCS1U0QP0gulcCtMOsOoX"
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
         }
       ],
-      "duration_ms": 184253,
-      "name": "You Won't Be Satisfied (Until You Break My Heart) (with Les Brown & His Orchestra)",
-      "url": "https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn"
+      "duration_ms": 280093,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
     },
     {
       "added_at": "2023-08-31 11:42:11",

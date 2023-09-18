@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-155 songs - 6 hr 25 min
+156 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Devine](https://open.spotify.com/track/2UAZ0GqmyRh5O3A17FOlOy) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [G93](https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u) | [Devine](https://open.spotify.com/album/52KSCzrUXBM0seRkCbgtCS) | 2:02 | 2020-11-12 |  |
 | [Dignity](https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:10 | 2020-11-12 |  |
 | [Dignity](https://open.spotify.com/track/3OA9r5uxc2wgI9XWY1RzCz) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/6WYT84o6iLdOkuYTU6858W) | 3:10 | 2020-11-12 | 2022-07-10 |
-| [Distune](https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Distune](https://open.spotify.com/album/4RXlSA1QjJgT7IgpyqG7vc) | 1:58 | 2020-11-12 |  |
+| [Distune](https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Distune](https://open.spotify.com/album/4RXlSA1QjJgT7IgpyqG7vc) | 1:58 | 2020-11-12 | 2023-09-18 |
 | [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 | 2022-06-24 |  |
 | [Dreaming](https://open.spotify.com/track/5m0yoVmVM1RbqhDHOmtYFc) | [Neotic](https://open.spotify.com/artist/55SjXjCJHjUeSpgY0Wepfd) | [Siberia](https://open.spotify.com/album/6AsQWm786mT8dAS1UO4Jnl) | 1:46 | 2020-11-12 | 2022-07-29 |
 | [Dreams](https://open.spotify.com/track/7lRsXfGnY0PBSxVMIxuHME) | [Joakim Karud](https://open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF) | [Dreams](https://open.spotify.com/album/38TJ5X61VQmV0jPkiE786Q) | 3:10 | 2020-11-12 |  |
@@ -122,6 +122,7 @@
 | [Shelter](https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0) | 1:57 | 2020-11-12 |  |
 | [Silience](https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy) | 3:16 | 2020-11-12 |  |
 | [Single Phial](https://open.spotify.com/track/0ShdJEt3nvxq8WNDgYLzWm) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:43 | 2020-11-12 | 2023-09-16 |
+| [Single Phial](https://open.spotify.com/track/58THvMRNJ37sxB2g8p5Z5E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [1 Am\. Study Session](https://open.spotify.com/album/6a1N8QyPPdXy1cmicmWktX) | 1:43 | 2020-11-12 |  |
 | [Single Phial](https://open.spotify.com/track/67R6DqIitHxBe2wJYC0FZK) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [1 Am\. Study Session](https://open.spotify.com/album/6XyaVDkZeCWf14x0eESZdl) | 1:43 | 2020-11-12 | 2022-07-29 |
 | [Smoking at Midnight](https://open.spotify.com/track/5t9xjVR1jxhgIiutBVARQb) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn) | 1:35 | 2020-11-12 | 2022-11-19 |
 | [Smoking at Midnight](https://open.spotify.com/track/69r4VkTUiqOlcDN6ZbsblI) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:35 | 2020-11-12 |  |

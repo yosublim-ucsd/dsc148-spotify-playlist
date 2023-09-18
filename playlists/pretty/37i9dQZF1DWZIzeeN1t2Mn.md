@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,731 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,733 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 22 | [Forever Grateful](https://open.spotify.com/track/2hz7YnCZKVbPdrDjXTQiDn) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:13 |
 | 23 | [I Got the Juice](https://open.spotify.com/track/2PnQt6X3MbWj2ioRgjFYH4) | [Dream Junkies](https://open.spotify.com/artist/4kdiOW48WHjXhcurtEoTHU), [Beleaf](https://open.spotify.com/artist/7N204QRVuZ3LCoVkKRPf1T), [Ruslan](https://open.spotify.com/artist/2GEXrCflKZ5S5ZHBM4LNcV), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Good Religion](https://open.spotify.com/album/736eXA6VlJZwirLsvOt8Wi) | 3:54 |
 | 24 | [Ultralight Beam](https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:20 |
-| 25 | [Not Normal](https://open.spotify.com/track/5AtxqV1YiSWeeummpFFGQs) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav), [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Not Normal](https://open.spotify.com/album/3JJaILxOsjmjTAbH42h9sE) | 2:49 |
+| 25 | [Not Normal](https://open.spotify.com/track/4y91MyrwtphpODTtsgfvup) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi), [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Moody](https://open.spotify.com/album/7r35SQX9UlGneWZ8zssDNg) | 2:49 |
 | 26 | [Sticks & Stones](https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:05 |
 | 27 | [ONLY U \(feat\. Terrian\)](https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:22 |
 | 28 | [Shed a Little Light](https://open.spotify.com/track/6fO7SWzkzIQCYhyIB8FH42) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Hope](https://open.spotify.com/album/0Vy0pKZuZGoNDtiXfEg1YD) | 3:31 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 48 | [The Isle Of Arran](https://open.spotify.com/track/2YQ1cc9xWnp5qI08rKt6wv) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:34 |
 | 49 | [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 |
 
-Snapshot ID: `MCw3M2NiYTViM2I5ZTFiMmRhZGI5NTBkNjdjZDE4OTY5OGI5MmIyNzU4`
+Snapshot ID: `MCwwMjUwMzZjODZjOWI1ZWUyMTIzMzQ0Zjg5ZjBlZGFjY2UxZjYxZjFk`

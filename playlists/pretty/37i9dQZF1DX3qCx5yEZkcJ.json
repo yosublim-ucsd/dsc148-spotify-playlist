@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1491481,
+  "num_followers": 1491507,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2E4YWIyYzc1ZDg1ZGEwYzIyNjFhM2VjMGQzMWE0NTI2NTYyOGZj",
+  "snapshot_id": "MCw5N2M3NDI3MDg5ZDgyMjU0NTg1YWViZjY0N2U2ZDc1ZjljODZiN2Q2",
   "tracks": [
     {
       "added_at": "2023-08-31 15:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Mental Acupuncture",
-        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
-      },
-      "artists": [
-        {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mental Acupuncture",
-      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0yRR6FavHThWUOlsGimzuG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 74285,
       "name": "3rd Times a Charm",
       "url": "https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "Mental Acupuncture",
+        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+      },
+      "artists": [
+        {
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Mental Acupuncture",
+      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe"
-      },
-      "artists": [
-        {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
-        }
-      ],
-      "duration_ms": 100465,
-      "name": "winter in rio",
-      "url": "https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
         "name": "Easy Feet",
         "url": "https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 116893,
       "name": "Too Tired",
       "url": "https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "duration_ms": 100465,
+      "name": "winter in rio",
+      "url": "https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Paddling pool",
-        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
-      },
-      "artists": [
-        {
-          "name": "S I M",
-          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
-        }
-      ],
-      "duration_ms": 167874,
-      "name": "Paddling pool",
-      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 263000,
       "name": "Spring",
       "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "Paddling pool",
+        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
+      },
+      "artists": [
+        {
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
+        }
+      ],
+      "duration_ms": 167874,
+      "name": "Paddling pool",
+      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
+        "name": "Main Source (Instrumentals)",
+        "url": "https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Sewin' Love - Instrumental",
+      "url": "https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
         "name": "EVOKE",
         "url": "https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Main Source (Instrumentals)",
-        "url": "https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Sewin' Love - Instrumental",
-      "url": "https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
         "name": "Tender Rose",
         "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 202938,
       "name": "Tender Rose",
       "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd"
+      },
+      "artists": [
+        {
+          "name": "Epifania",
+          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
+        }
+      ],
+      "duration_ms": 88000,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1083,18 +1099,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd"
+        "name": "Do the Right Thing",
+        "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
       "artists": [
         {
-          "name": "Epifania",
-          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        },
+        {
+          "name": "Hannah V",
+          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
         }
       ],
-      "duration_ms": 88000,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
+      "duration_ms": 121320,
+      "name": "Do the Right Thing",
+      "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1115,26 +1135,6 @@
       "duration_ms": 104506,
       "name": "Fog\u00e0o Love",
       "url": "https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
-        "name": "Do the Right Thing",
-        "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
-      },
-      "artists": [
-        {
-          "name": "Shuko",
-          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
-        },
-        {
-          "name": "Hannah V",
-          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
-        }
-      ],
-      "duration_ms": 121320,
-      "name": "Do the Right Thing",
-      "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Baby, It's Over",
-        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
+        "name": "White Tea",
+        "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
       "artists": [
         {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+          "name": "Styn",
+          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
         },
         {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
+          "name": "Bertholet",
+          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
         }
       ],
-      "duration_ms": 148561,
-      "name": "Baby, It's Over",
-      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
+      "duration_ms": 88279,
+      "name": "White Tea",
+      "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1251,38 +1251,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Examples",
-        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
+        "name": "Baby, It's Over",
+        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
       "artists": [
         {
-          "name": "Eric Lau",
-          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
-        }
-      ],
-      "duration_ms": 128496,
-      "name": "Its Rainy",
-      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
-        "name": "White Tea",
-        "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
-      },
-      "artists": [
-        {
-          "name": "Styn",
-          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
         },
         {
-          "name": "Bertholet",
-          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
         }
       ],
-      "duration_ms": 88279,
-      "name": "White Tea",
-      "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
+      "duration_ms": 148561,
+      "name": "Baby, It's Over",
+      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 123008,
       "name": "Hip Shop",
       "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "Examples",
+        "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
+      },
+      "artists": [
+        {
+          "name": "Eric Lau",
+          "url": "https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n"
+        }
+      ],
+      "duration_ms": 128496,
+      "name": "Its Rainy",
+      "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Summit",
-        "url": "https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2"
+        "name": "Elevator (Remastered)",
+        "url": "https://open.spotify.com/album/7DNUHO4a9PrLD51cOaJO1N"
       },
       "artists": [
         {
-          "name": "Lowkey Vanni",
-          "url": "https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+          "name": "Marcus D",
+          "url": "https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV"
         }
       ],
-      "duration_ms": 129679,
-      "name": "Summit",
-      "url": "https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb"
+      "duration_ms": 207291,
+      "name": "Elevator - Remastered",
+      "url": "https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD"
     }
   ],
   "unique_name": "Mellow Beats",

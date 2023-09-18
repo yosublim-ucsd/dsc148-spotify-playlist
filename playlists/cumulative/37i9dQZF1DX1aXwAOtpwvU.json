@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Blaza",
+        "url": "https://open.spotify.com/album/1DSTAwlXX9gMup8yXeqoNo"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226434,
+      "name": "Niebieski sweter",
+      "url": "https://open.spotify.com/track/5CEWAINwbUzDrOYQqHZ7wq"
+    },
+    {
+      "album": {
         "name": "Niebieski sweter",
         "url": "https://open.spotify.com/album/4OjFUK09FKHX6WROvvFNRi"
       },
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 226434,
       "name": "Niebieski sweter",
       "url": "https://open.spotify.com/track/7e6tfAscP8KHxBimBXVlmc"

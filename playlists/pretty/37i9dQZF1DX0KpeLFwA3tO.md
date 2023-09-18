@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: All Time Low
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,578 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,626 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 54 | [Let's Do Drugs](https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Let's Do Drugs](https://open.spotify.com/album/6dFaxMX3QrHLdUO54jID00) | 2:19 |
 | 55 | [I See My Body Through You](https://open.spotify.com/track/1fJqi8yj4bXUqVMTUWP8Yg) | [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [I See My Body Through You](https://open.spotify.com/album/7kP4bzZAusoTpcxMRYRN2k) | 2:54 |
 | 56 | [Tunnel Vision Alibi](https://open.spotify.com/track/2nXRw3r7QhOAIiXmcH2lY6) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Divine Inner Tension](https://open.spotify.com/album/0FPyjINPmP3PgiQf1tHmRk) | 3:11 |
-| 57 | [Nevergreen](https://open.spotify.com/track/6KbVLikzxejsjnnU6Aalcd) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Nevergreen \(with Kellin Quinn\)](https://open.spotify.com/album/4hl6u1jPzPnA1DRHND9XBo) | 2:48 |
+| 57 | [Nevergreen \(with Kellin Quinn\)](https://open.spotify.com/track/6KbVLikzxejsjnnU6Aalcd) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Nevergreen \(with Kellin Quinn\)](https://open.spotify.com/album/4hl6u1jPzPnA1DRHND9XBo) | 2:48 |
 | 58 | [Freaky](https://open.spotify.com/track/3YTh8sEUXyvufGoQA5e6LP) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Freaky](https://open.spotify.com/album/1IAFJUMqWGnF6lYADgS2jw) | 2:49 |
 | 59 | [The Weight](https://open.spotify.com/track/4YDcAzBJoWUPciONTYeWDv) | [With Honor](https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul) | [The Weight](https://open.spotify.com/album/6zbZGAJvFcdaLVgfYo8LDU) | 2:10 |
 | 60 | [Talkin' On The Internet](https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Talkin' On The Internet](https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Pretend](https://open.spotify.com/track/17rev5TwrcPMTXNOo267sw) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [Pretend](https://open.spotify.com/album/6yLmA8rJQecpueryDynXH9) | 4:10 |
 | 100 | [Femme Boi](https://open.spotify.com/track/0TNjyeIVTlqh8ut9ua7aUW) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Femme Boi](https://open.spotify.com/album/2vkUsynjITqWKLBhIX7MW9) | 3:01 |
 
-Snapshot ID: `MCxlNTYwN2IyOWNlZDg1ZDZiYTYwOTBmOWUzODMzM2ZlYmM2ZmQyMjcy`
+Snapshot ID: `MCwxNjllODI0MDYzOGVlMDBhNWVlY2RlNGU3MTMzNTY1OTUyNGRkM2Uz`

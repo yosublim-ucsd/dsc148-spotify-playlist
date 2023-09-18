@@ -4,7 +4,7 @@
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-129 songs - 9 hr 50 min
+130 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Mallipoo](https://open.spotify.com/track/3i7qScF9Oyp31O9bAutJez) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Vendhu Thanindhathu Kaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4) | 4:05 | 2022-10-18 |  |
 | [Manmadhane Nee](https://open.spotify.com/track/0CkDv2V3FFhltON32OwE0x) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Manmadhan](https://open.spotify.com/album/1zXJtkBDoTnzJlJbf71RU5) | 4:31 | 2022-10-18 | 2023-08-23 |
 | [Manmadhane Nee](https://open.spotify.com/track/2RkN688Mst0l8SIfZkx4Fx) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xAqOpePLMt4LOwoS41dBl) | 4:32 | 2022-10-18 | 2023-05-14 |
-| [Manmadhane Nee](https://open.spotify.com/track/6TUCI6SiJ5ZC0aeomQvKQz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LnAivsqa4lj8lAMkMNjcF) | 4:32 | 2022-10-18 |  |
+| [Manmadhane Nee](https://open.spotify.com/track/3FwKEtdHjAtN7YjR1uFECz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/50eHE6YZSsA6Cy3WwzimZ2) | 4:32 | 2022-10-18 |  |
+| [Manmadhane Nee](https://open.spotify.com/track/6TUCI6SiJ5ZC0aeomQvKQz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LnAivsqa4lj8lAMkMNjcF) | 4:32 | 2022-10-18 | 2023-09-18 |
 | [Maruvaarthai](https://open.spotify.com/track/6A79kP682lpUXnwcl5575F) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45bGofpPXb9IrX5gpp9Lgx) | 5:56 | 2021-06-24 | 2023-08-04 |
 | [Maruvaarthai](https://open.spotify.com/track/7dbzO881X6TVJST6EKhnDg) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2eGMsf3wqm3u0fdcvpszk3) | 5:56 | 2021-06-24 |  |
 | [Maruvaarthai](https://open.spotify.com/track/4FyZDLPO1ErUjzwnLrCLTA) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Maruvaarthai \(From "Enai Noki Paayum Thota"\)](https://open.spotify.com/album/52t86OJEvtWbYRUaA2ltEZ) | 5:56 | 2021-06-24 | 2023-07-30 |

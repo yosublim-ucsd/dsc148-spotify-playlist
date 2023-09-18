@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,647 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,658 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 8 | [Only](https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Only](https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE) | 2:49 |
 | 9 | [Cobra](https://open.spotify.com/track/7yL38bdlWp8dqcpgcZ4hcL) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drop The Album](https://open.spotify.com/album/4NlIxzOHUgMxabX8xfXWEe) | 5:09 |
 | 10 | [inversion](https://open.spotify.com/track/6UNsBsXdkvZ6aJVbVdT6c8) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [inversion](https://open.spotify.com/album/1IEhT01YnqPKYMLmNzY9aj) | 2:19 |
-| 11 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 |
+| 11 | [Sweet](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 |
 | 12 | [DON'T LET THE DEVIL \(feat\. thankugoodsir\)](https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 2:45 |
 | 13 | [Break Bread](https://open.spotify.com/track/0BeJ2GsaQ1Evato2mCxXBT) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Break Bread](https://open.spotify.com/album/34odlu9vMsYaVQPuuforOa) | 3:06 |
 | 14 | [I Want You To Know](https://open.spotify.com/track/4bZAsC7ftR11pHpRNk2Mhc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [LOST IN THE CITY](https://open.spotify.com/track/7bHz0ZMFED3ZN39InD2YmZ) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LEGACY](https://open.spotify.com/album/74v3ofUMm9rHBHV8u0a5sr) | 3:13 |
 | 100 | [The Suburbs](https://open.spotify.com/track/2M33H5HtCUuXKxVX7jxMQ6) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [The Suburbs](https://open.spotify.com/album/659h0ktcFI9MKCjtTkNUp4) | 2:47 |
 
-Snapshot ID: `MCwyOGQzNzc5ZGY3MWU0ZDRjMmNjNzRiMWQ3YWY4N2VjMzEzYWYwYmM3`
+Snapshot ID: `MCxhZjgyZjFhNDAyNWJjNzYyZDYzYzU0OTMwODBhNGM2ZWZhOTdlN2Mx`

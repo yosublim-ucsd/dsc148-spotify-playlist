@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest 60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,902 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,952 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 31 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
 | 32 | [Sing a Simple Song](https://open.spotify.com/track/0mfQH4OgwV8aQ7JUgVjkhd) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
 | 33 | [Sing a Simple Song \- Single Version](https://open.spotify.com/track/3QbfWiLvHcAMYmdRPd9WnX) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 3:55 |
-| 34 | [But It's Alright](https://open.spotify.com/track/1ZUJZkV29qWIF4jst1brN3) | [J.J\. Jackson](https://open.spotify.com/artist/6FBBmwVjTdJ54I7j4BNkF5) | [Best of Loma Records\-Rise and Fall of a 1960's Soul Label](https://open.spotify.com/album/5toBacjx2RVc7mVRZ5QHUZ) | 2:52 |
+| 34 | [But It's Alright](https://open.spotify.com/track/62ylA6rQ8lgVn94VW00NTB) | [J.J\. Jackson](https://open.spotify.com/artist/6FBBmwVjTdJ54I7j4BNkF5) | [The Great J.J\. Jackson](https://open.spotify.com/album/1QYhhFMz0swRjnPXygNDqN) | 2:53 |
 | 35 | [Tramp](https://open.spotify.com/track/2gFfG8Ick2LGOzFHiWOV22) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [King & Queen](https://open.spotify.com/album/0BMj7v9E7i5YzKsZ7HJ9YX) | 3:01 |
 | 36 | [You're Starting Too Fast](https://open.spotify.com/track/34Craxb9QArnb4D9ztapc0) | [Johnny Pate](https://open.spotify.com/artist/3DdDR0Pm60equUbBz5FFGK) | [Outrageous](https://open.spotify.com/album/25LTD9Bngd94hhjNamWKa7) | 3:41 |
 | 37 | [Who's Making Love](https://open.spotify.com/track/2DxX9x7Cmywikp14l1YUdk) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Who's Making Love...](https://open.spotify.com/album/3ZCzcCgiSwoUB2czLBWmGJ) | 2:46 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 68 | [No Way](https://open.spotify.com/track/6TlXKWSyZuHMS4qANLwVgE) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [No Way!](https://open.spotify.com/album/4HgaispO1KpzuYAKljvrgM) | 7:17 |
 | 69 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 |
 
-Snapshot ID: `MCxkOTA3M2MwMjJkNzUzMWNkNTM2NzE4MzE2OTkyYTQ0MTdiZjIzYmZh`
+Snapshot ID: `MCxhZWFlNjIyNjI0YzQ1MWE2N2NlODBiZWFjM2YyMzQ5MjAyYjhmYjQw`

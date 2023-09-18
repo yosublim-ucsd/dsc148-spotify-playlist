@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-241 songs - 12 hr 55 min
+242 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Home](https://open.spotify.com/track/7eTDwpm5XKKssoMhMbo67y) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Beauty Inside \(Original Film Score\)](https://open.spotify.com/album/0gdEKp8PUuksujg3BpVBiP) | 2:40 | 2019-04-17 | 2022-02-05 |
 | [Hommage](https://open.spotify.com/track/2wlbSliKIPyvsLJUJ62pDH) | [Martin Jacoby](https://open.spotify.com/artist/72qByvYD0AYmKVzM2KzkyF) | [Plexus](https://open.spotify.com/album/6WrQm8DtMHWic57fssjfrx) | 4:39 | 2019-04-17 | 2022-02-05 |
 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2022-02-04 |  |
-| [how we sleep](https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP) | 3:02 | 2022-06-10 |  |
+| [how we sleep](https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP) | 3:02 | 2022-06-10 | 2023-09-18 |
 | [Hurricane](https://open.spotify.com/track/55V1T1cUIWJYJPI77asAat) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Costero](https://open.spotify.com/album/0aZQPebZglo48PyhfElOt1) | 5:31 | 2019-04-17 | 2022-02-05 |
 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 | 2022-02-04 |  |
 | [Illumination](https://open.spotify.com/track/5VyPybbYHpq8gsqP5ulovn) | [Dmitry Evgrafov](https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8) | [Illumination](https://open.spotify.com/album/5Lx6sbhSHFdBfMmP4JxBmi) | 2:32 | 2022-09-20 |  |
@@ -209,6 +209,7 @@
 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 | 2022-04-01 |  |
 | [Sway](https://open.spotify.com/track/1LQsAMbRfl2644biYjwHhz) | [Józef Gatysik](https://open.spotify.com/artist/4k0n9qZSgE1HVExw9b2T9j) | [Sway](https://open.spotify.com/album/6FjhiU3DOCOdhcM0Qxhddz) | 2:42 | 2019-04-17 | 2022-02-05 |
 | [Sway, Sway](https://open.spotify.com/track/6Xtb1w2ooURsLUa4cBvyRt) | [Heinali](https://open.spotify.com/artist/5v5c1zBRKBwkDh4sQEHcMx) | [Sway, Sway](https://open.spotify.com/album/3K2GhlqkmJNjeYeyCBZ3bW) | 4:53 | 2019-04-17 | 2022-02-05 |
+| [Tala](https://open.spotify.com/track/1qXgnbIFHqeRFdjKhDSB7X) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Tala](https://open.spotify.com/album/6fXcGN9Oj6OVDKTnIkGUhT) | 3:07 | 2023-09-11 |  |
 | [Talisman Stallion](https://open.spotify.com/track/1e3JUGxqyfe94XBFnWdP11) | [Bela Nemeth](https://open.spotify.com/artist/53y0Ghe3FgBnguwmI68OWT) | [Talisman Stallion](https://open.spotify.com/album/6BdLUE4WOmMfuin04hs4e4) | 2:00 | 2019-04-17 | 2022-02-05 |
 | [The First Birds](https://open.spotify.com/track/62MYibnXmO1JRChxsrxPRo) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The First Birds](https://open.spotify.com/album/3SDysaULh6UYkxZncYmDES) | 2:16 | 2022-05-27 | 2022-07-28 |
 | [The Gift](https://open.spotify.com/track/0aNwdVJmeq9CSCEPsyCvXP) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/4IrmlNwO8aXQlFghPYl01q) | 3:45 | 2019-04-17 | 2022-02-05 |

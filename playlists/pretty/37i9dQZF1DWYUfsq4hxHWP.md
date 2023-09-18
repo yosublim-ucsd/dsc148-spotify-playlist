@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Dylan Gossett, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,262 likes - 200 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,343 likes - 200 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 199 | [Home](https://open.spotify.com/track/7g4rTgNRHnfj1EguB4ETow) | [Nathan May](https://open.spotify.com/artist/1MSZWYELfRVbVsRH9I8HdT) | [Home](https://open.spotify.com/album/7B8mcC2S9XkvBG59tMzGwr) | 4:17 |
 | 200 | [Buzzin' Like You](https://open.spotify.com/track/5YTd6LeWiEOCRTPfNh3yYn) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Buzzin' Like You](https://open.spotify.com/album/1DnJixZpiYbZIkWzErmub5) | 3:00 |
 
-Snapshot ID: `MCw5NDU0NDFhM2ZlM2YwNDdhNzAwZjljMDQ2NzMzZDIxMzk1YjMxNDNi`
+Snapshot ID: `MCw4NDFiYzgyMGEwZDYxNGM2ZjI3YTI2ZWI3MDdiNmRjOWZkY2NiOTEw`

@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Majid Jordan, Naomi Sharon
 
-988 songs - 2 day 10 hr 9 min
+989 songs - 2 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,8 @@
 | [Loner](https://open.spotify.com/track/4MNqMI8GyzKOJ1F0hmRB9b) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Loner](https://open.spotify.com/album/1M0pCeh7vI7JEsPFZVvK52) | 3:29 | 2020-05-01 | 2020-05-22 |
 | [Long Love](https://open.spotify.com/track/3OtTh8NtK2lqEbu2Vijndn) | [AgaJon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [ESO.ES](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Long Love](https://open.spotify.com/album/2XhFvJLfoAv0bn5qrSN12E) | 2:44 | 2019-11-01 | 2020-01-17 |
 | [Look Easy](https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Look Easy](https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi) | 2:45 | 2020-07-10 | 2020-08-20 |
-| [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 | 2023-05-12 |  |
+| [Looping](https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:13 | 2023-09-15 |  |
+| [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 | 2023-05-12 | 2023-09-18 |
 | [Lost](https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:28 | 2023-09-08 |  |
 | [Lost & Found](https://open.spotify.com/track/0rPFXlpHqw24Z2Cg5OzmC9) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/375zZDGd2aYiTXCnxIKQRM) | 3:46 | 2022-07-08 | 2022-07-29 |
 | [Lost & Found](https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X) | 3:46 | 2022-10-07 | 2022-10-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,740 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,751 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Daytime Moon](https://open.spotify.com/track/3zwZSSWKXhR6ousAVNaEJT) | [ALFRD](https://open.spotify.com/artist/7KVn6WFXrTfPlnh2xUqlqQ) | [Daytime Moon](https://open.spotify.com/album/5HFhHcKFh4bdxZNavTuAv4) | 3:15 |
 | 60 | [Pマママ](https://open.spotify.com/track/3z12jfqeERWLOG05Vw3fa3) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Pマママ](https://open.spotify.com/album/5DMA7aDkyDhtUarSEf8AfL) | 5:36 |
 
-Snapshot ID: `MCw1MjA3OTMzOTJhYjA3ZDA1ZTU1YWMxZmNmY2U3OWFiYjhmNWE5NTg4`
+Snapshot ID: `MCxlMTM3MzAyNzFkMTZkYjlmNTBiZjQ4YzY5ODIyNmQ1MGY5ZGViYjhj`

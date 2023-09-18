@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Arcy Drive \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,148 likes - 125 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,173 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 124 | [Olly Carp](https://open.spotify.com/track/2VspudiJVujvSewaidcfKZ) | [HYLA](https://open.spotify.com/artist/7hpxHWdnM6cECjtgqMiWOo) | [Olly Carp](https://open.spotify.com/album/09tgHx4T78MhsW4XP0GKte) | 4:35 |
 | 125 | [Bored](https://open.spotify.com/track/3axRguzEmNU9dDMI6mXk7f) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Bored](https://open.spotify.com/album/0pLdIbrh0ss5wQOIAwqn4A) | 3:04 |
 
-Snapshot ID: `MCwxZjcxY2VhZjdiM2E3YTdkNGE3ZDkxYTk4ZGIxM2FkYzI2ZmEyNzM2`
+Snapshot ID: `MCw3YmQ1ODYyYTMzNTdlZDVhYzBlZTNlNzk0MDcwMDZmZGVmZDc4NzUz`

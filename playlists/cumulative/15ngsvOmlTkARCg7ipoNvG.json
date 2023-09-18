@@ -4533,6 +4533,24 @@
     },
     {
       "album": {
+        "name": "Dona Nobis Pacem (Ambient Piano Version)",
+        "url": "https://open.spotify.com/album/6oDmNKWzW3nS1sYg3OldYH"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61460,
+      "name": "Dona Nobis Pacem - Ambient Piano Version",
+      "url": "https://open.spotify.com/track/6uL24uD7DAqmuJJgPlnxAj"
+    },
+    {
+      "album": {
         "name": "Eternal Sky",
         "url": "https://open.spotify.com/album/1gkgnmM8Sb6C5pSjR9MYfX"
       },

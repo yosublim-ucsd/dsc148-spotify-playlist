@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: The Beaches
 
-1,286 songs - 3 day 4 hr 5 min
+1,287 songs - 3 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,8 @@
 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 | 2022-12-02 | 2023-03-11 |
 | [Let Your Body Move](https://open.spotify.com/track/6TU18va40kgGrSCiVRO4xB) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Vindicator \(Deluxe\)](https://open.spotify.com/album/75XmKnaF8c2ZwlmAN2ZYYp) | 2:59 | 2021-12-31 | 2022-01-08 |
 | [Letting Go](https://open.spotify.com/track/6SmgLOxqcRtC6dbZqxkcuB) | [GLDMTH](https://open.spotify.com/artist/5XJso5hUb5gsZQvDiengNA) | [GLDMTH](https://open.spotify.com/album/49eEsUWtpKrc3Ldq528nfo) | 4:43 | 2022-09-23 | 2023-01-21 |
-| [Lexicon](https://open.spotify.com/track/70aDp1WRRHjSO2EFYvFgLK) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Lexicon](https://open.spotify.com/album/7yco9Vsq2MAOlHx9xaju0N) | 2:57 | 2023-09-15 |  |
+| [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-15 |  |
+| [Lexicon](https://open.spotify.com/track/70aDp1WRRHjSO2EFYvFgLK) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Lexicon](https://open.spotify.com/album/7yco9Vsq2MAOlHx9xaju0N) | 2:57 | 2023-09-15 | 2023-09-18 |
 | [Lie Love Lullaby](https://open.spotify.com/track/1NR4gSR1iITXlbm6qTksHP) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Lie Love Lullaby](https://open.spotify.com/album/6r5op7sLZfwyUjoUCHIHjC) | 3:20 | 2022-01-21 | 2022-02-19 |
 | [Life As It Comes](https://open.spotify.com/track/4t8LId4jMs76b41wETklvD) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Life As It Comes](https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I) | 4:19 | 2021-12-31 | 2022-01-22 |
 | [Life is Not](https://open.spotify.com/track/0FRdchHg3MSDf9wUPp1ZdD) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Life is Not](https://open.spotify.com/album/1sQpkX1lNUGWrV0b4kxaKk) | 3:59 | 2021-12-31 | 2022-01-15 |

@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173397,
+  "num_followers": 173408,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDMzZDQ5NTIwMDIxZjVkMzA3MzJhMzIxY2ExMzA5ODU1M2UzZjE5",
+  "snapshot_id": "MCxmM2JjNzYxNmM2ODU5ODI5MDFiZTIyMTUxM2ZiOWRjY2Q0OTM4ZTQx",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "The Beautiful Bones",
-        "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
-      },
-      "artists": [
-        {
-          "name": "Kelley Hunt",
-          "url": "https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "Release and Be Free",
-      "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ain't Gonna Hush!",
         "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 138066,
       "name": "Ain't Gonna Hush",
       "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "The Beautiful Bones",
+        "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
+      },
+      "artists": [
+        {
+          "name": "Kelley Hunt",
+          "url": "https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "Release and Be Free",
+      "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ina Forsman",
-        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
-      },
-      "artists": [
-        {
-          "name": "Ina Forsman",
-          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Now You Want Me Back",
-      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ain't Got No Troubles",
         "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 232600,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ina Forsman",
+        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
+      },
+      "artists": [
+        {
+          "name": "Ina Forsman",
+          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Now You Want Me Back",
+      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Masters of War",
-        "url": "https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 296413,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 306680,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Masters of War",
+        "url": "https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 296413,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U"
     },
     {
       "added_at": "2022-03-08 14:01:09",

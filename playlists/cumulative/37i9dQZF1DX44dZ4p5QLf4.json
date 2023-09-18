@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 226629,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0qC5SZciej450MxB7efCMu"
@@ -3142,6 +3142,28 @@
       "duration_ms": 226629,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/1EooppnhDM3kkCrhE7TIPl"
+    },
+    {
+      "album": {
+        "name": "Summing Up",
+        "url": "https://open.spotify.com/album/3i2iavFSYOci10RdJoNSnX"
+      },
+      "artists": [
+        {
+          "name": "Steven Bamidele",
+          "url": "https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6"
+        },
+        {
+          "name": "Scarlett Fae",
+          "url": "https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226629,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/3UJUR8VPooWaFP3qkqfHzB"
     },
     {
       "album": {

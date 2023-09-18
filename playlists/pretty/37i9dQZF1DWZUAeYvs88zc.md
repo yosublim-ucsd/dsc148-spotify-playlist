@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,290 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,631 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 74 | [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 |
 | 75 | [My Kink Is Karma](https://open.spotify.com/track/3U7kZNOF7SX1DtkkLhzoeq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [My Kink Is Karma](https://open.spotify.com/album/1THKx3zGlu1MkONUx95nmy) | 3:42 |
 
-Snapshot ID: `MCxlNjhmMmZjMjAwZmNlOWQ1YmU2M2JmZDVjOGM3YWQzMjI0OTRiZDA4`
+Snapshot ID: `MCxmNjEzZjRlNDJiYzZlNjA1MDQ5YTFmZjJiOGQ4YmM5NzgzNTkxZDky`

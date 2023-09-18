@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > This week: confidence boosters! Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,557 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,593 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 51 | [Sitting on Top of the World](https://open.spotify.com/track/0DQO6wo1FonxaPklmI14Le) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Child of the Universe](https://open.spotify.com/album/152qPfUtAJcmnLri4igMYZ) | 3:58 |
 | 52 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
 
-Snapshot ID: `MCwyNTlkOTczNTljMDRkYTVmMjk1YTRmMWJiY2M5NmE3MjY4YTk2YTE2`
+Snapshot ID: `MCw4YzIwMWY3MzdmZTJjZmViYzQ1NjEwNTcyYWViZTJkZWVjNDEyOWU5`

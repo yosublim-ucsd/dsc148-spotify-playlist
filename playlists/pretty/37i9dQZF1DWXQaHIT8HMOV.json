@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1802,
+  "num_followers": 1804,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGZiZGE5MDVjZmU2OGM0NDkyNjE1ZjlhNWI5ZTI4YzdiZDYzZDY4",
+  "snapshot_id": "MCxhYWU0NmQzMjhhNGQxMzhiY2M0MzA4ZjMwZjdiZTk5NGNlMTFkZDM4",
   "tracks": [
     {
       "added_at": "2023-09-07 20:59:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Shabada",
-        "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
-      },
-      "artists": [
-        {
-          "name": "Mudra D Viral",
-          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
-        },
-        {
-          "name": "Ava Peace",
-          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Shabada",
-      "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
         "name": "Captain",
         "url": "https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 132857,
       "name": "Captain",
       "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Shabada",
+        "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
+      },
+      "artists": [
+        {
+          "name": "Mudra D Viral",
+          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
+        },
+        {
+          "name": "Ava Peace",
+          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Shabada",
+      "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Bwereere",
-        "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 185939,
-      "name": "Bwereere",
-      "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
         "name": "Omwana",
         "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 212903,
       "name": "Omwana",
       "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Bwereere",
+        "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "Bwereere",
+      "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
-      },
-      "artists": [
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        }
-      ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
         "name": "Kika Buka",
         "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 156961,
       "name": "Kika Buka",
       "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
+        "name": "CHERRY SWEET",
+        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "CHERRY SWEET",
+      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
         "name": "Bbuba",
         "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
       },
@@ -851,26 +871,18 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH"
+        "name": "Coroba",
+        "url": "https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg"
       },
       "artists": [
         {
-          "name": "Jozzi Firebouy",
-          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
-        },
-        {
-          "name": "Dny Beats",
-          "url": "https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP"
-        },
-        {
-          "name": "ZEUS BNM",
-          "url": "https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2"
+          "name": "Sl Fiq",
+          "url": "https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg"
+      "duration_ms": 167678,
+      "name": "Koroba",
+      "url": "https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB"
     },
     {
       "added_at": "2023-09-07 20:59:00",
@@ -891,38 +903,26 @@
     {
       "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Coroba",
-        "url": "https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg"
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH"
       },
       "artists": [
         {
-          "name": "Sl Fiq",
-          "url": "https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT"
-        }
-      ],
-      "duration_ms": 167678,
-      "name": "Koroba",
-      "url": "https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB"
-    },
-    {
-      "added_at": "2023-09-07 20:59:00",
-      "album": {
-        "name": "CHERRY SWEET",
-        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+          "name": "Jozzi Firebouy",
+          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
         },
         {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+          "name": "Dny Beats",
+          "url": "https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP"
+        },
+        {
+          "name": "ZEUS BNM",
+          "url": "https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2"
         }
       ],
-      "duration_ms": 130500,
-      "name": "CHERRY SWEET",
-      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+      "duration_ms": 202666,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg"
     }
   ],
   "unique_name": "Made In Uganda",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > FINAL BOSS MUSIC from Odetari
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,843 likes - 49 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,083 likes - 49 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 48 | [WET DREAMS \(w/ Nimstarr\)](https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [WET DREAMS \(w/ Nimstarr\)](https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg) | 2:04 |
 | 49 | [The Magick](https://open.spotify.com/track/78fVa5lwhFQzWUJTKWxOTa) | [Witchz](https://open.spotify.com/artist/13sKsnhhn9nyyYVbOl7dLD) | [The Magick](https://open.spotify.com/album/37CXwdGgiWbzPnWHITdeit) | 2:56 |
 
-Snapshot ID: `MCw5NGI0NGRiZWQ0NzUyYWU1NGU3MTc2OGQwYmZhNmNiMjEzMmVjNjQz`
+Snapshot ID: `MCwzZWI4ZjMzN2NlZDU0YmRkZWNkODUzY2YwMWM0M2JmYWZiYTdmZjM4`

@@ -4,7 +4,7 @@
 
 > A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
-51 songs - 3 hr 7 min
+52 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 | 2022-11-14 |  |
 | [Wild Dandelion \- Solo Piano](https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Because You Were The Universe](https://open.spotify.com/album/2se5cnO8caL1zD8qrJucKo) | 2:24 | 2022-05-06 |  |
 | [Worlds Collide](https://open.spotify.com/track/47CBgP1kMvdXGhZ5jNLJlF) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 3:25 | 2022-05-06 |  |
+| [Woven](https://open.spotify.com/track/3fgpPsyzcESCJBDh16UJle) | [Adrian Walther](https://open.spotify.com/artist/1JTRiqIZM2aTYirDud2CoY) | [Bridge To The Other Side \- Music From The Motion Picture](https://open.spotify.com/album/4Um308rYZzuxpI88oynvTT) | 4:57 | 2023-06-30 |  |
 | [Woven](https://open.spotify.com/track/2z5W3GOgV8yoNyCBkIpBzt) | [Alice In Winter](https://open.spotify.com/artist/6GT9NGuY5ABje2cz3AN5in) | [Spun from Reverence](https://open.spotify.com/album/6jgOizURcTyaHQPZk6jH3u) | 4:57 | 2022-05-06 | 2022-07-29 |
-| [Woven](https://open.spotify.com/track/20Q7fB2oTV89FxFz7I3oVg) | [Chelsea McGough](https://open.spotify.com/artist/1O7mIiCIcKbF2X0GS616Yb), [Adrian Walther](https://open.spotify.com/artist/1JTRiqIZM2aTYirDud2CoY), [Alice In Winter](https://open.spotify.com/artist/6GT9NGuY5ABje2cz3AN5in) | [Spun from Reverence](https://open.spotify.com/album/2hrD5KDCZSsJInhjV6vTFY) | 4:57 | 2022-05-06 |  |
+| [Woven](https://open.spotify.com/track/20Q7fB2oTV89FxFz7I3oVg) | [Chelsea McGough](https://open.spotify.com/artist/1O7mIiCIcKbF2X0GS616Yb), [Adrian Walther](https://open.spotify.com/artist/1JTRiqIZM2aTYirDud2CoY), [Alice In Winter](https://open.spotify.com/artist/6GT9NGuY5ABje2cz3AN5in) | [Spun from Reverence](https://open.spotify.com/album/2hrD5KDCZSsJInhjV6vTFY) | 4:57 | 2022-05-06 | 2023-09-18 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

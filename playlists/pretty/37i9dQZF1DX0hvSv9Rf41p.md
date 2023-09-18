@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Ray Volpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,640 likes - 105 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,605 likes - 105 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 104 | [KILLA](https://open.spotify.com/track/1B8rygL2m0YFYXKfxNqsG1) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [ESCARGOT](https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3) | [KILLA](https://open.spotify.com/album/1xZ3vAVE835fY1Gi5O17Sa) | 3:24 |
 | 105 | [Novaform](https://open.spotify.com/track/4iRF49wQyW2359Lxh6bJ2q) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Novaform / Blueshift](https://open.spotify.com/album/29VmOL15urLPDhYYN95UHt) | 3:00 |
 
-Snapshot ID: `MCwzM2QwMjRlNmJkOWQxMjNjNWY3NTY0YTU2ZTY3ZWE4NjBlOTgyZjIw`
+Snapshot ID: `MCw1OWNjOGI4OTliNzJiNGMxZmYzMzM2MjZkYjIxMDMwNzBiOWQ5YzU4`

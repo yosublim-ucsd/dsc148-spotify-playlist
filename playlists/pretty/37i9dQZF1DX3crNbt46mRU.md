@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,958 likes - 113 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,969 likes - 113 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 112 | [Replica Of My Heart](https://open.spotify.com/track/5PEAFtmWNhaUdrVzAP2inm) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Replica Of My Heart](https://open.spotify.com/album/1t0qPUVKhK3TSB9049ON4a) | 2:49 |
 | 113 | [Zur Party](https://open.spotify.com/track/7os57nYiBTo9eYF9ORz34j) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10), [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Zur Party](https://open.spotify.com/album/31I9h1f8SmZ7pGZE20xbrI) | 2:11 |
 
-Snapshot ID: `MCwzZThlMWY4MGI3MTNlZTlmNzI0ODE0M2I4MDhiYjU5NWE3Y2Q4NTFl`
+Snapshot ID: `MCw3NmU0NTUyM2QyYWZjNzgyNmU4NmZlYjc2YTgyYzdhOTljOTM4OTEw`

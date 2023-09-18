@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-210 songs - 12 hr 52 min
+211 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Cherry](https://open.spotify.com/track/5JOWR8OXp4FcpDcsxL8lZr) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/1dP4dfdYnGaYTt1gYWqOSA) | 3:22 | 2022-05-25 | 2022-07-29 |
 | [Cherry Ball Blues](https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Boomer's Story](https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz) | 4:13 | 2022-05-25 |  |
 | [Coffee Blues](https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Rediscovered](https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p) | 3:46 | 2022-07-29 |  |
-| [Coin Operated Woman \(feat\. Johnny Burgin\)](https://open.spotify.com/track/3UzFhxg69DF9bzb7sWsmJ4) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az) | 4:23 | 2023-08-25 | 2023-09-10 |
+| [Coin Operated Woman \(feat\. Johnny Burgin\)](https://open.spotify.com/track/3UzFhxg69DF9bzb7sWsmJ4) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az) | 4:23 | 2023-08-25 |  |
 | [Colt 45](https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Colt 45](https://open.spotify.com/album/43rZvzAOV4kJkDW4gffAJK) | 2:45 | 2023-08-18 |  |
 | [Crow Jane](https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James Live Vol\. 2 Bloomington 1968 Part 1](https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM) | 2:23 | 2022-05-27 |  |
 | [Death Valley Blues](https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:43 | 2023-04-28 |  |
@@ -64,7 +64,7 @@
 | [Done Changed My Way of Living](https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 7:03 | 2022-05-25 |  |
 | [Don´t Wait Too Long](https://open.spotify.com/track/22X6cjoUiFosUb9wcKvC7h) | [Ticket West](https://open.spotify.com/artist/4Uy2DEdyOMSontqmm1l29g), [Greg Izor](https://open.spotify.com/artist/4XfVGZm8nyn3aCLCkfKUkV) | [Chucufu](https://open.spotify.com/album/6wMrn8WuxDa68MSslYo2xl) | 2:10 | 2023-08-18 |  |
 | [Down in Mississippi](https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Down in Mississippi](https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP) | 3:23 | 2022-05-27 |  |
-| [Enemies](https://open.spotify.com/track/0Kood2NdRhznv8q24bzFn7) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Traveling Medicine Man](https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l) | 4:14 | 2023-08-25 |  |
+| [Enemies](https://open.spotify.com/track/0Kood2NdRhznv8q24bzFn7) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Traveling Medicine Man](https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l) | 4:14 | 2023-08-25 | 2023-09-18 |
 | [Every Morning](https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:59 | 2022-05-25 |  |
 | [Everyday I Have the Blues](https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:52 | 2022-05-27 |  |
 | [Feels so Good \#2](https://open.spotify.com/track/0IlJfv6ACOvNyjd9vvgKzm) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [First Recordings](https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87) | 2:00 | 2022-05-27 |  |
@@ -116,6 +116,7 @@
 | [I’ve Got Something](https://open.spotify.com/track/1D6bIicQYlT2aZLzj0EfZo) | [Heather Luckhart](https://open.spotify.com/artist/7tP1inVHEFMPLI87sp6RRu) | [Make It Through](https://open.spotify.com/album/0oXWOuYMNIxsVHs9PgXfvC) | 3:39 | 2023-02-03 |  |
 | [Jim Lee Blues Pt\. 1](https://open.spotify.com/track/2oFXxguURs0SvqQH6zxNf6) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Wild Heart](https://open.spotify.com/album/2KNgILAvTcaCq0ZMcpQtLY) | 3:53 | 2022-05-25 |  |
 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 | 2022-05-25 |  |
+| [Jumpin'](https://open.spotify.com/track/0mFMDuXQ5Rb1I9hxT4GZl2) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE), [Jonny Morgan](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD), [The Biscuit Dispute](https://open.spotify.com/artist/7ABJ3TprcTxyyCxbVZh2Ck) | [Jumpin'](https://open.spotify.com/album/6whK2FCC7tIBihqZeFR8vY) | 2:42 | 2023-09-15 |  |
 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 | 2022-05-25 |  |
 | [Kasbah](https://open.spotify.com/track/61QnpQqwH3F3HtvgZguOQW) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Grey Sky Blue](https://open.spotify.com/album/4clzWU8Hi3Xd3xftWH5pER) | 3:40 | 2023-08-18 |  |
 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 | 2022-05-25 | 2023-08-25 |
@@ -130,7 +131,7 @@
 | [Mailman, Bring Me No More Blues](https://open.spotify.com/track/63kSGfREzaR7i5BBBVKkWR) | [432 UK](https://open.spotify.com/artist/03oFNcaM41MDeiHBQJSczo) | [Mailman, Bring Me No More Blues](https://open.spotify.com/album/46HdwVjeZIiTS2SakpasBz) | 2:33 | 2022-12-01 | 2023-08-27 |
 | [Make it Talk](https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0) | [Danny Garrett](https://open.spotify.com/artist/7iWrSICKr9CzNWAE0WwnYu) | [Make it Talk](https://open.spotify.com/album/2j4v6Cr23fyOfsH8xG7vk9) | 3:17 | 2023-01-20 |  |
 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 | 2022-09-20 |  |
-| [Mary Jane](https://open.spotify.com/track/2soa0R4qbnjjj0HDGoLzHL) | [Chino Swingslide](https://open.spotify.com/artist/0CWPGDlgK9IGEoOB3I8u60) | [No Lookin' Back](https://open.spotify.com/album/2pv8EYSij80OAl7BPB01RN) | 3:26 | 2023-08-25 |  |
+| [Mary Jane](https://open.spotify.com/track/2soa0R4qbnjjj0HDGoLzHL) | [Chino Swingslide](https://open.spotify.com/artist/0CWPGDlgK9IGEoOB3I8u60) | [No Lookin' Back](https://open.spotify.com/album/2pv8EYSij80OAl7BPB01RN) | 3:26 | 2023-08-25 | 2023-09-18 |
 | [Mashing Rain](https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI) | [Honky Fish](https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96) | [Mashing Rain](https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu) | 2:14 | 2022-12-21 |  |
 | [Mean Old 'Frisco Blues](https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:35 | 2023-03-03 |  |
 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 | 2022-05-25 |  |

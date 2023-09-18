@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 185603,
+  "num_followers": 185651,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGU4OWRmY2Y5OWRiNDNmYTI3MmViNTgwM2UyYTA4MTc4YTcyOGVj",
+  "snapshot_id": "MCwzOGFkZDA0MGQ5N2FkYjE5YjBhNGRhMmU3NDU4MDgxZDllOTA1MzVk",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "This Land",
-        "url": "https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR"
+        "name": "Crooked Teeth",
+        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 236282,
-      "name": "This Land - Single Version",
-      "url": "https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3"
+      "duration_ms": 214170,
+      "name": "None Of The Above",
+      "url": "https://open.spotify.com/track/20rgXJLz47hMoQUOP218ll"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Crooked Teeth",
-        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 214170,
-      "name": "None Of The Above",
-      "url": "https://open.spotify.com/track/20rgXJLz47hMoQUOP218ll"
+      "duration_ms": 236282,
+      "name": "This Land - Single Version",
+      "url": "https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1147,22 +1147,6 @@
       "duration_ms": 190266,
       "name": "REV001",
       "url": "https://open.spotify.com/track/7xiTkM9ZWc0QY5uypWTVkL"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Whitey Ford's House of Pain",
-        "url": "https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7"
-      },
-      "artists": [
-        {
-          "name": "Everlast",
-          "url": "https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "The Culling",
-      "url": "https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 193770,
       "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
       "url": "https://open.spotify.com/track/0FdCFfb5xb7thJMaSjLFsH"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Whitey Ford's House of Pain",
+        "url": "https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7"
+      },
+      "artists": [
+        {
+          "name": "Everlast",
+          "url": "https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "The Culling",
+      "url": "https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj"
     },
     {
       "added_at": "2023-06-23 04:01:00",

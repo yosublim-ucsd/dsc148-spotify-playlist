@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-347 songs - 19 hr 55 min
+348 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 | 2022-11-11 |  |
 | [Microphone Master](https://open.spotify.com/track/4HBjg3KAkjoHZFWQL6STl5) | [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Hold It Down](https://open.spotify.com/album/2t70lfxoIbKZHKFKN9ZnqE) | 4:31 | 2022-03-25 | 2022-04-21 |
 | [Mind Blowin' \(feat\. Vinia Mojica\)](https://open.spotify.com/track/1foIqCKbgzB1czR3SgoEjK) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Soul Survivor](https://open.spotify.com/album/6aUbIlHtJf14LG1bdy8caf) | 5:04 | 2022-01-14 | 2022-03-23 |
-| [Miss My Dawgs \(with Lil Wayne\)](https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Miss My Dawgs](https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a) | 2:43 | 2022-12-17 |  |
+| [Miss My Dawgs \(with Lil Wayne\)](https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Miss My Dawgs](https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a) | 2:43 | 2022-12-17 | 2023-09-18 |
 | [Moana](https://open.spotify.com/track/7ANlBL6oL7J9gs03prsv7J) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Moana](https://open.spotify.com/album/2AhHhs1iA6Uh952HzR4P7m) | 2:58 | 2022-01-14 | 2022-04-23 |
 | [Mona Lisa](https://open.spotify.com/track/10QdSJJJflPZ0k6izpUEYG) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Mona Lisa](https://open.spotify.com/album/7cd4kzNVpOjsOCValmZX7w) | 2:20 | 2022-01-21 | 2022-03-05 |
 | [Ms\. Fat Booty](https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:43 | 2022-01-14 |  |
@@ -352,6 +352,7 @@
 | [Whole Brick](https://open.spotify.com/track/1VS0Jl32hbO3LxlrR2aWar) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Bodboy](https://open.spotify.com/album/27dq8NifT3260FUbT6F2Gz) | 2:22 | 2022-08-05 | 2022-11-13 |
 | [Wouldn't Get Far](https://open.spotify.com/track/39yRhjDdSTP4A7VehxBXDb) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Doctor's Advocate](https://open.spotify.com/album/0GKZO3H9pNVgTuhwCJ7TJp) | 4:11 | 2022-01-14 | 2023-03-03 |
 | [Writing on the Wall \(feat\. Post Malone & Cardi B\)](https://open.spotify.com/track/7x9nXsowok1JszkVztI5NI) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Writing on the Wall \(feat\. Post Malone & Cardi B\)](https://open.spotify.com/album/2ZoLcA4NMOjJGFKeANgNpF) | 3:21 | 2022-01-14 | 2022-04-21 |
+| [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 | 2023-09-15 |  |
 | [Young G's \(feat\. The Notorious B.I.G\. & Jay\-Z\)](https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 5:25 | 2022-01-14 |  |
 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ) | 3:30 | 2022-02-25 | 2022-06-11 |
 | [Zipcodes](https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:27 | 2022-09-02 |  |

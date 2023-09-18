@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 64372,
+  "num_followers": 64473,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjkxN2VjYzZkNTZlMWM1NmZhNTliOWM1ZGZkZmQxN2U4MmY3M2Ex",
+  "snapshot_id": "MCwzYzIxMzcwYTU3YmI1ZGEzNGRhN2IzZDg4YjNiMjcxNTBhMWJiMGE0",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "the Rake (can\u2019t complain)",
+        "url": "https://open.spotify.com/album/1fThTzAJxKmxgg2WgpeTD4"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "the Rake (can\u2019t complain)",
+      "url": "https://open.spotify.com/track/6UsCvuLD64nzgGSSJu6fnd"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "German Engineering 1",
         "url": "https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 158786,
       "name": "Trenchezzz (with Nemzzz)",
       "url": "https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "the Rake (can\u2019t complain)",
-        "url": "https://open.spotify.com/album/1fThTzAJxKmxgg2WgpeTD4"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "the Rake (can\u2019t complain)",
-      "url": "https://open.spotify.com/track/6UsCvuLD64nzgGSSJu6fnd"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1159,18 +1159,30 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "c\u00f3mo t va?",
-        "url": "https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd"
+        "name": "Bongos (feat. Megan Thee Stallion) [DJ SpinKing & DJ Taj Jersey Club Mix]",
+        "url": "https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc"
       },
       "artists": [
         {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "DJ SpinKing",
+          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
+        },
+        {
+          "name": "DJ Taj",
+          "url": "https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk"
         }
       ],
-      "duration_ms": 126000,
-      "name": "c\u00f3mo t va?",
-      "url": "https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5"
+      "duration_ms": 97714,
+      "name": "Bongos (feat. Megan Thee Stallion) - DJ SpinKing & DJ Taj Jersey Club Mix",
+      "url": "https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1199,22 +1211,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/3GnvZEmORtkJoKwaowm7ft"
+        "name": "c\u00f3mo t va?",
+        "url": "https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd"
       },
       "artists": [
         {
-          "name": "SVDP",
-          "url": "https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb"
-        },
-        {
-          "name": "La+ch",
-          "url": "https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG"
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/04Yhc7qIbIuFg2bjH9wXd4"
+      "duration_ms": 126000,
+      "name": "c\u00f3mo t va?",
+      "url": "https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1239,6 +1247,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/3GnvZEmORtkJoKwaowm7ft"
+      },
+      "artists": [
+        {
+          "name": "SVDP",
+          "url": "https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb"
+        },
+        {
+          "name": "La+ch",
+          "url": "https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/04Yhc7qIbIuFg2bjH9wXd4"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Drowning (Remixes)",
         "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
       },
@@ -1255,34 +1283,6 @@
       "duration_ms": 128000,
       "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
       "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Bongos (feat. Megan Thee Stallion) [DJ SpinKing & DJ Taj Jersey Club Mix]",
-        "url": "https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "DJ SpinKing",
-          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
-        },
-        {
-          "name": "DJ Taj",
-          "url": "https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk"
-        }
-      ],
-      "duration_ms": 97714,
-      "name": "Bongos (feat. Megan Thee Stallion) - DJ SpinKing & DJ Taj Jersey Club Mix",
-      "url": "https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Ayo (Jersey Club) [feat. DJ Bake]",
-        "url": "https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU"
+        "name": "My Back (Jersey Club)",
+        "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
       },
       "artists": [
         {
@@ -1384,29 +1384,25 @@
           "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
         }
       ],
-      "duration_ms": 123480,
-      "name": "Ayo (Jersey Club) [feat. DJ Bake]",
-      "url": "https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii"
+      "duration_ms": 127503,
+      "name": "My Back (Jersey Club)",
+      "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
     },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "say im ur luv (Jumbo Sounds Remix)",
-        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
+        "name": "Dream (Jersey Club)",
+        "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "Jumbo Sounds",
-          "url": "https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq"
+          "name": "DJ T Marq",
+          "url": "https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO"
         }
       ],
-      "duration_ms": 137032,
-      "name": "say im ur luv - Jumbo Sounds Remix",
-      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
+      "duration_ms": 123271,
+      "name": "Dream (Jersey Club)",
+      "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Dream (Jersey Club)",
-        "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
+        "name": "say im ur luv (Jumbo Sounds Remix)",
+        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
       },
       "artists": [
         {
-          "name": "DJ T Marq",
-          "url": "https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "Jumbo Sounds",
+          "url": "https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq"
         }
       ],
-      "duration_ms": 123271,
-      "name": "Dream (Jersey Club)",
-      "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
+      "duration_ms": 137032,
+      "name": "say im ur luv - Jumbo Sounds Remix",
+      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
     }
   ],
   "unique_name": "Jersey Club Heat",

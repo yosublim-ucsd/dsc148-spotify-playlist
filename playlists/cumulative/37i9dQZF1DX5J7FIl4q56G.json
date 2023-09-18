@@ -69803,20 +69803,24 @@
     },
     {
       "album": {
-        "name": "Thank You, Again",
+        "name": "Thank You, Again (feat. Phil Bozeman)",
         "url": "https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1"
       },
       "artists": [
         {
           "name": "Spite",
           "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        },
+        {
+          "name": "Phil Bozeman",
+          "url": "https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y"
         }
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184830,
-      "name": "Thank You, Again",
+      "name": "Thank You, Again (feat. Phil Bozeman)",
       "url": "https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i"
     },
     {

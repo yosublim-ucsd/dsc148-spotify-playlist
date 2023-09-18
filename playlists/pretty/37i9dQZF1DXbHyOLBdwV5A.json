@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 113611,
+  "num_followers": 113701,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzNiMzQ4ZDc5YWE5NDZhMDc5M2RiYjc0ZWY2NmI3MTkwNGUxYWVk",
+  "snapshot_id": "MCxkZDM3ZTFmNDBjZDFhOGFhYmViMjBmNGY4YTYxZTE4OTA2YmI1ZWNh",
   "tracks": [
     {
       "added_at": "2023-09-15 22:07:17",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
-        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
-      },
-      "artists": [
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "Val\u00e9ria Amanaj\u00e1z",
-          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
-        }
-      ],
-      "duration_ms": 160818,
-      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
-    },
-    {
-      "added_at": "2023-09-15 22:07:17",
-      "album": {
         "name": "Loucura (Remix)",
         "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 225519,
       "name": "Loucura - Remix",
       "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+    },
+    {
+      "added_at": "2023-09-15 22:07:17",
+      "album": {
+        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
+      },
+      "artists": [
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "Val\u00e9ria Amanaj\u00e1z",
+          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
+        }
+      ],
+      "duration_ms": 160818,
+      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
     },
     {
       "added_at": "2023-09-15 22:07:17",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
+        "name": "Com Jesus \u00c9 Festa (Remix)",
+        "url": "https://open.spotify.com/album/7aNZoB7tGKnUscbTvKnTKL"
+      },
+      "artists": [
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Banda Dominus",
+          "url": "https://open.spotify.com/artist/0GvnpLPsbWtDOqpA7BeJaV"
+        }
+      ],
+      "duration_ms": 138295,
+      "name": "Com Jesus \u00c9 Festa - Remix",
+      "url": "https://open.spotify.com/track/4YqvOmRdFKkqg4HKnujtVM"
+    },
+    {
+      "added_at": "2023-09-15 22:07:17",
+      "album": {
         "name": "Me Encontrou Remix",
         "url": "https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 190800,
       "name": "Me Encontrou (DJ Vitor Capoia Remix)",
       "url": "https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX"
-    },
-    {
-      "added_at": "2023-09-15 22:07:17",
-      "album": {
-        "name": "Com Jesus \u00c9 Festa (Remix)",
-        "url": "https://open.spotify.com/album/7aNZoB7tGKnUscbTvKnTKL"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Banda Dominus",
-          "url": "https://open.spotify.com/artist/0GvnpLPsbWtDOqpA7BeJaV"
-        }
-      ],
-      "duration_ms": 138295,
-      "name": "Com Jesus \u00c9 Festa - Remix",
-      "url": "https://open.spotify.com/track/4YqvOmRdFKkqg4HKnujtVM"
     },
     {
       "added_at": "2023-09-15 22:07:17",

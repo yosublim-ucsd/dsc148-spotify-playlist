@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW?si=hVhrZ1O\-R9K12\-0zyA1cLg">Koryn Hawthorne</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,517 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,630 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [My Dey, Pt\. 2](https://open.spotify.com/track/1W2QdIOWrApLDdGdLN2y4c) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [My Dey, Pt\. 2](https://open.spotify.com/album/5au4QTcdoTw5WKuJljl7Nz) | 2:19 |
 | 100 | [Denge](https://open.spotify.com/track/5gUzlhiXmEJcbl8dYRvRXH) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Denge](https://open.spotify.com/album/3wpEqEKKmus12vXRY4NggY) | 2:30 |
 
-Snapshot ID: `MCxjODMyZmIyZWFhODEwODAxODg4MmU5MzMxNTNkODJiNjFmNDMwODdj`
+Snapshot ID: `MCwwYjdlNjUxZDU0YWU5NmRlMDNlZWVhOTBhMWZjNTA4YTE3MzkxNGRm`

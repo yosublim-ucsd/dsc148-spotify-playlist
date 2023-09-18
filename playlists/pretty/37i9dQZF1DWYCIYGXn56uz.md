@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Rhove
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,751 likes - 55 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,761 likes - 55 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [DISPERATO](https://open.spotify.com/track/1YR7Ed3gb7lTUiti5uJ3lB) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [DISPERATO](https://open.spotify.com/album/48gCOKhQJu8ffxwhib4xhb) | 2:42 |
 | 55 | [Rock N Roll](https://open.spotify.com/track/3iIFvER6NUxnJc9Zv5BhsN) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Rock N Roll](https://open.spotify.com/album/0QwnfupfwKZFlsPY7dYqqM) | 2:33 |
 
-Snapshot ID: `MCwxMWRjOTQxZmE2MjcyMjA0NWE2NDk3ODVmZmFjYmM4ZDUyODMwODQz`
+Snapshot ID: `MCw0NzkxOTEyNTZhN2I5YzBiMjliYWQ0OTU3MzRjNTNkODg0YzgzYzg3`

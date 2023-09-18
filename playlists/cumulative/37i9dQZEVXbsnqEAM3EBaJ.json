@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 225107,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/1t0lazgh8uQmXzXigJkYe8"
@@ -4610,7 +4610,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 309026,
       "name": "Free To Decide - Paris Demo",
       "url": "https://open.spotify.com/track/3Z4lCM5i4f6yJVwoqgSlIa"
@@ -6388,7 +6388,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 428634,
       "name": "I've Seen All Good People - Live: Yale Bowl, USA 24th July 1971",
       "url": "https://open.spotify.com/track/79E74cEOPLkFbdOdnErNjl"
@@ -6858,6 +6858,24 @@
       "duration_ms": 481900,
       "name": "Insatiable (Early Mix)",
       "url": "https://open.spotify.com/track/44DsZlTn7qgFUZtPFewHXW"
+    },
+    {
+      "album": {
+        "name": "Live In El Paso 1980",
+        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267946,
+      "name": "Instrumental - Live",
+      "url": "https://open.spotify.com/track/57sBk0O1e2g6B3KBfjwtkT"
     },
     {
       "album": {
@@ -8362,7 +8380,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 360503,
       "name": "Love Can Heal - Dark-Side Mix",
       "url": "https://open.spotify.com/track/7IOJKh6TomNexUadGLns5l"
@@ -8940,7 +8958,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 192176,
       "name": "Misery (feat. Atreyu)",
       "url": "https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT"
@@ -11842,6 +11860,24 @@
     {
       "album": {
         "name": "To The Faithful Departed (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0cg6OTD0VxMSAzQghLeecH"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165293,
+      "name": "Salvation - Early Mix",
+      "url": "https://open.spotify.com/track/2FEwKIUAJxqEUYkCAakvJx"
+    },
+    {
+      "album": {
+        "name": "To The Faithful Departed (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1CPtOBwQVBkxSCBYnNbZTd"
       },
       "artists": [
@@ -12036,7 +12072,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 147720,
       "name": "School's Out - Live",
       "url": "https://open.spotify.com/track/3hKo142ynCDNTi0dXj0Jbx"
@@ -12522,7 +12558,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 243520,
       "name": "Slave Driver - Live At The Sundown Theatre, Edmonton, UK / May 1973",
       "url": "https://open.spotify.com/track/6umprZ3p3BbDjBFa6bsKd4"
@@ -12706,7 +12742,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 209026,
       "name": "Sometimes You Lose Before You Win",
       "url": "https://open.spotify.com/track/2c4goRObjUsHBWfXS9xBRB"
@@ -13686,7 +13722,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 162000,
       "name": "THE GIRLS - BLACKPINK THE GAME OST",
       "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
@@ -14646,7 +14682,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 288230,
       "name": "Too Far Gone? - Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023",
       "url": "https://open.spotify.com/track/50T5tj2DdZ0yajhBrSESve"
@@ -16448,7 +16484,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 170293,
       "name": "You're Awesome",
       "url": "https://open.spotify.com/track/5BoixLIVWjFbzurhaZvHwA"
@@ -16484,7 +16520,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 712370,
       "name": "Yours Is No Disgrace - Live: Yale Bowl, USA 24th July 1971",
       "url": "https://open.spotify.com/track/7xhyCH2gmbWKINV4KO0Dqc"

@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Lauv & Bella Poarch
 
-1,795 songs - 3 day 18 hr 55 min
+1,797 songs - 3 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [14](https://open.spotify.com/track/1AlbmEnnFgR9b4yCw9zkzf) | [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [14](https://open.spotify.com/album/6Y8manNCbK8DfkDFZrEQMh) | 3:28 | 2022-07-01 | 2022-07-08 |
 | [16](https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [16](https://open.spotify.com/album/2u5D7W8rZ1azEWJ02BX27P) | 2:45 | 2023-08-18 |  |
 | [1st](https://open.spotify.com/track/7ocjI38QtLM2Jk3ewzGh04) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [1st](https://open.spotify.com/album/3ar66R02DuMSuvw56H0Ivd) | 3:03 | 2023-02-03 | 2023-02-19 |
-| [1st Gen](https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [1st Gen](https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg) | 2:20 | 2023-08-11 |  |
+| [1st Gen](https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [1st Gen](https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg) | 2:20 | 2023-08-11 | 2023-09-18 |
 | [2 The Weekend](https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [2 The Weekend](https://open.spotify.com/album/3IjdYALpGG1oDMU0PRmFTw) | 2:35 | 2021-11-19 | 2022-03-12 |
 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 | 2022-09-23 | 2022-11-12 |
 | [20 Questions](https://open.spotify.com/track/5CvDcpK3CK6BhIXOgIuLBD) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/6LeZXjHYz5lylgFED1mVHL) | 2:59 | 2022-09-23 | 2022-10-14 |
@@ -322,7 +322,8 @@
 | [Comingback \- Single Version](https://open.spotify.com/track/5gw6D0cBSEBGlv68liOrne) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Comingback](https://open.spotify.com/album/0EszwSv58sj1RPucFPI9Xa) | 3:36 | 2021-07-31 | 2021-10-16 |
 | [Conceited](https://open.spotify.com/track/0uDI12DDNM6PVH1DpdokNk) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Conceited](https://open.spotify.com/album/5w9x6Z7BQQ6wbqE7AwFVl1) | 2:01 | 2021-02-28 | 2021-11-19 |
 | [Concrete and Sand](https://open.spotify.com/track/4vkPlw019TRBdV0aPsTz4E) | [JumpCircus](https://open.spotify.com/artist/7d9bjvv9XpbR6qewAWcP4v), [Kita Klane](https://open.spotify.com/artist/0Tlkht07qHq3A0QeI3TerA) | [Concrete and Sand](https://open.spotify.com/album/35W96deAET0orM2AjFOdgG) | 4:05 | 2019-05-26\* | 2020-02-19 |
-| [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-14 |  |
+| [Confetti](https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 | 2023-09-15 |  |
+| [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-14 | 2023-09-18 |
 | [Congratulations](https://open.spotify.com/track/1UqWYp2HnYr6UDkv9EJERF) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Congratulations](https://open.spotify.com/album/6eSLN8ssi7MTmuKajgn6K6) | 2:31 | 2022-07-15 | 2022-07-28 |
 | [Contact](https://open.spotify.com/track/2IQB5iBapo0Y37Yc0PtIZc) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Giang Pham](https://open.spotify.com/artist/6OxNVd9jJ2IbNrOjHdcpJZ) | [Contact](https://open.spotify.com/album/7qCZ7hu4uJKHGAbQvdBgVG) | 2:21 | 2019-05-26\* | 2019-06-15 |
 | [Control](https://open.spotify.com/track/7yS8NOPrjvSelAd9xuRwxm) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Control](https://open.spotify.com/album/799MtiaLaTx19lk7NQCPhK) | 3:06 | 2021-04-24 | 2021-11-20 |
@@ -1668,6 +1669,7 @@
 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-01-06 | 2023-06-24 |
 | [Ultraviolet](https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Ultraviolet](https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc) | 3:25 | 2023-09-01 |  |
 | [Uncall It](https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4) | 2:36 | 2022-06-06 | 2022-08-27 |
+| [Undefeated](https://open.spotify.com/track/0OaacUi36UrMb1kEsLWW9E) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Undefeated](https://open.spotify.com/album/1sd0tWdmMr0i9MXGBE9Qkl) | 2:55 | 2023-09-15 |  |
 | [Underground](https://open.spotify.com/track/3GjLecyioIsSt0EaNecctC) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [The Darker The Weather // The Better The Man](https://open.spotify.com/album/1lxOTjnDs6u4UHn2fzMNxu) | 3:27 | 2019-05-26\* | 2020-02-19 |
 | [Underwater](https://open.spotify.com/track/23FIFsfqsSuWZ5HszYsIfV) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Underwater](https://open.spotify.com/album/7EjMYcItvDJ2hndDy88PWo) | 5:49 | 2019-05-26\* | 2020-02-19 |
 | [Unfazed](https://open.spotify.com/track/78RA0KtI3ZTzbK52oJH28b) | [MOSSY](https://open.spotify.com/artist/2VWRHe5C0twed36GOerpK5) | [Unfazed](https://open.spotify.com/album/4kUu25QvZa6rpYFHTr1MHy) | 3:21 | 2021-10-29 | 2022-01-14 |

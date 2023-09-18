@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,693 likes - 90 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,762 likes - 90 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 89 | [Sakal Ban](https://open.spotify.com/track/4Fd7FkdzHIJv781MXnv0lY) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:46 |
 | 90 | [Naukar Shah Da](https://open.spotify.com/track/0QPOtQjf1Nl1wVNcPV6e4s) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Naukar Shah Da](https://open.spotify.com/album/54Kjgaj9mL1n2iFyKxZ70v) | 4:13 |
 
-Snapshot ID: `MCw0YzhiYjUzMWNhMWQ5NjU5MTA4MWExNzIyYTQ1NzlkNGJiMmYyNjNk`
+Snapshot ID: `MCwwNzJiNDNlZDdlYzk4ZDJiNzFiM2Q0OTg1NTc3ZGE2ZDljZjMwMmZi`

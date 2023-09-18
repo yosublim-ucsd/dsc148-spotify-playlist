@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 64737,
+  "num_followers": 64781,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWFjYTBhMTA0YTUxNjg1YjA0NTBhOGVlOTNjNjJhYTIyYzZjZGQ3",
+  "snapshot_id": "MCxhYjhmNGI5YzI4MDI2ZmFlNTM4ZmI5MzBkNmI5ZjRjYjg2NjdlNzNm",
   "tracks": [
     {
       "added_at": "2023-09-11 07:25:25",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-09-11 07:25:25",
       "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Fuzon",
+          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
+        }
+      ],
+      "duration_ms": 412266,
+      "name": "Mora Saiyaan",
+      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
+    },
+    {
+      "added_at": "2023-09-11 07:25:25",
+      "album": {
         "name": "Paniya",
         "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 410026,
       "name": "Paniya",
       "url": "https://open.spotify.com/track/0UaDj2d7v1a1CzyMeigKiX"
-    },
-    {
-      "added_at": "2023-09-11 07:25:25",
-      "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
-      },
-      "artists": [
-        {
-          "name": "Fuzon",
-          "url": "https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4"
-        }
-      ],
-      "duration_ms": 412266,
-      "name": "Mora Saiyaan",
-      "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
     },
     {
       "added_at": "2023-09-11 07:25:25",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-09-11 07:25:25",
       "album": {
+        "name": "Grounded in Space",
+        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "Ghir Ghir",
+      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
+    },
+    {
+      "added_at": "2023-09-11 07:25:25",
+      "album": {
         "name": "Albela",
         "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 135000,
       "name": "Albela",
       "url": "https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL"
-    },
-    {
-      "added_at": "2023-09-11 07:25:25",
-      "album": {
-        "name": "Grounded in Space",
-        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
-      },
-      "artists": [
-        {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
-        }
-      ],
-      "duration_ms": 305613,
-      "name": "Ghir Ghir",
-      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
     },
     {
       "added_at": "2023-09-11 07:25:25",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-09-11 07:25:25",
       "album": {
-        "name": "Padharo Mhare Des (Folk Fusion)",
-        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
-      },
-      "artists": [
-        {
-          "name": "Swaraag",
-          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Padharo Mhare Des - Folk Fusion",
-      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
-    },
-    {
-      "added_at": "2023-09-11 07:25:25",
-      "album": {
         "name": "Purvayi",
         "url": "https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 310146,
       "name": "Purvayi",
       "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
+    },
+    {
+      "added_at": "2023-09-11 07:25:25",
+      "album": {
+        "name": "Padharo Mhare Des (Folk Fusion)",
+        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
+      },
+      "artists": [
+        {
+          "name": "Swaraag",
+          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Padharo Mhare Des - Folk Fusion",
+      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
     },
     {
       "added_at": "2023-09-11 07:25:25",
@@ -995,18 +995,26 @@
     {
       "added_at": "2023-09-11 07:25:25",
       "album": {
-        "name": "Coke Studio Season 8",
-        "url": "https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7"
+        "name": "Jogiya",
+        "url": "https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La"
       },
       "artists": [
         {
-          "name": "Mekaal Hassan Band",
-          "url": "https://open.spotify.com/artist/0XSTzPae7xbdt1ZH0fbpZR"
+          "name": "Aabhas Joshi",
+          "url": "https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI"
+        },
+        {
+          "name": "Aabhas - Shreyas",
+          "url": "https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4"
+        },
+        {
+          "name": "Indie Routes",
+          "url": "https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu"
         }
       ],
-      "duration_ms": 261010,
-      "name": "Kinaray",
-      "url": "https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I"
+      "duration_ms": 249827,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK"
     }
   ],
   "unique_name": "Fusion Finds",

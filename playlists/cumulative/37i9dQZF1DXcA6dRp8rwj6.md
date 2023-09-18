@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Diddy\)
 
-1,575 songs - 3 day 8 hr 21 min
+1,576 songs - 3 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 | 2022-08-26 | 2022-09-30 |
 | [Cold Shoulder](https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Cold Shoulder](https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub) | 3:12 | 2022-01-27 | 2022-03-04 |
 | [Cold Sphere](https://open.spotify.com/track/6bWIJaJ4EPnjNcXOpjwCTs) | [Da Flyy Hooligan](https://open.spotify.com/artist/5OhV3ojCrrBQjXNryhwwba), [Kong The Artisan](https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE) | [Cold Sphere](https://open.spotify.com/album/6TNK8uj7AtsPFWASw3uRPv) | 3:15 | 2023-06-30 | 2023-07-29 |
-| [College Girls](https://open.spotify.com/track/5997LrlUOfmL0WmiP2lti4) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [College Girls](https://open.spotify.com/album/2MnezDg8Uik1lpRFDkCB3G) | 4:11 | 2023-09-08 | 2023-09-16 |
+| [College Girls](https://open.spotify.com/track/5997LrlUOfmL0WmiP2lti4) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [College Girls](https://open.spotify.com/album/2MnezDg8Uik1lpRFDkCB3G) | 4:11 | 2023-09-08 |  |
 | [Colour Money](https://open.spotify.com/track/54KhIcTrJhvQjQNLEGFwzR) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Colour Money](https://open.spotify.com/album/4sHsJpq0phd94oguJ5lRAG) | 2:21 | 2022-07-07 | 2022-08-05 |
 | [Come 2 Brazil](https://open.spotify.com/track/6ECE8va8cPjYXqWxtw1R1F) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Come 2 Brazil](https://open.spotify.com/album/1GlhS8meus1qIRZVOKu1Kq) | 2:14 | 2023-03-09 | 2023-04-28 |
 | [Come Close](https://open.spotify.com/track/2IXVuAMYYSslZ2bdkGKlxN) | [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp), [Dough\-Boy](https://open.spotify.com/artist/5hzXPEu0WeYHg3zQts4BGX) | [Come Close](https://open.spotify.com/album/0ZawOXRNNUiTmg8nJJjrs2) | 3:12 | 2023-03-30 | 2023-04-14 |
@@ -1229,6 +1229,7 @@
 | [Slidin' \(feat\. Kodak Black\)](https://open.spotify.com/track/173ff06by7Ujur3An4cHWf) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Slidin' \(feat\. Kodak Black\)](https://open.spotify.com/album/7mi906Ss21stvJEPrTz1ZT) | 2:36 | 2022-07-14 | 2022-09-09 |
 | [Slight Dub \(feat\. 21 Savage & Young Nudy\)](https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [MadMan](https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt) | 3:02 | 2023-06-15 | 2023-07-21 |
 | [Slim Waist](https://open.spotify.com/track/44jJCOAbyqF8msu7P79twG) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Slim Waist](https://open.spotify.com/album/12SXIjeo8hFvzeyBKnGIYH) | 2:48 | 2022-02-24 | 2022-03-18 |
+| [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-16 |  |
 | [Slizzy Gods](https://open.spotify.com/track/4wVoXhYiMIZ00PSijjOma5) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Slizzy Gods](https://open.spotify.com/album/2Vp0nwE7grcgIsgbLG3ytT) | 1:34 | 2023-06-15 | 2023-07-14 |
 | [Slow Jamz](https://open.spotify.com/track/1Dy5KQUNK9XbrVWEP8Cg3d) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [Slow Jamz](https://open.spotify.com/album/3t0bgdW7ET8syLYu3F0WAe) | 2:50 | 2022-05-26 | 2022-07-01 |
 | [Slut Me Out](https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Slut Me Out](https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ) | 2:03 | 2022-04-22 | 2022-05-27 |

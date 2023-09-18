@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Siggy & D1ns \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a>\-artiesten\) op de cover\. De nieuwste releases elke vrijdag op Spotify!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,544 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,582 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [if i wanted to](https://open.spotify.com/track/3xSWezmaKHVUVWE4XT78z0) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [if i wanted to](https://open.spotify.com/album/1bMqahsmebu45DMUgGCI6T) | 3:02 |
 | 100 | [Milk & Honey](https://open.spotify.com/track/6yG8sxSJNeaViOHwcNs24B) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 2:50 |
 
-Snapshot ID: `MCw4MmMzODc5Nzk5OTk4Njg1NmNmMDVkZjk0NmYzODYxOTZmNjExOWU0`
+Snapshot ID: `MCxkZGZkYmZjMTYyZTY5YmRjNTA1YjBhZjVmNThjYjI4ODg1NTE4OTA4`

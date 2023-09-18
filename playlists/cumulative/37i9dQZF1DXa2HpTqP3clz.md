@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-475 songs - 1 day 4 hr 36 min
+476 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [I Wanna Be Where You Are](https://open.spotify.com/track/3x5HfCGFxPXqUz4DKTN5M7) | [Junior Sisk](https://open.spotify.com/artist/2MgBNWdCITP6PKZirrJslp) | [I Wanna Be Where You Are](https://open.spotify.com/album/0CDYBAxzx5RJSQO0nHA1As) | 3:54 | 2021-12-17 | 2022-07-26 |
 | [I Would Not Live Always](https://open.spotify.com/track/760WdQXISBIfmTh3y5hwUL) | [Allison de Groot](https://open.spotify.com/artist/0Wpi68AWBCJ12UzlP8RM8h), [Tatiana Hargreaves](https://open.spotify.com/artist/63Xd2NZV9SzwjChcdH5QsK) | [I Would Not Live Always](https://open.spotify.com/album/6PH4b0ICVYFYSBUJGiUEda) | 4:22 | 2022-03-25 | 2022-06-13 |
 | [I'd Rather Be Alone](https://open.spotify.com/track/4nII4gGx7Vd2o6EmGuEX49) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [I'd Rather Be Alone](https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge) | 3:30 | 2023-02-10 | 2023-04-14 |
-| [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 | 2022-04-01 |  |
+| [I'll Blame It on the Rain](https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc) | [Hammertowne](https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH) | [I'll Blame It on the Rain](https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo) | 3:43 | 2022-04-01 | 2023-09-18 |
 | [I'm On Fire](https://open.spotify.com/track/3xSdEH8yjB0hiCcj9CG0xR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Heroes & Heretics](https://open.spotify.com/album/3hqfZkAkGENyOubiN2wDJe) | 3:33 | 2023-05-15 | 2023-08-12 |
 | [i\. opening \(ugento\)](https://open.spotify.com/track/55j8dxbE1xHmWQHxzcP552) | [Jonah Bobo](https://open.spotify.com/artist/2OoQ23fO9AaUIgWi2P9e1W) | [Newgrass Suite](https://open.spotify.com/album/45e0zmvNz8Zu5zyXJzS3pF) | 2:39 | 2021-12-17 | 2022-07-28 |
 | [Icy Cold](https://open.spotify.com/track/5VMEXtGEJnhJMnNMm7eKj3) | [Benson](https://open.spotify.com/artist/6bPV28MZGhKrAelauCkYto), [Wayne Benson](https://open.spotify.com/artist/64RUphSmKMjOuGBDbTs3Ac), [Kristin Scott Benson](https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD) | [Pick Your Poison](https://open.spotify.com/album/7LXtXnviJBIv3w6r13Olqi) | 3:00 | 2023-03-31 | 2023-04-09 |
@@ -349,6 +349,7 @@
 | [Say Your Mind](https://open.spotify.com/track/6DOTRLTpmkFhkZUVVjPJ4y) | [Head for the Hills](https://open.spotify.com/artist/7xKRWodRPGPamCMTGSQtBU) | [Say Your Mind](https://open.spotify.com/album/1cLYkEy1YYNHAGRPIN2Vif) | 4:02 | 2021-12-17 | 2022-07-22 |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/0imRwJuihcp7MvVEFnipaq) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7) | 3:00 | 2022-07-22 | 2023-04-29 |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/1VW5CwDhtHhbGz5UBRLni4) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/0aPhpuXKrJcu0EEo0YYoMI) | 3:00 | 2023-04-28 | 2023-09-11 |
+| [Scrape Me Off The Ceiling](https://open.spotify.com/track/2MX0TBk4KwRHfF73E2xP0k) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here \(Deluxe Edition\)](https://open.spotify.com/album/15IDUZTSBX9a00xYeIFyBd) | 3:00 | 2023-09-15 |  |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/2snpAgA7u9kPs1amwGkVNo) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/1pLEZLzXrFWCG8sEtcwXnq) | 3:00 | 2021-12-17 | 2022-07-29 |
 | [Seasons Don't Change](https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Seasons Don't Change](https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr) | 4:29 | 2022-07-29 | 2023-07-01 |
 | [Shamrock](https://open.spotify.com/track/2TgtHzz2v3jnNGZCVUXc4V) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 4:40 | 2021-12-17 |  |

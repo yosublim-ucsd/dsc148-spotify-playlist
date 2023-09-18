@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,759 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,798 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 64 | [Ahora Quién](https://open.spotify.com/track/68tklnvxWWWBZhRYrtk9gU) | [La Pardo](https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU), [Sonyk El Dragón](https://open.spotify.com/artist/1dPGTfknpFpTXTiFtixt8b) | [Te Lo Dedico](https://open.spotify.com/album/5d9zoGGEU1KQwMpvVeAS4Y) | 2:59 |
 | 65 | [No va a pasar](https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [No va a pasar](https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T) | 3:31 |
 
-Snapshot ID: `MCwxZjAyZGEwZjgzMTZkM2UxMGY2MTc4ZjM4YTkzMzJhNWFiNDdjZDMy`
+Snapshot ID: `MCw5NGE3YTljNjk4YzQ1MzE5NzQwNWI1ZDZmODRmN2EzMjhhYTQ2MDhm`

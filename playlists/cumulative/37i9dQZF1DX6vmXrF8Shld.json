@@ -142,10 +142,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 172400,
       "name": "But It's Alright",
       "url": "https://open.spotify.com/track/1ZUJZkV29qWIF4jst1brN3"
+    },
+    {
+      "album": {
+        "name": "The Great J.J. Jackson",
+        "url": "https://open.spotify.com/album/1QYhhFMz0swRjnPXygNDqN"
+      },
+      "artists": [
+        {
+          "name": "J.J. Jackson",
+          "url": "https://open.spotify.com/artist/6FBBmwVjTdJ54I7j4BNkF5"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173813,
+      "name": "But It's Alright",
+      "url": "https://open.spotify.com/track/62ylA6rQ8lgVn94VW00NTB"
     },
     {
       "album": {

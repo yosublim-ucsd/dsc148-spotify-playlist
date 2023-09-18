@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 5968,
+  "num_followers": 5978,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDNjNTEzN2Y5YjJkZjFlYjFkM2NjZmQ3ODFiM2IxOTczNGYzOTEz",
+  "snapshot_id": "MCwxOGU2MmVmZGJiZmY2ZWI2N2EwZDljYjc4OTYwNDcyNDY5YjYyNWMy",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "In Arboreal Whispering",
+        "url": "https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s"
+      },
+      "artists": [
+        {
+          "name": "Hakobune",
+          "url": "https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161"
+        }
+      ],
+      "duration_ms": 249159,
+      "name": "Intransigence",
+      "url": "https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 220800,
       "name": "Terrazzo",
       "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "In Arboreal Whispering",
-        "url": "https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s"
-      },
-      "artists": [
-        {
-          "name": "Hakobune",
-          "url": "https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161"
-        }
-      ],
-      "duration_ms": 249159,
-      "name": "Intransigence",
-      "url": "https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Sea Island",
-        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
+        "name": "Narkopop",
+        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
       },
       "artists": [
         {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
         }
       ],
-      "duration_ms": 371480,
-      "name": "Holding Pattern",
-      "url": "https://open.spotify.com/track/565i055O62arjZp2Z3yJed"
+      "duration_ms": 292333,
+      "name": "Narkopop 1",
+      "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Narkopop",
-        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+        "name": "Sea Island",
+        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
       },
       "artists": [
         {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 292333,
-      "name": "Narkopop 1",
-      "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
+      "duration_ms": 371480,
+      "name": "Holding Pattern",
+      "url": "https://open.spotify.com/track/565i055O62arjZp2Z3yJed"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "The Best Driving Music in the World Ever",
+        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
+      },
+      "artists": [
+        {
+          "name": "Sean Curtis Patrick",
+          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
+        }
+      ],
+      "duration_ms": 250341,
+      "name": "We Search for the Lights",
+      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 435722,
       "name": "Eye on the Sparrow",
       "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "The Best Driving Music in the World Ever",
-        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
-      },
-      "artists": [
-        {
-          "name": "Sean Curtis Patrick",
-          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
-        }
-      ],
-      "duration_ms": 250341,
-      "name": "We Search for the Lights",
-      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Breaks My Heart Each Time",
+        "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
+      },
+      "artists": [
+        {
+          "name": "Leyland Kirby",
+          "url": "https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC"
+        }
+      ],
+      "duration_ms": 558877,
+      "name": "Diminishing Emotion",
+      "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Glider 10: Reworks",
         "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
@@ -1555,34 +1571,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Breaks My Heart Each Time",
-        "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
+        "name": "Similes",
+        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
       },
       "artists": [
         {
-          "name": "Leyland Kirby",
-          "url": "https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 558877,
-      "name": "Diminishing Emotion",
-      "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "We Will Always Be",
-        "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
-      },
-      "artists": [
-        {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
-        }
-      ],
-      "duration_ms": 364253,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
+      "duration_ms": 209560,
+      "name": "Nightmare 5",
+      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1603,38 +1603,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Similes",
-        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
+        "name": "We Will Always Be",
+        "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
         }
       ],
-      "duration_ms": 209560,
-      "name": "Nightmare 5",
-      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Glider 10: Reworks",
-        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        },
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 348750,
-      "name": "Further Away - Beno\u00eet Pioulard Rework",
-      "url": "https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw"
+      "duration_ms": 364253,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1699,6 +1679,26 @@
       "duration_ms": 490500,
       "name": "Luotasi",
       "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Glider 10: Reworks",
+        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        },
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 348750,
+      "name": "Further Away - Beno\u00eet Pioulard Rework",
+      "url": "https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw"
     },
     {
       "added_at": "2023-06-07 15:21:34",

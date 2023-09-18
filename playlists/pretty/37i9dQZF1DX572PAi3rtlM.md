@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > Fading into an Italian night with GCDS’s SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Giuliano Calza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,304 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,302 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 10 | [A Funky Space Reincarnation](https://open.spotify.com/track/6X6NFe1YgFCXPiMozNSPzL) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Here, My Dear](https://open.spotify.com/album/1iVf41qWHZsAk9DwY43WnV) | 8:18 |
 | 11 | [Crickets Sing For Anamaria](https://open.spotify.com/track/1bmwZtHfRTuS4JjAf2cVj8) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Samba '68](https://open.spotify.com/album/19WrrsIWF3vAOqk24ovaU7) | 2:09 |
 | 12 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
-| 13 | [Black Magic](https://open.spotify.com/track/4OxoaHUJOSf9lB9d3NkFxX) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Brilliant Astrud Gilberto](https://open.spotify.com/album/0oWOstwe9AAcDR7CnRV0kW) | 3:04 |
+| 13 | [Black Magic](https://open.spotify.com/track/3zfQ6WNptGdbZce4uSvW76) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl From Ipanema](https://open.spotify.com/album/5WqxSD9v6z4uhK0rbFplwM) | 3:06 |
 | 14 | [Giu la testa](https://open.spotify.com/track/5ynvpd02iaUBO9aE2dguwx) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Ennio Morricone: Fotogramma per fotogramma, Vol\. 1](https://open.spotify.com/album/3wmsxO4OTdtmLFTOhCzbOL) | 4:18 |
 | 15 | [Rimmel](https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Rimmel](https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K) | 3:40 |
 | 16 | [Tutt'al più](https://open.spotify.com/track/7hX0TXXvpsJMrt5x7iEDFt) | [Patty Pravo](https://open.spotify.com/artist/2Yi5fknmHBqqKjHF6cXQyh) | [Patty Pravo](https://open.spotify.com/album/20auMhQ5nMf86H8JBpp4hV) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [These Are Just Places To Me Now](https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Drugs](https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms) | 7:01 |
 | 50 | [Puccini: Madama Butterfly, Act 2: "Un bel dì vedremo" \(Butterfly\)](https://open.spotify.com/track/3hpJpleLIWeUSYGcbbTQuj) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY), [Orchestra Del Teatro Alla Scala, Milano](https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57) | [Pure \- Maria Callas](https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO) | 4:46 |
 
-Snapshot ID: `MCw5MDY5MWEyMDdlOGY1NzZlMzcxZDk2MjMwMzg5NjFlZDQ1M2M2YzU3`
+Snapshot ID: `MCxjNWJhYzgyM2ZiOTdmMzkzYzkyYzE4ZjdhNGZiOTljNmM2MmVkNThk`

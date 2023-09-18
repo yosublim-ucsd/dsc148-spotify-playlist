@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Corey Taylor
 
-938 songs - 2 day 8 hr 12 min
+939 songs - 2 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,8 @@
 | [Last Man Standing](https://open.spotify.com/track/2wf0dt4xapeHtfUyizyQqQ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 4:27 | 2022-06-10 | 2022-08-13 |
 | [Last Resort \- Reimagined](https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Last Resort \(Reimagined\)](https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA) | 4:43 | 2023-07-28 |  |
 | [Last Surrender \- Remix](https://open.spotify.com/track/0ra2KCgDiSY0CgyWCabOWL) | [Reach NYC](https://open.spotify.com/artist/3rkU2OpZ256eMkAzNOkz5x), [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Last Surrender \(Remix\)](https://open.spotify.com/album/1Y04xAVlXEoNSlWdrdz7Fz) | 3:44 | 2021-10-29 | 2022-06-11 |
-| [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-26 |  |
+| [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-26 | 2023-09-18 |
+| [Last Word](https://open.spotify.com/track/0e0SA8QXA85qkGhLPOD0Rr) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE](https://open.spotify.com/album/0i8uUVKFN0p4fYDXs4nJV6) | 6:17 | 2023-09-15 |  |
 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 | 2022-07-29 | 2022-12-03 |
 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 | 2023-04-28 |  |
 | [Leech](https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Leech](https://open.spotify.com/album/4xnqnQAzwMK6gZsuPTojvU) | 3:50 | 2022-05-27 | 2022-07-09 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PP Krit
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,010 likes - 65 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,146 likes - 65 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [แป๊บนึง \(Can you stay?\)](https://open.spotify.com/track/50xCjuk6rUUXNwqC6bQlrV) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [แป๊บนึง \(Can you stay?\)](https://open.spotify.com/album/0vxLkG4IVsAQ7lU05QXRXA) | 3:37 |
-| 2 | [รักแรก \(First Love\) \- เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 |
-| 3 | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/track/7kYkOkwL7644XyOdjQ9zo5) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/album/26LY4e9rP1alRPyBwokxsW) | 3:31 |
+| 1 | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/track/7kYkOkwL7644XyOdjQ9zo5) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/album/26LY4e9rP1alRPyBwokxsW) | 3:31 |
+| 2 | [แป๊บนึง \(Can you stay?\)](https://open.spotify.com/track/50xCjuk6rUUXNwqC6bQlrV) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [แป๊บนึง \(Can you stay?\)](https://open.spotify.com/album/0vxLkG4IVsAQ7lU05QXRXA) | 3:37 |
+| 3 | [รักแรก \(First Love\) \- เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 |
 | 4 | [จำลอง](https://open.spotify.com/track/5mCDuTHo8As0AOttQZ6WKS) | [War Wanarat](https://open.spotify.com/artist/3jDWLrSLvyA7MpfA4DshiJ), [FHERO](https://open.spotify.com/artist/71YhEh6Jh1Y7N0hkTMOGpY) | [จำลอง](https://open.spotify.com/album/6vMcdxVF7R6GRNc48CwZur) | 4:18 |
 | 5 | [FORGET ME NOT](https://open.spotify.com/track/0VSqxk67oPYJAhiIXzW3KP) | [789SURVIVAL](https://open.spotify.com/artist/1SiMn1cDMZKmUO06X97vcj) | [FORGET ME NOT](https://open.spotify.com/album/3OIxHqzWClDjH8obB1Jkn2) | 4:03 |
 | 6 | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/track/6PbJuaeCtJpL52FJ55qdbq) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/album/2qk72LxifhUXZkIhDXGm3z) | 3:17 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 |
 | 65 | [ฉันจะฉาปเธอ \- Curse](https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ฉันจะฉาปเธอ \(Curse\)](https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP) | 3:17 |
 
-Snapshot ID: `MCwwNTIzYzRhNzM2NTBjN2IyMTJiNGVhNmJmMzA3MDEzNzU2ZGZiNzc3`
+Snapshot ID: `MCw0ZjE3M2EwZjQ1YmVmN2E0MTVhNmJhNmVmZjI0MDA5YjVmMWM3NTNh`

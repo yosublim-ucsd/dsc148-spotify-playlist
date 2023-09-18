@@ -16283,6 +16283,24 @@
     },
     {
       "album": {
+        "name": "Matkalla (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/3kmc1mFwMHNqD2fTVmi0lg"
+      },
+      "artists": [
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210481,
+      "name": "Matkalla (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+      "url": "https://open.spotify.com/track/7y02QzrZEpEgvSngRB6Xhy"
+    },
+    {
+      "album": {
         "name": "20 Suosikkia",
         "url": "https://open.spotify.com/album/487ykGqsbTkMF89rCgPCIK"
       },
@@ -17958,7 +17976,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 297733,
       "name": "Muistipalatsi",
       "url": "https://open.spotify.com/track/3GqvZPF0tXR0N0rO4QrvUg"
@@ -19862,7 +19880,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
@@ -25990,6 +26008,24 @@
       "duration_ms": 222080,
       "name": "S\u00e4rkyneiden syd\u00e4nten tie (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/4yux0gIaonhsxMuLFkKten"
+    },
+    {
+      "album": {
+        "name": "S\u00e4\u00e4nn\u00f6t rakkaudelle (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/5YzOea3Yyuyo0e39J9OpSf"
+      },
+      "artists": [
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234047,
+      "name": "S\u00e4\u00e4nn\u00f6t rakkaudelle - Vain el\u00e4m\u00e4\u00e4 kausi 14",
+      "url": "https://open.spotify.com/track/0sRXLuiw1ir0OT0Ll3QUvd"
     },
     {
       "album": {

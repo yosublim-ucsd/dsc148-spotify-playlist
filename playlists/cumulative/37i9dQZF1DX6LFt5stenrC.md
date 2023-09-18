@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-129 songs - 3 hr 28 min
+130 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [PAW Patrol Opening Theme](https://open.spotify.com/track/7n70tzvZDfdAL1j9XqsAbH) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf) | 0:40 | 2022-04-15 | 2022-10-14 |
 | [Peg + Cat Theme Song](https://open.spotify.com/track/6SCFhlq74iw2cWM8uum68K) | [Peg + Cat](https://open.spotify.com/artist/4MP5AtPZsXVLJJUm4wvTdE) | [Really Big Album](https://open.spotify.com/album/5nJQTGCwiqzwe1BeQKqO7s) | 0:41 | 2022-04-15 | 2022-07-29 |
 | [Pete The Cat Theme \(feat\. Elvis Costello\)](https://open.spotify.com/track/2fcpeIoCs3pVmYzexXAnIk) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 0:45 | 2022-04-15 |  |
+| [PJ Masks Are Feeling Great](https://open.spotify.com/track/4uRKDEZpDAPvPOAp4v9RG7) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/6y77mrn553xhcbN9Po2XCv) | 1:00 | 2023-01-27 |  |
 | [PJ Masks Are Feeling Great](https://open.spotify.com/track/2tOQWE0pK4uXeVFrjOELAW) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR) | 1:01 | 2022-04-15 | 2023-09-01 |
 | [PJ Masks Are Feeling Great](https://open.spotify.com/track/5tdafRy5LkmvdMYmLHMMha) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/2bK91wL7wsGgJJ7uD6XFYo) | 1:01 | 2022-04-15 | 2022-07-29 |
 | [PJ Masks Theme Song](https://open.spotify.com/track/48emG1wqFrLLmCPOypUbhX) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/2bK91wL7wsGgJJ7uD6XFYo) | 0:40 | 2022-04-15 | 2022-07-29 |
@@ -133,7 +134,7 @@
 | [We Can Do Anything](https://open.spotify.com/track/73Ojnsw96g1OLVgHhJWsIf) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF) | [Summer Games Superstars](https://open.spotify.com/album/2MCnAy0jbVZxosjGKiZxXE) | 4:23 | 2022-04-15 | 2022-07-28 |
 | [We'll Be There \(feat\. Estelle\) \- Abridged](https://open.spotify.com/track/5ReWFL8seqxe7srGAVGg7c) | [We Bare Bears](https://open.spotify.com/artist/066zVE8xqc3ldDSG5vpBJp), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [We Bare Bears \(Original Television Soundtrack\)](https://open.spotify.com/album/22ojb1v7yqhBOAaZgfTyml) | 0:20 | 2022-04-15 | 2022-07-28 |
 | [We're on the Case](https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 0:34 | 2022-04-15 | 2023-04-11 |
-| [Welcome to Amphibia \- From "Amphibia"](https://open.spotify.com/track/06xeAis34bbhcIYdwNQ28t) | [Celica Gray](https://open.spotify.com/artist/6gN0dbL3m72tw4Yb46incI) | [Welcome to Amphibia \(From "Amphibia"\)](https://open.spotify.com/album/2F9GxgXwUudEkdp5v2gE3b) | 0:43 | 2022-04-15 |  |
+| [Welcome to Amphibia \- From "Amphibia"](https://open.spotify.com/track/06xeAis34bbhcIYdwNQ28t) | [Celica Gray](https://open.spotify.com/artist/6gN0dbL3m72tw4Yb46incI) | [Welcome to Amphibia \(From "Amphibia"\)](https://open.spotify.com/album/2F9GxgXwUudEkdp5v2gE3b) | 0:43 | 2022-04-15 | 2023-09-18 |
 | [Welcome To Karma's World](https://open.spotify.com/track/1AP554izviISI1m6Yb7O0o) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Welcome To Karma's World](https://open.spotify.com/album/6afrouyfY9xZUlrSavHY57) | 2:45 | 2022-04-15 | 2022-07-28 |
 | [Yo Gabba Gabba! Theme](https://open.spotify.com/track/5igejF6xpeDEAHwBduuyxB) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 0:55 | 2022-04-15 | 2022-07-29 |
 | [Young Dylan Theme Song](https://open.spotify.com/track/6hTzOj7DEUgsVP0HOp73qc) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [Tyler Perry's Young Dylan](https://open.spotify.com/artist/0kvZqeOHqGNMGKFlFAKTbZ), [Dylan Gilmer](https://open.spotify.com/artist/5ew4AX9sIvxR96LQcBwNGu) | [Nickelodeon's Mega Music Fest Album](https://open.spotify.com/album/1yeIcnhsGdCpj1jb8cJqgI) | 2:12 | 2022-04-15 | 2022-07-28 |

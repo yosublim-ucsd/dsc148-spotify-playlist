@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Awexa\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,452 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,444 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 20 | [Anónima](https://open.spotify.com/track/3mwhbf8aypMYfjfsIdVw5B) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Anónima](https://open.spotify.com/album/3AOroc2h1q3VAJz7Kbi7R7) | 4:37 |
 | 21 | [Recordar es detener el tiempo con imágenes que se borran y se inventan](https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW) | [Azain](https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8) | [Recordar es detener el tiempo con imágenes que se borran y se inventan](https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08) | 3:17 |
 | 22 | [A Oscuras](https://open.spotify.com/track/06y5t4RZDzeTR4oO1FSfFL) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [Ramiro Sagasti](https://open.spotify.com/artist/1Sj0iRkHTI1Z1gNSM7l4Lz) | [La Sed](https://open.spotify.com/album/5yTIFCOtnQYxnqrPFPgx4z) | 4:28 |
-| 23 | [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 |
-| 24 | [no somos nada](https://open.spotify.com/track/4QWMTNDHoVabBMu3RhUd3p) | [las estrellas fugaces nacen en saturno](https://open.spotify.com/artist/0Xo7Js5MqqGioJOwRSvE6k) | [no somos nada](https://open.spotify.com/album/1YptOavSSzLGK4LiBqdU27) | 3:59 |
-| 25 | [Tristella](https://open.spotify.com/track/1phCFLjZZi9k3fyu1nSnHH) | [Esperón](https://open.spotify.com/artist/4VD0eThiy8dR6NTT0ZulGI) | [Tristella](https://open.spotify.com/album/56w1q8N2YHIYoKruoUrAlK) | 3:58 |
-| 26 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 |
+| 23 | [Tristella](https://open.spotify.com/track/1phCFLjZZi9k3fyu1nSnHH) | [Esperón](https://open.spotify.com/artist/4VD0eThiy8dR6NTT0ZulGI) | [Tristella](https://open.spotify.com/album/56w1q8N2YHIYoKruoUrAlK) | 3:58 |
+| 24 | [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 |
+| 25 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 |
+| 26 | [no somos nada](https://open.spotify.com/track/4QWMTNDHoVabBMu3RhUd3p) | [las estrellas fugaces nacen en saturno](https://open.spotify.com/artist/0Xo7Js5MqqGioJOwRSvE6k) | [no somos nada](https://open.spotify.com/album/1YptOavSSzLGK4LiBqdU27) | 3:59 |
 | 27 | [YANOTAPAMI](https://open.spotify.com/track/5pBgufBR4YzppbObNhZlPv) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy) | [YANOTAPAMI](https://open.spotify.com/album/1SdTw9lD3L4fKzqyGkYlnt) | 3:07 |
-| 28 | [Te Gusta, Me Gusta](https://open.spotify.com/track/1BZZhlU3Mdab6jIMgM6gu8) | [Neysa Blay](https://open.spotify.com/artist/221r7E6QASURKauguQwGWw) | [Te Gusta, Me Gusta](https://open.spotify.com/album/6NzxWW8X0f5Eye27bOMBWB) | 3:02 |
-| 29 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
+| 28 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
+| 29 | [Te Gusta, Me Gusta](https://open.spotify.com/track/1BZZhlU3Mdab6jIMgM6gu8) | [Neysa Blay](https://open.spotify.com/artist/221r7E6QASURKauguQwGWw) | [Te Gusta, Me Gusta](https://open.spotify.com/album/6NzxWW8X0f5Eye27bOMBWB) | 3:02 |
 | 30 | [La Que Me Gusta](https://open.spotify.com/track/6bKvK0rHqyt5hoP1zwk5Sb) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [La Que Me Gusta](https://open.spotify.com/album/5y0syMqQFxOokIk906aq9r) | 3:06 |
 | 31 | [MADRID](https://open.spotify.com/track/4HAnXvCFV9RHwrxFmFH1vv) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [MADRID](https://open.spotify.com/album/5Jok2lUjxOPWG2P9G7qHnl) | 4:04 |
 | 32 | [Pulso](https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm) | [Laila Farinola](https://open.spotify.com/artist/7nWb2WA5wQLANBcbqGodwW), [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [Pulso](https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS) | 4:21 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 38 | [Maldigo a Cupido](https://open.spotify.com/track/2DRxYM1jIA39kOzOdqLTF0) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [Maldigo a Cupido](https://open.spotify.com/album/4ceWJq8vlUTdrJTlMdNJuI) | 2:56 |
 | 39 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 |
 | 40 | [Su Forma de Mirar](https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Su Forma de Mirar](https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb) | 4:50 |
-| 41 | [Tormenta Perfecta](https://open.spotify.com/track/5wjGbQFWp2EGBlJWzqu36f) | [Dr\. Tritón](https://open.spotify.com/artist/3oQhj5KP8pCIdvVEmvhZKM) | [Tormenta Perfecta](https://open.spotify.com/album/63wBeGYe3dY2rm2lCM5c72) | 3:10 |
-| 42 | [Besos Azules](https://open.spotify.com/track/7vCxPdlT8ypcsUb8E72t4l) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Besos Azules](https://open.spotify.com/album/5a9BBFMkO3QBaTzmSsC0Il) | 3:55 |
-| 43 | [Un Secreto](https://open.spotify.com/track/6DpFtcYZwHLh0Lz5WLcCIZ) | [Un Pasillo](https://open.spotify.com/artist/2RqgJvWs8T8DBZouPrOREw) | [Un Secreto](https://open.spotify.com/album/4uxwhFNLUv5vpnrohAmxl7) | 2:52 |
+| 41 | [Un Secreto](https://open.spotify.com/track/6DpFtcYZwHLh0Lz5WLcCIZ) | [Un Pasillo](https://open.spotify.com/artist/2RqgJvWs8T8DBZouPrOREw) | [Un Secreto](https://open.spotify.com/album/4uxwhFNLUv5vpnrohAmxl7) | 2:52 |
+| 42 | [Tormenta Perfecta](https://open.spotify.com/track/5wjGbQFWp2EGBlJWzqu36f) | [Dr\. Tritón](https://open.spotify.com/artist/3oQhj5KP8pCIdvVEmvhZKM) | [Tormenta Perfecta](https://open.spotify.com/album/63wBeGYe3dY2rm2lCM5c72) | 3:10 |
+| 43 | [Besos Azules](https://open.spotify.com/track/7vCxPdlT8ypcsUb8E72t4l) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Besos Azules](https://open.spotify.com/album/5a9BBFMkO3QBaTzmSsC0Il) | 3:55 |
 | 44 | [El Mismo Sol](https://open.spotify.com/track/1CWMxQdZAuaFWOX9AdYJOw) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Nuevo Mundo](https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI) | 3:27 |
 | 45 | [Desahogándome](https://open.spotify.com/track/3wnAh76ynjSkMdLbOOR1GS) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Desahogándome](https://open.spotify.com/album/4kPZW9e6uQ3eqSaTzTz0iH) | 3:54 |
 | 46 | [Justrylove](https://open.spotify.com/track/1wVp8m7avqWE0g3AiJbEn5) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Plano](https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Al Ritmo](https://open.spotify.com/track/2kDRn3PMBxZLjiOScs9W1V) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Canal 5](https://open.spotify.com/artist/5d3pCpf0PPWX3MRrDNy2qg) | [Al Ritmo \~](https://open.spotify.com/album/2X2swajnRlegWLnLs3ii5V) | 2:32 |
 | 50 | [AMOR LIBRE](https://open.spotify.com/track/61sfNTEbG2yU7YYTmUaHRs) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Metalengua](https://open.spotify.com/artist/3gIGCGSknVNY5D17w3CCqh) | [REGIO](https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw) | 3:33 |
 
-Snapshot ID: `MCw0OTI2ZmI0YmJmOTIxN2YzYTg2ZWY1NTEwMzdlMGUzZWMzMDNjM2Qz`
+Snapshot ID: `MCxlZjU4ZWQwMDllZWRiNjljMDljYjI2ZjllN2Q5NjAxMWM0YWU4MGE5`

@@ -1477,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Sick Music",
+        "url": "https://open.spotify.com/album/5XURKVwvLzvpebY0MwMYrg"
+      },
+      "artists": [
+        {
+          "name": "London Elektricity",
+          "url": "https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal"
+        },
+        {
+          "name": "Apex",
+          "url": "https://open.spotify.com/artist/7pQD0AmPKG2tkjzDauKkqq"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377840,
+      "name": "Just One Second - Apex Remix",
+      "url": "https://open.spotify.com/track/18IVOQQ6apJcij5vHgWmEz"
+    },
+    {
+      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh"
       },
@@ -1636,7 +1658,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 248228,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/1fLFDcRoJ5tDGRU8MUdYNu"

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-741 songs - 1 day 21 hr 5 min
+742 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Break the Ice](https://open.spotify.com/track/1YdFebuOulpMxNk5Ma4ozW) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Freak E Beatz](https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C) | [Break the Ice](https://open.spotify.com/album/0OhdE7TNwWkutFMi6phZtz) | 4:01 | 2022-02-04 | 2023-02-25 |
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-05-14 |
 | [Breaking Light](https://open.spotify.com/track/616t2cVL8B7jUtzxqyLRAx) | [Aurosonic](https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1), [Sharon Valerona](https://open.spotify.com/artist/5QqFl3TTNF95pndfKUr1Vb) | [Breaking Light](https://open.spotify.com/album/3qYFbXf36nY6ChDS26Q268) | 3:42 | 2022-02-18 | 2022-10-29 |
-| [Breath of Life](https://open.spotify.com/track/7pkVmfzwkugvPTNVQLQU1i) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Breath of Life](https://open.spotify.com/album/4CVY7Jj9BQDoStDHY1if64) | 3:09 | 2023-08-04 |  |
+| [Breath of Life](https://open.spotify.com/track/7pkVmfzwkugvPTNVQLQU1i) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Breath of Life](https://open.spotify.com/album/4CVY7Jj9BQDoStDHY1if64) | 3:09 | 2023-08-04 | 2023-09-18 |
 | [Breath Of The Wild](https://open.spotify.com/track/08ikdgOu28YP4bFKAq44wL) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej) | [Breath Of The Wild](https://open.spotify.com/album/5KPwjMCZyCXLWltnBnewor) | 3:30 | 2022-10-07 |  |
 | [Breathe](https://open.spotify.com/track/3W6kvOOFOe2Br9X1TCfR7G) | [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Breathe](https://open.spotify.com/album/3mhjrFINMjUNpVcNOBMFRf) | 3:43 | 2023-02-24 | 2023-06-10 |
 | [Breathing](https://open.spotify.com/track/37bZneyU8dqpl2TAiSe0pw) | [Boom Jinx](https://open.spotify.com/artist/6Qt0hC59vdinaimdZkin1Y), [Nitrous Oxide](https://open.spotify.com/artist/0UJQXkmx6GjqUxugf7zzkR), [Einar K](https://open.spotify.com/artist/3bupuvTQ70NllkKaZtwC1c), [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Breathing](https://open.spotify.com/album/2iriCUVPYMoO4w0fYz5CPH) | 3:12 | 2023-05-26 |  |
@@ -645,6 +645,7 @@
 | [Text Me](https://open.spotify.com/track/7cgYvANWUAZk2yuqtJro7w) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Text Me](https://open.spotify.com/album/234yjteEry3Y6imN8wQl1Q) | 2:35 | 2022-01-21 | 2022-07-29 |
 | [That Feeling](https://open.spotify.com/track/234GyiMYia1kR7lPPDS4Pv) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [TRAVYP](https://open.spotify.com/artist/0XsiNGxLITrNchOt9zTW99) | [That Feeling](https://open.spotify.com/album/3g5gzdOCIrCI3ghCWOyjEd) | 3:34 | 2023-08-25 |  |
 | [The Air I Breathe \- Kryder Remix](https://open.spotify.com/track/0WBy5iBMPqSDZA0EB2VLUA) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [The Air I Breathe \(Kryder Remix\)](https://open.spotify.com/album/1e4TS1TPs6uBoMbCdwHm2x) | 3:05 | 2022-03-11 | 2022-05-28 |
+| [The Awakening](https://open.spotify.com/track/4IxM0oIz7plmTiYCZZwnE3) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl) | [The Awakening](https://open.spotify.com/album/4ov64pSP0bAOAo1rhae7UJ) | 2:30 | 2023-09-15 |  |
 | [the darkness](https://open.spotify.com/track/4MEcRpmTuRdEw8bItHjWbi) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [the darkness](https://open.spotify.com/album/0OzEsyvzn31Ew9RbmuWSNK) | 2:50 | 2022-01-07 | 2022-04-16 |
 | [The Distance](https://open.spotify.com/track/4GwlgUV3WbPC7BDQn1als0) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [The Distance](https://open.spotify.com/album/6Vb47VoUdelxyuUf7uKblz) | 2:57 | 2023-03-03 | 2023-06-10 |
 | [The Door](https://open.spotify.com/track/4RoQHhHjeY5hOLakrLq1v1) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [The Door](https://open.spotify.com/album/6qYFfuTsXYPAEnYJ3TPm3D) | 3:03 | 2023-07-07 |  |

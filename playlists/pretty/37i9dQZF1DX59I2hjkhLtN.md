@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: THE F LIBRA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,959 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,971 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 8 | [Just Trynna Eat](https://open.spotify.com/track/0Gen7g1boKyiAvxcKkzFC0) | [Bala G](https://open.spotify.com/artist/3tJwY2voapChSVTQ5exFCh) | [Just Trynna Eat](https://open.spotify.com/album/4zZmZ5l2bdEHikQYm7ulYN) | 3:44 |
 | 9 | [Rosé](https://open.spotify.com/track/72bRHyV4lbyH52SoDdnESG) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Rosé](https://open.spotify.com/album/6Zx2HE5kAE5xiA5hPLbyOH) | 2:57 |
 | 10 | [Miopia](https://open.spotify.com/track/094uD2FUQ5CAJyqqIs5gdx) | [zzzcadu](https://open.spotify.com/artist/0DIehbEcFbN8eTYPa8ebEf) | [Miopia](https://open.spotify.com/album/3GGDmoL0Rhqk4KdoD9nYfu) | 2:38 |
-| 11 | [Outlaws](https://open.spotify.com/track/3eqL10wOqMkrQUlEb1bX8K) | [Black Lyrics](https://open.spotify.com/artist/73wlV7dL65MhDD3ykH5FGX), [Real GUNS](https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT) | [Outlaws](https://open.spotify.com/album/3NwY5WK2PFzJ3JiDYx5FRU) | 3:45 |
+| 11 | [Outlawz](https://open.spotify.com/track/3eqL10wOqMkrQUlEb1bX8K) | [Black Lyrics](https://open.spotify.com/artist/73wlV7dL65MhDD3ykH5FGX), [Real GUNS](https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT) | [Outlawz](https://open.spotify.com/album/3NwY5WK2PFzJ3JiDYx5FRU) | 3:45 |
 | 12 | [ilha](https://open.spotify.com/track/1DzPbtEQOJD0l4hl94T6hO) | [ifloow10k](https://open.spotify.com/artist/7jsTdkR1StdUR03rWY8gpa) | [ilha](https://open.spotify.com/album/25zvWPWpyna9Gqw709QR6F) | 2:30 |
 | 13 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 |
 | 14 | [Satisfação](https://open.spotify.com/track/3rw6iPZAjtrqFratClh771) | [Vizzy 1910](https://open.spotify.com/artist/0P0n0S4JIpef6HOwuvbER6) | [T and T](https://open.spotify.com/album/7pVzjnDpFp0NRKiqdsul8M) | 2:03 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 44 | [Nada Mais Interessa](https://open.spotify.com/track/5V6iNdPfrNkRn1IK3e5JB5) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2) | [Nada Mais Interessa](https://open.spotify.com/album/4CMlLGXMAUdsqOLWSJKkbC) | 1:51 |
 | 45 | [MY LUV](https://open.spotify.com/track/5Lt5Cf1ycEhTVTgvm5H1Da) | [Yxng Mike](https://open.spotify.com/artist/1DcVHn395OKhu2km2pEEu6) | [MY LUV](https://open.spotify.com/album/0iMknSeRnMWVU6doR0IRrp) | 2:29 |
 | 46 | [No Time](https://open.spotify.com/track/2hQ1OweM2djoEunj1j9mPX) | [Zt35](https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM) | [No Time](https://open.spotify.com/album/3sJYckxG419tIObfH0f7Mk) | 2:12 |
-| 47 | [Mandato Di Captura \(feat\. Boss Proud\)](https://open.spotify.com/track/5Rg87Evf2mySqHq6dFY9de) | [Máfia200N](https://open.spotify.com/artist/24tOhs7tfXtXhBTuzVWspw), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Dreams Chasers EP Vol.1](https://open.spotify.com/album/2m356u0GaEHrq0t5tnC3AS) | 3:08 |
+| 47 | [Mandato Di Captura](https://open.spotify.com/track/5Rg87Evf2mySqHq6dFY9de) | [Máfia200N](https://open.spotify.com/artist/24tOhs7tfXtXhBTuzVWspw), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Dreams Chasers EP Vol.1](https://open.spotify.com/album/2m356u0GaEHrq0t5tnC3AS) | 3:08 |
 | 48 | [Grana](https://open.spotify.com/track/0L3Liok2b1z26yS2u4kGCk) | [E2SON](https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs) | [Valores](https://open.spotify.com/album/4jvaYRQJ3LObu5oQ1h2v4F) | 3:12 |
 | 49 | [Minha Hora](https://open.spotify.com/track/1SkwhZcGTHDxx9eod4IyZi) | [Rez](https://open.spotify.com/artist/5zI2o9jsEmNCXWeNiSNVJl) | [Minha Hora](https://open.spotify.com/album/2EukMhhV5YukRincmVbsCP) | 2:36 |
 | 50 | [Kre Mas](https://open.spotify.com/track/4DbdyCdI0GqS8h0HFbWopw) | [Lord XIV](https://open.spotify.com/artist/5TYWbwBIIkfhJHUrYbatRF), [Dj Dadda](https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu) | [Folie à Deux](https://open.spotify.com/album/27BGwwzTWqwTJbgSbnwB57) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [100 FALHAS](https://open.spotify.com/track/2uCCLGZSppxEMjH936nwbl) | [J Puro](https://open.spotify.com/artist/0YmfUBWWHzOlG92JNsqiFl), [Manuel Bastos](https://open.spotify.com/artist/5JbZvptDWsEWaHgBe6pqhI) | [100 FALHAS](https://open.spotify.com/album/2BcvWxy4TAcXO7gaz8LReh) | 4:50 |
 | 100 | [Parque](https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c) | [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Parque](https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb) | 2:21 |
 
-Snapshot ID: `MCw0OTI3Njk4MWUzNWI2ZDFmMzQ3MDQxN2ZkZWNiYjk3MzNlZWI1YmYx`
+Snapshot ID: `MCwyMjI4MTIxN2M4Yjc1MDEzNjBhYzc0YTM2MmViM2U4OWVjZDY3YjEz`

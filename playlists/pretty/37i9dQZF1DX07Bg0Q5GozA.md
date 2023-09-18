@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: NEIL FRANCES
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,832 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,874 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 |
 | 75 | [Ether](https://open.spotify.com/track/5IyOYclKa9w9sjEeewNDmu) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Ether](https://open.spotify.com/album/2GA2x8SLtSQLz0GNiK6b5D) | 3:10 |
 
-Snapshot ID: `MCxkNDhhYWI2YjU5NjA0Nzc4ZjE5ZDhjYzljNjAxYWMwMjIzNmNjNWZi`
+Snapshot ID: `MCxjZjBhMWQ0NDgzOWM4YTE0MTg3ZTBkNTE0NDg1MTg1NGRkY2FjMjI1`

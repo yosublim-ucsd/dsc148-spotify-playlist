@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: GIMS, Maluma
 
-2,046 songs - 4 day 13 hr 20 min
+2,047 songs - 4 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Anunnaki](https://open.spotify.com/track/5dfgX2GxEMQsGycPvjxhdP) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Anunnaki](https://open.spotify.com/album/3sBYDqg8lIbOOC3WQTXk8d) | 3:22 | 2022-01-07 | 2022-01-22 |
 | [Aphélie](https://open.spotify.com/track/1oyFzGMjJWnAsg9yC5u1GO) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Aphélie](https://open.spotify.com/album/0Ioq2Js5cjVVRR9jytXRRr) | 4:24 | 2022-03-25 | 2022-04-02 |
 | [Apparaît](https://open.spotify.com/track/3GS2743jHrfQlA37gOVsmd) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [JPS](https://open.spotify.com/artist/0tziQnn4fmfk5ReISVIJEN) | [Apparaît](https://open.spotify.com/album/6WrLK9v2g0Ggzqy5h00vpe) | 4:11 | 2022-09-23 | 2022-10-01 |
+| [Appart des Apes](https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Appart des Apes](https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw) | 2:55 | 2023-09-15 |  |
 | [Appels manqués](https://open.spotify.com/track/7rW4dUZDIWat7hGmW4JjNK) | [Jordane](https://open.spotify.com/artist/53w2o1UZ53Pc5gir1VuAa1) | [Reine de papier](https://open.spotify.com/album/7tXOmWg1UOXPcYXzmPhTB4) | 2:43 | 2022-04-22 | 2022-05-07 |
 | [Apprendre encore](https://open.spotify.com/track/726IohC36wEmCqnU3LPtQB) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:38 | 2022-02-11 | 2022-02-26 |
 | [APRÈS\-VOUS MADAME](https://open.spotify.com/track/3s7x3OMiEI7cmE8KBxIwCy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 3:37 | 2022-12-02 | 2022-12-24 |
@@ -521,7 +522,7 @@
 | [Déminer les parcours](https://open.spotify.com/track/4cb7BxGXeyNWAlj17KRhbi) | [Sébastien De Francesco](https://open.spotify.com/artist/2fi2FK4MsMHjtVlNW47LTO) | [Déminer les parcours](https://open.spotify.com/album/4bZaN0qJ6Jk55fpwqATClV) | 3:30 | 2022-04-15 | 2022-04-23 |
 | [Démons](https://open.spotify.com/track/3gAEAmxdP1GIjgQ3Zud2mE) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 4:11 | 2021-12-31 | 2022-01-22 |
 | [Démons \- live orchestral](https://open.spotify.com/track/0sGTe0XXW28rCjrsx8VrD2) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nonante\-Cinq](https://open.spotify.com/album/2kL80GlrYJfxLHLB7PMr8f) | 3:54 | 2022-03-04 | 2022-03-18 |
-| [Dénouement heureux](https://open.spotify.com/track/5zbKy1U5QmtMldEVvhuQpe) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Dénouement heureux](https://open.spotify.com/album/3xMJrYwzMPCjf5Co98wuAI) | 3:22 | 2023-09-08 |  |
+| [Dénouement heureux](https://open.spotify.com/track/5zbKy1U5QmtMldEVvhuQpe) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Dénouement heureux](https://open.spotify.com/album/3xMJrYwzMPCjf5Co98wuAI) | 3:22 | 2023-09-08 | 2023-09-18 |
 | [Dépotoir](https://open.spotify.com/track/7HabPxO3C9KQBQGEhepYNh) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Dépotoir](https://open.spotify.com/album/6kOh93M2REASQ1GF8Hbf26) | 3:13 | 2022-04-15 | 2022-04-29 |
 | [Désert](https://open.spotify.com/track/5WXSQ6fdFGybbY6ZdknoLr) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:17 | 2023-06-23 | 2023-07-25 |
 | [désert alimentaire](https://open.spotify.com/track/59TJbm04rprGfGZRSzKrse) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [désert alimentaire](https://open.spotify.com/album/7vN3Q76FIrnHxPs2DElKyk) | 3:10 | 2023-05-19 | 2023-05-27 |

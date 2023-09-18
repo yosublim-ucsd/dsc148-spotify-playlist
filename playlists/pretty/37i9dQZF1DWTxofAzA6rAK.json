@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 52262,
+  "num_followers": 52300,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTU4YzUzOGYzNDY1MzFiNzM0MTIxZTE3MzE0ZWU4MGYzNmUzNDRi",
+  "snapshot_id": "MCxlOWRkYjgzYmVlMjc1ZTQyY2Q3MzA5M2UyMmVkNDdlMmJlYjQ3MGI5",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Glock 40",
+        "url": "https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM"
+        }
+      ],
+      "duration_ms": 136323,
+      "name": "Glock 40",
+      "url": "https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "From Rags to Riches",
         "url": "https://open.spotify.com/album/6u7JQUvZJJHCKXfQd1fhPp"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 221583,
       "name": "Skeleton Cartier",
       "url": "https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Glock 40",
-        "url": "https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "Eclipse",
-          "url": "https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM"
-        }
-      ],
-      "duration_ms": 136323,
-      "name": "Glock 40",
-      "url": "https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "BOUNCE",
         "url": "https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV"
       },
@@ -939,6 +923,58 @@
       "duration_ms": 153652,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Yahoo Boyz",
+        "url": "https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        },
+        {
+          "name": "Countree Hype",
+          "url": "https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Yahoo Boyz",
+      "url": "https://open.spotify.com/track/4lE9Acw3XuiLhz32imREj4"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -963,22 +999,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/6I4pA1YFu1ujWabNzhRVUi"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 206393,
       "name": "Empty",
       "url": "https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Yahoo Boyz",
-        "url": "https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        },
-        {
-          "name": "Countree Hype",
-          "url": "https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Yahoo Boyz",
-      "url": "https://open.spotify.com/track/4lE9Acw3XuiLhz32imREj4"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Solemn Request",
+        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 186958,
+      "name": "Solemn Request",
+      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Born Fighter",
         "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 159022,
       "name": "Stay Clean",
       "url": "https://open.spotify.com/track/0uHxgbtjFtgFnvZddrENzf"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Solemn Request",
-        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 186958,
-      "name": "Solemn Request",
-      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Still a Bleed",
-        "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
+        "name": "WSTRN Season 3",
+        "url": "https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7"
       },
       "artists": [
         {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        },
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
         }
       ],
-      "duration_ms": 216528,
-      "name": "Still a Bleed",
-      "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
+      "duration_ms": 233225,
+      "name": "Influence (feat. Dexta Daps)",
+      "url": "https://open.spotify.com/track/6QC19cMrtbLNrZMH2bVl7w"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "WSTRN Season 3",
-        "url": "https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7"
+        "name": "Still a Bleed",
+        "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
       },
       "artists": [
         {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        },
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
         }
       ],
-      "duration_ms": 233225,
-      "name": "Influence (feat. Dexta Daps)",
-      "url": "https://open.spotify.com/track/6QC19cMrtbLNrZMH2bVl7w"
+      "duration_ms": 216528,
+      "name": "Still a Bleed",
+      "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6"
+        "name": "Crook",
+        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
         }
       ],
-      "duration_ms": 157628,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4"
+      "duration_ms": 245995,
+      "name": "Crook",
+      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Crook",
-        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6"
       },
       "artists": [
         {
-          "name": "Malie Donn",
-          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 245995,
-      "name": "Crook",
-      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
+      "duration_ms": 157628,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/0EYBN4HaEk22NhzIWcR9ev"
+      },
+      "artists": [
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/5FCxUX1NdOzWtCcCoq5o17"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Middle",
         "url": "https://open.spotify.com/album/0NlJ1pz17KDONwsqbubpTz"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 126315,
       "name": "Middle",
       "url": "https://open.spotify.com/track/171oqBowIpiDoow5uGqgg0"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Amiri",
-        "url": "https://open.spotify.com/album/0EYBN4HaEk22NhzIWcR9ev"
-      },
-      "artists": [
-        {
-          "name": "Kraff Gad",
-          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "Amiri",
-      "url": "https://open.spotify.com/track/5FCxUX1NdOzWtCcCoq5o17"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Bufu",
+        "url": "https://open.spotify.com/album/58QMqtTrve7tO4GlSA0Z78"
+      },
+      "artists": [
+        {
+          "name": "Boy Boy",
+          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
+        }
+      ],
+      "duration_ms": 198716,
+      "name": "Bufu",
+      "url": "https://open.spotify.com/track/3TRuO4dfXGxF6Jf80uzFH3"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "World News",
         "url": "https://open.spotify.com/album/17MvvoDeKxos5NrcDs8NvV"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 178599,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/3sP88foDNpoLlkpsaEUDJL"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Bufu",
-        "url": "https://open.spotify.com/album/58QMqtTrve7tO4GlSA0Z78"
-      },
-      "artists": [
-        {
-          "name": "Boy Boy",
-          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
-        }
-      ],
-      "duration_ms": 198716,
-      "name": "Bufu",
-      "url": "https://open.spotify.com/track/3TRuO4dfXGxF6Jf80uzFH3"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2087,26 +2087,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Crocodile Teeth LP",
-        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
+        "name": "Skeng Live Large",
+        "url": "https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ"
       },
       "artists": [
         {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+          "name": "Guhoffentertainment",
+          "url": "https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV"
         },
         {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc"
         }
       ],
-      "duration_ms": 180610,
-      "name": "Rocket Launcher (feat. Rich The Kid & Popcaan)",
-      "url": "https://open.spotify.com/track/60gXgJTs7MAxZr91ZG3dVx"
+      "duration_ms": 160313,
+      "name": "Skeng Live Large",
+      "url": "https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2127,22 +2123,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Skeng Live Large",
-        "url": "https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ"
+        "name": "Crocodile Teeth LP",
+        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
       },
       "artists": [
         {
-          "name": "Guhoffentertainment",
-          "url": "https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV"
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         },
         {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc"
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 160313,
-      "name": "Skeng Live Large",
-      "url": "https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK"
+      "duration_ms": 180610,
+      "name": "Rocket Launcher (feat. Rich The Kid & Popcaan)",
+      "url": "https://open.spotify.com/track/60gXgJTs7MAxZr91ZG3dVx"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Gal Academy",
-        "url": "https://open.spotify.com/album/6E0I4vxf0BmX4YQqthzpp6"
-      },
-      "artists": [
-        {
-          "name": "DiCelebrityy",
-          "url": "https://open.spotify.com/artist/5VEEIed5Y6YYoYN8c5pLzg"
-        },
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        }
-      ],
-      "duration_ms": 191051,
-      "name": "Gal Academy",
-      "url": "https://open.spotify.com/track/4ae1MztEbIn1ZDGnTmYD5P"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Every Gyal Want We",
         "url": "https://open.spotify.com/album/4KpYEYoNTXAlqGhFWbrw55"
       },
@@ -2263,6 +2243,26 @@
       "duration_ms": 163200,
       "name": "Every Gyal Waan We",
       "url": "https://open.spotify.com/track/7wcHrLyVTB0YhwqzRiRn8I"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Gal Academy",
+        "url": "https://open.spotify.com/album/6E0I4vxf0BmX4YQqthzpp6"
+      },
+      "artists": [
+        {
+          "name": "DiCelebrityy",
+          "url": "https://open.spotify.com/artist/5VEEIed5Y6YYoYN8c5pLzg"
+        },
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "duration_ms": 191051,
+      "name": "Gal Academy",
+      "url": "https://open.spotify.com/track/4ae1MztEbIn1ZDGnTmYD5P"
     },
     {
       "added_at": "2023-05-24 08:21:37",

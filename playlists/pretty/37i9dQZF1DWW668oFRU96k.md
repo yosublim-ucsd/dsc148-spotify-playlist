@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: San Holo
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,496 likes - 81 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,553 likes - 81 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 80 | [Moonflower](https://open.spotify.com/track/3YNBlrHJPfuSyz0EgXIv9a) | [Kanallia](https://open.spotify.com/artist/2U9oSjcKWylpCn4Xl7QuBH) | [Moonflower](https://open.spotify.com/album/4iJAAxLqSJtPqhMG1szeCi) | 2:57 |
 | 81 | [ROSE](https://open.spotify.com/track/2OvqXrPDlKFS7dgrSGCqVO) | [A17N](https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j), [Jocular ACE](https://open.spotify.com/artist/4QfFzaNoaNsazkMGZJCWwe), [Indicate](https://open.spotify.com/artist/2YYFbLg9UTXuDIRVrQvWMv) | [ROSE](https://open.spotify.com/album/2LnANAyto9AjNwZEbfQbbe) | 2:12 |
 
-Snapshot ID: `MCw5MGJjOGIyZmJlMzNjYWE5NGY2NDE1NjQzNjZjZjZlNmExYWMxNGQx`
+Snapshot ID: `MCw4ZjQwM2U1OWRjYjVjYjJjYjVjZjg4NDNkOTE1MWQ0NGZjMTIyMDA0`

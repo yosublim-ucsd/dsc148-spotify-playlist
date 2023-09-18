@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Arco.
 
-328 songs - 21 hr 21 min
+329 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Galaxia](https://open.spotify.com/track/4k2rXEST4WhABauOv6Lhbu) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Ruido de fondo](https://open.spotify.com/album/6x344jhmhatHn4Qknm8CGp) | 4:05 | 2022-07-21 | 2022-08-12 |
 | [Gotas](https://open.spotify.com/track/62gGpZumuoV79n8groGV4s) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Gotas](https://open.spotify.com/album/5poBsCI8udX6rnYxNdChAG) | 2:56 | 2022-05-19 | 2022-06-10 |
 | [Graciela \- Demo](https://open.spotify.com/track/3c06iQs7xdhzUno8EDImMW) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Extra Brut](https://open.spotify.com/album/2igu5nucdp13VGX64SBpKs) | 3:43 | 2022-10-20 | 2022-11-11 |
+| [Grillos](https://open.spotify.com/track/2zXdBlMG4D8Rkgan0I31VY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Grillos](https://open.spotify.com/album/770PGq8q5fHHzteyBqyLgE) | 3:16 | 2023-09-14 |  |
 | [Guitar Man](https://open.spotify.com/track/3g76kEmVVv7WAZGsTfLoI4) | [Alber Solo](https://open.spotify.com/artist/4NJ3LAlIdmmgop1WZ8iZxS) | [Esperando A Que Baje El Sol](https://open.spotify.com/album/4JIU95uDmBQTbdR6Dwr2jy) | 3:42 | 2022-12-01 | 2022-12-17 |
 | [Hasta que amaneciera](https://open.spotify.com/track/5Z4XEaPQqfJidWuaQfxh0j) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2) | [Hasta que amaneciera](https://open.spotify.com/album/5JE8pcfZgxn23gujCDsM4T) | 3:54 | 2023-05-25 | 2023-06-16 |
 | [Historia de dos ciudades](https://open.spotify.com/track/143bxX8ra8hQdZNVFTpGtU) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Diario de una tregua](https://open.spotify.com/album/7cmVvrFXZuMgiEakavUfQO) | 4:57 | 2022-05-19 | 2022-05-27 |
@@ -317,7 +318,7 @@
 | [Tómalo](https://open.spotify.com/track/2iNJLWve5nchk4PJZQMevq) | [O'Funk'illo](https://open.spotify.com/artist/3GaVCQ4OFLD0BdrXoCKKh8), [Cristian de Moret](https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ) | [Tómalo](https://open.spotify.com/album/60us7zkHW1FYUCy0ppS1Gz) | 3:33 | 2023-06-22 | 2023-06-30 |
 | [Tú ya lo sabes](https://open.spotify.com/track/40u2FUHUMV8oX1lifP6w49) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Tú ya lo sabes](https://open.spotify.com/album/5bWkiHpl38kYEn2a3r1peb) | 4:30 | 2022-09-08 | 2022-09-23 |
 | [Un Poco de Amor](https://open.spotify.com/track/59gm4EA48jXDNrvfDGNlj4) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Un Poco de Amor](https://open.spotify.com/album/3kZtuPCnTQAy9IgTmxqi98) | 3:24 | 2022-05-19 | 2022-06-24 |
-| [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 | 2022-05-26 |  |
+| [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 | 2022-05-26 | 2023-09-18 |
 | [Una Noche Sin Ti](https://open.spotify.com/track/3oUITstGqQVTlFyF32H1Un) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:19 | 2022-06-09 | 2022-07-13 |
 | [Urgente](https://open.spotify.com/track/6skMg3jxXmP2rYp5k7IIcY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Urgente](https://open.spotify.com/album/67ni11vAsCYVVuZgPkeigJ) | 4:19 | 2023-03-16 | 2023-03-31 |
 | [Uróboros](https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Uróboros](https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9) | 3:37 | 2023-07-13 |  |

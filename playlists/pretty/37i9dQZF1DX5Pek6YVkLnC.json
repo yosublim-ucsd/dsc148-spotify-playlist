@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228885,
+  "num_followers": 228905,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDA1ODJiNTlkN2I0NWU0MDk0OGU3YWUyNzIxMzE3NmI0NTA5ZWUx",
+  "snapshot_id": "MCwxZThkMjJlZmY2ZGYxZjg2NDE3OGU0NDdmMmYyMGUyMGNiZmU1ZDRj",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "TAN CAGAU",
+        "url": "https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "TAN CAGAU",
+      "url": "https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Porche Carrera",
         "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 188737,
       "name": "Porche Carrera",
       "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "TAN CAGAU",
-        "url": "https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv"
-      },
-      "artists": [
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "TAN CAGAU",
-      "url": "https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Right Thru",
+        "url": "https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Right Thru",
+      "url": "https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Mi Vicio (Remix)",
         "url": "https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 284285,
       "name": "Mi Vicio - Remix",
       "url": "https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Right Thru",
-        "url": "https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Right Thru",
-      "url": "https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        }
+      ],
+      "duration_ms": 191891,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Scarface Sin Manolo",
         "url": "https://open.spotify.com/album/5X5ZFAlfi5LqIoI7KWkSem"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 209117,
       "name": "Scarface Sin Manolo",
       "url": "https://open.spotify.com/track/2QG15gotHbUzTzNfnekxWs"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 191891,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Tengo Un Draco",
-        "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Tengo Un Draco",
-      "url": "https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 225000,
       "name": "Problema",
       "url": "https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Tengo Un Draco",
+        "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Tengo Un Draco",
+      "url": "https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE"
     },
     {
       "added_at": "2023-06-09 20:20:12",

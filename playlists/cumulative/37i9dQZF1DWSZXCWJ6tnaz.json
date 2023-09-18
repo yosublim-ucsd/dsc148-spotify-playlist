@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Bridge To The Other Side - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/4Um308rYZzuxpI88oynvTT"
+      },
+      "artists": [
+        {
+          "name": "Adrian Walther",
+          "url": "https://open.spotify.com/artist/1JTRiqIZM2aTYirDud2CoY"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297500,
+      "name": "Woven",
+      "url": "https://open.spotify.com/track/3fgpPsyzcESCJBDh16UJle"
+    },
+    {
+      "album": {
         "name": "Spun from Reverence",
         "url": "https://open.spotify.com/album/6jgOizURcTyaHQPZk6jH3u"
       },
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 297500,
       "name": "Woven",
       "url": "https://open.spotify.com/track/20Q7fB2oTV89FxFz7I3oVg"

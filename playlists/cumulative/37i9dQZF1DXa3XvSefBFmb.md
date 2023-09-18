@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Cláudia Pascoal, com o volume no máximo.
 
-573 songs - 1 day 7 hr 55 min
+574 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Cura](https://open.spotify.com/track/65qS9nnzZApHbaXmgfRdIy) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Cura](https://open.spotify.com/album/3hQvIFMzmbiWE2RvX8Fu3F) | 2:47 | 2022-07-05 | 2022-09-07 |
 | [Cópia Pirata](https://open.spotify.com/track/6FO8YL7QPGweEmcOozaJLV) | [Catarina Munhá](https://open.spotify.com/artist/5A5MBjfgvMfWh90dIlllA8) | [Cópia Pirata](https://open.spotify.com/album/3yA4LzrRpNwoMOVSDuyCua) | 3:39 | 2022-04-05 | 2022-07-06 |
 | [Da Vida Quero Os Sinais](https://open.spotify.com/track/5pC2Mt0ISrhj5ZVu2z477P) | [Mísia](https://open.spotify.com/artist/0YJLjcCzXjIoXUwcBfLODJ) | [Da Vida Quero Os Sinais](https://open.spotify.com/album/3DugiQbI82e7PM0QtRgjst) | 4:26 | 2022-04-05 | 2022-05-04 |
-| [DAAGH](https://open.spotify.com/track/10weSdyC45cfc5xxRlOwuu) | [Bahram](https://open.spotify.com/artist/57LWeRc7ybAWTsS2vS1GA7), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DAAGH](https://open.spotify.com/album/12jsx0WJneuLYmHi60Wyks) | 2:30 | 2023-09-05 |  |
+| [Daagh](https://open.spotify.com/track/3EC3ruwTeZIaHZ13I4vDwa) | [Bahram](https://open.spotify.com/artist/5DiUVE6yVKgshof299nuNS) | [Daagh](https://open.spotify.com/album/5THwrvVsLoFhXJCBiBZetw) | 2:30 | 2023-09-05 |  |
+| [DAAGH](https://open.spotify.com/track/10weSdyC45cfc5xxRlOwuu) | [Bahram](https://open.spotify.com/artist/57LWeRc7ybAWTsS2vS1GA7), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DAAGH](https://open.spotify.com/album/12jsx0WJneuLYmHi60Wyks) | 2:30 | 2023-09-05 | 2023-09-18 |
 | [Dantes](https://open.spotify.com/track/3I6w8DimxdMr9ovdZUgNAS) | [Marta Dias](https://open.spotify.com/artist/6scezziTZMaFJjThbtt8Oj), [Ana Vieira](https://open.spotify.com/artist/4TjYXzr3YwvqfsJsO53WW5) | [Dantes](https://open.spotify.com/album/242HUA0L6Ynz35pm1g1opB) | 2:31 | 2021-12-08 | 2022-02-02 |
 | [Dança](https://open.spotify.com/track/1vLcGFGIlnWvgaOwzvZa92) | [Constança Quinteiro](https://open.spotify.com/artist/4BklsgbRXLBkddcA93W1DZ) | [Aventurina](https://open.spotify.com/album/7uWxR1fQ2MfcXt7hGWop0m) | 3:38 | 2021-12-08 | 2022-01-05 |
 | [dança da mudança](https://open.spotify.com/track/0i4sAFCLI1ewNz6gAtt9kk) | [EVAYA](https://open.spotify.com/artist/3QH6q9XnQDc8zXKJubY7FP) | [dança da mudança](https://open.spotify.com/album/7CWpgwGed4Rxo7c8awFXoU) | 3:42 | 2023-07-04 |  |

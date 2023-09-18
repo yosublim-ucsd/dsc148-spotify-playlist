@@ -604,7 +604,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 288000,
       "name": "Castle In The Sky",
       "url": "https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL"
@@ -760,6 +760,24 @@
       "duration_ms": 195421,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1"
+    },
+    {
+      "album": {
+        "name": "Cool Kids",
+        "url": "https://open.spotify.com/album/5Fzma3FmQTk5gzE2S7ixv7"
+      },
+      "artists": [
+        {
+          "name": "Kayan",
+          "url": "https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/02xEsJ0ynw9UuAHWluiaPd"
     },
     {
       "album": {
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 208535,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi"
@@ -4320,7 +4338,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 151531,
       "name": "Unicorn and the Sheep",
       "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"

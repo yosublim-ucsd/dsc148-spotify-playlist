@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 56436,
+  "num_followers": 56606,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWEyNjAwZWQ0ZjZkNzUxNDgyYTZiZDFlZWJiYTlmNTM3NDg5MzIz",
+  "snapshot_id": "MCxlZWEyOWE3ODQyODU0YjgyMTAxNTM2M2Q1NWZkZmM2ZjkzZTMzNGIy",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Jongens van de straat",
         "url": "https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 202571,
       "name": "Jongens van de straat",
       "url": "https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Adrenaline (Never Surrender Remix)",
-        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
-      },
-      "artists": [
-        {
-          "name": "Neophyte Records All Stars",
-          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Adrenaline - Never Surrender Remix",
-      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 294600,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Adrenaline (Never Surrender Remix)",
+        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
+      },
+      "artists": [
+        {
+          "name": "Neophyte Records All Stars",
+          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Adrenaline - Never Surrender Remix",
+      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Ruthless For Life",
-        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
-      },
-      "artists": [
-        {
-          "name": "Chaos Project",
-          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "Ruthless For Life",
-      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Ride With Me",
         "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 237818,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Ruthless For Life",
+        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
+      },
+      "artists": [
+        {
+          "name": "Chaos Project",
+          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Ruthless For Life",
+      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
     },
     {
       "added_at": "2023-09-14 22:00:00",

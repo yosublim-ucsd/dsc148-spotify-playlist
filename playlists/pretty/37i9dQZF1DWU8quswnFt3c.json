@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Shakira",
-  "num_followers": 920137,
+  "num_followers": 920096,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjU0ZjlkN2JlY2M5ZmE3NDdiZmRmNmE3OGMwMmUyYjFjODhhZDkz",
+  "snapshot_id": "MCwyZTg2YmQ5MmRjNzY1ODJlZGY2MGIwYmFjZDg2NTk3ZTZiZTY2MmIy",
   "tracks": [
     {
       "added_at": "2023-09-06 04:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "befriending my tears",
-        "url": "https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn"
-      },
-      "artists": [
-        {
-          "name": "Clara Benin",
-          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
-        }
-      ],
-      "duration_ms": 195130,
-      "name": "imposter syndrome",
-      "url": "https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "MARIA PRZED O\u0141TARZEM",
         "url": "https://open.spotify.com/album/0UyyV7i0FJmHgD06VwtYAR"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 180057,
       "name": "MARIA PRZED O\u0141TARZEM",
       "url": "https://open.spotify.com/track/5sobLosz9Iylv99EoX6759"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "befriending my tears",
+        "url": "https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn"
+      },
+      "artists": [
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "duration_ms": 195130,
+      "name": "imposter syndrome",
+      "url": "https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Mummy (Please Stay)",
-        "url": "https://open.spotify.com/album/0ipXf0pCC9qEJVuVbrU5u0"
-      },
-      "artists": [
-        {
-          "name": "Talitha.",
-          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
-        }
-      ],
-      "duration_ms": 224449,
-      "name": "Mummy (Please Stay)",
-      "url": "https://open.spotify.com/track/0g7zNQmADaO6uNPNsCJPRw"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Flori de mai",
         "url": "https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 177391,
       "name": "Flori de mai",
       "url": "https://open.spotify.com/track/2Kr1NC1Qs9AzmpFeYFLinJ"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Mummy (Please Stay)",
+        "url": "https://open.spotify.com/album/0ipXf0pCC9qEJVuVbrU5u0"
+      },
+      "artists": [
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        }
+      ],
+      "duration_ms": 224449,
+      "name": "Mummy (Please Stay)",
+      "url": "https://open.spotify.com/track/0g7zNQmADaO6uNPNsCJPRw"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Alles Weggegeven",
-        "url": "https://open.spotify.com/album/1Rt0CA8bfzHQbGYGUMplwp"
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
       },
       "artists": [
         {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
         }
       ],
-      "duration_ms": 245159,
-      "name": "Alles Weggegeven",
-      "url": "https://open.spotify.com/track/25J6xA9QCLjqN2QdTlOGD1"
+      "duration_ms": 188149,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
+        "name": "Alles Weggegeven",
+        "url": "https://open.spotify.com/album/1Rt0CA8bfzHQbGYGUMplwp"
       },
       "artists": [
         {
-          "name": "Jem Cassar-Daley",
-          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
         }
       ],
-      "duration_ms": 188149,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
+      "duration_ms": 245159,
+      "name": "Alles Weggegeven",
+      "url": "https://open.spotify.com/track/25J6xA9QCLjqN2QdTlOGD1"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Luna En Venus",
-      "url": "https://open.spotify.com/track/50QAlu1w0VfErjyQjDEgBC"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Ahora Vienes A Llorar",
         "url": "https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 182282,
       "name": "Ahora Vienes A Llorar",
       "url": "https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Luna En Venus",
+      "url": "https://open.spotify.com/track/50QAlu1w0VfErjyQjDEgBC"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
+        "name": "Look at Her",
+        "url": "https://open.spotify.com/album/39kVGduCr5oSqwFJ5rFkSi"
+      },
+      "artists": [
+        {
+          "name": "Nqobil\u00e9",
+          "url": "https://open.spotify.com/artist/2tosc2NIcCcBk7xHWKaM4V"
+        }
+      ],
+      "duration_ms": 166217,
+      "name": "Look at Her",
+      "url": "https://open.spotify.com/track/1aFDhoY7njfcASKfeD6KGf"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
         "name": "LIVE ARCHIVE",
         "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 242256,
       "name": "Pink Matter - Live",
       "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
-        "name": "Look at Her",
-        "url": "https://open.spotify.com/album/39kVGduCr5oSqwFJ5rFkSi"
-      },
-      "artists": [
-        {
-          "name": "Nqobil\u00e9",
-          "url": "https://open.spotify.com/artist/2tosc2NIcCcBk7xHWKaM4V"
-        }
-      ],
-      "duration_ms": 166217,
-      "name": "Look at Her",
-      "url": "https://open.spotify.com/track/1aFDhoY7njfcASKfeD6KGf"
     },
     {
       "added_at": "2023-09-06 04:00:00",

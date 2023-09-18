@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Becky G en portada.
 
-300 songs - 16 hr 1 min
+301 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Antes De Llamarme](https://open.spotify.com/track/4ZPyBJfE4ICPFMxDKvLIAx) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Antes De Llamarte](https://open.spotify.com/album/7a5RxaCPugv9C25CytE9e8) | 2:38 | 2023-01-13 | 2023-02-14 |
 | [Aplaca Tus Berrinches](https://open.spotify.com/track/7pNp2nI4VFoEGxWQqSDL8e) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Aplaca Tus Berrinches](https://open.spotify.com/album/66FijRk3dAcaEUv9gdFrjr) | 3:12 | 2022-09-23 | 2022-12-03 |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-08-03 |  |
-| [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 | 2021-12-27 |  |
+| [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 | 2021-12-27 | 2023-09-18 |
 | [Así Soy Yo](https://open.spotify.com/track/1Nm7M7ZUO0HW63oF7HfTQv) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Así Soy Yo](https://open.spotify.com/album/179OE8qVRwDBrc5WZheE2W) | 2:54 | 2022-09-23 | 2022-11-14 |
 | [Aunque No Te Pueda Ver](https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Aunque No Te Pueda Ver](https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0) | 2:48 | 2023-07-14 |  |
 | [Aún Sigo Yo](https://open.spotify.com/track/0MszENtGxtgLfEKvIMk83P) | [Julio Yael](https://open.spotify.com/artist/1BQuC7A1Kcos9WZkOPIO4w) | [Aún Sigo Yo](https://open.spotify.com/album/7hBhWbJ6gchknTGVZ9XsJY) | 3:20 | 2022-04-01 | 2022-07-23 |
@@ -136,6 +136,7 @@
 | [Fuera De Servicio](https://open.spotify.com/track/2252ukIJHzlAv9VuJLjY53) | [Hugo Cesar](https://open.spotify.com/artist/3U67RcLV2FxtknAMdsnGuq), [Humilde Imperio](https://open.spotify.com/artist/58QNGapT6WC2fGWXvUuRqa) | [Fuera De Servicio x El Padre de Toda La Bola](https://open.spotify.com/album/2xsXCc4xPoR2QKMyBcsnke) | 2:58 | 2022-07-01 | 2022-07-29 |
 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 | 2023-01-27 |  |
 | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg) | 2:40 | 2022-07-01 | 2023-01-21 |
+| [GPI](https://open.spotify.com/track/2kDAwCfoTqKQePz2ZZEGdm) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [GPI](https://open.spotify.com/album/0zpMM4CQ8CDMxga0oHXrus) | 2:43 | 2023-09-15 |  |
 | [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/2kLeMNfph8mO99WZl9qikK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Hasta el Día de Hoy \(En Vivo\)](https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5) | 3:42 | 2023-05-24 |  |
 | [Heisenbern](https://open.spotify.com/track/6xA4c9bG8Eqrzf8rT167Ai) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Heisenbern](https://open.spotify.com/album/7zmMr2oxWs6WCWUtncO64t) | 3:09 | 2023-09-15 |  |
 | [Hoy A Festejar](https://open.spotify.com/track/0mCsvOQbv1ikYEMpITNSeB) | [Grupo Los Caballeros](https://open.spotify.com/artist/5Nyw7PGLzZg1zOMUgstdWI) | [Hoy A Festejar](https://open.spotify.com/album/20EIRyJST9PtcOgHwAZDiF) | 2:49 | 2022-07-01 | 2022-07-13 |

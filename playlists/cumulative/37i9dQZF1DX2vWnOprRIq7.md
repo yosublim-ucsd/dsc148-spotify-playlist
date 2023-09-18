@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Laika Perra Rusa.
 
-189 songs - 11 hr 25 min
+190 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [NO TE KIERO OLVIDAR](https://open.spotify.com/track/5TN61Kn0bOxKKVYOGH5BuX) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:28 | 2023-03-17 |  |
 | [No te sueltes](https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD) | [André Ubilla](https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN), [Felicia Morales](https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC) | [No te sueltes](https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36) | 3:45 | 2023-06-23 |  |
 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 | 2023-03-17 |  |
-| [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 | 2023-05-05 |  |
+| [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0Z0doi1s2mnSWBLLjlUAO1) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [World of Hassle](https://open.spotify.com/album/06Zp2J6vjuVSOKHtFcFtJ0) | 3:04 | 2023-09-15 |  |
+| [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 | 2023-05-05 | 2023-09-18 |
 | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN) | 2:58 | 2023-06-09 |  |
 | [Ojalá Fuéramos Amigos](https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Dime Algo \(bonito\)](https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL) | 3:00 | 2023-03-17 |  |
 | [Ojos De Fuego \- Sinego Remix](https://open.spotify.com/track/1QPHeiHP9neITJ5wDLbchb) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Ojos De Fuego \(Sinego Remix\)](https://open.spotify.com/album/3CmRZMXi7a6xg6wzqrBDZd) | 6:11 | 2023-08-18 |  |

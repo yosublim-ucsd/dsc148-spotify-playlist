@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: MOLA",
-  "num_followers": 28769,
+  "num_followers": 28770,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTQ3ODNlMjUwMWRkOGUyOGM3NGU4YWYwZTY0ODY5ZDk0YzlhNDU4",
+  "snapshot_id": "MCw1OGQ5NWNlY2VkNDdmODEzNmFiYmUwNDNjMDdlOTg3MTM0YWUwYTU0",
   "tracks": [
     {
       "added_at": "2023-09-06 07:58:29",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "You Can't Find Me",
-        "url": "https://open.spotify.com/album/2H5Dylx2PuXZYB03xDWIIy"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        }
-      ],
-      "duration_ms": 192088,
-      "name": "You Can't Find Me",
-      "url": "https://open.spotify.com/track/2LOrH9gZi0WA2dU5hmZT4b"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "WEREWOLF",
         "url": "https://open.spotify.com/album/7GzDjBFRcfbske2x9U5QA9"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 193000,
       "name": "WEREWOLF",
       "url": "https://open.spotify.com/track/41dOSS3ZztCISuZQI3EiMR"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "You Can't Find Me",
+        "url": "https://open.spotify.com/album/2H5Dylx2PuXZYB03xDWIIy"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "duration_ms": 192088,
+      "name": "You Can't Find Me",
+      "url": "https://open.spotify.com/track/2LOrH9gZi0WA2dU5hmZT4b"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "schwarzes wasser",
-        "url": "https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe"
-      },
-      "artists": [
-        {
-          "name": "jolle",
-          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
-        }
-      ],
-      "duration_ms": 157071,
-      "name": "schwarzes wasser",
-      "url": "https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/6JZbVBV1DyAFkszUUvrr0t"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 174085,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5pp5Hu0CfQ11F1J5doPMJU"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "schwarzes wasser",
+        "url": "https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe"
+      },
+      "artists": [
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "duration_ms": 157071,
+      "name": "schwarzes wasser",
+      "url": "https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "It Is What It Is (TW)",
-        "url": "https://open.spotify.com/album/3c5hvZ1LVSbFyOjTTQL6CC"
-      },
-      "artists": [
-        {
-          "name": "Marisabelle",
-          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "It Is What It Is (TW)",
-      "url": "https://open.spotify.com/track/63nDlpUTPAwz40ORiqOfkr"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Am I Human?",
         "url": "https://open.spotify.com/album/2wagkL8o47G71cciBICnsI"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 152829,
       "name": "Am I Human?",
       "url": "https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "It Is What It Is (TW)",
+        "url": "https://open.spotify.com/album/3c5hvZ1LVSbFyOjTTQL6CC"
+      },
+      "artists": [
+        {
+          "name": "Marisabelle",
+          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "It Is What It Is (TW)",
+      "url": "https://open.spotify.com/track/63nDlpUTPAwz40ORiqOfkr"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "Porzellan",
-        "url": "https://open.spotify.com/album/2LZ1CxdMpSpoOygFabgnvO"
-      },
-      "artists": [
-        {
-          "name": "MARYAM.fyi",
-          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
-        }
-      ],
-      "duration_ms": 166775,
-      "name": "Porzellan",
-      "url": "https://open.spotify.com/track/4ctRzrvXfO3MkDL86jEvK8"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Risiko",
         "url": "https://open.spotify.com/album/6TWYq5h0izS13d2RCNtHAE"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 167467,
       "name": "Risiko",
       "url": "https://open.spotify.com/track/5Iy928vydNUl4oQhVeucMD"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "Porzellan",
+        "url": "https://open.spotify.com/album/2LZ1CxdMpSpoOygFabgnvO"
+      },
+      "artists": [
+        {
+          "name": "MARYAM.fyi",
+          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
+        }
+      ],
+      "duration_ms": 166775,
+      "name": "Porzellan",
+      "url": "https://open.spotify.com/track/4ctRzrvXfO3MkDL86jEvK8"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "You Knew",
-        "url": "https://open.spotify.com/album/3WCCVWh8DLGKNh9DfeNiV2"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        }
-      ],
-      "duration_ms": 201399,
-      "name": "You Knew",
-      "url": "https://open.spotify.com/track/6Mgntw8v9hBYzI0Oycmb3b"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Lieben verlernt",
         "url": "https://open.spotify.com/album/0BH4veMVrKrLgOcF6KXAe1"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 174193,
       "name": "Lieben verlernt",
       "url": "https://open.spotify.com/track/3uLrN8W1kcxRnba3XtUoue"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "You Knew",
+        "url": "https://open.spotify.com/album/3WCCVWh8DLGKNh9DfeNiV2"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        }
+      ],
+      "duration_ms": 201399,
+      "name": "You Knew",
+      "url": "https://open.spotify.com/track/6Mgntw8v9hBYzI0Oycmb3b"
     },
     {
       "added_at": "2023-09-06 07:58:29",

@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Lexa, Thiago Pantale\u00e3o",
-  "num_followers": 366364,
+  "num_followers": 366535,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjgwMzg2YTFmMmQ3NTA3YzMzODhhMDBkNjM5MGE4M2M2MGZkMWI2",
+  "snapshot_id": "MCxjMWM5M2M0ZWI0YWJkZjBiZTI1ZjYzMTYwNzFmNTEyZjI0MmIxNjAx",
   "tracks": [
     {
       "added_at": "2023-09-15 03:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Ondas",
-        "url": "https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 168220,
-      "name": "Ondas",
-      "url": "https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Groove",
         "url": "https://open.spotify.com/album/0DcG4lvdZOGH4EGZJvftBM"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
+        "name": "Ondas",
+        "url": "https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
         }
       ],
-      "duration_ms": 168266,
-      "name": "Cadeado",
-      "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
+      "duration_ms": 168220,
+      "name": "Ondas",
+      "url": "https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 148733,
       "name": "PLAYLIST TRANSANTE 2.0",
       "url": "https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Cadeado",
+      "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Amigos N\u00e3o Se Pegam",
+        "url": "https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "Amigos N\u00e3o Se Pegam",
+      "url": "https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Anjos E Ancestrais",
         "url": "https://open.spotify.com/album/7hIG0UDU2dWiObYml5ZNxz"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 213390,
       "name": "Anjos E Ancestrais",
       "url": "https://open.spotify.com/track/125ytOCb7oOEy9KAyDqXYD"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Amigos N\u00e3o Se Pegam",
-        "url": "https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Amigos N\u00e3o Se Pegam",
-      "url": "https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Carambolar",
-        "url": "https://open.spotify.com/album/1GkP37VZmvYhq5EGcVnUpi"
-      },
-      "artists": [
-        {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 142102,
-      "name": "Carambolar",
-      "url": "https://open.spotify.com/track/4704Yxnyrf6T3G4H7JL8Kq"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Nem Me Beijou",
         "url": "https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 193768,
       "name": "Nem Me Beijou",
       "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Carambolar",
+        "url": "https://open.spotify.com/album/1GkP37VZmvYhq5EGcVnUpi"
+      },
+      "artists": [
+        {
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 142102,
+      "name": "Carambolar",
+      "url": "https://open.spotify.com/track/4704Yxnyrf6T3G4H7JL8Kq"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Aten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5rbPngm7aHcm5QJLNwSdke"
+        "name": "Inten\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
       },
       "artists": [
         {
-          "name": "Let\u00edcia Hally",
-          "url": "https://open.spotify.com/artist/47q3Hm8x4YEh0ZNocF323p"
+          "name": "Teresa",
+          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
         }
       ],
-      "duration_ms": 156144,
-      "name": "Aten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2V6GQIS5s2HsMoIpR9wi77"
+      "duration_ms": 135625,
+      "name": "Inten\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Inten\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
+        "name": "Aten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5rbPngm7aHcm5QJLNwSdke"
       },
       "artists": [
         {
-          "name": "Teresa",
-          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
+          "name": "Let\u00edcia Hally",
+          "url": "https://open.spotify.com/artist/47q3Hm8x4YEh0ZNocF323p"
         }
       ],
-      "duration_ms": 135625,
-      "name": "Inten\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
+      "duration_ms": 156144,
+      "name": "Aten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2V6GQIS5s2HsMoIpR9wi77"
     }
   ],
   "unique_name": "Palco POP",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,276 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,368 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 54 | [Voe](https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs) | 2:32 |
 | 55 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 5:31 |
 | 56 | [Perto do Sol](https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib) | [RNT](https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d) | [Perto do Sol](https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r) | 2:48 |
-| 57 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
-| 58 | [Ir Embora](https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO) | [Taz Mureb](https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW), [Scarlet Ohana](https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3) | [Ir Embora](https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj) | 2:05 |
+| 57 | [Ir Embora](https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO) | [Taz Mureb](https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW), [Scarlet Ohana](https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3) | [Ir Embora](https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj) | 2:05 |
+| 58 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
 | 59 | [Agradeço](https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Felipe Brasil](https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9) | [Agradeço](https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn) | 3:33 |
 | 60 | [Lua](https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Lua](https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd) | 2:44 |
 | 61 | [Interfone](https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm) | [Sergin](https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW), [Buddy](https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Juan Branco](https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3) | [Interfone](https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 |
 | 75 | [Te Ver De Novo](https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny) | [Te Ver De Novo](https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI) | 2:48 |
 
-Snapshot ID: `MCw4OTcxNTQwNDFiZWE0MDlhMjliODM0MDJiNWRkM2FjYTA4ZGE2NjA2`
+Snapshot ID: `MCw1YTgwZjYyZjEyNGJjMWUyYzg3MmMwMzUwODkwODk3ODk3ODRiNGNi`

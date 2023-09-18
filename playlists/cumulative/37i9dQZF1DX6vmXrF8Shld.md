@@ -4,7 +4,7 @@
 
 > The best and finest 60s Funk\. Cover: The Meters.
 
-80 songs - 4 hr 5 min
+81 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Bold Soul Sister](https://open.spotify.com/track/6g2RtR71Qj12dKQIwPpFJc) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The Hunter](https://open.spotify.com/album/56W1pDZ5cNvbEX7EkPy2EN) | 2:38 | 2020-12-01 |  |
 | [Bongo Rock](https://open.spotify.com/track/1yAHShjpL6S7s57aBZjB2x) | [The Incredible Bongo Band](https://open.spotify.com/artist/09d32fi1Y0qZDJQ9dj7kKa) | [In the Midnight Hour](https://open.spotify.com/album/1uhMW8QosGPAtGV5RXG64u) | 2:36 | 2020-12-01 |  |
 | [But It's Alright](https://open.spotify.com/track/1O2bCT6OBL44UJjbJ0wivb) | [J.J\. Jackson](https://open.spotify.com/artist/6FBBmwVjTdJ54I7j4BNkF5) | [Soul Spectacular!](https://open.spotify.com/album/5yjViWdkXvt6QqECIJmBRF) | 2:52 | 2020-12-01 | 2022-11-13 |
-| [But It's Alright](https://open.spotify.com/track/1ZUJZkV29qWIF4jst1brN3) | [J.J\. Jackson](https://open.spotify.com/artist/6FBBmwVjTdJ54I7j4BNkF5) | [Best of Loma Records\-Rise and Fall of a 1960's Soul Label](https://open.spotify.com/album/5toBacjx2RVc7mVRZ5QHUZ) | 2:52 | 2020-12-01 |  |
+| [But It's Alright](https://open.spotify.com/track/1ZUJZkV29qWIF4jst1brN3) | [J.J\. Jackson](https://open.spotify.com/artist/6FBBmwVjTdJ54I7j4BNkF5) | [Best of Loma Records\-Rise and Fall of a 1960's Soul Label](https://open.spotify.com/album/5toBacjx2RVc7mVRZ5QHUZ) | 2:52 | 2020-12-01 | 2023-09-18 |
+| [But It's Alright](https://open.spotify.com/track/62ylA6rQ8lgVn94VW00NTB) | [J.J\. Jackson](https://open.spotify.com/artist/6FBBmwVjTdJ54I7j4BNkF5) | [The Great J.J\. Jackson](https://open.spotify.com/album/1QYhhFMz0swRjnPXygNDqN) | 2:53 | 2020-12-01 |  |
 | [Can I Change My Mind](https://open.spotify.com/track/0zyyaMpWRZNSx2GqAMFKX3) | [Tyrone Davis](https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd) | [Can I Change My Mind](https://open.spotify.com/album/3WcptYwEwFcxhnhci37i3L) | 2:57 | 2020-12-01 |  |
 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 | 2020-12-01 |  |
 | [Different Strokes](https://open.spotify.com/track/5QC0qgroozRGGHAJuTsP4c) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Dresses Too Short](https://open.spotify.com/album/4CqGfJ9fUZKbLTHVsPjYmN) | 2:19 | 2020-12-01 |  |

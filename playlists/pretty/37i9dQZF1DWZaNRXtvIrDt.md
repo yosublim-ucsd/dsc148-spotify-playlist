@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Overmono
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,427 likes - 84 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,482 likes - 84 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 83 | [Mother \- Pretty Girl Remix](https://open.spotify.com/track/2rGOL5VgjeJUjQEoRVSQ8o) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Mother \(Remixes\)](https://open.spotify.com/album/4dkxdBbALMtQCORM3vne8u) | 5:50 |
 | 84 | [With U](https://open.spotify.com/track/7EnwSEceUcWFCEstHjAaXO) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [With U](https://open.spotify.com/album/2efHZKxHn5CVuLltB5g1PU) | 4:24 |
 
-Snapshot ID: `MCxiYzAwYzg4NDQ2MjcwYjk3YzkyMjM2ZjZiNThhNWJiMmFiN2M3MmI5`
+Snapshot ID: `MCxlMzczNWJmOTllYjdmMzgyYjliZjk2YzRmZGM0ZGUyY2MzNzNiZjRi`

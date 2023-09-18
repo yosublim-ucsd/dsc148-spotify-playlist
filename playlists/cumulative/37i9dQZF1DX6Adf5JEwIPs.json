@@ -25386,24 +25386,6 @@
     {
       "album": {
         "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/3JmYV5kfdl6HfAIteZhQ4b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "date_added": "2023-09-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191695,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/63jsXDXCW3LiARBKaeWBI6"
-    },
-    {
-      "album": {
-        "name": "Enloquecido",
         "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
       },
       "artists": [
@@ -25418,6 +25400,24 @@
       "duration_ms": 212915,
       "name": "Enloquecido",
       "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
+    },
+    {
+      "album": {
+        "name": "Enloquecido (Mariachi)",
+        "url": "https://open.spotify.com/album/3JmYV5kfdl6HfAIteZhQ4b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191695,
+      "name": "Enloquecido - Mariachi",
+      "url": "https://open.spotify.com/track/63jsXDXCW3LiARBKaeWBI6"
     },
     {
       "album": {

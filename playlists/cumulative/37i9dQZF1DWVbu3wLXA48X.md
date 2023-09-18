@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Mitski
 
-1,162 songs - 2 day 22 hr 7 min
+1,163 songs - 2 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,8 @@
 | [Let's Make a Mistake Tonight](https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Let's Make a Mistake Tonight](https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6) | 4:14 | 2023-01-13 | 2023-03-11 |
 | [Let's Stay Out](https://open.spotify.com/track/2GNj2D1F6fRBYnurxFyPMA) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loco](https://open.spotify.com/album/4zbDWqbmHnnLluJeTGpfQ7) | 4:29 | 2021-12-23 | 2022-01-21 |
 | [Levia](https://open.spotify.com/track/3IGhQg2Kto8vFgj3cTVyNL) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/0FEsV9OkvUAEie5BZEUkU7) | 4:28 | 2023-02-24 | 2023-04-09 |
-| [Lexicon](https://open.spotify.com/track/70aDp1WRRHjSO2EFYvFgLK) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Lexicon](https://open.spotify.com/album/7yco9Vsq2MAOlHx9xaju0N) | 2:57 | 2023-09-15 |  |
+| [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-15 |  |
+| [Lexicon](https://open.spotify.com/track/70aDp1WRRHjSO2EFYvFgLK) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Lexicon](https://open.spotify.com/album/7yco9Vsq2MAOlHx9xaju0N) | 2:57 | 2023-09-15 | 2023-09-18 |
 | [Life 4 You](https://open.spotify.com/track/4QgmBsLjmbrSPdkduDXutZ) | [Jiwhan Kim](https://open.spotify.com/artist/5iuodxEu3skXjt8pTbImO1), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [Life 4 You](https://open.spotify.com/album/0y8AqUHFyZX5e8A0qBKKAh) | 2:55 | 2022-03-31 | 2022-05-27 |
 | [Life of the Lovers](https://open.spotify.com/track/6MhzQJruXlaJA1b9KO188o) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Life of the Lovers](https://open.spotify.com/album/4esHEpO4KBAQ511nWQZgtt) | 4:10 | 2023-02-17 | 2023-04-09 |
 | [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 | 2023-08-11 |  |

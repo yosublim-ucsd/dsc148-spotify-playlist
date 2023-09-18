@@ -60949,6 +60949,24 @@
     },
     {
       "album": {
+        "name": "Sunny Dayz",
+        "url": "https://open.spotify.com/album/6kHBOVYybQLmGBlW7OmwA0"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Coltrane",
+          "url": "https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139866,
+      "name": "Sunny Dayz",
+      "url": "https://open.spotify.com/track/2HC8RLA2EO5fq82ARn7hqi"
+    },
+    {
+      "album": {
         "name": "Sunny Heap",
         "url": "https://open.spotify.com/album/2gWkmMV01CKz9FziPKYuoX"
       },
@@ -63900,7 +63918,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 159101,
       "name": "The Last Day",
       "url": "https://open.spotify.com/track/4FLBF643woNKmrIoFbo7g9"

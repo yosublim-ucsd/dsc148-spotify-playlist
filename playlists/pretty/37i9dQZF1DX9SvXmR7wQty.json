@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: GIMS, Maluma",
-  "num_followers": 37935,
+  "num_followers": 37955,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGMxYmNjMTAyOWYzZGFhMDJmOGZiMzBhMDY1ZGQ3YTBiZTg2NGY3",
+  "snapshot_id": "MCw5YTUyMWYwZGJhNzFkMWQ1OTM1ODI2YWE2M2IyMTUwM2UxY2MzODJl",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -259,6 +259,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Immonde",
+        "url": "https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 162525,
+      "name": "Immonde",
+      "url": "https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Ha ha ha",
         "url": "https://open.spotify.com/album/4n0JjeU4YVH3jAKXHEOh8K"
       },
@@ -291,26 +311,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Immonde",
-        "url": "https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        }
-      ],
-      "duration_ms": 162525,
-      "name": "Immonde",
-      "url": "https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Comment on fait",
         "url": "https://open.spotify.com/album/6fx6DbXhISVfj2T3mySNmS"
       },
@@ -327,6 +327,26 @@
       "duration_ms": 180213,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 176109,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/02RGARryimtGfuawXbKj8P"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -379,26 +399,6 @@
       "duration_ms": 171853,
       "name": "\u00c7a va",
       "url": "https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 176109,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/02RGARryimtGfuawXbKj8P"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -507,22 +507,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+        "name": "La Peuf 6",
+        "url": "https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        },
-        {
-          "name": "Skiifall",
-          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
         }
       ],
-      "duration_ms": 178224,
-      "name": "Enfer",
-      "url": "https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei"
+      "duration_ms": 168359,
+      "name": "La Peuf 6",
+      "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -547,38 +543,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Pour nous",
-        "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
       },
       "artists": [
         {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         },
         {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
         }
       ],
-      "duration_ms": 167251,
-      "name": "Pour nous",
-      "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "La Peuf 6",
-        "url": "https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp"
-      },
-      "artists": [
-        {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
-        }
-      ],
-      "duration_ms": 168359,
-      "name": "La Peuf 6",
-      "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
+      "duration_ms": 178224,
+      "name": "Enfer",
+      "url": "https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -595,6 +575,26 @@
       "duration_ms": 158006,
       "name": "Dans la moyenne",
       "url": "https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Pour nous",
+        "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 167251,
+      "name": "Pour nous",
+      "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        }
+      ],
+      "duration_ms": 159841,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "\u00c0 l'inverse",
         "url": "https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
-      },
-      "artists": [
-        {
-          "name": "Beendo Z",
-          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
-        }
-      ],
-      "duration_ms": 159841,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Z\u00e9nith",
         "url": "https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 156500,
       "name": "Z\u00e9nith",
       "url": "https://open.spotify.com/track/7waEJapWACgWkq3by4intP"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Grazie",
-        "url": "https://open.spotify.com/album/5Q239NRdV7f1dPgXgDfGPb"
-      },
-      "artists": [
-        {
-          "name": "Louise Attaque",
-          "url": "https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Grazie",
-      "url": "https://open.spotify.com/track/3VqP91f5h7apVS5huW6Tbr"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -871,18 +855,34 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "D\u00e9nouement heureux",
-        "url": "https://open.spotify.com/album/3xMJrYwzMPCjf5Co98wuAI"
+        "name": "Grazie",
+        "url": "https://open.spotify.com/album/5Q239NRdV7f1dPgXgDfGPb"
       },
       "artists": [
         {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+          "name": "Louise Attaque",
+          "url": "https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9"
         }
       ],
-      "duration_ms": 202266,
-      "name": "D\u00e9nouement heureux",
-      "url": "https://open.spotify.com/track/5zbKy1U5QmtMldEVvhuQpe"
+      "duration_ms": 185400,
+      "name": "Grazie",
+      "url": "https://open.spotify.com/track/3VqP91f5h7apVS5huW6Tbr"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Appart des Apes",
+        "url": "https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw"
+      },
+      "artists": [
+        {
+          "name": "GLK",
+          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+        }
+      ],
+      "duration_ms": 175968,
+      "name": "Appart des Apes",
+      "url": "https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > cool music ft\. Riovaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,829 likes - 162 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,032 likes - 162 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Paula Rivas.\nDales PLAY, dales POWER.",
-  "num_followers": 12572,
+  "num_followers": 12573,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDgxODZjZjg0Yjc5NDgxZmU2NWViYzBhM2FkZTc0YTVkM2NhZjE0",
+  "snapshot_id": "MCxmNjFhMmI5YTA0YTliN2E3MTY5MmE5YzI3YmY5NDNjMzBjZDFkOTIw",
   "tracks": [
     {
       "added_at": "2023-09-06 16:30:16",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
+        "name": "Grandes Versiones",
+        "url": "https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6"
+      },
+      "artists": [
+        {
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Humedad",
+      "url": "https://open.spotify.com/track/71JlWe6b281dzhGZVZS0Tc"
+    },
+    {
+      "added_at": "2023-09-06 16:30:16",
+      "album": {
         "name": "Nos lo hemos dicho todo",
         "url": "https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 253271,
       "name": "Nos lo hemos dicho todo",
       "url": "https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1"
-    },
-    {
-      "added_at": "2023-09-06 16:30:16",
-      "album": {
-        "name": "DEJA TU SHOW",
-        "url": "https://open.spotify.com/album/3DCIaAZtRrAlytdhtnRIZB"
-      },
-      "artists": [
-        {
-          "name": "Dainesitta",
-          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "DEJA TU SHOW",
-      "url": "https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "Grandes Versiones",
-        "url": "https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6"
+        "name": "DEJA TU SHOW",
+        "url": "https://open.spotify.com/album/3DCIaAZtRrAlytdhtnRIZB"
       },
       "artists": [
         {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+          "name": "Dainesitta",
+          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
         }
       ],
-      "duration_ms": 253360,
-      "name": "Humedad",
-      "url": "https://open.spotify.com/track/71JlWe6b281dzhGZVZS0Tc"
+      "duration_ms": 209361,
+      "name": "DEJA TU SHOW",
+      "url": "https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -215,22 +215,18 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "Rika",
-        "url": "https://open.spotify.com/album/2cjlPueJH53uVj1n1N1brG"
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl"
       },
       "artists": [
         {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
         }
       ],
-      "duration_ms": 188387,
-      "name": "Rika",
-      "url": "https://open.spotify.com/track/5bSIyaz49u9YhmMjtgzQfS"
+      "duration_ms": 236077,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/79tK7MDahFqieifay7yXCb"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -263,6 +259,26 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
+        "name": "Rika",
+        "url": "https://open.spotify.com/album/2cjlPueJH53uVj1n1N1brG"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 188387,
+      "name": "Rika",
+      "url": "https://open.spotify.com/track/5bSIyaz49u9YhmMjtgzQfS"
+    },
+    {
+      "added_at": "2023-09-06 16:30:16",
+      "album": {
         "name": "Grandes Versiones",
         "url": "https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 171146,
       "name": "El Compromiso",
       "url": "https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y"
-    },
-    {
-      "added_at": "2023-09-06 16:30:16",
-      "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 236077,
-      "name": "Invencible",
-      "url": "https://open.spotify.com/track/79tK7MDahFqieifay7yXCb"
     },
     {
       "added_at": "2023-09-06 16:30:16",

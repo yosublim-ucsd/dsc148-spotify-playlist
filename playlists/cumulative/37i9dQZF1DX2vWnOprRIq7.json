@@ -2505,6 +2505,28 @@
     },
     {
       "album": {
+        "name": "World of Hassle",
+        "url": "https://open.spotify.com/album/06Zp2J6vjuVSOKHtFcFtJ0"
+      },
+      "artists": [
+        {
+          "name": "Alan Palomo",
+          "url": "https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184284,
+      "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/0Z0doi1s2mnSWBLLjlUAO1"
+    },
+    {
+      "album": {
         "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7"
       },
@@ -2520,7 +2542,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 184284,
       "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO"

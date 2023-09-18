@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-411 songs - 1 day 5 hr 46 min
+412 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Sweet Surrender](https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Sweet Surrender](https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W) | 3:11 | 2023-02-03 |  |
 | [Synesthesia \- Radio Edit](https://open.spotify.com/track/4tYhb2RtgzpltirLnbgoRY) | [CYA](https://open.spotify.com/artist/2HFWySRmIs8TiKMMfcLN1g) | [Timeless/Synesthesia](https://open.spotify.com/album/5SdMIzrsucFXu3QLJhT5tR) | 3:45 | 2021-05-07 | 2022-04-18 |
 | [Synthetism](https://open.spotify.com/track/0UrJe2qd5b0mgcnwcLYIxm) | [Andrea Martini](https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr), [Hrederik](https://open.spotify.com/artist/0MMK5cprMIDRCFgrREotPG) | [Unified Vol.15](https://open.spotify.com/album/2BZH50oUwtFvkkCBZEJAvC) | 3:24 | 2021-12-10 | 2022-07-24 |
+| [Take Me High](https://open.spotify.com/track/7vQP0yjr0b7PxTIGmQhGNB) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Sam Luck](https://open.spotify.com/artist/5BVku7Olml0ffWJU8OWFek) | [Take Me High](https://open.spotify.com/album/3SYUZxNBcktJzhWlDHUCcU) | 2:42 | 2023-09-15 |  |
 | [Take Me Higher](https://open.spotify.com/track/5RrhrF2WdWsFexwj7LXHvr) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc) | [Take Me Higher](https://open.spotify.com/album/7L0E4Y6UGHBACLLxiBikR8) | 3:19 | 2021-05-07 | 2023-02-04 |
 | [Take Me There](https://open.spotify.com/track/2EeNjDGRMgtFfDbwqVVKbs) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Take Me There](https://open.spotify.com/album/67c9idGRZEMdOXjWhbhLcj) | 3:08 | 2022-03-04 | 2022-07-29 |
 | [Take Me Up](https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y) | [Take Me Up](https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh) | 2:27 | 2023-07-14 |  |
@@ -390,7 +391,7 @@
 | [Unlovable](https://open.spotify.com/track/4IEt7Mdm42jKkRTaAzNNrH) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Unlovable](https://open.spotify.com/album/24CHipaCl8pzPFDe3oWOm1) | 4:02 | 2023-01-27 | 2023-04-25 |
 | [Vallut Bass](https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [Vallut Bass](https://open.spotify.com/album/2u0mZypCSZa9vMm32FYyEN) | 3:31 | 2021-05-07 | 2022-06-23 |
 | [Vertigo](https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Vertigo](https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j) | 3:09 | 2022-11-18 |  |
-| [Vertigo](https://open.spotify.com/track/1p6IvCBlHrWIi6AmXiMtdw) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Vertigo](https://open.spotify.com/album/1EJeNKVDB6XJsyAMxVZaAU) | 3:36 | 2023-06-23 |  |
+| [Vertigo](https://open.spotify.com/track/1p6IvCBlHrWIi6AmXiMtdw) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Vertigo](https://open.spotify.com/album/1EJeNKVDB6XJsyAMxVZaAU) | 3:36 | 2023-06-23 | 2023-09-18 |
 | [Violet Sea](https://open.spotify.com/track/1f33u4p19t1nWX6t4vtps9) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk) | [Violet Sea + Aura](https://open.spotify.com/album/4LeAQhY0P24q2mvynao92G) | 3:48 | 2021-05-07 | 2022-04-20 |
 | [VLEKNO](https://open.spotify.com/track/0C1BD8MccXokM9YIUDcjWm) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tranquility Base Vol\. 1](https://open.spotify.com/album/5fC0IDTURADF9bMs3FqomK) | 2:41 | 2023-05-26 | 2023-06-24 |
 | [Void](https://open.spotify.com/track/5uVR4B3m24uI0zyNfjmLfu) | [ArtLec](https://open.spotify.com/artist/2aqJXiggBZaS7nbLUMTMKo) | [Void \- Crow](https://open.spotify.com/album/6wRh1QsfpcavIawneQZGUd) | 3:29 | 2021-05-07 | 2022-04-18 |

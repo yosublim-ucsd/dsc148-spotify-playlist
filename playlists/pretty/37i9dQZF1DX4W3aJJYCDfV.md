@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Corinne Bailey Rae \(pictured\), Chase & Status, Tate McRae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,733 likes - 129 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,804 likes - 129 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 128 | [Dubby](https://open.spotify.com/track/6rPbTqoepgoHoDZrBItweP) | [Play Nice](https://open.spotify.com/artist/1ghxd86r7phiK0vgytiGkh) | [Dubby](https://open.spotify.com/album/5Tgqa6Sze1uf3X4SV8hUqg) | 1:28 |
 | 129 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 |
 
-Snapshot ID: `MCxlMGJlZTE5ODRlMWUzMDA2M2M3NjJmODNiOTU2ODhkZTBkZTUwNWRk`
+Snapshot ID: `MCxhNTY2ZGJlY2YzMTVkMDA5M2JjNjJjZDc3OTIwMTZjYWQ5ZDQ3NzJi`

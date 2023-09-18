@@ -1,6 +1,6 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3457,
+  "num_followers": 3464,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Puerto Rico",
-        "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
-      },
-      "artists": [
-        {
-          "name": "Landis",
-          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
-        }
-      ],
-      "duration_ms": 144375,
-      "name": "Puerto Rico",
-      "url": "https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/53ZzWR211mpgiMr6usGH4W"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 190987,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Puerto Rico",
+        "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
+      },
+      "artists": [
+        {
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
+        }
+      ],
+      "duration_ms": 144375,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -425,26 +425,6 @@
       "url": "https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
-      },
-      "artists": [
-        {
-          "name": "Rene Rodrigezz",
-          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
-        },
-        {
-          "name": "Yellow Is The New White",
-          "url": "https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
-    },
-    {
       "added_at": "2021-11-26 07:27:00",
       "album": {
         "name": "Diamonds",
@@ -463,6 +443,26 @@
       "duration_ms": 175252,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc"
+      },
+      "artists": [
+        {
+          "name": "Rene Rodrigezz",
+          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
+        },
+        {
+          "name": "Yellow Is The New White",
+          "url": "https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -539,18 +539,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+        "name": "Jaleo",
+        "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
       "artists": [
         {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+          "name": "Kenny Brian",
+          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
         }
       ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
+      "duration_ms": 187500,
+      "name": "Jaleo",
+      "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
     },
     {
       "added_at": "2021-10-15 05:57:00",
@@ -571,26 +575,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Jaleo",
-        "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
-      },
-      "artists": [
-        {
-          "name": "Kenny Brian",
-          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Jaleo",
-      "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 201720,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+      },
+      "artists": [
+        {
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        }
+      ],
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -869,6 +869,30 @@
       "url": "https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf"
     },
     {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Why Can't We Live Together (Gregor Salto & Ibitaly Remix)",
+        "url": "https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB"
+      },
+      "artists": [
+        {
+          "name": "Timmy Thomas",
+          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "Ibitaly",
+          "url": "https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "Why Can't We Live Together - Gregor Salto & Ibitaly Edit",
+      "url": "https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP"
+    },
+    {
       "added_at": "2021-10-15 05:57:00",
       "album": {
         "name": "La Vida",
@@ -899,30 +923,6 @@
       "duration_ms": 205161,
       "name": "Ay Papi",
       "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Why Can't We Live Together (Gregor Salto & Ibitaly Remix)",
-        "url": "https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB"
-      },
-      "artists": [
-        {
-          "name": "Timmy Thomas",
-          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        },
-        {
-          "name": "Ibitaly",
-          "url": "https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb"
-        }
-      ],
-      "duration_ms": 210491,
-      "name": "Why Can't We Live Together - Gregor Salto & Ibitaly Edit",
-      "url": "https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP"
     },
     {
       "added_at": "2021-10-08 15:53:55",

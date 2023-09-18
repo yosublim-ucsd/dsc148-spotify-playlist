@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,510 likes - 99 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,700 likes - 99 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 99 | [You Don't Have To](https://open.spotify.com/track/6Q4CTfhsXqM38qygqtSuv3) | [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc), [The Estuary 21](https://open.spotify.com/artist/3AvaTJVo7L7mvvw7JpFAjo) | [You Don't Have To](https://open.spotify.com/album/2JkXV0X85ENDw9EvL5myJZ) | 4:15 |
 
-Snapshot ID: `MCxhMWVlNGJhODY3OTJkN2VmOTcxN2VlYzkwNzNlNmQ5YjMwZWNiYjY2`
+Snapshot ID: `MCxhZjg0MTcyMDkyMGE0N2E5NjFmOWEwMzNhZDQ4Y2JiNzA4NTdhNzli`

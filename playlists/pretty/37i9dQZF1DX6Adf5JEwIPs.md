@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Christian Nodal
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,915 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,135 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 10 | [No Sé Tú](https://open.spotify.com/track/6N271rSS177egQnJBDkq4F) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Sé Tú](https://open.spotify.com/album/5TzoaMI27c1GGdfuvjShWt) | 2:38 |
 | 11 | [Y Me Ven](https://open.spotify.com/track/3FJCA91QghZhKB1LHTkYXW) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Y Me Ven](https://open.spotify.com/album/6bEOJrgTELANQshBXFrtFV) | 2:38 |
 | 12 | [El Monstruo](https://open.spotify.com/track/1hVImXYFpV7n9hoCW9ImGv) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Quinto V Imperio](https://open.spotify.com/artist/6WFv2NyTtnWS7GHkeLgn0G) | [El Monstruo](https://open.spotify.com/album/6sJYEohZlxxk8R8nxwV9E8) | 2:58 |
-| 13 | [Enloquecido](https://open.spotify.com/track/63jsXDXCW3LiARBKaeWBI6) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/3JmYV5kfdl6HfAIteZhQ4b) | 3:11 |
+| 13 | [Enloquecido \- Mariachi](https://open.spotify.com/track/63jsXDXCW3LiARBKaeWBI6) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido \(Mariachi\)](https://open.spotify.com/album/3JmYV5kfdl6HfAIteZhQ4b) | 3:11 |
 | 14 | [Olvídate De Mí](https://open.spotify.com/track/4PGBe2ag7rU52WltQAscyJ) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Olvídate De Mí](https://open.spotify.com/album/6q45KudoMXj6WpG3dPsOVl) | 3:29 |
 | 15 | [Gallo de Honor](https://open.spotify.com/track/5wMOoemwWHEpp3C2yz3YYa) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Gallo de Honor](https://open.spotify.com/album/6py31y1D5KsdZSR6UkS9wR) | 2:34 |
 | 16 | [Si Dios Perdona](https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Si Dios Perdona](https://open.spotify.com/album/70fClqkoidHfZivofJHZmc) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Se Acelera](https://open.spotify.com/track/6NvBWU7dJqMm5ETZWT2Mjl) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [Se Acelera](https://open.spotify.com/album/5JCg2S8bEOiE1xIrf236Tt) | 3:19 |
 | 50 | [Qué De Raro Tiene](https://open.spotify.com/track/4yTCWlsJHi4eQLbD5uRmKc) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué De Raro Tiene](https://open.spotify.com/album/1HGDJVqncehIpoJpmUguAC) | 3:11 |
 
-Snapshot ID: `MCwwMjlmYjc3OWQ1ZjJkZjBjZTcwNTc1MDc4MGE3ZDdlZGViOWFjNTQ0`
+Snapshot ID: `MCwzNjZmZGUzMWQ1MzVjN2Q3NzdiOWUwMjNjZjljODc2ZjY5YTc0NGUw`

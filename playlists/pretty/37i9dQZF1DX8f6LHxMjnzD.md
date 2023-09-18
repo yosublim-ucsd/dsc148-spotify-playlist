@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Marshmello & Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,833 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,821 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 |
 | 40 | [Dirty Talk \(with Sam Feldt\)](https://open.spotify.com/track/4Q5A1yfmDXlB4s7JyuDKzw) | [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Dirty Talk \(with Sam Feldt\)](https://open.spotify.com/album/6CkeZGNC4LSSDOHkahPgfp) | 2:21 |
 
-Snapshot ID: `MCwyY2E1YWU3NzVmZmQ3Nzk5NmQyYTI1MjdjNDg2MGUzYjJiY2ZmN2Yx`
+Snapshot ID: `MCw1ODc3NDM4MGJkYzVlM2NiNmVhMWYwOWY0MWNlYzJhYWM0MjE1MTUy`

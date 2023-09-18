@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171,801 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,115 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 28 | [Make You Feel That Way](https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Blazing Arrow](https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc) | 3:26 |
 | 29 | [Pacifics \- From The Original Motion Picture Soundtrack “N.Y\. Is Red Hot"](https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:31 |
 | 30 | [A Little Of This](https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1) | [Grand Puba](https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K) | [2000](https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ) | 3:40 |
-| 31 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
-| 32 | [Resurrection](https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Resurrection](https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje) | 3:47 |
+| 31 | [Resurrection](https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Resurrection](https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje) | 3:47 |
+| 32 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
 | 33 | [Elusive](https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [David Ngyah](https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c) | [Elusive](https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK) | 3:42 |
 | 34 | [Cookie Chips](https://open.spotify.com/track/75yIue8dwthQA0QKd9ktyI) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Baw Baw Black Sheep](https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k) | 4:19 |
 | 35 | [Doin' Our Own Dang](https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [Done By The Forces Of Nature](https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V) | 4:18 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 77 | [Head Highs](https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [jarjarjr](https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W) | [Head Highs](https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS) | 2:35 |
 | 78 | [It's Nice Outside](https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt) | [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn), [Phoniks](https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH) | [It's Nice Outside](https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g) | 2:15 |
 | 79 | [Organic Rust](https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:36 |
-| 80 | [Go So Far](https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Jon Connor](https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x) | [Eddie](https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN) | 4:02 |
-| 81 | [That Jazz](https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo) | [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [That Jazz](https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds) | 3:08 |
+| 80 | [That Jazz](https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo) | [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [That Jazz](https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds) | 3:08 |
+| 81 | [Go So Far](https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Jon Connor](https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x) | [Eddie](https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN) | 4:02 |
 | 82 | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Can't Let You Go \(feat\. Nick Grant\)](https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj) | 3:13 |
 | 83 | [Call You?](https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl) | [ArmstrongWW](https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn) | [Call You?](https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC) | 3:25 |
 | 84 | [Oh Word](https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Oh Word](https://open.spotify.com/album/56MeentPxn6AWBDIUctPit) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Sensitive](https://open.spotify.com/track/2AsKMzGCLp5tZvrX0zzLlR) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Close Distance](https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1) | 2:42 |
 | 100 | [One from the Tap](https://open.spotify.com/track/7yKwYibH6UtJfM1Cz1zOuI) | [Flatpocket](https://open.spotify.com/artist/1C3kvlK0zb8LkXCu5KQSAn), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Lazy Jones](https://open.spotify.com/artist/28rEEGnYrfwBxrVVUsolgX), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds) | [Dispo II Dispo](https://open.spotify.com/album/0hqzuv2DZlCur5iLv8IkHz) | 1:32 |
 
-Snapshot ID: `MCwyMGY0ZjA0YjgzMjFhOWNhZTc3ZmM3NDYyZGE5YTQyN2RiMTFhYTUx`
+Snapshot ID: `MCw0N2M0OWNkZGMwNmE3NzlhYzc4M2M4NTRkMzk0N2M2YWVmYzZhY2E3`

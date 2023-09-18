@@ -582,10 +582,40 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 133920,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/1xOgDZRSKEHZXAdVkT0GJE"
+    },
+    {
+      "album": {
+        "name": "Astronaut In The Ocean",
+        "url": "https://open.spotify.com/album/1PsoIz7cPzBrf48qzDTmFO"
+      },
+      "artists": [
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Felix Schorn",
+          "url": "https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4"
+        },
+        {
+          "name": "NOTSOBAD",
+          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
+        },
+        {
+          "name": "Citycreed",
+          "url": "https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133920,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/2DN53pxcl1OlvGkNsfPM7m"
     },
     {
       "album": {
@@ -748,6 +778,36 @@
     {
       "album": {
         "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/04wmrtvLyqRHM2rouhQV29"
+      },
+      "artists": [
+        {
+          "name": "Sam Giancana",
+          "url": "https://open.spotify.com/artist/6jJ3jEaGTuUHfBI6ndwAnI"
+        },
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        },
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Dayana",
+          "url": "https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124692,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/53jIDGxI6GYSXVwaNeM0sN"
+    },
+    {
+      "album": {
+        "name": "Barbie Girl",
         "url": "https://open.spotify.com/album/3Se6CPTSyQBglEOjQS1bh6"
       },
       "artists": [
@@ -770,7 +830,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 124692,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/6a128M0i2wWdI5MaVCAx3r"
@@ -3806,10 +3866,32 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 130947,
       "name": "Havana",
       "url": "https://open.spotify.com/track/47HYkDFa1AUsUss7VPF9Ir"
+    },
+    {
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/5SvO0wKMqmYGtIOddwsXTu"
+      },
+      "artists": [
+        {
+          "name": "Kilian K",
+          "url": "https://open.spotify.com/artist/04sHHRws8Q7apGxRnUnjQs"
+        },
+        {
+          "name": "Lunis",
+          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130947,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/4Bb8hVP6ZyNzBxmLHXntEU"
     },
     {
       "album": {
@@ -5732,6 +5814,32 @@
     {
       "album": {
         "name": "Love Me Like You Do",
+        "url": "https://open.spotify.com/album/4u28W6V9N665YXGAuutQ0N"
+      },
+      "artists": [
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        },
+        {
+          "name": "2Hounds",
+          "url": "https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9"
+        },
+        {
+          "name": "Britt",
+          "url": "https://open.spotify.com/artist/6C0GDQqkaIX35GF3rTV1U1"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127811,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/1eyJ8JgKONxHBybMExqHqL"
+    },
+    {
+      "album": {
+        "name": "Love Me Like You Do",
         "url": "https://open.spotify.com/album/42dY7ZBkV0QXAJeqeOFjCa"
       },
       "artists": [
@@ -5750,7 +5858,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 127811,
       "name": "Love Me Like You Do",
       "url": "https://open.spotify.com/track/6sz6dOKU29pGniaB9iLOKw"

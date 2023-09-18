@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,567 songs - 2 day 11 hr 29 min
+1,568 songs - 2 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Drips](https://open.spotify.com/track/3yxluQG4ZWdmjXJ5sjxXVg) | [Gizmo](https://open.spotify.com/artist/5yGSDOiFgai6RwHW3DAtW0) | [Drips](https://open.spotify.com/album/224QiGS6A3qBdXSDiLQked) | 1:40 | 2023-01-06 |  |
 | [Drives](https://open.spotify.com/track/07uRU9EczqsAqDdTcNCqwv) | [Z\-bone](https://open.spotify.com/artist/2bCoBCb2t0qwwPb5MGgjag) | [Drives](https://open.spotify.com/album/5Yq3BR4a0Ip2NkJ4lXEVHa) | 3:12 | 2023-08-17 |  |
 | [Drop In](https://open.spotify.com/track/7vwibWrHgOtEznQEFoF183) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Purple Dreams](https://open.spotify.com/album/7kxIwi77w8d6hz0XRbmCgb) | 2:01 | 2022-04-15 | 2022-10-14 |
+| [Droplets](https://open.spotify.com/track/15yitQITrGAxCToHNw4zKF) | [Lake Sanford](https://open.spotify.com/artist/21h842cjCnSvqRTA87Wlgp), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Ethereal Passage](https://open.spotify.com/album/3WB8vftnlNv5Gj9RvjtUSm) | 2:46 | 2023-09-15 |  |
 | [Drumagade](https://open.spotify.com/track/3aDuZUTcYKDrZE41J8UsGT) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Spela](https://open.spotify.com/album/5sogVxLDLarBdQwuyIKYNG) | 2:08 | 2022-04-15 | 2022-07-22 |
 | [drunk](https://open.spotify.com/track/4OZDIhz1oJkrEbn8rOyP8G) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [drunk](https://open.spotify.com/album/4sTP9df5gdkqGCcO3dlsIZ) | 2:15 | 2022-10-28 | 2023-03-09 |
 | [Dryer](https://open.spotify.com/track/3qHPIeckBEFVGEaYdKXbTJ) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Dryer](https://open.spotify.com/album/3dkqT9bcNiPXM0gzcAjfgV) | 2:33 | 2023-01-06 | 2023-02-07 |
@@ -884,7 +885,7 @@
 | [miss u](https://open.spotify.com/track/6N5gXsOkGnUSA4Q7mmXrfx) | [Samu Rai](https://open.spotify.com/artist/7fJdohGW8ELBvPXnETK4Um) | [shinjuku station](https://open.spotify.com/album/1tZMflXbwcZ8T2OL8kwQLE) | 2:22 | 2023-02-21 |  |
 | [Missing You](https://open.spotify.com/track/0IhDHRbFUfg3MaG1iQUClb) | [Tru Beri](https://open.spotify.com/artist/5ycHMRtAIjlIQ2P5NMvI5k) | [Missing You](https://open.spotify.com/album/3qjbuBW6voCrKP8N2xvqGQ) | 1:36 | 2022-04-15 | 2022-10-14 |
 | [Mist](https://open.spotify.com/track/20PI4A6FMkxYnNESr4pF6p) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [Mist](https://open.spotify.com/album/0lvAkLDRDZgi2CntWtw0TI) | 2:57 | 2022-11-25 | 2023-04-21 |
-| [Mistle](https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Mistle](https://open.spotify.com/album/7AdlNag6CqJMNTTpHsqsVs) | 2:16 | 2022-10-07 |  |
+| [Mistle](https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Mistle](https://open.spotify.com/album/7AdlNag6CqJMNTTpHsqsVs) | 2:16 | 2022-10-07 | 2023-09-18 |
 | [Mistletoe](https://open.spotify.com/track/6QA4PFuLTaHGlcakQuEQ1h) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Mistletoe](https://open.spotify.com/album/5oOCRsrE5ws6J1cLCLDUSP) | 2:01 | 2023-04-20 |  |
 | [Misty Woods](https://open.spotify.com/track/0pPlRossaqIMFOkLtwg5XI) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Misty Woods](https://open.spotify.com/album/0vDPVK064wZnWv3nMToFf2) | 2:02 | 2023-08-31 |  |
 | [miyu](https://open.spotify.com/track/5Manub8VP5SyKpJ9kcKSTD) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [ambassing](https://open.spotify.com/album/7dTO5q5UVSUOZh7YKwCWvC) | 2:14 | 2022-04-15 | 2022-09-17 |

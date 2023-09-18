@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 302608,
       "name": "IBUKA",
       "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 530381,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/3UUd3dSg0TmimHXT2eDvMd"
@@ -722,6 +722,24 @@
       "duration_ms": 455418,
       "name": "More",
       "url": "https://open.spotify.com/track/1ECetasD2CDQ9sCxlX9y6G"
+    },
+    {
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/0ag7AC8rrkmqrTpC6SkMYJ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "More",
+      "url": "https://open.spotify.com/track/5Eqt1I1I5S1yWgqj1TCysK"
     },
     {
       "album": {
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 490000,
       "name": "There's an Overflow",
       "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"

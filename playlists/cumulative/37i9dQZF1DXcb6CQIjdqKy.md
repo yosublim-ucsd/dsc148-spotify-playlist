@@ -4,7 +4,7 @@
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU?si=vjXk5XQDTTGErlVVdcwkrQ">Cory Asbury</a>
 
-614 songs - 1 day 18 hr 57 min
+615 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Exit Us](https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Exit Us](https://open.spotify.com/album/2gFAJD4Qf3Y1IW5INr1f7V) | 3:37 | 2021-12-17 | 2022-05-07 |
 | [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-17 | 2023-05-13 |
 | [Faith Don't Fail Me Now](https://open.spotify.com/track/3WEEXXFR9GIWmVfBmYGLhy) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Faith Don't Fail Me Now](https://open.spotify.com/album/0vsmQMb2gvZpyknxrecP97) | 3:10 | 2023-07-07 |  |
-| [Faith!?](https://open.spotify.com/track/5M9GCkebVFxSBbth4sqeV3) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Faith!?](https://open.spotify.com/album/6kbK2ZTWe23hURYXxjRYdT) | 4:02 | 2023-06-23 |  |
+| [Faith!?](https://open.spotify.com/track/10mBXOZdDdsavgSFtOiY7A) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Manna Pt.1](https://open.spotify.com/album/3mhzPwu7aLioOnEhDbfNJ1) | 4:02 | 2023-09-15 |  |
+| [Faith!?](https://open.spotify.com/track/5M9GCkebVFxSBbth4sqeV3) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Faith!?](https://open.spotify.com/album/6kbK2ZTWe23hURYXxjRYdT) | 4:02 | 2023-06-23 | 2023-09-18 |
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2022-02-25 | 2022-04-09 |
 | [Fake Love](https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Fake Love](https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO) | 3:31 | 2022-03-11 | 2022-04-02 |
 | [Fall On Me \(feat\. Carly Pearce\)](https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:24 | 2023-09-15 |  |

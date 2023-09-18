@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Mitski
 
-8,745 songs - 19 day 5 hr 0 min
+8,746 songs - 19 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4394,7 +4394,8 @@
 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 | 2022-10-07 | 2022-10-15 |
 | [Let’s Go Go](https://open.spotify.com/track/2ocvsArO5DNLjnxmpLH4oP) | [Bored Brothers](https://open.spotify.com/artist/16zFyEdp4556oFYkPYv3GZ) | [Let’s Go Go](https://open.spotify.com/album/7pl7GW3MonZJy1bJM6PhSB) | 2:37 | 2022-11-25 | 2022-12-03 |
 | [Levels](https://open.spotify.com/track/6hgTMdO3CyXlNQJ1K58ruH) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/6UBYRLKOasEXXr8nwZ4fp8) | 2:37 | 2023-02-10 | 2023-02-18 |
-| [Lexicon](https://open.spotify.com/track/70aDp1WRRHjSO2EFYvFgLK) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Lexicon](https://open.spotify.com/album/7yco9Vsq2MAOlHx9xaju0N) | 2:57 | 2023-09-15 |  |
+| [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-15 |  |
+| [Lexicon](https://open.spotify.com/track/70aDp1WRRHjSO2EFYvFgLK) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Lexicon](https://open.spotify.com/album/7yco9Vsq2MAOlHx9xaju0N) | 2:57 | 2023-09-15 | 2023-09-18 |
 | [LFG](https://open.spotify.com/track/68ZnVusVckKXOLW80KGeRh) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [LFG](https://open.spotify.com/album/2wkzGaDtc9o705E0cxBTxT) | 2:11 | 2023-08-11 | 2023-08-19 |
 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 | 2023-08-04 | 2023-08-12 |
 | [Liberation](https://open.spotify.com/track/63HeOmi0Cav15rLsktJq8W) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Liberation](https://open.spotify.com/album/2ikZVKHUow5r1VdlVaFBnZ) | 2:38 | 2022-01-14 | 2022-01-21 |

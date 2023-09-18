@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Dilu Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,328 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,349 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 89 | [Ahenawada Gahena Hadawatha Mage](https://open.spotify.com/track/4TufAvSFh8OoD6kwC6L5nD) | [Sudeera Dilshan](https://open.spotify.com/artist/7gHkPTRQJ2DBMAqSvEgvzx) | [Ahenawada Gahena Hadawatha Mage](https://open.spotify.com/album/3darr1gl33sQUaAxYoNmU6) | 3:22 |
 | 90 | [Paalu Yaame](https://open.spotify.com/track/3wBCm0eVGdMpaxSIzg43yJ) | [Iman Fernando](https://open.spotify.com/artist/42ATja5N0WYsh9RNSParhI) | [Paalu Yaame](https://open.spotify.com/album/6AZvLGlTyTauElxYwANnj7) | 3:32 |
 
-Snapshot ID: `MCw3NjFmZmU5YTkwNTEwMmQ4ZTEyZmM2NmM1YjUxYTI1ZWZlYzZlODRh`
+Snapshot ID: `MCw3OWIxMDE0ZWIyMDJiMjBlNmM4YWJjY2UzZDcyN2Y5OTJkYmU4NDE1`

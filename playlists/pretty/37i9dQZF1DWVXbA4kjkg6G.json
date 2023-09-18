@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 438192,
+  "num_followers": 438441,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2RjMmY3OTRlNjc4ZDBlMmY5NTY5ZjYzZjhmMDczNGEyYTAwZmU1",
+  "snapshot_id": "MCw1M2I1NmRjNTI2NDI4MjBmMWRlZGNmMDcyN2EwNGJkZjI4MjZmMjYz",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 364453,
-      "name": "Suzuki",
-      "url": "https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "A Grand Love Story",
         "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 242800,
       "name": "A grand love theme",
       "url": "https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 364453,
+      "name": "Suzuki",
+      "url": "https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "DJ-Kicks",
+        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 380786,
+      "name": "Black Baby (DJ-KiCKS)",
+      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Psyence Fiction",
         "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 376160,
       "name": "Rabbit in Your Headlights",
       "url": "https://open.spotify.com/track/6CQiD0STiKFsjSdVKtztjJ"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "DJ-Kicks",
-        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 380786,
-      "name": "Black Baby (DJ-KiCKS)",
-      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Animal Magic",
         "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Natural Born Killa (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
-      },
-      "artists": [
-        {
-          "name": "Photek",
-          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
-        }
-      ],
-      "duration_ms": 321932,
-      "name": "Into the 90's",
-      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Premiers Sympt\u00f4mes",
         "url": "https://open.spotify.com/album/3g9O7pvuaaFRvdzsoSJXVc"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 359600,
       "name": "Modular Mix",
       "url": "https://open.spotify.com/track/4NsBEdmbgu9u8cH21ycyBv"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Natural Born Killa (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
+      },
+      "artists": [
+        {
+          "name": "Photek",
+          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
+        }
+      ],
+      "duration_ms": 321932,
+      "name": "Into the 90's",
+      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Quixotic",
-        "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
+        "name": "King Size",
+        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
       },
       "artists": [
         {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 232093,
-      "name": "Sandpaper Kisses",
-      "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
+      "duration_ms": 297426,
+      "name": "King Size",
+      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "King Size",
-        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
+        "name": "Quixotic",
+        "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
       },
       "artists": [
         {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
         }
       ],
-      "duration_ms": 297426,
-      "name": "King Size",
-      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
+      "duration_ms": 232093,
+      "name": "Sandpaper Kisses",
+      "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Lamb",
-        "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
-        }
-      ],
-      "duration_ms": 456666,
-      "name": "Trans Fatty Acid",
-      "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "One Colour Just Reflects Another",
         "url": "https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+        "name": "Lamb",
+        "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
         }
       ],
-      "duration_ms": 831400,
-      "name": "What Does Your Soul Look Like, Pt. 2",
-      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
+      "duration_ms": 456666,
+      "name": "Trans Fatty Acid",
+      "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1023,6 +1007,22 @@
       "duration_ms": 255500,
       "name": "The Rhyme Goes On",
       "url": "https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 831400,
+      "name": "What Does Your Soul Look Like, Pt. 2",
+      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
     },
     {
       "added_at": "2023-06-20 20:30:21",

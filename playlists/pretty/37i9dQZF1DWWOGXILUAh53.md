@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: bludnymph
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,904 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,005 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 49 | [Un Deux Trois](https://open.spotify.com/track/5LZUMO0ZwB1wFqFjdamWfK) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Un Deux Trois](https://open.spotify.com/album/6JyUhSZBLGYfPVGCsQGVnL) | 2:29 |
 | 50 | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7) | 2:19 |
 
-Snapshot ID: `MCxkNTU0ZWZjM2JiZDEwNWI5MWI2Nzc2ZjRjZTUyNTMwYmZkOGZlNmY5`
+Snapshot ID: `MCxhNzUyYmU1YzMyNTQ5NjU0YTAwOThhZjYxYTljYzIzNjZjMzBhMzQ2`

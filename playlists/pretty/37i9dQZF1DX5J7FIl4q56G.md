@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Baroness
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,460 likes - 56 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,576 likes - 56 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 8 | [True Colors](https://open.spotify.com/track/4RsrznAVWtYY5aOQHLcKPt) | [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [True Colors](https://open.spotify.com/album/1hr3iQfKu4W4hgItOAKxwP) | 3:58 |
 | 9 | [Revolution](https://open.spotify.com/track/13ikUGJr1PGR1cCexEHltk) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Revolution](https://open.spotify.com/album/6QJG9x8Bs9avQ41ZFe6xsP) | 3:24 |
 | 10 | [Erase You](https://open.spotify.com/track/0D3MMDKrNoCCvddkrSO8zs) | [Termina](https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Erase You](https://open.spotify.com/album/19qgHk7zDn5eBjwZ9oX4E5) | 4:03 |
-| 11 | [Thank You, Again](https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Thank You, Again](https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1) | 3:04 |
+| 11 | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1) | 3:04 |
 | 12 | [El Patrón Del Reventón](https://open.spotify.com/track/2EH69QSUyx554TGzFZW46K) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Esto Es Brujeria](https://open.spotify.com/album/0iDZaOJrkg4YiLS6gPT1sC) | 2:48 |
 | 13 | [Doomsday Party](https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Doomsday Party](https://open.spotify.com/album/4vjJPfQI2sQ0lmGMmsqwrj) | 5:15 |
 | 14 | [The Silent Foray \(feat\. Per Nilsson & Scar Symmetry\)](https://open.spotify.com/track/0umbVNLKlYo1Ew6dB8Wk4L) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Per Nilsson](https://open.spotify.com/artist/4WW2Oc55ThAQyPyQpxP47p), [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [The Silent Foray \(feat\. Per Nilsson & Scar Symmetry\)](https://open.spotify.com/album/6vs55As9qIPeedtLUbs9DI) | 6:43 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Distant Waves](https://open.spotify.com/track/5kBMOpNbqdLUlUwQgQeAwv) | [Red Eleven](https://open.spotify.com/artist/7cnALV9yew7PFrxC9eGYf1) | [Distant Waves](https://open.spotify.com/album/2lhzgPkqt0DCXKHb2l4OVB) | 5:15 |
 | 56 | [Rush Of Air](https://open.spotify.com/track/3rGf6Qrvb8ac35Vpp71T0P) | [BÖSE FUCHS](https://open.spotify.com/artist/2zhS9INQenkgCHhqof9jIZ) | [Rush Of Air](https://open.spotify.com/album/1nG6c6UoaXyYwwpGaxIlww) | 3:39 |
 
-Snapshot ID: `MCw0NWExNmY0NzQyMTAwODE2ZGNmOTk0YWNkYWU3ZmVkZjAwZDYyOWM5`
+Snapshot ID: `MCxmN2Q4NmI1MDBhOGEwOGYxMTBlZWZiMmMwYWE5NTMyMmNmYmFlOTQy`

@@ -24031,6 +24031,24 @@
     },
     {
       "album": {
+        "name": "Dembow Con Biblia",
+        "url": "https://open.spotify.com/album/2rV3xfVGgik5ren020vIBG"
+      },
+      "artists": [
+        {
+          "name": "Albert Miliano",
+          "url": "https://open.spotify.com/artist/7ofAYf298XeFeUCLMzseYf"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178015,
+      "name": "Vine Lleno",
+      "url": "https://open.spotify.com/track/2LwQODarpwgOCELsdehwHr"
+    },
+    {
+      "album": {
         "name": "Vital",
         "url": "https://open.spotify.com/album/01X9qSjYEJN5DndyA87Uzt"
       },

@@ -356,10 +356,28 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 184400,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/4OxoaHUJOSf9lB9d3NkFxX"
+    },
+    {
+      "album": {
+        "name": "The Girl From Ipanema",
+        "url": "https://open.spotify.com/album/5WqxSD9v6z4uhK0rbFplwM"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/3zfQ6WNptGdbZce4uSvW76"
     },
     {
       "album": {

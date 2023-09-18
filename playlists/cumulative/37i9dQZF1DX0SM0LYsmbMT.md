@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,649 songs - 5 day 19 hr 51 min
+3,650 songs - 5 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3034,6 +3034,7 @@
 | [Sunny](https://open.spotify.com/track/5IMN6U2yKva50QhZd8AtqU) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Sunny](https://open.spotify.com/album/5HiUSNQJvZLUQLBWo0kgbH) | 1:48 | 2023-02-23 | 2023-05-12 |
 | [sunny](https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [sunny](https://open.spotify.com/album/0enwhVDrDgNf2QpeleSUSZ) | 2:19 | 2019-05-26\* | 2020-04-29 |
 | [Sunny](https://open.spotify.com/track/5m89mdit6X1w6Z1L7fy5Fz) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Sunny](https://open.spotify.com/album/7oZz5cqt7XLpvRYEj0B2bo) | 2:09 | 2021-08-20 | 2021-09-17 |
+| [Sunny Dayz](https://open.spotify.com/track/2HC8RLA2EO5fq82ARn7hqi) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Sunny Dayz](https://open.spotify.com/album/6kHBOVYybQLmGBlW7OmwA0) | 2:19 | 2023-09-14 |  |
 | [Sunny Heap](https://open.spotify.com/track/117AaPnIXuubjeC0ZGnBq5) | [Sawibeatz](https://open.spotify.com/artist/0AD1RbLJZFUruqLENw6wJl) | [Sunny Heap](https://open.spotify.com/album/2gWkmMV01CKz9FziPKYuoX) | 3:02 | 2023-07-13 | 2023-07-28 |
 | [Sunny Memories](https://open.spotify.com/track/4Lz9RfhcHeTsKv9y5KOTBM) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Sunny Memories](https://open.spotify.com/album/7rtXVMXQD8UZIVRoz24zQl) | 2:16 | 2021-05-21 | 2021-10-22 |
 | [sunny mornings](https://open.spotify.com/track/2dAoR9dPB9VSd3BysEz4i5) | [nosubject](https://open.spotify.com/artist/4aIVGHtmObqhBgVqu6vUf4) | [sunny mornings](https://open.spotify.com/album/2A6GMx6Yl75uPPm7T6ub8e) | 1:18 | 2019-06-22 | 2019-12-13 |
@@ -3182,7 +3183,7 @@
 | [The Island](https://open.spotify.com/track/7JVR2Z7VMjEwUlsSiwEjF6) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [The Island](https://open.spotify.com/album/2fXyh71yE99R1VfM4hrvAi) | 2:20 | 2022-01-13 | 2022-11-20 |
 | [The Jam](https://open.spotify.com/track/1nNSbg1oXFH5AxyI1WRxkF) | [Tru Comers](https://open.spotify.com/artist/2eA8qotLYMUNzlnjL8blKT) | [EXPEDITion Vol\. 25: Heartbreakahz](https://open.spotify.com/album/5xs7BqZk1INXpUi9A56KJn) | 3:37 | 2019-12-20 | 2020-03-31 |
 | [The JaZz is Good](https://open.spotify.com/track/3PLMpwjYP0l4Gmu7fsTgw5) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [The JaZz is Good](https://open.spotify.com/album/1QikOIdvwH0rV5Su4dQAMm) | 2:06 | 2023-04-13 | 2023-07-28 |
-| [The Last Day](https://open.spotify.com/track/4FLBF643woNKmrIoFbo7g9) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [The Last Day](https://open.spotify.com/album/1PQjOVMGA7uKJCuRR8ZbZl) | 2:39 | 2023-09-14 |  |
+| [The Last Day](https://open.spotify.com/track/4FLBF643woNKmrIoFbo7g9) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [The Last Day](https://open.spotify.com/album/1PQjOVMGA7uKJCuRR8ZbZl) | 2:39 | 2023-09-14 | 2023-09-18 |
 | [The Mountain](https://open.spotify.com/track/7uS16BxAtHTTUgloivM6iy) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [The Mountain](https://open.spotify.com/album/3Zzkjg1S96savE5pLNTcwx) | 1:39 | 2021-11-12 | 2023-04-21 |
 | [The News](https://open.spotify.com/track/1Spod3yKAoenrvhOHKCSeU) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [The News](https://open.spotify.com/album/4fECS0VAlJDNSAsuG6G4X7) | 2:28 | 2022-11-17 | 2022-11-25 |
 | [The News](https://open.spotify.com/track/74dl7BgtaxeIT6d3jtowxH) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [The News](https://open.spotify.com/album/0O0rYYaWAvXRRdXz3cKAbM) | 2:28 | 2022-04-28 | 2022-11-20 |

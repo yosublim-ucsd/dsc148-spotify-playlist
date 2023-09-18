@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 445933,
       "name": "All Mountains",
       "url": "https://open.spotify.com/track/1u7JDkPMV47l42Ajimwnzw"
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 204573,
       "name": "Credit Card",
       "url": "https://open.spotify.com/track/43TbuGlhIlV8G70L8rATQo"
@@ -2704,6 +2704,24 @@
       "duration_ms": 226905,
       "name": "Degnan Dreams (feat. Keyon Harrold, Justin Tyson & Dominique Sanders)",
       "url": "https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE"
+    },
+    {
+      "album": {
+        "name": "Warrior Tour (Live Studio)",
+        "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
+      },
+      "artists": [
+        {
+          "name": "IAM",
+          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560973,
+      "name": "Demain c'est loin - Live Studio",
+      "url": "https://open.spotify.com/track/5DVC4v4D2XvU9fBZWHrdeT"
     },
     {
       "album": {
@@ -3264,7 +3282,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 315964,
       "name": "Doomsday Party",
       "url": "https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF"
@@ -4005,6 +4023,24 @@
     },
     {
       "album": {
+        "name": "Australia Stops",
+        "url": "https://open.spotify.com/album/6GtcJTPQEKWoFDtXLrgWbh"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347640,
+      "name": "Faceless",
+      "url": "https://open.spotify.com/track/1GaAvOXKpcMxIgFd1fvX7o"
+    },
+    {
+      "album": {
         "name": "Fact (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/4lpOnXYfA4BRnZzx54EhqX"
       },
@@ -4192,6 +4228,24 @@
       "duration_ms": 172653,
       "name": "Fingerblast",
       "url": "https://open.spotify.com/track/2EJQGBhREOhahAghqchmKt"
+    },
+    {
+      "album": {
+        "name": "Ram",
+        "url": "https://open.spotify.com/album/3o88dhnm1Bn9EH8vweXsnM"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "Fingerblast",
+      "url": "https://open.spotify.com/track/7pZffCI5RzP8ThC8mNhyxx"
     },
     {
       "album": {
@@ -6378,7 +6432,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 278333,
       "name": "Je danse le mia - Live Studio",
       "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
@@ -6528,7 +6582,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 304000,
       "name": "K&A - Instrumental",
       "url": "https://open.spotify.com/track/7z5rBtWxHWNpkqyPxGpkke"
@@ -7284,7 +7338,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 370653,
       "name": "Loved Ones",
       "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
@@ -9074,7 +9128,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 218794,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
@@ -9828,7 +9882,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 118436,
       "name": "Rebuke - Instrumental",
       "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
@@ -12268,6 +12322,28 @@
       "duration_ms": 123341,
       "name": "The Justine Poop Song",
       "url": "https://open.spotify.com/track/5mr30gHCYSSnxO9gwYuUC0"
+    },
+    {
+      "album": {
+        "name": "americana, but lofi",
+        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
+      },
+      "artists": [
+        {
+          "name": "lonelyboy",
+          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "the kids aren't alright - lofi",
+      "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
     },
     {
       "album": {

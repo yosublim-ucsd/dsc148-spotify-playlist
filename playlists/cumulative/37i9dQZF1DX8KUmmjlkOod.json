@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 276666,
       "name": "Aqu\u00ed no podemos hacerlo",
       "url": "https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC"
@@ -802,6 +802,24 @@
       "duration_ms": 363120,
       "name": "Mujer Amante",
       "url": "https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R"
+    },
+    {
+      "album": {
+        "name": "3er Arco",
+        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261133,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/4xkQxDPC6RBV1Yfx6vkLsO"
     },
     {
       "album": {

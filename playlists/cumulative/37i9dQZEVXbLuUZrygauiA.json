@@ -4316,7 +4316,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
@@ -10149,6 +10149,24 @@
     },
     {
       "album": {
+        "name": "Himnos Estatales de la Republica Mexicana",
+        "url": "https://open.spotify.com/album/6f8FHUXMLcG1kRQW94JxTS"
+      },
+      "artists": [
+        {
+          "name": "Higueramx",
+          "url": "https://open.spotify.com/artist/5xdW1Z6YJvnyTvc0lWG4ed"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287114,
+      "name": "Himno Nacional Mexicano",
+      "url": "https://open.spotify.com/track/6JBVfhlJc4dwpp3tyMXdGC"
+    },
+    {
+      "album": {
         "name": "Himnos Nacionales De Latino America",
         "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
       },
@@ -11346,7 +11364,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 185920,
       "name": "Killin\u2019 Me Good",
       "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
@@ -14375,6 +14393,24 @@
     },
     {
       "album": {
+        "name": "Los Tres Tenores Mexicanos",
+        "url": "https://open.spotify.com/album/1BjfKgRwXaxlwv78Ujk7Yg"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Tenores Mexicanos",
+          "url": "https://open.spotify.com/artist/32XfT4SFssjet3mfanakKi"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Mexico Lindo y Querido",
+      "url": "https://open.spotify.com/track/0hMWssovlBRbVRFYsNSJD6"
+    },
+    {
+      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
       },
@@ -14618,7 +14654,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -20650,7 +20686,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 182762,
       "name": "Rusiando",
       "url": "https://open.spotify.com/track/2HPqzRFXvmKRiia3H2yWXY"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDBhOTBmYzE2OTJiMzVmYzc3NDgxZWI1MzFlMTVmMmIyZg==",
+  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDA1NTliYjhkN2ZmMGY4NjQzZmE2MDk0NWFiNGYwY2YzZg==",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
         }
       ],
-      "duration_ms": 204573,
-      "name": "Credit Card",
-      "url": "https://open.spotify.com/track/43TbuGlhIlV8G70L8rATQo"
+      "duration_ms": 172653,
+      "name": "Fingerblast",
+      "url": "https://open.spotify.com/track/7pZffCI5RzP8ThC8mNhyxx"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -60,9 +60,9 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 304000,
-      "name": "K&A - Instrumental",
-      "url": "https://open.spotify.com/track/7z5rBtWxHWNpkqyPxGpkke"
+      "duration_ms": 118436,
+      "name": "Rebuke - Instrumental",
+      "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -99,42 +99,6 @@
       "duration_ms": 177814,
       "name": "YES!",
       "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Doomsday Party",
-        "url": "https://open.spotify.com/album/4vjJPfQI2sQ0lmGMmsqwrj"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 315964,
-      "name": "Doomsday Party",
-      "url": "https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 218794,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -187,22 +151,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "End",
-        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 370653,
-      "name": "Loved Ones",
-      "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Warrior Tour (Live Studio)",
         "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
       },
@@ -212,9 +160,9 @@
           "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
         }
       ],
-      "duration_ms": 278333,
-      "name": "Je danse le mia - Live Studio",
-      "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
+      "duration_ms": 560973,
+      "name": "Demain c'est loin - Live Studio",
+      "url": "https://open.spotify.com/track/5DVC4v4D2XvU9fBZWHrdeT"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -235,6 +183,22 @@
       "duration_ms": 222986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/3cPafGcaLEsfrZZZB7gB3M"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "End",
+        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 445933,
+      "name": "All Mountains",
+      "url": "https://open.spotify.com/track/1u7JDkPMV47l42Ajimwnzw"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -383,6 +347,42 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "americana, but lofi",
+        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
+      },
+      "artists": [
+        {
+          "name": "lonelyboy",
+          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "the kids aren't alright - lofi",
+      "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Australia Stops",
+        "url": "https://open.spotify.com/album/6GtcJTPQEKWoFDtXLrgWbh"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "duration_ms": 347640,
+      "name": "Faceless",
+      "url": "https://open.spotify.com/track/1GaAvOXKpcMxIgFd1fvX7o"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Dookie (30th Anniversary Outtakes)",
         "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
       },
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 482744,
+      "name": "Denardirn",
+      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "She Listen To Trap",
         "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 143103,
       "name": "She Listen To Trap",
       "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 482744,
-      "name": "Denardirn",
-      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
     },
     {
       "added_at": "2023-09-15 04:00:00",

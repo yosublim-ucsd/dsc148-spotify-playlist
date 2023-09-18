@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,083 likes - 104 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,281,462 likes - 104 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 103 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 |
 | 104 | [Pretty In The Dark](https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Pretty In The Dark](https://open.spotify.com/album/3rH35zsxg2ppSufxr57UPw) | 2:56 |
 
-Snapshot ID: `MCxjOTExNWU0OWY2MGUxNTZhNWY4MDA5YWU4ZDY3ZDZhYzE3N2VjYzRh`
+Snapshot ID: `MCxiZTdjMTdhMjgwYjI0MzM3ZGJjOGU2N2NiZjVmOGY3ZWZhMmVkNTlj`

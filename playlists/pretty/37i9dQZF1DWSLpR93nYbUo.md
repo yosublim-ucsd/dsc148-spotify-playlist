@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Royale BR
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,189 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,198 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 69 | [Don't Call Me](https://open.spotify.com/track/0TdS0abXCuojh4OrrxfbRA) | [Samuel Davis](https://open.spotify.com/artist/3vyvxYznj1IlcfSkdoxT1w), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Mayn](https://open.spotify.com/artist/3Bm2qmss0lQDGCO0NoH2zX) | [Don't Call Me](https://open.spotify.com/album/2JPhRx56x6QAr2kVLPAG5K) | 2:34 |
 | 70 | [Vai no Chão 2k23 \- Original Mix](https://open.spotify.com/track/6BH2EOiwGPsa99fYTOdPAr) | [Blaf Music \(Br\)](https://open.spotify.com/artist/3PvFN3ThKEI7t79YEW9M41), [Ali\_live](https://open.spotify.com/artist/03pwYVt6u2LbrDCUYnjGHz), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Vai no Chão 2k23 \(Original Mix\)](https://open.spotify.com/album/39BfhReJ5DS5fOrM2nYdzy) | 3:54 |
 
-Snapshot ID: `MCwxMzcyN2U1YjM3NDFkZDBlNzk2NTkxNzYyMWIxYjMzZjJjNGZhZGUx`
+Snapshot ID: `MCxhNWU0MTMzZjkzNzViMGZlNmIyMWQ3NWY0MjFlM2IzMjM1OWMxODhh`

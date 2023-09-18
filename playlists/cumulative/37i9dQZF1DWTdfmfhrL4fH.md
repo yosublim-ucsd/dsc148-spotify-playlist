@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-548 songs - 1 day 10 hr 24 min
+549 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Good Times](https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:44 | 2022-05-25 | 2022-07-06 |
 | [Goodbye Agony](https://open.spotify.com/track/5yNw7KhDPNO8g3Wfm7Eamj) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Black Veil Brides](https://open.spotify.com/album/4TZA3mmUxcMwinJFCg5M1H) | 4:08 | 2022-05-25 | 2022-07-27 |
 | [Goodbye Forever](https://open.spotify.com/track/5qYWlDGOEfWcPwHxy7TMYn) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 4:30 | 2022-05-25 | 2022-07-27 |
+| [Gravity](https://open.spotify.com/track/3v5gs2Kg3wHhoufQIQvAdx) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R.](https://open.spotify.com/album/0gE61PmZimlmkItn8iE6lc) | 4:04 | 2023-01-18 |  |
 | [Gravity](https://open.spotify.com/track/4nrWU5PRlFJubLjahofpOU) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [F.E.A.R.](https://open.spotify.com/album/70TYHf7Is70KOY1sHl5Vlh) | 4:04 | 2022-05-25 | 2023-08-31 |
 | [Guilty All the Same \(feat\. Rakim\)](https://open.spotify.com/track/5zsgyaahJyDW91qyvzSG3Y) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Guilty All the Same \(feat\. Rakim\)](https://open.spotify.com/album/1RUwY4InqOgnkrH1zcl9AI) | 5:55 | 2022-05-25 | 2022-07-29 |
 | [Guilty All the Same \(feat\. Rakim\)](https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 5:55 | 2022-05-25 |  |
@@ -388,7 +389,7 @@
 | [Put Your Money on Me](https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:53 | 2022-05-25 | 2023-02-17 |
 | [Radioactive Mother \(Lover\)](https://open.spotify.com/track/2Ut304ExaxLD2PJt1lRJ4f) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Radioactive Mother \(Lover\)](https://open.spotify.com/album/7D86Dhz5xE5XdV16LhghMb) | 3:07 | 2022-05-25 | 2022-07-29 |
 | [Raised By Wolves](https://open.spotify.com/track/769ZC6PggTAClrWHAoVk1x) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 4:05 | 2022-05-25 | 2022-07-12 |
-| [Rebel Love Song](https://open.spotify.com/track/3ItCQd3vvharrdNrBzZuIY) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Set The World On Fire](https://open.spotify.com/album/3iTUq3CfkKcD5ZN4zgcDIA) | 3:57 | 2022-05-25 |  |
+| [Rebel Love Song](https://open.spotify.com/track/3ItCQd3vvharrdNrBzZuIY) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Set The World On Fire](https://open.spotify.com/album/3iTUq3CfkKcD5ZN4zgcDIA) | 3:57 | 2022-05-25 | 2023-09-18 |
 | [Reckless Tongue](https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Reckless Tongue](https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8) | 2:58 | 2022-05-25 |  |
 | [Red Flag Day](https://open.spotify.com/track/5EUCP8FTOGYUBqaYaYVpmm) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:19 | 2022-05-25 | 2022-07-09 |
 | [Reflektor](https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT) | 7:30 | 2022-05-25 |  |

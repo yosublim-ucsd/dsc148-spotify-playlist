@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation",
-  "num_followers": 15230,
+  "num_followers": 15233,
   "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MThkZDlmYjFhNjk3MmRkNTZhN2UwYzgxOTE1Zjk5MzE3NzJlOTE5",
+  "snapshot_id": "MCwxOWNhMDFmMzI1NTY1NDBhNTgzMzA4MDUwYmI3OGZkYjBlOTJjNGI1",
   "tracks": [
     {
       "added_at": "2023-05-24 15:45:04",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
     },
     {
-      "added_at": "2023-05-31 15:14:57",
-      "album": {
-        "name": "You Should Be Here",
-        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "You Should Be Here",
-      "url": "https://open.spotify.com/track/63thx7OANplv4I4BQsanHk"
-    },
-    {
       "added_at": "2022-06-09 16:13:45",
       "album": {
         "name": "Songs In The Key Of Life",
@@ -151,6 +135,22 @@
       "duration_ms": 394266,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
+    },
+    {
+      "added_at": "2023-05-31 15:14:57",
+      "album": {
+        "name": "You Should Be Here",
+        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "You Should Be Here",
+      "url": "https://open.spotify.com/track/63thx7OANplv4I4BQsanHk"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Thank You (Deluxe Version)",
-        "url": "https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Dance Like Yo Daddy",
-      "url": "https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Latest Greatest Straitest Hits",
         "url": "https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 204066,
       "name": "The Best Day",
       "url": "https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Thank You (Deluxe Version)",
+        "url": "https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "Dance Like Yo Daddy",
+      "url": "https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL"
     },
     {
       "added_at": "2022-06-09 16:13:45",

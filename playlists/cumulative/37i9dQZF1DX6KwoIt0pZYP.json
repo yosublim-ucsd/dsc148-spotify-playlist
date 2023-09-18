@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 203076,
       "name": "Definitely",
       "url": "https://open.spotify.com/track/7t6QmYxw44OELIQQPHatG0"
@@ -3188,7 +3188,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 170666,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
@@ -4401,6 +4401,24 @@
     },
     {
       "album": {
+        "name": "Heaven's Gate",
+        "url": "https://open.spotify.com/album/1PELLaelQ2KpXNdMdijWS4"
+      },
+      "artists": [
+        {
+          "name": "Alextbh",
+          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177466,
+      "name": "Heaven's Gate",
+      "url": "https://open.spotify.com/track/1BqmbInBN6V9uGppeV48f2"
+    },
+    {
+      "album": {
         "name": "Hello to Goodbye",
         "url": "https://open.spotify.com/album/518Phciom4wxi4MLhvdA1x"
       },
@@ -5040,6 +5058,24 @@
       "duration_ms": 170819,
       "name": "i hate u owe me $$",
       "url": "https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU"
+    },
+    {
+      "album": {
+        "name": "i just want to hear your voice",
+        "url": "https://open.spotify.com/album/6jKuWGKfnMKo1XA0Eh7WCu"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177567,
+      "name": "i just want to hear your voice",
+      "url": "https://open.spotify.com/track/3R00EiW64MncJxDnXbEH7G"
     },
     {
       "album": {
@@ -6262,6 +6298,24 @@
       "duration_ms": 199930,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/370kG5AMoC2AKxmVPGFasg"
+    },
+    {
+      "album": {
+        "name": "let me know",
+        "url": "https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208387,
+      "name": "let me know",
+      "url": "https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL"
     },
     {
       "album": {
@@ -8184,7 +8238,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 160000,
       "name": "Objects Of Affection",
       "url": "https://open.spotify.com/track/1kTzmv5x57yFRcenqBUMNB"
@@ -9339,6 +9393,24 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/67VhkG0XlrHJj0JyRQJNR5"
+      },
+      "artists": [
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146578,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/7hVd0Hej4nlJiufYwKxhDT"
+    },
+    {
+      "album": {
         "name": "whatever works",
         "url": "https://open.spotify.com/album/63x6ehILu5223aljaHfeiK"
       },
@@ -10153,6 +10225,24 @@
     },
     {
       "album": {
+        "name": "softscars",
+        "url": "https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206099,
+      "name": "softscars",
+      "url": "https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF"
+    },
+    {
+      "album": {
         "name": "SOL FA MI",
         "url": "https://open.spotify.com/album/0743x9H3c0sXCD5aXykWux"
       },
@@ -10550,6 +10640,24 @@
       "duration_ms": 218588,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/6nfUsBnhsToMMQCnCytKNe"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6RlPQXbYD7sJO74XRIwjf4"
     },
     {
       "album": {
@@ -11042,7 +11150,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 185277,
       "name": "That Pretty",
       "url": "https://open.spotify.com/track/5lb1ZSC6GRp6RsBNPHNsXC"
@@ -11132,7 +11240,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 187021,
       "name": "the moon is not here",
       "url": "https://open.spotify.com/track/28bqgkr7d0rMYRaJiOqXUB"
@@ -11266,6 +11374,28 @@
       "duration_ms": 180722,
       "name": "the world could end with you",
       "url": "https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q"
+    },
+    {
+      "album": {
+        "name": "The Worst Part",
+        "url": "https://open.spotify.com/album/6Z0AsQIf39jSgX0W9bhEFL"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        },
+        {
+          "name": "HNATA",
+          "url": "https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "The Worst Part",
+      "url": "https://open.spotify.com/track/521RUfyAt3TYMdrynEn0KT"
     },
     {
       "album": {
@@ -11483,6 +11613,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/6ZJqsnkKwvsKl5rFdKJb6L"
+      },
+      "artists": [
+        {
+          "name": "babychair",
+          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229206,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4kVwCkrfFHBmRH9k1l7Q57"
+    },
+    {
+      "album": {
         "name": "The More",
         "url": "https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np"
       },
@@ -11556,7 +11704,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 144793,
       "name": "tired",
       "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
@@ -11762,7 +11910,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 178252,
       "name": "trippin",
       "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
@@ -12403,6 +12551,28 @@
     },
     {
       "album": {
+        "name": "we grew up together",
+        "url": "https://open.spotify.com/album/0a8IV62EQe7cWglIFJXapM"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        },
+        {
+          "name": "RENE",
+          "url": "https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "we grew up together",
+      "url": "https://open.spotify.com/track/343YezHfY7G8ZliqUHYQKS"
+    },
+    {
+      "album": {
         "name": "We'll Be Alright",
         "url": "https://open.spotify.com/album/4pEpNaS8Bwu0ok9fmWIh8r"
       },
@@ -12514,7 +12684,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 234736,
       "name": "When We Were Younger (feat. Cavetown)",
       "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"

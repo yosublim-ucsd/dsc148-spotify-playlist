@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: R3HAB, Michael Schulte
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,802 likes - 74 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,114 likes - 74 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 17 | [Meet You There](https://open.spotify.com/track/4vnubsflkoKuOHEfSSMZEI) | [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jimmy James](https://open.spotify.com/artist/7et8xRIk2umQqXw4r8FAmU) | [Meet You There](https://open.spotify.com/album/2lNPrtWgJDHDh1NuBcGp9a) | 2:40 |
 | 18 | [Can't Get You out of My Head](https://open.spotify.com/track/5M5KUXnWP2pB3NugBHcER9) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Can't Get You out of My Head](https://open.spotify.com/album/6JGdqchvfbGFc2cMnLdZBn) | 2:28 |
 | 19 | [Because Of You](https://open.spotify.com/track/0FpqoxLdZcP4FmTeypWBn3) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Because Of You](https://open.spotify.com/album/74CYF70WB9pAPRLQhltTc6) | 2:17 |
-| 20 | [Yeah 3x](https://open.spotify.com/track/0XX58KCqDXy0cNnZ9XxGtS) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Yeah 3x](https://open.spotify.com/album/1HSrReXjgHAyxDL14SWYaS) | 2:43 |
+| 20 | [Yeah 3x](https://open.spotify.com/track/0D6qQPmNvZsN2j3LHT43z5) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Yeah 3x](https://open.spotify.com/album/7yu3ASCoixLAEmkFQnCfQw) | 2:43 |
 | 21 | [Listen To Your Heart \(Alle Farben Remix\)](https://open.spotify.com/track/58XoPq7Ae5SL2TRMF63uD8) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Listen To Your Heart \(Alle Farben Remix\)](https://open.spotify.com/album/2Jg1Ff9HdTkLaz9vjRClo4) | 2:26 |
 | 22 | [LA LA LAND \(1234\)](https://open.spotify.com/track/5oRmBsEWdP5LTQ6q9MX9HO) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [LA LA LAND \(1234\)](https://open.spotify.com/album/6BZnn8iwDduIkvCQljYbxu) | 2:03 |
 | 23 | [Berliner Luft](https://open.spotify.com/track/64lgs61f7TyLK6SynOZXjk) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Berliner Luft](https://open.spotify.com/album/1xFckVvFnZHPFKzfAD8C9y) | 2:46 |

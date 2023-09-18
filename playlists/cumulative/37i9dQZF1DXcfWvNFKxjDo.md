@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: R3HAB, Michael Schulte
 
-134 songs - 6 hr 18 min
+135 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Wasting Youth](https://open.spotify.com/track/5SL2J25JUoQZHJVbR2biXm) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Robin White](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R) | [Wasting Youth](https://open.spotify.com/album/4X4Tu5rgFpKwk89wkSdCbZ) | 2:15 | 2023-08-31 | 2023-09-08 |
 | [Where Do We Go](https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg) | 2:51 | 2023-08-31 | 2023-09-15 |
 | [Wrecking Ball](https://open.spotify.com/track/5V54aYc3OkeNygXmRiPuSS) | [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Dan Winter](https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz) | [Wrecking Ball](https://open.spotify.com/album/1yWsJQeD3B4KTTDm74vDKj) | 2:33 | 2023-08-31 | 2023-09-08 |
-| [Yeah 3x](https://open.spotify.com/track/0XX58KCqDXy0cNnZ9XxGtS) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Yeah 3x](https://open.spotify.com/album/1HSrReXjgHAyxDL14SWYaS) | 2:43 | 2023-09-07 |  |
+| [Yeah 3x](https://open.spotify.com/track/0D6qQPmNvZsN2j3LHT43z5) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Yeah 3x](https://open.spotify.com/album/7yu3ASCoixLAEmkFQnCfQw) | 2:43 | 2023-09-14 |  |
+| [Yeah 3x](https://open.spotify.com/track/0XX58KCqDXy0cNnZ9XxGtS) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Yeah 3x](https://open.spotify.com/album/1HSrReXjgHAyxDL14SWYaS) | 2:43 | 2023-09-07 | 2023-09-18 |
 
 \*This playlist was first scraped on 2023-09-07. Prior content cannot be recovered.

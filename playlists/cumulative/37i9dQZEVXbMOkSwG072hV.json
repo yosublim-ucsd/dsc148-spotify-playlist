@@ -9104,7 +9104,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 117768,
       "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN",
       "url": "https://open.spotify.com/track/59gbcSpjUzt3FGOZ1iWPXI"
@@ -20352,7 +20352,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 184620,
       "name": "Montagem dos Anos 90",
       "url": "https://open.spotify.com/track/0gdDu2qsTHZvkbzCFU9yB2"
@@ -25428,7 +25428,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 160862,
       "name": "Polo Usa",
       "url": "https://open.spotify.com/track/7GIOobAlKojSiQ6ytFlxdU"
@@ -32260,7 +32260,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-18",
       "duration_ms": 137044,
       "name": "Tropa do Escobar",
       "url": "https://open.spotify.com/track/6Xw8mjKhdBmMmpuQPnOsqM"
@@ -32386,6 +32386,32 @@
       "duration_ms": 130285,
       "name": "Tropa do Menino Rei",
       "url": "https://open.spotify.com/track/3j43JKkujSbMgbWS1Dnjil"
+    },
+    {
+      "album": {
+        "name": "Tropa dos Covardes",
+        "url": "https://open.spotify.com/album/1Bhv4t6oi6TmXViyO9ZvIR"
+      },
+      "artists": [
+        {
+          "name": "Vinicius Cavalcante",
+          "url": "https://open.spotify.com/artist/65bbpBkkAHZOAwSYE1pKpk"
+        },
+        {
+          "name": "MATHEUS LACERDA",
+          "url": "https://open.spotify.com/artist/3rhakTNPxErgnHr3q6hUmp"
+        },
+        {
+          "name": "DJ JEFINHO 062",
+          "url": "https://open.spotify.com/artist/2qOkka1IztYKtVxyIUdwbr"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134485,
+      "name": "Tropa dos Covardes",
+      "url": "https://open.spotify.com/track/3AlJeYu0F3gbttq276kBcM"
     },
     {
       "album": {
@@ -32516,6 +32542,32 @@
       "duration_ms": 149076,
       "name": "Tubar\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
+    },
+    {
+      "album": {
+        "name": "TUCA DONKA",
+        "url": "https://open.spotify.com/album/27XmqsKeLyr5jDURAordcd"
+      },
+      "artists": [
+        {
+          "name": "CURSEDEVIL",
+          "url": "https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "Skorde",
+          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
+        }
+      ],
+      "date_added": "2023-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75692,
+      "name": "TUCA DONKA",
+      "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
     },
     {
       "album": {

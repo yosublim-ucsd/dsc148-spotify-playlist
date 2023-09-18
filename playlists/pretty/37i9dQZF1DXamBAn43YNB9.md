@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,656 likes - 82 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,716 likes - 82 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 81 | [Rainy Day](https://open.spotify.com/track/0BMV5YD79S0OBwZZ8b8ML2) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Wreck Me](https://open.spotify.com/album/0CQbnXgNwRg3noHVFn4Rn0) | 3:21 |
 | 82 | [Never Wanted To Be That Girl](https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:34 |
 
-Snapshot ID: `MCxkYWU0ZmI0NDMyMzViZGQ2YTVhZDAwZjE0MWY1YzQxNTllMmYzOTNk`
+Snapshot ID: `MCxiYzdiZmE5MzFlZWQyNDczZGQ3MGFhM2E3YzFkMmZjNDk2Njc0NTE2`
