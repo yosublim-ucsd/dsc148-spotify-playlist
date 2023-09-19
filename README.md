@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6639\)
+## Playlists \(6640\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1296,6 +1296,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Country Rap](/playlists/pretty/37i9dQZF1DWXbiccytJ5L7.md)
 - [Country Rock Classics](/playlists/pretty/37i9dQZF1DX4bf0P6HTTom.md)
 - [Country Rocks](/playlists/pretty/37i9dQZF1DWWH0izG4erma.md)
+- [Country Rocks \(2\)](/playlists/pretty/3YcFdF9VSq4ZiNzXH0KTPk.md)
 - [Country Songwriters](/playlists/pretty/37i9dQZF1DX9nWj0Ba73K5.md)
 - [Country Soul](/playlists/pretty/37i9dQZF1DWZv25tLhsWKX.md)
 - [Country Top 50](/playlists/pretty/37i9dQZF1DX7aUUBCKwo4Y.md)
