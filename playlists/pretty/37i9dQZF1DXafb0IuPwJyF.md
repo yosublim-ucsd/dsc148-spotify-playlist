@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,921 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,272 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 15 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
 | 16 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 17 | [What's Poppin](https://open.spotify.com/track/4h1szxNxkEIeAiBa8QcsJr) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [JIGG](https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Hit Different](https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm) | 2:28 |
-| 18 | [Relay～杜の詩](https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Relay～杜の詩](https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1) | 3:59 |
+| 18 | [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 |
 | 19 | [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 |
 | 20 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 |
 | 21 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [RANDO](https://open.spotify.com/track/5fJZDfgIiQgjzTlRxR6Q5G) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [RANDO](https://open.spotify.com/album/4NQ2zVZ53ndO3XCMTuhOj5) | 2:26 |
 | 50 | [Grapefruit Moon](https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l) | 3:16 |
 
-Snapshot ID: `MCxmZjdkM2VkNGE4ZTkzOTdjNTJkNDdhNjVmMTc2ZTMwYjZhYWFhY2I3`
+Snapshot ID: `MCwxNzA2ZjIxZjQxNWM0M2U3MzdhMjNjYjUxY2ExMWYyZDljNTAyYTNm`

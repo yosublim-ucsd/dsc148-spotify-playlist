@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-202 songs - 9 hr 43 min
+203 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Elite](https://open.spotify.com/track/2m9aE9cICRHXEg3s4Tqoti) | [Deep Karan](https://open.spotify.com/artist/2rAC8yC2Aqdo2utiGuDto2) | [Fluke](https://open.spotify.com/album/6fk8tsjC44D7JuY4TcwBXO) | 2:11 | 2023-09-11 |  |
 | [Excited](https://open.spotify.com/track/4zgEDxWXTVuNmkI79ptoms) | [Inder Dosanjh](https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY), [Quan](https://open.spotify.com/artist/4rDS8JCx4Q5fYKO5K14Vxp) | [Excited](https://open.spotify.com/album/3tSrUwOd0bpchOFDr23apD) | 2:52 | 2023-03-29 | 2023-04-21 |
 | [Expense](https://open.spotify.com/track/4LPNEtQxELZYdaacTHWMxq) | [Teji Grewal](https://open.spotify.com/artist/68evXbnRy6P5jtQ9Q0gVMr) | [Expense](https://open.spotify.com/album/1T0Lwamtr3bvYAOIQ4WdW3) | 2:10 | 2023-03-29 | 2023-04-09 |
+| [Face Off](https://open.spotify.com/track/6F4IkQArLX0RLBtkdVozdw) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Face Off](https://open.spotify.com/album/2oF0uESFONNNQOdQwtM57J) | 2:44 | 2023-09-18 |  |
 | [Faizal](https://open.spotify.com/track/5Ay3nE2YNmBF60RDB6DtkP) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Faizal](https://open.spotify.com/album/2OIBwvMBt2Ktk3SWRMmrKx) | 2:58 | 2023-03-29 |  |
 | [Fame](https://open.spotify.com/track/0doLWXxQzcRzv8isym89LD) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Fame](https://open.spotify.com/album/3lbWyHLi8UdkSPAG1r2Eem) | 2:15 | 2023-08-03 |  |
 | [Fame Reimagined](https://open.spotify.com/track/6slt0Km0sIX6pfvao6DklQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Fame Reimagined](https://open.spotify.com/album/2S5yuKEW0ulvUYF65itkoo) | 2:16 | 2023-06-30 |  |

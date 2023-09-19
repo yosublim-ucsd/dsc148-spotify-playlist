@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,913 likes - 115 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,917 likes - 115 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 50 | [DUMMA SIG](https://open.spotify.com/track/6rM0DwmQrXZCl7HaqByPja) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [DUMMA SIG](https://open.spotify.com/album/3efVPbivF2D2f6tZEqPO7d) | 2:28 |
 | 51 | [MELODY](https://open.spotify.com/track/4VV9RcgVyOInt1s0YITa0N) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [MELODY](https://open.spotify.com/album/3a9SHBzsLZ3L5htA6QtVkc) | 2:19 |
 | 52 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 |
-| 53 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 |
+| 53 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 |
 | 54 | [Baileys](https://open.spotify.com/track/5TWJiRYe4iG0VboVgSCaDQ) | [Nilo](https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la) | [Baileys](https://open.spotify.com/album/0QVJ9wCNMgM2D2zRzfcVOU) | 2:31 |
 | 55 | [Ditt och mitt](https://open.spotify.com/track/2BeStvbuZCnr3I4OBIq3BA) | [Gissberg](https://open.spotify.com/artist/0kDLpXsC5aGG75k3zDhaO4) | [Ditt och mitt](https://open.spotify.com/album/04lfWss2BApop0O0g4udSk) | 3:10 |
 | 56 | [När du landat \(har jag vaknat\)](https://open.spotify.com/track/7qwAJ90Wui8N54Isyot9fk) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [När du landat \(har jag vaknat\)](https://open.spotify.com/album/3UBrdcRCvZdWIR36GhER7V) | 3:37 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 114 | [Baptized at Fourteen](https://open.spotify.com/track/5yaD91xv7SX9vnmGsOEf0m) | [Nina Kinert](https://open.spotify.com/artist/6uRl4Lp821EvTTEYmboj8O) | [Baptized at Fourteen](https://open.spotify.com/album/5Qld9pwN4h6hodcsLY16jY) | 4:13 |
 | 115 | [Revolution](https://open.spotify.com/track/13ikUGJr1PGR1cCexEHltk) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Revolution](https://open.spotify.com/album/6QJG9x8Bs9avQ41ZFe6xsP) | 3:24 |
 
-Snapshot ID: `MCwzYzhiMzg2OGE0ZWEzZmM2ODM0YWVjNTYzOTkzZWMxNDlmNjgyMWFk`
+Snapshot ID: `MCw3OGM0MDAyOTZlNjk1NWIxYTg2ZjdiYTk4YTc5ZGZhMmRlOTY1MDBi`

@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 109847,
+  "num_followers": 109911,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmExOWM1ODY2ZjhjNTA3YTMwZjAyNmQ1NTBkOTQ0ZWY5NGI2ZTg1",
+  "snapshot_id": "MCw4ZDZlODcyNDQzZjhlNDg4MDVkODMxOTFiMmE5ZjcxYzM4Y2MxOTBk",
   "tracks": [
     {
       "added_at": "2023-09-04 16:45:54",
@@ -396,22 +396,6 @@
       "added_at": "2023-09-04 16:45:54",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 184548,
-      "name": "ocean eyes - Recorded Live at Jungle City Studios",
-      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
@@ -423,6 +407,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 184548,
+      "name": "ocean eyes - Recorded Live at Jungle City Studios",
+      "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 216110,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 239076,
+      "name": "Lover - Recorded at Air Studios, London",
+      "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 147000,
       "name": "Creep",
       "url": "https://open.spotify.com/track/7j8FDy7eI1TommLedXXdHz"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 239076,
-      "name": "Lover - Recorded at Air Studios, London",
-      "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1175,38 +1175,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 228827,
-      "name": "August - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "True Colors (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
-      },
-      "artists": [
-        {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "True Colors (Spotify Singles)",
-      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "glimpse of us",
         "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
       },
@@ -1223,6 +1191,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Cruel Summer (Acoustic Version)",
         "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 176789,
       "name": "Cruel Summer (Acoustic Version)",
       "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "True Colors (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "True Colors (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 252596,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 230306,
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY) [Acoustic]",
         "url": "https://open.spotify.com/album/6kaPo11OP4Nh6B0X7fbwVa"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 144570,
       "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
       "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
+        "name": "Take On Me",
+        "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
       },
       "artists": [
         {
-          "name": "Emilee Moore",
-          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
         }
       ],
-      "duration_ms": 192029,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
+      "duration_ms": 146533,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Take On Me",
-        "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
       },
       "artists": [
         {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
         }
       ],
-      "duration_ms": 146533,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
+      "duration_ms": 192029,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1908,22 +1908,6 @@
       "added_at": "2023-09-04 16:45:54",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 236334,
-      "name": "Halo - Spotify Singles",
-      "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
       },
       "artists": [
@@ -1935,6 +1919,22 @@
       "duration_ms": 238439,
       "name": "Complicated - Spotify Singles",
       "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 236334,
+      "name": "Halo - Spotify Singles",
+      "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 200539,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "The Salcombe Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 299280,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/6Rr5SuUGeiD79iHfOtudXi"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 200539,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "High Drama",
-        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 200171,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 148514,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 200171,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
-      },
-      "artists": [
-        {
-          "name": "Ward Thomas",
-          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Born in the Eighties",
         "url": "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 213945,
       "name": "Ayo Technology",
       "url": "https://open.spotify.com/track/3FZl7oNIPiYVfE59uVmPDU"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
+      },
+      "artists": [
+        {
+          "name": "Ward Thomas",
+          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
     },
     {
       "added_at": "2023-09-04 16:45:54",

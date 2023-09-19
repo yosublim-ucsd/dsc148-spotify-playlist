@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 257417,
+  "num_followers": 257507,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjNlZDRmMTAzMDE3ZDM0Y2FiMzU0NmFlMDc4OTdjYzdiY2U3MDk5",
+  "snapshot_id": "MCw0NDgzNzNlZWUzMTk0MTZlYzQ2OTUyMjBmNzBlNjZhMmM5N2Y4Nzk1",
   "tracks": [
     {
       "added_at": "2023-09-03 14:00:11",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
-    },
-    {
-      "added_at": "2023-09-03 14:00:11",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 240133,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
+    },
+    {
+      "added_at": "2023-09-03 14:00:11",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
       "added_at": "2023-09-03 14:00:11",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
-    },
-    {
-      "added_at": "2023-09-03 14:00:11",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 200626,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2023-09-03 14:00:11",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2023-09-03 14:00:11",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 161829,
-      "name": "All Night Parking (with Erroll Garner) Interlude",
-      "url": "https://open.spotify.com/track/496vIKS2INz840xZaKncvR"
-    },
-    {
-      "added_at": "2023-09-03 14:00:11",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
-        "name": "Without Fear (The Complete Edition)",
-        "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 149803,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
+      "duration_ms": 161829,
+      "name": "All Night Parking (with Erroll Garner) Interlude",
+      "url": "https://open.spotify.com/track/496vIKS2INz840xZaKncvR"
     },
     {
       "added_at": "2023-09-03 14:00:11",
@@ -895,6 +879,22 @@
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
+    },
+    {
+      "added_at": "2023-09-03 14:00:11",
+      "album": {
+        "name": "Without Fear (The Complete Edition)",
+        "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 149803,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
     },
     {
       "added_at": "2023-09-03 14:00:11",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
-        "name": "Optimist",
-        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 181210,
-      "name": "What They'll Say About Us",
-      "url": "https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR"
-    },
-    {
-      "added_at": "2023-09-03 14:00:11",
-      "album": {
         "name": "Conversations in the Dark",
         "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 237426,
       "name": "Conversations in the Dark",
       "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
+    },
+    {
+      "added_at": "2023-09-03 14:00:11",
+      "album": {
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 181210,
+      "name": "What They'll Say About Us",
+      "url": "https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR"
     },
     {
       "added_at": "2023-09-03 14:00:11",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
-    },
-    {
-      "added_at": "2023-09-03 14:00:11",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 206267,
       "name": "This Time Tomorrow",
       "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
+    },
+    {
+      "added_at": "2023-09-03 14:00:11",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
     },
     {
       "added_at": "2023-09-03 14:00:11",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 176413,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5mTZyrEQnncaxziYXyJ9WK"
-    },
-    {
-      "added_at": "2023-09-03 14:00:11",
-      "album": {
         "name": "Black Coffee",
         "url": "https://open.spotify.com/album/1GVapAXmeqaW9wUkp7rWt6"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2023-09-03 14:00:11",
       "album": {
-        "name": "That! Feels Good!",
-        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 282666,
-      "name": "Hello Love",
-      "url": "https://open.spotify.com/track/40bgBzGrYBURVjiQ4itEkh"
+      "duration_ms": 176413,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5mTZyrEQnncaxziYXyJ9WK"
     },
     {
       "added_at": "2023-09-03 14:00:11",
@@ -1559,6 +1543,22 @@
       "duration_ms": 226847,
       "name": "Chosen Last",
       "url": "https://open.spotify.com/track/5X4tAxxNC5XaSgcIW3xhj7"
+    },
+    {
+      "added_at": "2023-09-03 14:00:11",
+      "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "Hello Love",
+      "url": "https://open.spotify.com/track/40bgBzGrYBURVjiQ4itEkh"
     },
     {
       "added_at": "2023-09-03 14:00:11",

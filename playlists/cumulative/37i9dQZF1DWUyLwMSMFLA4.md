@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia y cuarteto!
 
-136 songs - 8 hr 18 min
+137 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn) | 2:51 | 2023-09-04 |  |
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2023-05-05 |  |
 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 | 2023-05-05 |  |
-| [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 | 2023-05-05 |  |
+| [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 | 2023-05-05 | 2023-09-19 |
 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 | 2023-05-05 |  |
 | [Entre El Cielo Vos y Yo](https://open.spotify.com/track/5WNhnwtXvov5vAtThQT5qW) | [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Entre El Cielo Vos y Yo](https://open.spotify.com/album/2wJW9ufFItLCD29F81QHfd) | 4:32 | 2023-08-22 | 2023-08-26 |
 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 | 2023-05-05 |  |
@@ -81,6 +81,7 @@
 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 | 2023-05-05 | 2023-06-01 |
 | [No Me Vuelvo a Enamorar \- Remix](https://open.spotify.com/track/3UIGtbFXyXuGFZZrZtZvP0) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [No Me Vuelvo a Enamorar \(Remix\)](https://open.spotify.com/album/76XGHb95o1OiR8mBqLKnD9) | 3:13 | 2023-06-09 | 2023-07-04 |
 | [No Podre Olvidarme](https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:15 | 2023-05-05 |  |
+| [No Quiero Dormir](https://open.spotify.com/track/7f7xS49CafNLc5nInF6Lyb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Inmenso](https://open.spotify.com/album/2roYPReN5FJxE0iGXpkD21) | 3:34 | 2023-09-08 |  |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2023-05-05 |  |
 | [No Te Vayas](https://open.spotify.com/track/2TzyHTZtgQM5G9LrSIAkjj) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Te Vayas](https://open.spotify.com/album/5fLXLwHK9MshuBwROf4ILu) | 2:19 | 2023-05-05 |  |
 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 | 2023-05-05 | 2023-06-17 |

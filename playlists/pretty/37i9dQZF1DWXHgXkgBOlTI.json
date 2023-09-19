@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: bohemianvoodoo",
-  "num_followers": 22630,
+  "num_followers": 22689,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjJiN2MzOWUwMmZjNDBlNGUwNDZhODBmMTJmMTE3NWEyZjlkZWM3",
+  "snapshot_id": "MCw3OTAzY2U5YjQxMDY0OGVjNTA3YTlhOWY0N2JiY2ZhM2U1MmU3Yjhm",
   "tracks": [
     {
       "added_at": "2023-09-05 15:00:00",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "Asian Dreamer",
-        "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
       },
       "artists": [
         {
-          "name": "CASIOPEA",
-          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 292666,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/4IjS1LeleZKxuHPrVqq33j"
+      "duration_ms": 236785,
+      "name": "\u591c\u9593\u822a\u8def - Album Mix",
+      "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
+        "name": "an anxious object",
+        "url": "https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5"
       },
       "artists": [
         {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+          "name": "mouse on the keys",
+          "url": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp"
         }
       ],
-      "duration_ms": 236785,
-      "name": "\u591c\u9593\u822a\u8def - Album Mix",
-      "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
+      "duration_ms": 200586,
+      "name": "spectres de mouse",
+      "url": "https://open.spotify.com/track/0M372WfoAEvYSRjcczirDF"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "an anxious object",
-        "url": "https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5"
-      },
-      "artists": [
-        {
-          "name": "mouse on the keys",
-          "url": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "spectres de mouse",
-      "url": "https://open.spotify.com/track/0M372WfoAEvYSRjcczirDF"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
         "name": "POLY LIFE MULTI SOUL",
         "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 128028,
       "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
       "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
+        "name": "Asian Dreamer",
+        "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
+      },
+      "artists": [
+        {
+          "name": "CASIOPEA",
+          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/4IjS1LeleZKxuHPrVqq33j"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -615,7 +615,7 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af OUTSIDE",
+        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
         "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
       },
       "artists": [
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "story",
-        "url": "https://open.spotify.com/album/1DVDZf2wezbNIYjkWDbXR8"
-      },
-      "artists": [
-        {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
-        }
-      ],
-      "duration_ms": 250152,
-      "name": "atom",
-      "url": "https://open.spotify.com/track/54baCiXqMz9UK8LqJ7nIPV"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
         "name": "NEWTOWN",
         "url": "https://open.spotify.com/album/2lveEbqQBRgGNrik6K2ZwS"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 298200,
       "name": "N\u00b09",
       "url": "https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
+        "name": "story",
+        "url": "https://open.spotify.com/album/1DVDZf2wezbNIYjkWDbXR8"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "duration_ms": 250152,
+      "name": "atom",
+      "url": "https://open.spotify.com/track/54baCiXqMz9UK8LqJ7nIPV"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
+        "name": "TENT",
+        "url": "https://open.spotify.com/album/2TKWC4WpImusMrl1AmkW2t"
+      },
+      "artists": [
+        {
+          "name": "toconoma",
+          "url": "https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS"
+        }
+      ],
+      "duration_ms": 301400,
+      "name": "relive",
+      "url": "https://open.spotify.com/track/50t4tQAB6MPXX2bzFeGCid"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
         "name": "Ready?",
         "url": "https://open.spotify.com/album/1gnPX2apuEEOkRwsDQOdtw"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "TENT",
-        "url": "https://open.spotify.com/album/2TKWC4WpImusMrl1AmkW2t"
+        "name": "I'll",
+        "url": "https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo"
       },
       "artists": [
         {
-          "name": "toconoma",
-          "url": "https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS"
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
         }
       ],
-      "duration_ms": 301400,
-      "name": "relive",
-      "url": "https://open.spotify.com/track/50t4tQAB6MPXX2bzFeGCid"
+      "duration_ms": 245500,
+      "name": "Sad Premonition / Lilium",
+      "url": "https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -827,22 +843,6 @@
       "duration_ms": 310517,
       "name": "Breeze and You (Live Version)",
       "url": "https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "I'll",
-        "url": "https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo"
-      },
-      "artists": [
-        {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Sad Premonition / Lilium",
-      "url": "https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

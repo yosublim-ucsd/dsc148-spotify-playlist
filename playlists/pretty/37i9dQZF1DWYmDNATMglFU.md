@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. olivia rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,472 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,521 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [i hope KARMA](https://open.spotify.com/track/35ZzmdIfPCZWfmlkR5zgA4) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [i hope KARMA](https://open.spotify.com/album/42MNxi6wrqYQxvTCU8CW58) | 3:16 |
 | 80 | [East End Boys](https://open.spotify.com/track/00nnljM2ZxydI3M7CgNTK4) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [East End Boys](https://open.spotify.com/album/7BDiM9iqKeVx14t6LlSU8a) | 2:55 |
 
-Snapshot ID: `MCw4NTg4N2U1NTYwYjE4ODY1ZDNhYzJkMjE1MzFkMjY1NmEwNWI5OTQ1`
+Snapshot ID: `MCxiODA5NDA4NGFlZDEzYTdiMWVlMDRlYjkxYzYxYTE4MDA4YjhiN2Ew`

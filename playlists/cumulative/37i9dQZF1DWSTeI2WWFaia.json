@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194397,
+      "name": "Based On True Events, Pt. 2",
+      "url": "https://open.spotify.com/track/6VIF7IamWzKuMlEcW6Bmw8"
+    },
+    {
+      "album": {
         "name": "Hitler Wears Hermes 8: Sincerely Adolf",
         "url": "https://open.spotify.com/album/0M5cyXHBV0en8q02019vaC"
       },
@@ -9014,7 +9032,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 210624,
       "name": "Slow it Down",
       "url": "https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA"

@@ -4,7 +4,7 @@
 
 > Beautifully sad and moody piano music.
 
-341 songs - 15 hr 2 min
+343 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 | 2023-06-20 |  |
 | [Another Time](https://open.spotify.com/track/4D3yNko56x9TtQgVBKkxRl) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Another Time](https://open.spotify.com/album/2jeYw4SEjdiEUnCanJ2gIr) | 2:32 | 2022-03-30 |  |
 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 | 2022-05-04 |  |
+| [Apart](https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Apart](https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr) | 3:01 | 2023-09-18 |  |
 | [As You Are](https://open.spotify.com/track/51KaUzLKNm24PSwdK8MhVY) | [Jakob München](https://open.spotify.com/artist/5lzyS07BZQrvRmABhTmroF) | [As You Are](https://open.spotify.com/album/3O9SKAOz5YQ95vIl6Z61xQ) | 2:21 | 2023-05-09 |  |
 | [Ashes](https://open.spotify.com/track/4Kplx8WHmzw9LQf1KJ5wsn) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Ashes](https://open.spotify.com/album/0oSLWXxvaW6B5aGlsiztAO) | 2:33 | 2023-01-19 |  |
 | [Au lecteur curieux](https://open.spotify.com/track/4pKj48uAM0lhxKdg74zJBw) | [Meara Meloquin](https://open.spotify.com/artist/2r3IU74miMmV4b9Qm9kp37) | [Au lecteur curieux](https://open.spotify.com/album/3I68HnQ0IGVaJ6qvXhWeSu) | 2:23 | 2022-06-06 |  |
@@ -191,6 +192,7 @@
 | [Nocturne](https://open.spotify.com/track/14sKAbkXofaqoVmEP52Ire) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Nocturne](https://open.spotify.com/album/2cW49A7JOvYRYQj5gNCBKi) | 2:32 | 2021-12-14 |  |
 | [Nocturne I](https://open.spotify.com/track/6f9DfXmjSQ7u2D9AzwA6l2) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:53 | 2022-06-06 |  |
 | [Norwegian Beauty](https://open.spotify.com/track/0zohGfpuv878yJ36B0NCBm) | [Evelyn Stein](https://open.spotify.com/artist/4rygF1Cuu6aehFfLcK8ZjN) | [Norweigan beauty](https://open.spotify.com/album/16EPYvzRC6WuSR8oY5QN2e) | 2:07 | 2021-12-14 | 2022-05-05 |
+| [Nostalgia](https://open.spotify.com/track/2VLZp2Z7FLrkn2ysVgZGKY) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Nostalgia](https://open.spotify.com/album/4tradG5YoXryCru3ftThli) | 2:12 | 2023-09-18 |  |
 | [Nostalgia](https://open.spotify.com/track/1zj98YuXYeQP02d4kqoSEE) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Nostalgia](https://open.spotify.com/album/2tPUS5tvDkuKL66bLk5CYN) | 2:23 | 2022-07-06 |  |
 | [Nostalgica](https://open.spotify.com/track/0N0Rxym9LnsVtwAdAVcWrQ) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [Nostalgica](https://open.spotify.com/album/3zxaNFApLDuAYT2haPRbXq) | 2:06 | 2023-02-28 |  |
 | [Numéro 11](https://open.spotify.com/track/1esrhRyrNWhIn2OcB48AzP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 11](https://open.spotify.com/album/1TRmbAEVPLZNn1aNW0YdKh) | 2:48 | 2022-08-03 | 2023-04-05 |

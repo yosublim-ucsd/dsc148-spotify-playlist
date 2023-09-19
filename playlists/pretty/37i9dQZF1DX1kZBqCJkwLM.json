@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: SNOW WIFE",
-  "num_followers": 81792,
+  "num_followers": 81807,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTNhYmMzNjU0MjIyZDRlYzgxNTVhZjFkNjM1ZWMyMTBmNzljOGQw",
+  "snapshot_id": "MCxkMDRjOWE1YmJlYjgwYjAyYWZjZTU5NmY1ZjI3YTA0ZjgyNzRiNTlj",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -339,6 +323,38 @@
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -379,22 +395,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 124751,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Dolls EP",
         "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 174002,
       "name": "Living Hell",
       "url": "https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 124751,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "The King",
+        "url": "https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "The King",
+      "url": "https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 207013,
       "name": "Split",
       "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "The King",
-        "url": "https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "The King",
-      "url": "https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 179156,
-      "name": "Bicycle",
-      "url": "https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 151150,
       "name": "Rain",
       "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
       },
       "artists": [
         {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 145173,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+      "duration_ms": 179156,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+        "name": "damn Right",
+        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
       },
       "artists": [
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
         }
       ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+      "duration_ms": 164605,
+      "name": "damn Right",
+      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "damn Right",
-        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 164605,
-      "name": "damn Right",
-      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Hot One",
         "url": "https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 176445,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
-      },
-      "artists": [
-        {
-          "name": "MK xyz",
-          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
-        }
-      ],
-      "duration_ms": 156909,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Our Time is Blue",
         "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 218266,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
+      },
+      "artists": [
+        {
+          "name": "MK xyz",
+          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 282110,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 213076,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 282110,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "GORGEOUS",
-        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
-      },
-      "artists": [
-        {
-          "name": "BODUR",
-          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "GORGEOUS",
-      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3EpDQMIbcSrvkU9g2drqz3"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 197223,
       "name": "Alive",
       "url": "https://open.spotify.com/track/39LmkwLmeETbr80Uy7HIVU"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "GORGEOUS",
+        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
+      },
+      "artists": [
+        {
+          "name": "BODUR",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "GORGEOUS",
+      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
     },
     {
       "added_at": "2023-08-25 04:00:00",

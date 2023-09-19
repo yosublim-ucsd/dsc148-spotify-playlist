@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: King Gnu
 
-1,018 songs - 2 day 15 hr 24 min
+1,019 songs - 2 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,8 @@
 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 | 2023-06-18 | 2023-07-03 |
 | [RECIPE](https://open.spotify.com/track/6zRjzLaCarPcnPUb4Zrh0W) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 3:32 | 2022-07-03 | 2022-07-18 |
 | [REFLECTION \(feat\. 中村佳穂\)](https://open.spotify.com/track/0WDhwnZ325K5LUvx1FywgW) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [REFLECTION \(feat\. 中村佳穂\)](https://open.spotify.com/album/13jQMgxK2VECQAxVSz89Ja) | 4:54 | 2022-02-27 | 2022-03-28 |
-| [Relay～杜の詩](https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Relay～杜の詩](https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1) | 3:59 | 2023-09-17 |  |
+| [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 | 2023-09-17 |  |
+| [Relay～杜の詩](https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Relay～杜の詩](https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1) | 3:59 | 2023-09-17 | 2023-09-19 |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/5Mfaq632ksRTongklYsDWU) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-08-27 |  |
 | [Rendezvous](https://open.spotify.com/track/4NK7en9BEHFbtn7MUF4QwA) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [Rendezvous](https://open.spotify.com/album/3npoOwzJ35E1gXtT0T6u38) | 3:46 | 2023-07-16 | 2023-08-07 |
 | [Resonance](https://open.spotify.com/track/7iXkiBI5lr8uVIXfFjSk5c) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Resonance](https://open.spotify.com/album/0kGtdwXSM5qwRhRzeD8xxP) | 3:30 | 2023-02-05 | 2023-02-20 |

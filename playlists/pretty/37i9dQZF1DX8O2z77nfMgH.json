@@ -1,12 +1,12 @@
 {
   "description": "Lanzamientos de la semana. M\u00fasica nueva de toda la regi\u00f3n. Foto: Ozuna",
-  "num_followers": 941798,
+  "num_followers": 941841,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGE3YTljNjk4YzQ1MzE5NzQwNWI1ZDZmODRmN2EzMjhhYTQ2MDhm",
+  "snapshot_id": "MCwxMzE2NDcxYTk1MzM4MzcwMDBhYzcwNzM2NDFiMGFiOTBkZDU0MzMz",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -31,6 +31,46 @@
       "duration_ms": 187129,
       "name": "Te Menti",
       "url": "https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "La Verde",
+        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 181342,
+      "name": "La Verde",
+      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Pa Casa",
+        "url": "https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4"
+      },
+      "artists": [
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Pa Casa",
+      "url": "https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -75,18 +115,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "El Toro Encartado - Spotify Singles",
-        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/14TXiNiKS2IN3DS2yebo6M"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 164245,
-      "name": "El Toro Encartado - Spotify Singles",
-      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
+      "duration_ms": 219626,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/5GeGyUYqWOjFBLKEa1CTet"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -143,102 +183,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Pa Casa",
-        "url": "https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4"
-      },
-      "artists": [
-        {
-          "name": "ICON",
-          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Pa Casa",
-      "url": "https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/14TXiNiKS2IN3DS2yebo6M"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 219626,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/5GeGyUYqWOjFBLKEa1CTet"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "La Verde",
-        "url": "https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 181342,
-      "name": "La Verde",
-      "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Solta-te",
-        "url": "https://open.spotify.com/album/6xPbkBh6qJsdV2T427pWzL"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Solta-te",
-      "url": "https://open.spotify.com/track/2UI3cAPpvUIQDVxZZn9WUo"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Back for More (with Anitta)",
-        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 131037,
-      "name": "Back for More (with Anitta)",
-      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "La Noche Est\u00e1",
         "url": "https://open.spotify.com/album/0nPyruilVBDAdGsMTzAM3g"
       },
@@ -255,42 +199,62 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "GOZANDO",
-        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
+        "name": "M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
         }
       ],
-      "duration_ms": 171692,
-      "name": "GOZANDO",
-      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
+      "duration_ms": 153386,
+      "name": "M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Heisenbern",
-        "url": "https://open.spotify.com/album/7zmMr2oxWs6WCWUtncO64t"
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 189517,
-      "name": "Heisenbern",
-      "url": "https://open.spotify.com/track/6xA4c9bG8Eqrzf8rT167Ai"
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Cristales Tinteaos",
+        "url": "https://open.spotify.com/album/1JxyuEpwSYtQ3pizpRp1Ka"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Cristales Tinteaos",
+      "url": "https://open.spotify.com/track/1NnREXNhcZ8WGgJOR1gPUX"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -331,6 +295,126 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/4UNDV8AqUornyJWPnlRWQs"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/5G1KCcMIWwbtdICHAMEkcj"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Ponte de Espalda",
+        "url": "https://open.spotify.com/album/6TmlXgWcxq0zOtlE8FN19R"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Ponte de Espalda",
+      "url": "https://open.spotify.com/track/0ANwt3bp7HC1wnWEeavWEq"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Solta-te",
+        "url": "https://open.spotify.com/album/6xPbkBh6qJsdV2T427pWzL"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Solta-te",
+      "url": "https://open.spotify.com/track/2UI3cAPpvUIQDVxZZn9WUo"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Turrita",
+        "url": "https://open.spotify.com/album/44liNl52XZzjDDztOfuFoB"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 172810,
+      "name": "Turrita",
+      "url": "https://open.spotify.com/track/0zZX1KC6rGJfXMh4brGv5q"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Back for More (with Anitta)",
+        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "GOZANDO",
+        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "GOZANDO",
+      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Dime (with Conexi\u00f3n Divina)",
         "url": "https://open.spotify.com/album/62LsTv9SDFBUihRPwVUsLr"
       },
@@ -347,22 +431,6 @@
       "duration_ms": 232341,
       "name": "Dime (with Conexi\u00f3n Divina)",
       "url": "https://open.spotify.com/track/0RUEaNVgRbaj8Mm1qPaHri"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "M\u00e1quina del Tiempo",
-        "url": "https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 153386,
-      "name": "M\u00e1quina del Tiempo",
-      "url": "https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -407,70 +475,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Cristales Tinteaos",
-        "url": "https://open.spotify.com/album/1JxyuEpwSYtQ3pizpRp1Ka"
+        "name": "Heisenbern",
+        "url": "https://open.spotify.com/album/7zmMr2oxWs6WCWUtncO64t"
       },
       "artists": [
         {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Cristales Tinteaos",
-      "url": "https://open.spotify.com/track/1NnREXNhcZ8WGgJOR1gPUX"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Turrita",
-        "url": "https://open.spotify.com/album/44liNl52XZzjDDztOfuFoB"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 172810,
-      "name": "Turrita",
-      "url": "https://open.spotify.com/track/0zZX1KC6rGJfXMh4brGv5q"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Ponte de Espalda",
-        "url": "https://open.spotify.com/album/6TmlXgWcxq0zOtlE8FN19R"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Ponte de Espalda",
-      "url": "https://open.spotify.com/track/0ANwt3bp7HC1wnWEeavWEq"
+      "duration_ms": 189517,
+      "name": "Heisenbern",
+      "url": "https://open.spotify.com/track/6xA4c9bG8Eqrzf8rT167Ai"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -683,22 +699,6 @@
       "duration_ms": 212440,
       "name": "215 D\u00edas",
       "url": "https://open.spotify.com/track/1I0iDHKaWVdIB9jbxLFqMU"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/4UNDV8AqUornyJWPnlRWQs"
-      },
-      "artists": [
-        {
-          "name": "Yera",
-          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/5G1KCcMIWwbtdICHAMEkcj"
     },
     {
       "added_at": "2023-09-15 04:00:00",

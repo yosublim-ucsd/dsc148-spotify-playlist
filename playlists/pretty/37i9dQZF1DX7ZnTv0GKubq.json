@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 351919,
+  "num_followers": 352045,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2NhZGY0YTMyYmY1M2I5NjNjZDU0YzYxMTgyOThiMGVjYTlkMzMy",
+  "snapshot_id": "MCw3ZTYzNDE1OTJkNGZhMDgzNDI3N2ZjOWFjMTEyNmM0NGE0ZWFmMzUw",
   "tracks": [
     {
       "added_at": "2023-07-21 10:20:44",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-07-21 10:20:44",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 180953,
-      "name": "Lost Me",
-      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+      "duration_ms": 235426,
+      "name": "The Most Beautiful Thing",
+      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
     },
     {
       "added_at": "2023-07-21 10:20:44",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-07-21 10:20:44",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 235426,
-      "name": "The Most Beautiful Thing",
-      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
     },
     {
       "added_at": "2023-07-21 10:20:44",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-07-21 10:20:44",
       "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
-    },
-    {
-      "added_at": "2023-07-21 10:20:44",
-      "album": {
         "name": "Very Few Friends",
         "url": "https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21"
       },
@@ -471,22 +455,6 @@
     {
       "added_at": "2023-07-21 10:20:44",
       "album": {
-        "name": "Flexin",
-        "url": "https://open.spotify.com/album/3rOki3JLECyVDkCn6o7XMX"
-      },
-      "artists": [
-        {
-          "name": "Aida Lae",
-          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Flexin",
-      "url": "https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb"
-    },
-    {
-      "added_at": "2023-07-21 10:20:44",
-      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -499,6 +467,22 @@
       "duration_ms": 201546,
       "name": "Helmet",
       "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
+    },
+    {
+      "added_at": "2023-07-21 10:20:44",
+      "album": {
+        "name": "Flexin",
+        "url": "https://open.spotify.com/album/3rOki3JLECyVDkCn6o7XMX"
+      },
+      "artists": [
+        {
+          "name": "Aida Lae",
+          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Flexin",
+      "url": "https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb"
     },
     {
       "added_at": "2023-07-21 10:20:44",
@@ -523,22 +507,6 @@
     {
       "added_at": "2023-07-21 10:20:44",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7"
-      },
-      "artists": [
-        {
-          "name": "Karl Benjamin",
-          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
-        }
-      ],
-      "duration_ms": 164856,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD"
-    },
-    {
-      "added_at": "2023-07-21 10:20:44",
-      "album": {
         "name": "Gravity (feat. Tyler, The Creator)",
         "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
       },
@@ -559,6 +527,38 @@
       "duration_ms": 214692,
       "name": "GRAVITY (FEAT. TYLER, THE CREATOR)",
       "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
+    },
+    {
+      "added_at": "2023-07-21 10:20:44",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7"
+      },
+      "artists": [
+        {
+          "name": "Karl Benjamin",
+          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
+        }
+      ],
+      "duration_ms": 164856,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD"
+    },
+    {
+      "added_at": "2023-07-21 10:20:44",
+      "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
     },
     {
       "added_at": "2023-07-21 10:20:44",
@@ -711,22 +711,22 @@
     {
       "added_at": "2023-07-21 10:20:44",
       "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 166623,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
+      "duration_ms": 293426,
+      "name": "Sunshine (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
     },
     {
       "added_at": "2023-07-21 10:20:44",
@@ -747,22 +747,22 @@
     {
       "added_at": "2023-07-21 10:20:44",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         },
         {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 293426,
-      "name": "Sunshine (feat. Foushe\u00e9)",
-      "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
+      "duration_ms": 166623,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
       "added_at": "2023-07-21 10:20:44",

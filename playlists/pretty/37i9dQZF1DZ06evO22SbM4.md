@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 
 > This is Bailey Zimmerman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,362 likes - 16 songs - 51 min 49 sec
+[Spotify](https://open.spotify.com/user/spotify) - 17,564 likes - 16 songs - 51 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 | 15 | [From The Fall](https://open.spotify.com/track/1NYf23TIqL4hyIw8rppZ2S) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:48 |
 | 16 | [Get to Gettin’ Gone](https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:02 |
 
-Snapshot ID: `MjgyNDYzNTEsMDAwMDAwMDBmMDNiMTFiMWU0ZWM2ZTc3MGQxYzZmZDM1ZTc0OWQ2NA==`
+Snapshot ID: `MjgyNTA2NTIsMDAwMDAwMDBmN2I1ZjllMmRlNGY3MjY2ZGZhNGQ0NjE4YWRkZTQzMw==`

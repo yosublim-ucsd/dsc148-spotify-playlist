@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 876026,
+  "num_followers": 876087,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmQ5MjNhNWQzMmU4ZTg1YmU3OTkxNGIxODdhZGRlODMxMTliMmZm",
+  "snapshot_id": "MCxmNmYzYTQ3NWRmMDYwY2QwZjJiNWMyYWU0Mzc4NTRlZTFkYzdjYTg0",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Secret (Acoustic)",
-        "url": "https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3"
-      },
-      "artists": [
-        {
-          "name": "Angel Snow",
-          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Secret - Acoustic",
-      "url": "https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "At the Roadhouse",
         "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 245160,
       "name": "Till the Flame Turns Blue",
       "url": "https://open.spotify.com/track/65ZLBQ0h2KKqNqqpnr76N0"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Secret (Acoustic)",
+        "url": "https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3"
+      },
+      "artists": [
+        {
+          "name": "Angel Snow",
+          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Secret - Acoustic",
+      "url": "https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
     },
     {
+      "added_at": "2023-09-15 16:13:37",
+      "album": {
+        "name": "Here Comes The Comeback",
+        "url": "https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
+        }
+      ],
+      "duration_ms": 162101,
+      "name": "Here Comes The Comeback",
+      "url": "https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf"
+    },
+    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Haunted Mountain",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Song For Our Daughter",
         "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2023-09-15 16:13:37",
-      "album": {
-        "name": "Here Comes The Comeback",
-        "url": "https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 162101,
-      "name": "Here Comes The Comeback",
-      "url": "https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "A River Running to Your Heart",
-        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 213057,
-      "name": "Sick of This Feeling",
-      "url": "https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Inwards & Onwards",
         "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 138939,
       "name": "How Come My Body",
       "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "A River Running to Your Heart",
+        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 213057,
+      "name": "Sick of This Feeling",
+      "url": "https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Bluebeard",
+        "url": "https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 188468,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Celebrants",
-      "url": "https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1563,6 +1563,38 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Celebrants",
+      "url": "https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 248853,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1595,22 +1627,6 @@
       "duration_ms": 206013,
       "name": "Cool Jam",
       "url": "https://open.spotify.com/track/7uMh3fweKrgDOtnMoxp3O4"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 248853,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1667,22 +1683,6 @@
       "duration_ms": 189282,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Witness Trees",
-        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 160821,
-      "name": "Witness Trees",
-      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
     }
   ],
   "unique_name": "Chill Folk",

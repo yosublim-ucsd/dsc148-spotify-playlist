@@ -262,7 +262,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 222312,
       "name": "Acting My Age",
       "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
@@ -4980,6 +4980,24 @@
       "duration_ms": 156000,
       "name": "Japanese Posters",
       "url": "https://open.spotify.com/track/19mIMQ8rNN4jmfR1UXVNBQ"
+    },
+    {
+      "album": {
+        "name": "Subway Songs",
+        "url": "https://open.spotify.com/album/4tXxs6waGudqwvt6FCP6LN"
+      },
+      "artists": [
+        {
+          "name": "Rebounder",
+          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Japanese Posters",
+      "url": "https://open.spotify.com/track/403SdJ62eNPjNc94vJQJOu"
     },
     {
       "album": {

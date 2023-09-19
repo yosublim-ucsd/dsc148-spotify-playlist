@@ -720,6 +720,28 @@
     {
       "album": {
         "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152413,
+      "name": "Dracula's Wedding",
+      "url": "https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO"
+    },
+    {
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/4FZRhzEtEDk05L6Z2OT9UB"
       },
       "artists": [
@@ -738,28 +760,6 @@
       "duration_ms": 152733,
       "name": "Dracula's Wedding",
       "url": "https://open.spotify.com/track/1HS1yIO8uhNoQylBg9boFU"
-    },
-    {
-      "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "date_added": "2019-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152413,
-      "name": "Dracula's Wedding (feat. Kelis)",
-      "url": "https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO"
     },
     {
       "album": {

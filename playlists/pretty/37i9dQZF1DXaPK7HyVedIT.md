@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,093 likes - 72 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,160 likes - 72 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 71 | [Gotta Know](https://open.spotify.com/track/2gwQYJuB0J6EAxyixjEwaS) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Gotta Know](https://open.spotify.com/album/7yLsleNnqM3ZoIO7v92o4k) | 2:47 |
 | 72 | [At the Party \- Radio Mix](https://open.spotify.com/track/0UrjoB5Pczv0hvXVu2ocyc) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Aaron Jackson](https://open.spotify.com/artist/5hKQVA377hopQ9HWPOseXF) | [At the Party \(Radio Mix\)](https://open.spotify.com/album/2mCJnMb7P50AKNaZuDEw0X) | 2:38 |
 
-Snapshot ID: `MCw5MThmM2E1YTcwNjYwNDdkYzIzYmViMWU4MzczYmM4MTA5NDkxYjI2`
+Snapshot ID: `MCwzOTZjNjFkZGE5Mzc1NzcwZDY3M2VjZTMyYjI3OWM0MmU5YjE2MmU1`

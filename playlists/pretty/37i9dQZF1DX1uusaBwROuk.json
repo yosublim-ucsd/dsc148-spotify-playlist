@@ -1,12 +1,12 @@
 {
   "description": "Roses are red, violet are blue, its been fun but i'm leaving you. \n",
-  "num_followers": 87248,
+  "num_followers": 87358,
   "original_name": "Breakup Szn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzIyNjE0NjNiNWExNzYwMzA3NTFmM2ZiMDljODg5NGFiMzZmZmIy",
+  "snapshot_id": "MCw1ZWU2OTU4NTAxYzVjNTcwODBhMTk1MTNiY2M3MDk3Mzc2MDcxN2Vm",
   "tracks": [
     {
       "added_at": "2023-09-03 14:52:51",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-09-03 14:52:51",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+      "duration_ms": 220306,
+      "name": "Better Than Revenge (Taylor's Version)",
+      "url": "https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58"
     },
     {
       "added_at": "2023-09-03 14:52:51",
@@ -235,6 +235,22 @@
       "duration_ms": 193146,
       "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
       "url": "https://open.spotify.com/track/31CdkzHnMbvJuKZvtCQfR6"
+    },
+    {
+      "added_at": "2023-09-03 14:52:51",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "added_at": "2023-09-03 14:52:51",
@@ -363,22 +379,6 @@
       "duration_ms": 185773,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
-    },
-    {
-      "added_at": "2023-09-03 14:52:51",
-      "album": {
-        "name": "Speak Now (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Better Than Revenge (Taylor's Version)",
-      "url": "https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58"
     },
     {
       "added_at": "2023-09-03 14:52:51",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-03 14:52:51",
       "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg"
-    },
-    {
-      "added_at": "2023-09-03 14:52:51",
-      "album": {
         "name": "Singular Act I",
         "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 179226,
       "name": "Sue Me",
       "url": "https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb"
+    },
+    {
+      "added_at": "2023-09-03 14:52:51",
+      "album": {
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg"
     },
     {
       "added_at": "2023-09-03 14:52:51",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-03 14:52:51",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Single Ladies (Put a Ring on It)",
-      "url": "https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx"
-    },
-    {
-      "added_at": "2023-09-03 14:52:51",
-      "album": {
         "name": "Your New Boyfriend",
         "url": "https://open.spotify.com/album/7krAqKWEJpVnJfH4eOqA6F"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 125407,
       "name": "All My Exes' Moms",
       "url": "https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX"
+    },
+    {
+      "added_at": "2023-09-03 14:52:51",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx"
     },
     {
       "added_at": "2023-09-03 14:52:51",

@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn?si=rTglW8cHTY\-t8QgrCfw0vw">Neon Adejo </a>
 
-785 songs - 2 day 15 hr 33 min
+786 songs - 2 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [A Sivayiwe](https://open.spotify.com/track/3BRunlcZr2OJAoqopZCzMI) | [Vocal Renascer](https://open.spotify.com/artist/3khrOLayDDtaAbUBeUQDd2) | [A Sivayiwe](https://open.spotify.com/album/4hsnNmXAdnmgSqd3WhUKzy) | 4:35 | 2023-08-25 | 2023-09-08 |
 | [Aanu](https://open.spotify.com/track/3Lb0K4ldDXoIoAozzvx9Ar) | [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Aanu](https://open.spotify.com/album/7fxIo3Udl8wOztmlddCPdL) | 6:51 | 2023-09-01 | 2023-09-15 |
 | [Add It Up](https://open.spotify.com/track/5gdRMnjDO3UZojTFCPtj11) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Add It Up](https://open.spotify.com/album/07eddVhM5Tj1bvbzWC2Vn0) | 2:24 | 2023-08-04 | 2023-08-11 |
-| [Addicted Gospel](https://open.spotify.com/track/3fZv20odhk0oiqnPifJJSe) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Addicted Gospel](https://open.spotify.com/album/0f4E164Vht9LKfWeYUVm6C) | 3:21 | 2023-09-08 |  |
+| [Addicted Gospel](https://open.spotify.com/track/5F3I7iXgPacXdhkTVoCwgo) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Addicted Gospel](https://open.spotify.com/album/0ZKov2uU5icfihqqFzNIh9) | 3:14 | 2023-09-08 |  |
+| [Addicted Gospel](https://open.spotify.com/track/3fZv20odhk0oiqnPifJJSe) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Addicted Gospel](https://open.spotify.com/album/0f4E164Vht9LKfWeYUVm6C) | 3:21 | 2023-09-08 | 2023-09-19 |
 | [Adom Wura](https://open.spotify.com/track/6O1aqQz9skabZMvLahi8j9) | [SovT Music](https://open.spotify.com/artist/29eB4DKTb6yyUJ0G6vZC6e) | [Adom Wura](https://open.spotify.com/album/3VM0zw5PswBdjgkW5lN4Af) | 3:13 | 2023-08-18 | 2023-09-01 |
 | [Adore](https://open.spotify.com/track/0v4Jmh6bdwvUgt6wpwBJdj) | [Kolade Onahill](https://open.spotify.com/artist/6Wum5bzJyotOUOR5I0ftPQ) | [Adore](https://open.spotify.com/album/7BVdOV7Z0yeZ4HzQXMuSSW) | 5:26 | 2023-07-14 | 2023-07-28 |
 | [Adura](https://open.spotify.com/track/1P1fp42ea92O5i4CqTTn2B) | [Gravity Music](https://open.spotify.com/artist/6W1cBFeam23G6KaL5HV01d), [Oghenetega](https://open.spotify.com/artist/4kUGtBLLg9JzctTiqLak8a), [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG) | [Adura](https://open.spotify.com/album/5T48cwLr02R0pvkwoLdu6e) | 3:25 | 2023-05-26 | 2023-06-09 |

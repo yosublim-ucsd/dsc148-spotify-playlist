@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 277986,
       "name": "Haremachinote",
       "url": "https://open.spotify.com/track/7Dqkjap4ckvMiDYoPnO0aU"
@@ -1118,6 +1118,28 @@
       "duration_ms": 211613,
       "name": "\u6df1\u591c\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb",
       "url": "https://open.spotify.com/track/1VFiqzQ8xiq7fdbM9q4kxN"
+    },
+    {
+      "album": {
+        "name": "\u30d1\u30c1\u30b9\u30ed \u771f\u5929\u4e0b\u5e03\u6b66 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5Fr0vmW79GKI5yvgft4veA"
+      },
+      "artists": [
+        {
+          "name": "Yamasa Sound Team",
+          "url": "https://open.spotify.com/artist/1sjvjSu4lhUwMWSA8zK8gV"
+        },
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75517,
+      "name": "\u771f\u5929\u4e0b\u596a\u53d6 ~\u771f\u5929\u4e0bDASH~",
+      "url": "https://open.spotify.com/track/63SEyhu0E06OSBsoTNu8z4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y"

@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173408,
+  "num_followers": 173417,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JjNzYxNmM2ODU5ODI5MDFiZTIyMTUxM2ZiOWRjY2Q0OTM4ZTQx",
+  "snapshot_id": "MCwyMDMzZDQ5NTIwMDIxZjVkMzA3MzJhMzIxY2ExMzA5ODU1M2UzZjE5",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -239,18 +239,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 225373,
-      "name": "Kill Or Be Kind",
-      "url": "https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89"
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Kill Or Be Kind",
+      "url": "https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Things Have Changed",
         "url": "https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 416560,
       "name": "Things Have Changed",
       "url": "https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 219945,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/3Lr0bBluqoWt2F2njzyNLd"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Hannah Wicklund & The Steppin Stones",
         "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
       },
@@ -395,6 +411,22 @@
       "duration_ms": 212903,
       "name": "Ain't Too Worried Yet",
       "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 266071,
+      "name": "Clotilda's On Fire",
+      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -447,38 +479,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 266071,
-      "name": "Clotilda's On Fire",
-      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 219945,
-      "name": "Medicine Man",
-      "url": "https://open.spotify.com/track/3Lr0bBluqoWt2F2njzyNLd"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 210989,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Woman Like Me",
+        "url": "https://open.spotify.com/album/2P2PYpBvfCJZO63d24m4Fa"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 244429,
+      "name": "Woman Like Me",
+      "url": "https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -611,22 +627,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Woman Like Me",
-        "url": "https://open.spotify.com/album/2P2PYpBvfCJZO63d24m4Fa"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 244429,
-      "name": "Woman Like Me",
-      "url": "https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Healing Creek",
         "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ain't Gonna Hush!",
-        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
-      },
-      "artists": [
-        {
-          "name": "Saffire-The Uppity Blues Women",
-          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "Ain't Gonna Hush",
-      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "The Beautiful Bones",
         "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 264253,
       "name": "Release and Be Free",
       "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ain't Gonna Hush!",
+        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
+      },
+      "artists": [
+        {
+          "name": "Saffire-The Uppity Blues Women",
+          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "Ain't Gonna Hush",
+      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Nowhere Left to Go",
-        "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
-      },
-      "artists": [
-        {
-          "name": "Layla Zoe",
-          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Nowhere Left to Go",
-      "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ain't Got No Troubles",
         "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 232600,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Nowhere Left to Go",
+        "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
+      },
+      "artists": [
+        {
+          "name": "Layla Zoe",
+          "url": "https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Nowhere Left to Go",
+      "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
     },
     {
       "added_at": "2022-03-08 14:01:09",

@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 684739,
+  "num_followers": 684844,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzVmZjcyN2JhMzk3NGFkMmM2YzA2Mzg1MTg5NmMzMzgzY2NlYzE1",
+  "snapshot_id": "MCw5NTkyNDFmY2I4YmE5NGY5NDQ1NTY2NDAyOGEyZDhkOWZmODQ1NjQ1",
   "tracks": [
     {
       "added_at": "2023-07-25 17:32:56",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "New Me, Same Us",
         "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 211472,
       "name": "Billy",
       "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
-        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
       "artists": [
         {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 219624,
-      "name": "Ayonha",
-      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -787,34 +787,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "The Information",
-        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
         }
       ],
-      "duration_ms": 199426,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Thank You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+      "duration_ms": 219624,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -835,34 +819,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+        "name": "The Information",
+        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 232477,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+      "duration_ms": 199426,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -883,6 +851,38 @@
       "duration_ms": 333150,
       "name": "Tongo Barra",
       "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 232477,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Under The Blacklight (Standard Version)",
-        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "The Dandelion",
-        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 219884,
-      "name": "The Dandelion",
-      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Sticking With It",
         "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
       },
@@ -1199,6 +1167,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Mine Forever",
         "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "The Dandelion",
+        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 219884,
+      "name": "The Dandelion",
+      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
     },
     {
       "added_at": "2023-08-29 23:21:24",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        },
+        {
+          "name": "Florent F",
+          "url": "https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Didn't I - Florent F Rework",
+      "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Didn't I",
-        "url": "https://open.spotify.com/album/1U6CE7Xb5wwTQGA6BtUHYJ"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        },
-        {
-          "name": "Florent F",
-          "url": "https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Didn't I - Florent F Rework",
-      "url": "https://open.spotify.com/track/3OyOwLshqBHiEOAMBCYQgI"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "This Is My Story",
-        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Idol Eyes",
         "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
       },
@@ -1623,26 +1607,6 @@
       "duration_ms": 288426,
       "name": "Idol Eyes",
       "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Always Afternoon",
-        "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
-      },
-      "artists": [
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        },
-        {
-          "name": "Kathleen",
-          "url": "https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Always Afternoon",
-      "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1667,6 +1631,42 @@
       "duration_ms": 215204,
       "name": "Cruisin' to the Parque",
       "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "This Is My Story",
+        "url": "https://open.spotify.com/album/7m0WOyvRISJQjiHHheGuVs"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/1SauvELylW5CaydMeG33ib"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Always Afternoon",
+        "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
+      },
+      "artists": [
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        },
+        {
+          "name": "Kathleen",
+          "url": "https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Always Afternoon",
+      "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Float Back To You",
-        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
       },
       "artists": [
         {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 231868,
-      "name": "Hypnosis",
-      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
+      "duration_ms": 190964,
+      "name": "Next to Normal",
+      "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
+        "name": "Float Back To You",
+        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
       },
       "artists": [
         {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
         }
       ],
-      "duration_ms": 190964,
-      "name": "Next to Normal",
-      "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
+      "duration_ms": 231868,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Try and Love",
+        "url": "https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC"
+      },
+      "artists": [
+        {
+          "name": "Ofege",
+          "url": "https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe"
+        }
+      ],
+      "duration_ms": 263338,
+      "name": "It's Not Easy",
+      "url": "https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 156788,
       "name": "King Prawn The 1st",
       "url": "https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "From Liberty Street",
-        "url": "https://open.spotify.com/album/6edYKJPDkKIJv0mDYpVT0K"
-      },
-      "artists": [
-        {
-          "name": "Mapache",
-          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Life On Fire",
-      "url": "https://open.spotify.com/track/0kUIRi6z4yfHVG4qoksVxF"
     }
   ],
   "unique_name": "Feel Good Dinner",

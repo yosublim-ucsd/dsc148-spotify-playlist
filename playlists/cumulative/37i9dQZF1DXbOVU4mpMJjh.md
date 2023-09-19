@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-892 songs - 2 day 14 hr 8 min
+894 songs - 2 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 | 2023-03-09 |  |
 | [Body and Soul](https://open.spotify.com/track/45aCQ82XrgmRINaUWcuKpP) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD) | [Compton's Finest](https://open.spotify.com/album/7g2mFqX91hcw5TsC1P622n) | 4:54 | 2023-08-25 |  |
 | [Body And Soul](https://open.spotify.com/track/7ly3lOOTrL6k4FjyAPDydS) | [Faded Family Portraits](https://open.spotify.com/artist/3K2kGySZF3Hb9zHfesGpTY) | [Body And Soul](https://open.spotify.com/album/6GFhivPOliZbtDskCGFQlr) | 2:32 | 2023-05-04 | 2023-08-25 |
-| [Brahms Lullaby](https://open.spotify.com/track/0vVPlxobDRh2ATkRVaKS86) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 4:02 | 2023-08-31 |  |
+| [Brahms Lullaby](https://open.spotify.com/track/0vVPlxobDRh2ATkRVaKS86) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 4:02 | 2023-08-31 | 2023-09-19 |
 | [Breakup Blues](https://open.spotify.com/track/3UAfrwiIszzcAlCIfpVF96) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Breakup Blues](https://open.spotify.com/album/2HdHsBiLbSjvx9GlS7cK3P) | 3:27 | 2023-08-18 |  |
 | [Breathe the Air](https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:45 | 2023-03-09 |  |
 | [Bridges](https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Bridges](https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK) | 2:53 | 2023-06-15 |  |
@@ -278,6 +278,7 @@
 | [From My Perspective](https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [From My Perspective](https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz) | 4:02 | 2023-04-20 |  |
 | [From Paris with love](https://open.spotify.com/track/7Mrz01pIRqW3IGQro5IqDq) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [From Paris with love](https://open.spotify.com/album/3cCLtvehudXUYm2uw571LX) | 3:05 | 2023-03-09 |  |
 | [Full of soul](https://open.spotify.com/track/4Oofu5XdM33FwrkDu5zttD) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Full of soul](https://open.spotify.com/album/7ehA2g9p0NlrYvQ7zkkOGU) | 2:50 | 2023-08-10 | 2023-08-19 |
+| [Full\-time Obsession](https://open.spotify.com/track/3ecM9Yp2c4Aw37mni1kOi2) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Full\-time Obsession](https://open.spotify.com/album/2Spm5SWIwhma9WmuVv4yDB) | 3:24 | 2023-09-15 |  |
 | [Garden of Delight](https://open.spotify.com/track/00CIFNT8kOm61dupysBFp8) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [I LOVE JAN LUNDGREN TRIO](https://open.spotify.com/album/6kbVXZecmxepGZ50Ca52Vb) | 4:51 | 2022-04-14 | 2022-07-29 |
 | [Garden of Delight](https://open.spotify.com/track/3apdPUK06P8pXgTsIKlFIl) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [I Love Jan Lundgren Trio](https://open.spotify.com/album/6iUNYWWimI0uy8kzvdQbuh) | 4:51 | 2022-06-30 | 2022-09-23 |
 | [Gentle rain](https://open.spotify.com/track/78S8rCKCJ3MUoGF3LCnpo4) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Jessica](https://open.spotify.com/album/4bDZq3KMHTqKIj9Rhkjgwl) | 4:16 | 2022-04-14 |  |
@@ -310,7 +311,7 @@
 | [Home Again](https://open.spotify.com/track/4I204PvTD6jGKTk4kfXQMS) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 2:29 | 2022-04-14 | 2022-04-28 |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-12-01 |  |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
-| [Honest Waltz](https://open.spotify.com/track/2o31PReuGccOuzpqzpTlPa) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Jazz from the Countryside](https://open.spotify.com/album/5n7n15lmhMzqjHyxgZHshr) | 5:25 | 2022-09-15 |  |
+| [Honest Waltz](https://open.spotify.com/track/2o31PReuGccOuzpqzpTlPa) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Jazz from the Countryside](https://open.spotify.com/album/5n7n15lmhMzqjHyxgZHshr) | 5:25 | 2022-09-15 | 2023-09-19 |
 | [Honest Waltz](https://open.spotify.com/track/6XV1s4qGZM3BoPnatmOxzV) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Honest Waltz](https://open.spotify.com/album/0Dc8OxbbSCNlfTdvCRzA8L) | 5:25 | 2022-04-21 | 2022-09-04 |
 | [Honey, I'm Glad You're Mine](https://open.spotify.com/track/4L6de6eylUUkvtJYVknqR0) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Honey, I'm Glad You're Mine](https://open.spotify.com/album/6hAOj6NbTdS278alY0xTYp) | 2:17 | 2022-12-08 |  |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-11-10 |  |
@@ -589,6 +590,7 @@
 | [Old Georgie](https://open.spotify.com/track/5TUShaJuppEAb1FVctgy6V) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Old Georgie](https://open.spotify.com/album/4Hfo3rFHpvtatFFe4Suba9) | 3:02 | 2023-03-09 |  |
 | [Old Person Eyes](https://open.spotify.com/track/34jngIAweykNyuwP52VCaQ) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Old Person Eyes](https://open.spotify.com/album/34x4zL9sqIP8YGfbRwxX3v) | 3:39 | 2022-05-24 | 2023-03-18 |
 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 | 2022-10-13 |  |
+| [On and On](https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [On and On](https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz) | 3:51 | 2023-09-15 |  |
 | [On Delancey](https://open.spotify.com/track/1sfu03jKTPkDODkKSDpcDM) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Big Apple](https://open.spotify.com/album/5fghKHhrLGGIXxg2DUgMAb) | 3:47 | 2023-06-15 |  |
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/0DXb75jBHund71iIpnBBZv) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Side Up](https://open.spotify.com/album/75Le9ovZALfIivyeGGfkza) | 5:40 | 2022-04-14 | 2022-06-09 |
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/4X4PGg2TnRyXZS9lsY8Hl7) | [Syncopation Station](https://open.spotify.com/artist/7c5Bd1OW0AbwL2yqDpSecr) | [On The Sunny Side Of The Street](https://open.spotify.com/album/3qSthRLQuCOS3NB1sDPLEE) | 3:23 | 2023-04-20 |  |

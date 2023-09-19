@@ -2,7 +2,7 @@
 
 ### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
-> Alternative Arabic songs\. Cover: Aziz Maraka
+> Alternative Arabic songs\. Cover: A5rass
 
 173 songs - 10 hr 38 min
 

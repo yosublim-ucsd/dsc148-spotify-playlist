@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Nasty C
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,457 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,556 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 15 | [Pakistan](https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Pakistan](https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2) | 2:54 |
 | 16 | [Drouba](https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Drouba](https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM) | 2:56 |
 | 17 | [Caney](https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Caney](https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN) | 2:45 |
-| 18 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 |
+| 18 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 |
 | 19 | [Flashback](https://open.spotify.com/track/02RGARryimtGfuawXbKj8P) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Flashback](https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt) | 2:56 |
 | 20 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 |
 | 21 | [LA RUE](https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [LA RUE](https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 49 | [Ça va](https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ça va](https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv) | 2:51 |
 | 50 | [Ring Ring \(feat\. Gold Fang\)](https://open.spotify.com/track/09DmxKwN6I1JZyLJIo8Rgv) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Ring Ring \(feat\. Gold Fang\)](https://open.spotify.com/album/42lgJRGdcLHuOK60aOl6ay) | 2:27 |
 
-Snapshot ID: `MCw1MjUyNGJmZWVlYTI0MjczMDljMjFhYjY0YTU5ZWRjODEzYWNhYjdl`
+Snapshot ID: `MCw4OWEwMDE5ODNjYjdiOGVjOTEwZTY5ZTRmYzM2Njk4MTY1NWYwZGQ2`

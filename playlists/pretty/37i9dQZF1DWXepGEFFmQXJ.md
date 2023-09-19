@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: James Johnston
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,540 likes - 76 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,650 likes - 76 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 75 | [Acres](https://open.spotify.com/track/68Em9vuEpyi3DMxeDiCe2m) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Now She Ain't](https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM) | 3:52 |
 | 76 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 |
 
-Snapshot ID: `MCw5MGE5MTY4ZjYxYzNmYmU3NDNhYTdmNTAxOTFjM2FmNmJjN2VlNzE5`
+Snapshot ID: `MCxjMjNhYmMzMzE3NmVlMTNmNjA2M2Q0ZjI1ZDRlZDM2MmY0ZmRlNTM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: MAKSIM & Emma Heesters
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,257 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,302 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 2 | [Niet Naar Huis](https://open.spotify.com/track/4ouO2G1LVrl7auDWbrI89h) | [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Niet Naar Huis](https://open.spotify.com/album/5aRqWwUO68r33MD812weKs) | 2:15 |
 | 3 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 |
 | 4 | [Onderweg](https://open.spotify.com/track/2q0ZsFK74e4eZskq758hE8) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [NIELS](https://open.spotify.com/album/55kSSo7UN20j1iM7uW80yO) | 2:55 |
-| 5 | [Morgen Gaan We Praten](https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS), [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Morgen Gaan We Praten](https://open.spotify.com/album/4LGsHcf4ciNkjFNwWe03Nx) | 2:48 |
-| 6 | [Boeie](https://open.spotify.com/track/2w5QvIqfDjg09RAe56WbiO) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Boeie](https://open.spotify.com/album/5Tl0c5B3lHjw0v5IQsDlBw) | 2:33 |
-| 7 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/2p8EJUT61FPH3cax0UdSnK) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1OuwGZMLpotXelAT54hv4C) | 3:07 |
-| 8 | [Altijd Onderweg](https://open.spotify.com/track/2510MF3xvG8LgOC1RVxF5U) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Altijd Onderweg](https://open.spotify.com/album/7K7CynIwvLxVkzLCmjxDbJ) | 2:57 |
-| 9 | [Kapitein](https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Kapitein](https://open.spotify.com/album/5Dz5CfH58kYE9nAwNwiFH3) | 3:14 |
-| 10 | [Leugenaar II](https://open.spotify.com/track/2YLTNvko2SBU4j0qX4iaQT) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Leugenaar II](https://open.spotify.com/album/7MCmumqUFWvcUfkUSPljxG) | 3:16 |
-| 11 | [Wijze Woorden](https://open.spotify.com/track/1bWzMQ61eGySrjcQEX9TeS) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wijze Woorden](https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG) | 2:16 |
-| 12 | [ADD](https://open.spotify.com/track/0wintW8wGWiRuR0A7sV7qu) | [TIJN](https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4) | [ADD](https://open.spotify.com/album/5NdeujZHuGj57BrSMLvo7Q) | 2:54 |
-| 13 | [Sinds Jij Me Verliet](https://open.spotify.com/track/3bvoxX2yaOEYhID3YZ4ed4) | [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Beste Zangers 2023 \(Aflevering 1 \- Douwe Bob\)](https://open.spotify.com/album/6JfYuS9zHxWyNqrDj1RMYZ) | 3:05 |
-| 14 | [100K Tranen](https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP) | [100K Tranen](https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm) | 2:34 |
+| 5 | [100K Tranen](https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP) | [100K Tranen](https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm) | 2:34 |
+| 6 | [Morgen Gaan We Praten](https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS), [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Morgen Gaan We Praten](https://open.spotify.com/album/4LGsHcf4ciNkjFNwWe03Nx) | 2:48 |
+| 7 | [Boeie](https://open.spotify.com/track/2w5QvIqfDjg09RAe56WbiO) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Boeie](https://open.spotify.com/album/5Tl0c5B3lHjw0v5IQsDlBw) | 2:33 |
+| 8 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/2p8EJUT61FPH3cax0UdSnK) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1OuwGZMLpotXelAT54hv4C) | 3:07 |
+| 9 | [Altijd Onderweg](https://open.spotify.com/track/2510MF3xvG8LgOC1RVxF5U) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Altijd Onderweg](https://open.spotify.com/album/7K7CynIwvLxVkzLCmjxDbJ) | 2:57 |
+| 10 | [Kapitein](https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Kapitein](https://open.spotify.com/album/5Dz5CfH58kYE9nAwNwiFH3) | 3:14 |
+| 11 | [Leugenaar II](https://open.spotify.com/track/2YLTNvko2SBU4j0qX4iaQT) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Leugenaar II](https://open.spotify.com/album/7MCmumqUFWvcUfkUSPljxG) | 3:16 |
+| 12 | [Wijze Woorden](https://open.spotify.com/track/1bWzMQ61eGySrjcQEX9TeS) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wijze Woorden](https://open.spotify.com/album/0pOEH0NO9fj05LMjBAzEwG) | 2:16 |
+| 13 | [ADD](https://open.spotify.com/track/0wintW8wGWiRuR0A7sV7qu) | [TIJN](https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4) | [ADD](https://open.spotify.com/album/5NdeujZHuGj57BrSMLvo7Q) | 2:54 |
+| 14 | [Sinds Jij Me Verliet](https://open.spotify.com/track/3bvoxX2yaOEYhID3YZ4ed4) | [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Beste Zangers 2023 \(Aflevering 1 \- Douwe Bob\)](https://open.spotify.com/album/6JfYuS9zHxWyNqrDj1RMYZ) | 3:05 |
 | 15 | [Zonder Jou](https://open.spotify.com/track/73O00q0bRA60M6LoVfrIpd) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Opzij](https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C) | 3:03 |
 | 16 | [Ik Denk Aan Jou](https://open.spotify.com/track/0WEVWA0uwMVFLFsYUvLsin) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ik Denk Aan Jou](https://open.spotify.com/album/6zlSdwdzvjhV2jFo2vMeSb) | 3:36 |
 | 17 | [Magneet](https://open.spotify.com/track/6vKcQiib6tIYFtfygjwhWd) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Magneet](https://open.spotify.com/album/0euEcmBRqP9kRVeMyFbL3L) | 2:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Wat Ik Met Je Moet](https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM) | [AMBER](https://open.spotify.com/artist/44pmqyq9sUSOoXo0gyrmXe) | [Wat Ik Met Je Moet](https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF) | 3:00 |
 | 70 | [Glaasje of 2](https://open.spotify.com/track/608bP3vB7pwjatfREMItX6) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Glaasje of 2](https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j) | 2:03 |
 
-Snapshot ID: `MCwyNzc4Y2M4YzM5NGExMzQ0MmMyMzVkZDVjMWIyZjdiZDY1ZjIyMTEw`
+Snapshot ID: `MCw5OTkyM2I4MjAyM2FkZGY5OGQzOWU3MDA2NTgzNDlhZjQ0NTAzY2M5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Rebelion
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,634 likes - 90 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,820 likes - 90 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 89 | [Constellation Sky](https://open.spotify.com/track/49wI9eSpLdCForl4uJwSwY) | [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [Constellation Sky](https://open.spotify.com/album/234D41xhuXVKPvQOlJoJRe) | 3:41 |
 | 90 | [Disruption](https://open.spotify.com/track/7llaEU5vkPVjkHE3DaRVb4) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Disruption](https://open.spotify.com/album/1GYyPR5JjoWHuJtCpHC6Kq) | 4:01 |
 
-Snapshot ID: `MCw2YzNjMjM0NTExYTM3Y2RjN2UyYWYxMTEzOGRiYzcyYjg4NThlZmVj`
+Snapshot ID: `MCw3MWU4NmViZGM2YThmMjNmYmU1M2NlNzVmNDkzZDA3YTlkODVjNzZm`

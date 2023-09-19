@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2139846,
+  "num_followers": 2139827,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmUyNmQ5ZTkyNWMyNWYwMWUwYWQwNDRhYzdmNDE5ODVlZjEwNWEx",
+  "snapshot_id": "MCxiMjQ5MzZjZTc1NDhhNDA3ZjM4NmJkNDFkMGNiNjAzMzEzYmZlZDc2",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 272346,
       "name": "San Luis",
       "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 191234,
       "name": "For All You Give",
       "url": "https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Old Sea Brigade",
-        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Love Brought Weight",
-      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "On the Other Side",
         "url": "https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 219093,
       "name": "Nothing Arrived - Live from Spotify London",
       "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Old Sea Brigade",
+        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Love Brought Weight",
+      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Wait for You",
-        "url": "https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 193935,
-      "name": "Wait for You",
-      "url": "https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 273893,
       "name": "Colder Heavens",
       "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Wait for You",
+        "url": "https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 193935,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP"
+        "name": "Real Estate",
+        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
       },
       "artists": [
         {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 205812,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ"
+      "duration_ms": 216000,
+      "name": "Real Estate",
+      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Real Estate",
-      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+      "duration_ms": 205812,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Only Time",
-        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
-      },
-      "artists": [
-        {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 281180,
       "name": "Fall, Fall, Fall",
       "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Living Room Worktapes",
-        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "Where You Are - Acoustic",
-      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Mick Flannery",
-        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
+        "name": "Living Room Worktapes",
+        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
       },
       "artists": [
         {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
         }
       ],
-      "duration_ms": 202677,
-      "name": "I'll Be out Here",
-      "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
+      "duration_ms": 243898,
+      "name": "Where You Are - Acoustic",
+      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+        "name": "Mick Flannery",
+        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
         }
       ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
+      "duration_ms": 202677,
+      "name": "I'll Be out Here",
+      "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1431,6 +1415,22 @@
       "duration_ms": 221842,
       "name": "B61",
       "url": "https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Wonderful World",
-        "url": "https://open.spotify.com/album/36jkSaatEARkByil5kn9f6"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 165801,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/5SQkpKQP4woq7R4kG53HAy"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Wonderful World",
+        "url": "https://open.spotify.com/album/36jkSaatEARkByil5kn9f6"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 165801,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/5SQkpKQP4woq7R4kG53HAy"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
       },
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Way I Go",
-        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
       "artists": [
         {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 247829,
-      "name": "Way I Go",
-      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+        "name": "Way I Go",
+        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
         }
       ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
+      "duration_ms": 247829,
+      "name": "Way I Go",
+      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 255099,
       "name": "Ran Away",
       "url": "https://open.spotify.com/track/2nQUwM55eYkY2bWtF3EzCm"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "What I Am - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 210196,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "What I Am - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2159,6 +2159,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 212255,
+      "name": "Passengers",
+      "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Old Flowers",
         "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
       },
@@ -2227,26 +2247,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Age of Apathy",
-        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 212255,
-      "name": "Passengers",
-      "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Without People",
-        "url": "https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 186143,
-      "name": "Seeing Other People",
-      "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Location 13 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
+        "name": "Without People",
+        "url": "https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra"
       },
       "artists": [
         {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
         }
       ],
-      "duration_ms": 255191,
-      "name": "Letter to Lady J",
-      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+      "duration_ms": 186143,
+      "name": "Seeing Other People",
+      "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2331,18 +2315,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Widow Knows E.P.",
-        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+        "name": "Location 13 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
       },
       "artists": [
         {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
         }
       ],
-      "duration_ms": 252816,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+      "duration_ms": 255191,
+      "name": "Letter to Lady J",
+      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2359,6 +2343,22 @@
       "duration_ms": 244520,
       "name": "Whisper In Her Ear",
       "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        }
+      ],
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Nothing's Easy",
-        "url": "https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo"
-      },
-      "artists": [
-        {
-          "name": "Tiz McNamara",
-          "url": "https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS"
-        }
-      ],
-      "duration_ms": 186978,
-      "name": "Nothing's Easy",
-      "url": "https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "EPHRATA",
         "url": "https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 282521,
       "name": "Old Soul (acoustic)",
       "url": "https://open.spotify.com/track/6qPdMSH6y9b7khSM3oQJLB"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Nothing's Easy",
+        "url": "https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo"
+      },
+      "artists": [
+        {
+          "name": "Tiz McNamara",
+          "url": "https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS"
+        }
+      ],
+      "duration_ms": 186978,
+      "name": "Nothing's Easy",
+      "url": "https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw"
     },
     {
       "added_at": "2023-07-21 04:00:00",

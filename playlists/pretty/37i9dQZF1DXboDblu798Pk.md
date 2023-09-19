@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,997 likes - 78 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,033 likes - 78 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 77 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 |
 | 78 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 |
 
-Snapshot ID: `MCxmZTU5YWRjMTdiZThkYTk3NzgxNWY4OTEwODIwMDlhZWZhYmUxMjE4`
+Snapshot ID: `MCxlOTcwODE0M2ZjODQ1ZGY4Y2I2MDQ3MzNmZTUzOGJmOGZhOTI3YzZh`

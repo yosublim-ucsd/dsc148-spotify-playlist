@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 228000,
       "name": "Anh Ch\u1eb3ng Quan T\u00e2m Em N\u1eefa R\u1ed3i",
       "url": "https://open.spotify.com/track/1lctl2S32k72azI5Pd4T7R"
@@ -5489,6 +5489,28 @@
     },
     {
       "album": {
+        "name": "C\u00d3 BAO \u0110I\u1ec0U",
+        "url": "https://open.spotify.com/album/0Bu18fliQUjCSqIHhkZ4a5"
+      },
+      "artists": [
+        {
+          "name": "Maize",
+          "url": "https://open.spotify.com/artist/1t9YGBngLrj99AgaqqQl49"
+        },
+        {
+          "name": "Yellowa",
+          "url": "https://open.spotify.com/artist/4AL79ySD9YSiJAkigZjutp"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222908,
+      "name": "C\u00d3 BAO \u0110I\u1ec0U",
+      "url": "https://open.spotify.com/track/2mCRjHzWKCCDwLMMpR8Ktl"
+    },
+    {
+      "album": {
         "name": "C\u00f3 Cao Ngang B\u1eb1ng",
         "url": "https://open.spotify.com/album/5WbY3z0X6xR0fdfSeETXgG"
       },
@@ -6526,6 +6548,24 @@
       "duration_ms": 172000,
       "name": "derelict.",
       "url": "https://open.spotify.com/track/6tot4omWduqUvfx8rWzcur"
+    },
+    {
+      "album": {
+        "name": "\u0111i\u1ec7u valse cu\u1ed1i",
+        "url": "https://open.spotify.com/album/0LB7u3QQPGsJrTXhvFt3b7"
+      },
+      "artists": [
+        {
+          "name": "Hekii",
+          "url": "https://open.spotify.com/artist/6WMFJ9mRl9DUqzrXzfMqzD"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "dieu valse cuoi",
+      "url": "https://open.spotify.com/track/2vgHb85Gk8xtTKt4VcmkNZ"
     },
     {
       "album": {
@@ -10517,6 +10557,24 @@
     },
     {
       "album": {
+        "name": "Khu v\u01b0\u1eddn",
+        "url": "https://open.spotify.com/album/6UvnOCsDd1t4dVqfB265IK"
+      },
+      "artists": [
+        {
+          "name": "V#",
+          "url": "https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131362,
+      "name": "Khu v\u01b0\u1eddn",
+      "url": "https://open.spotify.com/track/1LnOxCZuBpFAwIt50xvuQf"
+    },
+    {
+      "album": {
         "name": "Kh\u00f3 th\u1edf Cypher",
         "url": "https://open.spotify.com/album/1uw8EeMoTj8kuff5V613lt"
       },
@@ -11973,6 +12031,24 @@
     },
     {
       "album": {
+        "name": "L\u00e1i Xe M\u1ed9t M\u00ecnh (Joy)",
+        "url": "https://open.spotify.com/album/5L3QslaUYOrzI1XRDIHUFT"
+      },
+      "artists": [
+        {
+          "name": "Em Ellata",
+          "url": "https://open.spotify.com/artist/2gHZhGddcfiD6ASs7pK1iD"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259384,
+      "name": "L\u00e1i Xe M\u1ed9t M\u00ecnh (Joy)",
+      "url": "https://open.spotify.com/track/2hjf9rtmB1lajYg7QTnpVy"
+    },
+    {
+      "album": {
         "name": "L\u00e2u D\u00e0i",
         "url": "https://open.spotify.com/album/6O5VXuXt4Gs6a9SCLVhVVj"
       },
@@ -12302,7 +12378,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 129835,
       "name": "L\u1ea1i G\u1ea7n N\u1eefa",
       "url": "https://open.spotify.com/track/2Q8c5s63DrMlk1MOJ4Ksnw"
@@ -13496,7 +13572,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 252034,
       "name": "M\u00ea Cung",
       "url": "https://open.spotify.com/track/4LSkLESUXvxMSZHK17JP9V"
@@ -17912,7 +17988,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 162253,
       "name": "Sao?",
       "url": "https://open.spotify.com/track/7zNBaz9FNpCtkslLqQEX7H"
@@ -20188,6 +20264,24 @@
       "duration_ms": 205620,
       "name": "Tin Y\u00eau",
       "url": "https://open.spotify.com/track/0y225pQphsaBvPTSb4xyJB"
+    },
+    {
+      "album": {
+        "name": "Tinh dep latinh buon",
+        "url": "https://open.spotify.com/album/2ZzqQTlqBiZNsj0JxYsQPh"
+      },
+      "artists": [
+        {
+          "name": "Clow",
+          "url": "https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151074,
+      "name": "Tinh dep latinh buon",
+      "url": "https://open.spotify.com/track/7JeE6PNUGbzaR8eqbxYE1Y"
     },
     {
       "album": {
@@ -23492,7 +23586,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 169600,
       "name": "Xink",
       "url": "https://open.spotify.com/track/24RAmn1bTmhTCsoOuCpAvF"
@@ -23968,6 +24062,28 @@
       "duration_ms": 247500,
       "name": "Y\u00eau \u0110\u01b0\u01a1ng N\u1eb7ng L\u00f2ng",
       "url": "https://open.spotify.com/track/4BJ2I3jh1Vx6VT7S2vz3Sg"
+    },
+    {
+      "album": {
+        "name": "Y\u00eau \u0110\u01b0\u01a1ng \u0110\u00e2u Gi\u1ed1ng Ng\u00f4n T\u00ecnh",
+        "url": "https://open.spotify.com/album/0sCMrGL9fETG2EvhEUWbl7"
+      },
+      "artists": [
+        {
+          "name": "Sing",
+          "url": "https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29"
+        },
+        {
+          "name": "AEP SIMON",
+          "url": "https://open.spotify.com/artist/69b3wAh06ngvbRYCuz3BLG"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226421,
+      "name": "Y\u00eau \u0110\u01b0\u01a1ng \u0110\u00e2u Gi\u1ed1ng Ng\u00f4n T\u00ecnh",
+      "url": "https://open.spotify.com/track/3ifw7Yf3FAfgzDnGQuSJJE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "cool music ft. Riovaz",
-  "num_followers": 27032,
+  "num_followers": 27143,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGJkN2U3NzljYWQ4NzAyMTc4ODUxZDRkZmEyYjdlMTZjMTRiNjkx",
+  "snapshot_id": "MCxjNmZjYWQ1YzZhMTViZWIxYzE2ZWZiYzljMDZiODhhOTU4YTIxZTJh",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -87,6 +87,22 @@
       "duration_ms": 147692,
       "name": "CRUEL WORLD",
       "url": "https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX"
+    },
+    {
+      "added_at": "2023-09-18 15:00:57",
+      "album": {
+        "name": "PSYCH MOB",
+        "url": "https://open.spotify.com/album/14riMJ5ianTJ0lv65hFejk"
+      },
+      "artists": [
+        {
+          "name": "hammond preacher",
+          "url": "https://open.spotify.com/artist/2dhU0be0WVmZJeKu0Yx3uo"
+        }
+      ],
+      "duration_ms": 80274,
+      "name": "PSYCH MOB",
+      "url": "https://open.spotify.com/track/1A67DAnXMZC3DIUibeRUnA"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "burbank house",
-        "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
-      },
-      "artists": [
-        {
-          "name": "tsubi club",
-          "url": "https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3"
-        }
-      ],
-      "duration_ms": 101647,
-      "name": "burbank house",
-      "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "pretty girls",
         "url": "https://open.spotify.com/album/71HSjUSrkwWSrQRQJswmyI"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 180451,
       "name": "pretty girls",
       "url": "https://open.spotify.com/track/1nikStujV5DDL1gX7lYMzt"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "Cdbaby<3 (underscores remix)",
-        "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 133305,
-      "name": "Cdbaby<3 - underscores remix",
-      "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -651,22 +635,6 @@
       "duration_ms": 203600,
       "name": "used to it",
       "url": "https://open.spotify.com/track/6898221Y4h68YsprveSQyE"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "punch back",
-        "url": "https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv"
-      },
-      "artists": [
-        {
-          "name": "savesomeone",
-          "url": "https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz"
-        }
-      ],
-      "duration_ms": 133286,
-      "name": "punch back",
-      "url": "https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -819,22 +787,6 @@
       "duration_ms": 124584,
       "name": "difficult",
       "url": "https://open.spotify.com/track/3uWiz4o4sFeLcjFiELuDa1"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "metamorphine",
-        "url": "https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM"
-      },
-      "artists": [
-        {
-          "name": "Scro",
-          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
-        }
-      ],
-      "duration_ms": 190458,
-      "name": "metamorphine",
-      "url": "https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -1083,22 +1035,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "The Industry (don't care)",
-        "url": "https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR"
-      },
-      "artists": [
-        {
-          "name": "PROP",
-          "url": "https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "The Industry (don't care)",
-      "url": "https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "ecstasy",
         "url": "https://open.spotify.com/album/0cjzOs53TZrJwJ8NcZVUou"
       },
@@ -1127,22 +1063,6 @@
       "duration_ms": 179047,
       "name": "WISH I NEVER KNEW YOU",
       "url": "https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "SID THE KID",
-        "url": "https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV"
-      },
-      "artists": [
-        {
-          "name": "Deaton Chris Anthony",
-          "url": "https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -1359,22 +1279,6 @@
       "duration_ms": 123642,
       "name": "Borderline Personality",
       "url": "https://open.spotify.com/track/2XQh0Gvc6KGOIPQRm30M3K"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "alone",
-        "url": "https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -1859,22 +1763,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "Blue Atlanta",
-        "url": "https://open.spotify.com/album/3sNsCFbYYDe2te2R8xRrAE"
-      },
-      "artists": [
-        {
-          "name": "grandma",
-          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Blue Atlanta",
-      "url": "https://open.spotify.com/track/6BHPw2MZMosf3eEaFiwl4z"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "revenge",
         "url": "https://open.spotify.com/album/5IS1yIRaMXCLq4tN3yTzTK"
       },
@@ -1967,38 +1855,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/20ro3WFXJdS2rkF7kZ0CwY"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hall",
-          "url": "https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ"
-        }
-      ],
-      "duration_ms": 168718,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/6eS4jqni6XJyS0ltp1Umlc"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "\u200evacation",
-        "url": "https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 230884,
-      "name": "\u200evacation",
-      "url": "https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "Past Tense",
         "url": "https://open.spotify.com/album/6334xk9BCeIJ3pYiK6FCaT"
       },
@@ -2079,22 +1935,6 @@
       "duration_ms": 148460,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "ShoulderBlades",
-        "url": "https://open.spotify.com/album/3BTJdS4xG8Pah4MkBJEukW"
-      },
-      "artists": [
-        {
-          "name": "Brevin Kim",
-          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
-        }
-      ],
-      "duration_ms": 149262,
-      "name": "ShoulderBlades",
-      "url": "https://open.spotify.com/track/3wpqJnWQWl4bY4BtMWTbtk"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -2491,22 +2331,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "psychosis",
-        "url": "https://open.spotify.com/album/42gnvKERgMw72qxGnEIEhN"
-      },
-      "artists": [
-        {
-          "name": "demxntia",
-          "url": "https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "before i go",
-      "url": "https://open.spotify.com/track/7oRWfs4HVAglIlSK7ytUuf"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "One Step Of The Way",
         "url": "https://open.spotify.com/album/5wrUP92c9qZFYQYi7UPTGm"
       },
@@ -2587,22 +2411,6 @@
       "duration_ms": 159000,
       "name": "patience is hard to come across",
       "url": "https://open.spotify.com/track/6HqvUPI21BOzeIUCoNjgco"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "Fingers",
-        "url": "https://open.spotify.com/album/4IzDYLN43m5Y25OfAq2nrO"
-      },
-      "artists": [
-        {
-          "name": "Patrick O'neill",
-          "url": "https://open.spotify.com/artist/66VmY2NGXnd4vjm3d6hGuX"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Fingers",
-      "url": "https://open.spotify.com/track/4XrxK7r8Jbkpzc4KCRIC9P"
     },
     {
       "added_at": "2023-08-04 13:26:08",

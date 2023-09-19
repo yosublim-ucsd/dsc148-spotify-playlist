@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 47781,
+  "num_followers": 47823,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjgzMjJjNjlkYTMxN2IzNTE1MTFhOTFkOGE5NTJiYWFhNzJlMjFl",
+  "snapshot_id": "MCxkYzc1YWIxY2JkYWFmOTdhNGE4Y2UyMTE3OGQ1NmRmNzgzNGJlNTZh",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -667,38 +667,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Skillz",
-        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Nu Elementz",
-          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        }
-      ],
-      "duration_ms": 204621,
-      "name": "Skillz",
-      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
       },
@@ -743,22 +711,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
       },
@@ -771,6 +723,38 @@
       "duration_ms": 225245,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Skillz",
+        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Nu Elementz",
+          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 204621,
+      "name": "Skillz",
+      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Ultralight",
-        "url": "https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI"
+        "name": "Lady Petrol",
+        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
         }
       ],
-      "duration_ms": 223448,
-      "name": "Ultralight",
-      "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"
+      "duration_ms": 309986,
+      "name": "Lady Petrol",
+      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -823,6 +807,38 @@
       "duration_ms": 197485,
       "name": "Somebody Else, Pt. 2",
       "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 292117,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Ultralight",
+        "url": "https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Ultralight",
+      "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -935,18 +951,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
         }
       ],
-      "duration_ms": 292117,
-      "name": "Transcend",
-      "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
+      "duration_ms": 267586,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -963,22 +979,6 @@
       "duration_ms": 235862,
       "name": "Kickons",
       "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1099,18 +1099,26 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "VOID LP",
-        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+        "name": "Cool Out Son",
+        "url": "https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4"
       },
       "artists": [
         {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+        },
+        {
+          "name": "Benny Page",
+          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+        },
+        {
+          "name": "Isaac Maya",
+          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
         }
       ],
-      "duration_ms": 327945,
-      "name": "Void",
-      "url": "https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q"
+      "duration_ms": 208457,
+      "name": "Cool Out Son - Benny Page & Isaac Maya Remix - Edit",
+      "url": "https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL"
     }
   ],
   "unique_name": "Jump Up!",

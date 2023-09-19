@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,462 likes - 58 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,467 likes - 58 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 52 | [Text Me Merry Christmas \(feat\. Kristen Bell\)](https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 2:40 |
 | 53 | [Christmas Don’t Be Late \(The Chipmunk Song\)](https://open.spotify.com/track/1URQnVsdxFsgKSjb8zXtaI) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [A Rockapella Holiday](https://open.spotify.com/album/1WCdcmjKznIqlpGrSzMKWO) | 2:58 |
 | 54 | [The 12 Days of Christmas](https://open.spotify.com/track/5f5wlkRHWhYxOdp1hOUsTb) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Christmas Cheers \(Deluxe\)](https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs) | 2:58 |
-| 55 | [Winter Wonderland / Don't Worry Be Happy \(feat\. Tori Kelly\)](https://open.spotify.com/track/2kPpxNSgXRvu5yqkRLKJIu) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:27 |
+| 55 | [Winter Wonderland / Don't Worry Be Happy](https://open.spotify.com/track/2kPpxNSgXRvu5yqkRLKJIu) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:27 |
 | 56 | [Santa and I Know It](https://open.spotify.com/track/4dZ3H2X79C2USvczNl2dVG) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3) | [Peppermint Winter](https://open.spotify.com/album/38sMSmBxWWnErBR7ampOdG) | 2:22 |
 | 57 | [He Is Born \(feat\. Ryan Innes\)](https://open.spotify.com/track/2IYXqa0vvStkHWSQyXsGQo) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ), [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [He Is Born](https://open.spotify.com/album/0EN4NLHCDuXDbMQDIDZK0H) | 4:49 |
 | 58 | [Nativity Medley](https://open.spotify.com/track/6Zb2qnkAXLIDFsOSayqu7h) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/4NP170fPWbNHS2eVQ7TvCS) | 3:25 |
 
-Snapshot ID: `MCwxYzEzMzE4N2NjY2Q3YmRlNjYyMDMzYzc4NTE0ODk5NTNlYTE1Mjkz`
+Snapshot ID: `MCw3OTJmZGMwMzY5MmQ1NWE5MzM5NjBhNDY1ZjViMjdhOWYyZGNhYzEw`

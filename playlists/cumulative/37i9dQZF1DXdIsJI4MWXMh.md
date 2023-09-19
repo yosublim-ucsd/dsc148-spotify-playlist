@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-114 songs - 7 hr 48 min
+115 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,14 +18,15 @@
 | [Asosegando Cachorras](https://open.spotify.com/track/0NVLkYmGkUKKRJXWIVHzRD) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 3:58 | 2023-03-03 |  |
 | [Ay Mi Amor](https://open.spotify.com/track/0wtDWP4eK9RJVtXkxa7PJr) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 3:15 | 2023-03-03 |  |
 | [Ay Soledad](https://open.spotify.com/track/1CfiOn7odAU1FSpaPX3gPi) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Cumbia y Sabor](https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9) | 4:05 | 2023-03-03 |  |
+| [Bilú Bilú](https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Bilú Bilú](https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW) | 3:49 | 2023-09-15 |  |
 | [Caballo de Patas Blancas](https://open.spotify.com/track/5J81nFtP3zPfcY1u8XIbKy) | [Eliseo Guevara](https://open.spotify.com/artist/2elfE5Hl1JQzfrtGNolVEI) | [Le Canto a Mi Pueblo](https://open.spotify.com/album/5BZjYcqsuK3yQITQJY4V47) | 3:28 | 2023-03-03 |  |
 | [Cantina de Mi Barrio](https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Relatos de Mi Vida](https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g) | 4:24 | 2023-03-03 |  |
-| [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 | 2023-05-29 | 2023-09-16 |
+| [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 | 2023-05-29 |  |
 | [Charros para Rato](https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 3:41 | 2023-03-03 |  |
 | [Como Quisiera Poder](https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae) | [Los Hermanos Sandoval De Calbuco](https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm) | [Todos a la Pista](https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e) | 4:30 | 2023-03-03 | 2023-05-30 |
 | [Como Te Va Mi Amor](https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Una Década de Éxitos](https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl) | 4:24 | 2023-03-03 |  |
 | [Como Tú](https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu) | [Tornado Ranchero](https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl) | [Tornado Ranchero](https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON) | 4:27 | 2023-03-03 |  |
-| [Como Tú Decidas](https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:14 | 2023-03-03 |  |
+| [Como Tú Decidas](https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:14 | 2023-03-03 | 2023-09-19 |
 | [Con Que Derecho](https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j) | [Gran Sismo Tropikal](https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs) | [Siempre Arriba](https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR) | 4:06 | 2023-03-03 |  |
 | [Con Quien Te Olvido](https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY) | [Hecho y Derecho](https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6) | 3:28 | 2023-03-03 |  |
 | [Cómo Dejar de Amarte y Otros](https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 5:16 | 2023-03-03 |  |
@@ -38,7 +39,7 @@
 | [El Buque Con Mas Potencia](https://open.spotify.com/track/0g31ngzmsfUgvAjE1e0nQ4) | [Los Lobos del Sur](https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck) | [Un Lobo Está Llorando](https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR) | 4:41 | 2023-03-03 |  |
 | [El Corrido Del R\-15](https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO) | [La Descendencia Chilena](https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n) | [El Corrido Del R\-15](https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA) | 3:24 | 2023-03-03 |  |
 | [El Lirio](https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Ayer, Hoy y Siempre](https://open.spotify.com/album/3AAgbg7fNbvJSVpmN3jTEJ) | 2:48 | 2023-03-03 |  |
-| [El Muñeco](https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [El Muñeco](https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns) | 3:58 | 2023-05-29 |  |
+| [El Muñeco](https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [El Muñeco](https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns) | 3:58 | 2023-05-29 | 2023-09-19 |
 | [El R 15](https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG) | [Los Reales del Valle](https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO) | [Aliado del Tiempo](https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ) | 3:06 | 2023-03-03 |  |
 | [El Sol No Regresa](https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [El Sol No Regresa](https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH) | 2:54 | 2023-03-03 |  |
 | [El Wiri Wiri](https://open.spotify.com/track/5zwP4VkQCsK3pazOHleeHk) | [Gran Sismo Tropikal](https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs) | [Siempre Arriba │ Pa Darle Gusto Al Gusto \(Cumbias Rancheras Del Sur\)](https://open.spotify.com/album/7fx5J5NxE6RPBDpiS5fEr6) | 3:33 | 2023-09-08 |  |

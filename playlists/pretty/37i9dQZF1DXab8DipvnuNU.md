@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Curated by Bun B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,532 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,565 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 76 | [It's a Party \(feat\. Zhane\)](https://open.spotify.com/track/0Ml8PkxnlGUrrMPpJWPBc3) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [The Coming](https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8) | 4:37 |
 | 77 | [Bout It, Bout It II](https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt) | [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Mia X](https://open.spotify.com/artist/2d9xPZQzgCr6ObcDkUmjLu) | [Ice Cream Man](https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL) | 5:08 |
 | 78 | [Friends](https://open.spotify.com/track/2GLDYbNCRgsZTBhrBqhdm0) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:39 |
-| 79 | [The Way We Ball](https://open.spotify.com/track/5FEBritagmW6iAy5wL5uXg) | [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Undaground Legend \(Explicit\)](https://open.spotify.com/album/5GkzesERHAJvYGw3L5r4qm) | 4:43 |
-| 80 | [Space Age Pimpin'](https://open.spotify.com/track/1b8WvjQ6aT3MrqouZHCqsE) | [8Ball & MJG](https://open.spotify.com/artist/7iUhmKPNkkPPS6FCQxqtNq) | [On Top Of The World](https://open.spotify.com/album/2UBBDl07r4miPVFPp0OMCX) | 5:10 |
-| 81 | [Southside](https://open.spotify.com/track/7kkOuhyWcINZMDh4QGVyMB) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [Don't Mess Wit Texas](https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN) | 4:50 |
+| 79 | [Southside](https://open.spotify.com/track/7kkOuhyWcINZMDh4QGVyMB) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [Don't Mess Wit Texas](https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN) | 4:50 |
+| 80 | [The Way We Ball](https://open.spotify.com/track/5FEBritagmW6iAy5wL5uXg) | [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Undaground Legend \(Explicit\)](https://open.spotify.com/album/5GkzesERHAJvYGw3L5r4qm) | 4:43 |
+| 81 | [Space Age Pimpin'](https://open.spotify.com/track/1b8WvjQ6aT3MrqouZHCqsE) | [8Ball & MJG](https://open.spotify.com/artist/7iUhmKPNkkPPS6FCQxqtNq) | [On Top Of The World](https://open.spotify.com/album/2UBBDl07r4miPVFPp0OMCX) | 5:10 |
 | 82 | [Happy Feelin's](https://open.spotify.com/track/2YQ4R8eICy851TjCdFYUSd) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [The Greatest Hits: Lifelines Volume 1](https://open.spotify.com/album/7Gh4T19qT1cT1ypL5J16X6) | 7:12 |
 | 83 | [Like A Boss](https://open.spotify.com/track/5Z4LYEHH8PmYKU2NEK672L) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Already Platinum](https://open.spotify.com/album/17Qo2HmJC5RtOVkJ9rxBlP) | 3:18 |
 | 84 | [Icy](https://open.spotify.com/track/1TK07KcIGCUCli3lLx79yW) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Boo](https://open.spotify.com/artist/5Z3tsYTS1kfBUfGjCLXmqy) | [Trap House \(Explicit\)](https://open.spotify.com/album/409XrSXXeeZ3eMLCARmWx8) | 4:43 |
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 86 | [Knocking Pictures off da Wall](https://open.spotify.com/track/55sxugBduWb51PRY5Kunj3) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Yungstar](https://open.spotify.com/artist/09My0T8N3gNusVZtEiprhc) | [3 ‘n the Mornin’ 20th Anniversary \(Deluxe Edition\)](https://open.spotify.com/album/3u74qqVbgU3yOYy7zOtUwV) | 4:13 |
 | 87 | [Find a Way](https://open.spotify.com/track/054hu8JJu9GAtiDaar2pKM) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:23 |
 | 88 | [They Reminisce Over You](https://open.spotify.com/track/3Li3JsJJ6qN0UC47ueewVY) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [90s Rap](https://open.spotify.com/album/08i3qjDlxc9teW27xWlNsO) | 4:46 |
-| 89 | [Back Back](https://open.spotify.com/track/619cZyZyQK29YAb9IZGW02) | [Lil' O](https://open.spotify.com/artist/2AT9sg0RsOjLd4gfu08Pg6) | [Greatest Hits](https://open.spotify.com/album/2VDtVEMfew8ClknPjdax3x) | 3:51 |
-| 90 | [Playa Playa](https://open.spotify.com/track/7CxusEnUGQzaHZZVoxurYQ) | [Big Mike](https://open.spotify.com/artist/0nrUyKsdgzlKT6KpTcPhjA) | [Somethin' Serious](https://open.spotify.com/album/3huqsj2zWgtPUyktVpiKTz) | 4:48 |
+| 89 | [Playa Playa](https://open.spotify.com/track/7CxusEnUGQzaHZZVoxurYQ) | [Big Mike](https://open.spotify.com/artist/0nrUyKsdgzlKT6KpTcPhjA) | [Somethin' Serious](https://open.spotify.com/album/3huqsj2zWgtPUyktVpiKTz) | 4:48 |
+| 90 | [Back Back](https://open.spotify.com/track/619cZyZyQK29YAb9IZGW02) | [Lil' O](https://open.spotify.com/artist/2AT9sg0RsOjLd4gfu08Pg6) | [Greatest Hits](https://open.spotify.com/album/2VDtVEMfew8ClknPjdax3x) | 3:51 |
 | 91 | [Texas](https://open.spotify.com/track/3DaUkLz0ZFZMFw8TFNrrcj) | [Fat Tony](https://open.spotify.com/artist/3N71zVVdCs6uCgk8w31v26) | [10,000 Hours](https://open.spotify.com/album/6TwdCCEot81Ou1ZoOFe8S2) | 2:08 |
 | 92 | [B.M.F\. \(Blowin' Money Fast\) \- Album Version \(Edited\)](https://open.spotify.com/track/0z7wzlhveZrYN6dFaPuRbC) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Teflon Don](https://open.spotify.com/album/1NyEAeRyBHNQx4SoRwRJNC) | 4:10 |
 | 93 | [Top Billin'](https://open.spotify.com/track/0ctyMxVlNs8oE7k0ZMcrKn) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [Old School Hip Hop Beats](https://open.spotify.com/album/2KDLQ8ypKKudHoO49Ttpi0) | 2:55 |
 | 94 | [Could This Be Love](https://open.spotify.com/track/0W9DTUYHHGLl62f4ETnTWI) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love \(Deluxe\)](https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk) | 5:13 |
 
-Snapshot ID: `MCwyZGZjMmE3ZWFlNWM3YWFhOWNlZTFlYzFjZTk0ZDlkYjhiYmRlNjAw`
+Snapshot ID: `MCw0ZmQ2NTVlZGQ0ZmIyYjgwZDExNjljMDZiZDhmMGE5MjFhYzRlNWMw`

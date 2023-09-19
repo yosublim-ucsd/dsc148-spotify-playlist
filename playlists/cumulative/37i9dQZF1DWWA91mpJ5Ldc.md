@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-235 songs - 14 hr 23 min
+236 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,11 +142,12 @@
 | [Menina](https://open.spotify.com/track/1v1aeIwFPbdBCEpPw6rJMJ) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj), [Magno Brito](https://open.spotify.com/artist/6PBnyjnpLiQIhicjCOV8dX), [Pedro Malcher](https://open.spotify.com/artist/4hDRyVT1vb7vdIvAQwaYo6) | [Do Desapego ao Amor](https://open.spotify.com/album/4JcclB1ZeJW4cQSQbp7NFn) | 3:52 | 2022-03-14 | 2022-07-21 |
 | [Menina Flor](https://open.spotify.com/track/2nlP5p2QZenbUIhNSHrqki) | [Ana Lélia](https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm) | [Menina Flor](https://open.spotify.com/album/6mwV1EM0qWF3FGpvANtjWN) | 2:52 | 2022-03-22 | 2022-07-21 |
 | [Minha Menina Bonita](https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs) | 3:58 | 2022-07-22 | 2023-09-06 |
+| [Minha Menina Bonita](https://open.spotify.com/track/1f2WAWsmxx6JKrKTBO46UU) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/2aoZn4WaR7tmFKHb40p7Xw) | 3:58 | 2023-09-01 |  |
 | [Minha Menina Bonita](https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A) | 3:58 | 2022-02-04 | 2022-07-29 |
 | [Miragem \(Sem Razão\)](https://open.spotify.com/track/3fBBXSsUH2MD43REllyCIo) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Xenia](https://open.spotify.com/album/0elgFvQyeueOn9Z3dbkA7b) | 3:51 | 2022-03-22 | 2022-04-16 |
 | [Mistério Stereo](https://open.spotify.com/track/503OjD3MWV3qFkKj769fte) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Japan Pop Show](https://open.spotify.com/album/69ltPvQJmyU3OZLyDHG032) | 4:07 | 2022-03-22 | 2022-04-21 |
 | [Moqueca](https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2ZQLiEqJgQeNAVuZpMP8iA) | 4:04 | 2022-09-06 | 2023-01-10 |
-| [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 | 2023-09-01 |  |
+| [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 | 2023-09-01 | 2023-09-19 |
 | [Morada Boa Featuring Nina Miranda](https://open.spotify.com/track/5x4KSfOm9Bc1ugelLYe4AG) | [3 Na Massa](https://open.spotify.com/artist/1swmzlKgFluITKhxSV9ixX) | [3 Na Massa](https://open.spotify.com/album/5scnXOM54hVJw0mkDgBGs8) | 3:46 | 2022-03-22 | 2022-04-17 |
 | [Moça Vem Cá](https://open.spotify.com/track/1xVYmo2RtOWgENpW7YSAEK) | [Tom Karabachian](https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW) | [Moça Vem Cá](https://open.spotify.com/album/5Nb8vwGAJM6QmT5pCCc6kh) | 3:18 | 2022-02-04 | 2022-07-27 |
 | [Mulher Sem Razão](https://open.spotify.com/track/5EGaYaDIsqNn0caVrmnE5w) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Cazuza Exagerado](https://open.spotify.com/album/3awiXs3c4O3q7xoR2ohwOP) | 3:35 | 2022-03-22 | 2022-04-20 |

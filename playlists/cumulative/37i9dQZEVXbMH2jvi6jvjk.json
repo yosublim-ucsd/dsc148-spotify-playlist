@@ -914,7 +914,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -7180,7 +7180,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 413844,
       "name": "Dollar For Love (Baby)",
       "url": "https://open.spotify.com/track/46906mYFRf4gRPqvdrhWhX"
@@ -7618,7 +7618,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 306833,
       "name": "Dubula",
       "url": "https://open.spotify.com/track/35P4NcObu5fVLjKa0OBX5r"
@@ -9532,7 +9532,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 150587,
       "name": "Fuck That",
       "url": "https://open.spotify.com/track/1JMNAsjUFWe24TrGyVdhXa"
@@ -11718,7 +11718,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 356814,
       "name": "Howa You (feat. Myztro & Xduppy)",
       "url": "https://open.spotify.com/track/57T2jbt9nqR6VCeOH72wuG"
@@ -14776,7 +14776,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 329079,
       "name": "Khekheleza (Dlala Dlala)",
       "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
@@ -19044,6 +19044,28 @@
       "duration_ms": 142590,
       "name": "Movie Star (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3u8bblcJtOxxmGzJrviWLp"
+    },
+    {
+      "album": {
+        "name": "Spirit Of Praise, Vol. 9 (Live)",
+        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Ayanda Ntanzi",
+          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500087,
+      "name": "Moy\u2019 Oyingcwele (Live)",
+      "url": "https://open.spotify.com/track/0yAyBZ0S4Pnaz2cH4K1w1b"
     },
     {
       "album": {
@@ -27024,7 +27046,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -27492,7 +27514,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -28058,7 +28080,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -28608,7 +28630,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 189056,
       "name": "This Time (feat. Ami Faku)",
       "url": "https://open.spotify.com/track/1fIXzuAcGq0mZqGkAy5Zs9"
@@ -30788,7 +30810,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 348357,
       "name": "Uyavala",
       "url": "https://open.spotify.com/track/1nWA9Vtg9EW4i4Lr2YVsJJ"
@@ -31780,7 +31802,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
@@ -32252,7 +32274,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -32368,7 +32390,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
@@ -33212,7 +33234,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 420229,
       "name": "Yes God - M\u00f6rda, Thakzin, Mhaw Keys Remix",
       "url": "https://open.spotify.com/track/3N2AjgvL6Idel1GtE2srYb"

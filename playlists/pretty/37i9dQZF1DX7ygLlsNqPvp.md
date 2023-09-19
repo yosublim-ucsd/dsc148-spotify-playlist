@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tLG\-F3cnSCubrrFrRWIHhw"> Jay Bahd</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,442 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,462 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [ANADWO](https://open.spotify.com/track/0yJwoXiQgvWGRI0zC4fBkc) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sheriff](https://open.spotify.com/artist/1zNmTgU8HEjyvdD1UDpOi9), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/1zBWBi9V1zJ1wU6yKCMC8b) | 2:43 |
 | 50 | [Danjuma](https://open.spotify.com/track/64X4sdsIErlSmK7PtbqA9u) | [Kwesi Taadi](https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw) | [Musah Abonko Ne Nana](https://open.spotify.com/album/1XqsjZN6wEsM9WjSqB7LMt) | 2:34 |
 
-Snapshot ID: `MCw1ZjFjMjM5NGMzYWNkZWQ1N2M0NDg5NmVkYTA5YmQ4Y2UzZjM2NGQ3`
+Snapshot ID: `MCxjYjU4ZTA3YzQ4MmJhOTA3MjI4ZmM0YjVlY2JmMzU0YjczNmNiMjQz`

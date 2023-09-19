@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228905,
+  "num_followers": 228942,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZThkMjJlZmY2ZGYxZjg2NDE3OGU0NDdmMmYyMGUyMGNiZmU1ZDRj",
+  "snapshot_id": "MCw5MDA1ODJiNTlkN2I0NWU0MDk0OGU3YWUyNzIxMzE3NmI0NTA5ZWUx",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -191,34 +191,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "On Fleek",
-        "url": "https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 277217,
-      "name": "On Fleek",
-      "url": "https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
       },
@@ -255,6 +227,34 @@
       "duration_ms": 185806,
       "name": "TAN CAGAU",
       "url": "https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "On Fleek",
+        "url": "https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 277217,
+      "name": "On Fleek",
+      "url": "https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Lealtad x Dinero",
-        "url": "https://open.spotify.com/album/2hdaowYq1S3yEd31yGOIsp"
-      },
-      "artists": [
-        {
-          "name": "Producto Sin Corte",
-          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 223836,
-      "name": "Lealtad x Dinero",
-      "url": "https://open.spotify.com/track/6EMCdTDkc4jGqXy4AN4vsw"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "M\u00e1s Grande",
         "url": "https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 219000,
       "name": "M\u00e1s Grande",
       "url": "https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Lealtad x Dinero",
+        "url": "https://open.spotify.com/album/2hdaowYq1S3yEd31yGOIsp"
+      },
+      "artists": [
+        {
+          "name": "Producto Sin Corte",
+          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 223836,
+      "name": "Lealtad x Dinero",
+      "url": "https://open.spotify.com/track/6EMCdTDkc4jGqXy4AN4vsw"
     },
     {
       "added_at": "2023-06-09 20:20:12",

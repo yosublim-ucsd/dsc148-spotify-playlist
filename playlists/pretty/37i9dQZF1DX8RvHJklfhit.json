@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 169522,
+  "num_followers": 169611,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTA4N2Y0YzcyMDdiNmJjNDdkYzVjZjNlNjg5ODgyMDI3MTRkNDc3",
+  "snapshot_id": "MCw5OTM4NmZiZjk2ZGZiYzY1MTI2ZDcyYTA0YTBmNTUxYTEzNWIxODJi",
   "tracks": [
     {
       "added_at": "2023-08-03 16:50:17",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
       "artists": [
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 211021,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+      "duration_ms": 199505,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -167,34 +167,34 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 199505,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
+      "duration_ms": 211021,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
     },
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -543,8 +543,8 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 167386,
-      "name": "Un Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5dFG12OQz10CbUFZIYH0gv"
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -587,6 +587,22 @@
       "duration_ms": 229381,
       "name": "Black Lipstick",
       "url": "https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "Unbothered",
+        "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 124954,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -639,22 +655,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Unbothered",
-        "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 124954,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
       },
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5dFG12OQz10CbUFZIYH0gv"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 258713,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Colores Paganos",
-        "url": "https://open.spotify.com/album/52qqkgnvRbNW9wW0VT3OgY"
-      },
-      "artists": [
-        {
-          "name": "TOURISTA",
-          "url": "https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM"
-        }
-      ],
-      "duration_ms": 204585,
-      "name": "Explotar Contigo",
-      "url": "https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 272187,
       "name": "La Crecida",
       "url": "https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "Colores Paganos",
+        "url": "https://open.spotify.com/album/52qqkgnvRbNW9wW0VT3OgY"
+      },
+      "artists": [
+        {
+          "name": "TOURISTA",
+          "url": "https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM"
+        }
+      ],
+      "duration_ms": 204585,
+      "name": "Explotar Contigo",
+      "url": "https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Baile de Magos",
-        "url": "https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f"
-      },
-      "artists": [
-        {
-          "name": "Joe Crep\u00fasculo",
-          "url": "https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn"
-        }
-      ],
-      "duration_ms": 265433,
-      "name": "Mi F\u00e1brica de Baile",
-      "url": "https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "Gran Santiago",
         "url": "https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 228098,
       "name": "Eras mi persona favorita",
       "url": "https://open.spotify.com/track/45gEiG1445vFC7EPtN0YMN"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "Baile de Magos",
+        "url": "https://open.spotify.com/album/07GEY91tPdA08EVlRmqQ1f"
+      },
+      "artists": [
+        {
+          "name": "Joe Crep\u00fasculo",
+          "url": "https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn"
+        }
+      ],
+      "duration_ms": 265433,
+      "name": "Mi F\u00e1brica de Baile",
+      "url": "https://open.spotify.com/track/2n5CQoGVbKyiVyA0AabeZH"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "PSILOCIBINA",
-        "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "PSILOCIBINA",
-      "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "GP",
         "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 225920,
       "name": "Bailar Bien, Bailar Mal",
       "url": "https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "PSILOCIBINA",
+        "url": "https://open.spotify.com/album/4waUPRkFL1OD8mRDM6dBM1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "PSILOCIBINA",
+      "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
+        "name": "Ag\u00fcita: Remixes",
+        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
         "name": "#ponteelcasco",
         "url": "https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Ag\u00fcita: Remixes",
-        "url": "https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Garz\u00f3n-Montano",
-          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "Estereomance",
         "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 255597,
       "name": "Dung Ding Dang",
       "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 190462,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -1639,6 +1623,22 @@
       "duration_ms": 174053,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "Ag\u00fcita",
+        "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "duration_ms": 221877,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb"
     },
     {
       "added_at": "2023-08-03 16:50:17",

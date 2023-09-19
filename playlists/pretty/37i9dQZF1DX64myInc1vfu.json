@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: La Isla Centeno",
-  "num_followers": 74084,
+  "num_followers": 74148,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTZjNWZkYWQyZThmMGZhODNkMjA2MjNkYjExNmJhZjk3ZWUyZTEy",
+  "snapshot_id": "MCxjODBiY2E5YjVhNzgwM2E2OGY1Y2E2YmY2ODkwZDE2MmVjMDU4Mzg1",
   "tracks": [
     {
       "added_at": "2023-09-01 16:56:30",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 196614,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -263,38 +247,6 @@
       "duration_ms": 209652,
       "name": "Diez Pasos Hacia Ti",
       "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
-        "name": "Veraneras",
-        "url": "https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 185789,
-      "name": "Amores De Colores",
-      "url": "https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 104273,
-      "name": "que te ped\u00ed//",
-      "url": "https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -319,6 +271,22 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
+        "name": "Veraneras",
+        "url": "https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 185789,
+      "name": "Amores De Colores",
+      "url": "https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
@@ -331,6 +299,22 @@
       "duration_ms": 189066,
       "name": "Dulcito e Coco",
       "url": "https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 196614,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -387,18 +371,18 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
-        "name": "Camas Separadas",
-        "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 218506,
-      "name": "Costa Rica",
-      "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
+      "duration_ms": 104273,
+      "name": "que te ped\u00ed//",
+      "url": "https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -419,6 +403,22 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
+        "name": "Camas Separadas",
+        "url": "https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Costa Rica",
+      "url": "https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
         "name": "Piensa en M\u00ed",
         "url": "https://open.spotify.com/album/41oLeM3NG2XwKrPMzB0GTG"
       },
@@ -431,26 +431,6 @@
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
-        "name": "Como habla una mujer (feat. C. Tangana)",
-        "url": "https://open.spotify.com/album/09sHAU8dDbAuIy3RfCM3wZ"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 206889,
-      "name": "Como habla una mujer (feat. C. Tangana)",
-      "url": "https://open.spotify.com/track/1pJeLDLduCZS4hLuc1JByJ"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -471,6 +451,26 @@
       "duration_ms": 261958,
       "name": "Si T\u00fa Me Quisieras",
       "url": "https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
+        "name": "Como habla una mujer (feat. C. Tangana)",
+        "url": "https://open.spotify.com/album/09sHAU8dDbAuIy3RfCM3wZ"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 206889,
+      "name": "Como habla una mujer (feat. C. Tangana)",
+      "url": "https://open.spotify.com/track/1pJeLDLduCZS4hLuc1JByJ"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
+        "name": "No Respondo Pt. 2",
+        "url": "https://open.spotify.com/album/6jHmrZG9ZytJMnd5VoHQh2"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 248347,
+      "name": "No Respondo Pt. 2",
+      "url": "https://open.spotify.com/track/3ZDyawmx3X2cazcFYv74F6"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
         "name": "Dos Gardenias",
         "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 181024,
       "name": "Dos Gardenias",
       "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
-        "name": "No Respondo Pt. 2",
-        "url": "https://open.spotify.com/album/6jHmrZG9ZytJMnd5VoHQh2"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 248347,
-      "name": "No Respondo Pt. 2",
-      "url": "https://open.spotify.com/track/3ZDyawmx3X2cazcFYv74F6"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
         "name": "Conversaciones Ajenas en un Caf\u00e9",
         "url": "https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 211156,
       "name": "\u00bfA Qu\u00e9 Te Sabe el Caf\u00e9?",
       "url": "https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
-        "name": "D\u00e9jame Conocerte",
-        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 279824,
-      "name": "D\u00e9jame Conocerte",
-      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -731,6 +715,22 @@
       "duration_ms": 261815,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
+        "name": "D\u00e9jame Conocerte",
+        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 279824,
+      "name": "D\u00e9jame Conocerte",
+      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
         "name": "Hasta Que Se Acabe la Fiesta",
         "url": "https://open.spotify.com/album/0Bzun9VhIDn4n0qllqLbwP"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
         "name": "Trebol (II)",
         "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 84558,
       "name": "Aunque Me Cueste La Vida",
       "url": "https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
+        "name": "Bolero Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 189077,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -963,22 +979,6 @@
       "duration_ms": 187161,
       "name": "\u00bfQui\u00e9n Se Va?",
       "url": "https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
-        "name": "Bolero Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 189077,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
-        "name": "Trebol (II)",
-        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
-      },
-      "artists": [
-        {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        }
-      ],
-      "duration_ms": 189900,
-      "name": "Lo Mismo Que Usted",
-      "url": "https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
         "name": "Para No Olvidar",
         "url": "https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy"
       },
@@ -1083,6 +1067,30 @@
       "duration_ms": 244482,
       "name": "Para No Olvidar",
       "url": "https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
+        "name": "Porrito y a Dormir",
+        "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Xico",
+          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
+        },
+        {
+          "name": "GOE",
+          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Porrito y a Dormir",
+      "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
     }
   ],
   "unique_name": "Lento.",

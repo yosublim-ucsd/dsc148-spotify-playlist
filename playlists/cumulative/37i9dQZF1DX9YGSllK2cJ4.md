@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-340 songs - 15 hr 16 min
+341 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Sweet Memories](https://open.spotify.com/track/7vv3UtPoCPKD5WO7Y74Ixz) | [Salvatore Altavilla](https://open.spotify.com/artist/1fdryWe2TzsSVCIBB46nCv) | [Sweet Memories](https://open.spotify.com/album/7vjIEiPtRQDjaS5CTWYFBm) | 2:31 | 2022-10-04 | 2023-04-05 |
 | [Syllables Flow](https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Syllables Flow](https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0) | 2:06 | 2023-06-20 |  |
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2022-08-01 |  |
+| [Teardrops](https://open.spotify.com/track/3b1HVaEhdzla4xDeSoU4BA) | [Richard Noé](https://open.spotify.com/artist/6vqqdZR8jcxqX0wDi0xeji) | [Teardrops](https://open.spotify.com/album/1s7oBPQXkG9AQN8FMqZgIQ) | 2:49 | 2023-09-18 |  |
 | [Tempered](https://open.spotify.com/track/3OMJ1MqryDgaIEJTWnrvkC) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Tempered](https://open.spotify.com/album/5DcXeEG9J7ok6XtGsxpRRx) | 1:24 | 2022-12-20 | 2023-08-02 |
 | [Téli](https://open.spotify.com/track/22epH1mP5fU4Bg5fGVbnuc) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Téli](https://open.spotify.com/album/6smhLShr1DjFPuxW7EtB4d) | 2:30 | 2022-08-01 | 2022-09-13 |
 | [The Desolate Path](https://open.spotify.com/track/39sT7m26OUz1z2cfjShZYM) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Desolate Path](https://open.spotify.com/album/6wXpCHeggIpKl5qEZeqWsu) | 3:05 | 2023-01-31 |  |

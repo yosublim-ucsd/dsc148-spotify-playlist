@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Doechii",
-  "num_followers": 75959,
+  "num_followers": 75962,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTczM2ExYzQ2YTFkYTJiY2NjNDI4YTQ5MGQxMDFjYjljYzQyMzcz",
+  "snapshot_id": "MCxmNTlhMTdiZDExMWYyNTgwY2RkMmQzODAyMjljMDE4ODYyN2Q3ZTYw",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-05-25 04:09:32",
       "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "IN THE AIR",
+      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
+    },
+    {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
         "name": "Persuasive (with SZA)",
         "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
       },
@@ -315,6 +331,22 @@
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+    },
+    {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -337,36 +369,20 @@
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
     },
     {
-      "added_at": "2023-05-25 04:09:32",
+      "added_at": "2021-05-21 16:10:14",
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+        "name": "SUN GOES DOWN",
+        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 136695,
-      "name": "IN THE AIR",
-      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
-    },
-    {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+      "duration_ms": 168275,
+      "name": "SUN GOES DOWN",
+      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
     },
     {
       "added_at": "2022-05-31 20:14:29",
@@ -383,22 +399,6 @@
       "duration_ms": 188965,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
-    },
-    {
-      "added_at": "2021-05-21 16:10:14",
-      "album": {
-        "name": "SUN GOES DOWN",
-        "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "SUN GOES DOWN",
-      "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
     },
     {
       "added_at": "2021-02-26 05:00:00",
@@ -435,6 +435,26 @@
       "duration_ms": 200214,
       "name": "Waiting For (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
+    },
+    {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "Party Girls (feat. Buju Banton)",
+        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 243094,
+      "name": "Party Girls (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -483,26 +503,6 @@
       "duration_ms": 104842,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK"
-    },
-    {
-      "added_at": "2023-05-25 04:09:32",
-      "album": {
-        "name": "Party Girls (feat. Buju Banton)",
-        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 243094,
-      "name": "Party Girls (feat. Buju Banton)",
-      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
     },
     {
       "added_at": "2023-04-06 23:29:21",
@@ -561,6 +561,22 @@
       "url": "https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS"
     },
     {
+      "added_at": "2021-02-26 05:00:00",
+      "album": {
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+    },
+    {
       "added_at": "2023-04-06 23:29:21",
       "album": {
         "name": "Float (feat. Seun Kuti & Egypt 80)",
@@ -585,22 +601,6 @@
       "url": "https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
-      "album": {
-        "name": "Grrrl Like",
-        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
-      },
-      "artists": [
-        {
-          "name": "Dope Saint Jude",
-          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "Grrrl Like",
-      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
-    },
-    {
       "added_at": "2023-05-25 04:09:32",
       "album": {
         "name": "Broken Hearts Club",
@@ -619,6 +619,22 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2020-06-01 21:07:43",
+      "album": {
+        "name": "Grrrl Like",
+        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
+      },
+      "artists": [
+        {
+          "name": "Dope Saint Jude",
+          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Grrrl Like",
+      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
     },
     {
       "added_at": "2020-10-23 15:11:26",
@@ -653,20 +669,24 @@
       "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
     },
     {
-      "added_at": "2021-02-26 05:00:00",
+      "added_at": "2020-06-01 21:07:43",
       "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+      "duration_ms": 240426,
+      "name": "Pynk (feat. Grimes)",
+      "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
     },
     {
       "added_at": "2020-06-01 21:07:43",
@@ -701,26 +721,6 @@
       "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
-      "album": {
-        "name": "Dirty Computer",
-        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Pynk (feat. Grimes)",
-      "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
-    },
-    {
       "added_at": "2023-05-25 04:09:32",
       "album": {
         "name": "Camille",
@@ -753,26 +753,6 @@
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
-      "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Teedra Moses",
-          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Culture",
-      "url": "https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c"
-    },
-    {
       "added_at": "2021-08-06 04:00:00",
       "album": {
         "name": "Slow Down (feat. Tion Wayne)",
@@ -793,20 +773,24 @@
       "url": "https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY"
     },
     {
-      "added_at": "2023-05-25 04:09:32",
+      "added_at": "2020-06-01 21:07:43",
       "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
         }
       ],
-      "duration_ms": 216178,
-      "name": "Washed Away",
-      "url": "https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6"
+      "duration_ms": 248906,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c"
     },
     {
       "added_at": "2021-06-25 04:01:00",
@@ -883,6 +867,22 @@
       "duration_ms": 138484,
       "name": "Heaven (feat. Tinashe)",
       "url": "https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI"
+    },
+    {
+      "added_at": "2022-05-31 20:14:29",
+      "album": {
+        "name": "SULA",
+        "url": "https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
     }
   ],
   "unique_name": "Black, Queer, & Proud",

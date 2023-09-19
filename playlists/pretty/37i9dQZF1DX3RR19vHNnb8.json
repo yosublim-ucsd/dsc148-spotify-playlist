@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 14553,
+  "num_followers": 14580,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTNkZTE5MjRhZDc2YjA4ZDljYzEzNmRkZGFhYTQ2MmU4YTYwZjFl",
+  "snapshot_id": "MCwxODA3NTFmOGNhNDBhZjY0Y2Y1OGUwYjIxMGFjMTZjOTZiMWU5NmM3",
   "tracks": [
     {
       "added_at": "2023-09-15 09:00:30",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
+        "name": "PARK CHINOIS",
+        "url": "https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "PARK CHINOIS",
+      "url": "https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ"
+    },
+    {
+      "added_at": "2023-09-15 09:00:30",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -499,26 +519,6 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
-    },
-    {
-      "added_at": "2023-09-15 09:00:30",
-      "album": {
         "name": "Kom",
         "url": "https://open.spotify.com/album/7KH66XzcwUnvuTLcbfuHxX"
       },
@@ -535,22 +535,22 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "PARK CHINOIS",
-        "url": "https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 202221,
-      "name": "PARK CHINOIS",
-      "url": "https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ"
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
     },
     {
       "added_at": "2023-09-15 09:00:30",
@@ -583,6 +583,26 @@
       "duration_ms": 184893,
       "name": "Worst Day",
       "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
+    },
+    {
+      "added_at": "2023-09-15 09:00:30",
+      "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2023-09-15 09:00:30",
@@ -671,46 +691,6 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
-    },
-    {
-      "added_at": "2023-09-15 09:00:30",
-      "album": {
-        "name": "Where We Come From, Vol. 01",
-        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 152283,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
-    },
-    {
-      "added_at": "2023-09-15 09:00:30",
-      "album": {
         "name": "Kpe Paso",
         "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
+    },
+    {
+      "added_at": "2023-09-15 09:00:30",
+      "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 152283,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
     },
     {
       "added_at": "2023-09-15 09:00:30",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "Jack",
-        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Jack",
-      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
-    },
-    {
-      "added_at": "2023-09-15 09:00:30",
-      "album": {
         "name": "Vigilante Bop",
         "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
+    },
+    {
+      "added_at": "2023-09-15 09:00:30",
+      "album": {
         "name": "Montega",
         "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
       },
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+    },
+    {
+      "added_at": "2023-09-15 09:00:30",
+      "album": {
         "name": "Nyash (Current & Savings)",
         "url": "https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B"
       },
@@ -903,38 +919,6 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
-    },
-    {
-      "added_at": "2023-09-15 09:00:30",
-      "album": {
-        "name": "I Love It Here",
-        "url": "https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 150587,
-      "name": "Fuck That",
-      "url": "https://open.spotify.com/track/1JMNAsjUFWe24TrGyVdhXa"
-    },
-    {
-      "added_at": "2023-09-15 09:00:30",
-      "album": {
         "name": "Put It On Da Floor Again (Continued) (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3SdAsOeEizCDHMZMWGPPMj"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 240359,
       "name": "Put It On Da Floor Again (Continued) (feat. Cardi B)",
       "url": "https://open.spotify.com/track/4TYLdoKFwfnFHrgsTH0bit"
+    },
+    {
+      "added_at": "2023-09-15 09:00:30",
+      "album": {
+        "name": "I Love It Here",
+        "url": "https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 150587,
+      "name": "Fuck That",
+      "url": "https://open.spotify.com/track/1JMNAsjUFWe24TrGyVdhXa"
     },
     {
       "added_at": "2023-09-15 09:00:30",

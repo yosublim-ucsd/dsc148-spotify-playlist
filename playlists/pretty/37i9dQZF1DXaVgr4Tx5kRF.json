@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 630753,
+  "num_followers": 630941,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTdiYWUwOGExMjU5MjY2ZWYzODY5NjBjYTUxOWZjY2I4YjIxYmNk",
+  "snapshot_id": "MCxlOTRiNjgyMzdiZTBmOTYzNWMwNjE0NzUwNjFlMmFkNThjNDgyZjMz",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Urban Hymns (Remastered 2016)",
-        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 357266,
-      "name": "Bitter Sweet Symphony - Remastered 2016",
-      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Gorgeous George",
         "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
       },
@@ -199,22 +183,6 @@
       "duration_ms": 236583,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -251,40 +219,8 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Parklife (Special Edition)",
-        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Parklife - 2012 Remaster",
-      "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Gold Mother",
-        "url": "https://open.spotify.com/album/7qQEoMXpeyJ2GJkkdDsVdr"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/66IC0uXoVyYT5q3R27bbZy"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
       "artists": [
         {
@@ -292,25 +228,25 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+        "name": "Urban Hymns (Remastered 2016)",
+        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
       "artists": [
         {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
         }
       ],
-      "duration_ms": 277386,
-      "name": "Handbags And Gladrags",
-      "url": "https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr"
+      "duration_ms": 357266,
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -331,34 +267,66 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Urban Hymns (Deluxe / Remastered 2016)",
-        "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
+        "name": "Parklife (Special Edition)",
+        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
       },
       "artists": [
         {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 304880,
-      "name": "The Drugs Don't Work",
-      "url": "https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU"
+      "duration_ms": 185093,
+      "name": "Parklife - 2012 Remaster",
+      "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
     },
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
       "artists": [
         {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
         }
       ],
-      "duration_ms": 232333,
-      "name": "She Bangs the Drums - Remastered",
-      "url": "https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo"
+      "duration_ms": 277386,
+      "name": "Handbags And Gladrags",
+      "url": "https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Gold Mother",
+        "url": "https://open.spotify.com/album/7qQEoMXpeyJ2GJkkdDsVdr"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/66IC0uXoVyYT5q3R27bbZy"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "His N Hers",
+        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -379,18 +347,50 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "His N Hers",
-        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
         }
       ],
-      "duration_ms": 244826,
-      "name": "Babies",
-      "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
+      "duration_ms": 232333,
+      "name": "She Bangs the Drums - Remastered",
+      "url": "https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Urban Hymns (Deluxe / Remastered 2016)",
+        "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "The Drugs Don't Work",
+      "url": "https://open.spotify.com/track/15kLz0zNFdtsaJdXKSGmTU"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 492946,
+      "name": "I Am the Resurrection - Remastered",
+      "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Ugly Beautiful",
         "url": "https://open.spotify.com/album/1jDQR7dZB0TrGIZJ4vcrLb"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 240120,
       "name": "The Universal",
       "url": "https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 492946,
-      "name": "I Am the Resurrection - Remastered",
-      "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -651,6 +651,38 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "K",
+        "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Tattva",
+      "url": "https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Homegrown",
+        "url": "https://open.spotify.com/album/2QsbjNai1nFSl0xFOyV0F7"
+      },
+      "artists": [
+        {
+          "name": "Dodgy",
+          "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Staying Out For The Summer",
+      "url": "https://open.spotify.com/track/0Z8CJq9ntVrA8PHT35ZANv"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Jollification",
         "url": "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
       },
@@ -683,34 +715,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Homegrown",
-        "url": "https://open.spotify.com/album/2QsbjNai1nFSl0xFOyV0F7"
+        "name": "House Of Love",
+        "url": "https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ"
       },
       "artists": [
         {
-          "name": "Dodgy",
-          "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
+          "name": "The House of Love",
+          "url": "https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Staying Out For The Summer",
-      "url": "https://open.spotify.com/track/0Z8CJq9ntVrA8PHT35ZANv"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "K",
-        "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
-      },
-      "artists": [
-        {
-          "name": "Kula Shaker",
-          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Tattva",
-      "url": "https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS"
+      "duration_ms": 240066,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -731,22 +747,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "House Of Love",
-        "url": "https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ"
-      },
-      "artists": [
-        {
-          "name": "The House of Love",
-          "url": "https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Shine On",
-      "url": "https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The Sun Is Often Out",
         "url": "https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "All You Good Good People",
-      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "In It for the Money (2021 Remaster - Deluxe Expanded Edition)",
         "url": "https://open.spotify.com/album/4eskbEqGfhyOV3ILrneK4G"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 193307,
       "name": "Richard III - 2021 - Remaster",
       "url": "https://open.spotify.com/track/2T59dX55GGQ00ulyKnfqBG"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 366266,
+      "name": "All You Good Good People",
+      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "International Velvet",
-        "url": "https://open.spotify.com/album/5JKgetvj4148279DoZG7XE"
+        "name": "Moseley Shoals",
+        "url": "https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W"
       },
       "artists": [
         {
-          "name": "Catatonia",
-          "url": "https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv"
+          "name": "Ocean Colour Scene",
+          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
         }
       ],
-      "duration_ms": 309560,
-      "name": "Road Rage",
-      "url": "https://open.spotify.com/track/439IqYqbfvhbioXkvaeg20"
+      "duration_ms": 292850,
+      "name": "The Riverboat Song",
+      "url": "https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON"
     }
   ],
   "unique_name": "Britpop, Etc.",

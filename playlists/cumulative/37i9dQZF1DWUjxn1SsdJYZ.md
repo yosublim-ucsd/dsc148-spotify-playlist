@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: ENZO
 
-558 songs - 1 day 2 hr 6 min
+559 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [96 Bulls](https://open.spotify.com/track/7j2RJA45G8l0ZcDK2bOJJL) | [GMC](https://open.spotify.com/artist/1mjliHn4gJcgY5U5YtmFiP), [Johnny Narcotics](https://open.spotify.com/artist/6GBTukZn3btgHr1hq7ZGuP), [Alj](https://open.spotify.com/artist/4HPUHbvEGdXfuyaXxB0TNa), [KingTheFreeSoul](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [96 Bulls](https://open.spotify.com/album/4nitXAPFuLyCHinybJQs9b) | 3:01 | 2022-03-31 | 2022-04-15 |
 | [ABGz](https://open.spotify.com/track/2UuCc79U1gMcK1koGAPH2N) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats](https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL) | 3:14 | 2022-05-01 | 2022-08-12 |
 | [Against All Odds](https://open.spotify.com/track/6Lv3we4ylEG00UbHPLfYBC) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [Against All Odds](https://open.spotify.com/album/5snGj1BTvW1WulJQbT31pi) | 2:38 | 2022-03-21 | 2022-08-12 |
+| [All Three Eyes](https://open.spotify.com/track/5ZYLuWpHYXDx5NYj21nHrd) | [Vida Sunshyne](https://open.spotify.com/artist/4HmDdowCSXsHMjXtbKS4FZ) | [All Three Eyes](https://open.spotify.com/album/7eLKNmCLp1dG8Mo11pW3Oi) | 2:32 | 2023-09-18 |  |
 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 | 2023-07-27 |  |
 | [Angel](https://open.spotify.com/track/622de8teHH3niOkTxInOzR) | [FERBY](https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim) | [Angel](https://open.spotify.com/album/6G74ts9KsuaW073koTQmWm) | 2:20 | 2023-03-09 | 2023-04-28 |
 | [ANGEL EYES](https://open.spotify.com/track/3US0FSC1DGuYLuRGAK95z7) | [Jay Zayat](https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB) | [ANGEL EYES](https://open.spotify.com/album/7tf6sADlCZxD5z1AbrgrHu) | 2:30 | 2022-06-16 | 2022-07-29 |

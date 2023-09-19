@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 150419,
+  "num_followers": 150544,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWNjZjQ1MTk5MzY3MGE5N2MwNjA2MTE5MTViYjM0MzhiYmZkMzJm",
+  "snapshot_id": "MCxhNGFiOWMyNzZiMTZjZTkyMTM1YTBjZjc3OWI5MWI4NmE4YmUwZGQ0",
   "tracks": [
     {
       "added_at": "2023-09-08 09:45:33",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-09-08 09:45:33",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
-    },
-    {
-      "added_at": "2023-09-08 09:45:33",
-      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 213373,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
+    },
+    {
+      "added_at": "2023-09-08 09:45:33",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
     },
     {
       "added_at": "2023-09-08 09:45:33",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-09-08 09:45:33",
       "album": {
-        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
-        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 178355,
-      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
-      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
-    },
-    {
-      "added_at": "2023-09-08 09:45:33",
-      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 172360,
       "name": "Laissez-moi danser",
       "url": "https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37"
+    },
+    {
+      "added_at": "2023-09-08 09:45:33",
+      "album": {
+        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
+        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 178355,
+      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
+      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
     },
     {
       "added_at": "2023-09-08 09:45:33",

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-515 songs - 1 day 4 hr 19 min
+516 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Let It Go](https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:22 | 2023-02-10 |  |
 | [Let's Go Get Stoned](https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Doin' Our Thing](https://open.spotify.com/album/2OWQVMKNjSZeTaVXpfHPX5) | 2:54 | 2021-12-15 | 2023-04-15 |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-06-23 |  |
-| [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-11-09 |  |
+| [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-11-09 | 2023-09-19 |
 | [Life](https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Life](https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi) | 2:55 | 2023-03-10 | 2023-05-05 |
 | [Lifethativebeenlivin](https://open.spotify.com/track/3W1M418LCdlDAUj1FQGMvN) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Lifethativebeenlivin](https://open.spotify.com/album/2lb4sntKtt0wZFWa6eePKE) | 2:55 | 2021-12-15 | 2022-04-07 |
 | [Light Your Light](https://open.spotify.com/track/1nJvndyJtILLvRKC428rAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis](https://open.spotify.com/album/0EuclPLvAGjgMyVG9xkvoE) | 3:24 | 2023-06-09 | 2023-07-03 |
@@ -474,6 +474,7 @@
 | [Too Much to Ask](https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/6XkV7UX68o3meM5Yl3BnMC) | 3:47 | 2021-12-15 | 2022-07-28 |
 | [Trash](https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Trash](https://open.spotify.com/album/06dSrdMvvtas3Y4OvQXXkb) | 3:29 | 2023-04-21 |  |
 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 | 2021-12-15 | 2023-03-11 |
+| [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-08 |  |
 | [Trouble](https://open.spotify.com/track/5N7usY5OYD0sCTNiZZlyQn) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Trouble](https://open.spotify.com/album/3Yd1ohFCiXM3ZuaiftVaxs) | 3:52 | 2023-04-07 |  |
 | [Try and You Try](https://open.spotify.com/track/1rL0CJe38sZ9fQCe6n4xUq) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Try and You Try](https://open.spotify.com/album/6j2kbJ5izF0jN0z5fVOWKY) | 4:58 | 2023-02-16 | 2023-09-09 |
 | [Two Worlds Apart](https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 2:58 | 2021-12-15 | 2022-11-02 |

@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 37457,
+  "num_followers": 37590,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzMxZDgyZTBiM2RiMzliYTVkZTI3NTg4ZDMxZjUyMWU0ODY4N2U0",
+  "snapshot_id": "MCxmZmRlMjhhMzQ4NWUzMjdhZGEwNzQ4ZTFmZDcyYmFmMmM1OTI1NThk",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 139010,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -983,6 +983,50 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 159845,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Free Falling Love",
+        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Free Falling Love",
+      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
       },
@@ -1035,50 +1079,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Free Falling Love",
-        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Free Falling Love",
-      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Apologize",
-        "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 159845,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "In The Sun",
         "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
       },
@@ -1091,6 +1091,30 @@
       "duration_ms": 152000,
       "name": "In The Sun",
       "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1119,26 +1143,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
-      },
-      "artists": [
-        {
-          "name": "W\u00e4nderlost",
-          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
-        },
-        {
-          "name": "MEDEIA",
-          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
@@ -1155,6 +1159,26 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
+      },
+      "artists": [
+        {
+          "name": "W\u00e4nderlost",
+          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
+        },
+        {
+          "name": "MEDEIA",
+          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1227,30 +1251,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Summer Stars",
         "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
       },
@@ -1303,6 +1303,26 @@
       "duration_ms": 124772,
       "name": "Silent",
       "url": "https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Dollar For A Dime",
+        "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
+      },
+      "artists": [
+        {
+          "name": "Olly Wall",
+          "url": "https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV"
+        },
+        {
+          "name": "DT James",
+          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Dollar For A Dime",
+      "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1367,26 +1387,6 @@
       "duration_ms": 148500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Dollar For A Dime",
-        "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
-      },
-      "artists": [
-        {
-          "name": "Olly Wall",
-          "url": "https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV"
-        },
-        {
-          "name": "DT James",
-          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Dollar For A Dime",
-      "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
     },
     {
       "added_at": "2023-09-07 22:00:00",

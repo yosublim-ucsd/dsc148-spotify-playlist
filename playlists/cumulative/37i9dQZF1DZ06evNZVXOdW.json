@@ -415,6 +415,28 @@
     },
     {
       "album": {
+        "name": "Deeper Rising, Vol. 1",
+        "url": "https://open.spotify.com/album/1eYv7Pw6Ou9fPhim8EdmwT"
+      },
+      "artists": [
+        {
+          "name": "Pawas",
+          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515124,
+      "name": "Jiya - Original Mix",
+      "url": "https://open.spotify.com/track/4MNTdvcuYe7hdVlUR4HCF2"
+    },
+    {
+      "album": {
         "name": "Kand",
         "url": "https://open.spotify.com/album/1XWcnBDw4uUpquWF7slHF9"
       },

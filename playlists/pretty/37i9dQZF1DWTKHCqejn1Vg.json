@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 26480,
+  "num_followers": 26533,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmZlZjE4MTI2YjYyMWMzY2Y5NWNiZmYxZGRmZDRhNWIwYWRiZDFh",
+  "snapshot_id": "MCw1NWQzZjZkZGQ4ZjY5NDI2ZjAwN2ZjOTdiMDA3YmU5OWVjMWFhMmJh",
   "tracks": [
     {
       "added_at": "2023-09-06 08:29:20",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-09-06 08:29:20",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 221834,
-      "name": "woo ah",
-      "url": "https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc"
-    },
-    {
-      "added_at": "2023-09-06 08:29:20",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 211972,
       "name": "\ud480\uc5b4",
       "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
+    },
+    {
+      "added_at": "2023-09-06 08:29:20",
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 221834,
+      "name": "woo ah",
+      "url": "https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc"
     },
     {
       "added_at": "2023-09-06 08:29:20",
@@ -319,6 +319,26 @@
     {
       "added_at": "2023-09-06 08:29:20",
       "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "RING RING",
+      "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
+    },
+    {
+      "added_at": "2023-09-06 08:29:20",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -335,22 +355,6 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2023-09-06 08:29:20",
-      "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
     },
     {
       "added_at": "2023-09-06 08:29:20",
@@ -375,22 +379,18 @@
     {
       "added_at": "2023-09-06 08:29:20",
       "album": {
-        "name": "Ring Ring",
-        "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 206613,
-      "name": "RING RING",
-      "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
+      "duration_ms": 161640,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
     },
     {
       "added_at": "2023-09-06 08:29:20",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-06 08:29:20",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "More",
-      "url": "https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp"
-    },
-    {
-      "added_at": "2023-09-06 08:29:20",
-      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 244153,
       "name": "YOU KNOW",
       "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
+    },
+    {
+      "added_at": "2023-09-06 08:29:20",
+      "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "More",
+      "url": "https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp"
     },
     {
       "added_at": "2023-09-06 08:29:20",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-09-06 08:29:20",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+    },
+    {
+      "added_at": "2023-09-06 08:29:20",
+      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -603,26 +619,6 @@
       "duration_ms": 277928,
       "name": "Love Kills",
       "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
-    },
-    {
-      "added_at": "2023-09-06 08:29:20",
-      "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "g1nger",
-          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
-        }
-      ],
-      "duration_ms": 218092,
-      "name": "In To You (feat. g1nger) - Prod. WOOGIE",
-      "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
     },
     {
       "added_at": "2023-09-06 08:29:20",
@@ -643,18 +639,22 @@
     {
       "added_at": "2023-09-06 08:29:20",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "g1nger",
+          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
         }
       ],
-      "duration_ms": 177466,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+      "duration_ms": 218092,
+      "name": "In To You (feat. g1nger) - Prod. WOOGIE",
+      "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
     },
     {
       "added_at": "2023-09-06 08:29:20",

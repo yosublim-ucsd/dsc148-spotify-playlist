@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17546,
+  "num_followers": 17547,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTM2NGFkM2Y5ZjA4M2E3Y2I1N2VkNGMzM2U5ZDM3MWY5ZDNkYjM1",
+  "snapshot_id": "MCw1ZTZhMjBlYWQ1YzU2NDE1ZjFmZDMxZmNjMjhlNmYxYTE1Yzg4OTZl",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Young Chasers (Deluxe)",
-        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "T-Shirt Weather",
-      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 222026,
       "name": "Cochise",
       "url": "https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "The Dream Is Over",
-        "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 148893,
-      "name": "DVP",
-      "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Oshin",
         "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "The Dream Is Over",
+        "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "DVP",
+      "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Sad Boys",
         "url": "https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 159198,
       "name": "I'm Not Making out With You",
       "url": "https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Stay Away",
-      "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
     },
     {
       "added_at": "2022-03-23 15:48:35",
@@ -443,18 +427,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Freedom's Goblin",
-        "url": "https://open.spotify.com/album/5BInay8c4KClHpYL94IBed"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 232386,
-      "name": "My Lady's On Fire",
-      "url": "https://open.spotify.com/track/5EbTamOuKNYlEsOUGc51kE"
+      "duration_ms": 211440,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -471,6 +455,22 @@
       "duration_ms": 271720,
       "name": "Lucidity",
       "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Freedom's Goblin",
+        "url": "https://open.spotify.com/album/5BInay8c4KClHpYL94IBed"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 232386,
+      "name": "My Lady's On Fire",
+      "url": "https://open.spotify.com/track/5EbTamOuKNYlEsOUGc51kE"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -539,18 +539,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
+        "name": "Sundown Syndrome / Remember Me",
+        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 114386,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE"
+      "duration_ms": 261040,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -571,18 +571,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Sundown Syndrome / Remember Me",
-        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 261040,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
+      "duration_ms": 114386,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/3HrXk6mPsz9PdLcWEq7btE"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Boisad",
-        "url": "https://open.spotify.com/album/7JQ5JhmtlKabSCmHSFET3K"
-      },
-      "artists": [
-        {
-          "name": "Beach Goons",
-          "url": "https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3"
-        }
-      ],
-      "duration_ms": 209248,
-      "name": "Reservoir Dawgs",
-      "url": "https://open.spotify.com/track/2Yx0xNVsysG47yR19qvaKw"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Astro Coast",
         "url": "https://open.spotify.com/album/62G9kmLUjDoqkYBsPHwp42"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Arabia Mountain",
-        "url": "https://open.spotify.com/album/0ShlY0YGl6XAtBS9ltsV9G"
+        "name": "Boisad",
+        "url": "https://open.spotify.com/album/7JQ5JhmtlKabSCmHSFET3K"
       },
       "artists": [
         {
-          "name": "Black Lips",
-          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
+          "name": "Beach Goons",
+          "url": "https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3"
         }
       ],
-      "duration_ms": 124146,
-      "name": "Modern Art",
-      "url": "https://open.spotify.com/track/3sBNYkUaAiipWECiLdmzJd"
+      "duration_ms": 209248,
+      "name": "Reservoir Dawgs",
+      "url": "https://open.spotify.com/track/2Yx0xNVsysG47yR19qvaKw"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -891,6 +875,22 @@
       "duration_ms": 190284,
       "name": "Space Cadet",
       "url": "https://open.spotify.com/track/0GHu2NmkPSq5xqbSSD1tZ0"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Arabia Mountain",
+        "url": "https://open.spotify.com/album/0ShlY0YGl6XAtBS9ltsV9G"
+      },
+      "artists": [
+        {
+          "name": "Black Lips",
+          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Modern Art",
+      "url": "https://open.spotify.com/track/3sBNYkUaAiipWECiLdmzJd"
     },
     {
       "added_at": "2021-04-09 06:19:31",

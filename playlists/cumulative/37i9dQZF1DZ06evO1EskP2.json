@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Mahi",
+          "url": "https://open.spotify.com/artist/1S3UG513w8Jnx0OJFaiRjl"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216424,
+      "name": "Don't Want Your Money",
+      "url": "https://open.spotify.com/track/4NBPGGT2dH40ZhbTlKgDX2"
+    },
+    {
+      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },

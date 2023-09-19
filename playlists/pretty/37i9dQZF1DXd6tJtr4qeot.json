@@ -1,12 +1,12 @@
 {
   "description": "All the Punk Rock that you need in your life. Cover: Rancid",
-  "num_followers": 907433,
+  "num_followers": 907885,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjRlMDhiNTY0MTJlNmY3M2IzNjlhNjUwZjg5YjVlYzdlM2NkMWFk",
+  "snapshot_id": "MCwxNGEzNWRkMzc4OGI5OThhNTI2M2EyZDI2NTA4NWZmMDMxMTYwYzc4",
   "tracks": [
     {
       "added_at": "2023-03-07 12:31:09",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Miss Murder",
-      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 178266,
       "name": "Fat Lip",
       "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Miss Murder",
+      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
     },
     {
       "added_at": "2023-03-07 12:31:09",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "Let's Face It",
         "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 194760,
       "name": "The Impression That I Get",
       "url": "https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2023-03-07 12:31:09",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "Pennybridge Pioneers",
         "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 306520,
       "name": "Rose Tattoo",
       "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
       "added_at": "2023-03-07 12:31:09",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "The Meanest Of Times",
-        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "The State Of Massachusetts",
-      "url": "https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "Hello Rockview",
         "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 211400,
       "name": "All My Best Friends Are Metalheads",
       "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "The State Of Massachusetts",
+      "url": "https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW"
     },
     {
       "added_at": "2023-03-07 12:31:09",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-07 12:31:09",
       "album": {
-        "name": "White Crosses",
-        "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "I Was a Teenage Anarchist",
-      "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
-    },
-    {
-      "added_at": "2023-03-07 12:31:09",
-      "album": {
         "name": "Cool to Be You",
         "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 158426,
       "name": "All My Friends Are Dead",
       "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
+    },
+    {
+      "added_at": "2023-03-07 12:31:09",
+      "album": {
+        "name": "They Came From The Shadows",
+        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
+        }
+      ],
+      "duration_ms": 110800,
+      "name": "Skate or Die",
+      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
     }
   ],
   "unique_name": "Punk Essentials",

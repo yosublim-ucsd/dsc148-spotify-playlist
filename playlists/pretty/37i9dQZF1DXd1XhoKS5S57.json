@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 11298,
+  "num_followers": 11318,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDc5NTgyMWQ3YjgxNTlkODNkNTJlYmFhNDA2MmEyZmJiZGZkYzM4",
+  "snapshot_id": "MCwyMzAxMzhhZThhM2IzZjJlZjRiYzlkYjc2M2M0ODMxOTE5MTdlODkx",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Jesus Walks",
-      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 369573,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Jesus Walks",
+      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -495,6 +495,22 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 296186,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
         "name": "Trading Snakeoil for Wolftickets",
         "url": "https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 189506,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 296186,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/0KxU9wjCedUxSGdjuFdBDu"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Love Angel Music Baby (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "What You Waiting For?",
-      "url": "https://open.spotify.com/track/7bZsx7Zif6FIhrcZrh0LVm"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 301133,
       "name": "Me, Myself and I",
       "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Love Angel Music Baby (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "What You Waiting For?",
+      "url": "https://open.spotify.com/track/7bZsx7Zif6FIhrcZrh0LVm"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -835,22 +835,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Sleeping With Ghosts",
-        "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "This Picture",
-      "url": "https://open.spotify.com/track/7pmahAnqScI4MjbQiZZqei"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Suit",
         "url": "https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
+        "name": "Sleeping With Ghosts",
+        "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "This Picture",
+      "url": "https://open.spotify.com/track/7pmahAnqScI4MjbQiZZqei"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "DiscO-Zone",
-        "url": "https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt"
-      },
-      "artists": [
-        {
-          "name": "O-Zone",
-          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Dragostea Din Tei",
-      "url": "https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Pieces of A Dream",
         "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 212266,
       "name": "Sick and Tired",
       "url": "https://open.spotify.com/track/54s027DgaSJlvp1q2sdzTa"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "DiscO-Zone",
+        "url": "https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt"
+      },
+      "artists": [
+        {
+          "name": "O-Zone",
+          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Dragostea Din Tei",
+      "url": "https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Liebling (France version)",
-        "url": "https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP"
-      },
-      "artists": [
-        {
-          "name": "Andreas Johnson",
-          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Parce qu'on vient de loin",
         "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 232932,
       "name": "Parce qu'on vient de loin",
       "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Liebling (France version)",
+        "url": "https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP"
+      },
+      "artists": [
+        {
+          "name": "Andreas Johnson",
+          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB"
     }
   ],
   "unique_name": "Top Hits France 2004",

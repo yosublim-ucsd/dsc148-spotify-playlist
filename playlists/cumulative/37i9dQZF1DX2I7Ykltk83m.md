@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-363 songs - 22 hr 0 min
+364 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [bloodstream](https://open.spotify.com/track/2C29mn0uPfTmTkmSTPWkMm) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [bloodstream](https://open.spotify.com/album/52uYH9mYlCLT3y21yfJxRW) | 5:37 | 2021-11-14 | 2022-07-29 |
 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 | 2022-05-20 |  |
 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 | 2021-11-14 |  |
+| [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 | 2023-09-15 |  |
 | [Broken Wings](https://open.spotify.com/track/4ybgXtK62vox8OgsVAAN8N) | [Danielle Durack](https://open.spotify.com/artist/6GW3s0BFKxz18pDxGXPQnG) | [No Place](https://open.spotify.com/album/72i4MgStHJU8z5aMrsbUOj) | 3:53 | 2021-11-14 | 2022-07-27 |
 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 | 2023-02-22 |  |
 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 | 2022-05-20 |  |
@@ -302,7 +303,7 @@
 | [sunstruck](https://open.spotify.com/track/74ofPe4D7s8ajM7A7haPYE) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [sunstruck](https://open.spotify.com/album/3Ngb3n0RgkVD6Uo6pIvU9c) | 5:01 | 2022-04-15 | 2022-07-29 |
 | [Sure](https://open.spotify.com/track/38jmyQQhIpC6SP0zRF5WCu) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sugar & Spice](https://open.spotify.com/album/6Wzwhd5VTklhTkqQPooIla) | 4:09 | 2022-05-20 | 2022-10-08 |
 | [Sure](https://open.spotify.com/track/6gE07whLj5Zis7MnL2Q4nm) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sure](https://open.spotify.com/album/4YDaXqdjZQMJQ0RIBEGlcg) | 4:09 | 2021-11-14 | 2022-07-28 |
-| [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-10-07 |  |
+| [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-10-07 | 2023-09-19 |
 | [Sweetheart](https://open.spotify.com/track/4T7okh1A7MmqS7xXypO0wx) | [Long Beard](https://open.spotify.com/artist/3truyDimkGtu58fxQj9Xv9) | [Means To Me](https://open.spotify.com/album/1GS9YuJnV8cNUZFJapg1AK) | 5:34 | 2021-11-14 | 2022-11-13 |
 | [Sword](https://open.spotify.com/track/6mD1KDKC3CcGAVCAwUkKl4) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Drink The Lake](https://open.spotify.com/album/111JuJ9c9okr6iskmC7DR3) | 3:02 | 2021-11-14 | 2022-07-29 |
 | [Sword](https://open.spotify.com/track/1EQ08xDU7g9brPXEVNeWnE) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Show Me How You Disappear](https://open.spotify.com/album/3byic3J5R5PQCm62tdTimO) | 3:02 | 2022-10-07 | 2023-01-28 |

@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-709 songs - 1 day 6 hr 21 min
+710 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2021-12-13 | 2022-11-12 |
 | [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 | 2021-12-13 | 2022-05-27 |
 | [La Perte](https://open.spotify.com/track/4GQ9KRA4zzD4JTYFqAdNnt) | [Verney Pépin](https://open.spotify.com/artist/1m0iaSvYDVKEUe4gkPXriQ) | [La Perte](https://open.spotify.com/album/3u1DTMMatPzL1vppQQC7Kt) | 2:01 | 2021-12-13 | 2023-05-04 |
+| [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 | 2023-09-18 |  |
 | [Laredo](https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Laredo](https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq) | 2:47 | 2022-03-02 | 2023-03-28 |
 | [Larks](https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:54 | 2021-12-13 | 2022-07-22 |
 | [Late](https://open.spotify.com/track/4U8rS9Zwponx3RtzspiQFx) | [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav) | [Late](https://open.spotify.com/album/2oaXu9YZPKsSuNOvBkAnGe) | 2:59 | 2021-12-13 | 2022-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Anycia\. Updates every Wednesday\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,293 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,239 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 52 | [protected](https://open.spotify.com/track/0yzOpsdCAxEzga6pGo76d6) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [r u missing](https://open.spotify.com/album/1JC06HUJLcl40hRtZxfwLY) | 2:15 |
 | 53 | [Oliver](https://open.spotify.com/track/1cJyI5SqNLsIG7RoXKhsvn) | [Bella Porter](https://open.spotify.com/artist/4jby3degVGgbEuzneg4iU3) | [Oliver](https://open.spotify.com/album/0p2R73LIfq7Fcro9ecDSlL) | 3:41 |
 
-Snapshot ID: `MCw5NjczY2RiZDllODg4NGRhYWNmNjdiNjc0MDBjNTJkMTE0NDhmZGNm`
+Snapshot ID: `MCw5OTBkNTY5YmYzNjBjMDA1MjA3MDZhOGJhZjM3MWFjNmQ1MzY2NzEz`

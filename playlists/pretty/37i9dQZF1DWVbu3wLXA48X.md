@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,925 likes - 84 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,039 likes - 84 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 83 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
 | 84 | [Sirens](https://open.spotify.com/track/6rjxyDTlJCGqo1XQ6vrq5R) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Sirens](https://open.spotify.com/album/5jtOLGuMV0eYTHJptwgI1D) | 4:28 |
 
-Snapshot ID: `MCw0NmQzOTc2NTYyYTJmZWUyNWJiZjExZTU2ZDg1Y2NmNDQ5ZGNlMzA2`
+Snapshot ID: `MCxlMWIxMjAxZjA5NjVmNjAyZWMyY2U4MWFmMWE3NDI1YmE4NWY1OTcz`

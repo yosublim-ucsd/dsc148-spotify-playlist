@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Justin Quiles.",
-  "num_followers": 524824,
+  "num_followers": 524878,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjc1NmViZGRlOWE1ZTRkZDUyY2Y0NjkyYjkxYWFlYTI5Y2NkNzc2",
+  "snapshot_id": "MCxiYzNiMjA1NzQ4N2IzMTdiYTM2YWY3NGY1ZmExYTg3Y2FjYzg4ZjI4",
   "tracks": [
     {
       "added_at": "2023-09-15 05:18:32",
@@ -311,6 +311,26 @@
     {
       "added_at": "2023-09-15 05:18:32",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 193961,
+      "name": "DISPO",
+      "url": "https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL"
+    },
+    {
+      "added_at": "2023-09-15 05:18:32",
+      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 193835,
       "name": "X ESO BB",
       "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
-    },
-    {
-      "added_at": "2023-09-15 05:18:32",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 193961,
-      "name": "DISPO",
-      "url": "https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL"
     },
     {
       "added_at": "2023-09-15 05:18:32",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-15 05:18:32",
       "album": {
-        "name": "Piedritas En Los Dientes",
-        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 156544,
-      "name": "Piedritas En Los Dientes",
-      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
-    },
-    {
-      "added_at": "2023-09-15 05:18:32",
-      "album": {
         "name": "Sin Preguntar",
         "url": "https://open.spotify.com/album/7rRuM1AiQPiFH5T4cxpE3d"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 207100,
       "name": "LLAME PA' VERTE (feat. Wisin)",
       "url": "https://open.spotify.com/track/1RjifKIUX8faZv9nxR0t5f"
+    },
+    {
+      "added_at": "2023-09-15 05:18:32",
+      "album": {
+        "name": "Piedritas En Los Dientes",
+        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 156544,
+      "name": "Piedritas En Los Dientes",
+      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
     },
     {
       "added_at": "2023-09-15 05:18:32",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2023-09-15 05:18:32",
       "album": {
+        "name": "Not\u00f3n",
+        "url": "https://open.spotify.com/album/1mtxVEwAaB45BHSCpST8px"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 166360,
+      "name": "Not\u00f3n",
+      "url": "https://open.spotify.com/track/6A3pjEOJ9gWGIeRdOHPRNO"
+    },
+    {
+      "added_at": "2023-09-15 05:18:32",
+      "album": {
         "name": "Juego",
         "url": "https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 151360,
       "name": "Juego",
       "url": "https://open.spotify.com/track/6TCE0hVdVYeJkzL2Sw7eYk"
-    },
-    {
-      "added_at": "2023-09-15 05:18:32",
-      "album": {
-        "name": "Not\u00f3n",
-        "url": "https://open.spotify.com/album/1mtxVEwAaB45BHSCpST8px"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 166360,
-      "name": "Not\u00f3n",
-      "url": "https://open.spotify.com/track/6A3pjEOJ9gWGIeRdOHPRNO"
     },
     {
       "added_at": "2023-09-15 05:18:32",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2023-09-15 05:18:32",
       "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "CHIQUITA",
+      "url": "https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD"
+    },
+    {
+      "added_at": "2023-09-15 05:18:32",
+      "album": {
         "name": "Mood (Remix)",
         "url": "https://open.spotify.com/album/2yNM7Di0fiM4T4uRSoiJ1L"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 247124,
       "name": "Mood - Remix",
       "url": "https://open.spotify.com/track/2rRXFhzzZ7uNvQTR54CTVk"
-    },
-    {
-      "added_at": "2023-09-15 05:18:32",
-      "album": {
-        "name": "MIDNIGHT",
-        "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 177728,
-      "name": "CHIQUITA",
-      "url": "https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD"
     },
     {
       "added_at": "2023-09-15 05:18:32",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-15 05:18:32",
       "album": {
-        "name": "DE LOS 90",
-        "url": "https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox"
-      },
-      "artists": [
-        {
-          "name": "Itzza Primera",
-          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
-        }
-      ],
-      "duration_ms": 118762,
-      "name": "DE LOS 90",
-      "url": "https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd"
-    },
-    {
-      "added_at": "2023-09-15 05:18:32",
-      "album": {
         "name": "Qu\u00e9date La Foto",
         "url": "https://open.spotify.com/album/3JiRuTWgrgOItrSvIPxSSh"
       },
@@ -1467,42 +1451,18 @@
     {
       "added_at": "2023-09-15 05:18:32",
       "album": {
-        "name": "Anti-todo",
-        "url": "https://open.spotify.com/album/4yikPqi6jZ5B0fok72MSkm"
+        "name": "DE LOS 90",
+        "url": "https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
         }
       ],
-      "duration_ms": 177977,
-      "name": "Anti-todo",
-      "url": "https://open.spotify.com/track/1UBLpmwFqty3My4THs0Yx5"
-    },
-    {
-      "added_at": "2023-09-15 05:18:32",
-      "album": {
-        "name": "Thick Thick",
-        "url": "https://open.spotify.com/album/7azPHYfr1riOM0go8D2UWy"
-      },
-      "artists": [
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "Rome",
-          "url": "https://open.spotify.com/artist/7hPHzgSyvl3t41rC21PCGH"
-        }
-      ],
-      "duration_ms": 192244,
-      "name": "Thick Thick",
-      "url": "https://open.spotify.com/track/1r10cPcQMXyXTvrNzPe1mf"
+      "duration_ms": 118762,
+      "name": "DE LOS 90",
+      "url": "https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd"
     },
     {
       "added_at": "2023-09-15 05:18:32",
@@ -1563,30 +1523,6 @@
     {
       "added_at": "2023-09-15 05:18:32",
       "album": {
-        "name": "Paola",
-        "url": "https://open.spotify.com/album/3wKTbOxWGU5qPEwRbqzIyp"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
-        }
-      ],
-      "duration_ms": 156007,
-      "name": "Paola",
-      "url": "https://open.spotify.com/track/4a6CBQgaWisAD64ikLtFSe"
-    },
-    {
-      "added_at": "2023-09-15 05:18:32",
-      "album": {
         "name": "GZ",
         "url": "https://open.spotify.com/album/2uJXYofGw8z3ZQuIQPQ4Qr"
       },
@@ -1611,6 +1547,70 @@
       "duration_ms": 304000,
       "name": "Ya Lo Sabes",
       "url": "https://open.spotify.com/track/6MHVbNPtBbYHoQPX976RRb"
+    },
+    {
+      "added_at": "2023-09-15 05:18:32",
+      "album": {
+        "name": "Paola",
+        "url": "https://open.spotify.com/album/3wKTbOxWGU5qPEwRbqzIyp"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 156007,
+      "name": "Paola",
+      "url": "https://open.spotify.com/track/4a6CBQgaWisAD64ikLtFSe"
+    },
+    {
+      "added_at": "2023-09-15 05:18:32",
+      "album": {
+        "name": "Anti-todo",
+        "url": "https://open.spotify.com/album/4yikPqi6jZ5B0fok72MSkm"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Anti-todo",
+      "url": "https://open.spotify.com/track/1UBLpmwFqty3My4THs0Yx5"
+    },
+    {
+      "added_at": "2023-09-15 05:18:32",
+      "album": {
+        "name": "Thick Thick",
+        "url": "https://open.spotify.com/album/7azPHYfr1riOM0go8D2UWy"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Rome",
+          "url": "https://open.spotify.com/artist/7hPHzgSyvl3t41rC21PCGH"
+        }
+      ],
+      "duration_ms": 192244,
+      "name": "Thick Thick",
+      "url": "https://open.spotify.com/track/1r10cPcQMXyXTvrNzPe1mf"
     },
     {
       "added_at": "2023-09-15 05:18:32",
@@ -1951,6 +1951,26 @@
     {
       "added_at": "2023-09-15 05:18:32",
       "album": {
+        "name": "DAMMN",
+        "url": "https://open.spotify.com/album/07OCLlTIgkoLyNjicF7loh"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        },
+        {
+          "name": "Th3 Trilogy",
+          "url": "https://open.spotify.com/artist/7licUnuZSKcHiRNtQ0mmAE"
+        }
+      ],
+      "duration_ms": 175194,
+      "name": "DAMMN",
+      "url": "https://open.spotify.com/track/76MtE1Z54R7kbddLcnNrjV"
+    },
+    {
+      "added_at": "2023-09-15 05:18:32",
+      "album": {
         "name": "UNA GATITA",
         "url": "https://open.spotify.com/album/5NvXFJGob15teasQMemNSs"
       },
@@ -1983,26 +2003,6 @@
       "duration_ms": 151304,
       "name": "Algo en Ti",
       "url": "https://open.spotify.com/track/6N9xzFZ49ji9lrQEwLw5gS"
-    },
-    {
-      "added_at": "2023-09-15 05:18:32",
-      "album": {
-        "name": "DAMMN",
-        "url": "https://open.spotify.com/album/07OCLlTIgkoLyNjicF7loh"
-      },
-      "artists": [
-        {
-          "name": "Moffa",
-          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
-        },
-        {
-          "name": "Th3 Trilogy",
-          "url": "https://open.spotify.com/artist/7licUnuZSKcHiRNtQ0mmAE"
-        }
-      ],
-      "duration_ms": 175194,
-      "name": "DAMMN",
-      "url": "https://open.spotify.com/track/76MtE1Z54R7kbddLcnNrjV"
     },
     {
       "added_at": "2023-09-15 05:18:32",

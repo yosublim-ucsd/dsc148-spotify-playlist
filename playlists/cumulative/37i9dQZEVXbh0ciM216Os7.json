@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 445933,
       "name": "All Mountains",
       "url": "https://open.spotify.com/track/1u7JDkPMV47l42Ajimwnzw"
@@ -1843,6 +1843,40 @@
     },
     {
       "album": {
+        "name": "BUCK WILD",
+        "url": "https://open.spotify.com/album/5ImKCJbyk1dOft8wdHTUKa"
+      },
+      "artists": [
+        {
+          "name": "Headkrack",
+          "url": "https://open.spotify.com/artist/0IB0hCCHwwj5vbLcYk8WbQ"
+        },
+        {
+          "name": "Local Astronauts",
+          "url": "https://open.spotify.com/artist/4spEdT2akJzTcOugrkhnLh"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Kool Keith",
+          "url": "https://open.spotify.com/artist/3zFaWPA8Jobgf5egh38KD2"
+        },
+        {
+          "name": "Fly Deff",
+          "url": "https://open.spotify.com/artist/49FiS9ZFyKxljQsQAep1nH"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226411,
+      "name": "BUCK WILD - Radio Edit",
+      "url": "https://open.spotify.com/track/7moyxFvUkA2ScJne5GHwCW"
+    },
+    {
+      "album": {
         "name": "Burning Down the House (Metal Version)",
         "url": "https://open.spotify.com/album/54wesWsBOJFQhKVFzpeDJ5"
       },
@@ -2236,7 +2270,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 224800,
       "name": "Christie Rd. - Outtake",
       "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
@@ -4034,7 +4068,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 347640,
       "name": "Faceless",
       "url": "https://open.spotify.com/track/1GaAvOXKpcMxIgFd1fvX7o"
@@ -4657,6 +4691,28 @@
     },
     {
       "album": {
+        "name": "Freak 54 (Freak Out)",
+        "url": "https://open.spotify.com/album/5w5ybFZ5gewy0Lb9LA9lXc"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128240,
+      "name": "Freak 54 (Freak Out)",
+      "url": "https://open.spotify.com/track/5CAaHC3rBhhZyFR7JqgPbn"
+    },
+    {
+      "album": {
         "name": "Freak 54 (Freak Out) [Sped Up Version]",
         "url": "https://open.spotify.com/album/5ntn1tPGZZuDGoa16ACng8"
       },
@@ -4672,7 +4728,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 109779,
       "name": "Freak 54 (Freak Out) - Sped Up Version",
       "url": "https://open.spotify.com/track/3GBJHmYBfh911Fs8DF8ZHe"
@@ -5278,10 +5334,32 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 222986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/3cPafGcaLEsfrZZZB7gB3M"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/67nEDeSnu6MLIm5Vr8UWwf"
+      },
+      "artists": [
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222986,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4xO6bnooEZzdvKGNuciK0i"
     },
     {
       "album": {
@@ -9062,7 +9140,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 297624,
       "name": "Origin Story",
       "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
@@ -9626,7 +9704,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 241937,
       "name": "Protect ya Neck - Beat",
       "url": "https://open.spotify.com/track/3v8miUWCBtKwa1u0pDhzC1"
@@ -10510,7 +10588,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 143103,
       "name": "She Listen To Trap",
       "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
@@ -12849,6 +12927,24 @@
     },
     {
       "album": {
+        "name": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023)",
+        "url": "https://open.spotify.com/album/4fd8mqhFEDpn8sJitGqS8k"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288230,
+      "name": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023)",
+      "url": "https://open.spotify.com/track/4P5M6lFGdjz58JJK6hYW8w"
+    },
+    {
+      "album": {
         "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
         "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
       },
@@ -13330,7 +13426,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 98000,
       "name": "USA",
       "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
@@ -13594,7 +13690,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 169773,
       "name": "Walking the Dog (demo) - Outtake",
       "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"

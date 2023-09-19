@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1534189,
+  "num_followers": 1534422,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmE4OWY5YmIyZjI0YjI5YTk4Zjc0ZDMzZDAwZjc3YjZhNDIxNzYy",
+  "snapshot_id": "MCwxYmEyZThlNWVhY2ZlMjFlZGNjYjk4YmU0OWRjZTA2NzI5NGRjMThk",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Parallel Lines",
         "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
       },
@@ -203,38 +219,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 128426,
       "name": "Where Eagles Dare",
       "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 100333,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Songs The Lord Taught Us",
         "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 85863,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
       "artists": [
         {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 85863,
-      "name": "Maxwell Murder",
-      "url": "https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb"
+      "duration_ms": 100333,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 115040,
-      "name": "Sailin' On",
-      "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Candy Apple Grey",
         "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 163133,
       "name": "I Can't Hardly Stand It",
       "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 115040,
+      "name": "Sailin' On",
+      "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 89666,
-      "name": "Viet Nam",
-      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Spurts: The Richard Hell Story (2013 Remaster)",
         "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 155960,
       "name": "Suspect Device",
       "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+      },
+      "artists": [
+        {
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+        }
+      ],
+      "duration_ms": 89666,
+      "name": "Viet Nam",
+      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 130826,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Last Scream of the Missing Neighbors",
         "url": "https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 193733,
       "name": "That's Progress",
       "url": "https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk"
     }
   ],
   "unique_name": "Classic Punk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side A
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,747 likes - 86 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,792 likes - 86 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 85 | [Ninnanu Nodida \(from "Baanadariyalli"\)](https://open.spotify.com/track/4PMvYkH1nrA1KvJmWexQGW) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Ninnanu Nodida \(from "Baanadariyalli"\)](https://open.spotify.com/album/2jBMbxmjZGr3RAPY6tafvS) | 4:16 |
 | 86 | [Shivani \(From "Kousalya Supraja Rama"\)](https://open.spotify.com/track/28aOMbbEz3NpMmW6LOBDkE) | [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Shashank](https://open.spotify.com/artist/37yERfVx2mLLJAVigQekAN) | [Shivani \(From "Kousalya Supraja Rama"\) \- Single](https://open.spotify.com/album/42b0JVNY9itjdQcJNBSOjd) | 3:22 |
 
-Snapshot ID: `MCw3MzY5MTRlZGNiNjAzM2Y5ZjNjMzMzZWNiNDAyYjgyNGYyODEzMGM5`
+Snapshot ID: `MCw1YTI4YmM0YjMyMDMyYWYzNGE4OWQzYTJkNDg3YzY3YjdmOWQxMGEy`

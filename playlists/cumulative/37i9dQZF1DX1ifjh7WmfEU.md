@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-203 songs - 8 hr 57 min
+206 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2022-09-15 |  |
 | [Cador](https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Cador](https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb) | 2:29 | 2022-05-27 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2022-05-27 |  |
+| [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-18 |  |
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2022-05-27 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-05-27 |  |
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2022-05-27 |  |
@@ -101,6 +102,7 @@
 | [Je crois en toi](https://open.spotify.com/track/5yCggunPid4GYMxzCQbk99) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [Je crois en toi](https://open.spotify.com/album/7FP73HulDW6i3S8xhZpDBL) | 2:39 | 2022-05-27 |  |
 | [Keepsake](https://open.spotify.com/track/3kInd0TVmBr2TaumXmTZbN) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Open Window](https://open.spotify.com/album/3ZMOUgL032R3ee7TiaD5gV) | 2:20 | 2022-05-27 |  |
 | [Kjærlighet](https://open.spotify.com/track/1UgFiq67HxKCD2rCeloW2V) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [Kjærlighet](https://open.spotify.com/album/65gHwlRipPDPscf5UK6dOF) | 3:01 | 2022-05-27 |  |
+| [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 | 2023-09-18 |  |
 | [Larks](https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:54 | 2022-05-27 |  |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2022-05-27 |  |
 | [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2022-05-27 |  |
@@ -191,6 +193,7 @@
 | [Undisturbed](https://open.spotify.com/track/2sDskIxP9gdYKo0L2WCBLR) | [Bryn Williams](https://open.spotify.com/artist/2EYQUBVJqp5CH3lOSj5FLJ) | [Undisturbed](https://open.spotify.com/album/2CpPAqdJrVVvFnDEV373Td) | 2:34 | 2022-05-27 |  |
 | [Une chambre](https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Une chambre](https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7) | 2:42 | 2022-05-27 |  |
 | [Une histoire d’amour](https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E) | [Cedric Moulin](https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3) | [Une histoire d’amour](https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l) | 2:32 | 2022-05-27 |  |
+| [Ups & Downs](https://open.spotify.com/track/4fjEDWJKkQpaBZVsRBXe10) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Ups & Downs](https://open.spotify.com/album/2vHvkB9l45jwu517zX7f6x) | 2:08 | 2023-09-18 |  |
 | [Vancouver](https://open.spotify.com/track/6H08IWL5fcTkVyNjNCH2GM) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Vancouver](https://open.spotify.com/album/4IdRqAawCzBNThspxGFTbo) | 3:31 | 2022-05-27 |  |
 | [Vuggevise](https://open.spotify.com/track/7rvlOw2fPjxbcZSNKifEHq) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Vuggevise](https://open.spotify.com/album/6srrbZzcRlL82bPxb1rBCH) | 3:10 | 2022-05-27 |  |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2022-05-27 |  |

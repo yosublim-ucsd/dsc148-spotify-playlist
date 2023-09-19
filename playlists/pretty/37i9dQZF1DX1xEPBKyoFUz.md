@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Put your pedal to the metal with an exclusive playlist co\-curated by the cast of Twisted Metal, streaming now on <a href="https://www.peacocktv.com/stream\-tv/twisted\-metal?cid=2307spotifypkerndwbjny376&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_redir&utm\_term=spotifyusers&utm\_content=NA">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,203 likes - 19 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,214 likes - 19 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 18 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 19 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 |
 
-Snapshot ID: `MCw4YzRjNWNiZDQwNzhiYTEzMmY2ZmM3MzdlN2FlYjEzOTUxZDg5ZDAw`
+Snapshot ID: `MCxkMGM3MjUyZDhiODVhNzI0MTYyMDdmYmJmOWU5NDI1OTg0NGQ1NDJl`

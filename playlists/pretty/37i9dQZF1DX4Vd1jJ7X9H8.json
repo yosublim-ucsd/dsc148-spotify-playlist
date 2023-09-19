@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 280787,
+  "num_followers": 281007,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2M2ZTNkN2ZhNTY5MWE2NzAyZDZlNzZiNDMyOGJmYzA1MmZkMDg2",
+  "snapshot_id": "MCw5MTg5Nzc4YzUyOTUwZTEzYjljMTAxNDc4ZTZhY2MzMDgxMjFmNTll",
   "tracks": [
     {
       "added_at": "2023-05-04 21:27:18",
@@ -207,26 +207,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -813,6 +813,58 @@
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
     },
     {
+      "added_at": "2023-07-28 17:22:16",
+      "album": {
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
+    },
+    {
+      "added_at": "2023-06-29 14:20:09",
+      "album": {
+        "name": "Elliot - EP",
+        "url": "https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 236335,
+      "name": "Montreal",
+      "url": "https://open.spotify.com/track/5maosvba9QkQP14u6vtxog"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
+    },
+    {
       "added_at": "2023-05-04 21:27:18",
       "album": {
         "name": "Cheesin'",
@@ -851,58 +903,6 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
-    },
-    {
-      "added_at": "2023-06-29 14:20:09",
-      "album": {
-        "name": "Elliot - EP",
-        "url": "https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 236335,
-      "name": "Montreal",
-      "url": "https://open.spotify.com/track/5maosvba9QkQP14u6vtxog"
-    },
-    {
-      "added_at": "2023-07-28 17:22:16",
-      "album": {
-        "name": "Heartquake",
-        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "Heartquake",
-      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Dream in Colour",
-        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183896,
-      "name": "Skin on Skin",
-      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
     }
   ],
   "unique_name": "Soir\u00e9e",

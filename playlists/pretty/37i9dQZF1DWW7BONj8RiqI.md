@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,491 likes - 58 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,523 likes - 58 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 33 | [Mental Day](https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Spirit Of Carnival Project](https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu) | 3:04 |
 | 34 | [Savannah Grass](https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0) | 2:59 |
 | 35 | [Welcome To Carnival](https://open.spotify.com/track/5iQDeHszlApK5qgRaqEBTv) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Welcome To Spicemas](https://open.spotify.com/album/1CjKM4g3AY5QrrVGN76Ife) | 3:18 |
-| 36 | [Finally](https://open.spotify.com/track/5si9Jot7asAKQuELQj0cTu) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Finally](https://open.spotify.com/album/7sc88VHIHcEguKynwGbzb1) | 3:15 |
+| 36 | [Finally](https://open.spotify.com/track/0flO097HnRPkoysVteTrLl) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Finally](https://open.spotify.com/album/2BnV1KPoLhuonvJYLHeik6) | 3:15 |
 | 37 | [Tombstone](https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2) | [Mandella Linkz](https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm) | [Mandrakes Riddim](https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7) | 3:50 |
 | 38 | [Party Bad](https://open.spotify.com/track/6EJzdnbIdREmNDJa1IPa9a) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq), [Mr\. Legz HT](https://open.spotify.com/artist/31nJ1fPZlCCYt6P1NMrzAx) | [Jumbie Jab Riddim](https://open.spotify.com/album/4gnNvZbqcAoiZekpMd4vju) | 2:53 |
 | 39 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 57 | [Headways](https://open.spotify.com/track/20DjK18TiILB3N61HUQKFc) | [Esron Y\. Spielberg](https://open.spotify.com/artist/119ijPNXC2y426lTSEVn6Q) | [Headways](https://open.spotify.com/album/0V1ynyrP0K0uzidRCqUXI4) | 3:19 |
 | 58 | [Zen Mode](https://open.spotify.com/track/60JbCdnGtjktguVEToZW6N) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Festival of Fire Riddim](https://open.spotify.com/album/6Qtqo6aIFAEUZI0fHVgINC) | 3:50 |
 
-Snapshot ID: `MCxmMTg4ZTgyMjRmZWExMWZlMzNlZGQ4ZGQ5M2VkZTZhZGJiZjkxNjdi`
+Snapshot ID: `MCwwZjgzODlhY2ZiOWRjNTBjMDI3ZWY3OWYzMzMxMjEwZjFhN2UxZDhh`

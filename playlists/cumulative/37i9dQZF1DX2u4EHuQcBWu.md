@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-281 songs - 18 hr 26 min
+282 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [La Gran Revolución](https://open.spotify.com/track/32ajX8u27BYqJ8XLr1ekCi) | [Silabario](https://open.spotify.com/artist/69Z9Rb8JunV1blSuO4Fkbs) | [La Gran Revolución](https://open.spotify.com/album/0BJIh4v0BdFgaFxMIGNzXl) | 3:48 | 2021-09-24 | 2022-07-28 |
 | [La Invasión](https://open.spotify.com/track/7uqeuY4SURHXcZRWZtDLZB) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Háblame de Horror](https://open.spotify.com/album/2rX58yPHKhvLx9pHWzQiH1) | 2:34 | 2021-09-24 | 2022-07-21 |
 | [La Llorona](https://open.spotify.com/track/5BMX18foe41Ize8rIPOnpz) | [Snowapple](https://open.spotify.com/artist/6bLz3VdMwvf9q8tSYl3BeM) | [La Llorona](https://open.spotify.com/album/4QXBFcxkFAE7PJKO1HUzJz) | 4:01 | 2021-09-24 | 2022-07-29 |
-| [La Maldición de Mi País](https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:03 | 2021-09-24 |  |
+| [La Maldición de Mi País](https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:03 | 2021-09-24 | 2023-09-19 |
 | [La Marcha de la Bronca](https://open.spotify.com/track/0ZoDjWUyhpbmN6bAk9xkvs) | [Gervasio](https://open.spotify.com/artist/2Tvx0xTgN6ok9PXCNKbPBW) | [Gervasio](https://open.spotify.com/album/1G3CuCMsNpR6eMxJ7WXE4O) | 4:01 | 2021-09-24 | 2022-07-26 |
 | [La Marcha De La Bronca](https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 3:47 | 2021-09-24 |  |
 | [La Maza](https://open.spotify.com/track/2a1x7Ln27cNtsgtL26mdwi) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Cuba Classics 1: Silvio Rodriguez](https://open.spotify.com/album/1sAt8XDVQbndid4MxNgTJD) | 5:51 | 2021-09-24 |  |
@@ -220,6 +220,7 @@
 | [Politiquero](https://open.spotify.com/track/0us7ZHwOpYxMCKR2ZYRISA) | [Boomer & Sindicato de la Danza](https://open.spotify.com/artist/2YmfN2CUkuZrKsSiwiUyFp) | [Andanzas](https://open.spotify.com/album/5y5kapZHRmdEdUMIAlEqJd) | 3:39 | 2021-09-24 | 2022-07-16 |
 | [Polyrics](https://open.spotify.com/track/673P7YkpX0McuiXgVEcqOb) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Formas Para Perderse o I.D.E.A.S](https://open.spotify.com/album/0w9uxCAXSY9xHqzPsfTANp) | 4:59 | 2021-09-24 | 2022-07-24 |
 | [Polyrics](https://open.spotify.com/track/6AMi0uaTgLG3HrbOIIrRls) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Formas para Perderse o I.D.E.A.S](https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R) | 4:59 | 2021-09-24 | 2023-09-18 |
+| [Por Que No Se Van](https://open.spotify.com/track/0U79l5US7T8snNuDSrZ3X6) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Pateando Piedras](https://open.spotify.com/album/0Av7hm17VTE9gQgJ2pg7WW) | 2:59 | 2021-09-24 |  |
 | [Por Qué Los Ricos](https://open.spotify.com/track/0GvT2AUiVLteoFm11XgdjL) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Pateando Piedras](https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo) | 4:56 | 2021-09-24 | 2022-07-29 |
 | [Por Qué No Se Van](https://open.spotify.com/track/0FRpkVdaghjib91eaXOA97) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Pateando Piedras](https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo) | 3:01 | 2021-09-24 | 2022-07-29 |
 | [Por Qué No Se Van](https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Coleccion Suprema](https://open.spotify.com/album/62mYqA8S00dcrD42jmml86) | 3:02 | 2021-09-24 | 2023-09-15 |

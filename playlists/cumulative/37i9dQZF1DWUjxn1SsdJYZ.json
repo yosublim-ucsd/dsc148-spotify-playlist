@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "All Three Eyes",
+        "url": "https://open.spotify.com/album/7eLKNmCLp1dG8Mo11pW3Oi"
+      },
+      "artists": [
+        {
+          "name": "Vida Sunshyne",
+          "url": "https://open.spotify.com/artist/4HmDdowCSXsHMjXtbKS4FZ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "All Three Eyes",
+      "url": "https://open.spotify.com/track/5ZYLuWpHYXDx5NYj21nHrd"
+    },
+    {
+      "album": {
         "name": "And We",
         "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
       },

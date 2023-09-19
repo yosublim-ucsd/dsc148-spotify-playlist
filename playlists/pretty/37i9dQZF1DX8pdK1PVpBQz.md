@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Molly Millington\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,089 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,103 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 64 | [Please Don't Save my Life](https://open.spotify.com/track/43ra7MnJ0KTIBx7ja7PLeW) | [Murphi Field](https://open.spotify.com/artist/2U4pHymg98cNpWM1GFt73X) | [Please Don't Save my Life](https://open.spotify.com/album/6tIG7fOePDJKkG8i49li91) | 3:36 |
 | 65 | [CYPHER](https://open.spotify.com/track/05n5tLld3qv1zfQgxu1pay) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [CYPHER](https://open.spotify.com/album/6ApJZKBdCAB5XqlKA8DzVb) | 2:46 |
 | 66 | [She Makes My Skin Crawl](https://open.spotify.com/track/1LNCPKdNjCNk2a6OJIXNwz) | [Dusty](https://open.spotify.com/artist/7aiMJoQRNRAZskMEmAyTfw) | [She Makes My Skin Crawl](https://open.spotify.com/album/2CNavXH203iq1d7VkQ05T6) | 3:27 |
-| 67 | [Black Coat, Black Skirt](https://open.spotify.com/track/4MgrivVqImoJgyAD22zoYq) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Black Coat, Black Skirt](https://open.spotify.com/album/4QVHYphZDeqCj4I2SWBIip) | 3:20 |
+| 67 | [Black Coat, Black Skirt](https://open.spotify.com/track/5Aih6cGzHW9ABgnS10HCr6) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [JULIA](https://open.spotify.com/album/6kSnkFQGSNserpUB78IE4m) | 3:20 |
 | 68 | [On My Soul](https://open.spotify.com/track/4eZr40clokPVb8YPgEIjnL) | [J\-MILLA](https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0) | [On My Soul](https://open.spotify.com/album/1gpXKlkQu4jsATJAfEwJCf) | 2:46 |
 | 69 | [Mount The Curb](https://open.spotify.com/track/64cJ4d7N5iM3HTg7omaNe7) | [Mouse](https://open.spotify.com/artist/1gZjjas3x9FxrIz8VF5bbo) | [Mount The Curb/Buffy/Goodbye At The Door Forever](https://open.spotify.com/album/72dyj36q4cXg3sPbLIitix) | 3:13 |
 | 70 | [BoywiZard](https://open.spotify.com/track/2MLdLLYt36kP33x23vROA0) | [BOY $COUT GATSBY](https://open.spotify.com/artist/5AZH6yzLc1YbNKdB7Db179), [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN) | [BoywiZard](https://open.spotify.com/album/2Kn8vaJsMFSVoC5Oe0wIFM) | 3:09 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 98 | [Ephemeral](https://open.spotify.com/track/1pLxO6dL8JsCajU1pSvffR) | [Candy Moore](https://open.spotify.com/artist/3U7I69WIz0gHzaKBFMp2uO) | [Ephemeral](https://open.spotify.com/album/3zwM5UADUgf7BfAqUQlMTc) | 3:51 |
 | 99 | [Paper](https://open.spotify.com/track/4MjeAkO7ZXOE2U4y8E6Fq4) | [Georgia Mulligan](https://open.spotify.com/artist/4tXhvq7trzNGSORS5pAB9o) | [Paper](https://open.spotify.com/album/6PNHQPFsmBhoE1HTztuQ6a) | 2:48 |
 
-Snapshot ID: `MCw1MDIxNTdkMjM3ZTliZTYzOTdmZTExYzAyNDJkYTIwYjZiMzY1ODVm`
+Snapshot ID: `MCw4ZWZlZjc4NzhhYmY5YzViYzhhMzQ0NzlmYjhhMjYyMDI1YTMxMGRh`

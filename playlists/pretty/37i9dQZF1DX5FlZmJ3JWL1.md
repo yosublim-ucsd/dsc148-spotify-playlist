@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,257 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,633 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 46 | [LIGHTWAVES](https://open.spotify.com/track/46JbXTR6VNrnnoJJAsn6gN) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LIGHTWAVES](https://open.spotify.com/album/1JhkARu8eNtzhsxCNwjnte) | 2:21 |
 | 47 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 |
 | 48 | [Rock My Body \(with INNA\) \[Sam Feldt Remix\]](https://open.spotify.com/track/7iLximGIlwAFgB5J7KG7pJ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Rock My Body \(with INNA\) \[Sam Feldt Remix\]](https://open.spotify.com/album/5AD2PA4Cef5qsJZGsyj0xZ) | 2:49 |
-| 49 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 |
-| 50 | [Bongo Remix](https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6) | [Max + Johann](https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow) | [Bongo Remix](https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk) | 2:40 |
+| 49 | [Bongo Remix](https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6) | [Max + Johann](https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow) | [Bongo Remix](https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk) | 2:40 |
+| 50 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 |
 
-Snapshot ID: `MCw2MDM0NjM0ZTg1Y2Y0OTk3YjkyMjY5NDkyNzdmNWYyNGEzZDI0NWQ2`
+Snapshot ID: `MCxjMjk2MTgwYjE1NjMwNTI4N2EzMzk0MGZlZTRlZjg3ZTRmYjNhYmI1`

@@ -1,15 +1,35 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 362932,
+  "num_followers": 363240,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDYzNTAsMDAwMDAwMDBhMjZiNzQwNTBkMjNhYjMyNDE3OWUyMGU0MmFmMjM1Ng==",
+  "snapshot_id": "MjgyNTA2NTEsMDAwMDAwMDA5MWQxMjZlOTA0ZmMxYTlhNjNkNTI0ZDhkNjMxZDQyMg==",
   "tracks": [
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
+      "album": {
+        "name": "americana, but lofi",
+        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
+      },
+      "artists": [
+        {
+          "name": "lonelyboy",
+          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "the kids aren't alright - lofi",
+      "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
+    },
+    {
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Splinter",
         "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/1qYcHo4wiesUC2VIRch45G"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Splinter",
         "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/3lfmqF0ULXRHlWxBeaHo3t"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/5BnFZLH99sYav2cxJFGO2n"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/0CUYFHDVPANZRwa2SQsoWs"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
@@ -317,71 +337,7 @@
       "url": "https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
-      "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Million Miles Away",
-      "url": "https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe"
-    },
-    {
-      "added_at": "2023-09-15 12:30:55",
-      "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Coming For You",
-      "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
-    },
-    {
-      "added_at": "2023-09-15 12:30:55",
-      "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 124053,
-      "name": "No Brakes",
-      "url": "https://open.spotify.com/track/6kJiR8bUk9jEzfDU7f8s6v"
-    },
-    {
-      "added_at": "2023-09-15 12:30:55",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 146960,
-      "name": "Nitro (Youth Energy)",
-      "url": "https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV"
-    },
-    {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
@@ -397,7 +353,71 @@
       "url": "https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Coming For You",
+      "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
+    },
+    {
+      "added_at": "2023-09-18 12:11:43",
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 124053,
+      "name": "No Brakes",
+      "url": "https://open.spotify.com/track/6kJiR8bUk9jEzfDU7f8s6v"
+    },
+    {
+      "added_at": "2023-09-18 12:11:43",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 146960,
+      "name": "Nitro (Youth Energy)",
+      "url": "https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV"
+    },
+    {
+      "added_at": "2023-09-18 12:11:43",
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Million Miles Away",
+      "url": "https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe"
+    },
+    {
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Splinter",
         "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/2mZ2h6VPJK2Xf2Nkik5r65"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/2B17416FS7vL5qljgqfm7L"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/3U8LpjEbSlUQusIifQ3yBp"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/4K20nocu6gubbWYiuCR23K"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/2wInvm8hrvonqyArYUIpvi"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Ignition (2008 Remaster)",
         "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
@@ -557,7 +577,7 @@
       "url": "https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
@@ -637,7 +657,7 @@
       "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
@@ -653,7 +673,7 @@
       "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Splinter",
         "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
@@ -733,7 +753,7 @@
       "url": "https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200"
     },
     {
-      "added_at": "2023-09-15 12:30:55",
+      "added_at": "2023-09-18 12:11:43",
       "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"

@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 344463,
+  "num_followers": 344537,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWM1MTgzMzUwNjg5Nzg5NDQwMjJhZGVlYTNhMTM1M2I5NDdhZTg4",
+  "snapshot_id": "MCxlNTI0Zjk0YmYzOTQ1ZjRkNTQxM2Y5OTNlZjI5YmFmNTM1MGY3NWJk",
   "tracks": [
     {
       "added_at": "2023-09-15 09:57:52",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 141971,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 141971,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1w3KuDqXpsnQuCBGqr7A0n"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 200523,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
         "name": "Ghost of You",
         "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 158063,
       "name": "Ghost of You",
       "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 200523,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Ready To Be Loved",
-        "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
-      },
-      "artists": [
-        {
-          "name": "St. Lundi",
-          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
-        }
-      ],
-      "duration_ms": 180581,
-      "name": "Ready To Be Loved",
-      "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
         "name": "Stop the Moment (Deluxe)",
         "url": "https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 174186,
       "name": "Call You Home",
       "url": "https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
+        "name": "Ready To Be Loved",
+        "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
+      },
+      "artists": [
+        {
+          "name": "St. Lundi",
+          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
+        }
+      ],
+      "duration_ms": 180581,
+      "name": "Ready To Be Loved",
+      "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 183195,
+      "name": "Jim Carrey",
+      "url": "https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
         "name": "Mehr davon",
         "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 191250,
       "name": "Butterflies (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 183195,
-      "name": "Jim Carrey",
-      "url": "https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Remember Roses",
-        "url": "https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Wishing Girl",
-      "url": "https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
         "name": "Kreise",
         "url": "https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 221533,
       "name": "Kreise",
       "url": "https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
+        "name": "Remember Roses",
+        "url": "https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Wishing Girl",
+      "url": "https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Broken Memories",
-        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 151307,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 214383,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
+        "name": "Broken Memories",
+        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 151307,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT"
     },
     {
       "added_at": "2023-09-15 09:57:52",

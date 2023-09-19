@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 312066,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
@@ -3224,6 +3224,24 @@
       "duration_ms": 191435,
       "name": "Moontalk",
       "url": "https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9"
+    },
+    {
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222567,
+      "name": "More",
+      "url": "https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0"
     },
     {
       "album": {

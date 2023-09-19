@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De vuelta a los 2000s con los mejores \u00e9xitos! Christina Aguilera en portada.",
-  "num_followers": 23747,
+  "num_followers": 23850,
   "original_name": "Fiesta 2000era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2ZjNWVmMGU2ZWJjZTFhODA2N2RkZmE5NmYyMmViOTg5MjEzMjM1",
+  "snapshot_id": "MCw0NDA1NmQ5NzhkODUyNGQ5MTU4ZDMxZTliZWIzM2RhMzE3NDJhNDhi",
   "tracks": [
     {
       "added_at": "2023-04-21 21:00:36",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-04-21 21:00:36",
       "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
+    },
+    {
+      "added_at": "2023-04-21 21:00:36",
+      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 212893,
       "name": "La Tortura (feat. Alejandro Sanz)",
       "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
-    },
-    {
-      "added_at": "2023-04-21 21:00:36",
-      "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2023-04-21 21:00:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-04-21 21:00:36",
       "album": {
-        "name": "El Patr\u00f3n (La Victoria)",
-        "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "El Amor",
-      "url": "https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ"
-    },
-    {
-      "added_at": "2023-04-21 21:00:36",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 205373,
       "name": "A Dios Le Pido",
       "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2023-04-21 21:00:36",
+      "album": {
+        "name": "El Patr\u00f3n (La Victoria)",
+        "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "El Amor",
+      "url": "https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ"
     },
     {
       "added_at": "2023-04-21 21:00:36",
@@ -611,6 +611,38 @@
     {
       "added_at": "2023-04-21 21:00:36",
       "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u"
+    },
+    {
+      "added_at": "2023-04-21 21:00:36",
+      "album": {
+        "name": "La Vida Es Un Ratico",
+        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Me Enamora",
+      "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
+    },
+    {
+      "added_at": "2023-04-21 21:00:36",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -651,22 +683,6 @@
     {
       "added_at": "2023-04-21 21:00:36",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Las Avispas",
-      "url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u"
-    },
-    {
-      "added_at": "2023-04-21 21:00:36",
-      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 259440,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
-    },
-    {
-      "added_at": "2023-04-21 21:00:36",
-      "album": {
-        "name": "La Vida Es Un Ratico",
-        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Me Enamora",
-      "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
     },
     {
       "added_at": "2023-04-21 21:00:36",

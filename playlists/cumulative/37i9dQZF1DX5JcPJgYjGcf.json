@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
+    },
+    {
+      "album": {
         "name": "SSFW",
         "url": "https://open.spotify.com/album/5eq9uD3Lm8SKdYfTBxRdX7"
       },

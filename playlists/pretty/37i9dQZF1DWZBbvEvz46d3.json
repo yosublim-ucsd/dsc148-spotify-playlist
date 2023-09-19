@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 60455,
+  "num_followers": 60491,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjBjYzMxYzA0NmYzN2IzMDQ4YjIyMjlhMDU1NTBmNzZjOTNhNDI3",
+  "snapshot_id": "MCxkZTBkMjg2MDY4YzE1ODRiMGYwZDFmOGU5OGEzOGU3MzkwYzRkYWU4",
   "tracks": [
     {
       "added_at": "2023-09-01 14:10:27",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Lady Pank",
-        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
+        "name": "Nic dwa razy (W. Szymborska)",
+        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
       },
       "artists": [
         {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 240080,
-      "name": "Kryzysowa narzeczona",
-      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
+      "duration_ms": 189000,
+      "name": "Nic dwa razy (W. Szymborska)",
+      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Nic dwa razy (W. Szymborska)",
-        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
+        "name": "Lady Pank",
+        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Nic dwa razy (W. Szymborska)",
-      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
+      "duration_ms": 240080,
+      "name": "Kryzysowa narzeczona",
+      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Milosc",
-        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
-      },
-      "artists": [
-        {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Peron",
-      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Komponuj\u0105c siebie",
         "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 187640,
       "name": "Kamie\u0144 z Napisem Love",
       "url": "https://open.spotify.com/track/23KqpM3GPAqiNvfZoyMvsU"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Milosc",
+        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Peron",
+      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Ania Karwan",
-        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
-      },
-      "artists": [
-        {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
-        }
-      ],
-      "duration_ms": 197764,
-      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
-      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Ludzie prosci",
         "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 230504,
       "name": "Kazdego dnia",
       "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Ania Karwan",
+        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "duration_ms": 197764,
+      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
+      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Prawda o nas",
-        "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Prawda o nas",
-      "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Omamy",
         "url": "https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 230826,
       "name": "Nie mam dla Ciebie mi\u0142o\u015bci - Kayax XX Rework",
       "url": "https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Prawda o nas",
+        "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Prawda o nas",
+      "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
     },
     {
       "added_at": "2023-09-01 14:10:27",

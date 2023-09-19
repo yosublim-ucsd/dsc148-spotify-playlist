@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: اصالة
 
-264 songs - 18 hr 1 min
+266 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Ahl Aleshg](https://open.spotify.com/track/44tJDmoFxmtbbZFiTyJ63a) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ahl Aleshg](https://open.spotify.com/album/5RBewkiAhunvGKOaqvl6t2) | 5:48 | 2022-06-28 | 2023-01-13 |
 | [Ahla Khabar](https://open.spotify.com/track/0lrd2S6pAlPM9NNRaGVYQz) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Ahla Khabar](https://open.spotify.com/album/396A3BYDQJVWQcePUVOoeL) | 3:24 | 2023-05-24 |  |
 | [Ahla Watan](https://open.spotify.com/track/0l96bCDCnawVGivHaq9GZw) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Ahla Watan](https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2) | 2:02 | 2022-04-05 | 2022-11-08 |
-| [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 | 2023-02-24 |  |
+| [Ahmed Allah Aleek](https://open.spotify.com/track/3wHwGaImG08yAIzOnh8qc4) | [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Ahmed Allah Aleek](https://open.spotify.com/album/64pCUD9wMYdC4lQZOryvaB) | 2:26 | 2023-09-18 |  |
+| [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 | 2023-02-24 | 2023-09-19 |
 | [Akhtht Al Thaar](https://open.spotify.com/track/2ShZOjo6DVToCvT4Q4eoLC) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Akhtht Al Thaar](https://open.spotify.com/album/5PbRU9jwHXjhqttJdoy2bW) | 3:39 | 2022-07-27 | 2022-09-15 |
 | [Al Badeel](https://open.spotify.com/track/2wRlaec2tf6wI7RwNeVN6d) | [Ahmad Alawi](https://open.spotify.com/artist/5hw12Kz62uesk0wdKSJpBv) | [Al Badeel](https://open.spotify.com/album/4E4FPhYU6jM5sPGeBMzzIp) | 3:29 | 2021-12-23 | 2022-06-04 |
 | [AL Haneen](https://open.spotify.com/track/4QFao7PN5C3uGmfyaWs3Dw) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [AL Haneen](https://open.spotify.com/album/2yN7VTziuoXyPuqy0HONX2) | 3:20 | 2021-12-23 | 2022-01-21 |
@@ -228,7 +229,7 @@
 | [الحب الأبدي](https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [الحب الأبدي](https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0) | 4:37 | 2023-08-03 |  |
 | [الحيلة](https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الحيلة](https://open.spotify.com/album/4P1CiqYMFvMvMsNxKQWJce) | 2:57 | 2023-05-26 |  |
 | [العجب في الهوى](https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [العجب في الهوى](https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX) | 5:23 | 2023-08-25 |  |
-| [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 | 2023-02-24 |  |
+| [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 | 2023-02-24 | 2023-09-19 |
 | [تولعت بك](https://open.spotify.com/track/0GUMuiH1nCUrv6Qn3XoSLt) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثالث](https://open.spotify.com/album/0gjd8nLLwr2sHk7lsfBfvL) | 4:59 | 2023-09-12 |  |
 | [جماله](https://open.spotify.com/track/5Eummjh47ivk2y8y7OEaBX) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [جماله](https://open.spotify.com/album/5YDNtwvDQbQObi32lPZqq1) | 3:52 | 2023-01-10 | 2023-07-12 |
 | [جننت قلبي](https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [جننت قلبي](https://open.spotify.com/album/4pEnflTz0BQxSdcX2mptfP) | 4:47 | 2023-08-25 |  |
@@ -255,6 +256,7 @@
 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 | 2023-04-26 |  |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2021-12-23 | 2022-03-12 |
 | [مرحبا بك](https://open.spotify.com/track/7zGF0G34lky0sgWz6uQux8) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC), [مشجع مسفر](https://open.spotify.com/artist/6xNGM5MRDYPJajquB1R2Ch) | [مرحبا بك](https://open.spotify.com/album/6NoZaRWPTa6i4krd7rGh4I) | 3:25 | 2021-12-23 | 2022-04-05 |
+| [مصلحتك](https://open.spotify.com/track/3zNFE3WvCQmtIqQYLxBcoH) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [مصلحتك](https://open.spotify.com/album/2n0YMCPqZLwtR3Y4she3fz) | 2:41 | 2023-09-18 |  |
 | [معكازي](https://open.spotify.com/track/68vRWVHLdGaKFI5SYcDVVa) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣](https://open.spotify.com/album/5sBNL3QLKoRAJ88mgVppqZ) | 4:57 | 2023-03-03 |  |
 | [مكانك](https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [مكانك](https://open.spotify.com/album/6shrlkAp819uLJ9WNXT2DN) | 3:48 | 2023-04-22 |  |
 | [نختلف](https://open.spotify.com/track/0saWOpjP5GsSIS8Xg3Yob8) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [نختلف](https://open.spotify.com/album/5Pt6p7tl0DOE93klDxYkfW) | 3:31 | 2023-04-22 | 2023-05-26 |

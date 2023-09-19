@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Cool et branch\u00e9e",
+        "url": "https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177335,
+      "name": "Cool et branch\u00e9e",
+      "url": "https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr"
+    },
+    {
+      "album": {
         "name": "Crash (feat. Corneille)",
         "url": "https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI"
       },
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 208754,
       "name": "Nue",
       "url": "https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6"

@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 288265,
+  "num_followers": 288380,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGJiNWI2NzFlZTE2MzU3ZGY0YmQ5MDc5NWVkMGI2MTk0Njc3ZWNj",
+  "snapshot_id": "MCw0NWU2YTA4YzQxZmUyZmE0NDg5MDgwNWE1OWQ2ZGFhZmNjMjA1N2Fh",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 330840,
-      "name": "Black - Live MTV Unplugged",
-      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 330840,
+      "name": "Black - Live MTV Unplugged",
+      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
         "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
       },
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Ac\u00fastico Ira!",
-        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
-      },
-      "artists": [
-        {
-          "name": "Ira!",
-          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Acustico (Live)",
         "url": "https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 212293,
       "name": "Agora S\u00f3 Falta Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Ac\u00fastico Ira!",
+        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
+      },
+      "artists": [
+        {
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Take On Me (MTV Unplugged / Edit)",
+        "url": "https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Take On Me - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 438583,
       "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
       "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Take On Me (MTV Unplugged / Edit)",
-        "url": "https://open.spotify.com/album/3wzeAwO1FHJbdBhmoc9LST"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Take On Me - MTV Unplugged / Edit",
-      "url": "https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 215898,
       "name": "Aposta - Ao Vivo",
       "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "City Of Angels (Piano Version)",
-        "url": "https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 262185,
-      "name": "City Of Angels - Piano Version",
-      "url": "https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Detonautas Ac\u00fastico",
         "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 277693,
       "name": "S\u00f3 por hoje / Tenis Roque",
       "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "City Of Angels (Piano Version)",
+        "url": "https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 262185,
+      "name": "City Of Angels - Piano Version",
+      "url": "https://open.spotify.com/track/3nqZdcbYyr4eatjoErsCVX"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Behind Your Walls",
-        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Behind Your Walls - Acoustic",
-      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Sex on the Beach (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 192853,
       "name": "Hear Me Now - Ao Vivo",
       "url": "https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Behind Your Walls",
+        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Behind Your Walls - Acoustic",
+      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -939,6 +939,38 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
+        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 65965,
+      "name": "Welcome To The Sky (Intro) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
         "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
       },
@@ -975,38 +1007,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
-        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 190651,
-      "name": "Guerra e Paz - Ac\u00fastico Live",
-      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Bad Guy (Acoustic)",
         "url": "https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi"
       },
@@ -1019,38 +1019,6 @@
       "duration_ms": 161589,
       "name": "Bad Guy - Acoustic",
       "url": "https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
-        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 65965,
-      "name": "Welcome To The Sky (Intro) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
-        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Straight From The Heart - Live at The Royal Albert Hall",
-      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1071,6 +1039,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Cuts Like A Knife - 40th Anniversary, Live From The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Straight From The Heart - Live at The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Digital (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 196023,
       "name": "Digital - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
+        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Guerra e Paz - Ac\u00fastico Live",
+      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
     },
     {
       "added_at": "2023-09-15 03:01:00",

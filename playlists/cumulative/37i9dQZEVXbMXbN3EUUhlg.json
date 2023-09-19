@@ -2954,7 +2954,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 76248,
       "name": "Campo De Morango",
       "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
@@ -4462,7 +4462,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 173967,
       "name": "Devia Ser Proibido - Ao Vivo Em Bras\u00edlia",
       "url": "https://open.spotify.com/track/0QcKkN8b4iVkmVsbaze8OS"
@@ -10165,6 +10165,24 @@
     },
     {
       "album": {
+        "name": "LUAN CITY 2.0 - FASE 2",
+        "url": "https://open.spotify.com/album/3HZoYUVz3aRNa7xL8LIg8Y"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "MULHER SEGURA - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KhLYwYVhi13hMhxX73m55"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -11176,7 +11194,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 167514,
       "name": "Oficializar - Ao Vivo",
       "url": "https://open.spotify.com/track/5eID9KNVJV2fDSPQGzQHQg"

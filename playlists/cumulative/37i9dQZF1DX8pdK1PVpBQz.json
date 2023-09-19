@@ -4718,10 +4718,28 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 200366,
       "name": "Black Coat, Black Skirt",
       "url": "https://open.spotify.com/track/4MgrivVqImoJgyAD22zoYq"
+    },
+    {
+      "album": {
+        "name": "JULIA",
+        "url": "https://open.spotify.com/album/6kSnkFQGSNserpUB78IE4m"
+      },
+      "artists": [
+        {
+          "name": "Juice Webster",
+          "url": "https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200366,
+      "name": "Black Coat, Black Skirt",
+      "url": "https://open.spotify.com/track/5Aih6cGzHW9ABgnS10HCr6"
     },
     {
       "album": {

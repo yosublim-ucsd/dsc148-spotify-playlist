@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,769 likes - 73 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,784 likes - 73 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 72 | [Weird Flex](https://open.spotify.com/track/3DtiBVOc1FGJMgN1ygCu10) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE), [Danny Scrilla](https://open.spotify.com/artist/4bmJFapr7wQD6xdjcqWjcL) | [Weird Flex](https://open.spotify.com/album/2mWG078wkJMmjUQ8iqhhWT) | 3:51 |
 | 73 | [Gather Your Party \- Dispersed Mix](https://open.spotify.com/track/5vsjxTrwwRM4YNOvwPFJn2) | [Minor Science](https://open.spotify.com/artist/7xkfvmfvOfMBZmIGKaLtzi) | [Absent Friends Vol\. III](https://open.spotify.com/album/3D3rMpNJJbyvT5Fz7BOwKG) | 5:44 |
 
-Snapshot ID: `MCw1YWVkMTY2ZTMwZTg0N2VkMTQ0OWNkZTMzNDBlMWU3MDU0YWY0MWFh`
+Snapshot ID: `MCw4ZTgyZGFmMmU5YTk2NGE1NzZmMjYwMjFkODljZGZkNzE0YWU3MjA2`

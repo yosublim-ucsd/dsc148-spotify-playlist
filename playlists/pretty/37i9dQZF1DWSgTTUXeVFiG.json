@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 22452,
+  "num_followers": 22505,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWQ5MWJhZmQ3ZDkxNWY1MzNjOTFjMzllOTMyNGY1MzIxOTY3ZWU4",
+  "snapshot_id": "MCxiZWYyMDQ1MmIyNzNkMTZjYjExYzQwNzI3YzI2YjIxMDJmNDNjMWRl",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -127,6 +127,34 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        },
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 468653,
+      "name": "Vivir Sin Ella (feat. Tito Nieves, Luis Enrique & Eddie Santiago) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/6AahARlIuyeOb4cyK3AjHe"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -183,30 +211,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
-        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+        "name": "Un Legado Musical - Lo Nuevo y Lo Mejor",
+        "url": "https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        },
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
         }
       ],
-      "duration_ms": 468653,
-      "name": "Vivir Sin Ella (feat. Tito Nieves, Luis Enrique & Eddie Santiago) - En Vivo desde Puerto Rico",
-      "url": "https://open.spotify.com/track/6AahARlIuyeOb4cyK3AjHe"
+      "duration_ms": 322200,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/7aXsYQkDCl9aWaTmwR5rrd"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -247,22 +263,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Orquesta De La Luz",
-          "url": "https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm"
-        }
-      ],
-      "duration_ms": 352853,
-      "name": "Salsa Caliente del Jap\u00f3n - Live Version",
-      "url": "https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -295,18 +295,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Un Legado Musical - Lo Nuevo y Lo Mejor",
-        "url": "https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+          "name": "Orquesta De La Luz",
+          "url": "https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm"
         }
       ],
-      "duration_ms": 322200,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/7aXsYQkDCl9aWaTmwR5rrd"
+      "duration_ms": 352853,
+      "name": "Salsa Caliente del Jap\u00f3n - Live Version",
+      "url": "https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Mickey Taveras (Live)",
-        "url": "https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC"
-      },
-      "artists": [
-        {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
-        }
-      ],
-      "duration_ms": 296683,
-      "name": "A Pesar del Tiempo - Live",
-      "url": "https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -375,6 +359,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Mickey Taveras (Live)",
+        "url": "https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "duration_ms": 296683,
+      "name": "A Pesar del Tiempo - Live",
+      "url": "https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "15 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs"
       },
@@ -387,26 +387,6 @@
       "duration_ms": 440864,
       "name": "Medley: Amiga/Mi Media Mitad/Luna Negra - En Vivo",
       "url": "https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
-        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 500946,
-      "name": "Perd\u00f3name / Lo Grande Que Es Perdonar - Medley (feat. Vico C) - En Vivo desde Puerto Rico",
-      "url": "https://open.spotify.com/track/4fM5OkcMCkIsJTTQC0OgTo"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -443,34 +423,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         },
         {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        },
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        },
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        },
-        {
-          "name": "Nora",
-          "url": "https://open.spotify.com/artist/50qoEvPHvc3H9dmOBShQSM"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 352853,
-      "name": "Vali\u00f3 La Pena (feat. Jose Alberto \"El Canario\", Cheo Feliciano, Andy Monta\u00f1ez & Nora) - Live Version",
-      "url": "https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c"
+      "duration_ms": 500946,
+      "name": "Perd\u00f3name / Lo Grande Que Es Perdonar - Medley (feat. Vico C) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/4fM5OkcMCkIsJTTQC0OgTo"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -527,6 +495,54 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 296253,
+      "name": "Ella Es - En Vivo",
+      "url": "https://open.spotify.com/track/718X6sjlHdmOzdTfJv4tUc"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        },
+        {
+          "name": "Nora",
+          "url": "https://open.spotify.com/artist/50qoEvPHvc3H9dmOBShQSM"
+        }
+      ],
+      "duration_ms": 352853,
+      "name": "Vali\u00f3 La Pena (feat. Jose Alberto \"El Canario\", Cheo Feliciano, Andy Monta\u00f1ez & Nora) - Live Version",
+      "url": "https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -559,26 +575,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
-        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        },
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 273053,
-      "name": "Llorar\u00e1s - Live",
-      "url": "https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "40... y Contando (En Vivo Desde Puerto Rico)",
         "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
       },
@@ -595,34 +591,30 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+        "name": "Live At The Red Garter, Vol. 1",
+        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 483480,
-      "name": "Peri\u00f3dico De Ayer - Live",
-      "url": "https://open.spotify.com/track/7BkcskeOLGTge1UAVLV5Ni"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
-      },
-      "artists": [
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 296253,
-      "name": "Ella Es - En Vivo",
-      "url": "https://open.spotify.com/track/718X6sjlHdmOzdTfJv4tUc"
+      "duration_ms": 320000,
+      "name": "Sabor Sabor - Live",
+      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -659,30 +651,38 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At The Red Garter, Vol. 1",
-        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
+        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
+        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         },
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Sabor Sabor - Live",
-      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
+      "duration_ms": 273053,
+      "name": "Llorar\u00e1s - Live",
+      "url": "https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 483480,
+      "name": "Peri\u00f3dico De Ayer - Live",
+      "url": "https://open.spotify.com/track/7BkcskeOLGTge1UAVLV5Ni"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -731,6 +731,22 @@
       "duration_ms": 406440,
       "name": "Tengo Ganas - Live Carnegie Version",
       "url": "https://open.spotify.com/track/0dfKQSS9o3pfSducqHXaCy"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Live At The Cheetah, Vol. 2",
+        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 444960,
+      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
+      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -819,22 +835,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At The Cheetah, Vol. 2",
-        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        }
-      ],
-      "duration_ms": 444960,
-      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
-      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
       },
@@ -851,6 +851,26 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 557626,
+      "name": "Descarga Fania - Live",
+      "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "A Night Of Salsa",
         "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
       },
@@ -863,22 +883,6 @@
       "duration_ms": 401466,
       "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
       "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Intimamente Salsero (En Vivo)",
-        "url": "https://open.spotify.com/album/5Reuqd1mwQDQOdx0vFvOXm"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 298573,
-      "name": "Sue\u00f1o Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1ACoCw1B1BRNg0gaLQmdJQ"
     }
   ],
   "unique_name": "Vivo de Salsa",

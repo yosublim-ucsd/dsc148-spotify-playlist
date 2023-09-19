@@ -1,15 +1,15 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 9526,
+  "num_followers": 9553,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDYzNTAsMDAwMDAwMDBmNWE3MmY0NDJkODQxZGRiNjJkYzNkYjZlYTI1NjcyNQ==",
+  "snapshot_id": "MjgyNTA2NTEsMDAwMDAwMDAxYmMzZjUwNTBkY2MzZWE4MzJmYjVkMWM3ZjYyZTlhMw==",
   "tracks": [
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Thump Shit",
         "url": "https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk"
@@ -29,27 +29,7 @@
       "url": "https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 145317,
-      "name": "I THINK (FEAT. LIL BABY)",
-      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
@@ -69,7 +49,7 @@
       "url": "https://open.spotify.com/track/6QHlEUJAtLzAtb1ZmhSamg"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
@@ -89,7 +69,7 @@
       "url": "https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
@@ -109,7 +89,7 @@
       "url": "https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
@@ -129,7 +109,27 @@
       "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
+      "album": {
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 145317,
+      "name": "I THINK (FEAT. LIL BABY)",
+      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
+    },
+    {
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Real As It Gets (feat. EST Gee)",
         "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
@@ -165,7 +165,27 @@
       "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 187843,
+      "name": "Shoot It Myself (feat. Future)",
+      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
+    },
+    {
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "A Gangsta\u2019s Pain: Reloaded",
         "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
@@ -189,27 +209,7 @@
       "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 187843,
-      "name": "Shoot It Myself (feat. Future)",
-      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Creed III: The Soundtrack",
         "url": "https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/7CeNOTM3asX0zt6pAi9a6W"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "EL TORO 2",
         "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
@@ -281,27 +281,7 @@
       "url": "https://open.spotify.com/track/4fSvurzElRi0jYgmqReno0"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "Been One",
-        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 152314,
-      "name": "On Da Floor (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
@@ -321,7 +301,27 @@
       "url": "https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
+      "album": {
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 152314,
+      "name": "On Da Floor (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq"
+    },
+    {
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
@@ -341,26 +341,10 @@
       "url": "https://open.spotify.com/track/4YeoYDiM7MHUb6Gb9sKYz9"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "EL TORO 2",
         "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 167301,
-      "name": "I LIKE",
-      "url": "https://open.spotify.com/track/5rAV8NxCASv0isWVJVff6k"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "A MOMENT WITH GOTTI (FEAT. YO GOTTI)",
-        "url": "https://open.spotify.com/album/1DCHs8BQNGM7qJ5Y8QpVr8"
       },
       "artists": [
         {
@@ -374,10 +358,10 @@
       ],
       "duration_ms": 129593,
       "name": "A MOMENT WITH GOTTI (FEAT. YO GOTTI)",
-      "url": "https://open.spotify.com/track/2EGKdHT9uWNKHvxEFkCbXK"
+      "url": "https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
@@ -397,7 +381,7 @@
       "url": "https://open.spotify.com/track/4NMsGNHtpsNJVmKVCkKrnc"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Pistolz & Pearlz",
         "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
@@ -421,23 +405,7 @@
       "url": "https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 162734,
-      "name": "XXL",
-      "url": "https://open.spotify.com/track/0JdXWoF5EjmFfDQaUFvaov"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
@@ -453,7 +421,23 @@
       "url": "https://open.spotify.com/track/3JF5uKi0M1RPLnji4QAQMO"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
+      "album": {
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 167301,
+      "name": "I LIKE",
+      "url": "https://open.spotify.com/track/5rAV8NxCASv0isWVJVff6k"
+    },
+    {
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
@@ -473,7 +457,7 @@
       "url": "https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
@@ -489,23 +473,7 @@
       "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 135551,
-      "name": "THE BIGGEST",
-      "url": "https://open.spotify.com/track/7Fr5xo3GHRrJ1Q5kacxrGv"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
@@ -525,7 +493,23 @@
       "url": "https://open.spotify.com/track/3pygdjgdMt04N8R6Mar0wF"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
+      "album": {
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 162734,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/0JdXWoF5EjmFfDQaUFvaov"
+    },
+    {
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "FAST X (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
@@ -549,7 +533,7 @@
       "url": "https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
@@ -569,23 +553,7 @@
       "url": "https://open.spotify.com/track/15jg4vt123axobdGleLugn"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 162055,
-      "name": "TURN THE STREETS UP",
-      "url": "https://open.spotify.com/track/0A5fRjPHOLznxrx7dVEpx5"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
@@ -601,7 +569,23 @@
       "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
+      "album": {
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 162055,
+      "name": "TURN THE STREETS UP",
+      "url": "https://open.spotify.com/track/0A5fRjPHOLznxrx7dVEpx5"
+    },
+    {
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
@@ -621,39 +605,7 @@
       "url": "https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 165972,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 210029,
-      "name": "TOAST",
-      "url": "https://open.spotify.com/track/5PkN8WUr8NIivKX6uNo61r"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "7220 (Deluxe)",
         "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
@@ -673,7 +625,39 @@
       "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 165972,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
+    },
+    {
+      "added_at": "2023-09-18 12:11:44",
+      "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 106904,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
+    },
+    {
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
@@ -693,23 +677,7 @@
       "url": "https://open.spotify.com/track/04ZrEsPyVGsahWXTegcO33"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 106904,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
         "url": "https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19"
@@ -749,7 +717,7 @@
       "url": "https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
@@ -758,38 +726,14 @@
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
         }
       ],
-      "duration_ms": 149755,
-      "name": "Get Money (feat. Yo Gotti)",
-      "url": "https://open.spotify.com/track/1qgGitQYJs68OQbfL5kQ4W"
+      "duration_ms": 146959,
+      "name": "Opinion Base",
+      "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
-      "album": {
-        "name": "Last Ones Left",
-        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 125017,
-      "name": "Free The Shiners",
-      "url": "https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER"
-    },
-    {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "SNOFALL",
         "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
@@ -813,7 +757,27 @@
       "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
+      "album": {
+        "name": "Last Ones Left",
+        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 125017,
+      "name": "Free The Shiners",
+      "url": "https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER"
+    },
+    {
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Bigger Than Life Or Death (Deluxe)",
         "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
@@ -833,7 +797,7 @@
       "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
@@ -842,14 +806,18 @@
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
         }
       ],
-      "duration_ms": 146959,
-      "name": "Opinion Base",
-      "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
+      "duration_ms": 149755,
+      "name": "Get Money (feat. Yo Gotti)",
+      "url": "https://open.spotify.com/track/1qgGitQYJs68OQbfL5kQ4W"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Cold Gangsta",
         "url": "https://open.spotify.com/album/59XP7yesh6A9KlpST9Rx11"
@@ -873,7 +841,7 @@
       "url": "https://open.spotify.com/track/700cZW0tW9q1amsUhsUDkA"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
@@ -897,7 +865,7 @@
       "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
@@ -917,7 +885,7 @@
       "url": "https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
@@ -937,7 +905,7 @@
       "url": "https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Montega",
         "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
@@ -961,7 +929,7 @@
       "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
@@ -977,7 +945,7 @@
       "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
@@ -993,7 +961,7 @@
       "url": "https://open.spotify.com/track/2niJk9HZuWEBGPuR1aGYjy"
     },
     {
-      "added_at": "2023-09-15 12:30:57",
+      "added_at": "2023-09-18 12:11:44",
       "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"

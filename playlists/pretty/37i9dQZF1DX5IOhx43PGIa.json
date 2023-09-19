@@ -1,12 +1,12 @@
 {
   "description": "Wasia Project takes over Jasmine in celebration of ESEA Month in the UK!",
-  "num_followers": 278455,
+  "num_followers": 278634,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzQwNjIzY2E3Y2ZkYjVhMDNkMjcxZTVkYjQ5OWMzZjEyMGZiZDcx",
+  "snapshot_id": "MCwwMWQzMTgyODI0YjQ0OTVmODk4OTg2NDYwNzJlMjJkZjA0ZjVkNzFl",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Realest (with Eminem)",
-        "url": "https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P"
-      },
-      "artists": [
-        {
-          "name": "Ez Mil",
-          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 217470,
-      "name": "Realest (with Eminem)",
-      "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "GRL GVNG",
         "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Realest (with Eminem)",
+        "url": "https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P"
+      },
+      "artists": [
+        {
+          "name": "Ez Mil",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 217470,
+      "name": "Realest (with Eminem)",
+      "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -903,6 +903,38 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "apart of me",
         "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
       },
@@ -935,22 +967,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Bug Like an Angel",
-        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Bug Like an Angel",
-      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Trauma",
         "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 163253,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "TGIF",
-        "url": "https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Bug Like an Angel",
+        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -1043,6 +1059,22 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "Letter To My 13 Year Old Self",
+      "url": "https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1067,34 +1099,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "Blue Butterflies",
+        "url": "https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "JHIN",
+          "url": "https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c"
         }
       ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "Letter To My 13 Year Old Self",
-      "url": "https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC"
+      "duration_ms": 137903,
+      "name": "Blue Butterflies",
+      "url": "https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 182645,
       "name": "you won't be there for me",
       "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Blue Butterflies",
-        "url": "https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K"
-      },
-      "artists": [
-        {
-          "name": "JHIN",
-          "url": "https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c"
-        }
-      ],
-      "duration_ms": 137903,
-      "name": "Blue Butterflies",
-      "url": "https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1203,6 +1203,22 @@
       "duration_ms": 235297,
       "name": "Baari",
       "url": "https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "So I Danced",
+        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "So I Danced",
+      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "So I Danced",
-        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "So I Danced",
-      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Don't Look Down (feat. BANKS)",
         "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Shortcut To Heaven",
-        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 184343,
-      "name": "Shortcut To Heaven",
-      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+        "name": "Shortcut To Heaven",
+        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+      "duration_ms": 184343,
+      "name": "Shortcut To Heaven",
+      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "van gogh",
-        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 173540,
-      "name": "van gogh",
-      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "close with desires (feat. thuy)",
         "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 205750,
       "name": "close with desires (feat. thuy)",
       "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "van gogh",
+        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 173540,
+      "name": "van gogh",
+      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "House on a Hill",
-        "url": "https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "House on a Hill",
-      "url": "https://open.spotify.com/track/45j87ToTmijZzMNxtotmXa"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 201022,
       "name": "Candlelight - Spotify Singles",
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "House on a Hill",
+        "url": "https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "House on a Hill",
+      "url": "https://open.spotify.com/track/45j87ToTmijZzMNxtotmXa"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "character development",
-        "url": "https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 55133,
-      "name": "walls",
-      "url": "https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "HATELOVE",
         "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 171925,
       "name": "HATELOVE",
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "character development",
+        "url": "https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 55133,
+      "name": "walls",
+      "url": "https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Sidharth",
-        "url": "https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 340773,
-      "name": "Quiet Storm",
-      "url": "https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "see you in hell",
         "url": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 172430,
       "name": "see you in hell",
       "url": "https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Sidharth",
+        "url": "https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 340773,
+      "name": "Quiet Storm",
+      "url": "https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg"
     },
     {
       "added_at": "2023-09-15 04:00:00",

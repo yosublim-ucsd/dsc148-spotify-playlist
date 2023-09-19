@@ -6027,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "Each glorious entity",
+        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
+      },
+      "artists": [
+        {
+          "name": "Eberina",
+          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133430,
+      "name": "Each glorious entity",
+      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
+    },
+    {
+      "album": {
         "name": "Eagles Escape",
         "url": "https://open.spotify.com/album/6e8HQJP9RD6SOv57OLM0yU"
       },
@@ -10568,6 +10586,24 @@
       "duration_ms": 189103,
       "name": "Illusive Appearance",
       "url": "https://open.spotify.com/track/1TjW6B6oAQTyh4ca3r32DA"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/7azCak0GgPVaSFelg61xYa"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129753,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6Q0m7E33lcj6FOgdEsH448"
     },
     {
       "album": {
@@ -15951,6 +15987,24 @@
     },
     {
       "album": {
+        "name": "Narrative",
+        "url": "https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH"
+      },
+      "artists": [
+        {
+          "name": "Emma Richter",
+          "url": "https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Narrative",
+      "url": "https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS"
+    },
+    {
+      "album": {
         "name": "Nebula",
         "url": "https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub"
       },
@@ -17356,6 +17410,24 @@
       "duration_ms": 162000,
       "name": "Our Distant Past",
       "url": "https://open.spotify.com/track/3JSaZg0IaJ5OPXzoxu8qNi"
+    },
+    {
+      "album": {
+        "name": "Our Time Will Come",
+        "url": "https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5"
+      },
+      "artists": [
+        {
+          "name": "Tim Karlsen",
+          "url": "https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Our Time Will Come",
+      "url": "https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D"
     },
     {
       "album": {
@@ -25181,6 +25253,24 @@
     },
     {
       "album": {
+        "name": "Troms\u00f8",
+        "url": "https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131071,
+      "name": "Troms\u00f8",
+      "url": "https://open.spotify.com/track/09jdC5o254s2seWBMMHco7"
+    },
+    {
+      "album": {
         "name": "trouvaille",
         "url": "https://open.spotify.com/album/0K5KmgmB5dQOcYPJPu4idV"
       },
@@ -26024,6 +26114,24 @@
       "duration_ms": 134472,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/6yyGhhDGQAH4s8aAbMNO0E"
+    },
+    {
+      "album": {
+        "name": "Velvet Clouds",
+        "url": "https://open.spotify.com/album/5H8zgkqm0EvJGe21PbpKR6"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151889,
+      "name": "Velvet Clouds",
+      "url": "https://open.spotify.com/track/3jCXY0CuLyrBQ5hMUwOk6i"
     },
     {
       "album": {

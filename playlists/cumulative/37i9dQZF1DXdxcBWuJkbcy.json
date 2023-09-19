@@ -3165,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "album": {
         "name": "Didn't Choose You",
         "url": "https://open.spotify.com/album/5ZA7VR4ramkY6fsYty8fN2"
       },
@@ -7840,7 +7858,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 156404,
       "name": "Lose You - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"

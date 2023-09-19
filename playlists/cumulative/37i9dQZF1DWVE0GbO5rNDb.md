@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-328 songs - 16 hr 7 min
+329 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-05-06 |  |
 | [Hero](https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hero](https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV) | 2:51 | 2022-05-06 | 2023-09-08 |
 | [Higher Love](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:48 | 2022-05-06 | 2023-05-05 |
+| [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-09-18 |  |
 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk) | 2:39 | 2023-05-15 |  |
 | [Hold Me](https://open.spotify.com/track/0G3E42efyWKiLLHF3yLdAm) | [Federico Gardenghi](https://open.spotify.com/artist/6AVQFHQPMbdBn9GvfEyAuf), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Hold Me](https://open.spotify.com/album/05AfPJoqp6YxmB6ohXiiHs) | 2:11 | 2022-05-06 | 2022-07-29 |
 | [Hold You Now](https://open.spotify.com/track/3AxpRRbVa9Ej1H9oNwjFm1) | [XER](https://open.spotify.com/artist/7CmAYOXqlg9n6Oso869Krf), [Michael Girgis](https://open.spotify.com/artist/4zyLZ8ilLO0mWz7bDg17hq) | [Hold You Now](https://open.spotify.com/album/7FVgrPmuhrFOKADtB8gOPS) | 2:40 | 2022-05-06 | 2022-07-29 |
@@ -267,7 +268,7 @@
 | [So Close](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [So Close \(feat\. Georgia Ku\)](https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6) | 3:10 | 2022-07-22 |  |
 | [So Sick](https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z) | [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ), [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl) | [So Sick](https://open.spotify.com/album/4ohKilHhD2WUbLkIXcuhMB) | 2:31 | 2022-05-06 | 2022-07-29 |
 | [Some Say \- Felix Jaehn Remix](https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Some Say \(Felix Jaehn Remix\)](https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr) | 3:06 | 2022-05-06 |  |
-| [Somebody](https://open.spotify.com/track/6TSAqqEtZVYVnPhILOktEF) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [Somebody](https://open.spotify.com/album/7ME1Y92EuiAX20Kx9d0gKO) | 2:41 | 2023-08-11 |  |
+| [Somebody](https://open.spotify.com/track/6TSAqqEtZVYVnPhILOktEF) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [Somebody](https://open.spotify.com/album/7ME1Y92EuiAX20Kx9d0gKO) | 2:41 | 2023-08-11 | 2023-09-19 |
 | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP) | 2:56 | 2022-05-06 | 2023-03-22 |
 | [Spinnin' \(feat\. Justin Jesso\)](https://open.spotify.com/track/2KLKSPQHaQ57g7oWMvvvQ9) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Spinnin' \(feat\. Justin Jesso\)](https://open.spotify.com/album/56yCpSE5psE1BFheFcGDQv) | 2:38 | 2022-05-06 | 2022-07-29 |
 | [Stay Awake](https://open.spotify.com/track/2smpiAZfaN0GFi15MqAq6E) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:05 | 2022-07-22 | 2023-05-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > Fading into an Italian night with GCDS’s SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Giuliano Calza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,302 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,315 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [These Are Just Places To Me Now](https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Drugs](https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms) | 7:01 |
 | 50 | [Puccini: Madama Butterfly, Act 2: "Un bel dì vedremo" \(Butterfly\)](https://open.spotify.com/track/3hpJpleLIWeUSYGcbbTQuj) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY), [Orchestra Del Teatro Alla Scala, Milano](https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57) | [Pure \- Maria Callas](https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO) | 4:46 |
 
-Snapshot ID: `MCxjNWJhYzgyM2ZiOTdmMzkzYzkyYzE4ZjdhNGZiOTljNmM2MmVkNThk`
+Snapshot ID: `MCw5MDY5MWEyMDdlOGY1NzZlMzcxZDk2MjMwMzg5NjFlZDQ1M2M2YzU3`

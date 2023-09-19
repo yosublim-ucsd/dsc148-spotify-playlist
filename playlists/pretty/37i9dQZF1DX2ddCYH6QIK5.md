@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Uche Yara, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,772 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,781 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Wertlos](https://open.spotify.com/track/5bXHDGs5dgQjTKuEyt3RvR) | [das blühende leben](https://open.spotify.com/artist/5j2wAhtgYolAMqJK8JzbLK) | [Wertlos](https://open.spotify.com/album/2BrudNVwWtkcRjTs0j4tPX) | 3:48 |
 | 80 | [Blank Page](https://open.spotify.com/track/7n3PGud6gQWS5GnFF8SAbb) | [Elena Shirin](https://open.spotify.com/artist/7d94AgU8YMpNvzuRhHu7Fj) | [Blank Page](https://open.spotify.com/album/0mi3Vk3Y069hOCdYA0e3gj) | 3:02 |
 
-Snapshot ID: `MCw4OTEwNjRmZTFjYmVkY2NmMzVkYjg2ZWI4NDg4NWQzMjAyNjRkYWM4`
+Snapshot ID: `MCxlYjRmZjZmMjIxNmE2NDdiODJmNmMxMDQyMTFkNDBlZmE3NzQ5ZjZm`

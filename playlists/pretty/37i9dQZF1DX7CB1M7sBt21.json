@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 4947,
+  "num_followers": 4966,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzQ0ZDgwZWUwZDI2NDMxODQyOThmNjQ3MjM1YTcxY2E5OWMzYWYz",
+  "snapshot_id": "MCwyZTVlZjcxOTY1ZTg1NTJlODc2YTg0MWE2M2M5MDQxMDIzODEyOWJl",
   "tracks": [
     {
       "added_at": "2023-09-14 17:36:14",
@@ -227,6 +227,26 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
+        "name": "By Your Side (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 189671,
+      "name": "By Your Side (feat. Tom Grennan)",
+      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
-        "name": "By Your Side (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 189671,
-      "name": "By Your Side (feat. Tom Grennan)",
-      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -323,6 +323,30 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
+        "name": "Dientes",
+        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Dientes",
+      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
         "name": "Bittersweet Symphony",
         "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
       },
@@ -355,30 +379,6 @@
       "duration_ms": 180283,
       "name": "Salt",
       "url": "https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
-        "name": "Dientes",
-        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Dientes",
-      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
+        "name": "Take My Breath",
+        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220196,
+      "name": "Take My Breath - Single Version",
+      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
         "name": "Someone You Loved (Madism Radio Mix)",
         "url": "https://open.spotify.com/album/4wooeoqR0Ix5w7GDYvkHju"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 157171,
       "name": "Someone You Loved - Madism Radio Mix",
       "url": "https://open.spotify.com/track/1FaMsrYFdk914HDLQar1tz"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
-        "name": "Take My Breath",
-        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220196,
-      "name": "Take My Breath - Single Version",
-      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
+        "name": "Sad (feat. Afrojack)",
+        "url": "https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Sad (feat. Afrojack)",
+      "url": "https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 195268,
       "name": "Damn (You\u2019ve Got Me Saying)",
       "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
-        "name": "Sad (feat. Afrojack)",
-        "url": "https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Sad (feat. Afrojack)",
-      "url": "https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 224063,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
         "name": "Bones (feat. OneRepublic)",
         "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 205792,
       "name": "Bones (feat. OneRepublic)",
       "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 224063,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 179831,
+      "name": "OMG What's Happening",
+      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
         "name": "Told You So",
         "url": "https://open.spotify.com/album/3vlP9QH45gN0GSbJYN7tCe"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 146355,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/1WMCwGfNf4ndXbsvHPVqlh"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 179831,
-      "name": "OMG What's Happening",
-      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 157910,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
         "name": "Alien (Topic Remix)",
         "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 159927,
       "name": "Alien - Topic Remix",
       "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 157910,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -1423,54 +1423,6 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
-        "name": "Let Them Know",
-        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 148693,
-      "name": "Let Them Know",
-      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
-        "name": "Dumb",
-        "url": "https://open.spotify.com/album/3DmtKnIJ7d7OJlLe3eHHmz"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 149653,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
-        "name": "1 Day 2 Nights",
-        "url": "https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 138200,
-      "name": "1 Day 2 Nights",
-      "url": "https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -1495,6 +1447,22 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
+        "name": "Let Them Know",
+        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 148693,
+      "name": "Let Them Know",
+      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs"
       },
@@ -1507,6 +1475,38 @@
       "duration_ms": 166898,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
+        "name": "1 Day 2 Nights",
+        "url": "https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 138200,
+      "name": "1 Day 2 Nights",
+      "url": "https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/3DmtKnIJ7d7OJlLe3eHHmz"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 149653,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb"
     },
     {
       "added_at": "2023-09-14 17:36:14",

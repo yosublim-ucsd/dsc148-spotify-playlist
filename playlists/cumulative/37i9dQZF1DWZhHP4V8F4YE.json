@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "album": {
         "name": "Cityboiz",
         "url": "https://open.spotify.com/album/21gMyfhxTFySgDguQOsjOF"
       },
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 187853,
       "name": "Confess To You",
       "url": "https://open.spotify.com/track/0T9uzv2TqgzU2F3z54vWX7"
@@ -2272,6 +2290,28 @@
       "duration_ms": 233720,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
+    },
+    {
+      "album": {
+        "name": "Darling Jesus",
+        "url": "https://open.spotify.com/album/2BP5xcuHfvDJVNdH1m8kMu"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121171,
+      "name": "Darling Jesus",
+      "url": "https://open.spotify.com/track/3ePKfVhpGQWdcm05CDKM36"
     },
     {
       "album": {
@@ -2766,6 +2806,24 @@
       "duration_ms": 154512,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu"
     },
     {
       "album": {
@@ -3310,7 +3368,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 368640,
       "name": "Habibi (Quantum Sound)",
       "url": "https://open.spotify.com/track/0JtoyusgiISK10cXzX79uH"
@@ -4120,7 +4178,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 221067,
       "name": "Inge 2",
       "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
@@ -4798,7 +4856,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 175882,
       "name": "Last laugh",
       "url": "https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp"
@@ -7796,7 +7854,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 187244,
       "name": "Rich Men North of Richmond",
       "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"

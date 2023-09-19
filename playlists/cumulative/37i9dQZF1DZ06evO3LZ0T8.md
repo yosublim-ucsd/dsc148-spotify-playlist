@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 2 min
+41 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Back Again](https://open.spotify.com/track/5AjHfQmvYqKs3I4Qc0aFXo) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [JERO](https://open.spotify.com/artist/4UrjjYgWIyCWRkLTTswfHy) | [Back Again](https://open.spotify.com/album/1TIw2arqA2nlo3xeBe3cSj) | 3:09 | 2022-10-10 |  |
 | [Bad Decisions](https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:04 | 2022-10-10 |  |
 | [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 | 2023-04-08 |  |
+| [Bumpin'](https://open.spotify.com/track/4cRh8GLkf85Dl8dsceZMqp) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Bumpin'](https://open.spotify.com/album/1Zs0tvWEiGsszEnjKjr2yA) | 2:55 | 2023-09-18 |  |
 | [Club 95](https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 3:09 | 2022-10-10 |  |
 | [Dance With Me](https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:06 | 2022-10-10 |  |
 | [DNA \- Radio Edit](https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [DNA \(Radio Edit\)](https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU) | 2:58 | 2022-10-10 |  |
@@ -33,7 +34,7 @@
 | [Let Me](https://open.spotify.com/track/3oxviUT5U8KqDcC91Ve5bz) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Let Me](https://open.spotify.com/album/5now3yDgsj3mt2p27bUfXU) | 2:58 | 2023-03-13 |  |
 | [Light It Up](https://open.spotify.com/track/2yVH1P2sIObsFVopVqClhR) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:08 | 2022-10-10 |  |
 | [Money Zone](https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Money Zone](https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP) | 2:51 | 2022-10-10 |  |
-| [My Mind](https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294) | 3:08 | 2023-03-17 |  |
+| [My Mind](https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294) | 3:08 | 2023-03-17 | 2023-09-19 |
 | [My Mind](https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td) | 3:08 | 2022-10-10 | 2023-03-18 |
 | [Never Say Never](https://open.spotify.com/track/1lamYQInWLWWadZ0WJr77I) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Never Say Never](https://open.spotify.com/album/05RILyqqydSjfCP9LK54yX) | 2:33 | 2022-10-15 |  |
 | [Oh Babe](https://open.spotify.com/track/2PLMPEaM0SaBjIgIb8ntxD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Oh Babe](https://open.spotify.com/album/5JfeF8AIoBKK3zdV8ihUTx) | 2:49 | 2022-10-10 |  |

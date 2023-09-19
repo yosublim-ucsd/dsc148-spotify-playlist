@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW!  BERCHANDYA! Cover: CLAUDIA, HNATA",
-  "num_followers": 15849,
+  "num_followers": 15865,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2U4MjY0ZTUyZDcwODQ4OTY1MWVmMjMwMDc0M2UxM2YzOTA0MzM5",
+  "snapshot_id": "MCxhMjFkNjM2M2VjNDY4MzI2ODJhYzQxN2YyMGU1ZjdlMWE0MDRmNTVk",
   "tracks": [
     {
       "added_at": "2023-09-15 01:40:23",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-09-15 01:40:23",
       "album": {
+        "name": "Semua Aku Dirayakan",
+        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 310625,
+      "name": "Semua Aku Dirayakan",
+      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
+    },
+    {
+      "added_at": "2023-09-15 01:40:23",
+      "album": {
         "name": "Manusia",
         "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 275900,
       "name": "Tega",
       "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"
-    },
-    {
-      "added_at": "2023-09-15 01:40:23",
-      "album": {
-        "name": "Semua Aku Dirayakan",
-        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 310625,
-      "name": "Semua Aku Dirayakan",
-      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
     },
     {
       "added_at": "2023-09-15 01:40:23",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-15 01:40:23",
       "album": {
-        "name": "Manusia",
-        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Diri",
-      "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
-    },
-    {
-      "added_at": "2023-09-15 01:40:23",
-      "album": {
         "name": "Haunting",
         "url": "https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-09-15 01:40:23",
       "album": {
-        "name": "Senja Teduh Pelita",
-        "url": "https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0"
+        "name": "Manusia",
+        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
       "artists": [
         {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 270640,
-      "name": "Senja Teduh Pelita",
-      "url": "https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs"
+      "duration_ms": 240000,
+      "name": "Diri",
+      "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
     },
     {
       "added_at": "2023-09-15 01:40:23",
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-09-15 01:40:23",
       "album": {
+        "name": "Senja Teduh Pelita",
+        "url": "https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 270640,
+      "name": "Senja Teduh Pelita",
+      "url": "https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs"
+    },
+    {
+      "added_at": "2023-09-15 01:40:23",
+      "album": {
         "name": "Asing",
         "url": "https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-15 01:40:23",
       "album": {
-        "name": "Malampagi",
-        "url": "https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO"
-      },
-      "artists": [
-        {
-          "name": "Saixse",
-          "url": "https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ"
-        }
-      ],
-      "duration_ms": 246225,
-      "name": "Malampagi",
-      "url": "https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy"
-    },
-    {
-      "added_at": "2023-09-15 01:40:23",
-      "album": {
         "name": "Jalan Pulang",
         "url": "https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 216835,
       "name": "Jalan Pulang",
       "url": "https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP"
+    },
+    {
+      "added_at": "2023-09-15 01:40:23",
+      "album": {
+        "name": "Malampagi",
+        "url": "https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO"
+      },
+      "artists": [
+        {
+          "name": "Saixse",
+          "url": "https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ"
+        }
+      ],
+      "duration_ms": 246225,
+      "name": "Malampagi",
+      "url": "https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy"
     },
     {
       "added_at": "2023-09-15 01:40:23",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-15 01:40:23",
       "album": {
-        "name": "Levronka",
-        "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
-      },
-      "artists": [
-        {
-          "name": "Keisya Levronka",
-          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Better On My Own",
-      "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
-    },
-    {
-      "added_at": "2023-09-15 01:40:23",
-      "album": {
         "name": "Tawa",
         "url": "https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 255375,
       "name": "Tawa",
       "url": "https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV"
+    },
+    {
+      "added_at": "2023-09-15 01:40:23",
+      "album": {
+        "name": "Levronka",
+        "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Better On My Own",
+      "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
     },
     {
       "added_at": "2023-09-15 01:40:23",

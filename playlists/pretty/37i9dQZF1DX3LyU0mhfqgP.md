@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Baby Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,320 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,229 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [MASCULINITY](https://open.spotify.com/track/5PDTAN58fQ3lnW8RkxjRKV) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [MASCULINITY](https://open.spotify.com/album/6eNI9ZRsW9nfTL5XsaInpd) | 3:29 |
 | 50 | [TOP TEN!](https://open.spotify.com/track/21Ltf4RXrYaymlGB0AW6wF) | [SPACEBABYMADCHA](https://open.spotify.com/artist/4Twtl8sz0ceeOrdXmglVpa) | [TOP TEN!](https://open.spotify.com/album/6K71MbG9hsMj0PnYSUA5kg) | 2:57 |
 
-Snapshot ID: `MCw2OTZiMzg3MDgwYjdmNDdmZjM1YzlmMzBhYmYxMzE0ODk0Mzk1YjE1`
+Snapshot ID: `MCxiYzhlZDU0NDk5ZjBhNjQ5YjU5YWUyMTcxNzg2NjMzOTFlNmMwZTJl`

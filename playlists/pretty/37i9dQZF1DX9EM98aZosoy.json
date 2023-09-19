@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1270541,
+  "num_followers": 1270573,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTUzZTk0ZjM0ODA4NDIwOGNiNTAzNjM2ZDFkZjdjZjQzN2IwOGM1",
+  "snapshot_id": "MCxjMjZhMWRkMjE2NzkyM2I0OTYyMDFmNTU4NGE2NjhhNmM2ZWIxOTNh",
   "tracks": [
     {
       "added_at": "2023-09-15 10:15:36",
@@ -963,22 +963,22 @@
     {
       "added_at": "2023-09-15 10:15:36",
       "album": {
-        "name": "Young Right Now",
-        "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
         },
         {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
         }
       ],
-      "duration_ms": 186140,
-      "name": "Young Right Now",
-      "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
     },
     {
       "added_at": "2023-09-15 10:15:36",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-09-15 10:15:36",
       "album": {
+        "name": "Young Right Now",
+        "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 186140,
+      "name": "Young Right Now",
+      "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
+    },
+    {
+      "added_at": "2023-09-15 10:15:36",
+      "album": {
         "name": "Mangos mit Chili",
         "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 134887,
       "name": "Mangos mit Chili",
       "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
-    },
-    {
-      "added_at": "2023-09-15 10:15:36",
-      "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
     }
   ],
   "unique_name": "Partyhymnen",

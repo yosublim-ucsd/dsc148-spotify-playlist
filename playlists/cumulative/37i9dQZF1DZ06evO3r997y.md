@@ -4,7 +4,7 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 13 min
+63 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Fly\-High\-Five!](https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:24 | 2022-06-09 |  |
 | [Follow me!](https://open.spotify.com/track/3zY59yGG3JzTUUr6657zd0) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/3TyoqTtXHujGQBJ9LAA32n) | 4:22 | 2022-09-20 | 2022-09-26 |
 | [Follow me!](https://open.spotify.com/track/53VABfq0LKJa6Ru7ZNaZAi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:22 | 2022-06-09 |  |
-| [Haremachinote](https://open.spotify.com/track/7Dqkjap4ckvMiDYoPnO0aU) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Michikusa](https://open.spotify.com/album/4lHjeSfvndzpJcpUQBPYRS) | 4:37 | 2022-06-09 | 2023-08-28 |
+| [Haremachinote](https://open.spotify.com/track/7Dqkjap4ckvMiDYoPnO0aU) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Michikusa](https://open.spotify.com/album/4lHjeSfvndzpJcpUQBPYRS) | 4:37 | 2022-06-09 |  |
 | [illminate](https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 4:13 | 2022-10-13 |  |
 | [INNOCENT](https://open.spotify.com/track/3feBsvcacgOruGJDwV2Ev6) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:01 | 2022-06-16 | 2022-10-13 |
 | [Kimi no Tonaride](https://open.spotify.com/track/38LULZ1VrM0u9p13WT7JlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/23CWIjCLZrE3FfZbCRQ90A) | 4:34 | 2022-06-09 |  |
@@ -70,5 +70,6 @@
 | [君の花を祈ろう](https://open.spotify.com/track/0ME3fGpjFjsZ1avHbZ2Lin) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:19 | 2022-06-09 |  |
 | [怪物 \- from CrosSing](https://open.spotify.com/track/18uWFZy8dcor2WGr4aqNvD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [怪物 \- from CrosSing](https://open.spotify.com/album/0fkkLbnAsSRDAzDCD9Nhv0) | 3:28 | 2023-05-25 |  |
 | [深夜センチメンタル](https://open.spotify.com/track/1VFiqzQ8xiq7fdbM9q4kxN) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 3:31 | 2022-06-09 |  |
+| [真天下奪取 \~真天下DASH\~](https://open.spotify.com/track/63SEyhu0E06OSBsoTNu8z4) | [Yamasa Sound Team](https://open.spotify.com/artist/1sjvjSu4lhUwMWSA8zK8gV), [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [パチスロ 真天下布武 オリジナルサウンドトラック](https://open.spotify.com/album/5Fr0vmW79GKI5yvgft4veA) | 1:15 | 2023-09-18 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

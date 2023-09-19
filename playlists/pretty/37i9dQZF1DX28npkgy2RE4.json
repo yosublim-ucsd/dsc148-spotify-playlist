@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Jenny Lewis",
-  "num_followers": 413227,
+  "num_followers": 413265,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjA1Nzk3NjljN2Q4M2I2ZTljZWUwOGYzN2I0OGM2NTE3YmNhODQ1",
+  "snapshot_id": "MCw1NjUzN2MwZDdhNDNkZWYxOTg3MDZlYmZlZmRjNzYxM2IxYWFiMDIx",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 181040,
       "name": "BIG SHOT",
       "url": "https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186269,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186269,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Digital Meadow",
-        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+        "name": "Keeping The Light On",
+        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
       "artists": [
         {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 136320,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
+      "duration_ms": 223628,
+      "name": "Keeping The Light On",
+      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Digital Meadow",
+        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Right on Time",
         "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "all of my lessons",
         "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 176795,
       "name": "all of my lessons",
       "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Joy'All",
+      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Joy'All",
-      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Mermaid Salt",
-        "url": "https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD"
-      },
-      "artists": [
-        {
-          "name": "John Craigie",
-          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
-        }
-      ],
-      "duration_ms": 335859,
-      "name": "Microdose",
-      "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 220405,
       "name": "Help Me Down",
       "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Mermaid Salt",
+        "url": "https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        }
+      ],
+      "duration_ms": 335859,
+      "name": "Microdose",
+      "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "To Love",
         "url": "https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Desert Woman",
-        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 256402,
-      "name": "Desert Woman",
-      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Tales Of America",
         "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 229906,
       "name": "Saying Goodbye",
       "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Desert Woman",
+        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 256402,
+      "name": "Desert Woman",
+      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 271206,
-      "name": "Rae Street",
-      "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 236813,
       "name": "Lose This Number",
       "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 271206,
+      "name": "Rae Street",
+      "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Shabang",
-        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
-      },
-      "artists": [
-        {
-          "name": "Scott McMicken and THE EVER-EXPANDING",
-          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
-        }
-      ],
-      "duration_ms": 250962,
-      "name": "Diamonds In The Snow",
-      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "San Isabel",
         "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 198173,
       "name": "It Must Be Someone Else\u2019s Fault",
       "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Shabang",
+        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
+      },
+      "artists": [
+        {
+          "name": "Scott McMicken and THE EVER-EXPANDING",
+          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
+        }
+      ],
+      "duration_ms": 250962,
+      "name": "Diamonds In The Snow",
+      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2111,18 +2111,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Nun",
-        "url": "https://open.spotify.com/album/7j1ejF21Qf7iyg9KJztFnF"
+        "name": "Snowplow",
+        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
       "artists": [
         {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        },
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
         }
       ],
-      "duration_ms": 208662,
-      "name": "Nun",
-      "url": "https://open.spotify.com/track/2cDNCAsL794kS4lRg3Bpvl"
+      "duration_ms": 161776,
+      "name": "Snowplow",
+      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2143,22 +2147,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Snowplow",
-        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
+        "name": "Nun",
+        "url": "https://open.spotify.com/album/7j1ejF21Qf7iyg9KJztFnF"
       },
       "artists": [
         {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        },
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
         }
       ],
-      "duration_ms": 161776,
-      "name": "Snowplow",
-      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+      "duration_ms": 208662,
+      "name": "Nun",
+      "url": "https://open.spotify.com/track/2cDNCAsL794kS4lRg3Bpvl"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Quitters",
-        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 208911,
-      "name": "Rubberneckers",
-      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/1MLYRx0yyQKW7TyFvSye5z"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 168000,
       "name": "August",
       "url": "https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Quitters",
+        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "I Am Not There Anymore",
         "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
       },
@@ -2459,18 +2475,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+        "name": "Old Peel",
+        "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
       },
       "artists": [
         {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 169823,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
+      "duration_ms": 196802,
+      "name": "Old Peel",
+      "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2503,22 +2519,6 @@
       "duration_ms": 203573,
       "name": "All My Dreams",
       "url": "https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Old Peel",
-        "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 196802,
-      "name": "Old Peel",
-      "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
     }
   ],
   "unique_name": "Modern Eclectic",

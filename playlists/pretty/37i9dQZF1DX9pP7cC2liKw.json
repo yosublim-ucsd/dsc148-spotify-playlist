@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 172843,
+  "num_followers": 172994,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmExOWE1NWQ1YmVhYmY2ODk2MjBjYjQ0NjM4MzY3ZmNkYzllYWQx",
+  "snapshot_id": "MCw3M2I1MWE0ZDMxOWYwNTUwMTE3ODhlZmJjNDk2YmFlYzAwNGIxMzQz",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -207,30 +207,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Camino de Flores",
-        "url": "https://open.spotify.com/album/36qaAL8wAnZEBi1W8ITkeA"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 341500,
-      "name": "Mirando El Fuego",
-      "url": "https://open.spotify.com/track/1yTD2sqFUnRvD1Z1WwrAjL"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "R\u00fambala",
         "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
       },
@@ -285,20 +261,28 @@
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
     },
     {
-      "added_at": "2022-07-01 02:43:42",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+        "name": "Camino de Flores",
+        "url": "https://open.spotify.com/album/36qaAL8wAnZEBi1W8ITkeA"
       },
       "artists": [
         {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+      "duration_ms": 341500,
+      "name": "Mirando El Fuego",
+      "url": "https://open.spotify.com/track/1yTD2sqFUnRvD1Z1WwrAjL"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -317,28 +301,20 @@
       "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-07-01 02:43:42",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
         }
       ],
-      "duration_ms": 268956,
-      "name": "Xica Xica",
-      "url": "https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh"
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -461,6 +437,30 @@
       "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 268956,
+      "name": "Xica Xica",
+      "url": "https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh"
+    },
+    {
       "added_at": "2022-11-03 18:27:44",
       "album": {
         "name": "Mientras Tanto",
@@ -541,26 +541,6 @@
       "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
     },
     {
-      "added_at": "2023-05-26 18:32:08",
-      "album": {
-        "name": "cumbia aesthetic",
-        "url": "https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 170755,
-      "name": "cumbia aesthetic",
-      "url": "https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "La Cura",
@@ -579,6 +559,26 @@
       "duration_ms": 181000,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
+      "added_at": "2023-05-26 18:32:08",
+      "album": {
+        "name": "cumbia aesthetic",
+        "url": "https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "cumbia aesthetic",
+      "url": "https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32"
-    },
-    {
       "added_at": "2023-02-03 04:49:29",
       "album": {
         "name": "Porque Yo",
@@ -743,6 +727,22 @@
       "duration_ms": 181914,
       "name": "Porque Yo",
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Sonido Amazonico",
         "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Out of This World",
         "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
       },
@@ -843,26 +843,6 @@
       "duration_ms": 289576,
       "name": "Superstylin'",
       "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Better When We're Close",
-        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Better When We're Close",
-      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -907,6 +887,26 @@
       "duration_ms": 200786,
       "name": "Sano",
       "url": "https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Better When We're Close",
+        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Better When We're Close",
+      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1021,6 +1021,30 @@
       "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
     },
     {
+      "added_at": "2022-11-17 23:06:29",
+      "album": {
+        "name": "El Sabor del Viejo Mar",
+        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 263265,
+      "name": "El Sabor del Viejo Mar",
+      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "A Guide to the Birdsong of South America",
@@ -1055,26 +1079,22 @@
     {
       "added_at": "2022-11-17 23:06:29",
       "album": {
-        "name": "El Sabor del Viejo Mar",
-        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
+        "name": "Pueblo",
+        "url": "https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "Hugo Santini",
+          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
         },
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
         }
       ],
-      "duration_ms": 263265,
-      "name": "El Sabor del Viejo Mar",
-      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
+      "duration_ms": 103220,
+      "name": "Pueblo",
+      "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1095,26 +1115,6 @@
       "duration_ms": 260156,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
-    },
-    {
-      "added_at": "2022-11-17 23:06:29",
-      "album": {
-        "name": "Pueblo",
-        "url": "https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ"
-      },
-      "artists": [
-        {
-          "name": "Hugo Santini",
-          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
-        },
-        {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
-        }
-      ],
-      "duration_ms": 103220,
-      "name": "Pueblo",
-      "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Samba del Arenal",
-        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Cinemar",
-          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Samba del Arenal",
-      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 228026,
       "name": "Relato",
       "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Samba del Arenal",
+        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Cinemar",
+          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Samba del Arenal",
+      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
     },
     {
       "added_at": "2023-03-31 18:14:20",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Se\u00f1or",
+        "url": "https://open.spotify.com/album/58NsuYYnNzRJUhAMFB7pQK"
+      },
+      "artists": [
+        {
+          "name": "Desta French",
+          "url": "https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W"
+        }
+      ],
+      "duration_ms": 150184,
+      "name": "Se\u00f1or",
+      "url": "https://open.spotify.com/track/00Ab7huoVjqKfhtzzu8vYE"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "R\u00fambala (Jiony Remix)",
         "url": "https://open.spotify.com/album/5iQO617zEZbSQyNbLPAjrN"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 231764,
       "name": "R\u00fambala - Jiony Remix",
       "url": "https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Se\u00f1or",
-        "url": "https://open.spotify.com/album/58NsuYYnNzRJUhAMFB7pQK"
-      },
-      "artists": [
-        {
-          "name": "Desta French",
-          "url": "https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W"
-        }
-      ],
-      "duration_ms": 150184,
-      "name": "Se\u00f1or",
-      "url": "https://open.spotify.com/track/00Ab7huoVjqKfhtzzu8vYE"
     },
     {
       "added_at": "2022-06-15 04:26:09",

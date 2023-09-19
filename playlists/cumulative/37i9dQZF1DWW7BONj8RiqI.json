@@ -1966,6 +1966,24 @@
     {
       "album": {
         "name": "Finally",
+        "url": "https://open.spotify.com/album/2BnV1KPoLhuonvJYLHeik6"
+      },
+      "artists": [
+        {
+          "name": "V'ghn",
+          "url": "https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195012,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0flO097HnRPkoysVteTrLl"
+    },
+    {
+      "album": {
+        "name": "Finally",
         "url": "https://open.spotify.com/album/7sc88VHIHcEguKynwGbzb1"
       },
       "artists": [
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 195012,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5si9Jot7asAKQuELQj0cTu"

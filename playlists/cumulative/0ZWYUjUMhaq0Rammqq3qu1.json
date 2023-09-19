@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 172741,
       "name": "All We Are (feat. Rhodes)",
       "url": "https://open.spotify.com/track/0iXgVG5OegytT5TskDj4BP"
@@ -350,6 +350,24 @@
       "duration_ms": 240000,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/6GLATZeuyPYDhYs5VEOq7s"
+    },
+    {
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/74CYF70WB9pAPRLQhltTc6"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/0FpqoxLdZcP4FmTeypWBn3"
     },
     {
       "album": {
@@ -446,6 +464,28 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
+    },
+    {
+      "album": {
+        "name": "Better Me",
+        "url": "https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166080,
+      "name": "Better Me",
+      "url": "https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB"
     },
     {
       "album": {
@@ -5060,7 +5100,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 149810,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/5LZUMO0ZwB1wFqFjdamWfK"

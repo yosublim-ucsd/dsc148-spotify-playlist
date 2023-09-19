@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,085 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,115 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 95 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 |
 | 96 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 |
 | 97 | [Good old days](https://open.spotify.com/track/5Kh4U2f0W2Kz7zRilOMwth) | [Jang Deok Cheol](https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS) | [Good old days](https://open.spotify.com/album/6X25SlTOwDCA7bxvMZfsoo) | 3:52 |
-| 98 | [애인있어요](https://open.spotify.com/track/59SyAiVPxo6VHgkQgtxrFI) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [윤일상 작곡가 21주년 기념 앨범 \(I'm 21\)](https://open.spotify.com/album/3mH2lyfWIgjlDNBnhI2cAs) | 4:08 |
+| 98 | [애인있어요](https://open.spotify.com/track/59SyAiVPxo6VHgkQgtxrFI) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [윤일상 작곡가 21주년 기념 앨범 I'm 21](https://open.spotify.com/album/3mH2lyfWIgjlDNBnhI2cAs) | 4:08 |
 | 99 | [Wind Beneath Your Wings](https://open.spotify.com/track/1opMP3YI5driRBHAuTzrXR) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Descendants Of The Sun Pt.9 \(Original Television Soundtrack\)](https://open.spotify.com/album/1ijtrIo5LrIB0TxJVFXNUL) | 3:55 |
 | 100 | [A Daily Song](https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be ordinary](https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe) | 4:18 |
 | 101 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [Ali](https://open.spotify.com/artist/5QeXARPcuiXETSB2iPhaup) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCw3ZGUwM2JjMzZmYzQxOTA1MWMxN2FjZTI0NWYwMzE5NzIxOWEwMmVl`
+Snapshot ID: `MCwwZjNkNjJmMzI1MjAwNDNhNmRmZmE1OWNkNjQwYjA3ZDNiMDMwNzBh`

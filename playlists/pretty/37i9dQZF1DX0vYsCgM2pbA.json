@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 124991,
+  "num_followers": 125032,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzZkMmE1MTExMjJmOTRkOTUyZTg0YWQ5NTUyNGZiNmNhZDE2N2Vm",
+  "snapshot_id": "MCwxM2UxNmUyZTk3NDUyMmRmNGU2MTk0YjJjNzkzN2ViMmNhYzc2NjRj",
   "tracks": [
     {
       "added_at": "2023-09-07 14:00:00",
@@ -223,6 +223,42 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "Mosquito Love",
+        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 195610,
+      "name": "Sour Berry",
+      "url": "https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -251,46 +287,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Mosquito Love",
-        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 195610,
-      "name": "Sour Berry",
-      "url": "https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
-        }
-      ],
-      "duration_ms": 159161,
-      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "subtle. prod by GANZ",
         "url": "https://open.spotify.com/album/2dpYExcFio7EoF4ITW31Et"
       },
@@ -303,26 +299,6 @@
       "duration_ms": 116885,
       "name": "subtle. prod by GANZ",
       "url": "https://open.spotify.com/track/56yRIFUMrofh2dfIjem9DK"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -347,22 +323,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "A Lover\u2019s Guide to a Lucid Dream",
-        "url": "https://open.spotify.com/album/6FsAeOl2J8a52BRIPEULqM"
-      },
-      "artists": [
-        {
-          "name": "SAFIA",
-          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "A Lover\u2019s Guide to a Lucid Dream",
-      "url": "https://open.spotify.com/track/7Jkka9vkLDhKoB7zlzVvM5"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "On My Knees",
         "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
       },
@@ -379,8 +339,24 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Oh My (feat. Moby)",
-        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
+        "name": "A Lover\u2019s Guide to a Lucid Dream",
+        "url": "https://open.spotify.com/album/6FsAeOl2J8a52BRIPEULqM"
+      },
+      "artists": [
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
+        }
+      ],
+      "duration_ms": 319840,
+      "name": "A Lover\u2019s Guide to a Lucid Dream",
+      "url": "https://open.spotify.com/track/7Jkka9vkLDhKoB7zlzVvM5"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
       "artists": [
         {
@@ -388,17 +364,17 @@
           "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
         },
         {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
         },
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
         }
       ],
-      "duration_ms": 160116,
-      "name": "Oh My (feat. Moby)",
-      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
+      "duration_ms": 159161,
+      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -439,6 +415,22 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
         "name": "See In Color",
         "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
       },
@@ -455,22 +447,6 @@
       "duration_ms": 154960,
       "name": "See In Color",
       "url": "https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -551,6 +527,46 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 269480,
+      "name": "I Don't Wanna Leave",
+      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "Oh My (feat. Moby)",
+        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 160116,
+      "name": "Oh My (feat. Moby)",
+      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
         "name": "Rainfall (Praise You) [Nathan Dawe Remix]",
         "url": "https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 137343,
       "name": "Rainfall (Praise You) - Nathan Dawe Remix",
       "url": "https://open.spotify.com/track/36VkLBq245WRvM9pVjpQNY"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 269480,
-      "name": "I Don't Wanna Leave",
-      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
@@ -711,38 +695,18 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+        "name": "Reflex - from Le Palace, Paris",
+        "url": "https://open.spotify.com/album/4OLmlFr1RLVRDWBVB9hu4H"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "Do You Want Me",
-        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 272523,
-      "name": "Do You Want Me",
-      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+      "duration_ms": 334506,
+      "name": "Reflex - from Le Palace, Paris",
+      "url": "https://open.spotify.com/track/0TzACnLtCopbsE7A8cSq3O"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -767,6 +731,58 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
+        "name": "Do You Want Me",
+        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 272523,
+      "name": "Do You Want Me",
+      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
         "name": "Strangers (with Mansionair)",
         "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 217390,
       "name": "Strangers (with Mansionair)",
       "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "Reflex - from Le Palace, Paris",
-        "url": "https://open.spotify.com/album/4OLmlFr1RLVRDWBVB9hu4H"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 334506,
-      "name": "Reflex - from Le Palace, Paris",
-      "url": "https://open.spotify.com/track/0TzACnLtCopbsE7A8cSq3O"
     },
     {
       "added_at": "2023-09-07 14:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
+        "name": "Tomorrows",
+        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "duration_ms": 198961,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
         "name": "Your Love (feat. House Gospel Choir) (Helsloot Remix)",
         "url": "https://open.spotify.com/album/6MoSADkkX59Vn5RDrNcDyw"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 278880,
       "name": "Perfect World",
       "url": "https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "Tomorrows",
-        "url": "https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        }
-      ],
-      "duration_ms": 198961,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
     },
     {
       "added_at": "2023-09-07 14:00:00",

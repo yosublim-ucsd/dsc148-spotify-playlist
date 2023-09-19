@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! \u00bfA qui\u00e9n no te vas a perder? ",
-  "num_followers": 11820,
+  "num_followers": 11822,
   "original_name": "Carnaval de Bahidor\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTIzZmNkMzE0ODZiZTMwNmQxMDJjOTRiYjA4YzUzZGI0YzkzMGIz",
+  "snapshot_id": "MCwwYzMyY2NkMzkwNDUyNmI4N2QxZDcyMzBhMTI2NjQ4M2I5MjQ0MDFm",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Nena - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 153251,
+      "name": "Nena - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Tiempo Perfecto",
         "url": "https://open.spotify.com/album/3Wy3lKA5xLbmitR75IuhkI"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 275320,
       "name": "Nakamarra",
       "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Nena - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 153251,
-      "name": "Nena - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "KOKOROKO",
-        "url": "https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 372386,
-      "name": "Ti-de",
-      "url": "https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Silent Spring EP",
         "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 435041,
       "name": "Should've Brought an Umbrella",
       "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "KOKOROKO",
+        "url": "https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 372386,
+      "name": "Ti-de",
+      "url": "https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -615,6 +615,42 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4gOjvaMgNOZ2u3ip4P3hSk"
+      },
+      "artists": [
+        {
+          "name": "Sama\u2019 Abdulhadi",
+          "url": "https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm"
+        }
+      ],
+      "duration_ms": 397500,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4XwKweWkOkGrXAJks0B7j2"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "The Remixes EP",
+        "url": "https://open.spotify.com/album/6HNu1M0z0dSVFTyA9WPGxQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. G",
+          "url": "https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN"
+        },
+        {
+          "name": "Kai Alc\u00e9",
+          "url": "https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "U Feel Mi - Kai Alce's New Feel",
+      "url": "https://open.spotify.com/track/7kAWkF6EHSxR0lXmFJokYc"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34"
       },
@@ -655,22 +691,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/4gOjvaMgNOZ2u3ip4P3hSk"
-      },
-      "artists": [
-        {
-          "name": "Sama\u2019 Abdulhadi",
-          "url": "https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm"
-        }
-      ],
-      "duration_ms": 397500,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4XwKweWkOkGrXAJks0B7j2"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Femme Tech",
         "url": "https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J"
       },
@@ -683,22 +703,6 @@
       "duration_ms": 382439,
       "name": "Femme",
       "url": "https://open.spotify.com/track/4mNI8DJ5LS91D1bTjaqNg7"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q"
-      },
-      "artists": [
-        {
-          "name": "Mildlife",
-          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
-        }
-      ],
-      "duration_ms": 401626,
-      "name": "Memory Palace",
-      "url": "https://open.spotify.com/track/1FnxDnuiG7WJAFmtFTlejT"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -719,6 +723,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "duration_ms": 401626,
+      "name": "Memory Palace",
+      "url": "https://open.spotify.com/track/1FnxDnuiG7WJAFmtFTlejT"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Ape Escape 3 - Originape Soundtracks / \u30b5\u30eb\u30b2\u30c3\u30c1\u30e53\u30fb\u30aa\u30ea\u30b8\u30b5\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 124266,
       "name": "\u3068\u3093\u3066\u3099\u3082\u30de\u30a6\u30f3\u30c6\u30f32 / Mount Amazing 2",
       "url": "https://open.spotify.com/track/4qkpPliACyu6q4kK6NvJls"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "The Remixes EP",
-        "url": "https://open.spotify.com/album/6HNu1M0z0dSVFTyA9WPGxQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. G",
-          "url": "https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN"
-        },
-        {
-          "name": "Kai Alc\u00e9",
-          "url": "https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "U Feel Mi - Kai Alce's New Feel",
-      "url": "https://open.spotify.com/track/7kAWkF6EHSxR0lXmFJokYc"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Retro 2",
+        "url": "https://open.spotify.com/album/6gKrFpnY1arxyfaZ9hM2Dw"
+      },
+      "artists": [
+        {
+          "name": "Mr. G",
+          "url": "https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN"
+        }
+      ],
+      "duration_ms": 363898,
+      "name": "Lights - G's Out Dub",
+      "url": "https://open.spotify.com/track/1X9MI36mUv5Upp4f27lRwe"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 300000,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Retro 2",
-        "url": "https://open.spotify.com/album/6gKrFpnY1arxyfaZ9hM2Dw"
-      },
-      "artists": [
-        {
-          "name": "Mr. G",
-          "url": "https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN"
-        }
-      ],
-      "duration_ms": 363898,
-      "name": "Lights - G's Out Dub",
-      "url": "https://open.spotify.com/track/1X9MI36mUv5Upp4f27lRwe"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "The Only Way Out Is In",
-        "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
-      },
-      "artists": [
-        {
-          "name": "Suricata",
-          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
-        }
-      ],
-      "duration_ms": 506612,
-      "name": "Love Is Dancing",
-      "url": "https://open.spotify.com/track/2e2K17EZwg6ygzxYt8DCRP"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Estraik Back",
         "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 314306,
       "name": "Foreign to You (feat. NiQ E)",
       "url": "https://open.spotify.com/track/5USp6KjDcrgiXX57i27Tpd"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "The Only Way Out Is In",
+        "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
+      },
+      "artists": [
+        {
+          "name": "Suricata",
+          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
+        }
+      ],
+      "duration_ms": 506612,
+      "name": "Love Is Dancing",
+      "url": "https://open.spotify.com/track/2e2K17EZwg6ygzxYt8DCRP"
     },
     {
       "added_at": "2023-02-03 06:30:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,814 likes - 100 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,959 likes - 100 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 20 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
 | 21 | [I'm All For You](https://open.spotify.com/track/7fLpfSVEJiYmPT7gx0UCAX) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [I'm All For You \(Ballad Songbook\)](https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL) | 7:50 |
 | 22 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 |
-| 23 | [Chicago Blues](https://open.spotify.com/track/0XA8HGtG7ypDQVdv1utqtP) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 4:53 |
+| 23 | [Chicago Blues](https://open.spotify.com/track/03GB3BpOhd8PiIug8UKQQy) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 4:53 |
 | 24 | [One For 'Grew \(For Mulgrew Miller\)](https://open.spotify.com/track/55hyRqaAASnPhQEHK8ts9a) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [In My Element](https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS) | 6:33 |
 | 25 | [Joshua Fit De Battle Of Jericho \- 2004 Remaster](https://open.spotify.com/track/451puYkPbLOzFNNET2qBZ8) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Feelin' The Spirit \(Remastered\)](https://open.spotify.com/album/1yejkU8avlKZK3PuH3sjHC) | 8:02 |
 | 26 | [Cantaloupe Island \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 5:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 99 | [Maiden Voyage](https://open.spotify.com/track/7r1EOboFCZVUCPB6Cz42q9) | [Bob Belden Project](https://open.spotify.com/artist/5L086bNiOHKUwE9efaBQ1N), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Shades Of Blue](https://open.spotify.com/album/2Z31ciU8s8Fxiuj5FCRdcS) | 6:58 |
 | 100 | [How Can I Tell You \- Live](https://open.spotify.com/track/4ZUlQw3KS7qiBrgJxSyel0) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Passin' Thru \(Live\)](https://open.spotify.com/album/2qiyL96vDeoFjWhRdJ4vL5) | 9:46 |
 
-Snapshot ID: `MCw1ZTgzY2FhNWZhZTNlZjNjOTI4ZGFkNDNhMDg1OTI0YmRhOGQ1YzZi`
+Snapshot ID: `MCxjYTI2ZTZlMDhjMjY4YjQ5ZmZhNWM2ZmZhYTM3ZDZjOTgwOTExYjRi`

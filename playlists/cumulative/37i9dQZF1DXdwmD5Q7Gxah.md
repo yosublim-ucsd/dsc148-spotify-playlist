@@ -4,7 +4,7 @@
 
 > Tell us Dana and Alden, why is everyone at TJ's so attractive?
 
-2,415 songs - 5 day 9 hr 44 min
+2,416 songs - 5 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1440,6 +1440,7 @@
 | [My Kink is Karma](https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [My Kink is Karma](https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N) | 3:42 | 2022-05-06 | 2022-07-30 |
 | [my life is boring](https://open.spotify.com/track/5OstHpGQNqun8D10ToLuzM) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [my life is boring](https://open.spotify.com/album/0tEIZbCGdcGATBeSO6rT8i) | 2:19 | 2021-09-04 | 2021-09-25 |
 | [My Little](https://open.spotify.com/track/4E3U39bAmc61R0hZu2xciI) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [Platinum Green](https://open.spotify.com/album/6NGcHGAivD8o52T3PTrqkt) | 2:02 | 2019-08-30 | 2020-01-28 |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-18 |  |
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2020-11-27 | 2021-06-05 |
 | [my year of rest & relaxation](https://open.spotify.com/track/7zXu0C04YAU6AZIJJpuaeu) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [my year of rest & relaxation](https://open.spotify.com/album/5cBu8tYI0XxXX3wTLdiekQ) | 2:41 | 2023-07-07 |  |
 | [MyLuv](https://open.spotify.com/track/5cNPfcnT3y3JmWiqBQqtLi) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [MyLuv](https://open.spotify.com/album/0con7VlHh3THpC6TLtNoQd) | 2:01 | 2021-12-01 | 2022-01-08 |

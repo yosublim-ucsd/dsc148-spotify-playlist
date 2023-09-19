@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 236159,
+  "num_followers": 236253,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Nzc0ODFhMWQ5NDg4NmU1OGIzNjZjMTU5NWJlMDZkN2I2YmUxNmYw",
+  "snapshot_id": "MCxjMjA4ZjFhZWE0N2M1MzlhN2YwZWUyMDg5MjMyOTM2M2VmN2VjYjUz",
   "tracks": [
     {
       "added_at": "2023-09-14 14:38:07",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
         "name": "close with desires (right person wrong timing)",
         "url": "https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 203144,
       "name": "close with desires (right person wrong timing)",
       "url": "https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
+        "name": "R e s e n t m e n t",
+        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
-        "name": "R e s e n t m e n t",
-        "url": "https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi"
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 224187,
-      "name": "R e s e n t m e n t",
-      "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
-        "name": "Falling or flying",
-        "url": "https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Falling or flying",
-      "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
         "name": "No Fake Love (with YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 148996,
       "name": "No Fake Love (with YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
+        "name": "Falling or flying",
+        "url": "https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
         "name": "Don't Give It Away",
         "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 206143,
       "name": "Don't Give It Away (with Chris Brown)",
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
-        "name": "Look My Way",
-        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Look My Way",
-      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
         "name": "Bestie",
         "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 174545,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
+        "name": "Look My Way",
+        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Look My Way",
+      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 173377,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 193789,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
         "name": "who's loving you?",
         "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
       },
@@ -1095,22 +1079,6 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
-        "name": "Simp",
-        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Simp",
-      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr"
       },
@@ -1127,6 +1095,22 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
+        "name": "Simp",
+        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Simp",
+      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
         "name": "Goofy",
         "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 201592,
       "name": "Goofy",
       "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 193789,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
+        "name": "Midnight Microdose, Vol. 2",
+        "url": "https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 92852,
+      "name": "Ain't Mine",
+      "url": "https://open.spotify.com/track/267UZx3gyAvNKiEVmpl915"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
         "name": "Heart Is On My Sleeve",
         "url": "https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 168755,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
-        "name": "Midnight Microdose, Vol. 2",
-        "url": "https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 92852,
-      "name": "Ain't Mine",
-      "url": "https://open.spotify.com/track/267UZx3gyAvNKiEVmpl915"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
+        "name": "Life Is Better Now",
+        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 151724,
+      "name": "Troubling",
+      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
         "name": "Just Expectationz",
         "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
-        "name": "Life Is Better Now",
-        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL"
       },
       "artists": [
         {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+          "name": "K. Roosevelt",
+          "url": "https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu"
         }
       ],
-      "duration_ms": 151724,
-      "name": "Troubling",
-      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
+      "duration_ms": 178348,
+      "name": "Pleasure & Pain",
+      "url": "https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -1443,22 +1459,6 @@
       "duration_ms": 178226,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL"
-      },
-      "artists": [
-        {
-          "name": "K. Roosevelt",
-          "url": "https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "Pleasure & Pain",
-      "url": "https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
+        "name": "2 Am",
+        "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 160604,
+      "name": "2 Am",
+      "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
         "name": "Out of Touch",
         "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 212574,
       "name": "Out of Touch",
       "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
-        "name": "2 Am",
-        "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
-      },
-      "artists": [
-        {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
-        }
-      ],
-      "duration_ms": 160604,
-      "name": "2 Am",
-      "url": "https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
-        "name": "feelings 4 u",
-        "url": "https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe"
-      },
-      "artists": [
-        {
-          "name": "Colette Lush",
-          "url": "https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX"
-        }
-      ],
-      "duration_ms": 144352,
-      "name": "feelings 4 u",
-      "url": "https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
         "name": "Ride with You",
         "url": "https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 164793,
       "name": "Ride with You",
       "url": "https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
+        "name": "feelings 4 u",
+        "url": "https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe"
+      },
+      "artists": [
+        {
+          "name": "Colette Lush",
+          "url": "https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX"
+        }
+      ],
+      "duration_ms": 144352,
+      "name": "feelings 4 u",
+      "url": "https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W"
     },
     {
       "added_at": "2023-09-14 14:38:07",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-09-14 14:38:07",
       "album": {
+        "name": "hoe bedoel je?",
+        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Dubb",
+          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
+        }
+      ],
+      "duration_ms": 137846,
+      "name": "hoe bedoel je?",
+      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
+    },
+    {
+      "added_at": "2023-09-14 14:38:07",
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 179954,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
-    },
-    {
-      "added_at": "2023-09-14 14:38:07",
-      "album": {
-        "name": "hoe bedoel je?",
-        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Dubb",
-          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
-        }
-      ],
-      "duration_ms": 137846,
-      "name": "hoe bedoel je?",
-      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
     }
   ],
   "unique_name": "R&B Magic",

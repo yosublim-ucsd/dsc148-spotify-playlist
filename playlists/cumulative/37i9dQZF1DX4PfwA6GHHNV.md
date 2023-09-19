@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil
 
-48 songs - 2 hr 19 min
+49 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [AluSina](https://open.spotify.com/track/1C7fLnGDAGlJZhCwSNbeKS) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [AluSina](https://open.spotify.com/album/3dNOgfJ2zEpqt2ablgMG4C) | 3:14 | 2023-09-15 |  |
 | [Amor e Paz](https://open.spotify.com/track/0LHKT3P0wMRL8zD4V7BAEb) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Só Sei Falar de Amor](https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t) | 2:31 | 2023-09-15 |  |
 | [Andarilho](https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH) | [Vírus](https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv) | [VxRxS](https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6) | 1:30 | 2023-09-15 |  |
+| [Anel da Pandora](https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU) | [GR€G MC](https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u), [ESCOB4R](https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy) | [Anel da Pandora](https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH) | 3:19 | 2023-09-15 |  |
 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 | 2023-09-15 |  |
 | [COLADINHO](https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2) | [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Liz Kaweria](https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77), [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [COLADINHO](https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj) | 2:32 | 2023-09-15 |  |
 | [Compasso](https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Shouga](https://open.spotify.com/artist/27VTmGkdhD5rAMJ7TQ1oql) | [Compasso](https://open.spotify.com/album/4e5ouUNZcjSCA6yIw9q1eX) | 2:36 | 2023-09-15 |  |

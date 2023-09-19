@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 195598,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
@@ -1387,6 +1387,28 @@
     },
     {
       "album": {
+        "name": "Call Your Mom",
+        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278670,
+      "name": "Call Your Mom (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
+    },
+    {
+      "album": {
         "name": "CAMPFIRE",
         "url": "https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA"
       },
@@ -1853,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Wisecrack",
+        "url": "https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189226,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/7Ms1Qimiqi0lp8lJc9qnLa"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -1934,6 +1974,24 @@
       "duration_ms": 214720,
       "name": "Cue",
       "url": "https://open.spotify.com/track/3fIMNQaY7AuZRtP18zWhtb"
+    },
+    {
+      "album": {
+        "name": "Cuz of U",
+        "url": "https://open.spotify.com/album/4AInM1eMn39WMpbP3dkmAA"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227649,
+      "name": "Cuz of U",
+      "url": "https://open.spotify.com/track/3Go5fIkVi2ereuujd2PcL7"
     },
     {
       "album": {
@@ -3568,7 +3626,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 191551,
       "name": "Hold Me Like A Summer",
       "url": "https://open.spotify.com/track/7mE4jzo38u1LhriLyqT6SR"
@@ -4020,6 +4078,24 @@
       "duration_ms": 218818,
       "name": "I Can't Swim",
       "url": "https://open.spotify.com/track/3T7yCHl6ovJaQHsSKQSgVm"
+    },
+    {
+      "album": {
+        "name": "i dare you",
+        "url": "https://open.spotify.com/album/3zTydCtKhHfvtnXwJXOjkw"
+      },
+      "artists": [
+        {
+          "name": "Maria Petra",
+          "url": "https://open.spotify.com/artist/7ozwKwvNxzQzlgsD1TNG65"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192096,
+      "name": "i dare you",
+      "url": "https://open.spotify.com/track/0TiaMHLFSJs0AvWt2iHOTO"
     },
     {
       "album": {
@@ -4608,7 +4684,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 145549,
       "name": "it's not feeling good anymore",
       "url": "https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK"
@@ -4626,7 +4702,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 158803,
       "name": "It\u2019s My Birthday",
       "url": "https://open.spotify.com/track/1qMDY64lQJyic7OtjYDTUs"
@@ -6489,6 +6565,28 @@
     },
     {
       "album": {
+        "name": "Otherway",
+        "url": "https://open.spotify.com/album/5oZxjxrWQOSFLahaUvAqZq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Noah Miller",
+          "url": "https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS"
+        },
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170973,
+      "name": "Otherway",
+      "url": "https://open.spotify.com/track/1HibS69wIuHNaotBNJeCk2"
+    },
+    {
+      "album": {
         "name": "overgrown",
         "url": "https://open.spotify.com/album/2AkYKYeMcRIET0B4hqZtwj"
       },
@@ -6608,7 +6706,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 213313,
       "name": "Paul Revere",
       "url": "https://open.spotify.com/track/1dHtMSJ1Ozg2Ja6GX4McAO"
@@ -6702,6 +6800,24 @@
       "duration_ms": 228844,
       "name": "Playhouse",
       "url": "https://open.spotify.com/track/1EBBm44YM2f8QjdM9tlU2C"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
+      },
+      "artists": [
+        {
+          "name": "Paula Jiv\u00e9n",
+          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171899,
+      "name": "Pluto - Bonus Track",
+      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
     },
     {
       "album": {
@@ -7934,7 +8050,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 228500,
       "name": "Strange Days",
       "url": "https://open.spotify.com/track/2BxgSw3ezNtf8GsoM99hBw"
@@ -8006,7 +8122,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 153720,
       "name": "strip mall",
       "url": "https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA"
@@ -8507,6 +8623,24 @@
     },
     {
       "album": {
+        "name": "BOOTCUT",
+        "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231713,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/3uB7utfP0CVzaVLvbt8ia5"
+    },
+    {
+      "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
       },
@@ -8714,7 +8848,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 204923,
       "name": "THROUGH AND FALLING (feat. matt mcwaters & kerri)",
       "url": "https://open.spotify.com/track/62x9vmIVSGiWIeMg2ZGpSY"
@@ -8822,10 +8956,28 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 227365,
       "name": "Tough Kid",
       "url": "https://open.spotify.com/track/6xkB8wWwSaNUzwAtsYT3hB"
+    },
+    {
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6"
+      },
+      "artists": [
+        {
+          "name": "Cody Fry",
+          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/3PCevhEUKqALzjB2hAI4zk"
     },
     {
       "album": {
@@ -9952,6 +10104,24 @@
       "duration_ms": 203920,
       "name": "You Never Loved",
       "url": "https://open.spotify.com/track/0ruRHROLpJygqJ8g6BdTZ1"
+    },
+    {
+      "album": {
+        "name": "You, Me, Lonely",
+        "url": "https://open.spotify.com/album/530JQWAmvDxZDAAPXEVEBI"
+      },
+      "artists": [
+        {
+          "name": "FIZZ",
+          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220614,
+      "name": "You, Me, Lonely",
+      "url": "https://open.spotify.com/track/0RSdiQT7ShxTf6HimM7l7T"
     },
     {
       "album": {

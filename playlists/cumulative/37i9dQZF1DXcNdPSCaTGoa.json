@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 287560,
       "name": "Ndawo Yami",
       "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
@@ -2516,6 +2516,28 @@
       "duration_ms": 279266,
       "name": "Thobela",
       "url": "https://open.spotify.com/track/0stWzuy6xRNVuz5qF3x4ZZ"
+    },
+    {
+      "album": {
+        "name": "It's Our Game (no need to claim)",
+        "url": "https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt"
+      },
+      "artists": [
+        {
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
+        },
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286600,
+      "name": "Thobela",
+      "url": "https://open.spotify.com/track/1drh3aU7uJON1xjnGWonCa"
     },
     {
       "album": {

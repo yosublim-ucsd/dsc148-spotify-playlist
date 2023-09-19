@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "A Haunting in Venice (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494468,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz"
+    },
+    {
+      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },

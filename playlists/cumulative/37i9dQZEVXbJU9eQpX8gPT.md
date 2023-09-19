@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,183 songs - 2 day 17 hr 17 min
+1,184 songs - 2 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,7 @@
 | [La rwina](https://open.spotify.com/track/1qmQtjLHkjwrRzuFmP9smG) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 4:11 | 2021-10-10 | 2022-04-03 |
 | [La Seleçao](https://open.spotify.com/track/2vd2HEhrkafOi2uveHjzzh) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Capo Dei Capi Vol\. II & III](https://open.spotify.com/album/7kJKHavjE6pFQ7koiwykFG) | 3:17 | 2021-06-18 | 2021-07-25 |
 | [La street](https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 3:20 | 2022-07-07 |  |
-| [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 | 2023-05-20 |  |
+| [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 | 2023-05-20 | 2023-09-19 |
 | [La Ville Des Merveilles](https://open.spotify.com/track/4ef0e9n69wE5Tkw42Dhi9q) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN), [CA$HPASSION](https://open.spotify.com/artist/7nsv7SHy5fEAhvYr8vsoRF) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 3:23 | 2021-05-09 | 2021-05-13 |
 | [LA WEED](https://open.spotify.com/track/339D0ZK26sEphzdBOgZ9jG) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [LA WEED](https://open.spotify.com/album/58Nst6QDRUVWmlO7PvzX08) | 3:10 | 2022-05-21 | 2022-05-30 |
 | [La Weed](https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:10 | 2022-05-29 | 2022-06-05 |
@@ -621,7 +621,7 @@
 | [Louder than bombs](https://open.spotify.com/track/7rWZS6UDNgLbtCgq3eUrdM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6yUxkZHB0tE1pNDXKoqiV2) | 3:37 | 2021-11-30 | 2021-12-01 |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-01-17 |  |
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-08 |
-| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 | 2023-09-18 |
+| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-10-02 | 2021-11-19 |
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2021-03-27\* | 2023-06-25 |
 | [Love Scars](https://open.spotify.com/track/5WoBXa945fS87d083cSkrs) | [Saint Bandz](https://open.spotify.com/artist/72UY8MsiTbxAnwK5qhhIA5) | [Love Scars](https://open.spotify.com/album/6stEDqUbk8tmzltAYHqGeO) | 2:22 | 2023-03-01 | 2023-04-01 |
@@ -965,7 +965,7 @@
 | [Skit](https://open.spotify.com/track/4GVwjLRT7oSsKby7Vy8EHr) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 2:59 | 2021-11-22 | 2021-11-23 |
 | [SKITZO](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2023-07-29 | 2023-07-31 |
 | [Sky Priority](https://open.spotify.com/track/6ItXr7qOXzK6KlhTbUu6hp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:49 | 2021-12-05 | 2021-12-12 |
-| [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-17 |  |
+| [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-17 | 2023-09-19 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-09 |  |
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-09 | 2023-09-17 |
 | [Slowmo](https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Slowmo](https://open.spotify.com/album/3m9DSWdlZOQmu4PBJ6qCah) | 3:00 | 2022-03-24 | 2022-03-28 |
@@ -1000,6 +1000,7 @@
 | [Stigma](https://open.spotify.com/track/3LTwMQ9kkn5VVhP3jipBlR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:36 | 2021-12-27 | 2021-12-29 |
 | [Still Alive](https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Still Alive](https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc) | 3:55 | 2023-06-22 |  |
 | [STOP](https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:02 | 2022-07-16 | 2022-07-18 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-18 |  |
 | [STUNTMEN \(feat\. Alpha Wann & Wit.\)](https://open.spotify.com/track/1YEs58i4G68twRzYaFEu7T) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti), [Wit.](https://open.spotify.com/artist/4ME56PlDfT9QKf6sGcRgPm) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:24 | 2021-07-18 | 2021-07-19 |
 | [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2021-12-16 | 2022-09-15 |
 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 | 2022-02-27 | 2022-05-29 |

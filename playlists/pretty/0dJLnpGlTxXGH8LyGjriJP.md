@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 656 songs - 1 day 8 hr 58 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 661 songs - 1 day 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -664,5 +664,10 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 654 | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/album/2GMbT6TVTPmb8XQc2IOBNW) | 3:17 |
 | 655 | [OTR Freestyle](https://open.spotify.com/track/4CVJsHkkPmAgQToSk5dNg9) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:20 |
 | 656 | [Nobody Special \(with Future\)](https://open.spotify.com/track/4hxAZVGVvBibnz36zIF6QN) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Nobody Special \(with Future\)](https://open.spotify.com/album/7AL7cdhzjigaVkUVhRiphE) | 2:49 |
+| 657 | [Jumpman](https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:25 |
+| 658 | [I'm The Plug](https://open.spotify.com/track/6bqtKURdSWkInAJHDkuaL0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:00 |
+| 659 | [Live From The Gutter](https://open.spotify.com/track/2uTG00P1DkhB97pdITkl2O) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:31 |
+| 660 | [Diamonds Dancing](https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 5:14 |
+| 661 | [Scholarships](https://open.spotify.com/track/0B5OTb36fzLayn6XQHg5A1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:29 |
 
-Snapshot ID: `ODE5LGUwMGYwN2JmYWFhNjMwMWNmYTI2NTIxNzZiYmQ1MmIwZDkzMzE3YjQ=`
+Snapshot ID: `ODI0LDI3YTUyMGE2OTI1YzFjYWE3YzU0YTdiNWEwZGExN2RmOWRmZTUyYTI=`

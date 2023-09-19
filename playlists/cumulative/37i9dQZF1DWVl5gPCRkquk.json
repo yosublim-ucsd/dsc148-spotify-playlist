@@ -4487,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Bluebeard",
+        "url": "https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188468,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
+    },
+    {
+      "album": {
         "name": "The Lightning",
         "url": "https://open.spotify.com/album/2S7mGFGwUqO8qBTfoG3FkU"
       },
@@ -5242,7 +5260,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 160821,
       "name": "Witness Trees",
       "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"

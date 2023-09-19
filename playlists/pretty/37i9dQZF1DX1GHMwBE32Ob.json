@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nRIP Mohbad",
-  "num_followers": 19562,
+  "num_followers": 19834,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWJhMTUxZWVhZmE2MzZjNmY2ZTkzNjc5Njc3NGIxOGFhODdkZDA3",
+  "snapshot_id": "MCwzMTg3M2MyMzY0OWUzMDUxMjBlYzVhZjUyZTIzNmRmNjc0ZTgzNDZj",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -571,22 +571,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Sere",
-        "url": "https://open.spotify.com/album/1ANJrFdux0Uj3j89YlhhUh"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
       "artists": [
         {
-          "name": "Evil Beast",
-          "url": "https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
         }
       ],
-      "duration_ms": 130873,
-      "name": "Sere (feat. Tega boi dc)",
-      "url": "https://open.spotify.com/track/0Kl55thn00rFid2leXTeo9"
+      "duration_ms": 145910,
+      "name": "La Pio Pio",
+      "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -603,6 +599,26 @@
       "duration_ms": 168352,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Sere",
+        "url": "https://open.spotify.com/album/1ANJrFdux0Uj3j89YlhhUh"
+      },
+      "artists": [
+        {
+          "name": "Evil Beast",
+          "url": "https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "duration_ms": 130873,
+      "name": "Sere (feat. Tega boi dc)",
+      "url": "https://open.spotify.com/track/0Kl55thn00rFid2leXTeo9"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -659,6 +675,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "We Outside",
         "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
       },
@@ -671,42 +703,6 @@
       "duration_ms": 155428,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 145910,
-      "name": "La Pio Pio",
-      "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 221100,
-      "name": "Killin Dem (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -731,18 +727,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+      "duration_ms": 221100,
+      "name": "Killin Dem (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Memory Card",
-        "url": "https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157962,
-      "name": "Para Boi",
-      "url": "https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Mafo",
         "url": "https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 214000,
       "name": "Mafo",
       "url": "https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Memory Card",
+        "url": "https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157962,
+      "name": "Para Boi",
+      "url": "https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 145351,
-      "name": "In Charge",
-      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Lotto",
         "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Hat-trick",
-        "url": "https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU"
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 160757,
-      "name": "Hat-trick",
-      "url": "https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN"
+      "duration_ms": 145351,
+      "name": "In Charge",
+      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -983,6 +967,22 @@
       "duration_ms": 144758,
       "name": "Call of Duty",
       "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Hat-trick",
+        "url": "https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 160757,
+      "name": "Hat-trick",
+      "url": "https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1019,22 +1019,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1Kh2Qf7lQI5KJT7eCWOUEr"
+        "name": "No Bad Boy, No Party",
+        "url": "https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT"
       },
       "artists": [
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
         }
       ],
-      "duration_ms": 139885,
-      "name": "Aje",
-      "url": "https://open.spotify.com/track/1eYdeqrDKSFhmvQgW1OAXO"
+      "duration_ms": 146494,
+      "name": "Pop (Alcohol Alcohol)",
+      "url": "https://open.spotify.com/track/6rMi4IgGoZ8ahKFNlhUym1"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "No Bad Boy, No Party",
-        "url": "https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT"
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1Kh2Qf7lQI5KJT7eCWOUEr"
       },
       "artists": [
         {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 146494,
-      "name": "Pop (Alcohol Alcohol)",
-      "url": "https://open.spotify.com/track/6rMi4IgGoZ8ahKFNlhUym1"
+      "duration_ms": 139885,
+      "name": "Aje",
+      "url": "https://open.spotify.com/track/1eYdeqrDKSFhmvQgW1OAXO"
     }
   ],
   "unique_name": "Street Energy ",

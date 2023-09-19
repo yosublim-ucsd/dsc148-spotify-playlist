@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 54830,
+  "num_followers": 54865,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzVjNjQ4MjUxOTk5MDE4NTI5YmQyMWZiODYyMmU2Y2MzOTJiNDkz",
+  "snapshot_id": "MCxkMGI5ZDI2NTUwZjAyNTE4NWI3ZDJhOWJjNjVkMGVhNWRlZDAyYTVl",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -743,6 +743,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 295760,
       "name": "So Divine",
       "url": "https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
     },
     {
       "added_at": "2020-08-19 19:15:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,530 likes - 175 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,845 likes - 175 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 175 | [For Sport](https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/7dJsh48oFzbFGsyjCrMUm4) | 2:26 |
 
-Snapshot ID: `MCwyYjViMjk4NmZmMjg4Nzg2NDk3OGJhNDc5MDJjZjlkZDg0OTVhODYz`
+Snapshot ID: `MCw4YjU5MjljMmIzNmM3NDE0ZTc4ZGNkZTA1ODgxNTBmZTU1YmNjMzVj`

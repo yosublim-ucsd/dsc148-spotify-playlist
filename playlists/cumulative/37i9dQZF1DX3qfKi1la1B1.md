@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-276 songs - 17 hr 58 min
+277 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Green Jewel](https://open.spotify.com/track/443DP06PvfXbDqq9nVmtnK) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Green Jewel](https://open.spotify.com/album/3MGkpENNs3mkpjSj7R2TZ2) | 4:09 | 2023-06-01 | 2023-07-14 |
 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 | 2023-03-09 | 2023-04-14 |
 | [Hadaka no Yume](https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:45 | 2022-12-06 | 2022-12-14 |
-| [Head Down](https://open.spotify.com/track/7EH3MSHMhHqKTZe7KKsZJO) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Head Down](https://open.spotify.com/album/44DqhmfygUnvzStDyjORAq) | 4:12 | 2023-08-22 |  |
+| [Head Down](https://open.spotify.com/track/3OxhqogH8yybYJzwpKvPxr) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Summing Up](https://open.spotify.com/album/3i2iavFSYOci10RdJoNSnX) | 4:12 | 2023-09-14 |  |
+| [Head Down](https://open.spotify.com/track/7EH3MSHMhHqKTZe7KKsZJO) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Head Down](https://open.spotify.com/album/44DqhmfygUnvzStDyjORAq) | 4:12 | 2023-08-22 | 2023-09-19 |
 | [Heiwa](https://open.spotify.com/track/6q4ZgpCedbtY0HRdX9G178) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Heiwa](https://open.spotify.com/album/0PaVCQT043VZB8CKdXHPuv) | 3:23 | 2023-08-10 | 2023-09-01 |
 | [Hibi no Tezawari](https://open.spotify.com/track/2v3rsHbdetpFdLn3s4Sko9) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 4:32 | 2023-06-13 | 2023-07-12 |
 | [Highway](https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g) | 5:28 | 2022-11-24 | 2022-12-14 |

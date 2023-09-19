@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 522429,
+  "num_followers": 522530,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmYzYWY1MGUwMmVjMGY5MTBkZWQ4YTMxZTk0Mjg3YjdjYWNjYWMw",
+  "snapshot_id": "MCw5OWZiOGE4OWRmZTZlYmE4ODM0ZjZmZjZiMGEwYjE2Y2Q2NzZlMTNi",
   "tracks": [
     {
       "added_at": "2023-09-16 00:49:46",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
         "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
         "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 158133,
       "name": "FAMJAM4000",
       "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Two Worlds Apart",
-      "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 175706,
       "name": "Stay Flo",
       "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Two Worlds Apart",
+      "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Hot in NY",
         "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 118787,
       "name": "Hot in NY",
       "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "New Me, Same Us",
-        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 158015,
-      "name": "Are You Feeling Sad?",
-      "url": "https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 213622,
       "name": "I Know There's Gonna Be (Good Times)",
       "url": "https://open.spotify.com/track/06UOL50QYtDR5l06ohu88m"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 158015,
+      "name": "Are You Feeling Sad?",
+      "url": "https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
         "name": "Fkn Around (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 244048,
       "name": "Fkn Around (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 159490,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "I'm Just Snacking",
         "url": "https://open.spotify.com/album/1OxhOd3oy8xQJ818M3mQS2"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 198116,
       "name": "I'm Just Snacking",
       "url": "https://open.spotify.com/track/12jmugLskEWmYRLKYfMNSk"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
     },
     {
       "added_at": "2023-09-16 00:49:46",

@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester",
-  "num_followers": 113677,
+  "num_followers": 113705,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTAwZDNlZGFlZjRjOWNhYzI2MDdlMmFmN2I3MDA3MzNjYTY1NGY0",
+  "snapshot_id": "MCw2MThlMjBjYzk5NjU1Y2RjNjRkYjAxMDZmOWE3ZTRhYWQwNjMxMzk3",
   "tracks": [
     {
       "added_at": "2023-05-24 04:00:00",
@@ -140,6 +140,22 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 224987,
+      "name": "One Number Away - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
       },
       "artists": [
@@ -172,17 +188,69 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
+        "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        },
+        {
+          "name": "Avenue Beat",
+          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
         }
       ],
-      "duration_ms": 224987,
-      "name": "One Number Away - Recorded At Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
+      "duration_ms": 177261,
+      "name": "Watermelon Sugar (featuring Avenue Beat)",
+      "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228460,
+      "name": "Delicate - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -208,17 +276,17 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 228460,
-      "name": "Delicate - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
+      "duration_ms": 232373,
+      "name": "Tougher Than The Rest - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -235,74 +303,6 @@
       "duration_ms": 156160,
       "name": "Middle Finger - Spotify Singles",
       "url": "https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        },
-        {
-          "name": "Avenue Beat",
-          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "Watermelon Sugar (featuring Avenue Beat)",
-      "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Tougher Than The Rest - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-21 00:57:42",
       "album": {
-        "name": "Wide Open Spaces - Spotify Singles",
-        "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 240224,
-      "name": "Wide Open Spaces - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 206280,
       "name": "Whiskey - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7KeNKDufYkAf3VKOumK12r"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Wide Open Spaces - Spotify Singles",
+        "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 240224,
+      "name": "Wide Open Spaces - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -1059,6 +1059,38 @@
     {
       "added_at": "2023-03-21 00:57:42",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 182469,
+      "name": "Dear God - Recorded at Woodshed Recording Malibu",
+      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 259430,
+      "name": "What The Cowgirls Do - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5BjNw6Nehreg15LXEWD5Sl"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -1071,6 +1103,22 @@
       "duration_ms": 185331,
       "name": "Reasons (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/0p0zVDWG6vS77NKDy9EiWL"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "duration_ms": 184742,
+      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
+      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -1092,22 +1140,6 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 182469,
-      "name": "Dear God - Recorded at Woodshed Recording Malibu",
-      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM"
       },
       "artists": [
@@ -1119,38 +1151,6 @@
       "duration_ms": 134615,
       "name": "Shitty Golfer (Recorded at Sound Stage Studios Nashville)",
       "url": "https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 259430,
-      "name": "What The Cowgirls Do - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5BjNw6Nehreg15LXEWD5Sl"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
-      },
-      "artists": [
-        {
-          "name": "Michael Ray",
-          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
-        }
-      ],
-      "duration_ms": 184742,
-      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
-      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
     },
     {
       "added_at": "2023-03-21 00:57:42",

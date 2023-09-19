@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-365 songs - 22 hr 9 min
+366 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Joyful Noise \- The Colleagues remix](https://open.spotify.com/track/3UBF6emB78JFBl1cl3tgan) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Love Euphoria](https://open.spotify.com/album/30KIjBSM3C6FzgR4aRuncF) | 4:06 | 2023-02-24 | 2023-03-11 |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-10-03 | 2023-04-30 |
 | [Just Like You Used To](https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg) | 3:08 | 2022-10-03 | 2023-09-12 |
+| [Just Like You Used To](https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:09 | 2022-10-03 |  |
 | [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 |  |
 | [King](https://open.spotify.com/track/1fExFCGaE1Y5qNhPK7aTUy) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:04 | 2023-05-26 |  |
 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2022-03-11 | 2023-02-25 |
@@ -205,7 +206,7 @@
 | [Lucky](https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Lucky](https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet) | 3:36 | 2023-06-30 |  |
 | [Lying To You](https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:58 | 2023-04-28 |  |
 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 | 2023-06-30 |  |
-| [Magic](https://open.spotify.com/track/23O3KsvjLmGlijBpF4wS6v) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/3gSddr5geJ9u7lFfxSL4oM) | 2:36 | 2023-04-14 |  |
+| [Magic](https://open.spotify.com/track/23O3KsvjLmGlijBpF4wS6v) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/3gSddr5geJ9u7lFfxSL4oM) | 2:36 | 2023-04-14 | 2023-09-19 |
 | [Magic](https://open.spotify.com/track/4UZxlB4kClh746mupKTDer) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0) | 2:36 | 2023-04-14 | 2023-07-02 |
 | [Make Me Say It Again, Girl](https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Make Me Say It Again, Girl](https://open.spotify.com/album/52b0FH5bRs92vajujszHo0) | 5:14 | 2022-09-30 | 2023-08-26 |
 | [Make Me Wanna](https://open.spotify.com/track/0eue2iKYFkuLYXkfEMjKuJ) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [The Rebirth Of Marvin](https://open.spotify.com/album/0AjhGOAPLNOJtBm1HiVYLo) | 3:01 | 2023-02-10 |  |

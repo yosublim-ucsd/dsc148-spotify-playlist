@@ -1,13 +1,29 @@
 {
   "description": "All the megahits by the South Korean boy band are right here! We are one! ",
-  "num_followers": 1132249,
+  "num_followers": 1132458,
   "original_name": "This Is EXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmE4MmE2NDk1MzhjMDNhYWY5NWNhNjgzZDMwNGYxMWU1ZDhlMzVj",
+  "snapshot_id": "MCw0OWU2NDQwZDc3MWVlYTQyN2E2ZTY0MTQ4MDRmYWUxZDk5ZDYwYjg3",
   "tracks": [
+    {
+      "added_at": "2023-09-18 08:57:09",
+      "album": {
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
+    },
     {
       "added_at": "2023-07-10 09:00:00",
       "album": {

@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-300 songs - 1 day 4 hr 43 min
+302 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Automatic Fantastic](https://open.spotify.com/track/4KB6xBP5eIlgH2rEhCbGNA) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Jalamanta](https://open.spotify.com/album/4RKRXZ4ez0w6Lr23CMT9YE) | 6:55 | 2021-11-30 | 2022-07-29 |
 | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B) | 7:10 | 2021-11-30 | 2021-12-27 |
 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 | 2022-08-26 |  |
-| [Beneath the Rose](https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Beneath The Rose](https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k) | 5:34 | 2023-07-21 |  |
+| [Beneath the Rose](https://open.spotify.com/track/3bP0OkELWHoDUn3tHvqcfY) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE](https://open.spotify.com/album/0i8uUVKFN0p4fYDXs4nJV6) | 5:34 | 2023-09-15 |  |
+| [Beneath the Rose](https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Beneath The Rose](https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k) | 5:34 | 2023-07-21 | 2023-09-19 |
 | [Big Sky Theory](https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc) | 8:28 | 2022-04-28 |  |
 | [Big Sky Theory](https://open.spotify.com/track/676z61jraS43HoLu3Tc9dB) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4oFfTnY3Je6IT4QbeaPbQp) | 8:28 | 2021-11-30 | 2022-07-29 |
 | [Black](https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE) | [Witchrider](https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83) | [Unmountable Stairs](https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu) | 6:47 | 2022-04-28 | 2023-03-23 |
@@ -155,7 +156,8 @@
 | [Justify](https://open.spotify.com/track/3pPdkcvssy7LJGjmNshJxW) | [Samavayo](https://open.spotify.com/artist/5HSz3JPyJMVdFa6lOi0k0G) | [Justify](https://open.spotify.com/album/4RoOGEEHxkxWliXipW7ePK) | 4:02 | 2021-11-30 | 2022-01-11 |
 | [Kreuzung](https://open.spotify.com/track/3sDkGMlGw0irwbpsVI4WlX) | [Mammoth Mammoth](https://open.spotify.com/artist/0SinbcXhPwNHsfAUstKY9h) | [Kreuzung](https://open.spotify.com/album/65dd1YOyeVadRyeoCa6bpi) | 3:55 | 2022-02-14 | 2022-05-01 |
 | [Kristallen Den Fina](https://open.spotify.com/track/1kqtSizg2KzBF9bpAWHe7c) | [Harvester](https://open.spotify.com/artist/4AATAyLn65bwTGtRb0mqpG) | [Hemåt](https://open.spotify.com/album/6UCOkLC3q1ivpD1BtCCQvo) | 6:28 | 2021-11-30 | 2022-02-07 |
-| [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-26 |  |
+| [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-26 | 2023-09-19 |
+| [Last Word](https://open.spotify.com/track/0e0SA8QXA85qkGhLPOD0Rr) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE](https://open.spotify.com/album/0i8uUVKFN0p4fYDXs4nJV6) | 6:17 | 2023-09-15 |  |
 | [Late Night](https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:29 | 2022-01-14 |  |
 | [Left Us To Mold](https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt) | [Unida](https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 5:46 | 2021-11-30 |  |
 | [Leftovers](https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z) | 3:50 | 2021-11-30 | 2022-07-19 |

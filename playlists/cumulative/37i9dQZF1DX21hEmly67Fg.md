@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-188 songs - 10 hr 57 min
+189 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Wait](https://open.spotify.com/track/4R5pCOhqXDaXKdRQ3LIQFr) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vsq Film School: Cult Classics & Indie Faves](https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W) | 4:17 | 2022-11-18 | 2022-11-26 |
 | [Wellerman \(arr\. piano\)](https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Wellerman \(arr\. piano\)](https://open.spotify.com/album/1f9nDMa1wlNsPxDtygkg4B) | 2:01 | 2021-11-25 | 2023-06-24 |
 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 | 2023-08-14 |  |
+| [When She Loved Me](https://open.spotify.com/track/6syMpNOEjJXqtFklVFXFQV) | [The Cardboards](https://open.spotify.com/artist/6nb7HIU4p1mORQurLGhDYu) | [When She Loved Me](https://open.spotify.com/album/6g9g4U66eVzFGh4xvJFg1j) | 2:57 | 2023-09-18 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2021-11-25 |  |
 | [Wicked Game](https://open.spotify.com/track/1fzP9TiMOq4FHKmnGaKVAE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Our Flashback Wedding](https://open.spotify.com/album/7EjVc5O5g56nKL6RrAilPo) | 3:24 | 2022-11-18 | 2022-11-26 |
 | [Wise Up](https://open.spotify.com/track/66VOEjxqwAXhVAMQytWTOo) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vsq Film School: Cult Classics & Indie Faves](https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W) | 3:25 | 2022-11-18 | 2022-11-26 |

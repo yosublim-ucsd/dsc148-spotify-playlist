@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Trending Pakistani tracks under one roof\. Cover: Atif Aslam
+> Current Pakistani hits under one roof\. Cover: Atif Aslam
 
 74 songs - 4 hr 33 min
 

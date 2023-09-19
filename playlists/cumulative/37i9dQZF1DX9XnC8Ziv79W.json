@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Gokka",
+        "url": "https://open.spotify.com/album/4zCMrP2sqExAiWOOYl3Pvj"
+      },
+      "artists": [
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110115,
+      "name": "Gokka",
+      "url": "https://open.spotify.com/track/5KHx84WI0JADsWtqrMnnjM"
+    },
+    {
+      "album": {
         "name": "Gumbala Suthuvom",
         "url": "https://open.spotify.com/album/1lDXZ8L0DR5dfRWH2k63u3"
       },

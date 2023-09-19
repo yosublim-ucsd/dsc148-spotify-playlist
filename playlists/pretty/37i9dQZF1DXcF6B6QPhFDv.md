@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Thirty Seconds To Mars along with today's Rock songs you need to hear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,846,361 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,846,798 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 49 | [hot girls in hell](https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [hot girls in hell](https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y) | 2:50 |
 | 50 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 |
 
-Snapshot ID: `MCw3NmY5Mzg4OGExYTNmYmJjOTVlMTg2NTY3ZDcwMjM0MjI5ZTAxOWU1`
+Snapshot ID: `MCw0ZmNiNmRmOTAxZGI2NmExZDRjOTY3MzEwYWYxMzVmZTdjNjE3YmI3`

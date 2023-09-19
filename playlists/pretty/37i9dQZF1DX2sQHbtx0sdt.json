@@ -1,12 +1,12 @@
 {
   "description": "New and trending hip-hop from around the world. Cover: Nasty C",
-  "num_followers": 11457,
+  "num_followers": 11556,
   "original_name": "Global Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjUyNGJmZWVlYTI0MjczMDljMjFhYjY0YTU5ZWRjODEzYWNhYjdl",
+  "snapshot_id": "MCw4OWEwMDE5ODNjYjdiOGVjOTEwZTY5ZTRmYzM2Njk4MTY1NWYwZGQ2",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -348,12 +348,12 @@
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
           "name": "K-Trap",
           "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
         }
       ],
       "duration_ms": 202221,

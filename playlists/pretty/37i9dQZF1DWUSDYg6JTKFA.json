@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 155987,
+  "num_followers": 156106,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzIwYjEzNDg3NDkxZWYzNGJhMTg2ZmJmMzQzMjkxMGE0N2FmY2Mw",
+  "snapshot_id": "MCw0YmQ5NDIwZjQzMTkyNWY5Mzk3MWRmYmY2MzRjNWRhMWYzMWM5MDk0",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -531,6 +531,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Never Lose Sight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "The Altar and The Door",
         "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3"
-      },
-      "artists": [
-        {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
-        }
-      ],
-      "duration_ms": 222546,
-      "name": "I Need A Miracle",
-      "url": "https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "What If We",
         "url": "https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk"
       },
@@ -663,26 +647,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Joel Houston",
-          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
-        },
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
         }
       ],
-      "duration_ms": 353546,
-      "name": "Good Grace - Live",
-      "url": "https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn"
+      "duration_ms": 222546,
+      "name": "I Need A Miracle",
+      "url": "https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -719,6 +695,30 @@
       "duration_ms": 235025,
       "name": "Hills and Valleys",
       "url": "https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        },
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 353546,
+      "name": "Good Grace - Live",
+      "url": "https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -931,6 +931,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Good Good Father",
+        "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 297146,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Alive & Breathing Vol. 2",
         "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 241764,
       "name": "Alive & Breathing (feat. Elle Limebear)",
       "url": "https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Good Good Father",
-        "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 297146,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
     },
     {
       "added_at": "2020-07-23 14:38:16",

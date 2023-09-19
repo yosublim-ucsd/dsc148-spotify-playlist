@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-673 songs - 1 day 5 hr 5 min
+678 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 | 2021-12-07 | 2022-08-10 |
 | [City Prelude](https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Preludes](https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1) | 2:19 | 2022-12-21 |  |
 | [Clear Air](https://open.spotify.com/track/1WmJtAYlrss3fI2jn5NF2R) | [Coralia del Villar](https://open.spotify.com/artist/2IJGrdQIdQyqJ40KID5MQ9) | [Clear Air](https://open.spotify.com/album/10mVsVqSOV0duq1RCxrUaW) | 1:37 | 2022-12-05 | 2023-07-19 |
+| [Cold Fire](https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR) | [Lot Gordon](https://open.spotify.com/artist/1Q6LTB4M1mV3SVrtW0ZIWl) | [Cold Fire](https://open.spotify.com/album/3gcMnFOQNITW4ULBIGhpcj) | 3:01 | 2023-09-18 |  |
 | [Collecting Memories](https://open.spotify.com/track/6aFHghBSzxP3QPxS30qqp0) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [Collecting Memories](https://open.spotify.com/album/6VSobr1DUTShD75358fUps) | 2:47 | 2022-07-19 |  |
 | [Common Ground](https://open.spotify.com/track/6xRvgTp2yFfkOua9icx0rD) | [Camilla Turgot](https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2) | [Common Ground](https://open.spotify.com/album/1SZeNgnZXcm31SvYRsWWJY) | 2:02 | 2023-01-09 |  |
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-12-07 | 2023-05-04 |
@@ -179,6 +180,7 @@
 | [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 | 2023-02-27 |  |
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-09 |  |
 | [Faded Portrait](https://open.spotify.com/track/3z4hK6i9TGy2s7kmP6h2qO) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Faded Portrait](https://open.spotify.com/album/3yOB2diMaxo8A1mrKa198M) | 2:05 | 2023-03-07 |  |
+| [Faith](https://open.spotify.com/track/6rMKRMeW8iGPRGaAA3g8ZJ) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Faith](https://open.spotify.com/album/6KFLVb3LM2asbF4FbGdN99) | 2:13 | 2023-09-18 |  |
 | [Fallen Rain](https://open.spotify.com/track/26DpsU4AU11OK1MjF4THqH) | [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Fallen Rain](https://open.spotify.com/album/4xGwLVQWfkyq3mFtOZbiQG) | 2:44 | 2021-12-07 | 2022-10-05 |
 | [Falling Trees](https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Falling Trees](https://open.spotify.com/album/1cEko5IGVvuTgQe5HEB2l3) | 2:42 | 2022-01-04 | 2022-10-25 |
 | [Familiar Country](https://open.spotify.com/track/3TybBBVKurncnyymP5mKLn) | [Poppy\-Mae Wilder](https://open.spotify.com/artist/1ZtgWZkr1HRMEzDtNjuwlM) | [Familiar Country](https://open.spotify.com/album/3VIhoUOFnxpdaKM5qBoNYw) | 2:54 | 2021-12-07 | 2022-09-13 |
@@ -252,6 +254,7 @@
 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2021-12-07 |  |
 | [I Mellanrummen](https://open.spotify.com/track/2y5ndtKSNhKxhAmnrDbuIg) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [I Mellanrummen](https://open.spotify.com/album/5k0teDt2gqXjptNLUJltoz) | 2:09 | 2021-12-07 |  |
 | [I saw it was glass](https://open.spotify.com/track/70lRqVSamttPdEudO79Lbz) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [I saw it was glass](https://open.spotify.com/album/6WRGPCxwkKiVNpGrawwmlE) | 3:26 | 2022-07-19 |  |
+| [If lonely...](https://open.spotify.com/track/3w7ooeKGTjTd8W7Qp2oAop) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [If lonely...](https://open.spotify.com/album/68CGa50C8hC4xr28VhCSmZ) | 2:19 | 2023-09-18 |  |
 | [Il Gondoliere](https://open.spotify.com/track/4Js006shgozGVBa03rr3Wg) | [Luisa Leonetti](https://open.spotify.com/artist/5qpXgVpKpeKe5j4ENTQOwq) | [Il Gondoliere](https://open.spotify.com/album/1W6dRLL6nw8Gf1DlXI8yY3) | 2:20 | 2023-03-07 |  |
 | [Im Garten nebenan](https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ) | [Julian Friedrich](https://open.spotify.com/artist/2XO8vo43M9GoHmXZelYzEH) | [Oetztal](https://open.spotify.com/album/1zlu9qu9ly6elFZPROt9CX) | 2:42 | 2021-12-07 | 2022-04-21 |
 | [Imagery Noir](https://open.spotify.com/track/0WlrMzNOlzqiMXvkTNaefs) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Imagery Noir](https://open.spotify.com/album/1AuorWIwxQ0oM0S3G4skZG) | 2:39 | 2021-12-07 |  |
@@ -511,6 +514,7 @@
 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 | 2021-12-07 |  |
 | [Say Goodbye](https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe) | [Sigmund Thorne](https://open.spotify.com/artist/5XZMvbqpb45vxwBRHQQ2sR) | [Say Goodbye](https://open.spotify.com/album/5aKjif3nihiPDJ119Bjlzs) | 2:51 | 2021-12-07 |  |
 | [schneller als der Wind](https://open.spotify.com/track/4zUEpKgqktHnXBsVraFPK8) | [Jaz Limon](https://open.spotify.com/artist/6xjq4OBddBYJ6OUaEOIyr6) | [schneller als der Wind](https://open.spotify.com/album/7G8SAjdXikta00iYT0unTf) | 2:58 | 2021-12-07 |  |
+| [Schwermut](https://open.spotify.com/track/51EGf0ICwuUiBCaem7ACTW) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Schwermut](https://open.spotify.com/album/5W27eTsZMlUo3tSjmpduWR) | 2:26 | 2023-09-18 |  |
 | [Sea Of Revival](https://open.spotify.com/track/2uiKpgfOX9OHiE6UuYAkU8) | [Martha Sines](https://open.spotify.com/artist/6nAvfA2VeuvrAm6HWNR1ID) | [Sea Of Revival](https://open.spotify.com/album/1thtdvev81NypFN6ZSrbgw) | 2:30 | 2021-12-07 | 2022-10-05 |
 | [Searching](https://open.spotify.com/track/0GZkEa0jm8l2lVvPpkE0fO) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Searching](https://open.spotify.com/album/4ZlIyEvfcba4GQCGb3G1uJ) | 2:02 | 2021-12-07 | 2023-06-21 |
 | [Seconda parte](https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [Seconda parte](https://open.spotify.com/album/0N2JoDGgvu9YfhwHbj9n3x) | 3:21 | 2021-12-07 | 2022-10-05 |
@@ -524,6 +528,7 @@
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-07 | 2023-01-28 |
 | [seulement vous](https://open.spotify.com/track/7k0Bl76i5qEYv3lTDwvQBC) | [Germain Lesage](https://open.spotify.com/artist/0ygpa3BkVD5ZYljYGF54EK) | [seulement vous](https://open.spotify.com/album/0qlzv0RHDVgNc77X7uiKMH) | 1:46 | 2022-09-12 | 2023-07-19 |
 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 | 2021-12-07 | 2022-08-10 |
+| [Shimmer](https://open.spotify.com/track/3Est0ZqQ8IyB74HoyKu1Db) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Shimmer](https://open.spotify.com/album/1UX8gCw0ubEBg1rcZroqC0) | 2:21 | 2023-09-18 |  |
 | [Shinsetsu](https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH) | [Ida Aoi](https://open.spotify.com/artist/02jiWzihJtpS94vvCnlDUK) | [Shinsetsu](https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A) | 2:59 | 2022-03-01 | 2023-04-19 |
 | [Shoganai](https://open.spotify.com/track/2Pmiz2tOtQxnrHsQ9RZuKp) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai](https://open.spotify.com/album/5pOX595aLHeczDXUz0HsL1) | 3:11 | 2022-03-16 |  |
 | [silbermond](https://open.spotify.com/track/1sWI71ajS4mERuwG2k5vvD) | [Flavia Cortez](https://open.spotify.com/artist/4wMoov0OVG8UOIR6tPnvnV) | [Sunflower Field](https://open.spotify.com/album/2WcreYeMZTha6QjVopTaBo) | 2:49 | 2021-12-07 | 2022-01-05 |

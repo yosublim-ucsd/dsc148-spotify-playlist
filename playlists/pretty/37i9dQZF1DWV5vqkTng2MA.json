@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 373224,
+  "num_followers": 373300,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2VlNjM3YzA5N2YwZWU1N2U4YTFmZGI0NzZjYTIyMjliOWNmMTI1",
+  "snapshot_id": "MCwzYjRkYTBjMWI3OTgxMGVjNjAwNzY3NjE2NjZkZTIxNjYyYzYxYTE4",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 155773,
       "name": "The Denial Twist",
       "url": "https://open.spotify.com/track/4Hzg7Hcqo2aUooTQ0pnBYC"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 240912,
+      "name": "Pain and Misery",
+      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 240912,
-      "name": "Pain and Misery",
-      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Bad Self Portraits",
         "url": "https://open.spotify.com/album/5I4L2Ka63C2NfLvW5ioPcd"
       },
@@ -435,6 +419,38 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7tOYSMYowhxJ0uK3WMoL5n"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Life and Life Only",
         "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
       },
@@ -447,6 +463,22 @@
       "duration_ms": 266106,
       "name": "Go Down River",
       "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Sound & Color (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Sound & Color",
+      "url": "https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -483,22 +515,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Son Little (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Lay Down",
-      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -515,34 +531,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Sound & Color (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
+        "name": "Son Little (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Sound & Color",
-      "url": "https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu"
+      "duration_ms": 228000,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 247293,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 176053,
       "name": "This Is A Photograph II",
       "url": "https://open.spotify.com/track/5WtjJrwJvlKqTBl92Wmlc8"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Trouble Is",
+      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 202401,
       "name": "Say It",
       "url": "https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Trouble Is",
-      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "First Flower",
-        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 227092,
-      "name": "To the Boys",
-      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "CLAIM",
         "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 215853,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 227092,
+      "name": "To the Boys",
+      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1271,22 +1271,6 @@
       "duration_ms": 281893,
       "name": "Never Been a Captain",
       "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 262536,
       "name": "Dance For Love",
       "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Devil in Me",
-      "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1423,22 +1407,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Alexander",
-        "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
-      },
-      "artists": [
-        {
-          "name": "Alex Ebert",
-          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Bad Bad Love",
-      "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Promenade Blue",
         "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
       },
@@ -1451,6 +1419,22 @@
       "duration_ms": 233356,
       "name": "Place Names",
       "url": "https://open.spotify.com/track/6NNCDDqsr4q1Ew2ube9Ujp"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Alexander",
+        "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Bad Bad Love",
+      "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1483,6 +1467,22 @@
       "duration_ms": 171468,
       "name": "Don't Want to Say Good-bye",
       "url": "https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Year Of The Spider",
+        "url": "https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Midnight Wine",
+      "url": "https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI"
     }
   ],
   "unique_name": "the new retro",

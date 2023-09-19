@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: AE
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,389 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,404 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Hyperdrive](https://open.spotify.com/track/3dZqnbLuUGo2n9QL2QHW0E) | [Talulah Ruby](https://open.spotify.com/artist/2TNbAqw8Vycd0xtFz7RWzZ) | [Hyperdrive](https://open.spotify.com/album/0UzMpfxDnb62ueatyPMMY5) | 3:58 |
 | 80 | [Girlcow](https://open.spotify.com/track/4rSMMxuQVQ1oFiz6UyaDTO) | [Duvet](https://open.spotify.com/artist/7MTj1g81iA5DITR276prZH) | [Girlcow](https://open.spotify.com/album/4RmTh9VcUqUAcI2Ug4AgYS) | 2:57 |
 
-Snapshot ID: `MCxlNGZjM2ZjNjc3ZjZkYjVmMWEwYWNlN2I1MzcyMTZmOGJlZjIzNDMx`
+Snapshot ID: `MCxkMTA4ZTc2MWQ4M2E1NmIwOWE5NGFjMTU4N2U1ZTBhZDYyYTE4YjJk`

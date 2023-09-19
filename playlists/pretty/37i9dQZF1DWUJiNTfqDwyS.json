@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 318556,
+  "num_followers": 319221,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmFlMTVjOGE3ODNlY2MzZTQyYjRkMTY0MjU1ZjllOWY4ZjA5OGIx",
+  "snapshot_id": "MCxlMzQ4YTg3N2JlYTA5MmYwNzRiMzJkYTFhYjc5YzhmZTY4YzY0NTE0",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 366400,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
         "name": "Love, Lies & Therapy",
         "url": "https://open.spotify.com/album/0SbjYvhuq1ItBiZzkrNmYQ"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 134200,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/2qjH6wZfR0g11ZiT7KqyRO"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 366400,
-      "name": "Turn The Page",
-      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
     },
     {
       "added_at": "2023-08-23 14:56:37",

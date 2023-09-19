@@ -704,7 +704,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222760,
-      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
+      "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
     },
     {
@@ -803,6 +803,28 @@
     },
     {
       "album": {
+        "name": "Juntos Otra Vez",
+        "url": "https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283760,
+      "name": "El Destino",
+      "url": "https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69"
+    },
+    {
+      "album": {
         "name": "Mi Historia Musical - Juan Gabriel",
         "url": "https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe"
       },
@@ -822,28 +844,6 @@
       "duration_ms": 285800,
       "name": "El Destino",
       "url": "https://open.spotify.com/track/0UibSCifNVSf1tdP7YUj9Z"
-    },
-    {
-      "album": {
-        "name": "Juntos Otra Vez (with Juan Gabriel)",
-        "url": "https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "date_added": "2021-12-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 283760,
-      "name": "El Destino (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69"
     },
     {
       "album": {
@@ -1277,28 +1277,6 @@
     },
     {
       "album": {
-        "name": "El Concierto ... En Vivo",
-        "url": "https://open.spotify.com/album/1iCCRqIDPUoZ5fkaE8Rp5t"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "date_added": "2021-12-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200000,
-      "name": "Fue un Placer Conocerte (En Vivo) (with Juan Gabriel) - Desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/1k03B1u95i1n6Cf6DkfsBz"
-    },
-    {
-      "album": {
         "name": "Mi Historia Musical - Juan Gabriel",
         "url": "https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe"
       },
@@ -1318,6 +1296,28 @@
       "duration_ms": 190026,
       "name": "Fue un Placer Conocerte (En Vivo) - Desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/70dimICYQOFTG9tepBWBCR"
+    },
+    {
+      "album": {
+        "name": "El Concierto ... En Vivo",
+        "url": "https://open.spotify.com/album/1iCCRqIDPUoZ5fkaE8Rp5t"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Fue un Placer Conocerte (En Vivo) - Desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/1k03B1u95i1n6Cf6DkfsBz"
     },
     {
       "album": {
@@ -2625,7 +2625,7 @@
     },
     {
       "album": {
-        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+        "name": "Con Mariachi Vol.2",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
       "artists": [
@@ -2642,7 +2642,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209186,
-      "name": "Siempre Estoy Pensando en Ti (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+      "name": "Siempre Estoy Pensando en Ti",
       "url": "https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp"
     },
     {
@@ -2968,7 +2968,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221520,
-      "name": "Tiempo (with Jos\u00e9 Jos\u00e9)",
+      "name": "Tiempo",
       "url": "https://open.spotify.com/track/33kvjc4Mwb8Bw4spshLlE9"
     },
     {
@@ -3259,7 +3259,7 @@
     },
     {
       "album": {
-        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+        "name": "Con Mariachi Vol.2",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
       "artists": [

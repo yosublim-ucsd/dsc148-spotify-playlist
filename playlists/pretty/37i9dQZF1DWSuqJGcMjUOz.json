@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk",
+  "snapshot_id": "MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Ce soir l'amour est dans tes yeux",
+        "url": "https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ"
+      },
+      "artists": [
+        {
+          "name": "Martine St Clair",
+          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+        }
+      ],
+      "duration_ms": 393013,
+      "name": "L'amour est dans tes yeux",
+      "url": "https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Foufoune",
         "url": "https://open.spotify.com/album/6TbzA1mI1xWwcQwkprcE8I"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 179384,
       "name": "L'\u00e9norme chien tr\u00e8s gentil",
       "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Ce soir l'amour est dans tes yeux",
-        "url": "https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ"
-      },
-      "artists": [
-        {
-          "name": "Martine St Clair",
-          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
-        }
-      ],
-      "duration_ms": 393013,
-      "name": "L'amour est dans tes yeux",
-      "url": "https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Un jour de plus au paradis",
-        "url": "https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd"
-      },
-      "artists": [
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        },
-        {
-          "name": "Mister V",
-          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "Future Ex",
-      "url": "https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 186453,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Un jour de plus au paradis",
+        "url": "https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Future Ex",
+      "url": "https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pont Champlain",
-        "url": "https://open.spotify.com/album/1fumWxp522ocJH8odkks3L"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        }
-      ],
-      "duration_ms": 210296,
-      "name": "Pont Champlain",
-      "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Fleur de l'\u00c2ge",
         "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 173843,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pont Champlain",
+        "url": "https://open.spotify.com/album/1fumWxp522ocJH8odkks3L"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 210296,
+      "name": "Pont Champlain",
+      "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Cosmologie",
-        "url": "https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY"
-      },
-      "artists": [
-        {
-          "name": "Dumas",
-          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/3dnd5JpATGwY43MRiS0Kqw"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Magie \u00e0 minuit",
         "url": "https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 138855,
       "name": "+1 (feat. Meggie Lennon & Virginie B)",
       "url": "https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Cosmologie",
+        "url": "https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/3dnd5JpATGwY43MRiS0Kqw"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Soap Box",
-        "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Danser",
         "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 176626,
       "name": "Danser",
       "url": "https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Soap Box",
+        "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Emmanuelle",
-        "url": "https://open.spotify.com/album/6cCZfRWhDASJ01M6s1ZrQ4"
-      },
-      "artists": [
-        {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Non merci",
-      "url": "https://open.spotify.com/track/63ixPBQwY5w4gXvi7XU7Br"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "On est encore l\u00e0",
         "url": "https://open.spotify.com/album/5WrG6tjEad6q5cYJXuegQE"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 182934,
       "name": "De Matane \u00e0 Natashquan",
       "url": "https://open.spotify.com/track/6rykqHkuwL1s58P3LoqwD9"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Emmanuelle",
+        "url": "https://open.spotify.com/album/6cCZfRWhDASJ01M6s1ZrQ4"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Non merci",
+      "url": "https://open.spotify.com/track/63ixPBQwY5w4gXvi7XU7Br"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+      },
+      "artists": [
+        {
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "A\u00e9roplane",
+      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "\u00c0 pr\u00e9sent",
         "url": "https://open.spotify.com/album/4yCghmiyhqVae5mRq402br"
       },
@@ -1679,18 +1695,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+        "name": "Mitshuap",
+        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
       },
       "artists": [
         {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
         }
       ],
-      "duration_ms": 312653,
-      "name": "A\u00e9roplane",
-      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
+      "duration_ms": 240010,
+      "name": "Nimueshtaten nete",
+      "url": "https://open.spotify.com/track/5X9LT75w5F75O2XmsAn2Pp"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1723,26 +1743,6 @@
       "duration_ms": 258215,
       "name": "Toune 9",
       "url": "https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Mitshuap",
-        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
-      },
-      "artists": [
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
-        },
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 240010,
-      "name": "Nimueshtaten nete",
-      "url": "https://open.spotify.com/track/5X9LT75w5F75O2XmsAn2Pp"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "normal",
+        "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
+      },
+      "artists": [
+        {
+          "name": "blesse",
+          "url": "https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 257880,
+      "name": "creusercreuser",
+      "url": "https://open.spotify.com/track/6Z9RMVyBJkWnF6GlemwMIk"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 184946,
       "name": "Juillet",
       "url": "https://open.spotify.com/track/2C1YPDheJPxdmcheCMYvhP"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "normal",
-        "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
-      },
-      "artists": [
-        {
-          "name": "blesse",
-          "url": "https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge"
-        },
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 257880,
-      "name": "creusercreuser",
-      "url": "https://open.spotify.com/track/6Z9RMVyBJkWnF6GlemwMIk"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Petite fille devient grande",
-        "url": "https://open.spotify.com/album/0HkbzxdXq9eY7Bp4FzFkqf"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efma Frank",
-          "url": "https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23"
-        },
-        {
-          "name": "Liamliamliam",
-          "url": "https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw"
-        }
-      ],
-      "duration_ms": 152126,
-      "name": "T'es la reine",
-      "url": "https://open.spotify.com/track/1M4zFvJ4c7jJvvZ5FUCufg"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Or",
         "url": "https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e"
       },
@@ -2015,6 +1995,26 @@
       "duration_ms": 207058,
       "name": "Or",
       "url": "https://open.spotify.com/track/6kVJIh50Nw8zDXCQEWAkBT"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Petite fille devient grande",
+        "url": "https://open.spotify.com/album/0HkbzxdXq9eY7Bp4FzFkqf"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efma Frank",
+          "url": "https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23"
+        },
+        {
+          "name": "Liamliamliam",
+          "url": "https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw"
+        }
+      ],
+      "duration_ms": 152126,
+      "name": "T'es la reine",
+      "url": "https://open.spotify.com/track/1M4zFvJ4c7jJvvZ5FUCufg"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pissenlit",
-        "url": "https://open.spotify.com/album/5lBRmRxZcZ6TiJojHxruCW"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Bordel",
-          "url": "https://open.spotify.com/artist/27jvdhJdj3wXIiNX2nomDG"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "Pissenlit",
-      "url": "https://open.spotify.com/track/4nLXhQZ8SRe0lrHUupoycA"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "El Futuro Es Tribal",
         "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 307337,
       "name": "Breath Of Fire",
       "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pissenlit",
+        "url": "https://open.spotify.com/album/5lBRmRxZcZ6TiJojHxruCW"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Bordel",
+          "url": "https://open.spotify.com/artist/27jvdhJdj3wXIiNX2nomDG"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Pissenlit",
+      "url": "https://open.spotify.com/track/4nLXhQZ8SRe0lrHUupoycA"
     },
     {
       "added_at": "2023-05-25 23:46:15",

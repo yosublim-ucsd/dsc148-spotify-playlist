@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 61391,
+  "num_followers": 61463,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDNlZWJmMmEyNjVkYmYxMDJmYzI3NDliZDAwYWJlZTRkMWNiZjkw",
+  "snapshot_id": "MCwwYzM4YzQxNTI5ZjUxOTg5MmMxZmI4M2M2YTE1YzAzNmU1MDJlOWUw",
   "tracks": [
     {
       "added_at": "2023-08-23 10:28:38",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Backlash Blues",
+      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
         "name": "Still Got The Blues",
         "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Backlash Blues",
-      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -259,6 +259,22 @@
       "duration_ms": 297893,
       "name": "Set Sail part I (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Tin Pan Alley",
+        "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim",
+          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
+        }
+      ],
+      "duration_ms": 322026,
+      "name": "Cold Hearted Woman",
+      "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -295,22 +311,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Tin Pan Alley",
-        "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim",
-          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "Cold Hearted Woman",
-      "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Born Under A Bad Sign",
         "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 432200,
       "name": "Married To The Blues",
       "url": "https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "T-Bone Blues",
-      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -439,6 +423,22 @@
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "T-Bone Blues",
+      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
-        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 566960,
-      "name": "12:15 Slow Goonbash Blues",
-      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "The Last Of The Blue Devils",
         "url": "https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 170800,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
+        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 566960,
+      "name": "12:15 Slow Goonbash Blues",
+      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
         "name": "Driving Wheel",
         "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
       },
@@ -879,42 +895,6 @@
       "duration_ms": 198560,
       "name": "Dr. Feelgood (Love Is Serious Business)",
       "url": "https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
-        "name": "The Blues Album",
-        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
-        {
-          "name": "Mike Farris",
-          "url": "https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o"
-        }
-      ],
-      "duration_ms": 289266,
-      "name": "I Don't Know What You've Got",
-      "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -951,6 +931,26 @@
       "duration_ms": 287666,
       "name": "A Few Good Years",
       "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "The Blues Album",
+        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Mike Farris",
+          "url": "https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "I Don't Know What You've Got",
+      "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "That's It! / Duke Recordings Vol. III",
-        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "A Touch Of The Blues - Single Version",
-      "url": "https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 210851,
       "name": "Love & Devotion",
       "url": "https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "A Touch Of The Blues - Single Version",
+      "url": "https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo"
     }
   ],
   "unique_name": "Healin' Blues",

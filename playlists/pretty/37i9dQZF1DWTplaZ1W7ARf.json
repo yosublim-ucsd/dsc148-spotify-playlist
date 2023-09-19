@@ -1,12 +1,12 @@
 {
   "description": "Neighborhood Storytellers. Cover: DeeBaby",
-  "num_followers": 55820,
+  "num_followers": 55832,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjZkY2IzM2MwODI4MzQ0NDlhNTJjYjYwNDlmODEwMjdmOGI3ZmNj",
+  "snapshot_id": "MCw5MDIyZWFlOTlhNTE3OWM1ODdlYTA3ODM3Y2E0OTE1YTk5OTI1NTc1",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -18,15 +18,11 @@
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
         }
       ],
-      "duration_ms": 163935,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/7ry34dFOuoK2c5GoYWWsl3"
+      "duration_ms": 166578,
+      "name": "Boyz Don't Cry",
+      "url": "https://open.spotify.com/track/2z2gqgwu1GCurpZJYzcytE"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -47,22 +43,6 @@
       "duration_ms": 173458,
       "name": "WTF (feat. Polo G) - Remix",
       "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Junkie Mode",
-        "url": "https://open.spotify.com/album/1Q9ZaQpLOmVAhq2bHhOp03"
-      },
-      "artists": [
-        {
-          "name": "DeeBaby",
-          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
-        }
-      ],
-      "duration_ms": 223158,
-      "name": "Never Gon' End",
-      "url": "https://open.spotify.com/track/2NYzTjbXL17B1ulwQSIi6P"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -97,20 +77,20 @@
       "url": "https://open.spotify.com/track/4zivXJkUD87842VhywHGFn"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+        "name": "Junkie Mode",
+        "url": "https://open.spotify.com/album/1Q9ZaQpLOmVAhq2bHhOp03"
       },
       "artists": [
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+          "name": "DeeBaby",
+          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
         }
       ],
-      "duration_ms": 166578,
-      "name": "Boyz Don't Cry",
-      "url": "https://open.spotify.com/track/2z2gqgwu1GCurpZJYzcytE"
+      "duration_ms": 223158,
+      "name": "Never Gon' End",
+      "url": "https://open.spotify.com/track/2NYzTjbXL17B1ulwQSIi6P"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -131,46 +111,6 @@
       "duration_ms": 216250,
       "name": "Dancing With The Devil, Pt. 2",
       "url": "https://open.spotify.com/track/2laOkDCyIDDmXxtGqrql6V"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Beat the Odds Pt 2 (feat. Polo G)",
-      "url": "https://open.spotify.com/track/1vHzUmqpA2tgO1OGtBuItX"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 145317,
-      "name": "I THINK (FEAT. LIL BABY)",
-      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -199,22 +139,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "i was just thinking",
-      "url": "https://open.spotify.com/track/5QG0l8nybp5rLMo7saQHl2"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "June 22nd",
         "url": "https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC"
       },
@@ -229,24 +153,44 @@
       "url": "https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "4 The Trenches",
-        "url": "https://open.spotify.com/album/3Uqp9nAzjdY5Ew55jk0bCg"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
       },
       "artists": [
         {
-          "name": "Lil Zay Osama",
-          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Need Prescriptions (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn"
+      "duration_ms": 163935,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7ry34dFOuoK2c5GoYWWsl3"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Beat the Odds Pt 2 (feat. Polo G)",
+      "url": "https://open.spotify.com/track/1vHzUmqpA2tgO1OGtBuItX"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -267,6 +211,62 @@
       "duration_ms": 156821,
       "name": "Pain Talk (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 145317,
+      "name": "I THINK (FEAT. LIL BABY)",
+      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "i was just thinking",
+      "url": "https://open.spotify.com/track/5QG0l8nybp5rLMo7saQHl2"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "4 The Trenches",
+        "url": "https://open.spotify.com/album/3Uqp9nAzjdY5Ew55jk0bCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Need Prescriptions (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn"
     },
     {
       "added_at": "2023-09-15 04:00:00",

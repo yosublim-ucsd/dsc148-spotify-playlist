@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,645 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,867 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Vroeger](https://open.spotify.com/track/4ZxRhotBmIcc1WUCdSJIQt) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Vroeger](https://open.spotify.com/album/2tKIKvy498Gp8pqsfYobV4) | 2:44 |
 | 100 | [Stil In Mij](https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout](https://open.spotify.com/album/74dehe0e0Thai6kw4u0Jrc) | 4:04 |
 
-Snapshot ID: `MCwyMzMxMzgzMjJkN2MyY2I4ZGYyNGE5ZDhlODcwYjdiYmU5ZGNjNDk5`
+Snapshot ID: `MCwxNWU4YjZiNTBmMzA0ZGE2Yjg4MzMzNjk2MzJkMzBjNDIzZjM2YTEx`

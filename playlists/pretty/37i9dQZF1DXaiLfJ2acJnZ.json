@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 41501,
+  "num_followers": 41544,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODlkZWM4MWQzM2MyM2IzZWZjNjAzN2YwZGUxYjFjYWVjMGE5MjFj",
+  "snapshot_id": "MCw5YThjMjU1MTE3YzUxOGM0YTk1ZmUxMWE1ZjBhMDc0MzQ0MTA1NDk4",
   "tracks": [
     {
       "added_at": "2023-09-12 15:27:53",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "AOK",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Mama's Boy",
         "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 155721,
       "name": "Mama's Boy",
       "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "pick up the phone",
         "url": "https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
+        "name": "Antichrist / Room Service",
+        "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 226125,
+      "name": "Room Service",
+      "url": "https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
         "name": "1,000,000 X Better",
         "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Antichrist / Room Service",
-        "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
+        "name": "Can I Jump?",
+        "url": "https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
         }
       ],
-      "duration_ms": 226125,
-      "name": "Room Service",
-      "url": "https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H"
+      "duration_ms": 223851,
+      "name": "Can I Jump?",
+      "url": "https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Can I Jump?",
-        "url": "https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 223851,
-      "name": "Can I Jump?",
-      "url": "https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Are You Awake?",
         "url": "https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4"
       },
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+        "name": "Kiss You",
+        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
       },
       "artists": [
         {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
         }
       ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+      "duration_ms": 152506,
+      "name": "Kiss You",
+      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -1059,18 +1059,34 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Kiss You",
-        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
       },
       "artists": [
         {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
         }
       ],
-      "duration_ms": 152506,
-      "name": "Kiss You",
-      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "A Little Lost, A Little Found",
+        "url": "https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0cfq3yjm24XfxqcWzRjlQd"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -1103,22 +1119,6 @@
       "duration_ms": 214517,
       "name": "Balance",
       "url": "https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
-        "name": "A Little Lost, A Little Found",
-        "url": "https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/0cfq3yjm24XfxqcWzRjlQd"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 214768,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
       },
@@ -1283,22 +1267,18 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Muscle Memory (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj"
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/4bWSZ7R7QNz8IaKFGubrS2"
       },
       "artists": [
         {
-          "name": "KAMILLE",
-          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
         }
       ],
-      "duration_ms": 211049,
-      "name": "Muscle Memory (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"
+      "duration_ms": 230389,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/1OtMbCkhY89wSn3kcWdQNN"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -1315,6 +1295,22 @@
       "duration_ms": 167550,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 214768,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
     }
   ],
   "unique_name": "Wholesome",

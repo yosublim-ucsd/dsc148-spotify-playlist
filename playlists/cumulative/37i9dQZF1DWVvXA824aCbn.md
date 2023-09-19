@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-446 songs - 1 day 4 hr 57 min
+447 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Moonlight In Vermont](https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Moonlight In Vermont](https://open.spotify.com/album/3XYrxBccjXCVDiFwgfc4Dd) | 2:48 | 2023-08-24 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-17 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-10 | 2023-01-06 |
+| [Moved by Performance](https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Moved by Performance](https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn) | 2:38 | 2023-09-08 |  |
 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-01-05 |  |
 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 | 2020-10-20\* | 2021-01-21 |
 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 | 2021-01-21 | 2022-05-25 |
@@ -282,7 +283,7 @@
 | [my romance](https://open.spotify.com/track/1jUutuE0MOLuCYq8K7WKcB) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:27 | 2020-10-20\* | 2021-01-21 |
 | [My Romance](https://open.spotify.com/track/536cUtbCGI3ic8xqGQTsry) | [Red Rose Jazz Trio](https://open.spotify.com/artist/18pdfLWgThCHa9DBN1OcwW) | [My Romance](https://open.spotify.com/album/6qW9Bj24JVdDcoUl2JH6UC) | 6:32 | 2020-10-20\* | 2020-11-18 |
 | [My Shining Hour](https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [My Shining Hour](https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1) | 2:23 | 2023-08-10 |  |
-| [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |
+| [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 | 2023-09-19 |
 | [Never Let Me Go](https://open.spotify.com/track/3jBc8ArlFCzEKc7nATMJUO) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Setting Standards \- The New York Sessions](https://open.spotify.com/album/1C9O7ymr3OoPhu60riKr8m) | 7:49 | 2021-01-21 | 2021-06-18 |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2021-07-02 |  |
 | [Newspapers Heads](https://open.spotify.com/track/5Zthx9hZRFSJRhO0UEi8Ox) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Newspapers Heads](https://open.spotify.com/album/7tuJ3IScGPnWvBio5JV98x) | 4:02 | 2023-06-08 |  |

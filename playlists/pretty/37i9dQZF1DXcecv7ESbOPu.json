@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag! Lyssna p\u00e5 veckans hetaste nya releaser i New Music Friday!",
-  "num_followers": 199913,
+  "num_followers": 199917,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzhiMzg2OGE0ZWEzZmM2ODM0YWVjNTYzOTkzZWMxNDlmNjgyMWFk",
+  "snapshot_id": "MCw3OGM0MDAyOTZlNjk1NWIxYTg2ZjdiYTk4YTc5ZGZhMmRlOTY1MDBi",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -940,12 +940,12 @@
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
           "name": "K-Trap",
           "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
         }
       ],
       "duration_ms": 202221,

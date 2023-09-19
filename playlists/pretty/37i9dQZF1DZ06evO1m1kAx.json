@@ -1,15 +1,15 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 4250,
+  "num_followers": 4265,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDYzNTAsMDAwMDAwMDAwY2YyOWVjNDI4MTM2M2RjZTVkNTQ2MTVmNGYzMTFiMQ==",
+  "snapshot_id": "MjgyNTA2NTIsMDAwMDAwMDA5ZWVkYjA4MDE0MzVjNWQ0ZDlhZWE3NTliNzFmY2U1MA==",
   "tracks": [
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "REWIND. SELECT. UPDATE",
         "url": "https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Gongo Aso",
         "url": "https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/18733EhJ3aCTkRDtNpCq01"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
@@ -169,47 +169,7 @@
       "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
-      "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 303847,
-      "name": "Possibility",
-      "url": "https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj"
-    },
-    {
-      "added_at": "2023-09-15 12:30:50",
-      "album": {
-        "name": "Grass 2 Grace",
-        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx"
-    },
-    {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
@@ -229,7 +189,47 @@
       "url": "https://open.spotify.com/track/4K7YdhjGizm9Qp1aNLGnRj"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 303847,
+      "name": "Possibility",
+      "url": "https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Baba Nla",
         "url": "https://open.spotify.com/album/4VMCzDpzW1LRJjDLIGWRXN"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/741bGvXuyaHaiFZrVEtLza"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/7FQecMcIQ2oB7dMaW0MYJ2"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Unstoppable International",
         "url": "https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/6EolsZ9HttNVTonF1bWxqa"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Gaga Shuffle",
         "url": "https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO"
@@ -329,7 +329,63 @@
       "url": "https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 286866,
+      "name": "E Be Like Say",
+      "url": "https://open.spotify.com/track/0ZYKnsD8GoiU5tHki9T7Fn"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 209789,
+      "name": "Implication",
+      "url": "https://open.spotify.com/track/0ZORrd5CsTwRg0UP1bn3Tm"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Mad Over Hills",
         "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
@@ -357,63 +413,7 @@
       "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
-      "album": {
-        "name": "Grass 2 Grace",
-        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 286866,
-      "name": "E Be Like Say",
-      "url": "https://open.spotify.com/track/0ZYKnsD8GoiU5tHki9T7Fn"
-    },
-    {
-      "added_at": "2023-09-15 12:30:50",
-      "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 209789,
-      "name": "Implication",
-      "url": "https://open.spotify.com/track/0ZORrd5CsTwRg0UP1bn3Tm"
-    },
-    {
-      "added_at": "2023-09-15 12:30:50",
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
-    },
-    {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Worry Me",
         "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
@@ -477,7 +477,43 @@
       "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 289384,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/4cpQzHK4clbqMSQ1xBDpMY"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "HI Idibia",
+          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
+        }
+      ],
+      "duration_ms": 237740,
+      "name": "Oyi (feat. HI Idibia)",
+      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
@@ -501,43 +537,7 @@
       "url": "https://open.spotify.com/track/4xdmkDKb0Lb1ModZvup6QZ"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "HI Idibia",
-          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
-        }
-      ],
-      "duration_ms": 237740,
-      "name": "Oyi (feat. HI Idibia)",
-      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
-    },
-    {
-      "added_at": "2023-09-15 12:30:50",
-      "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 289384,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/4cpQzHK4clbqMSQ1xBDpMY"
-    },
-    {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Oya Come Make We Go",
         "url": "https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "AWAY & BEYOND",
         "url": "https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/71nvD9S3qUai7oeccEL9ZM"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Unstoppable International",
         "url": "https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/6ZkdaJngSzMQrr2u9hvLeQ"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Cupid Stories",
         "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "AWAY & BEYOND",
         "url": "https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/1A2wFAONqaU2BrzmFVqZQS"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/1Q2opiQfdZIP9DvBZNryG7"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/52vFTpJ6BRTSMI9K9IwI4f"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/5qorlwtXy1nBY2kvhwkXdu"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/12QrAlDPrS5WWPEal9q4Ph"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "AWAY & BEYOND",
         "url": "https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/5IUBYuJQMaGUadUNws4czB"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "The Chairman",
         "url": "https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Gobe",
         "url": "https://open.spotify.com/album/3hTOBsaYYVsm26E0fEgO8v"
@@ -773,27 +773,7 @@
       "url": "https://open.spotify.com/track/4WLIbmoXbHuxc6CNI8dD1V"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 199650,
-      "name": "Suffer Head",
-      "url": "https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9"
-    },
-    {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "UNSTOPPABLE",
         "url": "https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07"
@@ -809,7 +789,7 @@
       "url": "https://open.spotify.com/track/7MSVDXYBOceVmsOerJLftY"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Living In Bondage: Breaking Free (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/02HStQTLfp51GIyIITSmqI"
@@ -829,23 +809,27 @@
       "url": "https://open.spotify.com/track/2KTvN7dNLjejLDftqV3LMm"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
-        "name": "Holy Holy",
-        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
       "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 267318,
-      "name": "Holy Holy",
-      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
+      "duration_ms": 199650,
+      "name": "Suffer Head",
+      "url": "https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
@@ -869,30 +853,10 @@
       "url": "https://open.spotify.com/track/3jDiJeeFb0Q81eqBzAzKHt"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
-        "name": "UNSTOPPABLE",
-        "url": "https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Ehi Idibia",
-          "url": "https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix"
-        }
-      ],
-      "duration_ms": 230191,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/69koGdRVayRzMDWNyIKQYt"
-    },
-    {
-      "added_at": "2023-09-15 12:30:50",
-      "album": {
-        "name": "REWIND. SELECT. UPDATE",
-        "url": "https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6"
+        "name": "Holy Holy",
+        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
       },
       "artists": [
         {
@@ -900,28 +864,12 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 247240,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/04DolW3ekpEkVDL5fb26Y3"
+      "duration_ms": 267318,
+      "name": "Holy Holy",
+      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
-      "album": {
-        "name": "Officially Blind",
-        "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Officially Blind",
-      "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
-    },
-    {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "W.E.E.D.",
         "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
@@ -941,7 +889,59 @@
       "url": "https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z"
     },
     {
-      "added_at": "2023-09-15 12:30:50",
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Ehi Idibia",
+          "url": "https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix"
+        }
+      ],
+      "duration_ms": 230191,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/69koGdRVayRzMDWNyIKQYt"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "Officially Blind",
+        "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Officially Blind",
+      "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "REWIND. SELECT. UPDATE",
+        "url": "https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 247240,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/04DolW3ekpEkVDL5fb26Y3"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
       "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/4ImJy9yLwIoS5IaLX2tyzG"
@@ -955,6 +955,26 @@
       "duration_ms": 243408,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2ZHqDc1DTTRF3enwT0NLmt"
+    },
+    {
+      "added_at": "2023-09-18 12:12:11",
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/1QLLC5ZGukhxLehg8dFE62"
+      },
+      "artists": [
+        {
+          "name": "9ice",
+          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 307696,
+      "name": "Life Is Beautiful (feat. 2baba)",
+      "url": "https://open.spotify.com/track/5pAU0AC3qNiORdnXO2kDOg"
     }
   ],
   "unique_name": "This Is 2Baba",

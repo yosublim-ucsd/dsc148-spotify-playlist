@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1623034,
+  "num_followers": 1623076,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDRjZTZhZTkyNjZhZDA5MjBlNmU2Y2I3Y2YwYzU5NmY3ZTU0MmZj",
+  "snapshot_id": "MCw2MjZjZjQyNGM5OTQwM2I0MmE5MGY1NTI4NDgyOTk5MjFlYzVhNjEz",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -243,6 +243,30 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Sentry (feat. MIKE)",
+        "url": "https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 141186,
+      "name": "Sentry (feat. MIKE)",
+      "url": "https://open.spotify.com/track/5L2zGgJi9BlL3CjVF4KL7W"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -287,30 +311,6 @@
       "duration_ms": 264217,
       "name": "The Star Room (OG Version) - Bonus Track",
       "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Sentry (feat. MIKE)",
-        "url": "https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 141186,
-      "name": "Sentry (feat. MIKE)",
-      "url": "https://open.spotify.com/track/5L2zGgJi9BlL3CjVF4KL7W"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -387,6 +387,42 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Making The Band (Danity Kane)",
+        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 105999,
+      "name": "Making The Band (Danity Kane)",
+      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -431,38 +467,30 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Making The Band (Danity Kane)",
-        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+        "name": "MAYNARD VIGNETTE [Feat. T.I., JID, and Jacquees]",
+        "url": "https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 105999,
-      "name": "Making The Band (Danity Kane)",
-      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         },
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
+      "duration_ms": 288018,
+      "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
+      "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -531,6 +559,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 194397,
+      "name": "Based On True Events, Pt. 2",
+      "url": "https://open.spotify.com/track/6VIF7IamWzKuMlEcW6Bmw8"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
       },
@@ -543,66 +587,6 @@
       "duration_ms": 162162,
       "name": "Flow",
       "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 180046,
-      "name": "What This All Really Means",
-      "url": "https://open.spotify.com/track/6IkrEMj1yTPyZr5bk8PmGF"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "MAYNARD VIGNETTE [Feat. T.I., JID, and Jacquees]",
-        "url": "https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 288018,
-      "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
-      "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 137197,
-      "name": "black mirror",
-      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -623,6 +607,54 @@
       "duration_ms": 249266,
       "name": "Dangerous Daringer",
       "url": "https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "TEXAS BOY",
+        "url": "https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 174576,
+      "name": "ALL 4 YOU",
+      "url": "https://open.spotify.com/track/6PTEIszOGU733zIulViPjo"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 137197,
+      "name": "black mirror",
+      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 180046,
+      "name": "What This All Really Means",
+      "url": "https://open.spotify.com/track/6IkrEMj1yTPyZr5bk8PmGF"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -655,22 +687,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "TEXAS BOY",
-        "url": "https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 174576,
-      "name": "ALL 4 YOU",
-      "url": "https://open.spotify.com/track/6PTEIszOGU733zIulViPjo"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Elephant Man's Bones The ALC Edition",
         "url": "https://open.spotify.com/album/1G0ESeSyFudOH7k6xzfreh"
       },
@@ -687,38 +703,6 @@
       "duration_ms": 151360,
       "name": "Turkey Wings - Bonus Track",
       "url": "https://open.spotify.com/track/3MjtBnv45fIRRo9Qp9ul3C"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "beauty supply",
-      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 210624,
-      "name": "Slow it Down",
-      "url": "https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -743,6 +727,22 @@
       "duration_ms": 179200,
       "name": "Bless (feat. MIKE & Sideshow)",
       "url": "https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "beauty supply",
+      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Round Trip",
+        "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 194289,
+      "name": "Life & Times",
+      "url": "https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Harlem World 97 (feat. Estelle)",
         "url": "https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF"
       },
@@ -799,22 +819,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Round Trip",
-        "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
+        "name": "Since Elementary",
+        "url": "https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs"
       },
       "artists": [
         {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
         }
       ],
-      "duration_ms": 194289,
-      "name": "Life & Times",
-      "url": "https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f"
+      "duration_ms": 204000,
+      "name": "SINCE ELEMENTARY",
+      "url": "https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -835,22 +851,6 @@
       "duration_ms": 200775,
       "name": "Super Rare (feat. Hello O'Shay)",
       "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Since Elementary",
-        "url": "https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs"
-      },
-      "artists": [
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "SINCE ELEMENTARY",
-      "url": "https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk"
     },
     {
       "added_at": "2023-09-15 04:00:00",

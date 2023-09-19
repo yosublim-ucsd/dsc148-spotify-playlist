@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 49625,
+  "num_followers": 49637,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWY1MjYyNDBjNWU1MmY3Y2VjNWVhMzk2ODdkYzJiNTRiYWIxZjIw",
+  "snapshot_id": "MCxmYTU4OTgyOTY5MTk5ZDk2MWQ3MDUyZjk5NzdmNjA0NTAyZWUyNDYx",
   "tracks": [
     {
       "added_at": "2023-09-14 15:00:00",
@@ -919,38 +919,6 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Shroud of Night",
-        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 199136,
-      "name": "Shroud of Night",
-      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
-    },
-    {
-      "added_at": "2023-09-14 15:00:00",
-      "album": {
-        "name": "BTTB - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 270281,
-      "name": "aqua",
-      "url": "https://open.spotify.com/track/2Txp8hmiT3aqzD7CBjILo2"
-    },
-    {
-      "added_at": "2023-09-14 15:00:00",
-      "album": {
         "name": "N\u00e9o-Romance",
         "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
@@ -967,22 +935,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "\u30b7\u30e5\u30fc\u30de\u30f3:\u5b50\u4f9b\u306e\u305f\u3081\u306e\u30a2\u30eb\u30d0\u30e0 \u4f5c\u54c168",
-        "url": "https://open.spotify.com/album/0yQZwie71PZbGkbFQoVc9W"
+        "name": "BTTB - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J"
       },
       "artists": [
         {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Masako Ezaki",
-          "url": "https://open.spotify.com/artist/200Ts1yadzJtWxmdKWSBL2"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 124533,
-      "name": "\u5b50\u4f9b\u306e\u305f\u3081\u306e\u30a2\u30eb\u30d0\u30e0 \u4f5c\u54c1 68\u7b2c1\u90e8 \u5e7c\u3044\u5b50\u4f9b\u305f\u3061\u306e\u305f\u3081\u306b 14 \u5c0f\u3055\u306a\u7df4\u7fd2\u66f2",
-      "url": "https://open.spotify.com/track/6nApb9nOQevkIVX0hQcZC9"
+      "duration_ms": 270281,
+      "name": "aqua",
+      "url": "https://open.spotify.com/track/2Txp8hmiT3aqzD7CBjILo2"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1007,6 +971,42 @@
       "duration_ms": 212000,
       "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
       "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
+        "name": "\u30b7\u30e5\u30fc\u30de\u30f3:\u5b50\u4f9b\u306e\u305f\u3081\u306e\u30a2\u30eb\u30d0\u30e0 \u4f5c\u54c168",
+        "url": "https://open.spotify.com/album/0yQZwie71PZbGkbFQoVc9W"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Masako Ezaki",
+          "url": "https://open.spotify.com/artist/200Ts1yadzJtWxmdKWSBL2"
+        }
+      ],
+      "duration_ms": 124533,
+      "name": "\u5b50\u4f9b\u306e\u305f\u3081\u306e\u30a2\u30eb\u30d0\u30e0 \u4f5c\u54c1 68\u7b2c1\u90e8 \u5e7c\u3044\u5b50\u4f9b\u305f\u3061\u306e\u305f\u3081\u306b 14 \u5c0f\u3055\u306a\u7df4\u7fd2\u66f2",
+      "url": "https://open.spotify.com/track/6nApb9nOQevkIVX0hQcZC9"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
+        "name": "Shroud of Night",
+        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 199136,
+      "name": "Shroud of Night",
+      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 215306,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 215306,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
-        "url": "https://open.spotify.com/album/5oFks9ZFUYBv8Ia3pkmtuX"
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 323858,
-      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
-      "url": "https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz"
+      "duration_ms": 285839,
+      "name": "To Rage",
+      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+        "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
+        "url": "https://open.spotify.com/album/5oFks9ZFUYBv8Ia3pkmtuX"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
         }
       ],
-      "duration_ms": 285839,
-      "name": "To Rage",
-      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
+      "duration_ms": 323858,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1563,26 +1563,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Broken Glass, Vol. 4",
-        "url": "https://open.spotify.com/album/7cEPdM4kRFt7SUCrBZggKi"
+        "name": "TRAVELIN'",
+        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
       "artists": [
         {
-          "name": "Goodwerks",
-          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
-        },
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
         }
       ],
-      "duration_ms": 218444,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/1AtjxPzkAPSWqmLagnNlLN"
+      "duration_ms": 217846,
+      "name": "TRAVELIN'",
+      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1603,18 +1595,26 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "TRAVELIN'",
-        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
+        "name": "Broken Glass, Vol. 4",
+        "url": "https://open.spotify.com/album/7cEPdM4kRFt7SUCrBZggKi"
       },
       "artists": [
         {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        },
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
         }
       ],
-      "duration_ms": 217846,
-      "name": "TRAVELIN'",
-      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
+      "duration_ms": 218444,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/1AtjxPzkAPSWqmLagnNlLN"
     },
     {
       "added_at": "2023-09-14 15:00:00",

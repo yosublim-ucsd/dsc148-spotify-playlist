@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Baroness
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,576 likes - 56 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,691 likes - 56 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Distant Waves](https://open.spotify.com/track/5kBMOpNbqdLUlUwQgQeAwv) | [Red Eleven](https://open.spotify.com/artist/7cnALV9yew7PFrxC9eGYf1) | [Distant Waves](https://open.spotify.com/album/2lhzgPkqt0DCXKHb2l4OVB) | 5:15 |
 | 56 | [Rush Of Air](https://open.spotify.com/track/3rGf6Qrvb8ac35Vpp71T0P) | [BÖSE FUCHS](https://open.spotify.com/artist/2zhS9INQenkgCHhqof9jIZ) | [Rush Of Air](https://open.spotify.com/album/1nG6c6UoaXyYwwpGaxIlww) | 3:39 |
 
-Snapshot ID: `MCxmN2Q4NmI1MDBhOGEwOGYxMTBlZWZiMmMwYWE5NTMyMmNmYmFlOTQy`
+Snapshot ID: `MCw0NWExNmY0NzQyMTAwODE2ZGNmOTk0YWNkYWU3ZmVkZjAwZDYyOWM5`

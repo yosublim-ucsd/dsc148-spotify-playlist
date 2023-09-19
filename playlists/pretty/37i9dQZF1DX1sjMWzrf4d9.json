@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ\">Ziwe Fumudoh</a>",
-  "num_followers": 1419,
+  "num_followers": 1422,
   "original_name": "Ziwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWU0MTFiMzJmNDg5MmRiYTRjN2FkYWVmYzFkYmY2ZTE5M2Y0MTMy",
+  "snapshot_id": "MCwyOTY3NDhhODA4MTA2NGE0YTI2ZTQ1Mzc0MDJlMWQ0M2RkZmVmYzk4",
   "tracks": [
     {
       "added_at": "2022-12-01 09:00:00",
@@ -47,26 +47,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Olivia",
-          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Candy Shop",
-      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Dark Lane Demo Tapes",
         "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 220487,
       "name": "Chicago Freestyle (feat. Giveon)",
       "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -655,22 +635,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 314631,
-      "name": "Diamonds Dancing",
-      "url": "https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa"
+      "duration_ms": 231173,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -759,6 +739,26 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 314631,
+      "name": "Diamonds Dancing",
+      "url": "https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "The Hits",
         "url": "https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7"
       },
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
-        }
-      ],
-      "duration_ms": 419306,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/3d8PDk3B4am5c6TsUCznUW"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Throw A Fit",
         "url": "https://open.spotify.com/album/2kGxRa3ut2AMvo1fdoUeuK"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 225000,
       "name": "4th Baby Mama",
       "url": "https://open.spotify.com/track/3WSBP6JEf4Y2aKD2swQ8AG"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "duration_ms": 419306,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/3d8PDk3B4am5c6TsUCznUW"
     },
     {
       "added_at": "2022-12-01 09:00:00",

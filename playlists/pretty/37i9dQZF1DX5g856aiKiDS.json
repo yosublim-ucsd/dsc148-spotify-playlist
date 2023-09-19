@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 477170,
+  "num_followers": 477248,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGQyM2IyZjA1M2U0YjdlNjc1YjFjODg1Mzg3MzAyOGQwYTM0YWI4",
+  "snapshot_id": "MCxlYWZlMjRkNjVhMDlhNzU0NzYwMTZmZWMzYjY5MzRkNmIwZDRiZGVh",
   "tracks": [
     {
       "added_at": "2023-09-15 04:51:43",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-09-15 04:51:43",
       "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 271215,
+      "name": "Popo (How deep is our love?)",
+      "url": "https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z"
+    },
+    {
+      "added_at": "2023-09-15 04:51:43",
+      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-09-15 04:51:43",
       "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 271215,
-      "name": "Popo (How deep is our love?)",
-      "url": "https://open.spotify.com/track/3qDlb0Fo29MtPKsr5sT80Z"
-    },
-    {
-      "added_at": "2023-09-15 04:51:43",
-      "album": {
         "name": "cocoa",
         "url": "https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-15 04:51:43",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
-    },
-    {
-      "added_at": "2023-09-15 04:51:43",
-      "album": {
         "name": "Rain Song",
         "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
       },
@@ -719,6 +703,38 @@
       "duration_ms": 243785,
       "name": "Rain Song (Feat. Colde)",
       "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
+    },
+    {
+      "added_at": "2023-09-15 04:51:43",
+      "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+    },
+    {
+      "added_at": "2023-09-15 04:51:43",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2023-09-15 04:51:43",
@@ -815,8 +831,8 @@
     {
       "added_at": "2023-09-15 04:51:43",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
       },
       "artists": [
         {
@@ -824,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
     },
     {
       "added_at": "2023-09-15 04:51:43",
@@ -887,26 +903,6 @@
     {
       "added_at": "2023-09-15 04:51:43",
       "album": {
-        "name": "Fxxxnds",
-        "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
-      "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
-    },
-    {
-      "added_at": "2023-09-15 04:51:43",
-      "album": {
         "name": "Only U",
         "url": "https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0"
       },
@@ -931,18 +927,18 @@
     {
       "added_at": "2023-09-15 04:51:43",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "MoonMoon",
+          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
         }
       ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+      "duration_ms": 188196,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
     }
   ],
   "unique_name": "Dalkom Cafe",

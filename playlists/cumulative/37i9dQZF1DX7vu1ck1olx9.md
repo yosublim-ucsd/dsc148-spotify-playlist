@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-156 songs - 6 hr 26 min
+157 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dignity](https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:10 | 2020-11-12 |  |
 | [Dignity](https://open.spotify.com/track/3OA9r5uxc2wgI9XWY1RzCz) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/6WYT84o6iLdOkuYTU6858W) | 3:10 | 2020-11-12 | 2022-07-10 |
 | [Distune](https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Distune](https://open.spotify.com/album/4RXlSA1QjJgT7IgpyqG7vc) | 1:58 | 2020-11-12 | 2023-09-18 |
-| [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 | 2022-06-24 |  |
+| [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 | 2022-06-24 | 2023-09-19 |
 | [Dreaming](https://open.spotify.com/track/5m0yoVmVM1RbqhDHOmtYFc) | [Neotic](https://open.spotify.com/artist/55SjXjCJHjUeSpgY0Wepfd) | [Siberia](https://open.spotify.com/album/6AsQWm786mT8dAS1UO4Jnl) | 1:46 | 2020-11-12 | 2022-07-29 |
 | [Dreams](https://open.spotify.com/track/7lRsXfGnY0PBSxVMIxuHME) | [Joakim Karud](https://open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF) | [Dreams](https://open.spotify.com/album/38TJ5X61VQmV0jPkiE786Q) | 3:10 | 2020-11-12 |  |
 | [Egyptian Pools](https://open.spotify.com/track/0apbliJUvsg6R6l126454r) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Meditation](https://open.spotify.com/album/45vmwHPfY2GXUo098coEyg) | 2:10 | 2020-11-12 |  |
@@ -163,6 +163,7 @@
 | [walk in the park](https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [walk in the park](https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ) | 3:00 | 2021-02-05 | 2023-08-22 |
 | [weak](https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:11 | 2020-11-12 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/1BvSkVrXtnjTuyTR4Qa8be) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 2:01 | 2020-11-12 | 2023-09-16 |
+| [Wish You Were Mine](https://open.spotify.com/track/1ZHRUXw3f03W6YM3vQ3ehv) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [1 Am\. Study Session](https://open.spotify.com/album/6a1N8QyPPdXy1cmicmWktX) | 2:01 | 2020-11-12 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/1eHx0urYJo0Tzo2DABMvkj) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [1 Am\. Study Session](https://open.spotify.com/album/6XyaVDkZeCWf14x0eESZdl) | 2:01 | 2020-11-12 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 11 min
+78 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bær](https://open.spotify.com/track/2bsu3fYomQAYvWChwCedR7) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 3:17 | 2023-02-01 |  |
 | [Call Me Joker](https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 4:48 | 2023-02-01 |  |
 | [Cana](https://open.spotify.com/track/31HQUaMVQCOCLCJhjpHFBX) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mary Magdalene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0) | 1:39 | 2023-02-01 |  |
+| [Confession](https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [A Haunting in Venice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw) | 8:14 | 2023-09-18 |  |
 | [Dealing With Destruction](https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 1:54 | 2023-02-01 |  |
 | [Defeated Clown](https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:39 | 2023-02-01 |  |
 | [Doomsday](https://open.spotify.com/track/4yEjlrGjXSB2zPV2gQJDkD) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 0:54 | 2023-02-01 | 2023-05-20 |

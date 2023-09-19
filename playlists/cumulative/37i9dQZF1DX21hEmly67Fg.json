@@ -3249,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "When She Loved Me",
+        "url": "https://open.spotify.com/album/6g9g4U66eVzFGh4xvJFg1j"
+      },
+      "artists": [
+        {
+          "name": "The Cardboards",
+          "url": "https://open.spotify.com/artist/6nb7HIU4p1mORQurLGhDYu"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "When She Loved Me",
+      "url": "https://open.spotify.com/track/6syMpNOEjJXqtFklVFXFQV"
+    },
+    {
+      "album": {
         "name": "when the party\u2019s over",
         "url": "https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T"
       },

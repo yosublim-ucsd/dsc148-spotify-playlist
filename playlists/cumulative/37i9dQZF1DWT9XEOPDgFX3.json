@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "in another life",
+        "url": "https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231560,
+      "name": "burner phone",
+      "url": "https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t"
+    },
+    {
+      "album": {
         "name": "By Myself",
         "url": "https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO"
       },
@@ -7258,7 +7276,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 148142,
       "name": "you deserve attention",
       "url": "https://open.spotify.com/track/6jx9hgYN1lGEtjkCI40hfh"

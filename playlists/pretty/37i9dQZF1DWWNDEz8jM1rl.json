@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 116260,
+  "num_followers": 116320,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWUxM2Q0ZGFlYzAzMjk2MTE4NjZlMjY2YzQwNjc1MjBmMGMzMjBj",
+  "snapshot_id": "MCwyOTk4NmQ4ZGYzMzMzZWM4MjliNTZlNzM4NGFjZGRkMGE1OTVjOGQ5",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Acceso Total Tour Edition",
+        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mi Maestro",
+      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Jhoni",
         "url": "https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr"
       },
@@ -227,6 +243,22 @@
       "duration_ms": 201600,
       "name": "Haremos",
       "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -275,38 +307,6 @@
       "duration_ms": 265453,
       "name": "El Cristiano No Se Enoja",
       "url": "https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Acceso Total Tour Edition",
-        "url": "https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mi Maestro",
-      "url": "https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Hoy Ver\u00e9 Su Gloria",
+        "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 274130,
+      "name": "Hoy Ver\u00e9 Su Gloria",
+      "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "S\u00f3lo \u00c9xitos Tropicales",
         "url": "https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Hoy Ver\u00e9 Su Gloria",
-        "url": "https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 274130,
-      "name": "Hoy Ver\u00e9 Su Gloria",
-      "url": "https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Alegria Latina",
         "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 239026,
       "name": "Sana Nuestra Tierra",
       "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Traigo Alabanza",
+        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 251453,
+      "name": "Estoy Contento",
+      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -583,22 +599,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Traigo Alabanza",
-        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 251453,
-      "name": "Estoy Contento",
-      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Fragmentos Do C\u00e9u",
         "url": "https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e"
       },
@@ -635,6 +635,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Soy Bendecido",
+      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Deluxe",
         "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 295360,
       "name": "Espiritu De Dios",
       "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Soy Bendecido",
-      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Deluxe",
-        "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 212022,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/3GZlpgiwHlh5Zw1Ptcw9h3"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Los \u00c9xitos De Marcos Witt En Bachata",
         "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 259626,
       "name": "Un adorador",
       "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 212022,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/3GZlpgiwHlh5Zw1Ptcw9h3"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
+        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+      },
+      "artists": [
+        {
+          "name": "Nicold Frias",
+          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "Motivo de mi cancion",
+      "url": "https://open.spotify.com/track/2PNGkt8Xu4ex0e38LwBQVI"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Dios Est\u00e1 en Control",
         "url": "https://open.spotify.com/album/1mOugK66Bd9AXwzsTuZI1y"
       },
@@ -851,26 +867,6 @@
       "duration_ms": 258500,
       "name": "Dios Est\u00e1 en Control",
       "url": "https://open.spotify.com/track/65X1pjaVF89MNtR59GRMWW"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Jesucristo Me Toco (En Vivo)",
-        "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
-      },
-      "artists": [
-        {
-          "name": "Os Almirantes",
-          "url": "https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL"
-        },
-        {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "Jesucristo Me Toco - En Vivo",
-      "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
     }
   ],
   "unique_name": "Baila Con Dios",

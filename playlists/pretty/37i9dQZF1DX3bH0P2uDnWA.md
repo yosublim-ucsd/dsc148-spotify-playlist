@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,639 likes - 141 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,777 likes - 141 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 140 | [A Timeless Tale](https://open.spotify.com/track/6un59YUiVc6N1Sos22rE4f) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Gone Rogue](https://open.spotify.com/album/4vHMwdn3omUHLhCTDjOuOQ) | 3:06 |
 | 141 | [Cookie Monster \- Radio Edit](https://open.spotify.com/track/4zU15t9fJ5J0ERwbS7tGA7) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [Cookie Monster \(Atom Smith Remix\)](https://open.spotify.com/album/2A4LLbcPe9eVG7bmBDfuM4) | 3:27 |
 
-Snapshot ID: `MCwzYmM1ZGMwMWU0MTUwNDUwMmY1ZWFiOWYxYzViNGY5Yzc2Mzc2ZmUy`
+Snapshot ID: `MCwxNjc3YTkyZDIxZDMzZmE4YTMzNjFiYmI2YWM5ZThiZTA2YjIxYjQ4`

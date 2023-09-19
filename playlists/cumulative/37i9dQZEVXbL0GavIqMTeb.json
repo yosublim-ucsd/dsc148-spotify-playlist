@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 166736,
       "name": "ABC",
       "url": "https://open.spotify.com/track/3m4BZVz50DcOcebSRTH9Tm"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 253822,
       "name": "Alg\u00fan D\u00eda Volver\u00e1s",
       "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 136320,
       "name": "Amiri Jeans",
       "url": "https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o"
@@ -2462,6 +2462,24 @@
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
+    },
+    {
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/03cM3dIe3jpI8B67DTKLSP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180912,
+      "name": "Cinco D\u00edas",
+      "url": "https://open.spotify.com/track/35ywixbXivTHRfXKD2Q59K"
     },
     {
       "album": {
@@ -4008,7 +4026,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 113400,
       "name": "El Costillar",
       "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
@@ -4026,7 +4044,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-21",
+      "date_removed": null,
       "duration_ms": 151440,
       "name": "El Curanto",
       "url": "https://open.spotify.com/track/0diEXcRHWm7zg3k4WBC89c"
@@ -4124,7 +4142,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-21",
+      "date_removed": null,
       "duration_ms": 182840,
       "name": "El Lobo Chilote",
       "url": "https://open.spotify.com/track/1u82qfi6s4qVMcZdW47RXI"
@@ -6474,7 +6492,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
@@ -6492,7 +6510,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-21",
+      "date_removed": null,
       "duration_ms": 117533,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/6WBAwTrUIwWJTlS8e3v5Zx"
@@ -8630,7 +8648,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 164724,
       "name": "Me Veo Rico",
       "url": "https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb"
@@ -8878,7 +8896,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-21",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Mi Banderita Chilena",
       "url": "https://open.spotify.com/track/1gJmjUK36JKbJOW2A7xHmr"
@@ -9142,7 +9160,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 182779,
       "name": "Millonarios Juntos",
       "url": "https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t"
@@ -9628,7 +9646,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-21",
+      "date_removed": null,
       "duration_ms": 137933,
       "name": "M\u00e1ndame Quitar la Vida",
       "url": "https://open.spotify.com/track/6bjyyFavXjYidNIjPu1Fl3"
@@ -12552,7 +12570,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 173005,
       "name": "S91",
       "url": "https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO"
@@ -12972,7 +12990,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-21",
+      "date_removed": null,
       "duration_ms": 138160,
       "name": "Seremos Uno",
       "url": "https://open.spotify.com/track/0oeW47eszlvyvMG7OVogGM"
@@ -15556,7 +15574,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 192004,
       "name": "V\u00c1MONOS PA LA EUROPA",
       "url": "https://open.spotify.com/track/2VfBDjJ0tZ9XUi24aQibTM"
@@ -15632,7 +15650,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
@@ -15808,7 +15826,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 200073,
       "name": "XQ TAN SOLA?",
       "url": "https://open.spotify.com/track/42wzqKYpAInONWmT0FtiIj"

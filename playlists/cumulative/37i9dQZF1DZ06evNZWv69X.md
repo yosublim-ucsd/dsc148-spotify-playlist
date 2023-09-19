@@ -4,7 +4,7 @@
 
 > This is Mar de Copas\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 20 min
+51 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Atardecer](https://open.spotify.com/track/0v1ICcAGUizjFs9CcNGeGX) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:02 | 2023-08-23 |  |
 | [Balada de un Encuentro Fugaz](https://open.spotify.com/track/7sdwEEi3ZHZVzy2FldXqzx) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 3:45 | 2023-08-23 |  |
 | [Blu Ice](https://open.spotify.com/track/5ksrKcALCfKEftO6hYwVuU) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 2:45 | 2023-08-23 |  |
-| [C.p.a.m.](https://open.spotify.com/track/3gjYndqMoWw0xrO0ZzfTD7) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 5:25 | 2023-08-23 |  |
+| [C.p.a.m.](https://open.spotify.com/track/3gjYndqMoWw0xrO0ZzfTD7) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 5:25 | 2023-08-23 | 2023-09-19 |
 | [Cada Siete Tardes de Sol](https://open.spotify.com/track/4UnggXhJH0JzyDCA5SJdgv) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:23 | 2023-08-23 |  |
 | [Cuenta la Historia](https://open.spotify.com/track/0UEHcAD6CutZxkZXhVbVyk) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [III](https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG) | 4:51 | 2023-08-23 |  |
 | [Cómo Pensar Que No Te Quise](https://open.spotify.com/track/6XIlkDOQxF681R9F3bugBk) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:01 | 2023-08-23 |  |
@@ -38,6 +38,7 @@
 | [Momentos de Ti](https://open.spotify.com/track/1pP6oOCD6oay0yEZQTBcQS) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [De Tierra](https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP) | 2:17 | 2023-08-23 |  |
 | [Morir un Poco / Viajo en Tu Piel](https://open.spotify.com/track/6LErLy2YtLAeF8O4Kcx3ZR) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 4:39 | 2023-08-23 |  |
 | [Mujer Noche](https://open.spotify.com/track/4oKwVesHufTrw9L2gLHq4u) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Mar de Copas](https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ) | 5:09 | 2023-08-23 |  |
+| [Ni para Rogar un Beso](https://open.spotify.com/track/7ahXvgKXKHbLLDcf6F9adS) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [De Tierra](https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP) | 3:30 | 2023-09-18 |  |
 | [Ni por un Segundo](https://open.spotify.com/track/3arauHGIZskCf50BMT1m1I) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 4:53 | 2023-08-23 |  |
 | [No Me Imagino](https://open.spotify.com/track/4RtuS9cCFMytWPPhVnmZOe) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 3:01 | 2023-08-23 |  |
 | [Otra Canción](https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [III](https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG) | 3:45 | 2023-08-23 |  |

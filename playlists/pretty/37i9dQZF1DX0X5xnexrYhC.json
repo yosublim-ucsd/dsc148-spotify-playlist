@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 78268,
+  "num_followers": 78388,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQ1ZWNmNGUzMWE3OGFkY2FjMWQ3OTdkYzcwMzVjOWQ1OGUwZjc0",
+  "snapshot_id": "MCwwYmY1ZTIyNzc5YWZlYmIzYjhjZjc0NzA4YmZkYjU2NTUxYjllNWYx",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "cinderella's dead",
-        "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 120666,
-      "name": "cinderella's dead",
-      "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 148470,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "cinderella's dead",
+        "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 120666,
+      "name": "cinderella's dead",
+      "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Cure For Me",
-      "url": "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "STRUT",
         "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
       },
@@ -327,18 +311,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "die first",
-        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 177108,
-      "name": "die first",
-      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+      "duration_ms": 201640,
+      "name": "Cure For Me",
+      "url": "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -355,6 +339,22 @@
       "duration_ms": 138800,
       "name": "Yuck",
       "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "die first",
+        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 177108,
+      "name": "die first",
+      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "dying on the inside",
-        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 204847,
-      "name": "dying on the inside",
-      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Love and Other Lies",
         "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
@@ -471,6 +455,38 @@
       "duration_ms": 143500,
       "name": "Dress",
       "url": "https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Vroom Vroom EP",
+        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "dying on the inside",
+        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 204847,
+      "name": "dying on the inside",
+      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -503,22 +519,6 @@
       "duration_ms": 163027,
       "name": "29",
       "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Vroom Vroom EP",
-        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 193270,
-      "name": "Vroom Vroom",
-      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -623,6 +623,42 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 145103,
+      "name": "Love It When You Hate Me (feat. blackbear)",
+      "url": "https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "If I Can\u2019t Have Love, I Want Power",
         "url": "https://open.spotify.com/album/2smUD3MgTAgWjLjRe8wVnC"
       },
@@ -655,18 +691,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+        "name": "Panic Attacks in Paradise / Maggots",
+        "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         }
       ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+      "duration_ms": 184885,
+      "name": "Panic Attacks in Paradise",
+      "url": "https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -687,26 +723,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 145103,
-      "name": "Love It When You Hate Me (feat. blackbear)",
-      "url": "https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Mental Health",
         "url": "https://open.spotify.com/album/3NurIxJFHWZCyYicllTMM5"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 126825,
       "name": "Mental Health",
       "url": "https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Panic Attacks in Paradise / Maggots",
-        "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 184885,
-      "name": "Panic Attacks in Paradise",
-      "url": "https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "pretty poison",
-        "url": "https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 164994,
-      "name": "keep me afraid",
-      "url": "https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "My Mother Wants Me Dead",
         "url": "https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 105351,
       "name": "My Mother Wants Me Dead",
       "url": "https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "pretty poison",
+        "url": "https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 164994,
+      "name": "keep me afraid",
+      "url": "https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "Serpentina",
+        "url": "https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 175527,
+      "name": "Skinnydipped",
+      "url": "https://open.spotify.com/track/6w6ZUEFgkLvMMSyn4zBQXR"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
       },
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 141226,
-      "name": "Lunatic",
-      "url": "https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Serpentina",
-        "url": "https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 175527,
-      "name": "Skinnydipped",
-      "url": "https://open.spotify.com/track/6w6ZUEFgkLvMMSyn4zBQXR"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 141226,
+      "name": "Lunatic",
+      "url": "https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Time of my Life",
-        "url": "https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 136066,
-      "name": "Time of my Life",
-      "url": "https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Brad Pitt / Goosebumps",
         "url": "https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR"
       },
@@ -1331,6 +1315,26 @@
       "duration_ms": 181706,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/603NmSpDReeERhC8heOeVB"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "SALT (feat. Oli Sykes)",
+        "url": "https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "SALT (feat. Oli Sykes)",
+      "url": "https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr"
     }
   ],
   "unique_name": "POP EDGE",

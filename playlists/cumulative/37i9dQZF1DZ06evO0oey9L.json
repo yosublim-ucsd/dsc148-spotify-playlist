@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Soy El Cholo Soy El 7",
+        "url": "https://open.spotify.com/album/5XUY9Ibmxbyk1dU3222hPR"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182790,
+      "name": "Soy El Cholo Soy El 7",
+      "url": "https://open.spotify.com/track/73zTFBi0S4u3sAa4vT2Cnn"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os y Metas",
         "url": "https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE"
       },

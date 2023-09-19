@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing Jazz on a warm summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,030 likes - 184 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,033 likes - 184 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 183 | [Love by the Shore](https://open.spotify.com/track/3Eth4uBxjHksBSkAOf5SX4) | [Aurelius Markus Trio](https://open.spotify.com/artist/7GN5mWX88NsS7eNxAAOYrf) | [Love by the Shore](https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0) | 4:53 |
 | 184 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 |
 
-Snapshot ID: `MCw5Y2YzYmMzMmMxMzMwN2Y0MmY5MjJmOGNiNjcxYjhlOWNmMWNlOTUw`
+Snapshot ID: `MCw5MTBlNTdjMWVlZjNmYzUwMjg0MDI1ZDkzNmMwYTk2YzI4MzVkM2Mw`

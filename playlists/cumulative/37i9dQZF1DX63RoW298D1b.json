@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "If lonely...",
+        "url": "https://open.spotify.com/album/68CGa50C8hC4xr28VhCSmZ"
+      },
+      "artists": [
+        {
+          "name": "Gina Ordonieva",
+          "url": "https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139443,
+      "name": "If lonely...",
+      "url": "https://open.spotify.com/track/3w7ooeKGTjTd8W7Qp2oAop"
+    },
+    {
+      "album": {
         "name": "immaginiamo (Whatever we imagine)",
         "url": "https://open.spotify.com/album/3Z67xtahu1bOLuQdN55WmA"
       },
@@ -1728,6 +1746,24 @@
       "duration_ms": 143371,
       "name": "The Everglowing Sea",
       "url": "https://open.spotify.com/track/43bZxiDpp5FKPS2tvFxhZ5"
+    },
+    {
+      "album": {
+        "name": "The lake",
+        "url": "https://open.spotify.com/album/69H1nz2SYvGwh0F97bDvjs"
+      },
+      "artists": [
+        {
+          "name": "Hazel Adams",
+          "url": "https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162786,
+      "name": "The lake",
+      "url": "https://open.spotify.com/track/6V4TlZBtC8nk9de3rpYbGj"
     },
     {
       "album": {

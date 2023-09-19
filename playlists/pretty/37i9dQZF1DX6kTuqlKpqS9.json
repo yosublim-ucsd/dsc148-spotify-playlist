@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 69811,
+  "num_followers": 69885,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDA0OTIyOTdhMWExMmNlMmRhNTZmMjExNzc5Yzk2M2ZjNTJjMzEy",
+  "snapshot_id": "MCxhNDE1N2RjODRlNjYzNTExZWQ1YzMyYjVkMDMxYjZhNjk0YWNlNTYz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -187,38 +187,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mis 40 En Bellas Artes (En Vivo Desde Bellas Artes, M\u00e9xico/ 2013)",
-        "url": "https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 218572,
-      "name": "Tu A Mi No Me Hundes - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
-      "url": "https://open.spotify.com/track/6fl2z7exv5Y8NybcTtYpkJ"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "A Pesar de Todo - En Vivo",
-      "url": "https://open.spotify.com/track/69iSRnP0MHzihN1T00cRel"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Mariachi, Voces y Cuerdas (Concierto En Vivo)",
         "url": "https://open.spotify.com/album/4uMlrzJ7CVJIRtHEzPK5sb"
       },
@@ -255,18 +223,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Desvelada Con Banda Y Mariachi (En Vivo)",
-        "url": "https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF"
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 163198,
-      "name": "Me Dicen el Coyote - En VIvo",
-      "url": "https://open.spotify.com/track/52TGyDPRWNCTyBcN8g5fu5"
+      "duration_ms": 221666,
+      "name": "A Pesar de Todo - En Vivo",
+      "url": "https://open.spotify.com/track/69iSRnP0MHzihN1T00cRel"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -303,18 +271,34 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
+        "name": "Mis 40 En Bellas Artes (En Vivo Desde Bellas Artes, M\u00e9xico/ 2013)",
+        "url": "https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Guadalajara - En Vivo",
-      "url": "https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV"
+      "duration_ms": 217532,
+      "name": "La Diferencia - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
+      "url": "https://open.spotify.com/track/5qjWsZ8kudvaVKG2g0cRvz"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Desvelada Con Banda Y Mariachi (En Vivo)",
+        "url": "https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 163198,
+      "name": "Me Dicen el Coyote - En VIvo",
+      "url": "https://open.spotify.com/track/52TGyDPRWNCTyBcN8g5fu5"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -331,22 +315,6 @@
       "duration_ms": 162093,
       "name": "Y - En vivo",
       "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "Mis 40 En Bellas Artes (En Vivo Desde Bellas Artes, M\u00e9xico/ 2013)",
-        "url": "https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 217532,
-      "name": "La Diferencia - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
-      "url": "https://open.spotify.com/track/5qjWsZ8kudvaVKG2g0cRvz"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -383,34 +351,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Lagrimas De Mi Barrio",
-        "url": "https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT"
+        "name": "Mis 40 En Bellas Artes (En Vivo Desde Bellas Artes, M\u00e9xico/ 2013)",
+        "url": "https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or"
       },
       "artists": [
         {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 195613,
-      "name": "Lagrimas De Mi Barrio",
-      "url": "https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2B6NtQv1oRA1uVD8qQC0k6"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "En Mi Viejo San Juan - En Vivo en Puerto Rico - Teatro Bellas Artes /2000",
-      "url": "https://open.spotify.com/track/4VelAw3TjuAW0hlL9Gr8ei"
+      "duration_ms": 218572,
+      "name": "Tu A Mi No Me Hundes - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
+      "url": "https://open.spotify.com/track/6fl2z7exv5Y8NybcTtYpkJ"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -424,9 +376,25 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 292733,
-      "name": "Estos Celos - En Vivo",
-      "url": "https://open.spotify.com/track/1bHfUhyFqo6toBM3YMvG8I"
+      "duration_ms": 203720,
+      "name": "Guadalajara - En Vivo",
+      "url": "https://open.spotify.com/track/5mQy3HRlkUyJc1VQ7tkekV"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Lagrimas De Mi Barrio",
+        "url": "https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "Lagrimas De Mi Barrio",
+      "url": "https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -447,6 +415,22 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2B6NtQv1oRA1uVD8qQC0k6"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "En Mi Viejo San Juan - En Vivo en Puerto Rico - Teatro Bellas Artes /2000",
+      "url": "https://open.spotify.com/track/4VelAw3TjuAW0hlL9Gr8ei"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
         "name": "Desde El Lunario, Ciudad De M\u00e9xico (En Vivo Desde El Lunario/Mariachi/Banda)",
         "url": "https://open.spotify.com/album/0OciUfz9VZIm5N4ZHIHlg5"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 187640,
       "name": "Seremos - En Vivo Desde El Lunario/Mariachi/Banda",
       "url": "https://open.spotify.com/track/0Kguq4LDvq2YrUU4QDVBW3"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "Amaneci Entre Tus Brazos - En Vivo",
+      "url": "https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -479,18 +479,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 150600,
-      "name": "Amaneci Entre Tus Brazos - En Vivo",
-      "url": "https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m"
+      "duration_ms": 292733,
+      "name": "Estos Celos - En Vivo",
+      "url": "https://open.spotify.com/track/1bHfUhyFqo6toBM3YMvG8I"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -543,6 +543,22 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "El Rey - En Vivo",
+      "url": "https://open.spotify.com/track/7KQJyqHkmOk6LTf9OtooYc"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
         "name": "Mariachi Hit Parade",
         "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 181613,
       "name": "Porqu\u00e9 No Le Calas - Live",
       "url": "https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "El Rey - En Vivo",
-      "url": "https://open.spotify.com/track/7KQJyqHkmOk6LTf9OtooYc"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Enamorada En Vivo",
-        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 195253,
-      "name": "Ac\u00e1 Entre Nos - En Vivo",
-      "url": "https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "La Familia Aguilar En Vivo (Live At The Plaza De Toro / Mexico City, MX / July 1998)",
         "url": "https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 248200,
       "name": "Por Mujeres Como T\u00fa - En Vivo",
       "url": "https://open.spotify.com/track/0LnyfUMO40rj29KE1Sg5jr"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Enamorada En Vivo",
+        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 195253,
+      "name": "Ac\u00e1 Entre Nos - En Vivo",
+      "url": "https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -735,38 +735,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Lucero En Vivo Auditorio Nacional",
-        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 187177,
-      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "El \u00daltimo Jaripeo (En Vivo)",
-        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Secreto De Amor - En Vivo",
-      "url": "https://open.spotify.com/track/4dmRntbw2COWNacQzUWt6q"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Pa' Amanecer Pistiando (En Vivo)",
         "url": "https://open.spotify.com/album/1Nz3DWkr9BKi1Xr5mCCi6L"
       },
@@ -811,6 +779,54 @@
       "duration_ms": 163120,
       "name": "El Rey - En Vivo",
       "url": "https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "El \u00daltimo Jaripeo (En Vivo)",
+        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Secreto De Amor - En Vivo",
+      "url": "https://open.spotify.com/track/4dmRntbw2COWNacQzUWt6q"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Mariachi Ranchera Y Tradicional",
+        "url": "https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 307626,
+      "name": "Sufriendo a Solas",
+      "url": "https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Lucero En Vivo Auditorio Nacional",
+        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 187177,
+      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -863,34 +879,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mariachi Ranchera Y Tradicional",
-        "url": "https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg"
+        "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
+        "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
       },
       "artists": [
         {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 307626,
-      "name": "Sufriendo a Solas",
-      "url": "https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "Enamorada En Vivo",
-        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 290413,
-      "name": "Tristes Recuerdos - En Vivo",
-      "url": "https://open.spotify.com/track/4pILiOmw8YQpcxH7XCVJO9"
+      "duration_ms": 236186,
+      "name": "Tatuajes - En Vivo",
+      "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -911,18 +911,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
-        "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
+        "name": "Enamorada En Vivo",
+        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Tatuajes - En Vivo",
-      "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
+      "duration_ms": 290413,
+      "name": "Tristes Recuerdos - En Vivo",
+      "url": "https://open.spotify.com/track/4pILiOmw8YQpcxH7XCVJO9"
     },
     {
       "added_at": "2021-12-29 23:15:19",

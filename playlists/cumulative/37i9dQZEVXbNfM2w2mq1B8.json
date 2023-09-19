@@ -1175,6 +1175,36 @@
     },
     {
       "album": {
+        "name": "The Love Album: Off The Grid",
+        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
+      "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -3389,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/2iCqSF6BNDjhZ19BFavOAV"
+      },
+      "artists": [
+        {
+          "name": "Legendz",
+          "url": "https://open.spotify.com/artist/1cL1814qMMYlqnnURcavP4"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150230,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2MrTQg9ESqwuFWR3NVmyFU"
+    },
+    {
+      "album": {
         "name": "DEVA",
         "url": "https://open.spotify.com/album/5sSk1zBXbMZ1KLWnvox8Qk"
       },
@@ -4370,7 +4418,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 124489,
       "name": "Defender",
       "url": "https://open.spotify.com/track/5QEAcDARgPQStUwfIi7eGg"
@@ -5777,6 +5825,24 @@
     },
     {
       "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/7dTbyFp2a4xQgXzGWizt7w"
+      },
+      "artists": [
+        {
+          "name": "Nova D",
+          "url": "https://open.spotify.com/artist/6zoolWjcLvGccB6B02TiiP"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339960,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/1Wc540B74tn2yPUEDBJaST"
+    },
+    {
+      "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
       },
@@ -6700,6 +6766,24 @@
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3kWMqJVMAWeTfyg4wAE190"
+      },
+      "artists": [
+        {
+          "name": "Papi Giddy",
+          "url": "https://open.spotify.com/artist/3DX9g8okDgAFS8ttp2Hehs"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171757,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0ycXEADE6ra6nW7cJgX5Qm"
     },
     {
       "album": {
@@ -10562,7 +10646,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 186720,
       "name": "Let u down",
       "url": "https://open.spotify.com/track/2Cbs9XbRqGvqW9POdsQxtd"
@@ -10714,7 +10798,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -19390,7 +19474,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -19782,7 +19866,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 204094,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/4CstcZE2vzPrFzrpiw6a0o"
@@ -20846,7 +20930,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 160496,
       "name": "Wednesday - Radio Edit",
       "url": "https://open.spotify.com/track/4hLoKuXFtmtZ7yZ0byTUVN"

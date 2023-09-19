@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 | 2022-11-25 |  |
+| [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 | 2022-11-25 | 2023-09-19 |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-01-20 |  |
 | [Ahora Se](https://open.spotify.com/track/2UDu0jl1GzixhEbjYGLxGO) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/72jiJ0q3ODcjFJn0iioy4w) | 3:54 | 2022-01-14 | 2022-07-29 |
 | [Ahora Se](https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO) | 3:54 | 2022-07-08 |  |
@@ -132,7 +132,7 @@
 | [Y Que De Mí](https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Por Amor A La Música](https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW) | 3:21 | 2022-01-14 |  |
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/0geHUwG0LuDwBNslfp4c4Z) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/1l4XveoWd3QGnLC4yjJwlL) | 3:31 | 2022-07-08 | 2022-10-30 |
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/1EmFnAYjHBmAPi5TMPIzxg) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/2ijXizRTAsOwAF1aYo0Amy) | 3:31 | 2022-01-14 | 2022-07-29 |
-| [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 | 2022-09-23 | 2023-09-18 |
+| [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 | 2022-09-23 |  |
 | [Yo Tonta, No](https://open.spotify.com/track/4rQzRzx3ljt9gOYGpbc3xH) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/3XzGt66BYB6j1Kz7zLGiKe) | 4:00 | 2022-01-14 | 2022-07-28 |
 | [Yo Tonta, No](https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep) | 4:00 | 2022-07-08 | 2023-05-10 |
 

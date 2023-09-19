@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidos haciendo música chida\. GRTSCH en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,845 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,858 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 2 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
 | 3 | [Minimalista](https://open.spotify.com/track/3pU2D2MVqV1V4JMBvmwqDc) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [Minimalista](https://open.spotify.com/album/0wLp5TaiRKksqWoeIElprg) | 2:21 |
 | 4 | [XOXO](https://open.spotify.com/track/2Y8KA0iCtLQa7G3gC5lPvv) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [XOXO](https://open.spotify.com/album/41NBDlAAigDhytPXnDPB96) | 3:56 |
-| 5 | [Amorcito Corazón Lofi](https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Amorcito Corazón Lofi](https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y) | 1:49 |
+| 5 | [Amorcito corazón lofi](https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Amorcito corazón lofi](https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y) | 1:49 |
 | 6 | [UNA VEZ MÁS](https://open.spotify.com/track/5BeUqHu8d7JBmNBS38kfjH) | [dieglitter](https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg) | [PUEDO TOCAR EL CIELO](https://open.spotify.com/album/7JupcnvCQ68MEV87oiff4r) | 3:04 |
 | 7 | [Estrellas](https://open.spotify.com/track/50hcLx8GL7THXWxew0EHgb) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Plano](https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D) | 3:38 |
 | 8 | [fatal](https://open.spotify.com/track/4UE8NKlNA2KVbm5R85RQrb) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [clásico vol\. 2](https://open.spotify.com/album/0zwQOZWB0CAu6uic0VN1Ax) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 49 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 |
 | 50 | [El Cuarto](https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [El Cuarto](https://open.spotify.com/album/47Uo4JY8vjARJ3MulZuKe6) | 2:56 |
 
-Snapshot ID: `MCw2MWFiMWRmNjVlYzU0NDZkMTllZjg3ZTBkYWJlNWVlM2ZhYTUwYzdk`
+Snapshot ID: `MCxlOTM0MGM3NWE1ZjQyMDI2NjkwODYyMzE0ZmJjMmFjMTc3YzIwYjEw`

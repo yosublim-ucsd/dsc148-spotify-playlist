@@ -3707,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Narrative",
+        "url": "https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH"
+      },
+      "artists": [
+        {
+          "name": "Emma Richter",
+          "url": "https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Narrative",
+      "url": "https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS"
+    },
+    {
+      "album": {
         "name": "Nature Shift",
         "url": "https://open.spotify.com/album/0zRlQwqGcLq31cyTExBHpl"
       },
@@ -4089,6 +4107,24 @@
     },
     {
       "album": {
+        "name": "Our Time Will Come",
+        "url": "https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5"
+      },
+      "artists": [
+        {
+          "name": "Tim Karlsen",
+          "url": "https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Our Time Will Come",
+      "url": "https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D"
+    },
+    {
+      "album": {
         "name": "Out on the Ionian",
         "url": "https://open.spotify.com/album/0UAx9JTCB0uFpk8FFznXDJ"
       },
@@ -4140,6 +4176,24 @@
       "duration_ms": 132900,
       "name": "Over and over again",
       "url": "https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr"
+    },
+    {
+      "album": {
+        "name": "Paseo",
+        "url": "https://open.spotify.com/album/11v1XsFDWHyGfF8FKizm6P"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wiese",
+          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142165,
+      "name": "Paseo",
+      "url": "https://open.spotify.com/track/3z34o6Tz0nEHd6rPjIcyTN"
     },
     {
       "album": {
@@ -5752,6 +5806,24 @@
       "duration_ms": 145620,
       "name": "To the Rain",
       "url": "https://open.spotify.com/track/025aQi6Ffw676y8m4zLPk7"
+    },
+    {
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/3ywyIfP5x1jjosZDJpxzjT"
+      },
+      "artists": [
+        {
+          "name": "Michiel Borstlap",
+          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139794,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/44pzUcTMHrjZnBQTqgjWf0"
     },
     {
       "album": {

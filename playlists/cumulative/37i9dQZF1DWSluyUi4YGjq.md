@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-440 songs - 1 day 4 hr 58 min
+441 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Crasher](https://open.spotify.com/track/3WQ0VxgZ1yy1bO4GuPsieu) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/60ikpGF6cPz302ZG0kqk4s) | 4:07 | 2021-10-19 | 2022-07-29 |
 | [crasher](https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw) | 4:07 | 2021-10-19 | 2023-01-14 |
 | [crimson enclosure \- Avey Tare Remix](https://open.spotify.com/track/0bgWjOWbC2yecRjZQs9ajP) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [crimson enclosure \(Avey Tare remix\)](https://open.spotify.com/album/1PIAwU8LfyJnD4ZW3OHDFG) | 5:49 | 2023-06-02 |  |
+| [Crush](https://open.spotify.com/track/2fGrNRKLkWJqGuzEST3pYX) | [Blush](https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW) | [Crush](https://open.spotify.com/album/0QkcgSGcNz3p0DocnmvCUR) | 4:46 | 2023-09-18 |  |
 | [Cruz de navajas](https://open.spotify.com/track/3Iw2JGQOIx5LtmpPX5HTz6) | [Beyond Sadness](https://open.spotify.com/artist/4D6riy0MljyHs3LtsWMPxb) | [Traicion / Cruz de Navajas](https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr) | 5:18 | 2023-03-13 | 2023-08-12 |
 | [Culto](https://open.spotify.com/track/6Ow58pNK9dPNKLLxrfKX9z) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Culto](https://open.spotify.com/album/6Jl1jLK4buw7Mo8XoYX8Uy) | 4:14 | 2022-04-01 | 2022-07-29 |
 | [Cupid](https://open.spotify.com/track/3y9rDgEdATAwgFX2NPKGw7) | [Vero](https://open.spotify.com/artist/2LsDmxmf4PpOYXeHYOuWKD) | [Cupid](https://open.spotify.com/album/2Fp2nN5Jriaag1RaQtYW7q) | 3:10 | 2022-02-15 | 2022-07-29 |

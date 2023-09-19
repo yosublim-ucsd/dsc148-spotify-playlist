@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-693 songs - 1 day 13 hr 24 min
+694 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 | 2020-10-13 | 2021-11-13 |
 | [Jim Carrey](https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Jim Carrey](https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH) | 3:03 | 2023-09-01 | 2023-09-17 |
 | [Jim Carrey](https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 | 2023-09-15 |  |
-| [Josephine](https://open.spotify.com/track/6JFfOp1LTXnyDCTfHlOc9j) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Shamrock Diaries](https://open.spotify.com/album/4DshZuvIZmKThL2D3cPJOZ) | 3:57 | 2023-09-01 |  |
+| [Josephine](https://open.spotify.com/track/6JFfOp1LTXnyDCTfHlOc9j) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Shamrock Diaries](https://open.spotify.com/album/4DshZuvIZmKThL2D3cPJOZ) | 3:57 | 2023-09-01 | 2023-09-19 |
 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2022-01-28 | 2022-06-15 |
 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 | 2022-03-21 | 2023-01-14 |
 | [Just a Little Longer](https://open.spotify.com/track/74d9QhneUCIUvO00ev5kyX) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Overthinking](https://open.spotify.com/album/11BMDCeD3IO5VnE1VVTSQA) | 3:26 | 2019-09-05\* | 2021-08-28 |
@@ -357,6 +357,7 @@
 | [Laugh It Off](https://open.spotify.com/track/6UJUkIobRl4M2EIxOLZVti) | [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Personal Best](https://open.spotify.com/album/05JyBFPtta56x6uBvIfnal) | 4:13 | 2019-09-05\* | 2020-04-10 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2023-02-03 | 2023-02-25 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-27 | 2022-07-09 |
+| [Lemon](https://open.spotify.com/track/0pMmIEwZpl31qkiUqSAYBo) | [SMITH](https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7) | [Lemon](https://open.spotify.com/album/1kG83ZnIwWZmoAkAvQYWFA) | 2:41 | 2023-09-18 |  |
 | [Let Go Today](https://open.spotify.com/track/3FUWD1PXnb6wxRpxqEp1zc) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Lenses](https://open.spotify.com/album/5cfCNfI4ppO5FN2sUlNG3M) | 3:02 | 2019-09-05\* | 2021-08-28 |
 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 | 2021-11-06 | 2022-05-20 |
 | [Lie](https://open.spotify.com/track/6QcrReLyoun4xrPVsZ5OJE) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Lie](https://open.spotify.com/album/4v1f4kZMvCpwCSwkxC82ia) | 3:35 | 2019-09-05\* | 2020-08-03 |

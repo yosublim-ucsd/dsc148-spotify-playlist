@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 174415,
       "name": "Arena y Sal",
       "url": "https://open.spotify.com/track/5iilNoD56jD3FJ3bM9tMP0"
@@ -6247,6 +6247,32 @@
     },
     {
       "album": {
+        "name": "Pa Casa",
+        "url": "https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4"
+      },
+      "artists": [
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "Pa Casa",
+      "url": "https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6"
+    },
+    {
+      "album": {
         "name": "Pa Co",
         "url": "https://open.spotify.com/album/3ZQtUvAOU2mPqkIcYty9GI"
       },
@@ -7154,7 +7180,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 120000,
       "name": "QUEVEDO #49 AFTER HOUR THE MIXTAPE",
       "url": "https://open.spotify.com/track/4vJKFyVeEGydftAuefJe6Y"
@@ -7180,6 +7206,24 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
       "album": {
@@ -8413,6 +8457,32 @@
     },
     {
       "album": {
+        "name": "Te Menti",
+        "url": "https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187129,
+      "name": "Te Menti",
+      "url": "https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B"
+    },
+    {
+      "album": {
         "name": "Tendencia Global",
         "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
       },
@@ -8618,7 +8688,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 184276,
       "name": "Tuenti - Remix",
       "url": "https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5"

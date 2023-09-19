@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Bil\u00fa Bil\u00fa",
+        "url": "https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Bil\u00fa Bil\u00fa",
+      "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
+    },
+    {
+      "album": {
         "name": "Le Canto a Mi Pueblo",
         "url": "https://open.spotify.com/album/5BZjYcqsuK3yQITQJY4V47"
       },
@@ -236,7 +254,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 206729,
       "name": "Cartas Marcadas",
       "url": "https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb"
@@ -326,7 +344,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 194481,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 238064,
       "name": "El Mu\u00f1eco",
       "url": "https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW"

@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10500,
+  "num_followers": 10513,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDk5Y2UzMjAwMmJmYjUwMTNiOTRjZmRjNjg4ZDE5YWExY2QwMTk4",
+  "snapshot_id": "MCxiY2JiMGM1MzQ1ZmJkNmQzYzhlODhjZmFlOGVjYjA3OGZkMGYyOTVl",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Too Drunk To Drive Drunk",
+      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Benton County Relic",
         "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 150667,
       "name": "Shake Your Money Maker",
       "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Too Drunk To Drive Drunk",
-      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 254240,
       "name": "I Feel so Good",
       "url": "https://open.spotify.com/track/1P7QsV7OG46lyLy85Mmd2v"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Show Of Strength",
+        "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 360146,
+      "name": "Little Juke Joint",
+      "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
+    },
+    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Damage Control",
@@ -815,22 +831,6 @@
       "duration_ms": 233560,
       "name": "Come On Up",
       "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Show Of Strength",
-        "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 360146,
-      "name": "Little Juke Joint",
-      "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
     },
     {
       "added_at": "2021-03-19 05:01:00",

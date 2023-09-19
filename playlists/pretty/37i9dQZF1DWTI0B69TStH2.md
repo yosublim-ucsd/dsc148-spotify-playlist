@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Irys \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,100 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,105 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [na mieście](https://open.spotify.com/track/4dEluIUIMi7UokN8huLFRU) | [pablowsky](https://open.spotify.com/artist/6xnj49wbM4NGjaUtuxKJot) | [na mieście](https://open.spotify.com/album/7jUYILRpb83nLDzqKdUxIg) | 2:36 |
 | 100 | [Wschód \- Radio Edit](https://open.spotify.com/track/630d2R0tR0ZPbEtCfriUxc) | [Ola Budzyńska](https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6) | [Wschód](https://open.spotify.com/album/2Ftw4MNvUAHjjL5U0dvETH) | 5:37 |
 
-Snapshot ID: `MCw2OTA1M2ViYTFlZWUwODFmNzhiNzVkOTNlNjhhYjUxNjUzYmIyYTIw`
+Snapshot ID: `MCwwNzNjMzJhZTZlZTNmZTU5YWJhYWE1NDIwYmQ4MDc3YzJlYWQwNGM2`

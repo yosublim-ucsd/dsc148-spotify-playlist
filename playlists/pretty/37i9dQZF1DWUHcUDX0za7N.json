@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
-  "num_followers": 25816,
+  "num_followers": 25883,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjc1YjM0N2MzNmE2N2NlY2FmYmMzZTYxMGU4NDk2MTdhNjU3YTlj",
+  "snapshot_id": "MCxjNWFlOTg2NmQ5NTVhYjYwMmJhMDU5YzcxMmJkY2Q4NmVlNWRjZDYw",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -623,22 +623,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+      "duration_ms": 239893,
+      "name": "Longtime (feat. Skepta)",
+      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -659,22 +659,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 239893,
-      "name": "Longtime (feat. Skepta)",
-      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Humble Cry",
+        "url": "https://open.spotify.com/album/0HAgykkVb3jNd5UFdzIsKI"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        }
+      ],
+      "duration_ms": 161502,
+      "name": "Humble Cry",
+      "url": "https://open.spotify.com/track/0iWD2VVQiNnUvYG74mBw4c"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "My Own (feat. Blaqbonez)",
         "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Humble Cry",
-        "url": "https://open.spotify.com/album/0HAgykkVb3jNd5UFdzIsKI"
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
       },
       "artists": [
         {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 161502,
-      "name": "Humble Cry",
-      "url": "https://open.spotify.com/track/0iWD2VVQiNnUvYG74mBw4c"
+      "duration_ms": 158400,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Commander",
-        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Commander",
-      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Omo Ologo",
         "url": "https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 189090,
       "name": "Omo Ologo",
       "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Amdallah",
-        "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180584,
-      "name": "Amdallah",
-      "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1191,6 +1175,46 @@
       "duration_ms": 186906,
       "name": "My Bro",
       "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Amdallah",
+        "url": "https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180584,
+      "name": "Amdallah",
+      "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Young Preacher",
+        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
+      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1279,30 +1303,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Young Preacher",
-        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
-      "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "High Tension 2.0",
         "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
@@ -1343,26 +1343,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "STILL FIGURING LIFE",
-        "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
+        "name": "BACK IN UNI",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
       "artists": [
         {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 161118,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
+      "duration_ms": 150857,
+      "name": "BACK IN UNI",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
     }
   ],
   "unique_name": "Naija Bars ",

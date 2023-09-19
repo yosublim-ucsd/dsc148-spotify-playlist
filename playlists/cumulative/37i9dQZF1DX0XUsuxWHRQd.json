@@ -1073,6 +1073,28 @@
     },
     {
       "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148928,
+      "name": "A N X I E T Y (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
+    },
+    {
+      "album": {
         "name": "Section.80",
         "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
       },
@@ -1244,7 +1266,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 102506,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/3EnJFjkvo1c0LHRDdf6QNu"
@@ -7605,6 +7627,24 @@
     },
     {
       "album": {
+        "name": "Did Me Wrong",
+        "url": "https://open.spotify.com/album/7Fo9oI9z6JriCuD0TWZ7cu"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Did Me Wrong",
+      "url": "https://open.spotify.com/track/26nPKzNuW0ty9ChtUhrYYh"
+    },
+    {
+      "album": {
         "name": "7220 (Deluxe)",
         "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
       },
@@ -13416,7 +13456,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 154800,
       "name": "Her Birthday",
       "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"

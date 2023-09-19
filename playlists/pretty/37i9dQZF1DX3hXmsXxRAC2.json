@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 318599,
+  "num_followers": 318663,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzIzYWZmMDBlNjYzOWJiOThkOGMyYmFkZGVjYzVjOTQ4NWZhOGRk",
+  "snapshot_id": "MCw5MWU1ODUzNTY1ZmMzMjdmYWUxNzFiY2VkN2JhN2ZkZWJlNzVjYjc1",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/4mmaQPVzYMBlUKGehvrfOB"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 139906,
       "name": "No Discutamos",
       "url": "https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/4mmaQPVzYMBlUKGehvrfOB"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 170685,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -311,6 +295,38 @@
       "duration_ms": 295280,
       "name": "Querida",
       "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 408506,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -351,18 +367,34 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
+        "name": "Buenos D\u00edas Se\u00f1or Sol",
+        "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Vazquez Sounds",
+          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
         }
       ],
-      "duration_ms": 408506,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
+      "duration_ms": 165560,
+      "name": "Buenos D\u00edas Se\u00f1or Sol",
+      "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -383,18 +415,34 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Buenos D\u00edas Se\u00f1or Sol",
-        "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
+        "name": "Celebridades- Daniela Romo",
+        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
       "artists": [
         {
-          "name": "Vazquez Sounds",
-          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
         }
       ],
-      "duration_ms": 165560,
-      "name": "Buenos D\u00edas Se\u00f1or Sol",
-      "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
+      "duration_ms": 218120,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 280146,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -419,54 +467,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 280146,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Celebridades- Daniela Romo",
-        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
       },
@@ -483,26 +483,6 @@
       "duration_ms": 294760,
       "name": "Siempre en Mi Mente",
       "url": "https://open.spotify.com/track/15MLfT6zSKytzwO7X6saIE"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Los D\u00fao 2",
-        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 246520,
-      "name": "Yo S\u00e9 Que Est\u00e1 En Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0NaXrQAuxiWXpKDOPb40WM"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -623,18 +603,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "15 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Lo Pasado, Pasado",
-      "url": "https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27"
+      "duration_ms": 246520,
+      "name": "Yo S\u00e9 Que Est\u00e1 En Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0NaXrQAuxiWXpKDOPb40WM"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -655,6 +639,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "15 Exitos De Oro",
+        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Lo Pasado, Pasado",
+      "url": "https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Amor Eterno al Divo / Tributo de Rock",
         "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 254986,
       "name": "He Venido a Pedirte Perd\u00f3n",
       "url": "https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "La Diferencia - En Vivo",
+      "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -731,22 +747,6 @@
       "duration_ms": 205346,
       "name": "La Muerte del Palomo",
       "url": "https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "La Diferencia - En Vivo",
-      "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Las Rancheras De Juan Gabriel",
-        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "En Vivo Desde El R\u00edo Nilo",
         "url": "https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 209040,
       "name": "Querida",
       "url": "https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Las Rancheras De Juan Gabriel",
+        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "Viva Juan Gabriel / Popurr\u00ed",
+      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 477760,
-      "name": "Viva Juan Gabriel / Popurr\u00ed",
-      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
+      "duration_ms": 193733,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1007,22 +1023,6 @@
       "duration_ms": 201653,
       "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
       "url": "https://open.spotify.com/track/1rF8VGIeSE4EGNuTCajFUr"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1123,38 +1123,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "La Vargas Ritual Chavela",
-        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 188567,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "No Discutamos",
-        "url": "https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Amor Eterno al Divo / Tributo de Rock",
         "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
@@ -1183,6 +1151,38 @@
       "duration_ms": 284306,
       "name": "Con Tu Amor",
       "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "La Vargas Ritual Chavela",
+        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 188567,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "No Discutamos",
+        "url": "https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "CU4TRO",
+        "url": "https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 281959,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/25cvmtRrMtNwUwxFc05ps8"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 169200,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "CU4TRO",
-        "url": "https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 281959,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/25cvmtRrMtNwUwxFc05ps8"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "duration_ms": 175359,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "De\u0301jame Vivir",
         "url": "https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 250880,
       "name": "De\u0301jame Vivir",
       "url": "https://open.spotify.com/track/7nXJV6GP8cW9oHwHgkM6GU"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
-      },
-      "artists": [
-        {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        }
-      ],
-      "duration_ms": 175359,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
     },
     {
       "added_at": "2023-05-05 18:26:22",

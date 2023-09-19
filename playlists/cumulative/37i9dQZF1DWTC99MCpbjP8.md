@@ -4,7 +4,7 @@
 
 > Slow down and relax with soft, calming piano music.
 
-486 songs - 21 hr 5 min
+491 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 | 2023-03-28 |  |
 | [Closure](https://open.spotify.com/track/4pLt09DV3FFjNTLqbxhJcO) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Sweet Nostalgia](https://open.spotify.com/album/6dOBc28si0bRhW0SoQxdR6) | 3:57 | 2022-04-22 | 2022-09-16 |
 | [cold embrace](https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [cold embrace](https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF) | 2:57 | 2022-04-22 | 2023-08-15 |
+| [Cold Fire](https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR) | [Lot Gordon](https://open.spotify.com/artist/1Q6LTB4M1mV3SVrtW0ZIWl) | [Cold Fire](https://open.spotify.com/album/3gcMnFOQNITW4ULBIGhpcj) | 3:01 | 2023-09-18 |  |
 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 | 2022-04-22 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2022-04-22 |  |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-04-22 | 2023-08-08 |
@@ -125,6 +126,7 @@
 | [Evening tide](https://open.spotify.com/track/0CDcAZ780aambjOfSyi3nv) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Evening tide](https://open.spotify.com/album/5mDExQyqfGIgJ7d4PAsnXc) | 2:16 | 2023-01-31 |  |
 | [Everlost](https://open.spotify.com/track/5gKleAF9imvWmf46kIVar7) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Everlost](https://open.spotify.com/album/4OIaJjLneomYvwTl7zGRO7) | 3:01 | 2022-04-22 |  |
 | [Fairy Wings](https://open.spotify.com/track/6CMNS6pnhXrNMVIaySBaMY) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Fairy Wings](https://open.spotify.com/album/0AVeV4v7mhaOW7Okhxk7Yb) | 2:05 | 2023-06-19 |  |
+| [Faith](https://open.spotify.com/track/6rMKRMeW8iGPRGaAA3g8ZJ) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Faith](https://open.spotify.com/album/6KFLVb3LM2asbF4FbGdN99) | 2:13 | 2023-09-18 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-22 |  |
 | [Fascination](https://open.spotify.com/track/7aUvdK4ijMLLm29HAeuQzm) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Fascination](https://open.spotify.com/album/693GKAkPxQiKJtVQ8X7GRg) | 2:15 | 2022-07-27 |  |
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-04-22 | 2023-01-27 |
@@ -165,6 +167,7 @@
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2022-04-22 | 2023-01-27 |
 | [I Mellanrummen](https://open.spotify.com/track/2y5ndtKSNhKxhAmnrDbuIg) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [I Mellanrummen](https://open.spotify.com/album/5k0teDt2gqXjptNLUJltoz) | 2:09 | 2022-04-22 |  |
 | [I'll Be Dreaming](https://open.spotify.com/track/2FPuvgUV34THb0IzEBJvq6) | [Daníel Fannar](https://open.spotify.com/artist/5N36wGewpkol8rMbwxx0nj) | [I'll Be Dreaming](https://open.spotify.com/album/3qFk7Wk19e93A8wRFjPn1a) | 1:43 | 2023-03-28 | 2023-07-19 |
+| [If lonely...](https://open.spotify.com/track/3w7ooeKGTjTd8W7Qp2oAop) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [If lonely...](https://open.spotify.com/album/68CGa50C8hC4xr28VhCSmZ) | 2:19 | 2023-09-18 |  |
 | [If You Should Go](https://open.spotify.com/track/4EQRrRdoQ8vC4ULe8Kygpw) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [If You Should Go](https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP) | 2:07 | 2023-01-26 |  |
 | [Il Colibrì](https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Il Colibrì](https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS) | 2:30 | 2022-04-22 | 2023-08-08 |
 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 | 2022-04-22 | 2023-01-27 |
@@ -351,10 +354,12 @@
 | [Scenery](https://open.spotify.com/track/6geWKrtpXjDTp32yEDW8cs) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [Scenery](https://open.spotify.com/album/4rxV7w5hW3PxrW5npvzn4O) | 2:17 | 2022-09-23 | 2022-11-13 |
 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 | 2023-08-07 |  |
 | [schneller als der Wind](https://open.spotify.com/track/4zUEpKgqktHnXBsVraFPK8) | [Jaz Limon](https://open.spotify.com/artist/6xjq4OBddBYJ6OUaEOIyr6) | [schneller als der Wind](https://open.spotify.com/album/7G8SAjdXikta00iYT0unTf) | 2:58 | 2022-04-22 |  |
+| [Schwermut](https://open.spotify.com/track/51EGf0ICwuUiBCaem7ACTW) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Schwermut](https://open.spotify.com/album/5W27eTsZMlUo3tSjmpduWR) | 2:26 | 2023-09-18 |  |
 | [Se Réveiller](https://open.spotify.com/track/5NZHO5vtIllEHntPiTwfwd) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Se Réveiller](https://open.spotify.com/album/6zGXtuaQh1J6UHyd2Su7zt) | 3:03 | 2022-04-22 |  |
 | [Sempiternal](https://open.spotify.com/track/6aPNSFUv5X13wjZsjJAbYW) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Sempiternal](https://open.spotify.com/album/4dnpugZmM76LxImCmWfmgM) | 2:08 | 2022-04-22 |  |
 | [Sensibilities](https://open.spotify.com/track/2Utg4Imeeq5cI6DQ8AupwV) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:06 | 2022-04-22 | 2022-07-28 |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-04-22 |  |
+| [Shimmer](https://open.spotify.com/track/3Est0ZqQ8IyB74HoyKu1Db) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Shimmer](https://open.spotify.com/album/1UX8gCw0ubEBg1rcZroqC0) | 2:21 | 2023-09-18 |  |
 | [Short Florentine Story](https://open.spotify.com/track/7EAgMj9f01js3aptHpeIcm) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Short Florentine Story](https://open.spotify.com/album/7JokpJ0adu93ZHpONJXYDu) | 2:18 | 2022-04-22 | 2023-01-27 |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2022-04-22 | 2023-05-04 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-22 |  |

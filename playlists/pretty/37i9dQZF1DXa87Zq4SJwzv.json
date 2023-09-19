@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf08 AMOR ES AMOR \ud83c\udf08",
-  "num_followers": 42893,
+  "num_followers": 42968,
   "original_name": "Amor Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWFkOTU4MzA4NzJmNmU5NjE2NTc3YTJjOGMxMGQ5MmU5MDI5NjJh",
+  "snapshot_id": "MCw4NDJhNmQ3OTllZTMzYzQxNmQyZTE4NjM3NGEzYTlhYjliMmU2ZWE2",
   "tracks": [
     {
       "added_at": "2023-09-01 15:14:04",
@@ -255,58 +255,6 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "Mundo Lite",
-        "url": "https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd"
-      },
-      "artists": [
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        },
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Duele El Amor",
-      "url": "https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Nuez",
-        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 212698,
-      "name": "Nuez",
-      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 307866,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -343,6 +291,58 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "Mundo Lite",
+        "url": "https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Duele El Amor",
+      "url": "https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -443,6 +443,30 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Lamari",
+          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "Lu",
         "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
       },
@@ -475,30 +499,6 @@
       "duration_ms": 249760,
       "name": "No, No, No",
       "url": "https://open.spotify.com/track/1qjpqPksHOOIKcwShB08oz"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Ricky Martin MTV Unplugged",
-        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Lamari",
-          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
-        },
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "El alma al aire",
-        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 308560,
-      "name": "Cuando nadie me ve",
-      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+        "name": "El alma al aire",
+        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+      "duration_ms": 308560,
+      "name": "Cuando nadie me ve",
+      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "Monoambiente en Capital",
+        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Nico Cotton",
+          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
+        }
+      ],
+      "duration_ms": 181087,
+      "name": "Monoambiente en Capital",
+      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "Laura Pausini: 25 Aniversario (Spanish Version)",
         "url": "https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 270600,
       "name": "Es por Ti",
       "url": "https://open.spotify.com/track/2vcj4d4TpiyWqMbdRu4j6u"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Monoambiente en Capital",
-        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        },
-        {
-          "name": "Nico Cotton",
-          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
-        }
-      ],
-      "duration_ms": 181087,
-      "name": "Monoambiente en Capital",
-      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -951,22 +951,18 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
       },
       "artists": [
         {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -987,6 +983,26 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "SMS",
         "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 170447,
       "name": "El Mirador",
       "url": "https://open.spotify.com/track/0PIUMPLmzEAKBp3AHU5wzK"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
     },
     {
       "added_at": "2023-09-01 15:14:04",

@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Bayou
 
-301 songs - 16 hr 47 min
+302 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Show Me How You Dabke](https://open.spotify.com/track/6Bl5QgVb73Tnnu6Zymlh46) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Roy Chalach](https://open.spotify.com/artist/3GiWqQCncrMxAUUUbZ80Ov) | [Show Me How You Dabke](https://open.spotify.com/album/6kbOhJkqe2Hgcdra2IrJk5) | 3:09 | 2021-12-16 | 2022-11-20 |
 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Si Tu Vuelas \(Hadal Ahbek \[Alok Remix\]\)](https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM) | 3:17 | 2021-12-16 | 2023-02-07 |
 | [Sidi Mansour](https://open.spotify.com/track/6sNVx9BBrsA2IzwYSDfLOM) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Sidi Mansour](https://open.spotify.com/album/3ZONjiIIQLz72jYob5rhDM) | 4:41 | 2022-06-06 | 2022-06-24 |
+| [Sirens](https://open.spotify.com/track/4Y2UCKOJ7jvvgasA7FJSNE) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Sirens](https://open.spotify.com/album/7h5gLixz0Kl723RxDr6Fcv) | 2:39 | 2023-09-18 |  |
 | [slip](https://open.spotify.com/track/3VEltwNocXM7dVGSdkAs7A) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [slip](https://open.spotify.com/album/4FYt2ycWupuX8zePf7Ps1g) | 3:03 | 2021-12-16 | 2022-03-30 |
 | [SOLD](https://open.spotify.com/track/4hMcamMdjiJmZ3thozEqOR) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [SOLD](https://open.spotify.com/album/2FZStBhAxT7X2hJaPsUXDm) | 2:38 | 2022-08-04 | 2023-04-29 |
 | [Something I Need](https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Something I Need](https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX) | 3:36 | 2023-04-07 | 2023-05-27 |

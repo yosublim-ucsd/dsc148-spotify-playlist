@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 487027,
+  "num_followers": 487070,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY0NDBiODlkMTVkNWJiOTUzNzEwMTNmNWI0NmQ5OWQ3Njc1NDMz",
+  "snapshot_id": "MCxlYzBmZGVkNGE4Mjg5M2JmY2E1MTRmNTg3NjhiZjBjODQ0NmI5NGIw",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -131,6 +131,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Wild Cherry",
         "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
       },
@@ -143,6 +159,22 @@
       "duration_ms": 300000,
       "name": "Play That Funky Music",
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Children Of The World",
+        "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256493,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -179,38 +211,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "September (sped up + slowed)",
-        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 216022,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Children Of The World",
-        "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "I Love To Love - The Best Of",
         "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
       },
@@ -239,6 +239,38 @@
       "duration_ms": 281200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
+    },
+    {
+      "added_at": "2021-07-04 17:34:32",
+      "album": {
+        "name": "The Best Of Philadelphia International Records",
+        "url": "https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ"
+      },
+      "artists": [
+        {
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Ain't No Stoppin' Us Now - Single Version",
+      "url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -273,22 +305,6 @@
       "url": "https://open.spotify.com/track/0RAiBUgOC5pgFUHsldtix3"
     },
     {
-      "added_at": "2021-07-04 17:34:32",
-      "album": {
-        "name": "The Best Of Philadelphia International Records",
-        "url": "https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ"
-      },
-      "artists": [
-        {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Ain't No Stoppin' Us Now - Single Version",
-      "url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK"
-    },
-    {
       "added_at": "2020-04-14 18:41:41",
       "album": {
         "name": "The Best Of The Emotions: Best Of My Love",
@@ -319,22 +335,6 @@
       "duration_ms": 153946,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 339320,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -667,26 +667,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
-      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "I Got the Melody (Expanded Edition)",
         "url": "https://open.spotify.com/album/2R9rEVibO3wDnB950OThmj"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 179533,
       "name": "What Can I Say",
       "url": "https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
+      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -935,22 +935,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Master of the Game (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6H0jM12J3OL8uPFHQEJESX"
-      },
-      "artists": [
-        {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "I Love You More",
-      "url": "https://open.spotify.com/track/5LYkSMSgRRaxRUecVb9re9"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/6SF49J0lhxZYTBzl2VR7RB"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 204026,
       "name": "Holdin' Out for Love",
       "url": "https://open.spotify.com/track/5edCx91wk8zKkuF7o50uGp"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Master of the Game (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6H0jM12J3OL8uPFHQEJESX"
+      },
+      "artists": [
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "I Love You More",
+      "url": "https://open.spotify.com/track/5LYkSMSgRRaxRUecVb9re9"
     },
     {
       "added_at": "2020-04-14 18:41:41",

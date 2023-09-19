@@ -865,6 +865,28 @@
     },
     {
       "album": {
+        "name": "Cross Country: The Extra Mile",
+        "url": "https://open.spotify.com/album/47Neda2C9GGMDkgyM3fuqs"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159888,
+      "name": "My Truck (feat. Sam Hunt) - Remix",
+      "url": "https://open.spotify.com/track/0vInSJATtcoZZ0GofWNGjP"
+    },
+    {
+      "album": {
         "name": "BRELAND EP",
         "url": "https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt"
       },
@@ -880,7 +902,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 159888,
       "name": "My Truck (feat. Sam Hunt) - Remix",
       "url": "https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ"

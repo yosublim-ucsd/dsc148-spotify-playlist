@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth joints from around the globe
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,467 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,832 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 79 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 80 | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/track/4ptwKUD9Tsbi5Tz5MVehvy) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/album/5ZGQes5uklrLNQvwUxVBhN) | 4:42 |
 
-Snapshot ID: `MCw4YjNlZDdkZWM2N2FiNjBhNDIxMmZiYjE0YTA2NzIwYzUyYmE5ZGYw`
+Snapshot ID: `MCwyM2IzNDAwYzgzMjFmOGUzZDhmNDMxZjgyNzhkOWNkOTllMDc4MzQ5`

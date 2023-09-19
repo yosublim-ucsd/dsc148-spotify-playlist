@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0QkcgSGcNz3p0DocnmvCUR"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/0uqUzyDhs3Ujb5DWDvwiOW"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286966,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/2fGrNRKLkWJqGuzEST3pYX"
+    },
+    {
+      "album": {
         "name": "Traicion / Cruz de Navajas",
         "url": "https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr"
       },

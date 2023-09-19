@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 289012,
       "name": "Baatein Ye Kabhi Na (From \"Khamoshiyan\") - Male",
       "url": "https://open.spotify.com/track/6CV2iSJV2W6yAITDxSSes3"
@@ -806,6 +806,28 @@
       "duration_ms": 303000,
       "name": "Dil Udd Ja Re",
       "url": "https://open.spotify.com/track/4Qf3kmy6VqG3jzDuzubfFz"
+    },
+    {
+      "album": {
+        "name": "Jaane Jaan",
+        "url": "https://open.spotify.com/album/6gZFBDdMnlVn7NDzI4Hjyk"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215347,
+      "name": "Doriyaan",
+      "url": "https://open.spotify.com/track/7rvzWOTsj0tS7iCkHUupBq"
     },
     {
       "album": {

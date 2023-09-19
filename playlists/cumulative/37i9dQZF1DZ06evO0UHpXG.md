@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 8 min
+70 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Brotherhood Of Man](https://open.spotify.com/track/0hubXoyvsuxkq3UA2tfSeG) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The World Is Yours](https://open.spotify.com/album/3w6OQUsrAPQsPUC1fBkdv6) | 5:15 | 2022-12-30 |  |
 | [Bullet In Your Brain](https://open.spotify.com/track/4TDdlKWf59N0wqBTipYzcJ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bullet In Your Brain](https://open.spotify.com/album/3yn75PrdYZssPvj8kwKpN4) | 3:17 | 2022-12-30 | 2023-05-06 |
 | [Burner](https://open.spotify.com/track/4tNx0zCy4Ujs7b5IufkjQb) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 2:54 | 2022-12-30 |  |
+| [Climber \- Demo](https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Climber \(Demo\)](https://open.spotify.com/album/2SY1gA9CauKUlABy2UjWGm) | 3:13 | 2023-09-18 |  |
 | [Damage Case](https://open.spotify.com/track/5VtZWqbYE9vkVSbvqNmg2D) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 3:02 | 2022-12-30 |  |
 | [Eat the Rich](https://open.spotify.com/track/3XDkKF2P82Om5ZjAfxX2Y4) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/3aoZZWomzwY4KuXM2Jqt7C) | 4:34 | 2022-12-30 |  |
 | [Electricity](https://open.spotify.com/track/6PMwlVmXwdTUm4B7x5HU4x) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic: SERIOUSLY BAD MAGIC](https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay) | 2:16 | 2023-03-01 |  |
@@ -75,7 +76,7 @@
 | [Victory Or Die](https://open.spotify.com/track/2CiA531WXraGbovitMCPM1) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:08 | 2022-12-30 |  |
 | [We Are Motörhead](https://open.spotify.com/track/29o3PAov4DX7xGSJT2tCdh) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/2sqUz4v6XuHJL8k6R1WztI) | 2:21 | 2022-12-30 |  |
 | [When The Sky Comes Looking For You](https://open.spotify.com/track/7eQC1gaRWWK1bZI4i6ddne) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 2:58 | 2023-07-23 |  |
-| [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 | 2022-12-31 |  |
+| [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 | 2022-12-31 | 2023-09-19 |
 | [Whorehouse Blues](https://open.spotify.com/track/6DzNf5yqXpAAtie15t3MVx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 3:52 | 2022-12-30 |  |
 
 \*This playlist was first scraped on 2022-12-31. Prior content cannot be recovered.

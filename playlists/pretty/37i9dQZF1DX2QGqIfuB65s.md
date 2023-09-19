@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 
 > Top tracks that celebrate the connection between Hip\-Hop and sports.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,134 likes - 25 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,188 likes - 25 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 | 4 | [Straight Outta Compton](https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 4:18 |
 | 5 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 |
 | 6 | [Strait Playin' \- Superman Remix](https://open.spotify.com/track/4ghwi1suqbAe35y7UPFVEI) | [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Steel \- Music Inspired By The Original Motion Picture Soundtrack](https://open.spotify.com/album/7lpD1kUQGoOaNw3KRt6snH) | 3:44 |
-| 7 | [C.R.E.A.M\. \(Cash Rules Everything Around Me\) \(feat\. Method Man, Raekwon, Inspectah Deck & Buddha Monk\)](https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Buddha Monk](https://open.spotify.com/artist/4QTIR7KM0trauXspUNduhh) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:12 |
+| 7 | [C.R.E.A.M\. \(Cash Rules Everything Around Me\)](https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Buddha Monk](https://open.spotify.com/artist/4QTIR7KM0trauXspUNduhh) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:12 |
 | 8 | [Rapper's Delight](https://open.spotify.com/track/7sZDbHZiuHEzS00vzCuhqS) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [The Showdown: The Sugarhill Gang vs\. Grandmaster Flash & The Furious Five](https://open.spotify.com/album/0sux0KNu520ssuQT8dtSzi) | 7:07 |
 | 9 | [Slam](https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:38 |
 | 10 | [Free](https://open.spotify.com/track/7fLu4KJaQEDfbCiaBqVXhL) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Soul Food](https://open.spotify.com/album/6cKgDS8oVcCNw9EjQf66er) | 1:24 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 | 24 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 |
 | 25 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 |
 
-Snapshot ID: `MCwwNmM5MjQwYjEyMjQ1OWI2MGNhMTYwYzNlNWQ2NjIwMjk2NDYxMmE2`
+Snapshot ID: `MCw1OTM0YTk1NTU2YjQ3MzFhMjg1ODk0ZDA0MDY3YzJhZjdkNmJiNDhm`

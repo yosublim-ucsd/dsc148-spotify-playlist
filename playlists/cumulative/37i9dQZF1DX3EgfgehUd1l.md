@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-254 songs - 11 hr 11 min
+255 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Little Things Mean a Lot](https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd) | [Kitty Kallen](https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II) | [Kitty Kallen's Coloring Book](https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU) | 2:59 | 2020-07-08 |  |
 | [Living Doll](https://open.spotify.com/track/2OqzR7I7GF19T2qPrbmYQC) | [Cliff Richard & The Shadows](https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm) | [Radio Gold \- Cliff Richard And The Shadows](https://open.spotify.com/album/57M65RmmlmYha7Q2J54IJ4) | 2:36 | 2020-07-08 | 2022-07-29 |
 | [Living Doll](https://open.spotify.com/track/7uh4n1oxt2ewgi5Ly8ZHyW) | [Cliff Richard & The Shadows](https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm) | [Hit Collection](https://open.spotify.com/album/5GCOTlkiFPUC22CV1sfMgF) | 2:36 | 2020-07-08 | 2022-11-14 |
-| [Living Doll \- Remastered](https://open.spotify.com/track/3aOYYxFgjjLqVVlPG4vZFG) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Great Cliff Richard \(Remastered\)](https://open.spotify.com/album/7dM90TIccpNDNxRHIW1j4U) | 2:36 | 2020-07-08 |  |
+| [Living Doll \- Remastered](https://open.spotify.com/track/3aOYYxFgjjLqVVlPG4vZFG) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Great Cliff Richard \(Remastered\)](https://open.spotify.com/album/7dM90TIccpNDNxRHIW1j4U) | 2:36 | 2020-07-08 | 2023-09-19 |
 | [Look Homeward, Angel \- Single Version](https://open.spotify.com/track/23DGcepczkm9B2BZfXfeCo) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Walking In The Rain](https://open.spotify.com/album/0InsVXLbIHPOl34t1L9Y2m) | 2:47 | 2020-07-08 | 2022-07-20 |
 | [Love And Marriage](https://open.spotify.com/track/7eiG2sE8Yz0imfSoXzGEFx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/0Cx7IYEdG2T70z9xFknhDT) | 2:37 | 2020-07-08 | 2022-07-25 |
 | [Love And Marriage](https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:38 | 2020-07-08 |  |
@@ -179,6 +179,7 @@
 | [Rubber Ball](https://open.spotify.com/track/35gkASz2Cb1VryMGIuEPjX) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Bobby Vee](https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV) | 2:24 | 2020-07-08 |  |
 | [Sh\-Boom](https://open.spotify.com/track/7I774iZM4QkJK6gFPEEmS0) | [Floyd F\. McRay](https://open.spotify.com/artist/2eQow3uMhh2KrbnqSsyyyp), [Carl Feaster](https://open.spotify.com/artist/1LIPBL4oHGvxy322gYO5jt), [Claude Walter Feaster](https://open.spotify.com/artist/6fJKPRQnR25FMnxU2KRykI), [James Keyes](https://open.spotify.com/artist/2IAFLQVGrnAxD6icGJuPvz), [William Edwards](https://open.spotify.com/artist/4ZIkdZVB7BVdzALCxTM4EW), [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [Hearts in Atlantis \- Motion Picture Soundtrack](https://open.spotify.com/album/4RQ5uJfZPSeerliWiK5CU6) | 2:45 | 2020-07-08 | 2022-11-13 |
 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 | 2020-07-08 | 2023-09-15 |
+| [Sh\-Boom \(Life Could Be a Dream\)](https://open.spotify.com/track/293St1iPD5azdzsbDYjIWs) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Canadian Crew](https://open.spotify.com/album/4fSOSe21Ri2GCzGfapA6iX) | 2:46 | 2020-07-08 |  |
 | [Side By Side](https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv) | 2:52 | 2020-07-08 |  |
 | [Side By Side](https://open.spotify.com/track/7hVvAoadyCej8i3v3hm3Do) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/3KzeH6j8lksLOBLCqqSiQT) | 2:52 | 2020-07-08 | 2022-07-29 |
 | [Sixteen Tons](https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Vintage Collections](https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD) | 2:38 | 2020-07-08 |  |

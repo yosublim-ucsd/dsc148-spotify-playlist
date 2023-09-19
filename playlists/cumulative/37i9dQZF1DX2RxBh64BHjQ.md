@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0gg11prPP6OqtUvBcKnPpq">Rylo Rodriguez</a>
 
-1,292 songs - 2 day 10 hr 34 min
+1,293 songs - 2 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 | 2023-05-26 | 2023-08-19 |
 | [Falling Off \(feat\. Rico Nasty\)](https://open.spotify.com/track/5UVmvehbEDP74A8i6VP381) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Falling Off](https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og) | 4:24 | 2022-02-11 | 2022-02-26 |
 | [Famine \(with Xlovclo\)](https://open.spotify.com/track/2faMLchYuEAQtxX8e6XCsZ) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Xlovclo](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si) | [Famine](https://open.spotify.com/album/08qqsyFfs3mW5duJalfbwD) | 2:12 | 2022-06-03 | 2022-06-18 |
+| [Fan Or A Killer](https://open.spotify.com/track/4TvpN52tawjwsilh1WA6jf) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [ENJOY THE SHOW](https://open.spotify.com/album/3RtdXc8lRp6bZN6s5XcFKA) | 2:15 | 2023-09-18 |  |
 | [Fantasy \(feat\. Offset\)](https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Offset](https://open.spotify.com/artist/3xWSt0mL474uQlh5Zm6NsW) | [Big Grim Reaper: The Return](https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut) | 3:22 | 2022-02-25 | 2022-06-11 |
 | [FAST CAR! \(WITH TY DOLLA $IGN\)](https://open.spotify.com/track/0GCurxS69a0vfTmUfbVTaM) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [REAL RAW!](https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8) | 2:19 | 2023-05-05 | 2023-05-24 |
 | [Fat Racks Pt\. 2](https://open.spotify.com/track/2c4ticJc3SJRjnz6H9BKbp) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/72tHL4WxcC4A0YLIl1Jlmr) | 3:43 | 2023-03-10 | 2023-04-03 |

@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-335 songs - 20 hr 54 min
+336 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Day by Day \- Acoustic](https://open.spotify.com/track/3rpKU2rWPJEZK7lUOLaRxL) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Day by Day \(Acoustic\)](https://open.spotify.com/album/7vxcJ1BRA7yp804mS2TzQm) | 3:29 | 2021-11-05 | 2022-07-29 |
 | [Day by Day \- Acoustic](https://open.spotify.com/track/7zkXBmkaHsRzzSAc60bKNH) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Day by Day \(Acoustic\)](https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42) | 3:29 | 2022-07-22 |  |
 | [Day Plan](https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [Day Plan](https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w) | 3:46 | 2022-03-09 |  |
-| [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 | 2022-07-22 |  |
+| [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 | 2022-07-22 | 2023-09-19 |
 | [Detour](https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG) | 3:33 | 2022-08-02 |  |
 | [Detour](https://open.spotify.com/track/7DEY4XYmucW9CajmANlscn) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/3HaXu8yI1wBwmQB2ifgccT) | 3:33 | 2021-11-05 | 2022-10-13 |
 | [Disappearing Light](https://open.spotify.com/track/4vdgPnF1A6Wjs7N8BTxYO7) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Disappearing Light](https://open.spotify.com/album/4WwECMe4z8x94OUED4EsIg) | 3:42 | 2021-11-08 | 2022-07-29 |
@@ -181,6 +181,7 @@
 | [Molly](https://open.spotify.com/track/2XLQJSuY0JIVItivadN84f) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Molly](https://open.spotify.com/album/5tfFt1QNgng16TJQIilxLx) | 3:04 | 2021-11-08 | 2022-07-29 |
 | [Molly](https://open.spotify.com/track/3rbcS4sYF7L86YGajPqJwR) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Everything I Want](https://open.spotify.com/album/1t3j5GWx4XuMIxhVlbDAtZ) | 3:04 | 2023-03-24 |  |
 | [Moontalk](https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Moontalk](https://open.spotify.com/album/1u6P3Xd6avKoYiTfMF6kx6) | 3:11 | 2021-11-05 | 2022-07-29 |
+| [More](https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [More](https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ) | 3:42 | 2023-08-18 |  |
 | [More I See](https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:03 | 2022-07-22 | 2023-07-10 |
 | [More I See](https://open.spotify.com/track/3Bxo9PV2ye0DlIwSoUPzxZ) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [More I See](https://open.spotify.com/album/5nVmKlMumYAWOVYOtSDnWb) | 4:03 | 2021-11-05 | 2022-07-29 |
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2021-11-05 |  |

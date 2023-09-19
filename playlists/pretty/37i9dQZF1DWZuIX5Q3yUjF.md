@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Sidea
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,354 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,363 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 |
 | 60 | [Giorno libero](https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Giorno libero](https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU) | 3:27 |
 
-Snapshot ID: `MCwxOTcwMzIxMTM1OTBmNmVjOThmYjA5MWM4YjQxMjUyMmQxMGY1N2Vm`
+Snapshot ID: `MCxlYjc3ZGIwMWY5NGUyNzA1N2I2ZDcxYWFkNGNiMDA1YTM1YWRkYTBk`

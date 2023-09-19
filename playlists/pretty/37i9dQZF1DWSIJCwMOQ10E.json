@@ -1,15 +1,35 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Carlos Vives\n",
-  "num_followers": 95193,
+  "num_followers": 95215,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTkyNzU5MjAyMGVlZmRjMWJiMjNhMjcwODAyNDgxZDBhNWVlYjhj",
+  "snapshot_id": "MCxiNDI0NTFkZGFhYWM2YjRhZDhmYThhYjQzZmU0NWVlY2E5ZmRhNDE1",
   "tracks": [
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
+      "album": {
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+    },
+    {
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
@@ -29,23 +49,7 @@
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
-    },
-    {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
@@ -65,27 +69,23 @@
       "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "VUELA",
         "url": "https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq"
@@ -109,7 +109,51 @@
       "url": "https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2023-09-18 19:31:33",
+      "album": {
+        "name": "Espacio",
+        "url": "https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 203590,
+      "name": "Espacio",
+      "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
+    },
+    {
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
@@ -125,43 +169,7 @@
       "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
-      "album": {
-        "name": "El Merengue",
-        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2023-06-29 21:36:55",
-      "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
-    },
-    {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "D\u00e9jalo En Visto",
         "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
@@ -181,7 +189,43 @@
       "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
+      "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
+    {
+      "added_at": "2023-09-18 19:31:33",
+      "album": {
+        "name": "Chiquita",
+        "url": "https://open.spotify.com/album/3D1ujCJShDaTaZIZhAFBch"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
+        {
+          "name": "Benji Cordero",
+          "url": "https://open.spotify.com/artist/5NhE1pgahei4POWw4cIzJ3"
+        }
+      ],
+      "duration_ms": 148320,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/263UaojVegiH2Hgp3D1dov"
+    },
+    {
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
@@ -197,7 +241,7 @@
       "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Reclamando Nuestro Espacio",
         "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
@@ -213,7 +257,7 @@
       "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
@@ -229,7 +273,7 @@
       "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Cr\u00e9eme",
         "url": "https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG"
@@ -249,7 +293,7 @@
       "url": "https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
@@ -265,7 +309,7 @@
       "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "2.000",
         "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
@@ -281,23 +325,7 @@
       "url": "https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
-      "album": {
-        "name": "Millenium Hits",
-        "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 281260,
-      "name": "Persona Ideal",
-      "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
-    },
-    {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Travesuras",
         "url": "https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He"
@@ -313,7 +341,7 @@
       "url": "https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Intenso",
         "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
@@ -329,7 +357,23 @@
       "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
+      "album": {
+        "name": "Millenium Hits",
+        "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 281260,
+      "name": "Persona Ideal",
+      "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
+    },
+    {
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Puro Coraz\u00f3n",
         "url": "https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR"
@@ -345,23 +389,7 @@
       "url": "https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
-      "album": {
-        "name": "No Hay Quinto Malo",
-        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
-    },
-    {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Alguien Me Gusta",
         "url": "https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9"
@@ -385,7 +413,7 @@
       "url": "https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Si T\u00fa Me Quieres",
         "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
@@ -405,7 +433,23 @@
       "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
+    },
+    {
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Nace Del Alma",
         "url": "https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW"
@@ -425,23 +469,7 @@
       "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
-      "album": {
-        "name": "Sorpresa Caribe",
-        "url": "https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 275774,
-      "name": "Los Caminos De La Vida",
-      "url": "https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6"
-    },
-    {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
@@ -457,7 +485,23 @@
       "url": "https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
+      "album": {
+        "name": "Sorpresa Caribe",
+        "url": "https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 275774,
+      "name": "Los Caminos De La Vida",
+      "url": "https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6"
+    },
+    {
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "C\u00e1sate Conmigo",
         "url": "https://open.spotify.com/album/037f8ym7M1fzMAaWHtHY98"
@@ -477,7 +521,7 @@
       "url": "https://open.spotify.com/track/6f4UPdDBQONKJBRqwZGjaJ"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "La Tierra del Olvido",
         "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
@@ -493,7 +537,7 @@
       "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Bella (Remix)",
         "url": "https://open.spotify.com/album/4cEUisPsjbps3zDPV3pcnm"
@@ -513,7 +557,7 @@
       "url": "https://open.spotify.com/track/78nLeZtgvDeKygduWsgeUk"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Pegame Tu Vicio",
         "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
@@ -529,7 +573,7 @@
       "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Corazon Vallenato",
         "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
@@ -545,23 +589,7 @@
       "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
-      "album": {
-        "name": "Voy a Beber",
-        "url": "https://open.spotify.com/album/7pbNrorPeJquteY1Xb9z1p"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 212377,
-      "name": "Voy a Beber",
-      "url": "https://open.spotify.com/track/00MIYoxM5jrqZ9zzU1h4C2"
-    },
-    {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Con Aroma de Mujer",
         "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
@@ -577,7 +605,23 @@
       "url": "https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
+      "album": {
+        "name": "Voy a Beber",
+        "url": "https://open.spotify.com/album/7pbNrorPeJquteY1Xb9z1p"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 212377,
+      "name": "Voy a Beber",
+      "url": "https://open.spotify.com/track/00MIYoxM5jrqZ9zzU1h4C2"
+    },
+    {
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
@@ -597,7 +641,7 @@
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u"
@@ -613,7 +657,7 @@
       "url": "https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Vivo Pensando En Ti (feat. Maluma)",
         "url": "https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu"
@@ -633,7 +677,7 @@
       "url": "https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "La Hora de la Verdad",
         "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
@@ -653,7 +697,7 @@
       "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Orgullosa",
         "url": "https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB"
@@ -673,7 +717,7 @@
       "url": "https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Aut\u00e9ntico",
         "url": "https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD"
@@ -689,7 +733,7 @@
       "url": "https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Gente Valiente",
         "url": "https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF"
@@ -709,7 +753,7 @@
       "url": "https://open.spotify.com/track/3jqSBJ8I20iUN0Bw8NA5xQ"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "El Disco Que Me Gusta",
         "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
@@ -729,7 +773,7 @@
       "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
@@ -745,7 +789,7 @@
       "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "La Historia Continua",
         "url": "https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM"
@@ -761,7 +805,7 @@
       "url": "https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Agust\u00edn",
         "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
@@ -781,7 +825,7 @@
       "url": "https://open.spotify.com/track/0LGhVLgkwlP2FIXSwrdRFg"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
@@ -797,7 +841,7 @@
       "url": "https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "S\u00f3lo Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
@@ -821,7 +865,7 @@
       "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Descarga Espectacular",
         "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
@@ -837,7 +881,7 @@
       "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Milenario, Vol. 3",
         "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
@@ -857,7 +901,7 @@
       "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
     },
     {
-      "added_at": "2023-06-29 21:36:55",
+      "added_at": "2023-09-18 19:31:33",
       "album": {
         "name": "Full HD",
         "url": "https://open.spotify.com/album/1Iyffk6V5WgDjMc3SAoSHj"
@@ -871,42 +915,6 @@
       "duration_ms": 259265,
       "name": "Ras Tas Tas Full Hd",
       "url": "https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z"
-    },
-    {
-      "added_at": "2023-06-29 21:36:55",
-      "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 174297,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
-    },
-    {
-      "added_at": "2023-06-29 21:36:55",
-      "album": {
-        "name": "\u00c9xitos de la Champeta Urbana",
-        "url": "https://open.spotify.com/album/18O2bcdL2iaRBsozg7H0gV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Florez",
-          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "La Invit\u00e9 a Bailar",
-      "url": "https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1"
     }
   ],
   "unique_name": "Rumba Colombiana",

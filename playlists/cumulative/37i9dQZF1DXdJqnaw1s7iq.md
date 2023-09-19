@@ -4,7 +4,7 @@
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-120 songs - 8 hr 34 min
+121 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Gimme Some](https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Easier](https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B) | 5:08 | 2023-05-17 |  |
 | [Good Intentions](https://open.spotify.com/track/1zdDIieTg3JyVPeHPO9227) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 4:42 | 2023-05-17 | 2023-06-25 |
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2023-05-17 |  |
-| [Helios](https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Helios](https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S) | 3:18 | 2023-05-17 |  |
+| [Helios](https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Helios](https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S) | 3:18 | 2023-05-17 | 2023-09-19 |
 | [Hey Mami](https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 3:20 | 2023-05-17 |  |
 | [Hold On](https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:26 | 2023-05-17 |  |
 | [How Did You Know \- Live At Electric Lady](https://open.spotify.com/track/4IvRMvYi3aszvNkvw2TnfD) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Live At Electric Lady](https://open.spotify.com/album/3yNllkDnE2TupPL70cSVzR) | 4:08 | 2023-06-05 |  |
@@ -113,6 +113,7 @@
 | [Sunlight \(feat\. Years and Years\) \- Darius Remix](https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [Sunlight \(feat\. Years & Years\) \[Remixes\]](https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO) | 4:04 | 2023-05-17 |  |
 | [The Big Unknown](https://open.spotify.com/track/4Ri84aoor16uSkNtpAvPgQ) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Elder Island](https://open.spotify.com/album/5wyOoFvt08gMtEsiG42iPZ) | 5:03 | 2023-05-17 |  |
 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 | 2023-07-14 |  |
+| [The Heat](https://open.spotify.com/track/2ru82sMlycieEodGcKyszh) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:16 | 2023-05-17 |  |
 | [The Lung](https://open.spotify.com/track/45GTuMUP3lNuZcw7MGKfhx) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 4:53 | 2023-05-17 | 2023-06-16 |
 | [The Wheel](https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Tremors](https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp) | 3:53 | 2023-05-17 |  |
 | [This Song Is Not About A Girl](https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 4:14 | 2023-05-17 |  |

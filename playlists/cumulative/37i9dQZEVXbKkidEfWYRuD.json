@@ -18477,6 +18477,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0435\u0431\u043e",
+        "url": "https://open.spotify.com/album/4hIwbs26xKUWXO83Y8mU8W"
+      },
+      "artists": [
+        {
+          "name": "SadSvit",
+          "url": "https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219847,
+      "name": "\u041d\u0435\u0431\u043e",
+      "url": "https://open.spotify.com/track/2qGURS7y8zM7STkxOLgnWO"
+    },
+    {
+      "album": {
         "name": "\u041d\u0435\u0431\u043e \u0445\u0438\u043b\u0438\u0442\u044c\u0441\u044f",
         "url": "https://open.spotify.com/album/6SoyCHcNPVDIPpojssKObm"
       },
@@ -23194,7 +23212,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 135346,
       "name": "\u042d\u0439",
       "url": "https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw"

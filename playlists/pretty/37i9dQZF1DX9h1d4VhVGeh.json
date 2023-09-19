@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 163892,
+  "num_followers": 163983,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmEzMzgwMTVhMWRhMzJiN2IxNGE0MzA3ZDA2NDk0OTBkNjI2MWNk",
+  "snapshot_id": "MCxmYTIwZTRlNTE1YThmNmE2NGU5NTQwMGEzOWU4YWM4OWVlYTNlNDli",
   "tracks": [
     {
       "added_at": "2023-08-25 12:09:52",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-08-25 12:09:52",
       "album": {
-        "name": "Waga'a El Hawa",
-        "url": "https://open.spotify.com/album/3wklcSidQvgDPzgAmiAckq"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 297570,
-      "name": "Waga'a El Hawa",
-      "url": "https://open.spotify.com/track/1YW1dJLhxxlDab19RkeIQz"
-    },
-    {
-      "added_at": "2023-08-25 12:09:52",
-      "album": {
         "name": "Fairouz World, Pt. 1",
         "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 326739,
       "name": "Saaltak Habiby",
       "url": "https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7"
+    },
+    {
+      "added_at": "2023-08-25 12:09:52",
+      "album": {
+        "name": "Waga'a El Hawa",
+        "url": "https://open.spotify.com/album/3wklcSidQvgDPzgAmiAckq"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "duration_ms": 297570,
+      "name": "Waga'a El Hawa",
+      "url": "https://open.spotify.com/track/1YW1dJLhxxlDab19RkeIQz"
     },
     {
       "added_at": "2023-08-25 12:09:52",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-25 12:09:52",
       "album": {
-        "name": "Ensanein",
-        "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 227280,
-      "name": "Erjaa Shoufak",
-      "url": "https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO"
-    },
-    {
-      "added_at": "2023-08-25 12:09:52",
-      "album": {
         "name": "Talfantelak",
         "url": "https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 232396,
       "name": "Talfantelak",
       "url": "https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu"
+    },
+    {
+      "added_at": "2023-08-25 12:09:52",
+      "album": {
+        "name": "Ensanein",
+        "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "Erjaa Shoufak",
+      "url": "https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO"
     },
     {
       "added_at": "2023-08-25 12:09:52",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-08-25 12:09:52",
       "album": {
+        "name": "Eza",
+        "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
+      },
+      "artists": [
+        {
+          "name": "Nina Abdel Malak",
+          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+        }
+      ],
+      "duration_ms": 272471,
+      "name": "Khallini Bel Jaw",
+      "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
+    },
+    {
+      "added_at": "2023-08-25 12:09:52",
+      "album": {
         "name": "R.I.M.I.X",
         "url": "https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2023-08-25 12:09:52",
       "album": {
-        "name": "Eza",
-        "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6Ka5WwtprznAbsBEbmmBSs"
       },
       "artists": [
         {
-          "name": "Nina Abdel Malak",
-          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+          "name": "Hamza El Din",
+          "url": "https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ"
         }
       ],
-      "duration_ms": 272471,
-      "name": "Khallini Bel Jaw",
-      "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
+      "duration_ms": 224293,
+      "name": "Mwashah",
+      "url": "https://open.spotify.com/track/5qmccL1z7kKuKj3S4L9NNr"
     },
     {
       "added_at": "2023-08-25 12:09:52",
@@ -1131,22 +1147,6 @@
       "duration_ms": 200826,
       "name": "Bahebek Lelsama",
       "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
-    },
-    {
-      "added_at": "2023-08-25 12:09:52",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6Ka5WwtprznAbsBEbmmBSs"
-      },
-      "artists": [
-        {
-          "name": "Hamza El Din",
-          "url": "https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Mwashah",
-      "url": "https://open.spotify.com/track/5qmccL1z7kKuKj3S4L9NNr"
     },
     {
       "added_at": "2023-08-25 12:09:52",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-25 12:09:52",
       "album": {
-        "name": "Hawel Tensany",
-        "url": "https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Hawel Tensany",
-      "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
-    },
-    {
-      "added_at": "2023-08-25 12:09:52",
-      "album": {
         "name": "Ya Bay - Live",
         "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 370000,
       "name": "Ya Bay - Live",
       "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
+    },
+    {
+      "added_at": "2023-08-25 12:09:52",
+      "album": {
+        "name": "Hawel Tensany",
+        "url": "https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Hawel Tensany",
+      "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
     },
     {
       "added_at": "2023-08-25 12:09:52",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-25 12:09:52",
       "album": {
-        "name": "Ella Enta (Live Session)",
-        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 248952,
-      "name": "Ella Enta (Live Session)",
-      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
-    },
-    {
-      "added_at": "2023-08-25 12:09:52",
-      "album": {
         "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
         "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 206044,
       "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+    },
+    {
+      "added_at": "2023-08-25 12:09:52",
+      "album": {
+        "name": "Ella Enta (Live Session)",
+        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 248952,
+      "name": "Ella Enta (Live Session)",
+      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
     },
     {
       "added_at": "2023-08-25 12:09:52",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-08-25 12:09:52",
       "album": {
+        "name": "A Wish",
+        "url": "https://open.spotify.com/album/2IxwTQpM2n5tFm2hWaYZeM"
+      },
+      "artists": [
+        {
+          "name": "Hamza El Din",
+          "url": "https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ"
+        }
+      ],
+      "duration_ms": 464533,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/6muj0lvXBLEtDM2yw6H6ys"
+    },
+    {
+      "added_at": "2023-08-25 12:09:52",
+      "album": {
         "name": "Life (Acoustic)",
         "url": "https://open.spotify.com/album/11TZPC3sgwUZukOoGrwfQk"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2023-08-25 12:09:52",
       "album": {
-        "name": "A Wish",
-        "url": "https://open.spotify.com/album/2IxwTQpM2n5tFm2hWaYZeM"
+        "name": "Daba",
+        "url": "https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R"
       },
       "artists": [
         {
-          "name": "Hamza El Din",
-          "url": "https://open.spotify.com/artist/5Aq8aAMrRJlJj8DMI8xOJZ"
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
         }
       ],
-      "duration_ms": 464533,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/6muj0lvXBLEtDM2yw6H6ys"
+      "duration_ms": 272333,
+      "name": "Fasl",
+      "url": "https://open.spotify.com/track/0hylQMqabreoX3yi9Tfk8M"
     },
     {
       "added_at": "2023-08-25 12:09:52",
@@ -1611,22 +1627,6 @@
       "duration_ms": 168000,
       "name": "W3od",
       "url": "https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg"
-    },
-    {
-      "added_at": "2023-08-25 12:09:52",
-      "album": {
-        "name": "Daba",
-        "url": "https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R"
-      },
-      "artists": [
-        {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Fasl",
-      "url": "https://open.spotify.com/track/0hylQMqabreoX3yi9Tfk8M"
     },
     {
       "added_at": "2023-08-25 12:09:52",

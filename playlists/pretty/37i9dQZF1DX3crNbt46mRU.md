@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,969 likes - 113 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,973 likes - 113 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 98 | [Embers](https://open.spotify.com/track/3pKEBbRhqWNOEHZ9Ibaeec) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Spiritual Milk](https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R) | 3:33 |
 | 99 | [It's Crazy It's Party \(feat\. Tommy Cash\)](https://open.spotify.com/track/1FtibWDIm2kxf7zOlUcXvx) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [It's Crazy It's Party \(feat\. Tommy Cash\)](https://open.spotify.com/album/0YFNkhRzugyL2Td9loECCh) | 3:14 |
 | 100 | [Igel](https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Igel](https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv) | 2:14 |
-| 101 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 |
+| 101 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 |
 | 102 | [Warum](https://open.spotify.com/track/3pV4sj5o6cwxc5N7tXhFCI) | [twenty4tim](https://open.spotify.com/artist/0BJ10PxQXDtW07wTHuXuLu) | [PHOENIX](https://open.spotify.com/album/0VfxAg8eWuAuOd3Q1lD09z) | 2:20 |
 | 103 | [Horizont](https://open.spotify.com/track/3er3QrJGD7v1zoJST7AORh) | [O'Bros](https://open.spotify.com/artist/30vrenVnQWKWHe1rG3AwIy), [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Underrated](https://open.spotify.com/album/5u48DzxGAEyrKz3DRB84FU) | 2:56 |
 | 104 | [Serotonin](https://open.spotify.com/track/7CR35H2vSr3ly23iqFEpIC) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Serotonin](https://open.spotify.com/album/7KnyGK3HpU2pN9XKXw9he0) | 3:17 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 112 | [Replica Of My Heart](https://open.spotify.com/track/5PEAFtmWNhaUdrVzAP2inm) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Replica Of My Heart](https://open.spotify.com/album/1t0qPUVKhK3TSB9049ON4a) | 2:49 |
 | 113 | [Zur Party](https://open.spotify.com/track/7os57nYiBTo9eYF9ORz34j) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10), [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Zur Party](https://open.spotify.com/album/31I9h1f8SmZ7pGZE20xbrI) | 2:11 |
 
-Snapshot ID: `MCw3NmU0NTUyM2QyYWZjNzgyNmU4NmZlYjc2YTgyYzdhOTljOTM4OTEw`
+Snapshot ID: `MCwzZThlMWY4MGI3MTNlZTlmNzI0ODE0M2I4MDhiYjU5NWE3Y2Q4NTFl`

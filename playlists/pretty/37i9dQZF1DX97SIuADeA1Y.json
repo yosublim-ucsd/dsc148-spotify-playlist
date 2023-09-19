@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 319608,
+  "num_followers": 319711,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmJhNTAwM2ZhMjA4NGVjYjM5MDMwMWU2ZWEwMjlkYjNjYTU0Yjdj",
+  "snapshot_id": "MCxkNDBmODcyYWE5Y2U0NDE4ZDI0ZWNjM2ViY2JhODU3MjhlNzAzNjU2",
   "tracks": [
     {
       "added_at": "2023-09-08 11:07:56",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 151723,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
         "name": "Raindrops (feat. Jessica Chertock)",
         "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
@@ -591,22 +611,22 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
       },
       "artists": [
         {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
         },
         {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
         }
       ],
-      "duration_ms": 151723,
-      "name": "I'm Okay",
-      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -631,26 +651,6 @@
       "duration_ms": 202333,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
-      },
-      "artists": [
-        {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -843,30 +843,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4T TONY",
-          "url": "https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK"
-        },
-        {
-          "name": "MEDUN",
-          "url": "https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM"
-        },
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Cups (Drunk in Love Pt. 2)",
         "url": "https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x"
       },
@@ -891,6 +867,30 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4T TONY",
+          "url": "https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK"
+        },
+        {
+          "name": "MEDUN",
+          "url": "https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
         "name": "Wasting Youth",
         "url": "https://open.spotify.com/album/4X4Tu5rgFpKwk89wkSdCbZ"
       },
@@ -911,6 +911,30 @@
       "duration_ms": 135310,
       "name": "Wasting Youth",
       "url": "https://open.spotify.com/track/5SL2J25JUoQZHJVbR2biXm"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Dance For Me (1, 2, 3)",
+        "url": "https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3"
+      },
+      "artists": [
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Dance For Me (1, 2, 3)",
+      "url": "https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -955,30 +979,6 @@
       "duration_ms": 148657,
       "name": "Talk Talk Talk",
       "url": "https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "Dance For Me (1, 2, 3)",
-        "url": "https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3"
-      },
-      "artists": [
-        {
-          "name": "Lyente",
-          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
-        },
-        {
-          "name": "Quinten Circle",
-          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Dance For Me (1, 2, 3)",
-      "url": "https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1w3ITOS9BAgJ7qADAYJMAD"
-      },
-      "artists": [
-        {
-          "name": "PALASTIC",
-          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
-        },
-        {
-          "name": "NOVUM",
-          "url": "https://open.spotify.com/artist/5fbXkFsRWli6BMW6rUOTFv"
-        }
-      ],
-      "duration_ms": 147215,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/1aG6d3qaIQUe7kc1NzRdFW"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Never Surrender (feat. H. Kenneth)",
         "url": "https://open.spotify.com/album/3exvA9tTSdyyykWzLqCrCq"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 139668,
       "name": "Never Surrender (feat. H. Kenneth)",
       "url": "https://open.spotify.com/track/4N8XoCat9D67QHn7XDOHCZ"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1w3ITOS9BAgJ7qADAYJMAD"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        },
+        {
+          "name": "NOVUM",
+          "url": "https://open.spotify.com/artist/5fbXkFsRWli6BMW6rUOTFv"
+        }
+      ],
+      "duration_ms": 147215,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1aG6d3qaIQUe7kc1NzRdFW"
     }
   ],
   "unique_name": "SLAP!",

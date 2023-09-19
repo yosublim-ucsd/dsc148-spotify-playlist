@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 61014,
+  "num_followers": 61023,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzgyM2FlODkyMzkyMmZiM2JiNTU2MzY1MmMwOTAyYjJlY2IwOGU4",
+  "snapshot_id": "MCw3NmExMWUyMTJjYjk0MDlkOGZiZjg5YmI1YzE3NmY0OGE1N2YyOGNj",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 393973,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Emotion EP",
         "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 409961,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 393973,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
     },
     {
       "added_at": "2021-08-27 15:45:01",

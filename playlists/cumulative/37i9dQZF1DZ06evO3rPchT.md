@@ -4,7 +4,7 @@
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 33 min
+47 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [SOLD OUT](https://open.spotify.com/track/4D4d3N9nuPnvNg3ZAICWTN) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:22 | 2023-03-24 |  |
 | [Some Things Never Change \(feat\. HARDY\)](https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Timeless](https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE) | 2:51 | 2023-02-08 |  |
 | [Something A Lil' Stronger \(HARDY feat\. Mitchell Tenpenny, Jon Langston\)](https://open.spotify.com/track/6GgGiu5dJwmGReIQuoflM0) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:17 | 2023-02-08 |  |
+| [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 | 2023-09-18 |  |
 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 | 2023-02-08 |  |
 | [THIS OLE BOY](https://open.spotify.com/track/191CjRdmcxUYOrFEDQx7QA) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk) | 3:16 | 2023-02-08 |  |
 | [THROWBACK](https://open.spotify.com/track/7fToSlGPKlugVUCAZWvydi) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [THIS OLE BOY](https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk) | 3:23 | 2023-02-08 |  |

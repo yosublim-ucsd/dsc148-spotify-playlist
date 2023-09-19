@@ -1,12 +1,12 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 32237,
+  "num_followers": 32283,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWY4MjI5ZDBkOWEyOWQ5MTYzMTFjZjEzMzBhMTkwYTk5NDRhZmM5",
+  "snapshot_id": "MCwyOGFhMzc4NmJjMmNlYzE4Mzc2YTg1ZTI3NDUyZjdiYTQwZTg1YmM5",
   "tracks": [
     {
       "added_at": "2023-08-14 15:00:12",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
         "name": "Parque Acu\u00e1tico",
         "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 288388,
       "name": "High (feat. Apache)",
       "url": "https://open.spotify.com/track/5KQVSvivJ89ZFAPdsLLtyq"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "25 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
-      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
         "name": "Candela",
         "url": "https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 194213,
       "name": "San B\u00e1",
       "url": "https://open.spotify.com/track/1SZmIlruJaumMmS2CzTdDE"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+        "name": "Ruli",
+        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
       },
       "artists": [
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
         }
       ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+      "duration_ms": 234306,
+      "name": "Circunvalaci\u00f3n",
+      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
         "name": "B\u00e9same Morenita",
         "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 165520,
       "name": "B\u00e9same Morenita",
       "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
-        "name": "Ruli",
-        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Circunvalaci\u00f3n",
-      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 302280,
-      "name": "Sigo Caminando",
-      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
         "name": "Sue\u00f1o Que Va",
         "url": "https://open.spotify.com/album/1CRc8ryhBOAHz5BpJbbvXZ"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
       "artists": [
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 238986,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
+      "duration_ms": 302280,
+      "name": "Sigo Caminando",
+      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -643,6 +627,22 @@
       "duration_ms": 201021,
       "name": "Todo Lo Que Se Fue",
       "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Vengo",
-        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 166546,
-      "name": "Mi Verdad",
-      "url": "https://open.spotify.com/track/6ofSz8CfDJ91cIRKGzqnSG"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
         "name": "Vibrasound",
         "url": "https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 316066,
       "name": "Con Vos",
       "url": "https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
+        "name": "Vengo",
+        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 166546,
+      "name": "Mi Verdad",
+      "url": "https://open.spotify.com/track/6ofSz8CfDJ91cIRKGzqnSG"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Parte de Mi",
-        "url": "https://open.spotify.com/album/3ErYgvpNleudC23eIdPOTz"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 175401,
-      "name": "Parte de Mi",
-      "url": "https://open.spotify.com/track/7wDe4kdynBEvHQE1EhHJvW"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
         "name": "Tiempos de Tribulacion",
         "url": "https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 363120,
       "name": "Orillas",
       "url": "https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
+        "name": "Parte de Mi",
+        "url": "https://open.spotify.com/album/3ErYgvpNleudC23eIdPOTz"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 175401,
+      "name": "Parte de Mi",
+      "url": "https://open.spotify.com/track/7wDe4kdynBEvHQE1EhHJvW"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -887,6 +887,22 @@
       "duration_ms": 269013,
       "name": "Waitin (En Vivo) (feat. MAGIC!)",
       "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
+        "name": "Sue\u00f1o Que Va",
+        "url": "https://open.spotify.com/album/1CRc8ryhBOAHz5BpJbbvXZ"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "Intuicion",
+      "url": "https://open.spotify.com/track/5Tj1AcKCt9IPqoOMfTPsY5"
     },
     {
       "added_at": "2023-08-14 15:00:12",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Sue\u00f1o Que Va",
-        "url": "https://open.spotify.com/album/1CRc8ryhBOAHz5BpJbbvXZ"
-      },
-      "artists": [
-        {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Intuicion",
-      "url": "https://open.spotify.com/track/5Tj1AcKCt9IPqoOMfTPsY5"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
         "name": "Beatriz",
         "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
       },
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
+        "name": "Un Lustro Inyectando Ruido Positivo",
+        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 390173,
+      "name": "Juego a Muerte",
+      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
+    },
+    {
+      "added_at": "2023-08-14 15:00:12",
+      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 192849,
       "name": "Uchi Wala",
       "url": "https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61"
-    },
-    {
-      "added_at": "2023-08-14 15:00:12",
-      "album": {
-        "name": "Un Lustro Inyectando Ruido Positivo",
-        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Juego a Muerte",
-      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2023-08-14 15:00:12",

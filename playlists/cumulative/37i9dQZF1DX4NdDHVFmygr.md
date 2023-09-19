@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-296 songs - 16 hr 5 min
+297 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,10 +42,11 @@
 | [Ayay](https://open.spotify.com/track/44DBAjWwzFlUY2361xh6BW) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [R&B KINGZ](https://open.spotify.com/album/3568mNTIRB9KzRLFBYWCBh) | 3:05 | 2021-12-25 | 2022-03-09 |
 | [Ba9i Ghadi](https://open.spotify.com/track/1H6QL0ZZQE6PGEjIK6PquR) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Marjana](https://open.spotify.com/artist/5RYnsnyAY3olfaIWVVcjP5) | [Ba9i Ghadi](https://open.spotify.com/album/4B3gXNiT4cwYk0ncSimlSI) | 2:56 | 2021-12-25 | 2022-02-10 |
 | [BABA](https://open.spotify.com/track/7wx8mijv8TXROYv2WZ2oTM) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [BABA](https://open.spotify.com/album/1vNjVDbX6zT8eGXg5fKbwj) | 3:00 | 2021-12-25 | 2022-05-05 |
+| [Baghi Ntoub](https://open.spotify.com/track/4ZqfS1PEQlNmfKNUqPXmYr) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1), [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Baghi Ntoub](https://open.spotify.com/album/4Qy0HAqDOh20b7ss1YWbJI) | 2:42 | 2023-09-18 |  |
 | [Baqi](https://open.spotify.com/track/0ZEsqUUWGsL5FOv8qjnzNT) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [باقي](https://open.spotify.com/album/6ErhouXML7Oo2m3JIbFsj3) | 3:54 | 2022-06-09 | 2023-02-15 |
 | [BARAKA](https://open.spotify.com/track/6QzkkBwWeunfJbebhbdsU3) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [BARAKA](https://open.spotify.com/album/6l7VifF84WiHJSGZkRkEqs) | 3:42 | 2023-08-10 | 2023-09-05 |
 | [Bayen](https://open.spotify.com/track/6GW9c4VOXzxfODQEVtkaP7) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Bayen](https://open.spotify.com/album/7338ZC7BoYblLtLrQlDhcE) | 3:18 | 2022-03-17 | 2022-04-19 |
-| [Beddala](https://open.spotify.com/track/69cjzbiudXhEtBYBhJUEWC) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ) | [Beddala](https://open.spotify.com/album/4EWfuGu8HHGGJMsI7IYeLB) | 3:02 | 2023-09-04 |  |
+| [Beddala](https://open.spotify.com/track/69cjzbiudXhEtBYBhJUEWC) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ) | [Beddala](https://open.spotify.com/album/4EWfuGu8HHGGJMsI7IYeLB) | 3:02 | 2023-09-04 | 2023-09-19 |
 | [Bianco](https://open.spotify.com/track/2EdXbgelxBBEiNvRb3fpLv) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv), [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Bianco](https://open.spotify.com/album/3y9ruR0EtvfUOaYUIBITs4) | 2:06 | 2021-12-25 | 2022-02-08 |
 | [Bin Nass](https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0) | [Sofco](https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0), [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Bin Nass](https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P) | 3:58 | 2022-08-20 | 2022-09-07 |
 | [Bohdi li fiha](https://open.spotify.com/track/0bmWRMSelJl8IOGxrd8q3P) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 2:53 | 2023-01-04 | 2023-01-14 |

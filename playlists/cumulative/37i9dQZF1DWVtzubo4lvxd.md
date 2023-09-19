@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-238 songs - 9 hr 18 min
+239 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [flowers](https://open.spotify.com/track/3rOEB3uDJW8njCCzZHG8ug) | [Anatolian Lover](https://open.spotify.com/artist/623ScUknqQMeadlTsPsw0k), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [flowers](https://open.spotify.com/album/7tAaWz43voY2qe3kd4tvBL) | 1:45 | 2022-04-15 | 2022-07-27 |
 | [flumes](https://open.spotify.com/track/2RJLaVIbhv4TvYAyHUWEYs) | [dxwg](https://open.spotify.com/artist/3R7gYMibAfCIW7D9tN0UL5) | [flumes](https://open.spotify.com/album/4HOnws27YBHCLfI2Sx5JVH) | 2:30 | 2022-04-15 | 2022-07-29 |
 | [For Her](https://open.spotify.com/track/3CJpS12RnQe4gf00ssQnA7) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/1z2EULhFIYioLEV4K6DEHp) | 1:47 | 2022-04-15 | 2022-08-12 |
-| [For Her](https://open.spotify.com/track/5rzCO5V9AVV0zvgJbEfUos) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:47 | 2022-04-15 |  |
+| [For Her](https://open.spotify.com/track/5rzCO5V9AVV0zvgJbEfUos) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:47 | 2022-04-15 | 2023-09-19 |
 | [for you](https://open.spotify.com/track/2iGqmP4YP3hrx3ij9jvZsG) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/7hmMkesNBhzzGMiCbOCpMo) | 3:08 | 2022-04-15 | 2023-06-12 |
 | [for you](https://open.spotify.com/track/5hgX8pSZSOcKhsvzldsgWy) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/3W8IdpgA3elbN4BVggHCcd) | 3:08 | 2022-04-15 | 2022-11-19 |
 | [Found you by the Sea](https://open.spotify.com/track/2ovlA6kPP1XaR8hg7qgtnM) | [9thchord](https://open.spotify.com/artist/1FnAtXNjnVfTk157yQWzy5), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Found you by the Sea](https://open.spotify.com/album/2wH0zEupJScB87nbQhfFJt) | 2:56 | 2022-04-15 | 2022-07-29 |
@@ -88,6 +88,7 @@
 | [i dream of you every night](https://open.spotify.com/track/4Z5aQZdyQ8Fc3R7PE17T0e) | [lostlife.](https://open.spotify.com/artist/40OFkxP3djvsCg7Aj3d7sk) | [i dream of you every night](https://open.spotify.com/album/1aypmsUBuVvA4gG9mb40KL) | 2:27 | 2022-04-15 | 2022-07-28 |
 | [i love being with you](https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 1:36 | 2022-04-15 | 2023-09-14 |
 | [i love being with you](https://open.spotify.com/track/1SJkTuUNKe4rYQgX8wmqku) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 1:36 | 2022-04-15 | 2022-11-19 |
+| [i love being with you](https://open.spotify.com/track/3diGMqE8nIltVg7fFdwi9n) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 1:36 | 2022-04-15 |  |
 | [i love being with you](https://open.spotify.com/track/4wDMdX04ETYadP6lDHfuJL) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/7w1VLFYPh1KxlgvRhnqQtv) | 1:36 | 2022-04-15 | 2022-12-08 |
 | [In Memory Of..\. \(4guru\)](https://open.spotify.com/track/0AxhkrSMGaZ2YKleWIrTN0) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [In Memory Of..\. \(4guru\)](https://open.spotify.com/album/0NBZqoGnoY1B8BnU2zgc2p) | 2:17 | 2022-04-15 | 2022-07-04 |
 | [Interstellar](https://open.spotify.com/track/4Pyfm47MwAKVNyvlzFXnav) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Interstellar](https://open.spotify.com/album/4iRVlAWILJK2sWOBRl18Kl) | 2:44 | 2022-04-15 |  |

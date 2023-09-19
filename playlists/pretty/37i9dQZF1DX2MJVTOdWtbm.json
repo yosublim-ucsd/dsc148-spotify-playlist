@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Aleesha",
-  "num_followers": 110936,
+  "num_followers": 110967,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTgzZGE1ZjRjZmZiYmI4YTI3M2Q3ZjExN2Q4NzVlMzUyOTQ1YTMx",
+  "snapshot_id": "MCwyZTlkZjQwMTJiODdkZTc2NjIxYzdiZWZjMjU3YWI3ODZkZDVmZDhl",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "No Sabe Igual",
-        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "No Sabe Igual",
-      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -431,22 +415,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "algo as\u00ed (remix)",
         "url": "https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 223084,
       "name": "algo as\u00ed (remix)",
       "url": "https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "No Sabe Igual",
+        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "No Sabe Igual",
+      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 175000,
       "name": "Mil Maneras de Morir",
       "url": "https://open.spotify.com/track/7hmI4j25JJWODg80sWNTWS"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 165562,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "BeSos aL vIEnTo :(",
         "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 184800,
       "name": "BeSos aL vIEnTo :(",
       "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 165562,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 233743,
+      "name": "Horas y Horas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 233743,
-      "name": "Horas y Horas - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/0cBb2v72QQychZ8tuOyWCp"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 244700,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1263,22 +1247,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Nico Valdi produciendo a Juli Martorell",
-        "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o"
       },
       "artists": [
         {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        },
-        {
-          "name": "Juli Martorell",
-          "url": "https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV"
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
         }
       ],
-      "duration_ms": 164854,
-      "name": "Nico Valdi produciendo a Juli Martorell",
-      "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
+      "duration_ms": 198533,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1295,6 +1275,26 @@
       "duration_ms": 124800,
       "name": "9:15",
       "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Nico Valdi produciendo a Juli Martorell",
+        "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
+      },
+      "artists": [
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "Juli Martorell",
+          "url": "https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV"
+        }
+      ],
+      "duration_ms": 164854,
+      "name": "Nico Valdi produciendo a Juli Martorell",
+      "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "No Me Busques Donde Mismo",
-        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
         }
       ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1415,6 +1399,22 @@
       "duration_ms": 172186,
       "name": "Algod\u00f3n",
       "url": "https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "No Me Busques Donde Mismo",
+        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/4y1JivHvgNKyLD7Zx7RlHZ"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Cada D\u00eda Te Quiero M\u00e1s",
         "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 192418,
       "name": "Cada D\u00eda Te Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 (Live Session)",
-        "url": "https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
-      "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1555,6 +1539,22 @@
       "duration_ms": 202478,
       "name": "Garabatos",
       "url": "https://open.spotify.com/track/3nXitBuQU6JFccfQWH3oN1"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 (Live Session)",
+        "url": "https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
+      "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "No Fui Solo Yo",
+        "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 202942,
+      "name": "No Fui Solo Yo",
+      "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/0CYXBRNmeLu4YzSiXhGk8s"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 214080,
       "name": "Joligud",
       "url": "https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "No Fui Solo Yo",
-        "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
-      },
-      "artists": [
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 202942,
-      "name": "No Fui Solo Yo",
-      "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
     },
     {
       "added_at": "2023-09-01 04:00:00",

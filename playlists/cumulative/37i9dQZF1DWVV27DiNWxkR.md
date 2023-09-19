@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eilish.
 
-346 songs - 23 hr 24 min
+347 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Moon River](https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Moon River](https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q) | 3:08 | 2022-08-12 |  |
 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 | 2022-08-26 |  |
 | [My Blood Will Call out to You from the Ground](https://open.spotify.com/track/3Ha5BnM3hnMom3B7wPSBYU) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6), [The Musicians of the Apocalypse](https://open.spotify.com/artist/3daEbPQTOefptx00Snvn7K) | [When I Shoot at You with Arrows, I Will Shoot to Destroy You](https://open.spotify.com/album/7k0VVDoF8jwZ1joYO7SBJp) | 3:26 | 2019-09-29\* | 2022-04-10 |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-18 |  |
 | [My Mind is a Mess in the Morning](https://open.spotify.com/track/0gsFYbnx6GAQ3YOQlMsR5u) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Morning / Midnight // My Mind is a Mess in the Morning](https://open.spotify.com/album/0dnf61lE4vYKAivDQwUaTk) | 4:24 | 2022-04-22 | 2022-08-27 |
 | [My Wandering Days Are Over](https://open.spotify.com/track/56tvIKcMb2C5Zyuk7eQSr9) | [Belle & Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Tigermilk](https://open.spotify.com/album/5OHv40uxVjNFuilXYmuAo5) | 5:24 | 2020-08-30 | 2020-09-11 |
 | [Mystery of Love](https://open.spotify.com/track/4HbeGjbt7u3pvwDk1vN7P0) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me By Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM) | 4:08 | 2020-05-29 | 2022-07-29 |
@@ -254,7 +255,7 @@
 | [Sleep Apnea](https://open.spotify.com/track/6XyjwF7CAwuEaW77noJr6I) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Clash the Truth](https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw) | 2:26 | 2022-08-26 |  |
 | [Sleep in the Light](https://open.spotify.com/track/7tvf2vwI9Rz8La8xjZG5R0) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Johnny Goth / Molly Drag](https://open.spotify.com/album/2fnWQNssFmodRPwkGGTtY3) | 4:16 | 2019-09-29\* | 2020-07-01 |
 | [Sleepy People](https://open.spotify.com/track/567qfszjnKBv5e7OlBxoX9) | [Bettye Crutcher](https://open.spotify.com/artist/2rl5AdbYMS5wg5Zzsq4niL) | [Long As You Love Me](https://open.spotify.com/album/1zKsRnZoz0A5oLmoQaScaA) | 4:27 | 2020-08-30 | 2020-09-11 |
-| [Smithereens \(with Rachel Chinouriri\)](https://open.spotify.com/track/7KdlCAJJcJ7mczRt1fno7I) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Smithereens \(with Rachel Chinouriri\)](https://open.spotify.com/album/5ELFLpnlHXsqDXNN7God9h) | 2:43 | 2022-08-26 |  |
+| [Smithereens \(with Rachel Chinouriri\)](https://open.spotify.com/track/7KdlCAJJcJ7mczRt1fno7I) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Smithereens \(with Rachel Chinouriri\)](https://open.spotify.com/album/5ELFLpnlHXsqDXNN7God9h) | 2:43 | 2022-08-26 | 2023-09-19 |
 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 | 2023-08-17 |  |
 | [Soaps](https://open.spotify.com/track/0XfjwPAwhzlWKNjygDEKkW) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Philophobia](https://open.spotify.com/album/7EPg7ViX41MJPagOjqXjwn) | 4:16 | 2020-08-30 | 2020-09-11 |
 | [Sober II \(Melodrama\)](https://open.spotify.com/track/54ucfuN596MU25jQD3KjCL) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:58 | 2020-08-30 | 2020-09-11 |

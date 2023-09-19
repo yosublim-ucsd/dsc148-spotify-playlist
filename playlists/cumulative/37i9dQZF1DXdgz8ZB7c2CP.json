@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 301564,
       "name": "Aura",
       "url": "https://open.spotify.com/track/5bQ4sqavMnR6Ec0DZCs8AG"
@@ -4410,7 +4410,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 181500,
       "name": "heartbreak (feat. joegarratt)",
       "url": "https://open.spotify.com/track/7IsAYozq9Cm2v1hU6vutm1"
@@ -5000,7 +5000,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 247619,
       "name": "i luv ur smile",
       "url": "https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD"
@@ -6448,6 +6448,24 @@
       "duration_ms": 142500,
       "name": "More In Love",
       "url": "https://open.spotify.com/track/60QcWQ4bGoO7RwF1wK3qbG"
+    },
+    {
+      "album": {
+        "name": "Skreamizm 8",
+        "url": "https://open.spotify.com/album/6shH7NYCoBoWks3ddtW848"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329166,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/1NISyNrwwO4ysIDadFQI1c"
     },
     {
       "album": {
@@ -8431,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "Shibuya",
+        "url": "https://open.spotify.com/album/1lBvVKpWw4vV8YMadNzuLN"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/7DApqpQTciqtU8MwdXBSFL"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi"
       },
@@ -10060,6 +10096,24 @@
       "duration_ms": 217600,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/0e3nE2uundlG1Tn35qSLZt"
+    },
+    {
+      "album": {
+        "name": "Tratado",
+        "url": "https://open.spotify.com/album/4g09uUdGjos9R4tWzsQRF0"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254902,
+      "name": "Tratado",
+      "url": "https://open.spotify.com/track/3FIHVdnrLoAiwpHHwIf5Hb"
     },
     {
       "album": {

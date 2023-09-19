@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 16872,
+  "num_followers": 16893,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2ZhMDI2ZWIxMmE5MDQ2MjMwZDBiNTUyMzQxMGQyNDhmNmFmYzhl",
+  "snapshot_id": "MCxjMTAxMDQ5NjRiNGFiOWE5ZTQ2YzlhNDc4MWRlYjQxNTY3Zjc2ODE2",
   "tracks": [
     {
       "added_at": "2023-08-11 14:55:17",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
-      },
-      "artists": [
-        {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "El Choclo",
-      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -183,6 +167,22 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+      },
+      "artists": [
+        {
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "El Choclo",
+      "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
         "name": "Nelly Omar - Desde el alma",
         "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
       },
@@ -211,6 +211,26 @@
       "duration_ms": 205453,
       "name": "Yuyo Verde",
       "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
+      },
+      "artists": [
+        {
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        },
+        {
+          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
+          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
+        }
+      ],
+      "duration_ms": 148293,
+      "name": "Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -267,26 +287,6 @@
       "duration_ms": 136213,
       "name": "Arrabalera",
       "url": "https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
-      },
-      "artists": [
-        {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        },
-        {
-          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
-        }
-      ],
-      "duration_ms": 148293,
-      "name": "Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
+        "name": "Azsulado",
+        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
+      },
+      "artists": [
+        {
+          "name": "Alicia Vignola",
+          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Mujer ni\u00f1a y amiga",
+      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
         "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
         "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 113213,
       "name": "Pipistrela",
       "url": "https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Azsulado",
-        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
-      },
-      "artists": [
-        {
-          "name": "Alicia Vignola",
-          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Mujer ni\u00f1a y amiga",
-      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -499,8 +499,8 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8"
+        "name": "Morir de Amor",
+        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
         }
       ],
-      "duration_ms": 130720,
-      "name": "Baldosa Floja",
-      "url": "https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR"
+      "duration_ms": 197973,
+      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
+      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
-        "name": "Morir de Amor",
-        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
         }
       ],
-      "duration_ms": 197973,
-      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
-      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
+      "duration_ms": 130720,
+      "name": "Baldosa Floja",
+      "url": "https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
+      },
+      "artists": [
+        {
+          "name": "Maria Gra\u00f1a",
+          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
+        },
+        {
+          "name": "Eladia Blazquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 243893,
+      "name": "El Coraz\u00f3n al Sur",
+      "url": "https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
       },
@@ -707,46 +727,6 @@
       "duration_ms": 245733,
       "name": "La Mariposa",
       "url": "https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
-      },
-      "artists": [
-        {
-          "name": "Maria Gra\u00f1a",
-          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
-        },
-        {
-          "name": "Eladia Blazquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 243893,
-      "name": "El Coraz\u00f3n al Sur",
-      "url": "https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Vos y yo",
-        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        },
-        {
-          "name": "Leopoldo Federico",
-          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
-        }
-      ],
-      "duration_ms": 238852,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -839,6 +819,26 @@
     {
       "added_at": "2023-08-11 14:55:17",
       "album": {
+        "name": "Vos y yo",
+        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        },
+        {
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+        }
+      ],
+      "duration_ms": 238852,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 193348,
       "name": "La Piel de la Ciudad",
       "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
-    },
-    {
-      "added_at": "2023-08-11 14:55:17",
-      "album": {
-        "name": "Tangos Famosos Cantados",
-        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
     },
     {
       "added_at": "2023-08-11 14:55:17",
@@ -927,6 +911,22 @@
       "duration_ms": 208426,
       "name": "Yo No Se Que Me Han Hecho Tus Ojos",
       "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
+    },
+    {
+      "added_at": "2023-08-11 14:55:17",
+      "album": {
+        "name": "Tangos Famosos Cantados",
+        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
     },
     {
       "added_at": "2023-08-11 14:55:17",

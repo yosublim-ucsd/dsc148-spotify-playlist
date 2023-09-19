@@ -4,7 +4,7 @@
 
 > make me sweat 🥵 make me hotter 🔥
 
-1,210 songs - 2 day 15 hr 21 min
+1,211 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-08-10 | 2023-01-06 |
 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 | 2022-05-19 |  |
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2022-05-19 | 2022-10-29 |
-| [Company](https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:28 | 2023-06-06 |  |
+| [Company](https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:28 | 2023-06-06 | 2023-09-19 |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-25 |  |
 | [Conceited](https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Conceited](https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV) | 2:26 | 2022-07-04 |  |
 | [Congratulations](https://open.spotify.com/track/7EHhEcu9tJWPZmlsNX4Gud) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Congratulations](https://open.spotify.com/album/7fSx6FtzpzX3wmAUORj0cP) | 3:52 | 2022-05-19 |  |
@@ -225,6 +225,7 @@
 | [Could've Just Left Me Alone](https://open.spotify.com/track/03qh7qUB2zEPVWUc9isLCW) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Could've Just Left Me Alone](https://open.spotify.com/album/2fDCjGscOIFmJGbLN9eFPW) | 2:17 | 2022-05-26 | 2023-01-06 |
 | [Crazy](https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Crazy](https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8) | 2:48 | 2022-12-08 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-08 |  |
+| [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-18 |  |
 | [cross your mind](https://open.spotify.com/track/09gqiE8sqspbkfdr2x0CBs) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [cross your mind](https://open.spotify.com/album/0Fbrqq0fBxXMgavgOfsG37) | 2:40 | 2022-08-25 | 2023-01-06 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2022-06-23 |  |
 | [Cruel Summer \- Instrumental](https://open.spotify.com/track/5VWSAxd4fwgQHnxecD5i1d) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Taylor Swift, Vol\. 2 \(Instrumental\)](https://open.spotify.com/album/0MWGtJQnKBd3AOE9GaGBGV) | 2:56 | 2022-06-22 | 2022-06-24 |
@@ -650,7 +651,7 @@
 | [Mama Said](https://open.spotify.com/track/49oXJHnnxiWIdV5E6Btgf5) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(Blue Album\) \[International Version\]](https://open.spotify.com/album/0o2W2d2Zl7Bur5jph6phkm) | 3:26 | 2022-05-19 | 2022-07-29 |
 | [Mama Said](https://open.spotify.com/track/5ArQzSBevAdXTxRY6Ulhbq) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:26 | 2022-05-19 |  |
 | [Man Areas](https://open.spotify.com/track/3AN5LEspFZQdQUFUUqsDct) | [Jonny McGovern](https://open.spotify.com/artist/3M09gMoXXM7K2RitFqbFSM) | [The Gayest Of All Time](https://open.spotify.com/album/0C8RwY3TfTQaXbePl1ItnJ) | 3:16 | 2022-05-19 |  |
-| [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 | 2023-04-17 |  |
+| [Maria Maria](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 | 2023-04-17 |  |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2022-05-19 | 2022-10-07 |
 | [Marlboro Nights](https://open.spotify.com/track/7fuQc3IfjiB1gCqP9c1Xvy) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/67kzmAbAwzOWcLONoB8cg1) | 1:08 | 2022-05-19 | 2022-07-29 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-15 | 2022-09-02 |

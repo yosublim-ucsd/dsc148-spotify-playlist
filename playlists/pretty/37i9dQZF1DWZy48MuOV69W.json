@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 58600,
+  "num_followers": 58603,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2NjMTBhMThjZWIzZGU3NzRkYWNhYTI5MzAyNjUyYzVjYzQzNzBl",
+  "snapshot_id": "MCw5MmVlN2YxN2YzNjVhZTc3MTBlZWQwZjc1OTdkODM1MDU1MWJhMmI0",
   "tracks": [
     {
       "added_at": "2023-09-13 11:43:49",
@@ -103,6 +103,22 @@
     {
       "added_at": "2023-09-13 11:43:49",
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -147,58 +163,6 @@
       "duration_ms": 214786,
       "name": "Home For The Holidays",
       "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
-        "name": "Christmas Greetings",
-        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        }
-      ],
-      "duration_ms": 183412,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
-      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "The Secret Of Christmas",
-      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
     },
     {
       "added_at": "2023-09-13 11:43:49",
@@ -251,6 +215,42 @@
     {
       "added_at": "2023-09-13 11:43:49",
       "album": {
+        "name": "Christmas Greetings",
+        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "duration_ms": 183412,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "The Secret Of Christmas",
+      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-09-13 11:43:49",
       "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Christmas In Herald Square",
+      "url": "https://open.spotify.com/track/4XJ9FZtkJxnzGyB6mVXgld"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
         "name": "Merry Christmas from Jos\u00e9 James",
         "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 178066,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
-        "name": "The Voice Of Christmas - The Complete Decca Christmas Songbook",
-        "url": "https://open.spotify.com/album/2FQOz20SAkrmTXtce20DFA"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "The First Snowfall",
-      "url": "https://open.spotify.com/track/5RIh3Tsq9U7CAvivB2iB7q"
     },
     {
       "added_at": "2023-09-13 11:43:49",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-09-13 11:43:49",
       "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Christmas In Herald Square",
-      "url": "https://open.spotify.com/track/4XJ9FZtkJxnzGyB6mVXgld"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 241374,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
+        "name": "The Voice Of Christmas - The Complete Decca Christmas Songbook",
+        "url": "https://open.spotify.com/album/2FQOz20SAkrmTXtce20DFA"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "The First Snowfall",
+      "url": "https://open.spotify.com/track/5RIh3Tsq9U7CAvivB2iB7q"
     },
     {
       "added_at": "2023-09-13 11:43:49",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-13 11:43:49",
       "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Christmas Dreaming",
-      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 230906,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Christmas Dreaming",
+      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
     },
     {
       "added_at": "2023-09-13 11:43:49",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-13 11:43:49",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/7e5zGP0I9BPxJ3XzltgfbN"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2c7doFjJ66pEANqZQlDpT9"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 187200,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7e5zGP0I9BPxJ3XzltgfbN"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 201233,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2c7doFjJ66pEANqZQlDpT9"
     },
     {
       "added_at": "2023-09-13 11:43:49",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-09-13 11:43:49",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 236354,
       "name": "Maybe Next Christmas",
       "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
     },
     {
       "added_at": "2023-09-13 11:43:49",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-09-13 11:43:49",
       "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
+      },
+      "artists": [
+        {
+          "name": "Javon Jackson",
+          "url": "https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
         "name": "Joe Stilgoe's Christmas Album",
         "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
       },
@@ -739,38 +755,6 @@
     {
       "added_at": "2023-09-13 11:43:49",
       "album": {
-        "name": "Jazz To The World",
-        "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
-      },
-      "artists": [
-        {
-          "name": "Holly Cole",
-          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
-      },
-      "artists": [
-        {
-          "name": "Javon Jackson",
-          "url": "https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
         "name": "A Nancy Wilson Christmas",
         "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 237320,
       "name": "All Through The Night",
       "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
+        "name": "Jazz To The World",
+        "url": "https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
     },
     {
       "added_at": "2023-09-13 11:43:49",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-13 11:43:49",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 200180,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
-    },
-    {
-      "added_at": "2023-09-13 11:43:49",
-      "album": {
         "name": "The Very Best Time Of Year",
         "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 174066,
       "name": "A Song For Christmas",
       "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
+    },
+    {
+      "added_at": "2023-09-13 11:43:49",
+      "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 200180,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
     },
     {
       "added_at": "2023-09-13 11:43:49",

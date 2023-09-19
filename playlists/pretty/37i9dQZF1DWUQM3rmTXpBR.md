@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 ### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
-> Alternative Arabic songs\. Cover: Aziz Maraka
+> Alternative Arabic songs\. Cover: A5rass
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,059 likes - 73 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,074 likes - 73 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [لا تزعل مني](https://open.spotify.com/track/2OXIsflZ6QACOXefjU2XtX) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [لا تزعل مني](https://open.spotify.com/album/1mZy0tmloE0ReUGWyHcSxe) | 3:23 |
-| 2 | [Nasini](https://open.spotify.com/track/0uWR7uZwcW614lRvj49dCh) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Nasini](https://open.spotify.com/album/0s0y988ercm3WdehQy2Rv7) | 3:33 |
-| 3 | [Es3af](https://open.spotify.com/track/5khYoylXkIwVdQFLCcB9Y5) | [Idreesi](https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [Es3af](https://open.spotify.com/album/6DDHBycta6TWnWQTrIGfox) | 2:35 |
-| 4 | [Fattaht](https://open.spotify.com/track/0ma4ipffXSLN3MsVLnyqMQ) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Fattaht](https://open.spotify.com/album/44cb4xOeQ0EEkQEt8bFlKQ) | 2:56 |
-| 5 | [Sawt El Madini](https://open.spotify.com/track/70Urq3p5yK8I75TtTMg945) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Sawt El Madini](https://open.spotify.com/album/2G1qgmAYD4wfPLOU9qTrFp) | 3:09 |
-| 6 | [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 |
-| 7 | [Al Hamdullah](https://open.spotify.com/track/1I7EiwtCU8q7oB68P6lEJN) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Al Hamdullah](https://open.spotify.com/album/6Juo9kUV5BTp1DbY3Vv2mB) | 3:28 |
-| 8 | [وسط الدوامة](https://open.spotify.com/track/5xHyfIDDVOMdhtOUBZ1SmA) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [وسط الدوامة](https://open.spotify.com/album/6m42mTl7UmDxA7OqhWmO3i) | 5:24 |
-| 9 | [Badareek \- بداريك](https://open.spotify.com/track/1Iw0LkV3VNc9KhwkTzPaku) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Badareek \(بداريك\)](https://open.spotify.com/album/34dPhKMYFcyEThP7eMbXqg) | 2:53 |
+| 1 | [Badareek \- بداريك](https://open.spotify.com/track/1Iw0LkV3VNc9KhwkTzPaku) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Badareek \(بداريك\)](https://open.spotify.com/album/34dPhKMYFcyEThP7eMbXqg) | 2:53 |
+| 2 | [لا تزعل مني](https://open.spotify.com/track/2OXIsflZ6QACOXefjU2XtX) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [لا تزعل مني](https://open.spotify.com/album/1mZy0tmloE0ReUGWyHcSxe) | 3:23 |
+| 3 | [Nasini](https://open.spotify.com/track/0uWR7uZwcW614lRvj49dCh) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Nasini](https://open.spotify.com/album/0s0y988ercm3WdehQy2Rv7) | 3:33 |
+| 4 | [Es3af](https://open.spotify.com/track/5khYoylXkIwVdQFLCcB9Y5) | [Idreesi](https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [Es3af](https://open.spotify.com/album/6DDHBycta6TWnWQTrIGfox) | 2:35 |
+| 5 | [Fattaht](https://open.spotify.com/track/0ma4ipffXSLN3MsVLnyqMQ) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Fattaht](https://open.spotify.com/album/44cb4xOeQ0EEkQEt8bFlKQ) | 2:56 |
+| 6 | [Sawt El Madini](https://open.spotify.com/track/70Urq3p5yK8I75TtTMg945) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Sawt El Madini](https://open.spotify.com/album/2G1qgmAYD4wfPLOU9qTrFp) | 3:09 |
+| 7 | [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 |
+| 8 | [Al Hamdullah](https://open.spotify.com/track/1I7EiwtCU8q7oB68P6lEJN) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Al Hamdullah](https://open.spotify.com/album/6Juo9kUV5BTp1DbY3Vv2mB) | 3:28 |
+| 9 | [وسط الدوامة](https://open.spotify.com/track/5xHyfIDDVOMdhtOUBZ1SmA) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [وسط الدوامة](https://open.spotify.com/album/6m42mTl7UmDxA7OqhWmO3i) | 5:24 |
 | 10 | [عشانك](https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/56AVpqfi0bb5Er9csg3gnk) | 3:07 |
 | 11 | [Awal Kelmi](https://open.spotify.com/track/3wsvQrjCkPZFoOF8MLGGaz) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Awal Kelmi](https://open.spotify.com/album/2TdxqR34fvEuXo6gnLzrvr) | 3:33 |
 | 12 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 72 | [Layla](https://open.spotify.com/track/0oXXaN5krMQ4NR0Hs2C0hJ) | [Judran](https://open.spotify.com/artist/1KC7iXkAh7Z7gX7XJqarBd) | [Layla](https://open.spotify.com/album/3Du6enmqaPYMtjYvM52UCL) | 6:03 |
 | 73 | [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 |
 
-Snapshot ID: `MCwxMmZkOWQyMzI2ZmI1ODczOGJhODQzZWQ3MTVlNjU1ZmI1N2FjMDAx`
+Snapshot ID: `MCwzNjk0NTg2OWE2NGM0NDkzYTFjMWIyMjVjYmQ5Mzg5MzE4MDI4ZDM5`

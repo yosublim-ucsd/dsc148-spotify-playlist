@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil",
-  "num_followers": 10816,
+  "num_followers": 10839,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGExZTg4NDVlNjk1NmYxODI0YWY4ZGFlODUxODIxMjMwZjRjNDAx",
+  "snapshot_id": "MCw1YjVkZmJhMGEwNzg1MWM5ZWEwNTlhMmUzNjQxMzg5M2EwN2VkYjE2",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -171,6 +171,30 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
+        },
+        {
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
+        }
+      ],
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "AluSina",
         "url": "https://open.spotify.com/album/3dNOgfJ2zEpqt2ablgMG4C"
       },
@@ -207,6 +231,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Pena Que Acabou",
+        "url": "https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Pena Que Acabou",
+      "url": "https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -227,46 +267,6 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Pena Que Acabou",
-        "url": "https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ"
-      },
-      "artists": [
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Pena Que Acabou",
-      "url": "https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Promessas",
-        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Promessas",
-      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Proveito",
         "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 216000,
       "name": "Proveito",
       "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -587,30 +587,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Nem Me Beijou",
-        "url": "https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if"
-      },
-      "artists": [
-        {
-          "name": "Marvyn",
-          "url": "https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU"
-        },
-        {
-          "name": "Naldo Benny",
-          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
-        }
-      ],
-      "duration_ms": 193768,
-      "name": "Nem Me Beijou",
-      "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Compasso",
         "url": "https://open.spotify.com/album/4e5ouUNZcjSCA6yIw9q1eX"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 156781,
       "name": "Compasso",
       "url": "https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Nem Me Beijou",
+        "url": "https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if"
+      },
+      "artists": [
+        {
+          "name": "Marvyn",
+          "url": "https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU"
+        },
+        {
+          "name": "Naldo Benny",
+          "url": "https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+        }
+      ],
+      "duration_ms": 193768,
+      "name": "Nem Me Beijou",
+      "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -687,6 +687,22 @@
       "duration_ms": 133333,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/0SpbQAtLtyIaV7Xjr6f8b6"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Inten\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
+      },
+      "artists": [
+        {
+          "name": "Teresa",
+          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
+        }
+      ],
+      "duration_ms": 135625,
+      "name": "Inten\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -779,26 +795,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
-      },
-      "artists": [
-        {
-          "name": "D'Castelo",
-          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
-        },
-        {
-          "name": "BRUNNOASH",
-          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
-        }
-      ],
-      "duration_ms": 220389,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Incertezas",
         "url": "https://open.spotify.com/album/3xjeeEaGOriHi8XUMRt3bn"
       },
@@ -819,6 +815,46 @@
       "duration_ms": 156600,
       "name": "Incertezas",
       "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Em Mim",
+        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+        }
+      ],
+      "duration_ms": 126143,
+      "name": "Em Mim",
+      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
+      },
+      "artists": [
+        {
+          "name": "D'Castelo",
+          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
+        },
+        {
+          "name": "BRUNNOASH",
+          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
+        }
+      ],
+      "duration_ms": 220389,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -907,62 +943,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Inten\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
-      },
-      "artists": [
-        {
-          "name": "Teresa",
-          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
-        }
-      ],
-      "duration_ms": 135625,
-      "name": "Inten\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Em Mim",
-        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
-      },
-      "artists": [
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
-        }
-      ],
-      "duration_ms": 126143,
-      "name": "Em Mim",
-      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Me Deixa",
-        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 149351,
-      "name": "Me Deixa",
-      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "S\u00f3 Minha",
         "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
       },
@@ -1003,6 +983,26 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Me Deixa",
+        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 149351,
+      "name": "Me Deixa",
+      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Anos Luz",
         "url": "https://open.spotify.com/album/3ODbaa0vBZtfyZXaNFGgxy"
       },
@@ -1015,6 +1015,26 @@
       "duration_ms": 213800,
       "name": "Pele Prata",
       "url": "https://open.spotify.com/track/0lUC1F84DG4m4UIdsAsn5T"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Mexe",
+        "url": "https://open.spotify.com/album/1mqK9aWzwHg84PTR3ata3r"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Mexe",
+      "url": "https://open.spotify.com/track/2ZAB7NNxi08CR1tfUf1qAP"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1039,22 +1059,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Mexe",
-        "url": "https://open.spotify.com/album/1mqK9aWzwHg84PTR3ata3r"
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
       },
       "artists": [
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "GR\u20acG MC",
+          "url": "https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u"
         },
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Mexe",
-      "url": "https://open.spotify.com/track/2ZAB7NNxi08CR1tfUf1qAP"
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     }
   ],
   "unique_name": "pique afrobeats",

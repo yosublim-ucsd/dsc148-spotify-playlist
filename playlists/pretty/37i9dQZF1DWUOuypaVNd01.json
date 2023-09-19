@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 32806,
+  "num_followers": 32837,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDE1ODU3MTFlYjg1OGE1NzU4YTgxOTQ3MDAyOWQzYjkyNzIyZTdh",
+  "snapshot_id": "MCwzZWU1ODk0ZGJiZWZmNjIzNGU2MDFjZTYzMzE5NDMwYmY0OGZmNjNm",
   "tracks": [
     {
       "added_at": "2023-09-04 13:49:57",
@@ -227,6 +227,26 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 120833,
+      "name": "Esculpido a Machado",
+      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
         "name": "BRAZIL",
         "url": "https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 124564,
       "name": "BRAZIL",
       "url": "https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 120833,
-      "name": "Esculpido a Machado",
-      "url": "https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -347,30 +347,6 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Aonde Eu Sou Cria",
-        "url": "https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 154909,
-      "name": "Aonde Eu Sou Cria",
-      "url": "https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
         "name": "Os Pitbull do Ano, Pt. 2",
         "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
       },
@@ -395,6 +371,50 @@
       "duration_ms": 207976,
       "name": "Os Pitbull do Ano, Pt. 2",
       "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
+        "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
+        "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 155942,
+      "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
+      "url": "https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
+        "name": "Aonde Eu Sou Cria",
+        "url": "https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 154909,
+      "name": "Aonde Eu Sou Cria",
+      "url": "https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -475,26 +495,6 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
-        "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 155942,
-      "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
-      "url": "https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
         "name": "Rumo ao Estrelato",
         "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
       },
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 112764,
+      "name": "Mandrake",
+      "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
         "name": "Roteiro pra A\u00efnouz (Vol. 2)",
         "url": "https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL"
       },
@@ -591,74 +607,6 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Favela Drill",
-        "url": "https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Chutei o Balde",
-      "url": "https://open.spotify.com/track/10bwZodG6Nd4WKsoKJo3Tg"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 112764,
-      "name": "Mandrake",
-      "url": "https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
-        "name": "Concreto",
-        "url": "https://open.spotify.com/album/0484Oh2IFxPJEyEQfdxg5g"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Concreto",
-      "url": "https://open.spotify.com/track/0j3wFKPtHef1d6ode3mzKk"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
         "name": "Rock Danger Worldwide/Chile",
         "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
       },
@@ -695,22 +643,30 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+        "name": "Favela Drill",
+        "url": "https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ"
       },
       "artists": [
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
         },
         {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
         }
       ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
+      "duration_ms": 156083,
+      "name": "Chutei o Balde",
+      "url": "https://open.spotify.com/track/10bwZodG6Nd4WKsoKJo3Tg"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -771,6 +727,50 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
+        "name": "Concreto",
+        "url": "https://open.spotify.com/album/0484Oh2IFxPJEyEQfdxg5g"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Concreto",
+      "url": "https://open.spotify.com/track/0j3wFKPtHef1d6ode3mzKk"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
         "name": "JOVEM OG",
         "url": "https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ"
       },
@@ -787,6 +787,30 @@
       "duration_ms": 188330,
       "name": "CRIME",
       "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -839,30 +863,6 @@
       "duration_ms": 169130,
       "name": "Faixa Preta",
       "url": "https://open.spotify.com/track/15mfSyeqvnqu8HThdlGjg3"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -963,30 +963,6 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "RADDIM",
-        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 209738,
-      "name": "Raddim",
-      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
         "name": "NAG\u00d4",
         "url": "https://open.spotify.com/album/3wSJQ19HeumQwpmWiiJ8kJ"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 207022,
       "name": "NAG\u00d4",
       "url": "https://open.spotify.com/track/5FIF8T1ns1YEQVuq6rjGMw"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
+        "name": "RADDIM",
+        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 209738,
+      "name": "Raddim",
+      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Riqueza",
-        "url": "https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs"
-      },
-      "artists": [
-        {
-          "name": "Dend\u00ea",
-          "url": "https://open.spotify.com/artist/306dURz1s90QIIZaVusODl"
-        },
-        {
-          "name": "Vin\u00e3o Beats",
-          "url": "https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH"
-        }
-      ],
-      "duration_ms": 140176,
-      "name": "Riqueza",
-      "url": "https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
+        "name": "Riqueza",
+        "url": "https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs"
+      },
+      "artists": [
+        {
+          "name": "Dend\u00ea",
+          "url": "https://open.spotify.com/artist/306dURz1s90QIIZaVusODl"
+        },
+        {
+          "name": "Vin\u00e3o Beats",
+          "url": "https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH"
+        }
+      ],
+      "duration_ms": 140176,
+      "name": "Riqueza",
+      "url": "https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr"
     },
     {
       "added_at": "2023-09-04 13:49:57",

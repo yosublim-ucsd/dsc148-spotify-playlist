@@ -55703,6 +55703,24 @@
     },
     {
       "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
+    },
+    {
+      "album": {
         "name": "Lexicon",
         "url": "https://open.spotify.com/album/7yco9Vsq2MAOlHx9xaju0N"
       },
@@ -55714,7 +55732,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 177733,
       "name": "Lexicon",
       "url": "https://open.spotify.com/track/70aDp1WRRHjSO2EFYvFgLK"

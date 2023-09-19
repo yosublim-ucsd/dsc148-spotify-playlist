@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,420 likes - 13 songs - 42 min 28 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,451 likes - 13 songs - 42 min 28 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 12 | [He Made Me Do It](https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:32 |
 | 13 | [Lucky](https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:41 |
 
-Snapshot ID: `MjgyNDYzNTEsMDAwMDAwMDA0YzVmNGE4ZDE2MDhlMWYzNmI1OTcwMjNkYzA2ZjMwMw==`
+Snapshot ID: `MjgyNTA2NTIsMDAwMDAwMDAwZmM1ZjEwZjY5ZmEyY2NlZmY0MjY0Yjc2MTI4YmNiNQ==`

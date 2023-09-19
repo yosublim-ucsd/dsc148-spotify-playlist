@@ -1466,6 +1466,28 @@
     {
       "album": {
         "name": "Happier (Stripped)",
+        "url": "https://open.spotify.com/album/45mLpZJlL5jNHxK2hk0BS8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250506,
+      "name": "Happier - Stripped",
+      "url": "https://open.spotify.com/track/0Gz1nOeTeNoMnKzb9vflds"
+    },
+    {
+      "album": {
+        "name": "Happier (Stripped)",
         "url": "https://open.spotify.com/album/5VqnU8anFTGqsFQvAXKx6l"
       },
       "artists": [
@@ -2912,7 +2934,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 112173,
       "name": "Ones You Miss - Acoustic",
       "url": "https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz",
-  "num_followers": 386787,
+  "num_followers": 386830,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDk1ZDMzNDM4MGJlNzIwMjk4ZGM5OWYzZDFlZGJlZDQ2Y2M3YTVm",
+  "snapshot_id": "MCxkOTUxNDllYWQ1NmZmYjg4ZDcyYWE5MTNiNDBiOGZlNjYwMmJkOTQy",
   "tracks": [
     {
       "added_at": "2023-09-08 20:58:23",
@@ -343,38 +343,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Ni Es Lo Mismo Ni Es Igual",
-        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Vale la Pena",
-      "url": "https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "In Da House",
         "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
       },
@@ -407,6 +375,22 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
         "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
         "url": "https://open.spotify.com/album/5nRiEq87f96f29KYC09oZU"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 195240,
       "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
       "url": "https://open.spotify.com/track/3FeMpPPhGRKieT8zmlJDQz"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Ni Es Lo Mismo Ni Es Igual",
+        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Vale la Pena",
+      "url": "https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -479,34 +479,18 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+        "name": "Sandy & Papo MC",
+        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Sandy & Papo",
+          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
         }
       ],
-      "duration_ms": 295280,
-      "name": "A Pedir Su Mano",
-      "url": "https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
+      "duration_ms": 290226,
+      "name": "La Hora De Bailar",
+      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -527,18 +511,18 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Sandy & Papo MC",
-        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Sandy & Papo",
-          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 290226,
-      "name": "La Hora De Bailar",
-      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -559,6 +543,22 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "A Pedir Su Mano",
+      "url": "https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
+        "name": "Los Hijos Del Rey",
+        "url": "https://open.spotify.com/album/014dlhTlNSo8mOUN4IwWal"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 306442,
+      "name": "La Quiero a Morir",
+      "url": "https://open.spotify.com/track/66cquyyzQVJr3XFTokrHxl"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
         "name": "Loma de Cayenas",
         "url": "https://open.spotify.com/album/1QO8tFhzFpI1NcyEtY3ljl"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 225868,
       "name": "Loma de Cayenas",
       "url": "https://open.spotify.com/track/3ARHcfADevNLh3m5oz2TVG"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "Los Hijos Del Rey",
-        "url": "https://open.spotify.com/album/014dlhTlNSo8mOUN4IwWal"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 306442,
-      "name": "La Quiero a Morir",
-      "url": "https://open.spotify.com/track/66cquyyzQVJr3XFTokrHxl"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Te Voy a Hacer Falta",
-      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "Vete y Dile",
         "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 271226,
       "name": "Anoche Hablamos de Amor",
       "url": "https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Te Voy a Hacer Falta",
+      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Sac\u00fadelo Que Tiene Arena",
-        "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
       "artists": [
         {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Ay!",
-      "url": "https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS"
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -939,22 +939,6 @@
       "duration_ms": 292800,
       "name": "El Venao",
       "url": "https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1003,6 +987,22 @@
       "duration_ms": 265866,
       "name": "Oye",
       "url": "https://open.spotify.com/track/4kHWi013mIzQoyNNFxzJmm"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Sac\u00fadelo Que Tiene Arena",
+        "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Ay!",
+      "url": "https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Ganas (Versi\u00f3n Merengue)",
-        "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 215478,
-      "name": "Ganas - Versi\u00f3n Merengue",
-      "url": "https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "La Mujer",
         "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 318306,
       "name": "El Cantinero",
       "url": "https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Ganas (Versi\u00f3n Merengue)",
+        "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 215478,
+      "name": "Ganas - Versi\u00f3n Merengue",
+      "url": "https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
+        "name": "Imparable",
+        "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 211098,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
         "name": "Serie 2000",
         "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
@@ -1219,38 +1235,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Imparable",
-        "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 211098,
-      "name": "Sin Rumbo",
-      "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "O.K. All Right",
-        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
-      },
-      "artists": [
-        {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "El Moreno Esta",
-      "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "LIMI-T Para Siempre",
         "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
       },
@@ -1279,6 +1263,54 @@
       "duration_ms": 280533,
       "name": "Cutibili Pacha",
       "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "O.K. All Right",
+        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "El Moreno Esta",
+      "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Exitos De",
+        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Coleccion Diamante",
+        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 255080,
+      "name": "El Hombre Divertido",
+      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1351,22 +1383,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Coleccion Diamante",
-        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 255080,
-      "name": "El Hombre Divertido",
-      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "15to Aniversario",
         "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 310933,
       "name": "El Meneito",
       "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "Exitos De",
-        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 295320,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Merengue De hoy",
-        "url": "https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo"
-      },
-      "artists": [
-        {
-          "name": "Papi Sanchez",
-          "url": "https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Enamorame",
-      "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 164250,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Merengue De hoy",
+        "url": "https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo"
+      },
+      "artists": [
+        {
+          "name": "Papi Sanchez",
+          "url": "https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Enamorame",
+      "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
-        "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Una Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "El Disco Del A\u00f1o Vol. 53",
         "url": "https://open.spotify.com/album/0mKBMKcJDra8yVTcDaAQgK"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 273365,
       "name": "T\u00fa Eres Ajena",
       "url": "https://open.spotify.com/track/3y6oIGHyKQg6MZWNlJnRow"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
+        "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Una Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
     }
   ],
   "unique_name": "Merengue Mania",

@@ -4,7 +4,7 @@
 
 > sultry and seductive feminine energy 🔪
 
-205 songs - 12 hr 17 min
+206 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [I Bet on Losing Dogs](https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 2:50 | 2023-09-01 |  |
 | [I Can't Get You off My Mind](https://open.spotify.com/track/5qPXqpZVru4pCLQxgbWroq) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Beats & Bruises](https://open.spotify.com/album/260d1HkI8y9xuirJ3OIKvP) | 3:55 | 2022-07-22 | 2023-09-02 |
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-09-01 |  |
+| [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 | 2023-09-18 |  |
 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2023-09-01 |  |
 | [I Run So Far](https://open.spotify.com/track/6W9wsXu0E8m66W4IARQt7T) | [Pearl Charles](https://open.spotify.com/artist/5PWyKTCk0kzNytmI0NI2JX) | [Pearl Charles](https://open.spotify.com/album/7uj5ZZprEHLAHvoQRtYHxA) | 3:49 | 2021-06-04 | 2022-07-29 |
 | [I Shouldn't Go Anywhere](https://open.spotify.com/track/5r0mgVWhaI2ZDzrXeXrEhq) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [I Shouldn't Go Anywhere](https://open.spotify.com/album/7AMhMkCD8KUh0q3jEtmP5A) | 3:43 | 2021-06-04 | 2022-07-29 |
@@ -155,7 +156,7 @@
 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-09-01 |  |
 | [Plastic](https://open.spotify.com/track/6lyjY05tO3zM1neukRGQ4K) | [Áine](https://open.spotify.com/artist/3pTb88yNTcIsydqTaUE0fE) | [Plastic](https://open.spotify.com/album/7fdqyoeiyeB8N55YVWsUBQ) | 3:35 | 2021-06-04 | 2022-07-28 |
 | [Presence](https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:51 | 2021-06-04 | 2023-03-25 |
-| [Pretty Boy](https://open.spotify.com/track/5mTNGUXYjJGVyjh3efRFY0) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:08 | 2023-09-01 |  |
+| [Pretty Boy](https://open.spotify.com/track/5mTNGUXYjJGVyjh3efRFY0) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:08 | 2023-09-01 | 2023-09-19 |
 | [Queen of Disaster](https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI) | 3:41 | 2022-07-22 | 2023-09-02 |
 | [Queen of Disaster](https://open.spotify.com/track/7GF3Ma5xB7u5D3Olkspcqf) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/7bQBWT8dd1KdmyqpYkmrK5) | 3:41 | 2021-08-24 | 2022-07-29 |
 | [Radio](https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:34 | 2023-09-01 |  |

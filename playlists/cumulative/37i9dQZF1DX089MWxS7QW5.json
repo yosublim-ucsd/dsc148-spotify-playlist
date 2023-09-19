@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 187133,
       "name": "55 (Feat. Yerin Baek, WENDY)",
       "url": "https://open.spotify.com/track/1is7aJgbVS67fEMTAjh4mX"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 202095,
       "name": "Choose Me (feat. Vince)",
       "url": "https://open.spotify.com/track/4GTosMKxwHJsbrSfaRPc9K"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 179973,
       "name": "Falling",
       "url": "https://open.spotify.com/track/7uWkMOwv9Vxu4dA8LXbVK3"
@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 223013,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/3w8GlgiRPYt3bLCmCQJL1V"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 226120,
       "name": "I feel",
       "url": "https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN"
@@ -2186,6 +2186,24 @@
       "duration_ms": 240066,
       "name": "I Know (feat. Jayroh)",
       "url": "https://open.spotify.com/track/2tc6f5oJhGyf5FA6NbE6YJ"
+    },
+    {
+      "album": {
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210106,
+      "name": "I Want to Be Closer to You",
+      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
       "album": {
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 200641,
       "name": "LEMON (Feat. SOLE, MINO)",
       "url": "https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq"
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 197226,
       "name": "O (Circle)",
       "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 228226,
       "name": "Rock With You - Spotify Singles",
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
@@ -3330,7 +3348,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 185186,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/4pFWcq6v0hEYY65VaxpJiY"
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 195253,
       "name": "T.T.T (Tell The Truth) (Feat. Moon Sujin, NONE)",
       "url": "https://open.spotify.com/track/63SD3RfeR1qMmYTmEBd1F4"
@@ -3964,7 +3982,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 198912,
       "name": "Waltz",
       "url": "https://open.spotify.com/track/6QgCE1SNW6XUhNBLKg2jax"
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 225918,
       "name": "\uc5ec\uc804\ud788 \uc5ec\uc804\ud574",
       "url": "https://open.spotify.com/track/7u0Kn9xnwMCI42h8uGe3qc"

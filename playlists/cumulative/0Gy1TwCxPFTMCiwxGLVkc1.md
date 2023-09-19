@@ -4,7 +4,7 @@
 
 > Kids music from Disney, CoComelon, Nickelodeon, and more! Find new tracks and familiar favorites on this kids music playlist, and check back each week for more!
 
-150 songs - 6 hr 6 min
+151 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Kids Is Players Too](https://open.spotify.com/track/5oVQ2wLDc9GB6oJXf4Gg1m) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Kids Is Players Too](https://open.spotify.com/album/0bR98cd5WPdqoSqXE88RjX) | 2:19 | 2023-08-26 | 2023-09-11 |
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 | 2022-10-25 |  |
 | [Let's Go Amigos \- Remix](https://open.spotify.com/track/33qJ5h1VI9g2IbP4gzoPwl) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu), [El Rey](https://open.spotify.com/artist/6QAsWcn4mpE6GysHBUmTNR) | [Nick Jr\. Fun Fiesta!](https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0) | 1:49 | 2022-10-25 | 2023-07-17 |
-| [Liar Liar](https://open.spotify.com/track/1F2iaXN4bTOTLEC8eKeHuV) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Liar Liar](https://open.spotify.com/album/4z1Ezv81gLJcayTRlXLJbI) | 3:10 | 2023-09-10 |  |
+| [Liar Liar](https://open.spotify.com/track/1F2iaXN4bTOTLEC8eKeHuV) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Liar Liar](https://open.spotify.com/album/4z1Ezv81gLJcayTRlXLJbI) | 3:10 | 2023-09-10 | 2023-09-19 |
 | [Like Like You](https://open.spotify.com/track/51xnULBdyOqq3liDY8grhV) | [Danger Force](https://open.spotify.com/artist/5jco0Od4vChi5xTq1EZDRn) | [Fightin' Crimes, Spittin' Rhymes](https://open.spotify.com/album/1ooagJ6hmORE1KZJ4eUyu3) | 1:07 | 2022-10-25 | 2023-06-12 |
 | [Long Drives](https://open.spotify.com/track/7mAjxsLZpqcrj47Jjwsqsp) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/1pE8qLshBkWUMzpO3WYt2l) | 2:39 | 2022-05-27 | 2022-10-26 |
 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-05-27 | 2022-10-26 |
@@ -124,6 +124,7 @@
 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 | 2022-05-27 | 2022-10-26 |
 | [Sunny Day \- Hope](https://open.spotify.com/track/0F2oxMOVBd0gyr7AmW789L) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Sunny Day \(Hope\)](https://open.spotify.com/album/584vzUonyxCAmQwmj9rOpr) | 3:39 | 2023-06-19 |  |
 | [SuperKitty Call](https://open.spotify.com/track/7sNz8djgmg2wkZMN9ozQPv) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI) | 2:04 | 2023-01-16 | 2023-08-22 |
+| [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 | 2023-09-18 |  |
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-10-25 |  |
 | [The Aquathawn](https://open.spotify.com/track/1HPcXGieyMTYa1ZSbpHEWy) | [Star Trek Prodigy](https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7), [Nami Melumad](https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF) | [Star Trek Prodigy \(Original Music from the Series\)](https://open.spotify.com/album/3LMZkP2NFjVzNVqpIr9DlD) | 2:26 | 2022-11-07 | 2022-12-06 |
 | [The Doc Is 10 \- From "Disney Junior Music: Doc McStuffins"](https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [The Doc Is 10 \(From "Disney Junior Music: Doc McStuffins"\)](https://open.spotify.com/album/3fvHg1d4KnYjg6723pPada) | 2:09 | 2022-10-25 | 2023-09-05 |

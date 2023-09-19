@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,194 likes - 160 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,182 likes - 160 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 159 | [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 |
 | 160 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
 
-Snapshot ID: `MCw3N2UwNTVhYzQ2NDdlZjk2NjFjMGFmNzZlYzk1OTg5ZWQyMjliMDRj`
+Snapshot ID: `MCxmYjE3NjY2MzhhZTY1ZGVhY2M0MjAyMzFlYjU5OTAzY2U3ZmI1ZTVh`

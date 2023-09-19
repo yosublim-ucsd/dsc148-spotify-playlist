@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Beaches, Drake, Sia, Tate McRae, Majid Jordan & Naomi Sharon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,805 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,858 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 32 | [All of the Above](https://open.spotify.com/track/4pLPhhf9woV1QwvifIDp8a) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Kurl](https://open.spotify.com/artist/5yS4YIPFHraeOoPTCZTV9O) | [All of the Above](https://open.spotify.com/album/4rbwp73Pm5tsUJnX8vzd5k) | 2:41 |
 | 33 | [Who Says You Can't Have Everything](https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH) | 3:08 |
 | 34 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 |
-| 35 | [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/track/3s7edrMgsb2GHt36L0mFOp) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/album/5ILR1GcWMyPSkEfWBsqwfZ) | 4:03 |
+| 35 | [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/track/3XVqCl47UQ7kWTXN1HAgvZ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:03 |
 | 36 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 |
 | 37 | [Diamond Therapy](https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Diamond Therapy](https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep) | 3:19 |
 | 38 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 |
 | 101 | [Parallel](https://open.spotify.com/track/71yizzHrqEmKVdffU6BZbo) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Parallel](https://open.spotify.com/album/7EzyshmCFWJhje9N91PuFL) | 4:06 |
 
-Snapshot ID: `MCxkZDIzODIyZmM4YjA1NTUyNDcyZTQyOTEwYmFlODllODJmYWQ4NTFm`
+Snapshot ID: `MCwzZmY0ZDc2YzliOWVkZGZjMGEyOWI0YmJkNThiMWYzMzUwNTcwOWNk`

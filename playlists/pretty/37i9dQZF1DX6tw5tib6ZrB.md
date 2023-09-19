@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Nasty C, Cardi B & Megan Thee Stallion, Gucci Mane, Lil Durk, Doja Cat and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,144 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,253 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 |
 | 50 | [I Know](https://open.spotify.com/track/40j4RoqmLiivqzRObbQ4BF) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:56 |
 
-Snapshot ID: `MCw3ZTk3OGQwZDY5MThmNzIxM2EzODNhYTY0MTlhODUxZWMwNDk4MWMw`
+Snapshot ID: `MCxmZjI5ODlhMzBhYjcxMDdlNDExMDg1NmI3Y2UzYzFmM2Q4ZDdlNzY2`

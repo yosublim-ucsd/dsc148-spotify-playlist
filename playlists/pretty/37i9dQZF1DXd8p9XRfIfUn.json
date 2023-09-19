@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: legallyrxx",
-  "num_followers": 65983,
+  "num_followers": 66026,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ4NTdmMDI2YjhkMDE2OGM0YzEyZjc2ZTAyNTQ0NzRmZWYxZThl",
+  "snapshot_id": "MCwzYjU4NjY2MzM2NjQ2ZTcwMmU5MGU1YjFkMDA1NDdkMjFjYzFkZWI3",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+        "name": "Wasa Wasa",
+        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+      "duration_ms": 145531,
+      "name": "Wasa Wasa",
+      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Wasa Wasa",
-        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 145531,
-      "name": "Wasa Wasa",
-      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -411,6 +411,30 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Vete Pal Carajo",
+        "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "Vete Pal Carajo",
+      "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Salimo de Noche",
         "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
       },
@@ -447,30 +471,6 @@
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Vete Pal Carajo",
-        "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "Vete Pal Carajo",
-      "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Perdon\u00e9monos",
-        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Perdon\u00e9monos",
-      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Uy K Raro",
         "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 127264,
       "name": "Uy K Raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Perdon\u00e9monos",
+        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Perdon\u00e9monos",
+      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -815,34 +815,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Baby Schai (Remix)",
-        "url": "https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 328148,
-      "name": "Baby Schai - Remix",
-      "url": "https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Combi Nueva",
         "url": "https://open.spotify.com/album/3DbPnfLURW3fIHfnU2pyhI"
       },
@@ -867,6 +839,34 @@
       "duration_ms": 192000,
       "name": "Combi Nueva",
       "url": "https://open.spotify.com/track/5hqAc7ZD21UREu9mNKuLhr"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Baby Schai (Remix)",
+        "url": "https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 328148,
+      "name": "Baby Schai - Remix",
+      "url": "https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "COLABORACIONES",
-        "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
-      },
-      "artists": [
-        {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
-        },
-        {
-          "name": "WANDA ORIGINAL",
-          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
-        }
-      ],
-      "duration_ms": 125026,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "MAMi QU\u00c9 FUE?",
         "url": "https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 167814,
       "name": "MAMi QU\u00c9 FUE?",
       "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "COLABORACIONES",
+        "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
+      },
+      "artists": [
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "duration_ms": 125026,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
     },
     {
       "added_at": "2023-06-29 22:00:00",

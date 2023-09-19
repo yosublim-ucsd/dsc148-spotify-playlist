@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring Diddy\. Take that, take that.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,441 likes - 76 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,561 likes - 76 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 75 | [The Words](https://open.spotify.com/track/5HMl6aG4uTWFo8TZvJ7pfn) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:53 |
 | 76 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 |
 
-Snapshot ID: `MCxlMTNmMzE4NzIwMGY1YWI5Mjk1MzZlMzIyMjZiOWExMjQ0MzNjOWM1`
+Snapshot ID: `MCw2MTQ1NTg2MTNmNjZmN2M5YzM0YWI0ZjZlNGYyNmVmYjQ0ZGRmNWYw`

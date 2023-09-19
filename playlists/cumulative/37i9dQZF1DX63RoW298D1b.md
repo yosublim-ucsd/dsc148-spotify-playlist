@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-115 songs - 4 hr 45 min
+117 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Humble](https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Humble](https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX) | 1:50 | 2023-06-20 |  |
 | [Hymne d'été](https://open.spotify.com/track/1BMXuo67CPYuccFQO0r0v9) | [Gael Motif](https://open.spotify.com/artist/5Cekx8y4a1ldk7upl3DTe3) | [Hymne d'été](https://open.spotify.com/album/5BqIJ93b8hXkeVY2LMPj1G) | 2:14 | 2023-05-09 |  |
 | [I Belong Here](https://open.spotify.com/track/1sJlo3mVGO7kcbEJRKfeKy) | [Aaron Robichaux](https://open.spotify.com/artist/3zRgmmYtwT4BURJ2sMTaAH) | [I Belong Here](https://open.spotify.com/album/4z4fvQsDi3rAYd4SVBp9q5) | 2:13 | 2023-05-09 |  |
+| [If lonely...](https://open.spotify.com/track/3w7ooeKGTjTd8W7Qp2oAop) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [If lonely...](https://open.spotify.com/album/68CGa50C8hC4xr28VhCSmZ) | 2:19 | 2023-09-18 |  |
 | [immaginiamo \(Whatever we imagine\)](https://open.spotify.com/track/5jWtDmmaeWplwwR3xVG3EE) | [Bilotte](https://open.spotify.com/artist/5phoB4H00M1a1s1Fwi7AkO) | [immaginiamo \(Whatever we imagine\)](https://open.spotify.com/album/3Z67xtahu1bOLuQdN55WmA) | 2:30 | 2023-05-09 |  |
 | [In The Mood For Dreaming](https://open.spotify.com/track/163EpITIjkN1ky0odOKy1b) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [In The Mood For Dreaming](https://open.spotify.com/album/29HPgBWHyeiRju7jogQNhT) | 3:03 | 2023-05-09 |  |
 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 | 2023-05-09 |  |
@@ -103,6 +104,7 @@
 | [Suspended](https://open.spotify.com/track/2uB8FHqxIKWIwxhF6PbKJQ) | [Collettivo Armonico](https://open.spotify.com/artist/3pZJIl6vk1Sht6hzSd9imE), [Carlo Matti](https://open.spotify.com/artist/1I6TZHDWSu8R0LK7AYTmQW) | [Suspended](https://open.spotify.com/album/32MvdShF82pEg3NYKWoLuF) | 3:09 | 2023-05-09 |  |
 | [Thaw](https://open.spotify.com/track/4uDMx10yG5CQgJTxR3dK66) | [Kepus](https://open.spotify.com/artist/1KRgUQR76UU7X6rxxaDbyd) | [Thaw](https://open.spotify.com/album/0BT7yQ0FIC1yMzrpj5rENc) | 1:53 | 2023-05-09 |  |
 | [The Everglowing Sea](https://open.spotify.com/track/43bZxiDpp5FKPS2tvFxhZ5) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [The Everglowing Sea](https://open.spotify.com/album/7s2KndJgSdfA66l6XvcN2J) | 2:23 | 2023-05-09 |  |
+| [The lake](https://open.spotify.com/track/6V4TlZBtC8nk9de3rpYbGj) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [The lake](https://open.spotify.com/album/69H1nz2SYvGwh0F97bDvjs) | 2:42 | 2023-09-18 |  |
 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 | 2023-05-09 |  |
 | [The Way Home](https://open.spotify.com/track/3EviaQw7x1Wn6wxVbjvNRs) | [Matthew Adam](https://open.spotify.com/artist/1JShgWc7ZWXxlqGENVf4qb) | [The Way Home](https://open.spotify.com/album/0MgiFWUWfLEJjBgFz4mH3b) | 2:46 | 2023-05-09 |  |
 | [Through Valleys](https://open.spotify.com/track/5SdiqWxI5tTOAugHmijeSN) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:01 | 2023-05-09 |  |

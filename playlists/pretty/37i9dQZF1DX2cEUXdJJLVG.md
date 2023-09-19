@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,871 likes - 180 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,899 likes - 180 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 179 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 |
 | 180 | [MY HOUSE](https://open.spotify.com/track/6sZzLJkAHCbSkbqLdUFT6Q) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [MY HOUSE / BLEAK](https://open.spotify.com/album/3YKs6Hoq25I2tqZjSP56qU) | 4:02 |
 
-Snapshot ID: `MCwxOTMxMmY4MWIzYmRjMjViNmM3MmMyN2Q4ODJjNTQ5NDhiOTc4YmE3`
+Snapshot ID: `MCxhNjkyNzlhODY2MmI5NzMxOTk5NGM4OWM5ZDNjMmY0YzY4ZTI1Mjhj`

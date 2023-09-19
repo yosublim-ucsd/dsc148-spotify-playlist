@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,617 likes - 1,175 songs - 3 day 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,673 likes - 1,175 songs - 3 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -591,7 +591,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 581 | [So We Won't Forget](https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:58 |
 | 582 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
 | 583 | [El Tirabuzón](https://open.spotify.com/track/0goBFE5PCs1V77SDXXj6wX) | [Climaco Sarmiento](https://open.spotify.com/artist/7M9SeIqdPfOX6sw5cJUSfB) | [Historia Musical de Clímaco Sarmiento](https://open.spotify.com/album/52h4urEINXnhdVXMwC2h8F) | 2:53 |
-| 584 | [Cumbia Del Puerto](https://open.spotify.com/track/6GzE6gVVu35Bzpro5zRO11) | [Conjunto Los Rumberos](https://open.spotify.com/artist/79K5AdwMm6o4W6AIVk6Zds) | [La Edad De Oro De La Cumbia Colombiana](https://open.spotify.com/album/0azeVssPPbqdN4QjZSQBLS) | 2:43 |
+| 584 | [Cumbia del Puerto](https://open.spotify.com/track/75g8LRxKHH7YmQyUWMWIy1) | [Conjunto Los Rumberos](https://open.spotify.com/artist/79K5AdwMm6o4W6AIVk6Zds) | [The Original Sound of Cumbia](https://open.spotify.com/album/003WgvV2hdTGBGKN2NpOil) | 2:43 |
 | 585 | [Mahlalela](https://open.spotify.com/track/30qQIKaWcWn5U5h724YDDv) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [The Chisa Years 1965\-1975 \(Rare and Unreleased\)](https://open.spotify.com/album/3GWyP7C2a9aydvTavoMtgZ) | 4:28 |
 | 586 | [Barbwire](https://open.spotify.com/track/08AgWZrFlRzUVNkQbY5o0Y) | [Nora Dean](https://open.spotify.com/artist/3NxhFOw203F1FEjmOzK74Z) | [Barbwire](https://open.spotify.com/album/7Au8Fs09ToyanFlD9vHNBe) | 2:19 |
 | 587 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
@@ -863,7 +863,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 853 | [Fatou](https://open.spotify.com/track/5R3bTkfYos0IiYPbvmPdjR) | [Amara Touré](https://open.spotify.com/artist/5RGtAYEsGnRFhqcZeWIyOd), [Ensemble Black & White](https://open.spotify.com/artist/704gCiDoesxtbUYLwx4FwI) | [Amara TourÃ© 1973 \- 1980 \(Analog Africa No\. 18\)](https://open.spotify.com/album/6lKtVf6o0TZ850VhPJB0Ig) | 4:52 |
 | 854 | [Me Deixa Em Paz](https://open.spotify.com/track/5IZxCLfL7JqLojRSHtZ0Ii) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis](https://open.spotify.com/album/3NOxICud3CE6svBnR9WqC7) | 2:09 |
 | 855 | [Bolero para Ti](https://open.spotify.com/track/0pQB6XgLGlUVbeiedDlQL3) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [El Gran Cacique](https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ) | 3:24 |
-| 856 | [San Jacinto](https://open.spotify.com/track/0FwCQUsENqxJbmQ6l0DiVE) | [Anibal Velasquez Y Su Conjunto](https://open.spotify.com/artist/5KyE03kjGuutFNGwN2K48c) | [La Cumbia Está Llamando \- Early Cumbia From Colombia](https://open.spotify.com/album/5cnBdljuMe92rjF9cWuyu8) | 2:59 |
+| 856 | [San Jacinto](https://open.spotify.com/track/2WEbLiqbOz5EwqBMjpmiSP) | [Anibal Velasquez Y Su Conjunto](https://open.spotify.com/artist/5KyE03kjGuutFNGwN2K48c) | [The Original Sound of Cumbia](https://open.spotify.com/album/003WgvV2hdTGBGKN2NpOil) | 2:59 |
 | 857 | [Tu Lo Sientes? \(Do You Feel It?\)](https://open.spotify.com/track/5m7RbdMnfItR77G4AgLDVD) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Bustin' Out](https://open.spotify.com/album/7zMcMr5tBRGZXse9wgI7Hy) | 3:24 |
 | 858 | [Dreamer of Life](https://open.spotify.com/track/5cNKiHVO2SdFul6VArP5dI) | [Greg Yoder](https://open.spotify.com/artist/7FkPOpQzH4yYUOWGBef8UZ) | [Dreamer of Life](https://open.spotify.com/album/6k4N4dwmW2TLCOqKyXRiDU) | 3:50 |
 | 859 | [Summertime](https://open.spotify.com/track/5zquV7va41xkZZNXWBA4Tw) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 3:01 |
@@ -1184,4 +1184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1174 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1175 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCwzMzg2MWUxMTU1ODI2ODk5NzYwMTAwY2YzMTA2MjhmMzljYjQ3ZTlj`
+Snapshot ID: `MCxkODIwYzA5MTMyNzU2M2MwODg0MDUwYWFiNzhiMmJhNTJmOTM0ZThj`

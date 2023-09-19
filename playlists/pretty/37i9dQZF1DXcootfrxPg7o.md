@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 
 > Music from and inspired by Neflix's Malcolm & Marie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,411 likes - 36 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,446 likes - 36 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 | 26 | [One Mo'Gin](https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:13 |
 | 27 | [After Laughter \(Comes Tears\)](https://open.spotify.com/track/3sMTpU1SNIeMCWu7sQKXMN) | [Wendy Rene](https://open.spotify.com/artist/4ba7uNtpOq0us2C5Nx19zN) | [After Laughter Comes Tears](https://open.spotify.com/album/3p7Dha66qIdeuBuFfEtvz2) | 3:02 |
 | 28 | [One Day](https://open.spotify.com/track/2GHp47AE8HTBF9xpG7FIoz) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Ridin' Dirty](https://open.spotify.com/album/4jTPQq9PSlKMOm1yLx2ATN) | 5:24 |
-| 29 | [Liberation \(with Cee\-Lo\)](https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 8:46 |
+| 29 | [Liberation](https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 8:46 |
 | 30 | [Selfish](https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:46 |
 | 31 | [In A Sentimental Mood](https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:15 |
 | 32 | [Flor de Azalea](https://open.spotify.com/track/64r9Qp3d4HtCuN4L0348S3) | [Frankie Reyes](https://open.spotify.com/artist/256qpjScS1TGBrPpMXQXtD) | [Boleros Valses y Mas](https://open.spotify.com/album/7yPJu92ht3NA8pKKI6D8TE) | 2:06 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 | 35 | [Yum Yum \(Gimme Some\)](https://open.spotify.com/track/3cxfUgWIrj0is6kZBED65i) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Yum Yum](https://open.spotify.com/album/4Oe5MlkhpHuFmE98mPOKGD) | 3:18 |
 | 36 | [Wasted](https://open.spotify.com/track/5RP8iEkPFR3GyjaAdswIiH) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [BRAT](https://open.spotify.com/album/5yi3uqaTijrp5KVbvk6BIA) | 4:24 |
 
-Snapshot ID: `MCxlNmIwNWE3MTU2YWM3MjBmNTAwMzA5OGNlNzcyZjUzMDc5NmUzN2Ix`
+Snapshot ID: `MCxjNWFjMzBjMjc5YmEwZmVhZjVkM2Q5MmJjYjgzY2IyOTZhOWZlOTg1`

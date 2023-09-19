@@ -4,12 +4,13 @@
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 38 min
+55 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Beautiful](https://open.spotify.com/track/1ahAuX3F6tDdNRfMdiLsv6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Me\. I Am Mariah…The Elusive Chanteuse](https://open.spotify.com/album/6hGRm1piHNE0Xp7I5Guesy) | 3:19 | 2023-07-28 |  |
 | [Against All Odds \(Take A Look at Me Now\) \- Mariah Only](https://open.spotify.com/track/6PS1YRjdJ5Muakh2oh0UB2) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Against All Odds \(Take A Look at Me Now\) EP](https://open.spotify.com/album/3Jx6tgsjoX2oL7vqfnb89j) | 3:21 | 2023-07-28 |  |
+| [All I Live For \- Extended Version](https://open.spotify.com/track/5DONusVYuZizlOE1Ieleot) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box: 30th Anniversary Edition](https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3) | 4:28 | 2023-09-18 |  |
 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 | 2023-07-28 |  |
 | [Angels Cry Remix \- Remix](https://open.spotify.com/track/0TJRfA2MIIRd3tTDK9tPPf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Angels Cry Remix feat\. Ne\-Yo](https://open.spotify.com/album/3SxgnytOcu80ARVznoU6P0) | 3:53 | 2023-07-28 |  |
 | [Anytime You Need a Friend](https://open.spotify.com/track/0S8xKy1efKy3LvR53qe3Cq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 4:25 | 2023-07-28 |  |
@@ -50,7 +51,7 @@
 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 | 2023-07-28 |  |
 | [Someday](https://open.spotify.com/track/6TSM5vkz0WzyZsNAKKYDcw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:06 | 2023-07-28 |  |
 | [Thank God I Found You \(feat\. Joe & 98°\)](https://open.spotify.com/track/1RS3LStQYhju50eBdD9Uul) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:17 | 2023-07-28 |  |
-| [The Prince Of Egypt \(When You Believe\)](https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 5:01 | 2023-07-28 |  |
+| [The Prince Of Egypt \(When You Believe\)](https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 5:01 | 2023-07-28 | 2023-09-19 |
 | [The Roof \(When I Feel the Need\) \(feat\. Brandy\)](https://open.spotify.com/track/3rptYWhwQWNWcACrYu4CGg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Butterfly: 25th Anniversary Expanded Edition](https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379) | 4:54 | 2023-07-28 | 2023-09-16 |
 | [Through The Rain](https://open.spotify.com/track/1TT6pwOM1puBtx8bYSMTBA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/2UYie72CXeuwIB7YepDidw) | 4:48 | 2023-07-28 |  |
 | [Touch My Body](https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:24 | 2023-07-28 |  |

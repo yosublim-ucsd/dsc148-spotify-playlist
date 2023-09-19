@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,053 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,124 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Zaroori Tha \- Acoustic](https://open.spotify.com/track/5OSYTJTR2geTLBWuR4IKkV) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Zaroori Tha \(Acoustic\)](https://open.spotify.com/album/6ueaYOGHOq1A2UJnGCcWa3) | 4:13 |
 | 50 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
 
-Snapshot ID: `MCxiNjY0ZTFkMTUxYWRlZDIxMmZhZTA4ODdhZTk3YTZjNDY3NGFiZjNl`
+Snapshot ID: `MCwyYzZmOTRjM2MzZmYzNjNjNjFmNWU5NzgyODgxZmE1MWFmM2JjNTNi`

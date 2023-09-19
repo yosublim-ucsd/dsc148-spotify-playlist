@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 177600,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG"
@@ -2044,6 +2044,28 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+    },
+    {
+      "album": {
+        "name": "Bad Boy Etiquette 101",
+        "url": "https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200412,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD"
     },
     {
       "album": {

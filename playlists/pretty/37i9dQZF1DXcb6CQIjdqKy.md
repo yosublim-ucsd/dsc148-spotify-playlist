@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU?si=vjXk5XQDTTGErlVVdcwkrQ">Cory Asbury</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,580,486 likes - 99 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,580,787 likes - 99 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 98 | [Anxious Heart](https://open.spotify.com/track/2lgK3q3cnmrHzZwDOgfMdG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 2:57 |
 | 99 | [Something Better](https://open.spotify.com/track/2oMV6710ZfkU1ZTtZrhyHL) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Something Better](https://open.spotify.com/album/2WM90lCeuhwcW30awCgFtN) | 3:01 |
 
-Snapshot ID: `MCxhOWZhZmQwYzBmMThlNzBlNTIxZjUyYTRhZTc4NjJhZGJiZDk4OTEw`
+Snapshot ID: `MCwxNDRhMjg5ZDQ5NTY0MTM2ZGZmYzA4YzE4MmMzM2E3YjViOWJmYjNl`

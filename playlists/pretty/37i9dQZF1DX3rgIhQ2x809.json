@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70072,
+  "num_followers": 70076,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFiMzcxOTY2ZjlkMTk1YTJjNGFiOTc2ZWJkZmI4NGJlZGU0Njc3",
+  "snapshot_id": "MCwwMmQ2Nzg2MmU2OTk2YzkwZmViNTM2YmEzOWM1N2JlYjk5YTc5NjRm",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -643,38 +643,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Trending",
-        "url": "https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Dejanos Pasar",
         "url": "https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN"
       },
@@ -691,6 +659,22 @@
       "duration_ms": 175567,
       "name": "Dejanos Pasar",
       "url": "https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -755,6 +739,22 @@
       "duration_ms": 179834,
       "name": "Mi Secreto",
       "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Trending",
+        "url": "https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "dale Play",
         "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 226946,
       "name": "dale Play",
       "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Soy Lebron",
-        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Soy Lebron",
-      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Tesoro M\u00edo",
         "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 242932,
       "name": "Tesoro M\u00edo",
       "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Soy Lebron",
+        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Soy Lebron",
+      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Piky",
-        "url": "https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9"
-      },
-      "artists": [
-        {
-          "name": "Producto Sin Corte",
-          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
-        }
-      ],
-      "duration_ms": 161775,
-      "name": "Piky",
-      "url": "https://open.spotify.com/track/3uDBz9yGkL8qgZxQcSdU1i"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Perreo X Calle",
         "url": "https://open.spotify.com/album/2uGMXUYZTu0597ajBhZFSa"
       },
@@ -1715,22 +1699,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 170175,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "C\u00f3digos",
         "url": "https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd"
       },
@@ -1747,6 +1715,22 @@
       "duration_ms": 195000,
       "name": "Top 10",
       "url": "https://open.spotify.com/track/1bXvpIjqxo5WHZWz6nfjtn"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Piky",
+        "url": "https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9"
+      },
+      "artists": [
+        {
+          "name": "Producto Sin Corte",
+          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
+        }
+      ],
+      "duration_ms": 161775,
+      "name": "Piky",
+      "url": "https://open.spotify.com/track/3uDBz9yGkL8qgZxQcSdU1i"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1783,6 +1767,22 @@
       "duration_ms": 166736,
       "name": "Labios",
       "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 170175,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
-      },
-      "artists": [
-        {
-          "name": "TIVGO Cruz",
-          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Tratemos",
         "url": "https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 229333,
       "name": "Tratemos",
       "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
+      },
+      "artists": [
+        {
+          "name": "TIVGO Cruz",
+          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
     }
   ],
   "unique_name": "Hecho en Puerto Rico",

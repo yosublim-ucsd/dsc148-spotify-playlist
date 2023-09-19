@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic?si=er4e1F69SJCf2I9z6YCt5w"> Juls </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,204 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,233 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Sexy Sexy](https://open.spotify.com/track/6hC0PQL1Kr3Qgmjhs3csZF) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Reggie Rockstone](https://open.spotify.com/artist/5Q73WzWI1MkAbAwi2ZhG8K) | [Her Vibe Is Right Vol\. 2](https://open.spotify.com/album/2fart2DIpvQa4mvk9ecxfy) | 3:37 |
 | 80 | [Jara Jara](https://open.spotify.com/track/2IvPHqPadGXpgNP0SziB3i) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Jara Jara](https://open.spotify.com/album/4aiDLfgB5nCJELL4DIFiNK) | 2:15 |
 
-Snapshot ID: `MCwzZGYxMGNjODc0MDIyNTY1MjRlMGNjYjgzZTdjYjM1ZmI1NDVlZTdk`
+Snapshot ID: `MCw4ZjkzOThmMmNlYjIzZjU1YzY0MjI2ZDYwNDZhMGI1NDYzYjA1M2Iz`

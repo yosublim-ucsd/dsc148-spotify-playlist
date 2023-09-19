@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 19890,
+  "num_followers": 19910,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzZkNjU2ODIyMzg5ODE5N2YzZTlhODQ0ODg2N2ZlZGNhOTlhZGUw",
+  "snapshot_id": "MCxkNWZkN2YyOTRlODQ0ODU0Yzc2MDg2ZWNmMzA5Njk2NmQwNTU3ZTY2",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 295693,
+      "name": "T-Bone Shuffle",
+      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Hound Dog Taylor and The Houserockers",
         "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
@@ -123,74 +139,6 @@
       "duration_ms": 293400,
       "name": "Mojo Boogie - Remastered",
       "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Rough Cut",
-        "url": "https://open.spotify.com/album/0jPcLwxiq6Fzz3cJOGXO6C"
-      },
-      "artists": [
-        {
-          "name": "Curtis Salgado",
-          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
-        },
-        {
-          "name": "Alan Hager",
-          "url": "https://open.spotify.com/artist/6ssL3omFOE1DG6dDop8nuL"
-        }
-      ],
-      "duration_ms": 167306,
-      "name": "I Want My Dog To Live Longer (The Greatest Wish)",
-      "url": "https://open.spotify.com/track/4SCge41oDQOTIcfmhnYvAQ"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 295693,
-      "name": "T-Bone Shuffle",
-      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
-      },
-      "artists": [
-        {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
-      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
-      },
-      "artists": [
-        {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
-        }
-      ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -243,34 +191,54 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Hound Dog Taylor and The Houserockers",
-        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+        "name": "Rough Cut",
+        "url": "https://open.spotify.com/album/0jPcLwxiq6Fzz3cJOGXO6C"
       },
       "artists": [
         {
-          "name": "Hound Dog Taylor & The HouseRockers",
-          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
+          "name": "Curtis Salgado",
+          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
+        },
+        {
+          "name": "Alan Hager",
+          "url": "https://open.spotify.com/artist/6ssL3omFOE1DG6dDop8nuL"
         }
       ],
-      "duration_ms": 219066,
-      "name": "Wild About You, Baby",
-      "url": "https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna"
+      "duration_ms": 167306,
+      "name": "I Want My Dog To Live Longer (The Greatest Wish)",
+      "url": "https://open.spotify.com/track/4SCge41oDQOTIcfmhnYvAQ"
     },
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
         }
       ],
-      "duration_ms": 395800,
-      "name": "Third Degree - Remastered",
-      "url": "https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7"
+      "duration_ms": 187893,
+      "name": "Ain't No Fun (When The Rabbit Got The Gun)",
+      "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+      },
+      "artists": [
+        {
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -291,6 +259,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Hound Dog Taylor and The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
+        }
+      ],
+      "duration_ms": 219066,
+      "name": "Wild About You, Baby",
+      "url": "https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Winning Hand",
         "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
       },
@@ -303,6 +287,38 @@
       "duration_ms": 291840,
       "name": "Sound Of A Broken Man",
       "url": "https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 395800,
+      "name": "Third Degree - Remastered",
+      "url": "https://open.spotify.com/track/2Z4UDFFs2kT5YS899suFz7"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "If You Love Me Like You Say",
+      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -403,22 +419,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "If You Love Me Like You Say",
-      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "3rd Degree (Remastered)",
         "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
       },
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Wander This World",
-        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 210973,
-      "name": "Cherry Red Wine",
-      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -487,6 +487,22 @@
       "duration_ms": 187186,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Wander This World",
+        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Cherry Red Wine",
+      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -523,22 +539,6 @@
       "duration_ms": 227373,
       "name": "Cotton Mouth Man",
       "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -639,6 +639,42 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Never Trust A Man",
+      "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/628wnZp93g4bnDnOFUyzMl"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Wicked",
         "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
       },
@@ -671,58 +707,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/628wnZp93g4bnDnOFUyzMl"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Never Trust A Man",
-      "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Guitar Slinger",
-        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 323986,
-      "name": "Don't Take Advantage Of Me - Remastered",
-      "url": "https://open.spotify.com/track/3sHgMnbPhxt5ZIm3CKXx0a"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Alligator Records 45th Anniversary Collection",
         "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 193893,
       "name": "The Road Is So Long",
       "url": "https://open.spotify.com/track/1QXLlIOl49faZia60gnrQT"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Guitar Slinger",
+        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 323986,
+      "name": "Don't Take Advantage Of Me - Remastered",
+      "url": "https://open.spotify.com/track/3sHgMnbPhxt5ZIm3CKXx0a"
     },
     {
       "added_at": "2023-05-17 15:52:13",

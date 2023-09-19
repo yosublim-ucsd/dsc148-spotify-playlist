@@ -27867,6 +27867,24 @@
     },
     {
       "album": {
+        "name": "To Bring Rest",
+        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137749,
+      "name": "To Bring Rest",
+      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
+    },
+    {
+      "album": {
         "name": "To Brodie",
         "url": "https://open.spotify.com/album/2q5nbVAbsFkfwvdarg2Da2"
       },
@@ -28364,7 +28382,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 160500,
       "name": "Travelling",
       "url": "https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK"

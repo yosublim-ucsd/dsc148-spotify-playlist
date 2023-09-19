@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Sof\u00eda Campos",
-  "num_followers": 16260,
+  "num_followers": 16314,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODNmYjI1OGU0ZDA5NjJjZjg0Mzk2NDZhODRmNTdlZjkyZDJlOWE3",
+  "snapshot_id": "MCwzMmYzZjk0OTg1ZDcwODIwY2RkZjE5OTVlNzgyNWE4NzI5YmNlN2U1",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Mujer El\u00e9ctrica",
         "url": "https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59"
       },
@@ -167,6 +183,22 @@
       "duration_ms": 113639,
       "name": "Caf\u00e9 Con Leche",
       "url": "https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 234656,
+      "name": "Otras Se Pierden",
+      "url": "https://open.spotify.com/track/3SvbcJH2seu1zs0PMjPS6F"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -219,38 +251,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 234656,
-      "name": "Otras Se Pierden",
-      "url": "https://open.spotify.com/track/3SvbcJH2seu1zs0PMjPS6F"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Conticinio",
         "url": "https://open.spotify.com/album/7iqnQQB4qkSdFGlO0F8MCn"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 212659,
       "name": "Conticinio",
       "url": "https://open.spotify.com/track/66V8fWmTWOTcZTo0niDctU"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "mis compas tan aqu\u00ed",
+        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "mis compas tan aqu\u00ed",
+      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -283,22 +299,6 @@
       "duration_ms": 183880,
       "name": "Asilo (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "mis compas tan aqu\u00ed",
-        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "mis compas tan aqu\u00ed",
-      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -371,6 +371,38 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "My Best Self",
         "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
       },
@@ -407,22 +439,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 168125,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Algo Sucede",
         "url": "https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL"
       },
@@ -583,26 +599,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Love Song (Helado Negro Remix)",
-        "url": "https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        },
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 259226,
-      "name": "Love Song - Helado Negro Remix",
-      "url": "https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
       },
@@ -619,18 +615,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Prenda del Alma - Spotify Singles",
-        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+        "name": "Love Song (Helado Negro Remix)",
+        "url": "https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
         }
       ],
-      "duration_ms": 258579,
-      "name": "Prenda del Alma - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
+      "duration_ms": 259226,
+      "name": "Love Song - Helado Negro Remix",
+      "url": "https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
+        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Atardeci\u00f3 sin vos",
+      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 203950,
       "name": "La Ola",
       "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
-        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "Atardeci\u00f3 sin vos",
-      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -771,26 +771,6 @@
       "duration_ms": 234040,
       "name": "Hermosa Drive",
       "url": "https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "azul",
-        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "azul",
-      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -863,6 +843,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "azul",
+        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "azul",
+      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Balboa",
         "url": "https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Un Solo Vientre",
-        "url": "https://open.spotify.com/album/4klUqNMjFqtTdR0Zzajow6"
-      },
-      "artists": [
-        {
-          "name": "Japonica",
-          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
-        }
-      ],
-      "duration_ms": 218448,
-      "name": "Un Solo Vientre",
-      "url": "https://open.spotify.com/track/652EkO5aFAC08No1JV0zqs"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "C\u00f3smosis",
         "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
       },
@@ -963,22 +947,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/7rFobKKdxE3gRflCho8mUY"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 190380,
       "name": "Norte",
       "url": "https://open.spotify.com/track/14DdKjlEHuI1DlSS8aKW0o"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Un Solo Vientre",
+        "url": "https://open.spotify.com/album/4klUqNMjFqtTdR0Zzajow6"
+      },
+      "artists": [
+        {
+          "name": "Japonica",
+          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+        }
+      ],
+      "duration_ms": 218448,
+      "name": "Un Solo Vientre",
+      "url": "https://open.spotify.com/track/652EkO5aFAC08No1JV0zqs"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2023-09-08 04:00:00",

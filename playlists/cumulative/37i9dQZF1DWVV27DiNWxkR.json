@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
         "name": "Morning / Midnight // My Mind is a Mess in the Morning",
         "url": "https://open.spotify.com/album/0dnf61lE4vYKAivDQwUaTk"
       },
@@ -4536,7 +4554,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 163823,
       "name": "Smithereens (with Rachel Chinouriri)",
       "url": "https://open.spotify.com/track/7KdlCAJJcJ7mczRt1fno7I"

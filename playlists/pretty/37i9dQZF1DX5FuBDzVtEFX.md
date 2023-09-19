@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back to the soothing sounds of the Ukulele...
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,612 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,669 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 49 | [Kaulana Kawaihae](https://open.spotify.com/track/0MgHhWRVG3tRYuCKT84eFZ) | [Bryan Tolentino](https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg), [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Friends](https://open.spotify.com/album/1652rH7CKlqwpdlR5T72v9) | 3:53 |
 | 50 | [Hey, Soul Sister](https://open.spotify.com/track/3lM3rRciN1o0s0C7lWWc0V) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits](https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe) | 3:36 |
 | 51 | [E Ku’u Morning Dew](https://open.spotify.com/track/5jnvdBYa3t2TDFEZYboelj) | [Benny Chong](https://open.spotify.com/artist/4rva1vKgGPw9mEyCiucXvH) | [Ukulele Therapy: Soothing Instrumentals for Relaxing](https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8) | 3:39 |
-| 52 | [イン・マイ・ライフ](https://open.spotify.com/track/2Im6Jdx18HFgxDz8zegDgB) | [ジェイク・シマブクロ](https://open.spotify.com/artist/4SpnYDbksWPYtKE31zCE1v) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:30 |
+| 52 | [イン・マイ・ライフ](https://open.spotify.com/track/2Im6Jdx18HFgxDz8zegDgB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:30 |
 | 53 | [Constellations \(feat\. Jack Johnson\)](https://open.spotify.com/track/7ysGMxKwKTR78Xhuju3Hvo) | [Kawika Kahiapo](https://open.spotify.com/artist/6aPkORVtaipgr2ryrcNQRp), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Ho'omaluhia](https://open.spotify.com/album/2vLvPXLFAHmftuyOyrTbMw) | 3:53 |
 | 54 | [Ku'u Pua I Paoakalani](https://open.spotify.com/track/5SgbhhOYg3NSGPHSTTAuEf) | [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Nahenahe](https://open.spotify.com/album/3J17HyASPEoCKqVvCmpeQW) | 3:17 |
 | 55 | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/track/5yFEuHawcsewDx3aSYFJss) | [Relaxation Guitar Maestro](https://open.spotify.com/artist/6B5MoYNLUzzteweIhTxIaC) | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/album/3axtiXVPio96WlTBczCKKG) | 4:47 |
 | 56 | [Yesterday](https://open.spotify.com/track/3SdPIwKA7dmxrYJIs63KCj) | [Winton Pearl](https://open.spotify.com/artist/5eM9121fISPjCeJjixEnqZ) | [You Are The Sunshine Of My Life](https://open.spotify.com/album/5gCYcWDJ34dH9oV2zWeaKi) | 2:35 |
 
-Snapshot ID: `MCwyNTVmNjM1YjczMDgwODFjYjVmYmNjYzcyOTAwYWQ0NmU5YzQwZmFj`
+Snapshot ID: `MCxmNGI1ZDkxNjU4NTE1ZWJhMWNiNjdhMGU5ZDA1YTU5OGNmMDdlNzQ5`

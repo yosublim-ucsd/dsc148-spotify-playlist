@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 199305,
+  "num_followers": 199360,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDkyYmM2ODIxMjgzMTMxMjA1ZWE5ZmU0ZGMyN2NkZDQzOWQwZDdj",
+  "snapshot_id": "MCw3NjE1NGRmNjllMWQwMWRkYjlmZTljZDE5MmViZWMyOTIzMWZmZDU2",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 244320,
+      "name": "Hold Her",
+      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Nothing is Ordinary. Everything is Beautiful.",
         "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 214600,
       "name": "Only One",
       "url": "https://open.spotify.com/track/1iAqQMUVtp5E1EYJkqZw2g"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 244320,
-      "name": "Hold Her",
-      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -491,38 +491,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Let It Fly",
-        "url": "https://open.spotify.com/album/0HxQEWPXmbBGyffEIlp5k9"
-      },
-      "artists": [
-        {
-          "name": "Jonny Diaz",
-          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Thank God I Got Her",
-      "url": "https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "I Will Always Be Yours",
-      "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Burn The Ships",
         "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
       },
@@ -547,18 +515,34 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Love Will Have the Final Word",
-        "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
       },
       "artists": [
         {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
         }
       ],
-      "duration_ms": 216453,
-      "name": "With Every Act of Love",
-      "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
+      "duration_ms": 226826,
+      "name": "I Will Always Be Yours",
+      "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Let It Fly",
+        "url": "https://open.spotify.com/album/0HxQEWPXmbBGyffEIlp5k9"
+      },
+      "artists": [
+        {
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Thank God I Got Her",
+      "url": "https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -575,6 +559,22 @@
       "duration_ms": 158023,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Love Will Have the Final Word",
+        "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "With Every Act of Love",
+      "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Girl of My Dreams",
+      "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
+        "name": "This Kind Of Love",
+        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
       },
       "artists": [
         {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 209880,
-      "name": "Girl of My Dreams",
-      "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
+      "duration_ms": 184640,
+      "name": "This Kind Of Love",
+      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -659,22 +675,6 @@
       "duration_ms": 226155,
       "name": "Beautiful (feat. India.Arie)",
       "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "This Kind Of Love",
-        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "This Kind Of Love",
-      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Pilots",
-      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "The Writer's Room: An Acoustic EP",
         "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 212426,
       "name": "The Day Before You - Acoustic",
       "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Pilots",
+      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "'90s Kids",
-        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
-      },
-      "artists": [
-        {
-          "name": "LaPeer",
-          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
-        }
-      ],
-      "duration_ms": 206987,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "NATIVE TONGUE",
         "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 125598,
       "name": "YOU'RE THE ONE I WANT",
       "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "'90s Kids",
+        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
+      },
+      "artists": [
+        {
+          "name": "LaPeer",
+          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+        }
+      ],
+      "duration_ms": 206987,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "How Much You Mean To Me",
-        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 218129,
-      "name": "How Much You Mean To Me",
-      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 188133,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "How Much You Mean To Me",
+        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 218129,
+      "name": "How Much You Mean To Me",
+      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Colton Dixon",
-        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 200538,
-      "name": "Can't Quit You",
-      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 132000,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Colton Dixon",
+        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 200538,
+      "name": "Can't Quit You",
+      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Overcomer",
         "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 214746,
       "name": "Praying For You",
       "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "What A Heart Is Beating For",
-        "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "What A Heart Is Beating For",
+        "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 171150,
       "name": "Can't Help Falling In Love - LIGHT",
       "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Here's to Second Chances",
-        "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 178748,
-      "name": "What Will She Say",
-      "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Dear Future Husband",
         "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 268179,
       "name": "Dear Future Husband",
       "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Here's to Second Chances",
+        "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "What Will She Say",
+      "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
     },
     {
       "added_at": "2023-01-31 10:01:12",

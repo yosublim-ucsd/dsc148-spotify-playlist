@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 60859,
+  "num_followers": 60943,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy",
+  "snapshot_id": "MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Opal (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 494256,
-      "name": "Opal - Four Tet Remix",
-      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Mind Doodles",
         "url": "https://open.spotify.com/album/2Zlm5KWIiAgooWhwWdM8xI"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 271770,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Opal (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 494256,
+      "name": "Opal - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 216267,
-      "name": "Ayaya",
-      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Joli Mai",
         "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 222320,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 216267,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Postquam",
-        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 498419,
-      "name": "Postquam",
-      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Epoch (Deluxe Version)",
         "url": "https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 345387,
       "name": "Epoch",
       "url": "https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Postquam",
+        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 498419,
+      "name": "Postquam",
+      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Pacer",
-        "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 459081,
-      "name": "Pacer",
-      "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 361384,
       "name": "Zeit f\u00fcr Sommer",
       "url": "https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Pacer",
+        "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 459081,
+      "name": "Pacer",
+      "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Kopernikus EP",
-        "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
-      },
-      "artists": [
-        {
-          "name": "Stil & Bense",
-          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
-        }
-      ],
-      "duration_ms": 440118,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "The Year After",
         "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 428936,
       "name": "The Year After",
       "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Kopernikus EP",
+        "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
+      },
+      "artists": [
+        {
+          "name": "Stil & Bense",
+          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
+        }
+      ],
+      "duration_ms": 440118,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
     },
     {
       "added_at": "2023-06-09 18:05:35",

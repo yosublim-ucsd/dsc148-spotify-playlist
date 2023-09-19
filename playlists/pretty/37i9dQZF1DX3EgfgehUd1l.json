@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 155801,
+  "num_followers": 155919,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDNkY2E4MGY1Njg0ZjMyYTQyMDExNjE1MDAxNGVmN2FhOGE0ZTRk",
+  "snapshot_id": "MCxiMjIzNjE0ZjkyNzI2N2M2MmVlYzQ3NmExMzQ2MzQ3MjhmYTI5Nzk4",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -107,42 +107,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
-        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Dick Stabile And His Orchestra",
-          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Flying Platters Around The World",
-        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Twilight Time - Single Version",
-      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -175,22 +139,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Best Of Frankie Lymon & The Teenagers",
-        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
+        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
       },
       "artists": [
         {
-          "name": "Frankie Lymon",
-          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         },
         {
-          "name": "The Teenagers",
-          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
         }
       ],
-      "duration_ms": 139666,
-      "name": "Why Do Fools Fall in Love",
-      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+      "duration_ms": 190400,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -211,6 +175,42 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "The Flying Platters Around The World",
+        "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "Twilight Time - Single Version",
+      "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Best Of Frankie Lymon & The Teenagers",
+        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon",
+          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
+        },
+        {
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Why Do Fools Fall in Love",
+      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "Good Golly!",
         "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 143826,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "Sway (Quien Sera)",
+      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -263,38 +279,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Platters",
-        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "My Prayer",
-      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
       },
@@ -331,18 +315,50 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
       "artists": [
         {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 157240,
-      "name": "Just Walkin' in the Rain",
-      "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
+      "duration_ms": 138080,
+      "name": "Memories Are Made Of This",
+      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "My Prayer",
+      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -363,18 +379,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
+      "duration_ms": 157240,
+      "name": "Just Walkin' in the Rain",
+      "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -407,22 +423,6 @@
       "duration_ms": 158520,
       "name": "It's All In The Game",
       "url": "https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Memories Are Made Of This",
-      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -619,18 +619,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Bobby Vee",
-        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
       },
       "artists": [
         {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 144106,
-      "name": "Rubber Ball",
-      "url": "https://open.spotify.com/track/35gkASz2Cb1VryMGIuEPjX"
+      "duration_ms": 158760,
+      "name": "Love And Marriage",
+      "url": "https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -651,6 +651,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Bobby Vee",
+        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 144106,
+      "name": "Rubber Ball",
+      "url": "https://open.spotify.com/track/35gkASz2Cb1VryMGIuEPjX"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -663,38 +679,6 @@
       "duration_ms": 168293,
       "name": "A Certain Smile - From the 20th Century Fox Film \"A Certain Smile\"",
       "url": "https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Sinatra 80th: All The Best",
-        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Love And Marriage",
-      "url": "https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Kalin Twins",
-        "url": "https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE"
-      },
-      "artists": [
-        {
-          "name": "Kalin Twins",
-          "url": "https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "When",
-      "url": "https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -715,18 +699,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Banana Boat Song",
-        "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
+        "name": "The Kalin Twins",
+        "url": "https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE"
       },
       "artists": [
         {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+          "name": "Kalin Twins",
+          "url": "https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH"
         }
       ],
-      "duration_ms": 184653,
-      "name": "Banana Boat Song",
-      "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
+      "duration_ms": 146573,
+      "name": "When",
+      "url": "https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -755,6 +739,38 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Three Coins In The Fountain",
+      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Banana Boat Song",
+        "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Banana Boat Song",
+      "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
         "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 145066,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Presenting Don Cornell",
-        "url": "https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja"
-      },
-      "artists": [
-        {
-          "name": "Don Cornell",
-          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -807,34 +807,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "What Do You Want to Make Those Eyes At Me For?",
-        "url": "https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv"
+        "name": "Presenting Don Cornell",
+        "url": "https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja"
       },
       "artists": [
         {
-          "name": "Emile Ford & The Checkmates",
-          "url": "https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC"
+          "name": "Don Cornell",
+          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
         }
       ],
-      "duration_ms": 124200,
-      "name": "What Do You Want to Make Those Eyes at Me for",
-      "url": "https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Three Coins In The Fountain",
-      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
+      "duration_ms": 169200,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -855,6 +839,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "What Do You Want to Make Those Eyes At Me For?",
+        "url": "https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv"
+      },
+      "artists": [
+        {
+          "name": "Emile Ford & The Checkmates",
+          "url": "https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "What Do You Want to Make Those Eyes at Me for",
+      "url": "https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 124640,
       "name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version",
       "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -983,22 +999,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "The Very Best Of Norman Wisdom",
         "url": "https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz"
       },
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Learnin' The Blues",
+      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "Kitty Kallen's Coloring Book",
         "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Billy Eckstine Sings",
-        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
-      },
-      "artists": [
-        {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
-        }
-      ],
-      "duration_ms": 189813,
-      "name": "No One but You",
-      "url": "https://open.spotify.com/track/1EryH4ZJhQxhq2OZFv1MwQ"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "The Legendary Masters Series (Volume 1)",
         "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 153666,
       "name": "Poor Little Fool",
       "url": "https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Billy Eckstine Sings",
+        "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "No One but You",
+      "url": "https://open.spotify.com/track/1EryH4ZJhQxhq2OZFv1MwQ"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1107,22 +1123,6 @@
       "duration_ms": 158560,
       "name": "Outside of Heaven",
       "url": "https://open.spotify.com/track/5TPvEyuAu8QVDpp3Zf4g3k"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Learnin' The Blues",
-      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Presenting Eddie Fisher",
-        "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Cindy Oh Cindy",
-      "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "The Magic Of Ruby Murray",
         "url": "https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "The Canadian Crew",
+        "url": "https://open.spotify.com/album/4fSOSe21Ri2GCzGfapA6iX"
+      },
+      "artists": [
+        {
+          "name": "The Crew Cuts",
+          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "Sh-Boom (Life Could Be a Dream)",
+      "url": "https://open.spotify.com/track/293St1iPD5azdzsbDYjIWs"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "Guaglione",
         "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 161333,
       "name": "Come prima",
       "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Presenting Eddie Fisher",
+        "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
+      },
+      "artists": [
+        {
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Cindy Oh Cindy",
+      "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1303,22 +1319,6 @@
       "duration_ms": 172440,
       "name": "Hey There - from The \"Pajama Game\"",
       "url": "https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Great Cliff Richard (Remastered)",
-        "url": "https://open.spotify.com/album/7dM90TIccpNDNxRHIW1j4U"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        }
-      ],
-      "duration_ms": 156173,
-      "name": "Living Doll - Remastered",
-      "url": "https://open.spotify.com/track/3aOYYxFgjjLqVVlPG4vZFG"
     },
     {
       "added_at": "2020-07-08 17:36:08",

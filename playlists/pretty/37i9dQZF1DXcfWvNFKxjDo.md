@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: R3HAB, Michael Schulte
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,114 likes - 74 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,242 likes - 74 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [Do You Ever Think Of Me](https://open.spotify.com/track/18rYVFWfX3Qswv887VGPkK) | [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [FADES](https://open.spotify.com/artist/2VElyouiCfoYPDJluzwJwK) | [Do You Ever Think Of Me](https://open.spotify.com/album/4k94fSI7hqHBZKgeasz62W) | 1:59 |
 | 74 | [Play](https://open.spotify.com/track/6YoqG5R2uqq5MQBj4kbnz4) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 3:19 |
 
-Snapshot ID: `MCw3MDRjNDRiYjJlZGM4MzhiODA4OGYyMjk2OTI4NmI1Mzk0YzM4ZmM5`
+Snapshot ID: `MCxiY2M3ZjFhNzU3NTZlOGU1NWU4ZjY0OTc4NjU4NDMwNmE4MGFjN2Rj`

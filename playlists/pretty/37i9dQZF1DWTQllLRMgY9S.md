@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 
 > Listen to brand new music as it arrives and all the classics from the true blue Queen of Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,449 likes - 59 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,628 likes - 59 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 | 58 | [Bitch I’m Loca \(feat\. Maluma\)](https://open.spotify.com/track/4EoMHVpNZTLVfAIgYzfufZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 2:50 |
 | 59 | [Killers Who Are Partying](https://open.spotify.com/track/68vWLW3xY35CHvYS2Sn55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 5:28 |
 
-Snapshot ID: `MCw5MzE1MDY3YjU3MTJjZWU2ZWEyMTE1OTkxODA4NTY1Yjg3NWEwZDM5`
+Snapshot ID: `MCxkMWY5ZDhjZWE0NTcwOTllODk1MWQyMWI4M2Y1ZjEwNTkxNTEzNDI4`

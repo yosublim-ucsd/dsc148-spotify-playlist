@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 9281,
+  "num_followers": 9590,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yjc4MDBhNTI4NzZkZWVlYWEzMTFjNzAwZDEwZWI0ZmVjNTBmZjlj",
+  "snapshot_id": "MCw4OTk3MTQ1YTUzMWM4NGZjYjNiMGY4NjQ2Y2RhZTY1MmE1Yjk5ODVk",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -295,26 +295,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Gam Gam (2023)",
-        "url": "https://open.spotify.com/album/5WEryFgo8eJNlHd6WGDh6r"
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
       "artists": [
         {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         },
         {
-          "name": "Mauro Pilato",
-          "url": "https://open.spotify.com/artist/4I1iEv9ygxuMPXqbucD7MP"
-        },
-        {
-          "name": "Max Monti",
-          "url": "https://open.spotify.com/artist/3H3jO2j8V6ncoQsdoLU9Sr"
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
         }
       ],
-      "duration_ms": 248888,
-      "name": "Gam Gam - 2023",
-      "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -339,22 +335,30 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
+        "name": "Tina",
+        "url": "https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "The Vic",
+          "url": "https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR"
         }
       ],
-      "duration_ms": 406584,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
+      "duration_ms": 262500,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -459,30 +463,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Tina",
-        "url": "https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8"
+        "name": "Gam Gam (2023)",
+        "url": "https://open.spotify.com/album/5WEryFgo8eJNlHd6WGDh6r"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         },
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "Mauro Pilato",
+          "url": "https://open.spotify.com/artist/4I1iEv9ygxuMPXqbucD7MP"
         },
         {
-          "name": "Meca",
-          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
-        },
-        {
-          "name": "The Vic",
-          "url": "https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR"
+          "name": "Max Monti",
+          "url": "https://open.spotify.com/artist/3H3jO2j8V6ncoQsdoLU9Sr"
         }
       ],
-      "duration_ms": 262500,
-      "name": "Tina",
-      "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
+      "duration_ms": 248888,
+      "name": "Gam Gam - 2023",
+      "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Dark Water",
-        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "JESSCA",
-          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Dark Water",
-      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Desire (with Sam Smith) [Hannah Laing Remix]",
         "url": "https://open.spotify.com/album/2Vg83qJEzQy2iaRF5kF4fb"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 188891,
       "name": "Desire (with Sam Smith) - Hannah Laing Remix",
       "url": "https://open.spotify.com/track/5fMCZVkIvrx6sF0oZhfFYG"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Dark Water",
+        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "JESSCA",
+          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Dark Water",
+      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Say You Will",
-        "url": "https://open.spotify.com/album/1gBgLMEQraFgv7KrMQqxYV"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 132187,
-      "name": "Say You Will",
-      "url": "https://open.spotify.com/track/63IsPNecHLiwqMMxzeVG12"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "WANNA GO BANG",
         "url": "https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/1gBgLMEQraFgv7KrMQqxYV"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 132187,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/63IsPNecHLiwqMMxzeVG12"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -879,6 +879,30 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Industria",
+        "url": "https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 211384,
+      "name": "Industria",
+      "url": "https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "3 DAYS AWAKE",
         "url": "https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at"
       },
@@ -899,18 +923,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Robotic Arms",
-        "url": "https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR"
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 230909,
-      "name": "Robotic Arms",
-      "url": "https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H"
+      "duration_ms": 177391,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/3uYo9KXhl2N2RAAKA9XN9h"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -931,18 +959,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "In My Hands (with Camden Cox)",
-        "url": "https://open.spotify.com/album/0dVvNRierRGIDIJcLabobW"
+        "name": "Robotic Arms",
+        "url": "https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR"
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
         }
       ],
-      "duration_ms": 220472,
-      "name": "In My Hands (with Camden Cox)",
-      "url": "https://open.spotify.com/track/5tQBXtnSjBN6ohQYLCxBlX"
+      "duration_ms": 230909,
+      "name": "Robotic Arms",
+      "url": "https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -959,26 +987,6 @@
       "duration_ms": 240000,
       "name": "The Unexpected",
       "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Make Way",
-        "url": "https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM"
-      },
-      "artists": [
-        {
-          "name": "Motez",
-          "url": "https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR"
-        },
-        {
-          "name": "Elsy Wameyo",
-          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Make Way",
-      "url": "https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep"
     }
   ],
   "unique_name": "techno party",

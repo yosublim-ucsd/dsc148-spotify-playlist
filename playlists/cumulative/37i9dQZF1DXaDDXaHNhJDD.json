@@ -950,7 +950,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 135189,
       "name": "Jaya Hey Theme Song",
       "url": "https://open.spotify.com/track/402U7M2EhhkkotY2Z6Eok4"
@@ -2042,6 +2042,32 @@
       "duration_ms": 209772,
       "name": "Nee Mukilo",
       "url": "https://open.spotify.com/track/4kw7D5nU2QqjdM9pVef6GN"
+    },
+    {
+      "album": {
+        "name": "Neela Nilave (From \"Rdx\")",
+        "url": "https://open.spotify.com/album/5LXBbKAhhMqgj3rGOBWOah"
+      },
+      "artists": [
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Manu Manjith",
+          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Neela Nilave (From \"RDX\")",
+      "url": "https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv"
     },
     {
       "album": {

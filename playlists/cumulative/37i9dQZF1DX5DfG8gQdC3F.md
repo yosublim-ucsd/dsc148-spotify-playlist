@@ -4,7 +4,7 @@
 
 > New music from The Beaches, Drake, Sia, Tate McRae, Majid Jordan & Naomi Sharon and more.
 
-8,867 songs - 19 day 16 hr 12 min
+8,868 songs - 19 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6172,7 +6172,8 @@
 | [Q\-Pid](https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Q\-Pid](https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz) | 2:11 | 2022-08-19 | 2022-08-27 |
 | [Q4](https://open.spotify.com/track/6GN8fc9sxaltugkHyRYUTN) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Q4](https://open.spotify.com/album/6TGNYqqV0CgruCKn7JC9Z4) | 4:57 | 2022-02-11 | 2022-02-19 |
 | [Qaumajur](https://open.spotify.com/track/4iEYvfQHN2ceUpZS852rnm) | [Putumayo](https://open.spotify.com/artist/7k8vgAYpmLCJNOs1J8SB8X), [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx), [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [Qaumajur](https://open.spotify.com/album/63FnoKSa6gnqhLykGflXTI) | 3:34 | 2023-08-04 | 2023-08-12 |
-| [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/track/3s7edrMgsb2GHt36L0mFOp) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/album/5ILR1GcWMyPSkEfWBsqwfZ) | 4:03 | 2023-09-15 |  |
+| [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/track/3XVqCl47UQ7kWTXN1HAgvZ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 4:03 | 2023-09-15 |  |
+| [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/track/3s7edrMgsb2GHt36L0mFOp) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/album/5ILR1GcWMyPSkEfWBsqwfZ) | 4:03 | 2023-09-15 | 2023-09-19 |
 | [Quand je danse](https://open.spotify.com/track/1GyGHzdgRVJjJ8KO9dOSNG) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Le danger](https://open.spotify.com/album/404hJJ2pZMMk8hyEwgiGsy) | 2:54 | 2023-09-15 |  |
 | [QUAND JE MARCHE \(COMME BEN MAZUÉ\)](https://open.spotify.com/track/4d8Re9UAO6WBApUoYTLMVS) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [QUAND JE MARCHE \(COMME BEN MAZUÉ\)](https://open.spotify.com/album/69JjeMKOG4hofS2DHL2lGa) | 3:12 | 2022-04-29 | 2022-05-07 |
 | [Quand le rideau tombe](https://open.spotify.com/track/0DSYMpHAZhkXS8s0Xbwpi8) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [Quand le rideau tombe](https://open.spotify.com/album/0FrO522nVjUtLMo4keDWan) | 3:08 | 2023-05-12 | 2023-05-20 |

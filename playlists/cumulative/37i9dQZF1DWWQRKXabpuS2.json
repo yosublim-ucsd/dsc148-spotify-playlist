@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Ahmed Allah Aleek",
+        "url": "https://open.spotify.com/album/64pCUD9wMYdC4lQZOryvaB"
+      },
+      "artists": [
+        {
+          "name": "Lamya Almalki",
+          "url": "https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146340,
+      "name": "Ahmed Allah Aleek",
+      "url": "https://open.spotify.com/track/3wHwGaImG08yAIzOnh8qc4"
+    },
+    {
+      "album": {
         "name": "Akhathet Be Khtrek",
         "url": "https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 220187,
       "name": "Akhathet Be Khtrek",
       "url": "https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0"
@@ -4060,7 +4078,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 276010,
       "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
       "url": "https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s"
@@ -4544,6 +4562,24 @@
       "duration_ms": 205496,
       "name": "\u0645\u0631\u062d\u0628\u0627 \u0628\u0643",
       "url": "https://open.spotify.com/track/7zGF0G34lky0sgWz6uQux8"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0635\u0644\u062d\u062a\u0643",
+        "url": "https://open.spotify.com/album/2n0YMCPqZLwtR3Y4she3fz"
+      },
+      "artists": [
+        {
+          "name": "Fahad Al Kubaisi",
+          "url": "https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "\u0645\u0635\u0644\u062d\u062a\u0643",
+      "url": "https://open.spotify.com/track/3zNFE3WvCQmtIqQYLxBcoH"
     },
     {
       "album": {

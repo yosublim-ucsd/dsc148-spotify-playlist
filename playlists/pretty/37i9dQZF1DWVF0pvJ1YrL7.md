@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,847 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,889 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 14 | [Junkie](https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Junkie](https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg) | 3:36 |
 | 15 | [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 |
 | 16 | [0°C](https://open.spotify.com/track/1tnexZBkX24zkjm2s11E8Y) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:01 |
-| 17 | [rightclick](https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP) | 2:54 |
-| 18 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
+| 17 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
+| 18 | [rightclick](https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP) | 2:54 |
 | 19 | [Pfad des Windes](https://open.spotify.com/track/0WgSsCo3zWzkaHY0JlMoi9) | [Wolf Müller](https://open.spotify.com/artist/4VfrssMXmKSDejMWn1eT9D) | [Selectors 002 \- Young Marco](https://open.spotify.com/album/4fxpBVBg2qKcqWP4cQDwS6) | 6:07 |
 | 20 | [Step](https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2) | [Hotel Silk](https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd) | [Step](https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc) | 7:11 |
 | 21 | [Not Not Not](https://open.spotify.com/track/0gReAloAEMGmMftpG64Cfw) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:15 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 35 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
 | 36 | [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 |
 | 37 | [Low](https://open.spotify.com/track/2nJ5KcsR3jDf4XKB2nSlTi) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Donne che Corrono coi Lupi](https://open.spotify.com/album/0hMOgkYpG0Koyu4turzyQ1) | 1:38 |
-| 38 | [Occurrence at the Triple Door](https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu) | [Strategy](https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs) | [The Infinity File](https://open.spotify.com/album/6Mpti6xmLwJMRVLAPL6M3Y) | 3:40 |
-| 39 | [Dazzle Anew](https://open.spotify.com/track/4jPGf8NTH7H5L9zbH8r7KK) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 3:36 |
+| 38 | [Dazzle Anew](https://open.spotify.com/track/4jPGf8NTH7H5L9zbH8r7KK) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 3:36 |
+| 39 | [Occurrence at the Triple Door](https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu) | [Strategy](https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs) | [The Infinity File](https://open.spotify.com/album/6Mpti6xmLwJMRVLAPL6M3Y) | 3:40 |
 | 40 | [Punta Alem](https://open.spotify.com/track/6rWyZPJd3Pmn6ng44kg4Wr) | [Gora Sou](https://open.spotify.com/artist/6GqE7gm7ep2CLEjN03wReS) | [Ramifications](https://open.spotify.com/album/2sbW0BHAt4RibZnl5jHGtZ) | 4:46 |
 | 41 | [Island Birdy](https://open.spotify.com/track/2MchMFQ0BSYrIWd5eMqIpy) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 4:18 |
 | 42 | [Dencity](https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 6:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [Hypogean](https://open.spotify.com/track/2Dmu5AIckVaWZAYq5w7jhU) | [Ans M](https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF) | [Cicada Lullaby](https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb) | 4:30 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCw4ZTQ5NWIwMTI1MjQ1YTE1OThjYThmYmZhODRmNmNkMmI0MTM0N2Jk`
+Snapshot ID: `MCwwMmRhOTc4OGQxMzRmOTIzMTA0M2Q1NmNmMGFmNmYxNGUxMDE4ZGQ2`

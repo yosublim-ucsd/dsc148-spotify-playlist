@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 105606,
+  "num_followers": 105653,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQ1MmZkM2RhNGJlMTFkNDJmNmY4NjkzMTYyOWQ0NjE2ZTJmODJj",
+  "snapshot_id": "MCwxZjFiNDFiYWI2YmU2NmQ2ZmM3MzA5NjZmZDEyN2FhZjRiOWY3NmIz",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "breath tapes",
-        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 215222,
-      "name": "suddenly",
-      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "The Time Is Right",
         "url": "https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 253793,
       "name": "Colours Of My Mind",
       "url": "https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "meserole",
-        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "meserole",
-      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Good Lies",
         "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Push Power ( a 1 )",
-        "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
+        "name": "meserole",
+        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
       },
       "artists": [
         {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 249261,
-      "name": "Push Power ( a 1 )",
-      "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+      "duration_ms": 213760,
+      "name": "meserole",
+      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -327,6 +311,22 @@
       "duration_ms": 138337,
       "name": "Moving Still - Reprise",
       "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Push Power ( a 1 )",
+        "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 249261,
+      "name": "Push Power ( a 1 )",
+      "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Whatever Happens, Happens",
         "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 227304,
       "name": "Whatever Happens, Happens",
       "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Take Them",
-        "url": "https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 287542,
-      "name": "Take Them",
-      "url": "https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 282349,
       "name": "Cold",
       "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Take Them",
+        "url": "https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 287542,
+      "name": "Take Them",
+      "url": "https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Higher Elevation",
-        "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 373453,
-      "name": "Higher Elevation",
-      "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "CIRCLES",
         "url": "https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+        "name": "Higher Elevation",
+        "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
         }
       ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+      "duration_ms": 373453,
+      "name": "Higher Elevation",
+      "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
     }
   ],
   "unique_name": "Night Shift",

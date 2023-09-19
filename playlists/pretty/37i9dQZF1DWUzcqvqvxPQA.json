@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25975,
+  "num_followers": 25976,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWJmNzJhZWU0ZGVhNzc3ZGI1NTBkODQyNjk3ODM0OWYyYmNmYTZm",
+  "snapshot_id": "MCw3ZmRjNzZlZGVlMDE1OTdiZjA0MWEwODdjZTMwMDQ2ZjhjM2E2ZGZj",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "EVERYTHING EVERYTHING",
-        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 200079,
-      "name": "EVERYTHING EVERYTHING",
-      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "The Answer",
         "url": "https://open.spotify.com/album/7MvLqEJ066ULDEcqrQUGIM"
       },
@@ -319,22 +303,6 @@
       "duration_ms": 189200,
       "name": "Word Of Life",
       "url": "https://open.spotify.com/track/4evZUjbXPrzooKfpEBYWnw"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Happy Dance",
-      "url": "https://open.spotify.com/track/7c1LZzDxrNCOJRe3A459S4"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -375,6 +343,54 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "EVERYTHING EVERYTHING",
+        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 200079,
+      "name": "EVERYTHING EVERYTHING",
+      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Happy Dance",
+      "url": "https://open.spotify.com/track/7c1LZzDxrNCOJRe3A459S4"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Hang On",
+      "url": "https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 237013,
       "name": "Champion - Studio Version",
       "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Out of Body",
-        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Hang On",
-      "url": "https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Glorify",
-      "url": "https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "I\u2019ll Give Thanks",
         "url": "https://open.spotify.com/album/6X7mF04HpAVdND0ODi4TDo"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 232656,
       "name": "I\u2019ll Give Thanks",
       "url": "https://open.spotify.com/track/5iBYUI5N7zZzTkd7ychQ0P"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Glorify",
+      "url": "https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "So Alive",
-        "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 178619,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 202893,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "So Alive",
+        "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 178619,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -775,22 +775,6 @@
       "duration_ms": 181560,
       "name": "i don't know if we can be friends",
       "url": "https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 182043,
-      "name": "Never Gonna Let Me Go",
-      "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -851,6 +835,22 @@
       "duration_ms": 246215,
       "name": "Who Says?",
       "url": "https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 182043,
+      "name": "Never Gonna Let Me Go",
+      "url": "https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Love (Remix)",
-        "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 210084,
-      "name": "Love (Remix)",
-      "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Peopled with Dreams",
         "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 311091,
       "name": "Shining Down",
       "url": "https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Love (Remix)",
+        "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 210084,
+      "name": "Love (Remix)",
+      "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 228737,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 228737,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Not Too Far",
-        "url": "https://open.spotify.com/album/0QlOVnfV5mMUYWughwqoP8"
-      },
-      "artists": [
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
-        }
-      ],
-      "duration_ms": 181598,
-      "name": "Not Too Far",
-      "url": "https://open.spotify.com/track/6YvfFdBKpgYMuV1Q8beFax"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/1IzKxjCQN2dZYpUvTWTQBd"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 231280,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/0R8tMSvCvkHpiz7DjnBsAw"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Not Too Far",
+        "url": "https://open.spotify.com/album/0QlOVnfV5mMUYWughwqoP8"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        }
+      ],
+      "duration_ms": 181598,
+      "name": "Not Too Far",
+      "url": "https://open.spotify.com/track/6YvfFdBKpgYMuV1Q8beFax"
     },
     {
       "added_at": "2020-08-13 14:39:00",

@@ -4,7 +4,7 @@
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-141 songs - 11 hr 1 min
+142 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Anything and Everything](https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 4:54 | 2022-05-13 |  |
 | [Anywhere Near You](https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb) | [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Drive](https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ) | 4:45 | 2022-05-13 |  |
 | [Are You Ready?](https://open.spotify.com/track/3Rm78lWA4PNL8TFlJBQD01) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Body Language](https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE) | 5:04 | 2022-06-22 | 2022-10-06 |
-| [Bedtime Story](https://open.spotify.com/track/3SkljL4PezsMZJVoZyfb56) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 5:20 | 2023-08-03 |  |
+| [Bedtime Story](https://open.spotify.com/track/3SkljL4PezsMZJVoZyfb56) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 5:20 | 2023-08-03 | 2023-09-19 |
 | [Bird Island](https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Hardcastle 2](https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D) | 4:26 | 2022-08-11 |  |
 | [Bird Island](https://open.spotify.com/track/7Hum40xexcHsivuPoY1Bhq) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Hardcastle 2](https://open.spotify.com/album/2qSKvHHykvwH4ND8WrUqVq) | 4:28 | 2022-05-13 | 2022-07-29 |
 | [Bliss](https://open.spotify.com/track/2mWoRefRFZf9tg5IIORaQ5) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Ultimate Smooth Jazz \#1's Vol 4](https://open.spotify.com/album/7H8KSdYO6eucH8SUb63ZhE) | 5:13 | 2022-11-09 | 2022-11-13 |
@@ -73,6 +73,7 @@
 | [Lampin' It](https://open.spotify.com/track/3l5g5qN2NqywbkQ0Uo48Oq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [House Of Groove](https://open.spotify.com/album/47f9fL7Qzdax2zB3Bzh6cr) | 5:12 | 2022-06-22 | 2022-08-31 |
 | [Last Look](https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 4:36 | 2022-05-13 |  |
 | [Later Tonight](https://open.spotify.com/track/3gQjJXN3AnbvgeBY4Vomi4) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Dreams](https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df) | 4:55 | 2022-05-13 | 2023-08-26 |
+| [Le Tour d'Amour](https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE), [Thomas Darelid](https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ), [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED), [Jenny Kristoffersson](https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy), [Per Lindvall](https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc) | [Le Tour d'Amour](https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8) | 3:20 | 2023-09-15 |  |
 | [Let It Shine](https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:06 | 2022-05-13 |  |
 | [Let's Get Close](https://open.spotify.com/track/2obxF2oBpRKwlzx8FQOpaP) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:32 | 2022-05-13 | 2023-08-26 |
 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 | 2022-06-29 |  |

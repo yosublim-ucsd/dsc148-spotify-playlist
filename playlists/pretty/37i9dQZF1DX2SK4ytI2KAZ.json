@@ -1,12 +1,12 @@
 {
   "description": "K. Flay celebrates her new album <a href=\"http://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM\">MONO</a> and highlights some of her favorite alternative tracks.",
-  "num_followers": 703851,
+  "num_followers": 703886,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTVhNDM5YmViZDk0ZDU2NGJlZGZkNDA3M2Q4MmVjOGZkZTQxNGYx",
+  "snapshot_id": "MCw2NDk3NTUzOWU1OGU4ZDQxNDM3ZjZkOTQwMzRlYTA2ZmZkYWNkYTUx",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 184783,
-      "name": "bad idea right?",
-      "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
         "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 186066,
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Record Player (with AJR)",
-        "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
-      },
-      "artists": [
-        {
-          "name": "Daisy the Great",
-          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
-        },
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Record Player (with AJR)",
-      "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Happy Face",
         "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 241194,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Record Player (with AJR)",
+        "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        },
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Record Player (with AJR)",
+      "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "See You Later",
-        "url": "https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "See You Later",
-      "url": "https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 177397,
       "name": "What, Me Worry?",
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "See You Later",
+        "url": "https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "See You Later",
+      "url": "https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Let's go to Hell",
-        "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Let's go to Hell",
-      "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 200546,
       "name": "Body",
       "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Let's go to Hell",
+        "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Let's go to Hell",
+      "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 219000,
       "name": "Fred Astaire",
       "url": "https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "What Am I Missing?",
-        "url": "https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "What Am I Missing?",
-      "url": "https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "What Could Be Better",
         "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 223813,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "What Am I Missing?",
+        "url": "https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "What Am I Missing?",
+      "url": "https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE"
     },
     {
       "added_at": "2023-09-15 04:01:00",

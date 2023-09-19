@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 19754,
+  "num_followers": 19768,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmVkOGVjYmY3MDBiZmViYmI1MzA1OTRjMTQ5M2I2ZGM2ZDQ2NDc4",
+  "snapshot_id": "MCw0YjIyMDk4NzI0YzU5N2Y5NzAwYjQ5NGE1ZDMxMGNlMDViYzQ0NTdj",
   "tracks": [
     {
       "added_at": "2023-09-14 15:00:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
+        "url": "https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
         }
       ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+      "duration_ms": 213793,
+      "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
+      "url": "https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
-        "url": "https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 213793,
-      "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
-      "url": "https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu"
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Soranji",
-        "url": "https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 344226,
-      "name": "Soranji",
-      "url": "https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB"
-    },
-    {
-      "added_at": "2023-09-14 15:00:00",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 147370,
       "name": "minority",
       "url": "https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
+        "name": "Soranji",
+        "url": "https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 344226,
+      "name": "Soranji",
+      "url": "https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB"
     },
     {
       "added_at": "2023-09-14 15:00:00",

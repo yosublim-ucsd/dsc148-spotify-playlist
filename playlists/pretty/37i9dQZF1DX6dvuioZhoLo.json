@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 286320,
+  "num_followers": 286405,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTNkM2YyYmJjMDE1Yzc0NGE1OTAyMWU4NjVmNTAxOTQzMjUxNDQ4",
+  "snapshot_id": "MCxjZDA0MGZkYjk2MzMyYWU1ZGE3NDVhNjBhZDQyNGMwZGU2ZTAyZGVm",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Patsy Cline",
-        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
+        "name": "Western Swing & Waltzes and Other Punchy Songs",
+        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Walkin' After Midnight",
-      "url": "https://open.spotify.com/track/7E8nKMtXMqIQbvl1Ta9Ucw"
+      "duration_ms": 192626,
+      "name": "Cowpoke",
+      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Western Swing & Waltzes and Other Punchy Songs",
-        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
+        "name": "Patsy Cline",
+        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
       },
       "artists": [
         {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
         }
       ],
-      "duration_ms": 192626,
-      "name": "Cowpoke",
-      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
+      "duration_ms": 154666,
+      "name": "Walkin' After Midnight",
+      "url": "https://open.spotify.com/track/7E8nKMtXMqIQbvl1Ta9Ucw"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Colter Wall",
-        "url": "https://open.spotify.com/album/0R8H8XYAiHsh2dwzb4RHsI"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 137706,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/1z2UyZvguJYmNd47EZP7Qp"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Kitty Wells\u2019 Country Hit Parade",
         "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Music City USA",
-        "url": "https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY"
+        "name": "Colter Wall",
+        "url": "https://open.spotify.com/album/0R8H8XYAiHsh2dwzb4RHsI"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 201163,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/2xukUi9mX3gH3n6j0aPyD7"
+      "duration_ms": 137706,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/1z2UyZvguJYmNd47EZP7Qp"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -471,6 +455,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Music City USA",
+        "url": "https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 201163,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2xukUi9mX3gH3n6j0aPyD7"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 207938,
       "name": "Take You Back (The Iron Hoof Cattle Call)",
       "url": "https://open.spotify.com/track/6F6bUsLOJMoaTUky7LftrP"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -519,34 +535,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Ivory Castanets",
-        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 190600,
-      "name": "Like a Wave",
-      "url": "https://open.spotify.com/track/0p3bGYYZTf75CskrmGwpVi"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Red Moon",
-      "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
+      "duration_ms": 143939,
+      "name": "Powder Blue",
+      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -563,6 +563,22 @@
       "duration_ms": 263576,
       "name": "Red Dress",
       "url": "https://open.spotify.com/track/6Z3c8lGCTa19aYhSfEdvav"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Ivory Castanets",
+        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Like a Wave",
+      "url": "https://open.spotify.com/track/0p3bGYYZTf75CskrmGwpVi"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -603,22 +619,6 @@
       "duration_ms": 209826,
       "name": "Where Ya Been?",
       "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 143939,
-      "name": "Powder Blue",
-      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Robert Ellis",
+        "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
+      },
+      "artists": [
+        {
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Drivin'",
+      "url": "https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Robert Ellis",
-        "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
-      },
-      "artists": [
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Drivin'",
-      "url": "https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Like a Rose",
         "url": "https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "It Must Be Someone Else\u2019s Fault",
-      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "It Must Be Someone Else\u2019s Fault",
+      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 300895,
-      "name": "Weather",
-      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Welcome to Hard Times",
         "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 185754,
       "name": "Welcome to Hard Times",
       "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 300895,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Easy Way",
+        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Got a Lotta Love",
+      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Stranger to Me",
         "url": "https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 201426,
       "name": "Fuck Up",
       "url": "https://open.spotify.com/track/4W5vicHqRLGvCeq9Odh2LD"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Easy Way",
-        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Got a Lotta Love",
-      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1155,38 +1155,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Faded Gloryville",
-        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
-      },
-      "artists": [
-        {
-          "name": "Lindi Ortega",
-          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Run-down Neighborhood",
-      "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Orphan Offering",
-        "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 338814,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Real Class Act",
         "url": "https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e"
       },
@@ -1199,22 +1167,6 @@
       "duration_ms": 177502,
       "name": "Roll On",
       "url": "https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Canyons of my Mind",
-        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
-      },
-      "artists": [
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1235,18 +1187,50 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+        "name": "Faded Gloryville",
+        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
         }
       ],
-      "duration_ms": 227893,
-      "name": "To Learn Her",
-      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
+      "duration_ms": 186773,
+      "name": "Run-down Neighborhood",
+      "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Canyons of my Mind",
+        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Orphan Offering",
+        "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 338814,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Spades & Roses",
-        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 240801,
-      "name": "Hotel Amarillo",
-      "url": "https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw"
+      "duration_ms": 227893,
+      "name": "To Learn Her",
+      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "All Or Nothin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
+        "name": "Spades & Roses",
+        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
       },
       "artists": [
         {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
+      "duration_ms": 240801,
+      "name": "Hotel Amarillo",
+      "url": "https://open.spotify.com/track/6ErmDvkwkXb00pP6ID9fxw"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 153466,
       "name": "Goodnight Rhonda Lee",
       "url": "https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "All Or Nothin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Silver Tears",
-        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lee Tasjan",
-          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
-        }
-      ],
-      "duration_ms": 218641,
-      "name": "Memphis Rain",
-      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 228962,
       "name": "I Feel Like Hank Williams Tonight",
       "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Silver Tears",
+        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lee Tasjan",
+          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
+        }
+      ],
+      "duration_ms": 218641,
+      "name": "Memphis Rain",
+      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
-      },
-      "artists": [
-        {
-          "name": "Skylar Gudasz",
-          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
-        }
-      ],
-      "duration_ms": 286146,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 207826,
       "name": "Warning",
       "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
+      },
+      "artists": [
+        {
+          "name": "Skylar Gudasz",
+          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
     },
     {
       "added_at": "2023-09-08 04:00:00",

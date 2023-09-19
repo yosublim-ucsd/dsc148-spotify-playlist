@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: illiomote
 
-832 songs - 2 day 3 hr 55 min
+833 songs - 2 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Friday Night \(A Song for Manic Pixies\)](https://open.spotify.com/track/1HnbhEfjgIRbw8qq0KwRWd) | [Mississippi Khaki Hair](https://open.spotify.com/artist/2vffVdMWW9IwxwIkhRSlxc) | [Friday Night \(A Song for Manic Pixies\)](https://open.spotify.com/album/3TRqmbJ0xxtlzWw0CC1yns) | 3:04 | 2023-05-30 | 2023-06-14 |
 | [From The Top](https://open.spotify.com/track/2EZEeTAXxYhScVxtUYsw9c) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [From The Top](https://open.spotify.com/album/4pTrnYVHUR8QzN9qxhrZe1) | 2:23 | 2023-01-17 | 2023-03-15 |
 | [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 | 2023-02-21 | 2023-04-06 |
-| [fushigi \- URBAN VOLCANO SOUNDS Mysterious Boogie Remix](https://open.spotify.com/track/4izWh3S6IbaKO0pIRHdSxZ) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [URBAN VOLCANO SOUNDS](https://open.spotify.com/artist/7uKxxjykhehO0XETSo7Ahi) | [fushigi \(URBAN VOLCANO SOUNDS Mysterious Boogie Remix\)](https://open.spotify.com/album/1kLgYyA73inRosAynMsNHu) | 5:49 | 2023-08-22 |  |
+| [fushigi \- URBAN VOLCANO SOUNDS Mysterious Boogie Remix](https://open.spotify.com/track/4izWh3S6IbaKO0pIRHdSxZ) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [URBAN VOLCANO SOUNDS](https://open.spotify.com/artist/7uKxxjykhehO0XETSo7Ahi) | [fushigi \(URBAN VOLCANO SOUNDS Mysterious Boogie Remix\)](https://open.spotify.com/album/1kLgYyA73inRosAynMsNHu) | 5:49 | 2023-08-22 | 2023-09-19 |
 | [Garakuta](https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Garakuta](https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark) | 2:58 | 2023-03-03 | 2023-03-29 |
 | [Garden](https://open.spotify.com/track/6S3zXTgua8IH8y0UXG2o5z) | [Mariana in our Heads](https://open.spotify.com/artist/4sa4uFNUGC2SH8a4Rj710I) | [Landscapes](https://open.spotify.com/album/13pufn8mYgJ4A6w2zkUlQF) | 4:10 | 2023-07-04 | 2023-07-12 |
 | [garden.](https://open.spotify.com/track/3FQGrW0IsZ0HKewjwq8bgQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [CHAPTER I: MEMENTO MOLLY](https://open.spotify.com/album/6D3UFoo05uS97YwuW8En48) | 3:35 | 2023-03-30 | 2023-04-28 |
@@ -505,6 +505,7 @@
 | [Torch](https://open.spotify.com/track/587DhmH1SuAW6DyfMByWZ7) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [State of Mind](https://open.spotify.com/album/5IlACT0Uw2qjYTgHrK37b0) | 4:55 | 2023-03-28 | 2023-04-05 |
 | [Touching](https://open.spotify.com/track/2uDkbhdKNmlmTTzYJGvqoi) | [Boyish](https://open.spotify.com/artist/4zOMFblFUbK27Smau7ABhD) | [FIELDS](https://open.spotify.com/album/6csud901rv0tlVffyKpOy5) | 3:58 | 2023-08-12 | 2023-08-23 |
 | [Toumei na Nukumori](https://open.spotify.com/track/76QXx63Sqbf4WvyS0QtaM4) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [Risa Nakagawa](https://open.spotify.com/artist/35TXIIWvd5KWK5Y13cF8Hf) | [Toumei na Nukumori](https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS) | 3:17 | 2023-06-21 | 2023-07-05 |
+| [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-14 |  |
 | [Try it](https://open.spotify.com/track/6uiJDc0yjQ9hBVIpQ0ZZw2) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Try it](https://open.spotify.com/album/3acGxNAVqRP0UCLT0rQpuR) | 3:41 | 2023-01-12 | 2023-02-15 |
 | [Tuesday Butterfly \- feat\. Misi Ke](https://open.spotify.com/track/0ezYoov46hgipHPUtk7Pm5) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Tuesday Butterfly \(feat\. Misi Ke\)](https://open.spotify.com/album/3EmYHtnxH9f46MdkoRcSvQ) | 3:09 | 2023-08-30 |  |
 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 | 2023-09-08 |  |

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-500 songs - 1 day 4 hr 4 min
+503 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Take Me Higher](https://open.spotify.com/track/3HiKUx9he5EtseHYyMv27L) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:43 | 2022-07-21 | 2022-07-23 |
 | [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 | 2022-04-14 | 2023-01-30 |
 | [Take Me Higher \- Devault Remix](https://open.spotify.com/track/1m5pkerekraxuRFtanKSZm) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Take Me Higher \(Devault Remix\)](https://open.spotify.com/album/7JSUCMBmWf9drqsvLPU44h) | 4:02 | 2022-11-11 |  |
+| [Take My Hand](https://open.spotify.com/track/6OXYxf6aGStPAF33xfbX4y) | [Zidakara](https://open.spotify.com/artist/1hTBatOhJ4f8nwdpny243e), [B\-Dos](https://open.spotify.com/artist/78XmtRqWV7RVWeYacvLJVx) | [Take My Hand](https://open.spotify.com/album/0wtipOu4OobwJj0jJpIDZV) | 2:27 | 2023-09-18 |  |
 | [Take You High](https://open.spotify.com/track/32hY9dJwqBNMiwhgJ0SDhq) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Take You High](https://open.spotify.com/album/5AratY1dSsx99KK11yyNjH) | 4:04 | 2023-01-29 |  |
 | [Talk \(with Royal & the Serpent\)](https://open.spotify.com/track/0DnA3UhB37Iaq1XwnZwbIZ) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [To Believe \- EP](https://open.spotify.com/album/54meck8D5fOrFRuPTGmXG9) | 3:12 | 2022-06-24 | 2023-01-30 |
 | [Tear It to Pieces](https://open.spotify.com/track/1YTuRRXO1J0u2CLngDnlP9) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [Tear It to Pieces](https://open.spotify.com/album/2GkG5QTPZJYNWc2wNVhE8w) | 2:55 | 2023-06-20 |  |
@@ -478,8 +479,10 @@
 | [Violet](https://open.spotify.com/track/5VLggkhHW1zKYE8uYCPW5D) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Violet](https://open.spotify.com/album/13lB6cbUQUfr2lZkwYJxTk) | 2:43 | 2023-01-20 |  |
 | [Visions \- SUN/MGNETK Remix](https://open.spotify.com/track/1a40njhjzTInmBNuctG47K) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [SUN/MGNETK](https://open.spotify.com/artist/5uQ7vzfqVBvCALRIWehL1Y) | [Visions \(SUN/MGNETK Remix\)](https://open.spotify.com/album/5eHvlXvZBrxxU66x8TyKdx) | 2:35 | 2022-03-10 | 2022-03-31 |
 | [void](https://open.spotify.com/track/09RZdc0aGQIj2zyb533nT1) | [VILLA](https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS), [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 3:18 | 2022-09-02 | 2023-07-20 |
+| [Waiting](https://open.spotify.com/track/3q27PHvmQDV2BURl1QaTte) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Waiting](https://open.spotify.com/album/5Zg9VxMehF1QbCRD2yMESc) | 5:01 | 2023-09-18 |  |
 | [Waiting...](https://open.spotify.com/track/2RvaQGoRf0aGCrzzITBqpE) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Waiting...](https://open.spotify.com/album/5Tw9rBaxeaAOT5AYisGu9o) | 3:41 | 2023-07-20 |  |
 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 | 2023-03-22 |  |
+| [want u](https://open.spotify.com/track/6nw4IaIhMiSsAiC0Wcij3U) | [SENZA](https://open.spotify.com/artist/6WjBgaTm4K1hVJ7KOfIs76) | [want u](https://open.spotify.com/album/7njdUxRgzPxUlUBHTYLR3r) | 2:35 | 2023-09-18 |  |
 | [Wanted More](https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN) | [Wanted More](https://open.spotify.com/album/1grxrDJUvkQgAY7PZMXWZj) | 2:55 | 2023-01-19 | 2023-06-23 |
 | [WAV3S](https://open.spotify.com/track/3WHg0730YWLaPSEnUaZ0E0) | [33col3](https://open.spotify.com/artist/3X6o8V3Hm7FIcPBfVMoNPt) | [WAV3S](https://open.spotify.com/album/1X3uxRaDKh4AChDmlpQqBF) | 3:08 | 2022-02-28 | 2022-03-31 |
 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 | 2022-07-23 |  |

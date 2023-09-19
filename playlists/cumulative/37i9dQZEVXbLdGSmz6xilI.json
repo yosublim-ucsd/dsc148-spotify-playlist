@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 232258,
       "name": "3 1 0 7 (feat. Duongg & N\u00e2u)",
       "url": "https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp"
@@ -5473,6 +5473,32 @@
     },
     {
       "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
+        {
+          "name": "2pillz",
+          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
+        },
+        {
+          "name": "WOKEUP",
+          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205138,
+      "name": "gh\u1ec7 iu d\u1ea5u c\u1ee7a em \u01a1i",
+      "url": "https://open.spotify.com/track/4YSryHqsD82Krc81l1EJD5"
+    },
+    {
+      "album": {
         "name": "gh\u1ec7 iu d\u1ea5u c\u1ee7a em \u01a1i",
         "url": "https://open.spotify.com/album/0gzU4NsjKsWr646GHiPxbK"
       },
@@ -8954,7 +8980,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 204982,
       "name": "Mi\u00ean Man",
       "url": "https://open.spotify.com/track/4nNkpu8vY9BtDKUFnDc3YD"
@@ -8972,7 +8998,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 197998,
       "name": "Mi\u00ean Man",
       "url": "https://open.spotify.com/track/7tFwBnuaGXqiiONukPRaCo"
@@ -10314,7 +10340,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 241340,
       "name": "N\u1ea5u \u0103n cho em",
       "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
@@ -16116,7 +16142,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 197333,
       "name": "\u00c0 L\u00f4i",
       "url": "https://open.spotify.com/track/3kxFvcB92qQg9wl52CQ7aV"

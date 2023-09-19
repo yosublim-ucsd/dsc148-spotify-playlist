@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDU3ODAsMDAwMDAwMDAwZDQ5MWE2ZGZkZjY5ZTgzY2I3MGY0ODgwYmFkMjM1Yg==",
+  "snapshot_id": "MjgyNDU3ODAsMDAwMDAwMDBkZDZmMDE1NjhmMzMwN2M2MTliYmQ4Y2I1MGJmOGExNg==",
   "tracks": [
     {
       "added_at": "2023-09-15 03:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 350893,
       "name": "Aunque Los Pasos Toquen",
       "url": "https://open.spotify.com/track/2pOAHrx64N8CX44f3bcdrd"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023)",
-        "url": "https://open.spotify.com/album/7vr0BCGwcB5BNuEWwISAO1"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 288230,
-      "name": "Too Far Gone? - Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023",
-      "url": "https://open.spotify.com/track/50T5tj2DdZ0yajhBrSESve"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -207,38 +191,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "To The Faithful Departed (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0cg6OTD0VxMSAzQghLeecH"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "Salvation - Early Mix",
-      "url": "https://open.spotify.com/track/2FEwKIUAJxqEUYkCAakvJx"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Live 1978 - 1992",
-        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Lady Writer - Live At The Rainbow / Dec 1979",
-      "url": "https://open.spotify.com/track/77014L6RWjLdxOkpIaO6As"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/7cSjOM6t4Sg5a8WJ4qW2hi"
       },
@@ -255,6 +207,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 387853,
+      "name": "Down To The Waterline - Live At The Rainbow / Dec 1979",
+      "url": "https://open.spotify.com/track/2HgNLvtah8nkEbQvEKWyId"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Slave Driver (Live At The Sundown Theatre, Edmonton, UK / May 1973)",
         "url": "https://open.spotify.com/album/4uaL5ocB7JkJMmuEwzXMUp"
       },
@@ -267,22 +235,6 @@
       "duration_ms": 243520,
       "name": "Slave Driver - Live At The Sundown Theatre, Edmonton, UK / May 1973",
       "url": "https://open.spotify.com/track/6umprZ3p3BbDjBFa6bsKd4"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/6eDULzAgKI7kIWRSY9R6zy"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Human - Accapella Version",
-      "url": "https://open.spotify.com/track/0CrBLW25dHSjbzDhZ0lKjw"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -307,6 +259,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/6eDULzAgKI7kIWRSY9R6zy"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Human - Accapella Version",
+      "url": "https://open.spotify.com/track/0CrBLW25dHSjbzDhZ0lKjw"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Dookie (30th Anniversary Outtakes)",
         "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
       },
@@ -316,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 224800,
-      "name": "Christie Rd. - Outtake",
-      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
+      "duration_ms": 169773,
+      "name": "Walking the Dog (demo) - Outtake",
+      "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -339,6 +307,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Cream (Take 2)",
+        "url": "https://open.spotify.com/album/6hWcJvsUmaxVnHdMCBalUp"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 290475,
+      "name": "Cream (Take 2)",
+      "url": "https://open.spotify.com/track/2CkRxfFJhdhjPKhhi515zc"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "P\u00e1jaros de fuego (Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\")",
         "url": "https://open.spotify.com/album/3Xc48Ap1RROgCr5OTr8w7C"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 276545,
       "name": "P\u00e1jaros de fuego - Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\"",
       "url": "https://open.spotify.com/track/4qsgzEP6xq3jYHdj7eocub"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "To The Faithful Departed (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1CPtOBwQVBkxSCBYnNbZTd"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "Salvation - Early Mix",
+      "url": "https://open.spotify.com/track/4XXbh0DujCStZ5F2rVfX1d"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -419,22 +419,6 @@
       "duration_ms": 225013,
       "name": "Oler A Ti",
       "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "The Man in Me (Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978)",
-        "url": "https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
-      "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -763,22 +747,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Live In El Paso 1980",
-        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Instrumental - Live",
-      "url": "https://open.spotify.com/track/57sBk0O1e2g6B3KBfjwtkT"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Llama Violeta Cham\u00e1nica",
         "url": "https://open.spotify.com/album/2IqPZLo79cNQwnLu8Rrjh1"
       },
@@ -791,6 +759,22 @@
       "duration_ms": 508920,
       "name": "Llama Violeta Cham\u00e1nica",
       "url": "https://open.spotify.com/track/5bWnTEQIoOO1mnZfHqw79K"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Live In El Paso 1980",
+        "url": "https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Instrumental - Live",
+      "url": "https://open.spotify.com/track/57sBk0O1e2g6B3KBfjwtkT"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

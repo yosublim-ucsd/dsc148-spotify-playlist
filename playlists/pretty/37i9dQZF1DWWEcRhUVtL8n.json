@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: boyish",
-  "num_followers": 1702712,
+  "num_followers": 1702749,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MThiYmZhZjA0ZmRkMzY1ZjU5MGJhZWJkN2VlYTA4NzAyZDM3ZmY2",
+  "snapshot_id": "MCwzNWM4YzlmNTIwZjllOWE1ZGM0ZWNlYzlkMDgwZDAyOThkYjM5NTQx",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
     },
     {
+      "added_at": "2023-08-14 19:08:31",
+      "album": {
+        "name": "Happiest Girl",
+        "url": "https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 167812,
+      "name": "Happiest Girl",
+      "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
+    },
+    {
       "added_at": "2023-06-30 04:21:00",
       "album": {
         "name": "DO IT AGAIN (Official Song of the FIFA Women\u2019s World Cup 2023\u2122)",
@@ -971,22 +987,6 @@
       "duration_ms": 176730,
       "name": "DO IT AGAIN - Official Song of the FIFA Women\u2019s World Cup 2023\u2122",
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
-    },
-    {
-      "added_at": "2023-08-14 19:08:31",
-      "album": {
-        "name": "Happiest Girl",
-        "url": "https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 167812,
-      "name": "Happiest Girl",
-      "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
       "added_at": "2023-07-03 15:40:30",
       "album": {
         "name": "Kill Your Pain (with King Princess)",
@@ -1071,22 +1087,6 @@
       "duration_ms": 166194,
       "name": "Kill Your Pain (with King Princess)",
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "how's it feel to be a boy",
+        "url": "https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "how's it feel to be a boy",
+      "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
+    },
+    {
       "added_at": "2023-08-04 13:13:27",
       "album": {
         "name": "Ease",
@@ -1171,22 +1187,6 @@
       "duration_ms": 164213,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "how's it feel to be a boy",
-        "url": "https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA"
-      },
-      "artists": [
-        {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "how's it feel to be a boy",
-      "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1317,6 +1317,38 @@
       "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Kick in the Teeth",
+        "url": "https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 167289,
+      "name": "Kick in the Teeth",
+      "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
+    },
+    {
       "added_at": "2023-08-25 04:56:29",
       "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
@@ -1337,22 +1369,6 @@
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
       "added_at": "2023-07-07 18:51:45",
       "album": {
         "name": "SUNDAY",
@@ -1367,38 +1383,6 @@
       "duration_ms": 124133,
       "name": "SUNDAY",
       "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Kick in the Teeth",
-        "url": "https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 167289,
-      "name": "Kick in the Teeth",
-      "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
-    },
-    {
-      "added_at": "2023-04-21 04:19:11",
-      "album": {
-        "name": "Blades",
-        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221092,
-      "name": "Blades",
-      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1419,6 +1403,54 @@
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
+      "added_at": "2023-04-21 04:19:11",
+      "album": {
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221092,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 164196,
+      "name": "Give A Little Kindness",
+      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1453,54 +1485,6 @@
       "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 164196,
-      "name": "Give A Little Kindness",
-      "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Old Friends",
-        "url": "https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "july",
@@ -1533,20 +1517,36 @@
       "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Demise",
-        "url": "https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42"
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0"
       },
       "artists": [
         {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
         }
       ],
-      "duration_ms": 192119,
-      "name": "Demise",
-      "url": "https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP"
+      "duration_ms": 172173,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1"
+    },
+    {
+      "added_at": "2023-04-21 04:19:11",
+      "album": {
+        "name": "Rocket Ship",
+        "url": "https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 89189,
+      "name": "Rocket Ship",
+      "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1581,36 +1581,20 @@
       "url": "https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv"
     },
     {
-      "added_at": "2023-04-21 04:19:11",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Rocket Ship",
-        "url": "https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m"
+        "name": "Demise",
+        "url": "https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42"
       },
       "artists": [
         {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
         }
       ],
-      "duration_ms": 89189,
-      "name": "Rocket Ship",
-      "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
-    },
-    {
-      "added_at": "2023-06-30 04:21:00",
-      "album": {
-        "name": "Smiley",
-        "url": "https://open.spotify.com/album/63ub9Mu2sxcHPPSxpBspMR"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 169263,
-      "name": "Smiley",
-      "url": "https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv"
+      "duration_ms": 192119,
+      "name": "Demise",
+      "url": "https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 179080,
       "name": "moving on (feat. Khary)",
       "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
+    },
+    {
+      "added_at": "2023-06-30 04:21:00",
+      "album": {
+        "name": "Smiley",
+        "url": "https://open.spotify.com/album/63ub9Mu2sxcHPPSxpBspMR"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "Smiley",
+      "url": "https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv"
     }
   ],
   "unique_name": "Indie Pop",

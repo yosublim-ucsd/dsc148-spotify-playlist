@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: YADAM
 
-458 songs - 1 day 1 hr 29 min
+459 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 | 2022-06-29 | 2022-09-07 |
 | [Don't Care](https://open.spotify.com/track/6TZUGi7lAOGfUyGKaIGJ4N) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Care](https://open.spotify.com/album/5V9xFMXmFn3EhDDeicghye) | 3:16 | 2021-11-18 | 2022-07-26 |
 | [Duele \(Negociación\)](https://open.spotify.com/track/5yI50XJm7uEHYxM14gpBGu) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Duele \(Negociación\)](https://open.spotify.com/album/2A7pEcFehWX92ammHs913N) | 3:37 | 2023-06-09 | 2023-09-02 |
+| [Déjenme Llorar](https://open.spotify.com/track/3ACxrhctejSeuRCLhTZUOI) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Déjenme Llorar](https://open.spotify.com/album/6sIQNoyBSFFrPOx4Oy2YmV) | 2:21 | 2023-09-15 |  |
 | [eclipse de amor](https://open.spotify.com/track/6oU12RE1G6CxW8tHkYLiRl) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [eclipse de amor](https://open.spotify.com/album/1B0fg4RJtE53arBhogyE2B) | 2:51 | 2023-03-10 | 2023-03-30 |
 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 | 2021-11-18 | 2022-11-25 |
 | [El Juego](https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [El Juego](https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH) | 2:48 | 2022-11-24 | 2023-01-07 |
@@ -213,7 +214,7 @@
 | [Locura](https://open.spotify.com/track/0YdQ18RKVo46yNgj1H92MF) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Real Life Situations](https://open.spotify.com/album/5xdGIj9ivToi3Iag0pOx77) | 2:44 | 2022-06-29 | 2022-11-25 |
 | [Locura](https://open.spotify.com/track/2xukDcihOVcK9cBvpR25we) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Real Life Situations](https://open.spotify.com/album/3VnXrco4kkeesTPtAmVP2j) | 2:44 | 2021-11-18 | 2022-07-28 |
 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 | 2021-11-18 | 2022-11-25 |
-| [lonely lullaby](https://open.spotify.com/track/68y0q1ZAjmCWE7442EdZpT) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [lonely lullaby](https://open.spotify.com/album/69cb3d3e00fXPqwomhRFtw) | 2:01 | 2023-09-01 |  |
+| [lonely lullaby](https://open.spotify.com/track/68y0q1ZAjmCWE7442EdZpT) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [lonely lullaby](https://open.spotify.com/album/69cb3d3e00fXPqwomhRFtw) | 2:01 | 2023-09-01 | 2023-09-19 |
 | [Los Marcianos](https://open.spotify.com/track/0MVwTUha6REf54EKPefwR9) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Los Marcianos](https://open.spotify.com/album/3ALswjPd4659w0ygjUTjQH) | 3:02 | 2023-05-12 | 2023-06-03 |
 | [Lotta Love](https://open.spotify.com/track/4ICpTkGZ8khDEgk1edstz0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/6ocfxxkgWCkw3jvjI0eWR7) | 3:17 | 2021-11-18 | 2022-07-27 |
 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 | 2022-06-29 | 2022-11-25 |

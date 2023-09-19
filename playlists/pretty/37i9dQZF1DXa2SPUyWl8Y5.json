@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 473184,
+  "num_followers": 473350,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODQ2OGM5NWNlZjY2OWI1YWVjNTE5OGVkYjM3NWJiNDU2MjczMWU3",
+  "snapshot_id": "MCw2MDg0MjMzNTQ5MTM5YjM2Mjg1YWRmYjRkNmI2YjcyMTU1ZmMxZmEy",
   "tracks": [
     {
       "added_at": "2023-09-01 17:06:35",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
         "name": "Millenium (Edit)",
         "url": "https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Postquam",
         "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Owls (Edit)",
-        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 226014,
-      "name": "Owls - Edit",
-      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Allegri",
         "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 528959,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Owls (Edit)",
+        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 226014,
+      "name": "Owls - Edit",
+      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+        "name": "Pure Love EP",
+        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
       },
       "artists": [
         {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
         }
       ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+      "duration_ms": 393495,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -631,6 +647,22 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/7vzZqY07k2ZTeCMYQ2DDFf"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "duration_ms": 448684,
+      "name": "Amantes Amentes",
+      "url": "https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
       },
@@ -647,38 +679,6 @@
       "duration_ms": 364918,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
-        "name": "Pure Love EP",
-        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        }
-      ],
-      "duration_ms": 393495,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
-        "name": "Amantes Amentes",
-        "url": "https://open.spotify.com/album/7vzZqY07k2ZTeCMYQ2DDFf"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 448684,
-      "name": "Amantes Amentes",
-      "url": "https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
-      },
-      "artists": [
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
-        }
-      ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Exoplanet",
         "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 501290,
       "name": "Exoplanet",
       "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+      },
+      "artists": [
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Shaded",
         "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 290731,
       "name": "Shaded",
       "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Gratitude (Extended Mixes)",
-        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 356188,
-      "name": "Forsaken Dream - Extended Mix",
-      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Bird EP",
         "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 350047,
       "name": "Bird",
       "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Gratitude (Extended Mixes)",
+        "url": "https://open.spotify.com/album/45ldqmlx36xFWwGoSz0IR1"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 356188,
+      "name": "Forsaken Dream - Extended Mix",
+      "url": "https://open.spotify.com/track/2y9Nx9Jm5rWyxHMGe6pVKA"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Sora",
         "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
         "name": "Landing in Halifax",
         "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/1BlktEZMPc4KztTlS0E0zG"
-      },
-      "artists": [
-        {
-          "name": "TH;EN",
-          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
-        }
-      ],
-      "duration_ms": 261463,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/3VYXaYVEA1fHvJPWSqNakj"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Lost in Berlin",
         "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 457080,
       "name": "March of the giants",
       "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1BlktEZMPc4KztTlS0E0zG"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "duration_ms": 261463,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/3VYXaYVEA1fHvJPWSqNakj"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Spacemodulation",
-        "url": "https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D"
-      },
-      "artists": [
-        {
-          "name": "Flug 8",
-          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
-        }
-      ],
-      "duration_ms": 428160,
-      "name": "Spacemodulation",
-      "url": "https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Orchestra (Remixes)",
         "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 412500,
       "name": "Entrudo - Booka Shade Remix",
       "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Spacemodulation",
+        "url": "https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D"
+      },
+      "artists": [
+        {
+          "name": "Flug 8",
+          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
+        }
+      ],
+      "duration_ms": 428160,
+      "name": "Spacemodulation",
+      "url": "https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        },
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
         }
       ],
-      "duration_ms": 192016,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
     }
   ],
   "unique_name": "Beats to think to",

@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 538395,
+  "num_followers": 538476,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTc2ZTJiN2NhM2ExZDdlZWUzNjU2OTJjN2RjNWU5NDlmM2I0NGQw",
+  "snapshot_id": "MCxjMTU2NzMxNzQ1MzU1NWVlMzEwMmZjNGZlOGQ4Mjc1YjE0YTY3ODNl",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -143,6 +143,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 153600,
       "name": "I'm Shipping Up To Boston",
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -351,22 +367,6 @@
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -563,6 +563,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Bro Hymn - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Social Distortion",
         "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Bro Hymn - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Skinny Dipping",
-        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "Lavender Bones",
-      "url": "https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "NINE",
         "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 185986,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Skinny Dipping",
+        "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "Lavender Bones",
+      "url": "https://open.spotify.com/track/11RX9JI2RFo70n5XH8U3Mk"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "She's A God",
+        "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 200330,
+      "name": "She's A God",
+      "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Father of All...",
         "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 200228,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "She's A God",
-        "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 200330,
-      "name": "She's A God",
-      "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Mindreader",
-        "url": "https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 173520,
-      "name": "Mindreader",
-      "url": "https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Peace And The Panic",
         "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 213010,
       "name": "Happy Judgement Day",
       "url": "https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Mindreader",
+        "url": "https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 173520,
+      "name": "Mindreader",
+      "url": "https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Love and Loathing",
         "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
       },
@@ -1355,6 +1339,38 @@
       "duration_ms": 196464,
       "name": "Down To Hell",
       "url": "https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Entertainment",
+        "url": "https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Entertainment",
-        "url": "https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV"
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU"
       },
       "artists": [
         {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Blonde",
-      "url": "https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158"
+      "duration_ms": 196363,
+      "name": "Never Coming Home",
+      "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1419,22 +1435,6 @@
       "duration_ms": 146436,
       "name": "Jurassic Park",
       "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Never Coming Home",
-      "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
     },
     {
       "added_at": "2020-11-20 21:27:18",

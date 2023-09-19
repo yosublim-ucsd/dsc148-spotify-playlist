@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn?si=rTglW8cHTY\-t8QgrCfw0vw">Neon Adejo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,399 likes - 110 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,435 likes - 110 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 105 | [Ma blay \(Let's praise\)](https://open.spotify.com/track/2NCC2xJpgT0eqgTsjYcQg5) | [Minister Ogense](https://open.spotify.com/artist/2KRSmba65eENhcKye3LAsh) | [Ma blay \(Let's praise\)](https://open.spotify.com/album/21ngo3ziZcBlAarO8ALE1C) | 4:17 |
 | 106 | [No Jokes](https://open.spotify.com/track/2RTWBnTMjfPOjzdgvRJ3lS) | [IceberG](https://open.spotify.com/artist/7x6uIE3cF02iPqfgA9NTQh), [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi) | [No Jokes](https://open.spotify.com/album/4BxnOXktlEg0qc8vpH6LnX) | 2:45 |
 | 107 | [Lift Me](https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Veil](https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol) | 3:56 |
-| 108 | [Addicted Gospel](https://open.spotify.com/track/3fZv20odhk0oiqnPifJJSe) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Addicted Gospel](https://open.spotify.com/album/0f4E164Vht9LKfWeYUVm6C) | 3:21 |
+| 108 | [Addicted Gospel](https://open.spotify.com/track/5F3I7iXgPacXdhkTVoCwgo) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Addicted Gospel](https://open.spotify.com/album/0ZKov2uU5icfihqqFzNIh9) | 3:14 |
 | 109 | [Church](https://open.spotify.com/track/4hv60ZZey1ngWek5Kb2X9i) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [Church](https://open.spotify.com/album/0mXnLS5qqlw5yo1Tq5Rbci) | 2:27 |
 | 110 | [Webale](https://open.spotify.com/track/0TgmJrYEQMm6BF5toik8th) | [Kevin Caleb](https://open.spotify.com/artist/4OaLdeytt5rqkH0x69PTVW) | [Webale](https://open.spotify.com/album/72o0W81ZxYNLx5KTLv03qM) | 3:16 |
 
-Snapshot ID: `MCw5NWI2MzViNTNhMGVlYzk0NDNkMWIzNmQxNzJmZWJjMWNiMmUwZDE1`
+Snapshot ID: `MCw1ODYwOGQ0YmJiYjg3NTNkOTRiZWQxZWJiMTRjYjhkYjY2ZmU4YmJk`

@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 118621,
       "name": "Allegrini",
       "url": "https://open.spotify.com/track/7GYHZi5vPB3ihAInagsKu2"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 69973,
       "name": "Bundle of Joy",
       "url": "https://open.spotify.com/track/2Gqko5KvjhQap113vwwP2i"
@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Coucher de Solei",
+        "url": "https://open.spotify.com/album/5PfLYMjSFodhRzqGFVzsOt"
+      },
+      "artists": [
+        {
+          "name": "Herman Lundblad",
+          "url": "https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132129,
+      "name": "Coucher de Solei",
+      "url": "https://open.spotify.com/track/2ZIgXnNMJLDrxHwHCsXdP1"
+    },
+    {
+      "album": {
         "name": "Could It Be?",
         "url": "https://open.spotify.com/album/1FtVHVt45fGkU5cHeyLgkP"
       },
@@ -802,7 +820,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 111775,
       "name": "Could It Be?",
       "url": "https://open.spotify.com/track/1BVWa7Qf9nN9eakpg13aF1"
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 99567,
       "name": "Emerald Enlightenment",
       "url": "https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0"
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 114437,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/5t4wYNhdJDzxVlMjri5sOn"
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 114725,
       "name": "Hands and Feet",
       "url": "https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 112653,
       "name": "Hour of Rest",
       "url": "https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 112397,
       "name": "Lemons In London",
       "url": "https://open.spotify.com/track/4NEIlZgVYb3lwN81SgxcJV"
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 110146,
       "name": "Little Bird",
       "url": "https://open.spotify.com/track/2n1QbWSRwYIGwMybFB730q"
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 101590,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C"
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 115124,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 80649,
       "name": "New Dimensions",
       "url": "https://open.spotify.com/track/0nwGO2cdc5wvV0mBGELwRf"
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 100833,
       "name": "Nuove stelle",
       "url": "https://open.spotify.com/track/4XhwwAHtDNnv8sHJk1O69p"
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 117016,
       "name": "Oaks Bluffs",
       "url": "https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M"
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 98403,
       "name": "Place to Remember",
       "url": "https://open.spotify.com/track/235xEvc5AelB56CsNzYew3"
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 119570,
       "name": "Prelude to Elegance",
       "url": "https://open.spotify.com/track/0eubFOQUAbrLPPmf6xNDQE"
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 103591,
       "name": "Return of the swans",
       "url": "https://open.spotify.com/track/28a8DXnFlTHUSGC9UuTwBM"
@@ -3788,7 +3806,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 102000,
       "name": "Sous le Pluie",
       "url": "https://open.spotify.com/track/2qCiBLziSnRIR3LXMQq798"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 98078,
       "name": "Starlight Canyon",
       "url": "https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6"
@@ -3896,7 +3914,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 119687,
       "name": "Stirling",
       "url": "https://open.spotify.com/track/1lBZFfbME5sIHKtgNuXq2I"
@@ -4138,7 +4156,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 118000,
       "name": "The River",
       "url": "https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0"
@@ -4174,7 +4192,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 101048,
       "name": "Theme from Lazarus",
       "url": "https://open.spotify.com/track/0kaL2ZHjstKZWu9MxWt3mb"
@@ -4246,7 +4264,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 113416,
       "name": "Ti sto aspettando",
       "url": "https://open.spotify.com/track/6GsPgwT4H2gJI1aP6auCut"
@@ -4700,7 +4718,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 94267,
       "name": "When Twilight Ends",
       "url": "https://open.spotify.com/track/58p2epzTksRN9FMFjuPP41"

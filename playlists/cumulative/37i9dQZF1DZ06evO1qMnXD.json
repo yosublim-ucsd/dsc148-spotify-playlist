@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160293,
+      "name": "Buffalo Replaced",
+      "url": "https://open.spotify.com/track/06m6Q2ZUHNsHGEHK9m8hLf"
+    },
+    {
+      "album": {
         "name": "Bug Like an Angel",
         "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
       },
@@ -329,6 +347,24 @@
     },
     {
       "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145026,
+      "name": "I Don't Like My Mind",
+      "url": "https://open.spotify.com/track/1l0BBsLElenQWul8Fn8tT1"
+    },
+    {
+      "album": {
         "name": "Retired from Sad, New Career in Business",
         "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
       },
@@ -362,6 +398,24 @@
       "duration_ms": 174760,
       "name": "I Will",
       "url": "https://open.spotify.com/track/2yYP6zjOBqGKqI6s2lZyer"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "I'm Your Man",
+      "url": "https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9"
     },
     {
       "album": {
@@ -452,6 +506,24 @@
       "duration_ms": 137141,
       "name": "Me and My Husband",
       "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "album": {
@@ -632,10 +704,46 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 238880,
       "name": "Susie Save Your Love",
       "url": "https://open.spotify.com/track/5jYkyOIoEeWZobedmHM50N"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232200,
+      "name": "The Deal",
+      "url": "https://open.spotify.com/track/0CNJcM33kvWE8v26wBy9wB"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "The Frost",
+      "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
     },
     {
       "album": {
@@ -676,7 +784,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 161022,
       "name": "This Is A Life",
       "url": "https://open.spotify.com/track/20UK2eUwlRzNuW60gzITuj"
@@ -716,6 +824,24 @@
       "duration_ms": 128198,
       "name": "Washing Machine Heart",
       "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104253,
+      "name": "When Memories Snow",
+      "url": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
     },
     {
       "album": {

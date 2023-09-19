@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 121209,
+  "num_followers": 121256,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTM5MzY2MGQwYzYyZGU0ODJmYzVkNjBiZTcyOWNiZDVhMWY5ZjM2",
+  "snapshot_id": "MCw5NTI0ZjljZGEyZmY3YzUzN2Y4NzZkMWU5Zjk0YTlmMjA4ZDIzM2E4",
   "tracks": [
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1207,42 +1207,6 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Roots Manuva",
-          "url": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
-        }
-      ],
-      "duration_ms": 153508,
-      "name": "You Ain't No Celebrity",
-      "url": "https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH"
-    },
-    {
-      "added_at": "2023-09-14 15:00:00",
-      "album": {
-        "name": "Silver Platter (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/79RZZV5Z6Y3Is9716GwJOn"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 165670,
-      "name": "Silver Platter (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/7ru8nP5fLduJ94O54K4Uhl"
-    },
-    {
-      "added_at": "2023-09-14 15:00:00",
-      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -1271,6 +1235,22 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
+        "name": "Silver Platter (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/79RZZV5Z6Y3Is9716GwJOn"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 165670,
+      "name": "Silver Platter (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/7ru8nP5fLduJ94O54K4Uhl"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
         "name": "Be The One (with Khalid)",
         "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 200814,
       "name": "Be The One (with Khalid)",
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Roots Manuva",
+          "url": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
+        }
+      ],
+      "duration_ms": 153508,
+      "name": "You Ain't No Celebrity",
+      "url": "https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 166623,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
-    },
-    {
-      "added_at": "2023-09-14 15:00:00",
-      "album": {
         "name": "Watching Movies with the Sound Off (10th Anniversary)",
         "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 264217,
       "name": "The Star Room (OG Version) - Bonus Track",
       "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 166623,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Since I Have A Lover",
-      "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
-    },
-    {
-      "added_at": "2023-09-14 15:00:00",
-      "album": {
         "name": "Only",
         "url": "https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 169590,
       "name": "Only",
       "url": "https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Since I Have A Lover",
+      "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -1723,18 +1739,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+        "name": "Spirit 2.0",
+        "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+      "duration_ms": 289962,
+      "name": "Spirit 2.0",
+      "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1783,18 +1799,22 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Spirit 2.0",
-        "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
         }
       ],
-      "duration_ms": 289962,
-      "name": "Spirit 2.0",
-      "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
+      "duration_ms": 214468,
+      "name": "erase me",
+      "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1819,26 +1839,6 @@
       "duration_ms": 224586,
       "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
-    },
-    {
-      "added_at": "2023-09-14 15:00:00",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 214468,
-      "name": "erase me",
-      "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "\u77b3\u60da\u308c",
-        "url": "https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss"
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 257687,
-      "name": "\u77b3\u60da\u308c",
-      "url": "https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z"
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

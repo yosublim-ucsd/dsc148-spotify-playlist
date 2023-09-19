@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 165424,
+  "num_followers": 165515,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTk3ZDRkMTZhNDI4N2U2MmEzY2ZlNzRhM2NiNDExNjc5YWVhMmVj",
+  "snapshot_id": "MCxmODM4OWE3MDNhZTRlYmQ4ODMxOWFlOWVkYzdkMDBmYTg5MzU1NDUz",
   "tracks": [
     {
       "added_at": "2023-04-05 03:09:18",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
-      "added_at": "2023-06-07 23:32:59",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 289461,
-      "name": "Army Of Me - Spotify Single",
-      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
-    },
-    {
       "added_at": "2022-01-14 00:51:04",
       "album": {
         "name": "Warm Chris",
@@ -447,6 +431,22 @@
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
+      "added_at": "2023-06-07 23:32:59",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 289461,
+      "name": "Army Of Me - Spotify Single",
+      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
       "added_at": "2022-09-29 00:40:57",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Jacqueline",
-        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
-      },
-      "artists": [
-        {
-          "name": "Jackie Lynn",
-          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
-        }
-      ],
-      "duration_ms": 324022,
-      "name": "Dream St.",
-      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "STORY OF BLOOD",
@@ -833,20 +817,20 @@
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
-      "added_at": "2023-06-05 20:56:02",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+        "name": "Jacqueline",
+        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
       },
       "artists": [
         {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+          "name": "Jackie Lynn",
+          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
         }
       ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
+      "duration_ms": 324022,
+      "name": "Dream St.",
+      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -881,6 +865,22 @@
       "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
     },
     {
+      "added_at": "2023-06-05 20:56:02",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
+    },
+    {
       "added_at": "2023-05-24 01:45:20",
       "album": {
         "name": "Bola Oro",
@@ -895,22 +895,6 @@
       "duration_ms": 245245,
       "name": "Bola Oro",
       "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
-    },
-    {
-      "added_at": "2022-08-31 05:00:32",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 164598,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -933,6 +917,22 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
+      "added_at": "2022-08-31 05:00:32",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 164598,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
       "added_at": "2022-09-09 13:45:31",
       "album": {
         "name": "Jolene From Her Own Perspective",
@@ -953,42 +953,6 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 420080,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Life, and Another",
-        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
-      },
-      "artists": [
-        {
-          "name": "Mega Bog",
-          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
-        }
-      ],
-      "duration_ms": 265815,
-      "name": "Station to Station",
-      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
-    },
-    {
       "added_at": "2022-08-13 00:53:45",
       "album": {
         "name": "Go On",
@@ -1007,6 +971,42 @@
       "duration_ms": 286640,
       "name": "Go On",
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Life, and Another",
+        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
+      },
+      "artists": [
+        {
+          "name": "Mega Bog",
+          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
+        }
+      ],
+      "duration_ms": 265815,
+      "name": "Station to Station",
+      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 420080,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
       "added_at": "2022-02-09 04:04:07",
@@ -1337,42 +1337,6 @@
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
-      "added_at": "2023-05-12 04:28:08",
-      "album": {
-        "name": "The Lava Is Calm",
-        "url": "https://open.spotify.com/album/5aHkYVIe5sD87SjN4lmFvg"
-      },
-      "artists": [
-        {
-          "name": "Kassa Overall",
-          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
-        },
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        }
-      ],
-      "duration_ms": 186678,
-      "name": "The Lava Is Calm",
-      "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
-    },
-    {
-      "added_at": "2023-06-02 00:41:12",
-      "album": {
-        "name": "Music For Film: Women Against The Bomb",
-        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
-      },
-      "artists": [
-        {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
-    },
-    {
       "added_at": "2022-11-08 17:40:24",
       "album": {
         "name": "Follow the Cyborg",
@@ -1389,20 +1353,20 @@
       "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
-      "added_at": "2022-08-13 01:40:58",
+      "added_at": "2023-06-02 00:41:12",
       "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+        "name": "Music For Film: Women Against The Bomb",
+        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
       },
       "artists": [
         {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
         }
       ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+      "duration_ms": 212626,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1425,6 +1389,26 @@
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
+      "added_at": "2023-05-12 04:28:08",
+      "album": {
+        "name": "The Lava Is Calm",
+        "url": "https://open.spotify.com/album/5aHkYVIe5sD87SjN4lmFvg"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "duration_ms": 186678,
+      "name": "The Lava Is Calm",
+      "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
+    },
+    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -1443,6 +1427,22 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2022-08-13 01:40:58",
+      "album": {
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2022-04-20 13:58:09",
@@ -1517,30 +1517,6 @@
       "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
     },
     {
-      "added_at": "2023-03-31 19:35:25",
-      "album": {
-        "name": "Make My Way Back Home",
-        "url": "https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42"
-      },
-      "artists": [
-        {
-          "name": "Kassa Overall",
-          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
-        },
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 236054,
-      "name": "Make My Way Back Home",
-      "url": "https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU"
-    },
-    {
       "added_at": "2023-03-24 15:38:14",
       "album": {
         "name": "A Time To Blossom",
@@ -1583,6 +1559,30 @@
       "duration_ms": 380973,
       "name": "A Liberdade \u00e9 Cara",
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
+    },
+    {
+      "added_at": "2023-03-31 19:35:25",
+      "album": {
+        "name": "Make My Way Back Home",
+        "url": "https://open.spotify.com/album/12cV7xYYdoT5h8DqUjJR42"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 236054,
+      "name": "Make My Way Back Home",
+      "url": "https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU"
     },
     {
       "added_at": "2022-03-11 04:34:08",
@@ -1721,22 +1721,6 @@
       "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
-      "added_at": "2023-04-14 23:50:17",
-      "album": {
-        "name": "Mind Maze",
-        "url": "https://open.spotify.com/album/5zuMSx2P6VTkSXUuMR4X1P"
-      },
-      "artists": [
-        {
-          "name": "Trees Speak",
-          "url": "https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Sospetto",
-      "url": "https://open.spotify.com/track/6gTRoJiuxI5IoOgdmkEhBK"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Apple Drop",
@@ -1751,6 +1735,22 @@
       "duration_ms": 274626,
       "name": "Sekwar",
       "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+    },
+    {
+      "added_at": "2023-04-14 23:50:17",
+      "album": {
+        "name": "Mind Maze",
+        "url": "https://open.spotify.com/album/5zuMSx2P6VTkSXUuMR4X1P"
+      },
+      "artists": [
+        {
+          "name": "Trees Speak",
+          "url": "https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "Sospetto",
+      "url": "https://open.spotify.com/track/6gTRoJiuxI5IoOgdmkEhBK"
     }
   ],
   "unique_name": "Oblique",

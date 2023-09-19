@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 41 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,073 likes - 41 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,19 +35,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 25 | [Nasty Bitch](https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:24 |
 | 26 | [New Day](https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:34 |
 | 27 | [OOP](https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [OOP](https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ) | 2:10 |
-| 28 | [Do A Bitch \- Club Mix](https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Do A Bitch \(Club Mix\)](https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3) | 2:36 |
+| 28 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 |
 | 29 | [Bad Bad Bad](https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:33 |
-| 30 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 |
+| 30 | [Do A Bitch \- Club Mix](https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Do A Bitch \(Club Mix\)](https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3) | 2:36 |
 | 31 | [Y'all Want Me \(Remix\)](https://open.spotify.com/track/5Twf9Om6Y90LR24Ickm0SP) | [John'nay Lasha](https://open.spotify.com/artist/0vcMP4qw5S5V7D3YUgOuFG), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Y'all Want Me \(Remix\)](https://open.spotify.com/album/6cFfBIJZ4E71VVBOUkIUAr) | 3:15 |
 | 32 | [12](https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM) | [Foe](https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [12](https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1) | 3:11 |
 | 33 | [Spend Dat](https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:18 |
 | 34 | [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 |
-| 35 | [Pakkman](https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT) | [SbMigo](https://open.spotify.com/artist/5zUCkBQ1toNwvXlPSQpL2A), [Durt J](https://open.spotify.com/artist/3y4KE35PrBDq2isu5GHCxO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [That Rabbit All Star Compilation, Vol\. 1](https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ) | 3:56 |
-| 36 | [Andělé A Démoni](https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4) | [DeFuckTo](https://open.spotify.com/artist/5ePLZV8qgXvEewuJCWkwTU), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Andělé A Démoni](https://open.spotify.com/album/3GHb3nGINrgVc4Ixq37Sj1) | 3:39 |
+| 35 | [Andělé A Démoni](https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4) | [DeFuckTo](https://open.spotify.com/artist/5ePLZV8qgXvEewuJCWkwTU), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Andělé A Démoni](https://open.spotify.com/album/3GHb3nGINrgVc4Ixq37Sj1) | 3:39 |
+| 36 | [Pakkman](https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT) | [SbMigo](https://open.spotify.com/artist/5zUCkBQ1toNwvXlPSQpL2A), [Durt J](https://open.spotify.com/artist/3y4KE35PrBDq2isu5GHCxO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [That Rabbit All Star Compilation, Vol\. 1](https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ) | 3:56 |
 | 37 | [Dan Živih Mrtvaca](https://open.spotify.com/track/3y7dFcGXcbvArKIrLdNsnO) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Djubre](https://open.spotify.com/artist/1gjTCYso5nszQJ7xk6HaJk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Svetište Svinja](https://open.spotify.com/album/5pxHJboXT8rSibEGH05R0m) | 4:35 |
 | 38 | [05\. Let 175](https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Jedna Ljubav A Kurva](https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t) | 3:26 |
 | 39 | [Poézia Ulice](https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb) | [Bacil](https://open.spotify.com/artist/4uviJhX649yLp6C4fPL4Ry), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [StreetTape](https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ) | 5:01 |
 | 40 | [Jeminn eini](https://open.spotify.com/track/4fXq4gLPLhMdtBoqRnD0wx) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Smekkleysa í hálfa öld](https://open.spotify.com/album/5DnUUQ8gdNflTyqwDCG0ts) | 4:26 |
 | 41 | [Where They At \(Intro\)](https://open.spotify.com/track/33TJ1Jh9qLrtijcbqno9CY) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate: Area Codes Edition](https://open.spotify.com/album/7yRZn5jOhhXNNZznGC2shD) | 0:25 |
 
-Snapshot ID: `MjgyNDYzNTAsMDAwMDAwMDBjNGRlYjliY2Q2NWU0MDlmZWVkM2Y5MDgwMDkxNmRhMw==`
+Snapshot ID: `MjgyNTA2NTEsMDAwMDAwMDAxYTQ0MGQwNTM0NDk1MWMyZGYwYzc1ZTVhMWMwNWZlYQ==`

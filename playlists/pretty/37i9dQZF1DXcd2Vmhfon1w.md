@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Natos y Waor, Delaossa, Ill Pekeño
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,363 likes - 45 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,517 likes - 45 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Montecarlo](https://open.spotify.com/track/01BwIKOWuerxufZ0sEmJnS) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8) | [Montecarlo](https://open.spotify.com/album/5FAtt63QNBbWHYjxlRGR39) | 3:17 |
-| 2 | [Brigantes](https://open.spotify.com/track/1wqQks7huD10fXqgXd3qGR) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Brigantes](https://open.spotify.com/album/6sVXofzsxugo2kWlJ45Kmh) | 3:24 |
-| 3 | [Madame Bovary](https://open.spotify.com/track/6Pu1EJORDSkTgVhZXx9V8U) | [Ayax](https://open.spotify.com/artist/1lVofHO8O8nEygHTwJ2tnU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Madame Bovary](https://open.spotify.com/album/0SxFte5a7xpVWJtKFfW3cs) | 2:25 |
-| 4 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 |
-| 5 | [Te Diría](https://open.spotify.com/track/2nPt4HyshAzcCkH1GUjE7R) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Te Diría](https://open.spotify.com/album/3sO3011CRF4Hpn4wnRZHb1) | 3:05 |
-| 6 | [Lo Real](https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Lo Real](https://open.spotify.com/album/2dWRx8YRn7RFQ4UNdjbeGq) | 3:26 |
+| 1 | [Brigantes](https://open.spotify.com/track/1wqQks7huD10fXqgXd3qGR) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Brigantes](https://open.spotify.com/album/6sVXofzsxugo2kWlJ45Kmh) | 3:24 |
+| 2 | [Madame Bovary](https://open.spotify.com/track/6Pu1EJORDSkTgVhZXx9V8U) | [Ayax](https://open.spotify.com/artist/1lVofHO8O8nEygHTwJ2tnU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Madame Bovary](https://open.spotify.com/album/0SxFte5a7xpVWJtKFfW3cs) | 2:25 |
+| 3 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 |
+| 4 | [Te Diría](https://open.spotify.com/track/2nPt4HyshAzcCkH1GUjE7R) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Te Diría](https://open.spotify.com/album/3sO3011CRF4Hpn4wnRZHb1) | 3:05 |
+| 5 | [Lo Real](https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Lo Real](https://open.spotify.com/album/2dWRx8YRn7RFQ4UNdjbeGq) | 3:26 |
+| 6 | [Montecarlo](https://open.spotify.com/track/01BwIKOWuerxufZ0sEmJnS) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8) | [Montecarlo](https://open.spotify.com/album/5FAtt63QNBbWHYjxlRGR39) | 3:17 |
 | 7 | [Hasta Cuando](https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Hasta Cuando](https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt) | 3:19 |
 | 8 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
 | 9 | [Israel B \- Selecta Motorseries \#05](https://open.spotify.com/track/5PYLohuj2eelCiSAch4wrZ) | [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B) | [Israel B \- Selecta Motorseries \#05](https://open.spotify.com/album/6EEQbg6WMNSkVEBKryIiCn) | 2:46 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 44 | [Nana](https://open.spotify.com/track/2kZ1CuF4YhcxZfoHyCq6JM) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Nana](https://open.spotify.com/album/78CkLda43EMXmQ20Brjb9D) | 4:56 |
 | 45 | [Platos rotos](https://open.spotify.com/track/6XX87ga7zsm14jRTzspgnM) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Luna llena](https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu) | 3:42 |
 
-Snapshot ID: `MCw3NzM5ZGFkODRkMzUyYzU1MzBhZTM1NjQ4ZmY1MmJiNjBkZDhiN2Y3`
+Snapshot ID: `MCw5NzdhMmQzODU1NDcyNzEyOTA5YTNmYjA3MTJhN2I4ZjY0Y2ZhZWM1`

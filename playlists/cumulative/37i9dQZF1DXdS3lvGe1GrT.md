@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bo Staloch \| Visual Artist: Bailey Elder
 
-831 songs - 2 day 1 hr 48 min
+833 songs - 2 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,8 @@
 | [Keeping Score](https://open.spotify.com/track/4cKKXsPQDXpDbO27lJZQYl) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Keeping Score](https://open.spotify.com/album/4UriRN5PykzEXhfLOJbaQC) | 3:02 | 2022-10-12 | 2023-01-12 |
 | [Keeps Me Up At Night](https://open.spotify.com/track/3RR9bl1XYsfYbIi0LLQMSw) | [The Wilson Springs Hotel](https://open.spotify.com/artist/51bGaMwuDcqkHbwPiaOnWW) | [Keeps Me Up At Night](https://open.spotify.com/album/3LQj8A7VicJQKQC8xOUL15) | 3:20 | 2023-03-29 | 2023-05-04 |
 | [Kentucky Blue](https://open.spotify.com/track/61dWdbJ1UbcyudwtQNXqAJ) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Kentucky Blue](https://open.spotify.com/album/3d6Wx2URP5JHRlIdLRSsnc) | 2:59 | 2022-11-09 | 2022-12-01 |
-| [Killer Line](https://open.spotify.com/track/3pxQXw1cHlXEbMulMyEOFf) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Killer Line](https://open.spotify.com/album/2wWOcYEk8biEvndff06WXk) | 3:50 | 2023-08-02 |  |
+| [Killer Line](https://open.spotify.com/track/3pxQXw1cHlXEbMulMyEOFf) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Killer Line](https://open.spotify.com/album/2wWOcYEk8biEvndff06WXk) | 3:50 | 2023-08-02 | 2023-09-19 |
+| [Killer Line](https://open.spotify.com/track/72f3mEIopS9EnZVn3GwlPC) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Dreamer Awake](https://open.spotify.com/album/12jj5kr4VuIImcN2lqXbah) | 3:50 | 2023-09-13 |  |
 | [Killing of a Sacred Dear \- Demo](https://open.spotify.com/track/66p4Ccug3Mn3r4FAv9ojCy) | [Tessa DeNicola](https://open.spotify.com/artist/5yyUO4YtfoPkaTB794DXGh) | [Killing of a Sacred Dear \(Demo\)](https://open.spotify.com/album/2pxaO1KYxGiqyw3aSALPMC) | 2:10 | 2023-02-22 | 2023-04-06 |
 | [knees \(demo\)](https://open.spotify.com/track/4qGKYUIKNigV4NV84vfmVs) | [carego](https://open.spotify.com/artist/3kAQ9u4vBl2uVXWtUW41FR) | [knees \(demo\)](https://open.spotify.com/album/6bmQ5atYMKtF7I9lUdaeE6) | 2:56 | 2023-01-11 | 2023-03-02 |
 | [Lackin' Magic](https://open.spotify.com/track/6Jlg2aE1q0kyIKmVulcVFm) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Horny Desert Folk](https://open.spotify.com/album/3fhXqKcoZN4KO3NggRP2mO) | 3:34 | 2023-02-22 | 2023-03-30 |
@@ -754,7 +755,8 @@
 | [The Swimming Song](https://open.spotify.com/track/5XwZMn0v6j1NQPDv1Y0GGP) | [Melanie MacLaren](https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF) | [The Swimming Song](https://open.spotify.com/album/59wQG1WiA0PQIMVSB387VO) | 2:30 | 2023-08-02 |  |
 | [The Trout Drive](https://open.spotify.com/track/53NqCFOhe8bmrgT1Bpfn29) | [Brittle Brian](https://open.spotify.com/artist/4CfYfkJD8Q8ct0nAi0S83z) | [Biodiesel](https://open.spotify.com/album/2pcbZi4lBGfNGhkCbiqnY3) | 2:41 | 2022-09-21 | 2022-12-01 |
 | [The Waterford Song](https://open.spotify.com/track/08jiWnGXjMlBl2q4tgT53L) | [Brigid Mae Power](https://open.spotify.com/artist/4uBunSqfCPl9OrLhRifPwK) | [The Waterford Song](https://open.spotify.com/album/6k8gi3yyVShj1CHR4TasvN) | 4:28 | 2023-05-24 | 2023-07-20 |
-| [The Well](https://open.spotify.com/track/0wDL2SlmwZtb1WmvHd53xw) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [The Well](https://open.spotify.com/album/42lCwdDbMMIXotsoHQnhh3) | 3:37 | 2023-07-12 |  |
+| [The Well](https://open.spotify.com/track/0wDL2SlmwZtb1WmvHd53xw) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [The Well](https://open.spotify.com/album/42lCwdDbMMIXotsoHQnhh3) | 3:37 | 2023-07-12 | 2023-09-19 |
+| [The Well](https://open.spotify.com/track/720DXnPFSZgboGcNcovsPP) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [West Of It All](https://open.spotify.com/album/411HEAs67Ulmlen1UlEO9t) | 3:37 | 2023-09-13 |  |
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2022-11-30 | 2023-01-12 |
 | [Thinning](https://open.spotify.com/track/0MK01BpqubyiPGV3UkSs8C) | [Hope Morgan](https://open.spotify.com/artist/6PP1a619tR9xW3lHqSMmm5) | [Thinning](https://open.spotify.com/album/7vyxvPCtgybVza5IeADEe9) | 4:46 | 2023-02-01 | 2023-03-16 |
 | [This Body](https://open.spotify.com/track/17yg7Vpo0nHgSGLmiCsKzp) | [Lizzy Cameron](https://open.spotify.com/artist/03UuLdT1MX5TWhsbqegYYr) | [Small Victories](https://open.spotify.com/album/4IcU33SfvQ11W11NfL3OtE) | 2:21 | 2023-08-16 |  |

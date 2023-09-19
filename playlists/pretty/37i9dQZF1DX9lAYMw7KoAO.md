@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=lfRsfewZTretJz2DGfw\-dg">Spirit Of Praise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,074 likes - 50 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,175 likes - 50 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Worship Afro](https://open.spotify.com/track/06Wy8q5reyDMr0nfd0rxIR) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:48 |
 | 50 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 
-Snapshot ID: `MCw1Yjc5ODI1Mjg3MDRkMjFhMzBiMTE3NzQzMmIxYjExYWQ1OGU3MGUy`
+Snapshot ID: `MCxhZTVhOWJkNGMwYjY2ZmMxYjZlYzllMzMxNjU1NGI0MjdkM2MyMDlk`

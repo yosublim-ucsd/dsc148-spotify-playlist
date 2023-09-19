@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-61 songs - 4 hr 10 min
+62 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ennoda Necha Etho Etho Senjaa](https://open.spotify.com/track/335kH32uMbTttLIreClVZa) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh) | [Ennoda Necha Etho Etho Senjaa](https://open.spotify.com/album/0VzNrEgJZ8se0nLdkP49iN) | 4:24 | 2023-01-11 |  |
 | [Ennoda necha Etho Etho Senjaa](https://open.spotify.com/track/7K2agO7ZGgDxhCA3YlNn9i) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gana Sakthi](https://open.spotify.com/album/5teo3lRo6w00yHsmU18Mh6) | 4:24 | 2023-01-11 | 2023-05-25 |
 | [Friendship Song](https://open.spotify.com/track/6R3IMqONC1BuPIfG1J4HbO) | [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Asalt Raju](https://open.spotify.com/artist/3h9hYhWY2cYTSRztEMemEG) | [Friendship Song](https://open.spotify.com/album/3LZvL35Zk9QT6UAK42Ekpz) | 4:43 | 2023-01-13 |  |
+| [Gokka](https://open.spotify.com/track/5KHx84WI0JADsWtqrMnnjM) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Gokka](https://open.spotify.com/album/4zCMrP2sqExAiWOOYl3Pvj) | 1:50 | 2023-09-18 |  |
 | [Gumbala Suthuvom](https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gumbala Suthuvom](https://open.spotify.com/album/1lDXZ8L0DR5dfRWH2k63u3) | 4:06 | 2022-11-05 |  |
 | [Idhan Gaana](https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs) | [Kaimalu Gokul](https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs), [Joy Sanjay](https://open.spotify.com/artist/3fFpEhwwEtLCMoUUJLKcYB) | [Idhan Gaana](https://open.spotify.com/album/747Azf5u7bpSWTWUSZ0FiQ) | 2:53 | 2023-07-12 |  |
 | [Ithakka Thambakka Tha](https://open.spotify.com/track/0HBWoMOjQEJiIylD1CfnWD) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Ithakka Thambakka Tha](https://open.spotify.com/album/6WQDEX8jJHGlBcKJoPJDML) | 3:30 | 2022-11-05 |  |

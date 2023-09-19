@@ -4,7 +4,7 @@
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-111 songs - 10 hr 47 min
+112 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [If You Could Read My Mind](https://open.spotify.com/track/009bHl93A8kHlbDJLjkqHV) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [Disco Town](https://open.spotify.com/album/5V85BzpisFxZyK5bhlUZei) | 3:24 | 2022-05-17 | 2022-07-28 |
 | [If You Could Read My Mind](https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z) | 5:35 | 2022-05-17 | 2022-09-13 |
 | [If You Could Read My Mind \- Studio 54](https://open.spotify.com/track/6MVRSthLVJ9KHffbIngIUf) | [The Oscar Hollywood Films](https://open.spotify.com/artist/3eJjmSyANG0ZoJzVvKQO60) | [Estrenos De Cine Vol.2](https://open.spotify.com/album/3INlqEP71qu66PAZjA6U3O) | 3:29 | 2022-07-15 | 2022-09-13 |
-| [If You Could Read My Mind \- The Disconet Re\-Edit](https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L) | 12:03 | 2022-09-12 |  |
+| [If You Could Read My Mind \- The Disconet Re\-Edit](https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L) | 12:03 | 2022-09-12 | 2023-09-19 |
 | [In The Navy \- Single Version](https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West](https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb) | 5:40 | 2022-05-17 |  |
 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 | 2022-05-17 |  |
 | [It's a Better Than Good Time](https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 5:46 | 2022-05-17 | 2022-07-29 |
@@ -88,6 +88,7 @@
 | [Nights on Broadway](https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Music Speaks Louder Than Words](https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et) | 3:29 | 2022-05-17 |  |
 | [No One Gets The Prize](https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:40 | 2022-07-15 |  |
 | [No One Gets The Prize](https://open.spotify.com/track/6JOQFjWzYQCB0dTWp0Ina3) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/19x20Cwz3LInQooz8JQ4Zw) | 4:40 | 2022-05-17 | 2022-07-29 |
+| [Only You](https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:21 | 2023-09-18 |  |
 | [Possessed \(Extended Verison\)](https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun) | [Doris Jones](https://open.spotify.com/artist/1YzlD6Cogo9fLRtzyMIdRc) | [The Best of Doris Jones "No Way Out"](https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh) | 6:59 | 2022-06-09 | 2022-06-12 |
 | [Put Your Body In It](https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Gold](https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5) | 4:04 | 2022-05-17 |  |
 | [Relight My Fire \- 12" Disco Remix](https://open.spotify.com/track/4cTSigQmLfTKYmJUd6rlrv) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Relight My Fire \(Expanded Edition\)](https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4) | 6:46 | 2022-05-17 |  |

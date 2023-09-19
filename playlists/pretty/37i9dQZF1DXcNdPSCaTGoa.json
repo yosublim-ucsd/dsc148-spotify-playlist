@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 41974,
+  "num_followers": 42041,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2E0MTllZTJmMDEwYTM0MmQ0Y2FiYTQ0YjE4NDZmNGFhMDA5Mzk1",
+  "snapshot_id": "MCxjMDQ5N2JjMDY0NjBjYjNhY2ZmOGU3MDFjNzQwZjQ0NmM5MWJjZjFk",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -155,26 +155,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Homeless (with Ladysmith Black Mambazo)",
-      "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Uit Die Diepte Van My Hart",
         "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 271186,
       "name": "Ngud' (feat. Cassper Nyovest)",
       "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Homeless (with Ladysmith Black Mambazo)",
+      "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "M'du Or Die",
-        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
       "artists": [
         {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 336666,
-      "name": "Siya Jola (Ok'Salayo)",
-      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+      "duration_ms": 311880,
+      "name": "Doo Be Doo",
+      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+        "name": "M'du Or Die",
+        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
       },
       "artists": [
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
         }
       ],
-      "duration_ms": 311880,
-      "name": "Doo Be Doo",
-      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
+      "duration_ms": 336666,
+      "name": "Siya Jola (Ok'Salayo)",
+      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 387500,
       "name": "Heavenly Sent",
       "url": "https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
       "artists": [
         {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+      "duration_ms": 283826,
+      "name": "Nomvula (After the Rain)",
+      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
       "artists": [
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
         }
       ],
-      "duration_ms": 283826,
-      "name": "Nomvula (After the Rain)",
-      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -695,22 +695,6 @@
       "duration_ms": 349480,
       "name": "Township Funk",
       "url": "https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -743,6 +727,22 @@
       "duration_ms": 389959,
       "name": "Umlilo",
       "url": "https://open.spotify.com/track/5kA6K9yPB5pxbAufXKU5VV"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Jack Parow",
-        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 248933,
-      "name": "Cooler as Ekke",
-      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Respect Toasted Gona' Ganati",
         "url": "https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O"
+        "name": "Jack Parow",
+        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
       },
       "artists": [
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
         }
       ],
-      "duration_ms": 404360,
-      "name": "Nizalwa Ngobani?",
-      "url": "https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC"
+      "duration_ms": 248933,
+      "name": "Cooler as Ekke",
+      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -915,6 +899,22 @@
       "duration_ms": 315266,
       "name": "Palafala (feat. S'bu)",
       "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 404360,
+      "name": "Nizalwa Ngobani?",
+      "url": "https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Ndawo Yami",
-        "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
-      },
-      "artists": [
-        {
-          "name": "Zamajobe",
-          "url": "https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv"
-        }
-      ],
-      "duration_ms": 287560,
-      "name": "Ndawo Yami",
-      "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Sibongile",
         "url": "https://open.spotify.com/album/6MM9LwtQg2yYEI1jqjJuCc"
       },
@@ -1027,6 +1011,26 @@
       "duration_ms": 351053,
       "name": "Ndihamba Nawe",
       "url": "https://open.spotify.com/track/4fYvhqvAjOifw4ih3IU2z7"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "It's Our Game (no need to claim)",
+        "url": "https://open.spotify.com/album/1dwxhGMk4MkAlFJ4yxEGHt"
+      },
+      "artists": [
+        {
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd"
+        },
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 286600,
+      "name": "Thobela",
+      "url": "https://open.spotify.com/track/1drh3aU7uJON1xjnGWonCa"
     }
   ],
   "unique_name": "SA Gold",

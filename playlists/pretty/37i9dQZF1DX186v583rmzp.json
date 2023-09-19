@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8086713,
+  "num_followers": 8088515,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWQ0MTJiNDE4MDYxMGJkOGY1ZTA0MTJhMzhlMDE4YjgxZDAyMDg0",
+  "snapshot_id": "MCw0NmY4ZmRkNjBiYTgxYjJjYTBlNTlkNzY2YTczMzhiMzIxZjllNGU1",
   "tracks": [
     {
       "added_at": "2023-08-10 13:01:21",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Lethal Injection",
-        "url": "https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "You Know How We Do It",
-      "url": "https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 325506,
+      "name": "Shook Ones, Pt. II",
+      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -211,18 +211,34 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
       },
       "artists": [
         {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 325506,
-      "name": "Shook Ones, Pt. II",
-      "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Lethal Injection",
+        "url": "https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "You Know How We Do It",
+      "url": "https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -243,22 +259,6 @@
       "duration_ms": 307773,
       "name": "All Eyez On Me (ft. Big Syke)",
       "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -289,7 +289,7 @@
         }
       ],
       "duration_ms": 252186,
-      "name": "C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
     },
     {
@@ -307,42 +307,6 @@
       "duration_ms": 268400,
       "name": "My Name Is",
       "url": "https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Gin and Juice",
-      "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Regulate\u2026 G Funk Era",
-        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
-      },
-      "artists": [
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Regulate",
-      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -371,6 +335,38 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Gin and Juice",
+      "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "R U Still Down? [Remember Me]",
+        "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "Do For Love",
+      "url": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -391,18 +387,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "R U Still Down? [Remember Me]",
-        "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
       },
       "artists": [
         {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 281600,
-      "name": "Do For Love",
-      "url": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq"
+      "duration_ms": 248866,
+      "name": "Regulate",
+      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 237573,
       "name": "Nuthin' But A \"G\" Thang",
       "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -609,7 +609,7 @@
         }
       ],
       "duration_ms": 236800,
-      "name": "Still Not a Player (feat. Joe) - Radio Version",
+      "name": "Still Not a Player - Radio Version",
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
     },
     {
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "It Was Written",
-        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Me Against The World",
         "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 248573,
       "name": "Shoop",
       "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Strictly 4 My N.I.G.G.A.Z...",
-        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Keep Ya Head Up",
-      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Hello Nasty (Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 231493,
       "name": "Intergalactic - Remastered 2009",
       "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 226133,
       "name": "Electric Relaxation",
       "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -931,6 +931,22 @@
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Tha Crossroads",
+      "url": "https://open.spotify.com/track/5KSJ9k1FYjFLnIRlJT2wF8"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "E. 1999 Eternal",
-        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Tha Crossroads",
-      "url": "https://open.spotify.com/track/5KSJ9k1FYjFLnIRlJT2wF8"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "19NaughtyIII",
         "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
       },
@@ -1059,42 +1059,6 @@
       "duration_ms": 260066,
       "name": "Fu-Gee-La",
       "url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Nigga Please",
-        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
-      },
-      "artists": [
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        },
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "Got Your Money (feat. Kelis)",
-      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1141,8 +1105,60 @@
         }
       ],
       "duration_ms": 291066,
-      "name": "Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",
+      "name": "Protect Ya Neck",
       "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Nigga Please",
+        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Got Your Money (feat. Kelis)",
+      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "1st of Tha Month",
+      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1179,38 +1195,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Friday (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 305573,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "E. 1999 Eternal",
-        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 314680,
-      "name": "1st of Tha Month",
-      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Poverty's Paradise (25th Anniversary - Remastered)",
         "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 212760,
       "name": "Feel Me Flow",
       "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1325,7 +1325,7 @@
         }
       ],
       "duration_ms": 216133,
-      "name": "Wu-Tang Clan Ain't Nuthing ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",
+      "name": "Wu-Tang Clan Ain't Nuthing ta F' Wit",
       "url": "https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E"
     },
     {
@@ -1345,7 +1345,7 @@
         }
       ],
       "duration_ms": 228173,
-      "name": "Twinz (feat. Fat Joe)",
+      "name": "Twinz",
       "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
     },
     {
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Hell On Earth",
         "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 333906,
+      "name": "Lost Ones",
+      "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 333906,
-      "name": "Lost Ones",
-      "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Naughty By Nature",
         "url": "https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO"
       },
@@ -1523,26 +1523,6 @@
       "duration_ms": 271066,
       "name": "O.P.P",
       "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        },
-        {
-          "name": "Trugoy The Dove",
-          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Award Tour (feat. Trugoy The Dove)",
-      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1567,22 +1547,6 @@
     {
       "added_at": "2023-08-10 13:01:21",
       "album": {
-        "name": "Conspiracy (PA)",
-        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
-      },
-      "artists": [
-        {
-          "name": "Junior M.A.F.I.A.",
-          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
-        }
-      ],
-      "duration_ms": 274937,
-      "name": "Get Money",
-      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
-    },
-    {
-      "added_at": "2023-08-10 13:01:21",
-      "album": {
         "name": "Return of the Boom Bap",
         "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
       },
@@ -1595,6 +1559,22 @@
       "duration_ms": 258506,
       "name": "Sound of da Police",
       "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Conspiracy (PA)",
+        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
+      },
+      "artists": [
+        {
+          "name": "Junior M.A.F.I.A.",
+          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+        }
+      ],
+      "duration_ms": 274937,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
     },
     {
       "added_at": "2023-08-10 13:01:21",
@@ -1651,6 +1631,26 @@
       "duration_ms": 338186,
       "name": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",
       "url": "https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw"
+    },
+    {
+      "added_at": "2023-08-10 13:01:21",
+      "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        {
+          "name": "Trugoy The Dove",
+          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Award Tour (feat. Trugoy The Dove)",
+      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
     },
     {
       "added_at": "2023-08-10 13:01:21",

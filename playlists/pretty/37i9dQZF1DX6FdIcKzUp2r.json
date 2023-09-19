@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 211325,
+  "num_followers": 211478,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjk3MjQ4YjFlMzNmMjhmM2I0YmJhOTcxYTQ2NDQ5MjBhMjVkNjEw",
+  "snapshot_id": "MCxiYTk2ZWFjOTFkYmY0MzVmYzdjODQzOTMwMWM1Njk1MzVmMTZlOTQ3",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -335,22 +335,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "An Ending (Ascent) - Remastered 2005",
-      "url": "https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Final",
         "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 302600,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "An Ending (Ascent) - Remastered 2005",
+      "url": "https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -703,6 +703,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 350293,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Thirty Thousand Feet Over China",
         "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 288200,
       "name": "I Hear You Now",
       "url": "https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 350293,
-      "name": "Haunt Me",
-      "url": "https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Vini Reilly",
-        "url": "https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx"
-      },
-      "artists": [
-        {
-          "name": "The Durutti Column",
-          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Requiem Again",
-      "url": "https://open.spotify.com/track/673do07xdvVTt65SIwRtc3"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Yellow Moon",
         "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 400266,
       "name": "With God On Our Side",
       "url": "https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Vini Reilly",
+        "url": "https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Requiem Again",
+      "url": "https://open.spotify.com/track/673do07xdvVTt65SIwRtc3"
     }
   ],
   "unique_name": "Chilled 80s",

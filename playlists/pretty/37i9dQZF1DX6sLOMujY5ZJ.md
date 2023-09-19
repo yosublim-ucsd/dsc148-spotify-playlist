@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=fe7dc91ae92c41b3">Teezo Touchdown's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326 likes - 30 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,349 likes - 30 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 | 18 | [Jefferson Ball](https://open.spotify.com/track/1pKlmjUxTRx3jmFRrKfdsm) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Bustin' Out of L Seven](https://open.spotify.com/album/2bUVRbkcjF8SrtcwDrdTVP) | 7:20 |
 | 19 | [Goons Lurkin](https://open.spotify.com/track/6qIUZtyn0AIfbjZ72b25bt) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:51 |
 | 20 | [I'm Da Man](https://open.spotify.com/track/1jaNJ1dXZlZLQUaVIb4ePB) | [D4L](https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz) | [Down for Life](https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp) | 4:07 |
-| 21 | [The Future \(feat\. R.O.C.\)](https://open.spotify.com/track/6MQCyRONfcv2Whk4x1wuWn) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [R.O.C.](https://open.spotify.com/artist/28fGi6p113wMAhJ18cHaCg) | [Beware Of Dog](https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO) | 2:36 |
+| 21 | [The Future](https://open.spotify.com/track/6MQCyRONfcv2Whk4x1wuWn) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [R.O.C.](https://open.spotify.com/artist/28fGi6p113wMAhJ18cHaCg) | [Beware Of Dog](https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO) | 2:36 |
 | 22 | [Diamondz All\-N\-Yo Face](https://open.spotify.com/track/5YjrweI0AOh4DxCM68fBjJ) | [C\-Note](https://open.spotify.com/artist/7aJgZeWVFzRf96TinYwgsu), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS), [Deep Threat](https://open.spotify.com/artist/0oGtCdAGAFzvtqKSYokCqZ) | [Third Coast Born](https://open.spotify.com/album/6xPbrTfNcApWQXGNLtOyX8) | 5:22 |
 | 23 | [Things Ain't What The Used To Be](https://open.spotify.com/track/4PV9DcxLQDoB05BWdCpAP6) | [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW) | [Ice Cream Man](https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL) | 3:55 |
 | 24 | [Playaz Eyez](https://open.spotify.com/track/0nK1sohuhPXLVLRq6n70EF) | [H.S.E.](https://open.spotify.com/artist/6PaevybW3YLAfxqsRsTIlW), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS), [Lil' Head](https://open.spotify.com/artist/55HjzswZoiozT9MacyaXHb), [C\-Note](https://open.spotify.com/artist/7aJgZeWVFzRf96TinYwgsu) | [Hustlaz Stackin Endz \(H.S.E.\)](https://open.spotify.com/album/3MzUw6hgSxAwfWjWr4psai) | 3:35 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 | 29 | [I Knew I'll Make It](https://open.spotify.com/track/70kGwtQF9g3JI8HcYRAey5) | [Bankroll Fresh](https://open.spotify.com/artist/7FBDXY8U17aasVTH3rgxbS) | [Life of a Hot Boy](https://open.spotify.com/album/4qrG8JSxpDIrJbCYIdaDPm) | 2:15 |
 | 30 | [Jasmine Tea!](https://open.spotify.com/track/2WlOzS0iQ0RndtuXUGJJlY) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD) | [BEAR1BOSS](https://open.spotify.com/album/3mxZb5vAZYgtT82nmVTVDu) | 2:30 |
 
-Snapshot ID: `MCxkZDU3ZTg5YzI5NTc4YzM2YmIwZTJjNWZlZGQ3YzI3MDk5MThiNDky`
+Snapshot ID: `MCxiYzQ3MzljMzBjNGI3MjIxM2Y4YjNkYmQzYTU2Y2YwNzQ0YTY5YWZl`

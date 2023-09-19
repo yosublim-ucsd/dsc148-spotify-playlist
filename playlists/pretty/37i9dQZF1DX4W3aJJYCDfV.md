@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Corinne Bailey Rae \(pictured\), Chase & Status, Tate McRae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,804 likes - 129 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,854 likes - 129 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 2 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
 | 3 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 |
 | 4 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
-| 5 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 |
+| 5 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 |
 | 6 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
 | 7 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
 | 8 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 128 | [Dubby](https://open.spotify.com/track/6rPbTqoepgoHoDZrBItweP) | [Play Nice](https://open.spotify.com/artist/1ghxd86r7phiK0vgytiGkh) | [Dubby](https://open.spotify.com/album/5Tgqa6Sze1uf3X4SV8hUqg) | 1:28 |
 | 129 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 |
 
-Snapshot ID: `MCxhNTY2ZGJlY2YzMTVkMDA5M2JjNjJjZDc3OTIwMTZjYWQ5ZDQ3NzJi`
+Snapshot ID: `MCxlMGJlZTE5ODRlMWUzMDA2M2M3NjJmODNiOTU2ODhkZTBkZTUwNWRk`

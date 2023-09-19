@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 67678,
+  "num_followers": 67778,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzQyMDFhMDdjYjQ1OTZhOTQyODE4OTVkNTJkZjFmZWViN2Y2Njhk",
+  "snapshot_id": "MCw4MjZiNTQ4ZTcwMGQ1MmY1ZThmMmI2ZGEwMjU5NWUzZjZkZGM0MTUz",
   "tracks": [
     {
       "added_at": "2023-02-24 17:37:22",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 235470,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 235470,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Me cuesta tanto olvidarte",
-      "url": "https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "Piel Canela",
         "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 102371,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Me cuesta tanto olvidarte",
+      "url": "https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Descanso Dominical (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 311160,
-      "name": "La Fuerza del Destino",
-      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Descanso Dominical (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 311160,
+      "name": "La Fuerza del Destino",
+      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Efecto Domin\u00f3",
-        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 217911,
-      "name": "Querer",
-      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "MAM\u00c1",
         "url": "https://open.spotify.com/album/5rjblafbv954vxZYqnNvhR"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 175895,
       "name": "MAM\u00c1",
       "url": "https://open.spotify.com/track/34yQeTktePdLm0b95RffPw"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Efecto Domin\u00f3",
+        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Querer",
+      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 312293,
-      "name": "Unfinished Sympathy - Remastered 2006",
-      "url": "https://open.spotify.com/track/10CiC7n8xCJJpbNcBpHsXc"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "Plato \u00danico Bailable",
         "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Soul Mining",
-        "url": "https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A"
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh"
       },
       "artists": [
         {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         }
       ],
-      "duration_ms": 411973,
-      "name": "Uncertain Smile",
-      "url": "https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh"
+      "duration_ms": 312293,
+      "name": "Unfinished Sympathy - Remastered 2006",
+      "url": "https://open.spotify.com/track/10CiC7n8xCJJpbNcBpHsXc"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1515,6 +1499,22 @@
       "duration_ms": 220960,
       "name": "Mambo Sun - 2003 Remaster",
       "url": "https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Soul Mining",
+        "url": "https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 411973,
+      "name": "Uncertain Smile",
+      "url": "https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh"
     },
     {
       "added_at": "2023-02-24 17:37:22",

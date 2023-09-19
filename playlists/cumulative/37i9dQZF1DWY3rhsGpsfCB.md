@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-384 songs - 20 hr 17 min
+385 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 | 2023-07-28 |  |
 | [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 |  |
 | [Sail](https://open.spotify.com/track/26mrUHchbcgiCahub27gZY) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Sail](https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm) | 2:28 | 2023-06-02 | 2023-07-29 |
+| [Say Salud](https://open.spotify.com/track/3LaMO5jj65HG15NqlJsI3I) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Say Salud](https://open.spotify.com/album/6Yk2SJXrtKsP64Sdn1y3Z6) | 2:36 | 2023-09-14 |  |
 | [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 | 2023-04-18 |
 | [Scarred](https://open.spotify.com/track/5PSYn0XVImstXPFFDtajEK) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:58 | 2022-06-24 | 2023-02-11 |
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2022-06-24 | 2023-02-17 |
@@ -334,7 +335,7 @@
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-10 | 2023-09-15 |
 | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 | 2023-04-14 |  |
 | [Table for Two](https://open.spotify.com/track/2ztim2Wblnr9vsbATzyMg2) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Table for Two](https://open.spotify.com/album/3aoMBKJZG8CDYecBihJsBp) | 3:27 | 2022-10-28 | 2022-12-09 |
-| [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/track/00pWq1F4xyqPWPeo0hiUu8) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/album/11JX0v0Diz3q0FUpB12Q1b) | 2:53 | 2023-08-03 |  |
+| [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/track/00pWq1F4xyqPWPeo0hiUu8) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/album/11JX0v0Diz3q0FUpB12Q1b) | 2:53 | 2023-08-03 | 2023-09-19 |
 | [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 | 2023-03-12 | 2023-03-18 |
 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 | 2023-03-24 | 2023-09-15 |
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-19 | 2023-06-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Rufus Wainwright ",
-  "num_followers": 474200,
+  "num_followers": 474226,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjdkYTYxODhiMDk5YTk3OGFlM2ZmZTc4YTBhZjAyYTkwODY0MjM3",
+  "snapshot_id": "MCxhODU3ZmU3NzgzNjE5YzFmMzdlZDU4ZWY3MDg0MDM2MDUyZDFiMGJk",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -487,22 +507,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
+        "name": "brightside bonus tracks",
+        "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 199426,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
+      "duration_ms": 204003,
+      "name": "just like heaven",
+      "url": "https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -519,22 +535,6 @@
       "duration_ms": 185421,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "brightside bonus tracks",
-        "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "just like heaven",
-      "url": "https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -567,26 +567,6 @@
       "duration_ms": 260053,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Jeff Tweedy",
-          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
-        }
-      ],
-      "duration_ms": 251057,
-      "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -651,6 +631,26 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "duration_ms": 251057,
+      "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Boots Of Spanish Leather",
-        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 282173,
-      "name": "Boots Of Spanish Leather",
-      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "We Don't Eat EP",
         "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 271800,
       "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
       "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Boots Of Spanish Leather",
+        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 282173,
+      "name": "Boots Of Spanish Leather",
+      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 255675,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 255675,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Pine Hollow (Live)",
-        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
+        "name": "Shine a Light: Field Recordings from the Great American Railroad",
+        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
+        },
+        {
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
         }
       ],
-      "duration_ms": 253000,
-      "name": "Jolene - Live",
-      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
+      "duration_ms": 219672,
+      "name": "Gentle on My Mind",
+      "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Shine a Light: Field Recordings from the Great American Railroad",
-        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
+        "name": "Pine Hollow (Live)",
+        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
       },
       "artists": [
         {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        },
-        {
-          "name": "Joe Henry",
-          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 219672,
-      "name": "Gentle on My Mind",
-      "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
+      "duration_ms": 253000,
+      "name": "Jolene - Live",
+      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "I Remember Everything",
         "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 156146,
       "name": "I Remember Everything",
       "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 278611,
-      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Hey Me, Hey Mama",
         "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 210604,
       "name": "Hey Me, Hey Mama",
       "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 278611,
+      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1375,18 +1375,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
+        "name": "Farewell Transmission b/w The Dark Don\u2019t Hide It",
+        "url": "https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 152885,
-      "name": "I Think We\u2019re Alone Now",
-      "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
+      "duration_ms": 417533,
+      "name": "Farewell Transmission",
+      "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1407,22 +1411,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Farewell Transmission b/w The Dark Don\u2019t Hide It",
-        "url": "https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
         }
       ],
-      "duration_ms": 417533,
-      "name": "Farewell Transmission",
-      "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
+      "duration_ms": 152885,
+      "name": "I Think We\u2019re Alone Now",
+      "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Covers, Ch. 1",
-        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
-      },
-      "artists": [
-        {
-          "name": "The Sweeplings",
-          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Other People's Songs Volume One",
         "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 175334,
       "name": "My Happiness (feat. Fiona Prine)",
       "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Covers, Ch. 1",
+        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
+      },
+      "artists": [
+        {
+          "name": "The Sweeplings",
+          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
+        }
+      ],
+      "duration_ms": 159920,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 257941,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "The Bridge School Concerts 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 223133,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 257941,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Tea, Milk & Honey",
-        "url": "https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX"
+        "name": "Pieces of the Sky (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 304424,
-      "name": "Tea, Milk & Honey",
-      "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
+      "duration_ms": 197306,
+      "name": "Bluebird Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Pieces of the Sky (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
+        "name": "Tea, Milk & Honey",
+        "url": "https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 197306,
-      "name": "Bluebird Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+      "duration_ms": 304424,
+      "name": "Tea, Milk & Honey",
+      "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
     },
     {
       "added_at": "2023-09-08 04:00:00",

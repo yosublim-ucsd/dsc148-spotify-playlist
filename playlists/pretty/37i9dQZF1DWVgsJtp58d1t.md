@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1?si=3kkdCMBlSa6k\-tZpkDACfA">BRELAND</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,767 likes - 120 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,739 likes - 120 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [Need Me](https://open.spotify.com/track/7a636g0dl8a487foiAcoCM) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Need Me](https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm) | 2:18 |
 | 120 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 |
 
-Snapshot ID: `MCwxZjgzOTRkMWMyMTMxYWNmZDljOWUxYTJiYjVlYjU4NzEzZWE3NDkz`
+Snapshot ID: `MCw2MmE3YTQxYzYxOWFjY2FlYzBlYzkwODVjMzk5MTA4ZDMyOWI2ZWU2`

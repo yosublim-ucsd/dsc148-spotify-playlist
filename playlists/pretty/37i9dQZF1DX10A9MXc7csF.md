@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Adrian L Santos & Oscar Maydon
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,982 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,056 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [A Mi Modo](https://open.spotify.com/track/4crRxXlL3JViRXFHLBurQp) | [Gabriel Castro Y Su Delta](https://open.spotify.com/artist/2bOWu0lD8g08ZUeMYWrcVb) | [A Mi Modo](https://open.spotify.com/album/61PVjWCpIPWCCEep36r5wd) | 3:50 |
 | 60 | [Mi Vicio](https://open.spotify.com/track/7xJjhpSC30ssCEPHifmwvm) | [Giovanni Vázquez](https://open.spotify.com/artist/4uwo70JDuIt4LDWDUb1WlT) | [Mi Vicio](https://open.spotify.com/album/6fZ7mQT6IXHFj4ZWc7h8JS) | 3:09 |
 
-Snapshot ID: `MCxlODczZmFmYzQ5ZjE4MzAwYjAxMTJkYTI0NzgyNzU4NzMyYzEzMmM5`
+Snapshot ID: `MCw3OGU3NjgyZDRlNDQ5ODVmODk3MWU5N2QxYTFhMTY2ZmNkZjFiMGEy`

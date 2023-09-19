@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Maren Morris, Dan + Shay, Brothers Osborne and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,401 likes - 83 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,582 likes - 83 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 82 | [Alone](https://open.spotify.com/track/0TfY8A8BpskmNHPZB4laHk) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Alone](https://open.spotify.com/album/13IVyJT2aNoh9FWsaBbcvm) | 3:18 |
 | 83 | [Always Barely Getting By](https://open.spotify.com/track/6L5ok3yX6pTgzRStVXeQRo) | [Clayton Smalley](https://open.spotify.com/artist/2RtlR6GBuvXVzDgAOS0qmK) | [Always Barely Getting By](https://open.spotify.com/album/1MQtxamJ4xjUh5ZwZqHrik) | 3:05 |
 
-Snapshot ID: `MCwyNzI3ZDRlYmU3NDI4ZGRjMDU5NjI1ZmU2NTg3M2M2MmI1NGQ0MjU2`
+Snapshot ID: `MCxmY2Y0ZDA0MDQ4OTMwYjRhNzRkNzgxM2ZkMzUwNDRkZDNjZDQ1YmQy`

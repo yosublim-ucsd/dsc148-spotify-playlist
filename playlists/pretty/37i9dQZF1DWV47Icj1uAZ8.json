@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 26378,
+  "num_followers": 26424,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjNhYTkxNzFmZmI4NzdiNGUwMzE0OWZhZTgxMjZlYzZkNjBmOTUx",
+  "snapshot_id": "MCwzNWNiMzk5NWI3NTUzNTIzMGYxYjZmNjJiODE4ZDEwY2MyMmJjNzBm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -111,6 +111,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Found (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Found (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 295773,
       "name": "Into You (feat. Tamia)",
       "url": "https://open.spotify.com/track/0yHConG49418wPs8UfAt44"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "MERCEDES",
+        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 233069,
+      "name": "MERCEDES",
+      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "MERCEDES",
-        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 233069,
-      "name": "MERCEDES",
-      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Southside",
         "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 386626,
       "name": "Next Lifetime",
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 239635,
-      "name": "7am On Bridle Path",
-      "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -415,6 +399,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 239635,
+      "name": "7am On Bridle Path",
+      "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 346266,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 291448,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -451,22 +467,6 @@
       "duration_ms": 188093,
       "name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
       "url": "https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 291448,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "I'm Goin' Down",
-      "url": "https://open.spotify.com/track/0I5mUa3CZPcsrWwlUmTWkV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 428200,
       "name": "Any Time, Any Place",
       "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "I'm Goin' Down",
+      "url": "https://open.spotify.com/track/0I5mUa3CZPcsrWwlUmTWkV"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 344346,
+      "name": "Really Love",
+      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "1st Born Second",
         "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 318666,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 319958,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 344346,
-      "name": "Really Love",
-      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
+      "duration_ms": 319958,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 400840,
-      "name": "Time's A Wastin",
-      "url": "https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi"
+      "duration_ms": 263923,
+      "name": "Timmy's Prayer",
+      "url": "https://open.spotify.com/track/16bQdxSVtmvL2hc4h3OJE3"
     }
   ],
   "unique_name": "Kofi Siriboe's Taste",

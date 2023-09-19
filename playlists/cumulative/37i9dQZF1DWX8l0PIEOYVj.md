@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: JVNA.
 
-433 songs - 1 day 1 hr 55 min
+434 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Atmosphere](https://open.spotify.com/track/1jz0xzCf8SXUY8hLg8oCdY) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [Atmosphere](https://open.spotify.com/album/1Kb2RNaDVyqmx5PhV9ghBQ) | 3:35 | 2023-07-21 | 2023-09-08 |
 | [Awaken](https://open.spotify.com/track/6cXUM8nvtbs9rsn1IPVtZB) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [Awaken](https://open.spotify.com/album/2umbvECEkmXv27TTDi1z0B) | 6:27 | 2022-07-08 | 2023-06-10 |
 | [Away From Myself](https://open.spotify.com/track/1MTHQrIE43p9HnjtC5kBDP) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Away From Myself](https://open.spotify.com/album/2X04oTtQLfh0rcvHVsbcbB) | 3:12 | 2022-07-08 | 2023-04-09 |
-| [Back Now](https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [Back Now](https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO) | 3:42 | 2023-06-09 |  |
+| [Back Now](https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [Back Now](https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO) | 3:42 | 2023-06-09 | 2023-09-19 |
 | [Back to Me](https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Back to Me](https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp) | 4:28 | 2023-01-13 |  |
 | [Back To The Top](https://open.spotify.com/track/2JGPTeVnAxMiFIk15598Ux) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/2vKBP1HzJYgc0aWk1Xqhbj) | 3:18 | 2023-04-07 |  |
 | [Back To The Top](https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw) | 3:18 | 2022-07-08 | 2023-05-03 |
@@ -432,6 +432,7 @@
 | [Wisdom \- Amidy Remix](https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Wisdom \(Amidy Remix\)](https://open.spotify.com/album/3lHlijAOHgMQTPoVDZapdp) | 3:50 | 2022-07-08 | 2023-08-26 |
 | [With You](https://open.spotify.com/track/3cfhbNNdNeBnCE3J8eB0uH) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/1neAhuudRpt7salaglI1I5) | 3:30 | 2022-07-08 | 2023-04-09 |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-07-08 | 2022-07-29 |
+| [Without You](https://open.spotify.com/track/6lx0nNHGV82zak7aO2JNWz) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Without You](https://open.spotify.com/album/28NpcJHOCvuYdr0c0DDmwF) | 4:22 | 2023-09-15 |  |
 | [Worlds Away](https://open.spotify.com/track/6BYzwbWg1Z2EB6VUXTYnhm) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Worlds Away](https://open.spotify.com/album/1houBJfStVPhEjlJc1Dndr) | 4:10 | 2023-06-16 |  |
 | [Worth It](https://open.spotify.com/track/4OecGYEp7UPOrhrt2IhQ0o) | [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Worth It](https://open.spotify.com/album/3CIwQHbNCwT13eYv2VrwpD) | 4:26 | 2022-07-08 | 2023-04-30 |
 | [Would You Even Know](https://open.spotify.com/track/07FMnItEdDXZ2WAgNR9n6a) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Would You Even Know](https://open.spotify.com/album/4BNrohSLaSA4ifKPJyzUts) | 3:17 | 2023-05-26 |  |

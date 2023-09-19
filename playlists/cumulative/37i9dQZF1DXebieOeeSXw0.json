@@ -2796,10 +2796,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 318440,
       "name": "Icha",
       "url": "https://open.spotify.com/track/03StC3a18DP7jePXd2NLBX"
+    },
+    {
+      "album": {
+        "name": "Symbiose",
+        "url": "https://open.spotify.com/album/3N0YWe1H7IRZ3Dmn0r8rHD"
+      },
+      "artists": [
+        {
+          "name": "Syran Mbenza",
+          "url": "https://open.spotify.com/artist/5mAdywAEm96qSCaIZPcKjx"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320426,
+      "name": "Icha",
+      "url": "https://open.spotify.com/track/695gs0n4N3IPUbMIzNts93"
     },
     {
       "album": {

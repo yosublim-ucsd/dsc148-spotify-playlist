@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-568 songs - 1 day 0 hr 11 min
+572 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Distances](https://open.spotify.com/track/3MJkEsmJfxO7JiOJjlEm8Z) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Distances](https://open.spotify.com/album/4zNCQM0oFO5KezvbLVlOZC) | 3:46 | 2022-06-07 |  |
 | [Dominoes](https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [Dominoes](https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X) | 2:27 | 2022-06-07 |  |
 | [Doubt](https://open.spotify.com/track/3D0LhoqGyjdOV6760uOsJS) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [RISE](https://open.spotify.com/album/0Y8HYJSgZUyKFfHKF6GPmY) | 1:55 | 2022-07-19 | 2023-07-25 |
-| [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2022-06-07 |  |
+| [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2022-06-07 | 2023-09-19 |
 | [Downstairs](https://open.spotify.com/track/5ULSZYu1E1CWT8wAQ6NnfW) | [Clouderr](https://open.spotify.com/artist/5bcEA3BrhWyJRBPqH4Lxzw) | [Downstairs](https://open.spotify.com/album/0Zclpf48lKos6vY0bycvtI) | 3:25 | 2022-06-07 | 2022-09-15 |
 | [Driftwood](https://open.spotify.com/track/4FMvhK7BUYaGJbT8zOJ7LH) | [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Driftwood](https://open.spotify.com/album/04KRMNfUUJpcMRBpCBneKJ) | 3:12 | 2022-06-07 |  |
 | [Dunmore](https://open.spotify.com/track/7vYzWlDUalocUHnAlcSbUc) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Dunmore](https://open.spotify.com/album/66wulAfBtzKGoqbUPvYzuu) | 2:02 | 2022-06-07 |  |
@@ -120,6 +120,7 @@
 | [durch Nacht und Nebel](https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP) | [Arndt Goudier](https://open.spotify.com/artist/0adSRv2wPNTotg3FojDkzJ) | [Valle Halle](https://open.spotify.com/album/7sTnfKi8ZaEaG9LQRz1tFT) | 3:03 | 2022-06-07 | 2022-09-15 |
 | [Dusza](https://open.spotify.com/track/0c5al5YwutY1nPIB8qJw7P) | [Ana Petrovna](https://open.spotify.com/artist/4g3wEGX9ERd45u8lFS7ei9) | [Dusza](https://open.spotify.com/album/2MdOIpTgcauq7koGaCAyIF) | 2:30 | 2022-06-07 | 2022-09-24 |
 | [Déroutant](https://open.spotify.com/track/0KS4fyufVM7bNkyTKnL07p) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Déroutant](https://open.spotify.com/album/4YsTa45DGzHfCodlJGE3X2) | 2:34 | 2022-06-07 |  |
+| [Each glorious entity](https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Each glorious entity](https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r) | 2:13 | 2023-09-18 |  |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-06-07 |  |
 | [Eau Claire](https://open.spotify.com/track/4G5rmGai31DmpVv0dTStxH) | [Elizabeth Bouknight](https://open.spotify.com/artist/75cwvPWWYghazFDw1Hvda4) | [Eau Claire](https://open.spotify.com/album/1L315vBVTOwWtqB5PKfGqJ) | 1:39 | 2022-06-07 | 2023-07-25 |
 | [Ebbe](https://open.spotify.com/track/2tMAQUBzGA8VqP8sLJvkdS) | [Kia Leonharts](https://open.spotify.com/artist/6EEGgdrklC8HMkuZRXkfTx) | [Ebbe](https://open.spotify.com/album/3ZP0FpVQ6OAJM2Gns4lfOE) | 2:43 | 2022-06-07 | 2022-09-24 |
@@ -161,7 +162,7 @@
 | [Floating](https://open.spotify.com/track/1fcPVf8Rqckxy4wxC4vYoz) | [Way Beyond](https://open.spotify.com/artist/7qZK8mnemfBOD9VVjRxB1Z) | [Floating](https://open.spotify.com/album/0zB9fYEcH3zXLvL2Wporwa) | 1:57 | 2022-06-07 | 2023-07-25 |
 | [Flowers](https://open.spotify.com/track/1wawCywSOC0uHeauIiCibd) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Flowers](https://open.spotify.com/album/0vXwvweYixVXGGlhfqHqw0) | 2:17 | 2023-09-05 |  |
 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 | 2022-06-07 | 2023-07-25 |
-| [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2022-06-07 |  |
+| [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2022-06-07 | 2023-09-19 |
 | [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 | 2022-06-07 | 2023-07-12 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-06-07 |  |
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-20 |  |
@@ -298,6 +299,7 @@
 | [Mysa](https://open.spotify.com/track/4nXPDQcgsGu4DUKDsS93AA) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Mysa](https://open.spotify.com/album/4Bgu4hE3kSBRILnx0DXL0D) | 2:14 | 2022-06-07 | 2022-09-15 |
 | [Mère bien\-aimée](https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Mère bien\-aimée](https://open.spotify.com/album/6l6nZMFvZ8SYslMUPvuOdr) | 2:16 | 2022-06-07 | 2022-07-20 |
 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 | 2022-06-07 |  |
+| [Narrative](https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Narrative](https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH) | 3:02 | 2023-09-18 |  |
 | [Nascondiglio](https://open.spotify.com/track/3e8DQgRVImwkDYrJJEh9xO) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Nascondiglio](https://open.spotify.com/album/0TRLxuQkDGaKoJEYOmCNMr) | 1:57 | 2022-12-22 | 2023-07-25 |
 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2022-06-07 |  |
 | [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 | 2022-06-07 |  |
@@ -323,6 +325,7 @@
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2022-06-07 | 2022-10-05 |
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-06-07 |  |
 | [Otherwise](https://open.spotify.com/track/3thkCuWvpE3yU7PtZiPGXs) | [Alexander Panagopoulos](https://open.spotify.com/artist/2ezAtjuRtLi4loC6Rmyv5p) | [Otherwise](https://open.spotify.com/album/3G6irmF2ZuYVEhY9EgfPaO) | 2:04 | 2022-06-07 | 2022-09-15 |
+| [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 |  |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2022-06-07 | 2022-09-15 |
 | [Paisible](https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Paisible](https://open.spotify.com/album/2bYxwhnFN7tyW3FKu4BWWu) | 2:33 | 2022-06-07 | 2022-09-24 |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-03 |  |
@@ -371,7 +374,7 @@
 | [Restzeit](https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy) | [Raoul Panzinger](https://open.spotify.com/artist/7BIiSEdSySWVsnOOIrohEP) | [Restzeit](https://open.spotify.com/album/6YnTVreiPfr0Ve4LlJkv3Z) | 2:03 | 2022-06-07 |  |
 | [Reunion](https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr) | [Elvira Ashmore](https://open.spotify.com/artist/3NvKxkPl5eEE5z30zDfsiw) | [Reunion](https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl) | 2:27 | 2022-06-07 | 2022-09-24 |
 | [Rhyl Sands](https://open.spotify.com/track/2eB6dVkwbCJayvgplBO6Nt) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Malerei](https://open.spotify.com/album/6sxgRR1cYtmCXQSuDGU8ST) | 3:02 | 2022-09-14 |  |
-| [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2022-06-07 |  |
+| [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2022-06-07 | 2023-09-19 |
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2022-06-07 |  |
 | [Rites of Passage](https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 3:11 | 2022-06-07 |  |
 | [River Running Free](https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [River Running Free](https://open.spotify.com/album/0BQOiGn059PbJJtbi6VwGU) | 2:16 | 2022-06-07 | 2022-07-20 |
@@ -447,7 +450,7 @@
 | [Spring](https://open.spotify.com/track/7gpOugvWq2g76J6bhXGlgy) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Spring](https://open.spotify.com/album/4edmrPlqJ175RiZfKxnEpX) | 2:03 | 2022-06-07 |  |
 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 | 2022-06-07 |  |
 | [Stirling](https://open.spotify.com/track/1lBZFfbME5sIHKtgNuXq2I) | [Tuga Topić](https://open.spotify.com/artist/30nHhrHqaesxWRiNzW4g6O) | [Stirling](https://open.spotify.com/album/6JHOTIWdn1UyUZYys8HEpO) | 1:59 | 2022-06-07 | 2023-07-25 |
-| [Storytelling](https://open.spotify.com/track/4rhOJ6KXbzenI63eYKjdrw) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Storytelling](https://open.spotify.com/album/0msgHgZpWhe5InxDJIauQ8) | 2:21 | 2022-06-07 |  |
+| [Storytelling](https://open.spotify.com/track/4rhOJ6KXbzenI63eYKjdrw) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Storytelling](https://open.spotify.com/album/0msgHgZpWhe5InxDJIauQ8) | 2:21 | 2022-06-07 | 2023-09-19 |
 | [Strejfer](https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Strejfer](https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3) | 2:08 | 2022-06-07 |  |
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2022-06-07 | 2022-09-15 |
 | [Sublime](https://open.spotify.com/track/22ifgaP1tUahdVaIn1K4ik) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Valentina](https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW) | 2:17 | 2022-09-14 |  |
@@ -511,6 +514,7 @@
 | [Tree Angels](https://open.spotify.com/track/7hzvYJMRKjJas7foTUrO1J) | [Taylor Driskell](https://open.spotify.com/artist/2uWS8QQitbOr23trHrGTgZ) | [Stretch of Clouds](https://open.spotify.com/album/7yjLciUuoGvy7qSSv6KOPg) | 2:50 | 2022-06-07 |  |
 | [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 | 2022-06-07 |  |
 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 | 2022-06-07 |  |
+| [Tromsø](https://open.spotify.com/track/09jdC5o254s2seWBMMHco7) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Tromsø](https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX) | 2:11 | 2023-09-18 |  |
 | [Tuesday Clearing](https://open.spotify.com/track/4yMveNJje6wu6YUgf62DE1) | [Abby Silverman](https://open.spotify.com/artist/5P86oREbUnuT7USO63Qk4Y) | [Stairs in the Clouds](https://open.spotify.com/album/4ecAKYMye8B9N6fbjE77UI) | 2:50 | 2022-06-07 | 2022-09-24 |
 | [Tulips In Spring](https://open.spotify.com/track/6Wpqybyfaa4PdGbcDtRykl) | [Janina Kowalski](https://open.spotify.com/artist/6vrxG1gknQh7kJRQXbW2zm) | [Tulips In Spring](https://open.spotify.com/album/6VI3QlSoosVVrtjiewD0DH) | 2:52 | 2022-06-07 | 2023-09-06 |
 | [Turning Ahead](https://open.spotify.com/track/0IBQM8tB107DZs0YCcXSt0) | [Aurelius Conner](https://open.spotify.com/artist/1UwYRIlQBtCysDN5bbXhlh) | [Turning Ahead](https://open.spotify.com/album/5yHYS76gj6oZNPjhyyZ6AM) | 3:03 | 2022-06-07 | 2022-09-15 |

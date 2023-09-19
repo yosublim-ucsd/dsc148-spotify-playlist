@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Molly Millington\. Artwork: Isu Kim
 
-2,651 songs - 6 day 1 hr 34 min
+2,652 songs - 6 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [Bite the Bullet](https://open.spotify.com/track/6hLEl7Q4eO8sGuS9nfzbkB) | [Danté Knows](https://open.spotify.com/artist/0vrwPApXQrgJSpePdo8WHs), [Xing Xang Dog](https://open.spotify.com/artist/3gt6r7AyW5qxKbJCciRG4R) | [Bite the Bullet](https://open.spotify.com/album/4so3FPQBjFWxsAjDvBZy7z) | 3:21 | 2022-06-01 | 2022-06-30 |
 | [Bittersweet](https://open.spotify.com/track/7scyRsQq0RLUj67gleHNGH) | [Archer](https://open.spotify.com/artist/6Xh7DOTxCjpJu1NvaLmMO5) | [Bittersweet](https://open.spotify.com/album/1iFl467kt0x8T4Y1fRTLHe) | 3:15 | 2023-08-30 | 2023-09-14 |
 | [bittersweet](https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [bittersweet](https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF) | 2:43 | 2022-03-09 | 2023-01-13 |
-| [Black Coat, Black Skirt](https://open.spotify.com/track/4MgrivVqImoJgyAD22zoYq) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Black Coat, Black Skirt](https://open.spotify.com/album/4QVHYphZDeqCj4I2SWBIip) | 3:20 | 2023-09-06 |  |
+| [Black Coat, Black Skirt](https://open.spotify.com/track/4MgrivVqImoJgyAD22zoYq) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Black Coat, Black Skirt](https://open.spotify.com/album/4QVHYphZDeqCj4I2SWBIip) | 3:20 | 2023-09-06 | 2023-09-19 |
+| [Black Coat, Black Skirt](https://open.spotify.com/track/5Aih6cGzHW9ABgnS10HCr6) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [JULIA](https://open.spotify.com/album/6kSnkFQGSNserpUB78IE4m) | 3:20 | 2023-09-15 |  |
 | [Black Coffee](https://open.spotify.com/track/4J88opd9z8SiPGz8NB13Fg) | [Siala](https://open.spotify.com/artist/74NRwx8DjZNrYjExNs7X1D) | [Black Coffee](https://open.spotify.com/album/0Fu4TY8eZCKP3yCFbTdyrC) | 3:06 | 2022-04-20 | 2022-04-27 |
 | [Black Girl Magic](https://open.spotify.com/track/4gsXlgbn7sfaBb2euYxAH9) | [Awa Mbaye](https://open.spotify.com/artist/4vF1pMnwml3GNj1N96lQoJ) | [Black Girl Magic](https://open.spotify.com/album/5YGyg7ZVUrVqOJoKwR4UwM) | 3:36 | 2023-05-24 | 2023-06-15 |
 | [Black Hole](https://open.spotify.com/track/6iMzLCUGI46l4vGeyaTHXz) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Black Hole](https://open.spotify.com/album/02eMHVTPUbQCuzhF5fHoMT) | 3:15 | 2022-07-27 | 2022-08-25 |

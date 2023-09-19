@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 46263,
+  "num_followers": 46294,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGMxYmRjNTQ0NWY3YTBlMjM3NjExZjRmZWI2OThjNTk0YjRjYmU4",
+  "snapshot_id": "MCwwZDZiOTBlNjMzMDgxYTQ2MTUzYmQyZTAxYTk3OTkzOTA4MWExZDU5",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:52",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "My Dearest Darling",
-      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Still Frame Replay",
         "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "My Dearest Darling",
+      "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 142800,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "The Blues",
         "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 502973,
       "name": "Lonely World",
       "url": "https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 142800,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "Hound Dog Taylor and The Houserockers",
-        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor & The HouseRockers",
-          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 262869,
       "name": "Broken & Blue (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "Hound Dog Taylor and The Houserockers",
+        "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "All Blues",
-        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton Band",
-          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Jackie Sings The Blues",
         "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 124786,
       "name": "Please Tell Me Why",
       "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "All Blues",
+        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton Band",
+          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Brown",
-          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Got News For You",
-      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Remastered from the Archives",
         "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 208732,
       "name": "It Serves Me Right to Suffer - Remastered",
       "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Brown",
+          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Got News For You",
+      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "Been Gone Too Long",
-        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Sundown",
-          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Memphis Moonlight",
         "url": "https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 319960,
-      "name": "No More Lonely Nights",
-      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 259000,
       "name": "You'll Never Find Anyone To Be A Slave Like Me - Remastered 2022",
       "url": "https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 319960,
+      "name": "No More Lonely Nights",
+      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
     },
     {
       "added_at": "2023-09-15 11:42:52",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-15 11:42:52",
       "album": {
-        "name": "Roll and Tumble",
-        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
-      },
-      "artists": [
-        {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
-        }
-      ],
-      "duration_ms": 205182,
-      "name": "Sometimes I Worry",
-      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
-    },
-    {
-      "added_at": "2023-09-15 11:42:52",
-      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 214194,
       "name": "You Can't Lose What You Ain't Never Had",
       "url": "https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc"
+    },
+    {
+      "added_at": "2023-09-15 11:42:52",
+      "album": {
+        "name": "Roll and Tumble",
+        "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "duration_ms": 205182,
+      "name": "Sometimes I Worry",
+      "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
     },
     {
       "added_at": "2023-09-15 11:42:52",

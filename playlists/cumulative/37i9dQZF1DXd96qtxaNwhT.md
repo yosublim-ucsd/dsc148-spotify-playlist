@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-509 songs - 1 day 4 hr 29 min
+511 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-07-08 |  |
 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2020-10-09 | 2021-06-22 |
 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 | 2019-08-02 | 2019-12-09 |
+| [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 | 2023-09-18 |  |
 | [I Don't Care](https://open.spotify.com/track/1citIkNWmi2MJIFss9Tqso) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 3:03 | 2022-11-03 | 2022-11-13 |
 | [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-08 | 2022-10-31 |
 | [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 | 2022-09-28 | 2023-02-16 |
@@ -493,6 +494,7 @@
 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 | 2021-06-09 | 2021-06-18 |
 | [What Am I](https://open.spotify.com/track/1HimGOB6BjOaCQYMIF1xtU) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [What Am I](https://open.spotify.com/album/6IEEEv0mmFYPjhATWKYZRE) | 3:04 | 2019-08-30 | 2020-02-28 |
 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 | 2022-08-04 |  |
+| [what it always was](https://open.spotify.com/track/3KCDxxhjQ61VsC0HL5BR04) | [Sarah Saint James](https://open.spotify.com/artist/13gxwsg6hXUb3zBGg2qpjH) | [what it always was](https://open.spotify.com/album/5hA2mWEorq6bdzND8iO8Dr) | 3:31 | 2023-09-18 |  |
 | [What They'll Say About Us](https://open.spotify.com/track/27Y1N4Q4U3EfDU5Ubw8ws2) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [What They'll Say About Us](https://open.spotify.com/album/7AnQ4YEDYHaeirVTMx6jNp) | 3:07 | 2020-09-04 | 2021-09-14 |
 | [when the party's over \- triple j Like A Version](https://open.spotify.com/track/6cJyNd9dx9U8uYhy3r9WPK) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [when the party's over \(triple j Like A Version\)](https://open.spotify.com/album/0XeFM6TRmXhTsr7WSDjgCO) | 3:33 | 2019-07-29\* | 2019-08-30 |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-04-24 | 2022-09-09 |

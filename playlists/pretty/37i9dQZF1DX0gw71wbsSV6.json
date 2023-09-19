@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 44203,
+  "num_followers": 44211,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2NhMjdkZTRmZWQ0Y2YwOGE5Zjg1MDk2YjUyNGY1ZmMzZjlmNmM1",
+  "snapshot_id": "MCw4MGRhY2UzOTJlNDNkYmM3NTBmZjRjOWYxNDEzMzc4ZTM5NmM2MmYx",
   "tracks": [
     {
       "added_at": "2023-09-14 17:06:52",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-09-14 17:06:52",
       "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2023-09-14 17:06:52",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-09-14 17:06:52",
       "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
       "added_at": "2023-09-14 17:06:52",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-09-14 17:06:52",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
+      "duration_ms": 166916,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
     },
     {
       "added_at": "2023-09-14 17:06:52",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-09-14 17:06:52",
       "album": {
-        "name": "Spinnin",
-        "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 166916,
-      "name": "Spinnin",
-      "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
-    },
-    {
-      "added_at": "2023-09-14 17:06:52",
-      "album": {
         "name": "anatomy",
         "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
       },
@@ -607,22 +591,6 @@
     {
       "added_at": "2023-09-14 17:06:52",
       "album": {
-        "name": "Icicle",
-        "url": "https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc"
-      },
-      "artists": [
-        {
-          "name": "tuLaLa",
-          "url": "https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd"
-        }
-      ],
-      "duration_ms": 177162,
-      "name": "Icicle",
-      "url": "https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO"
-    },
-    {
-      "added_at": "2023-09-14 17:06:52",
-      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
@@ -643,8 +611,24 @@
     {
       "added_at": "2023-09-14 17:06:52",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+        "name": "Icicle",
+        "url": "https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc"
+      },
+      "artists": [
+        {
+          "name": "tuLaLa",
+          "url": "https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd"
+        }
+      ],
+      "duration_ms": 177162,
+      "name": "Icicle",
+      "url": "https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO"
+    },
+    {
+      "added_at": "2023-09-14 17:06:52",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
       },
       "artists": [
         {
@@ -652,25 +636,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
-    },
-    {
-      "added_at": "2023-09-14 17:06:52",
-      "album": {
-        "name": "Valparaiso",
-        "url": "https://open.spotify.com/album/2rX7ye6GRZ7rRGWRGjlHnr"
-      },
-      "artists": [
-        {
-          "name": "Wicked Lights",
-          "url": "https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Valparaiso",
-      "url": "https://open.spotify.com/track/4lhbMN6hbhlr221DJs3c9F"
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
     },
     {
       "added_at": "2023-09-14 17:06:52",
@@ -695,18 +663,18 @@
     {
       "added_at": "2023-09-14 17:06:52",
       "album": {
-        "name": "hillcrest",
-        "url": "https://open.spotify.com/album/2pNTEByotso0MHoMsjqmfK"
+        "name": "Valparaiso",
+        "url": "https://open.spotify.com/album/2rX7ye6GRZ7rRGWRGjlHnr"
       },
       "artists": [
         {
-          "name": "Lauren Ong",
-          "url": "https://open.spotify.com/artist/1qXjkdOzaGvRcJJbRoy2IZ"
+          "name": "Wicked Lights",
+          "url": "https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k"
         }
       ],
-      "duration_ms": 169905,
-      "name": "all the other earths",
-      "url": "https://open.spotify.com/track/17v1n74rexnQAO4yuly52C"
+      "duration_ms": 243173,
+      "name": "Valparaiso",
+      "url": "https://open.spotify.com/track/4lhbMN6hbhlr221DJs3c9F"
     },
     {
       "added_at": "2023-09-14 17:06:52",
@@ -739,6 +707,22 @@
     {
       "added_at": "2023-09-14 17:06:52",
       "album": {
+        "name": "hillcrest",
+        "url": "https://open.spotify.com/album/2pNTEByotso0MHoMsjqmfK"
+      },
+      "artists": [
+        {
+          "name": "Lauren Ong",
+          "url": "https://open.spotify.com/artist/1qXjkdOzaGvRcJJbRoy2IZ"
+        }
+      ],
+      "duration_ms": 169905,
+      "name": "all the other earths",
+      "url": "https://open.spotify.com/track/17v1n74rexnQAO4yuly52C"
+    },
+    {
+      "added_at": "2023-09-14 17:06:52",
+      "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
       },
@@ -767,6 +751,38 @@
       "duration_ms": 203787,
       "name": "napori",
       "url": "https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae"
+    },
+    {
+      "added_at": "2023-09-14 17:06:52",
+      "album": {
+        "name": "this is what autumn feels like",
+        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 219909,
+      "name": "this is what autumn feels like",
+      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
+    },
+    {
+      "added_at": "2023-09-14 17:06:52",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
     },
     {
       "added_at": "2023-09-14 17:06:52",
@@ -807,38 +823,6 @@
     {
       "added_at": "2023-09-14 17:06:52",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
-    },
-    {
-      "added_at": "2023-09-14 17:06:52",
-      "album": {
-        "name": "this is what autumn feels like",
-        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 219909,
-      "name": "this is what autumn feels like",
-      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
-    },
-    {
-      "added_at": "2023-09-14 17:06:52",
-      "album": {
         "name": "WEEDKILLER",
         "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 193976,
       "name": "colorblind",
       "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
+    },
+    {
+      "added_at": "2023-09-14 17:06:52",
+      "album": {
+        "name": "Marshmallow",
+        "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 182321,
+      "name": "Marshmallow",
+      "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

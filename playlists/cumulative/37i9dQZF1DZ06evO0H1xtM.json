@@ -559,6 +559,32 @@
     },
     {
       "album": {
+        "name": "GOZANDO",
+        "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "GOZANDO",
+      "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
+    },
+    {
+      "album": {
         "name": "Hoy Todo Cambio",
         "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 81116,
+  "num_followers": 81154,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjNiZjU5MTQwMDdmMjNlZWVhMTY0ZTdhMWI1OTU1ODk3ZjAxODY1",
+  "snapshot_id": "MCwxMjZmYWVjYzQ2ZDc5NjY5NmIwODY2N2I0MDI5YWFjNjQ0OGY0Mzlj",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -187,30 +187,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+        "name": "Coming Your Way (with Anne-Marie & Becky G)",
+        "url": "https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         },
         {
-          "name": "Ari PenSmith",
-          "url": "https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP"
-        },
-        {
-          "name": "Eight9FLY",
-          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 162146,
-      "name": "Vex Oh (feat. Eight9FLY)",
-      "url": "https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr"
+      "duration_ms": 145122,
+      "name": "Coming Your Way (with Anne-Marie & Becky G)",
+      "url": "https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -283,26 +279,30 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Coming Your Way (with Anne-Marie & Becky G)",
-        "url": "https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg"
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
       "artists": [
         {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Ari PenSmith",
+          "url": "https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP"
+        },
+        {
+          "name": "Eight9FLY",
+          "url": "https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc"
         }
       ],
-      "duration_ms": 145122,
-      "name": "Coming Your Way (with Anne-Marie & Becky G)",
-      "url": "https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh"
+      "duration_ms": 162146,
+      "name": "Vex Oh (feat. Eight9FLY)",
+      "url": "https://open.spotify.com/track/4n358XQMHXd0xi6NazWdxr"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "LAS",
         "url": "https://open.spotify.com/album/01oPSFSY6fQmlFUDoNORvB"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 313421,
       "name": "Dlo Dous",
       "url": "https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Welcome To Dinna",
-        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Black Uhuru",
-          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Welcome To Dinna",
-      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Clueless (with Oxlade)",
         "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
       },
@@ -583,6 +563,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Welcome To Dinna",
+        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Black Uhuru",
+          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Welcome To Dinna",
+      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 512940,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Michael Benjamin",
+          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Ou pati",
+      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -615,30 +631,6 @@
       "duration_ms": 194716,
       "name": "Gen Bagay",
       "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Liki Tiki",
-        "url": "https://open.spotify.com/album/3HOMvaJTUweoeIdDEGGdQv"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        },
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Liki Tiki",
-      "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -667,18 +659,46 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+        "name": "Liki Tiki",
+        "url": "https://open.spotify.com/album/3HOMvaJTUweoeIdDEGGdQv"
       },
       "artists": [
         {
-          "name": "Michael Benjamin",
-          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
-      "duration_ms": 268240,
-      "name": "Ou pati",
-      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
+      "duration_ms": 195000,
+      "name": "Liki Tiki",
+      "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Apre bal la",
+        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
+      },
+      "artists": [
+        {
+          "name": "Pierre Jean",
+          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
+        },
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 237362,
+      "name": "Apre bal la",
+      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -723,26 +743,6 @@
       "duration_ms": 230679,
       "name": "Akouna",
       "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Apre bal la",
-        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
-      },
-      "artists": [
-        {
-          "name": "Pierre Jean",
-          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
-        },
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 237362,
-      "name": "Apre bal la",
-      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Teke Fren",
-        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 177748,
-      "name": "Teke Fren",
-      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Imitate",
         "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 253208,
       "name": "Bay Vag",
       "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Teke Fren",
+        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 177748,
+      "name": "Teke Fren",
+      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
       },
       "artists": [
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
         }
       ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 286840,
       "name": "Flanm",
       "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "New Life Livin",
-        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
-      },
-      "artists": [
-        {
-          "name": "Kai Alc\u00e9",
-          "url": "https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi"
-        }
-      ],
-      "duration_ms": 311098,
-      "name": "New Life Livin",
-      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1343,6 +1327,22 @@
       "duration_ms": 194976,
       "name": "Nou Pare",
       "url": "https://open.spotify.com/track/1MlKmqvA2LonoOif1Kgq5y"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "New Life Livin",
+        "url": "https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z"
+      },
+      "artists": [
+        {
+          "name": "Kai Alc\u00e9",
+          "url": "https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi"
+        }
+      ],
+      "duration_ms": 311098,
+      "name": "New Life Livin",
+      "url": "https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1379,6 +1379,38 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+      },
+      "artists": [
+        {
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Bal Tout",
+        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "Bal Tout",
+      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Come to My Bedroom",
         "url": "https://open.spotify.com/album/2vYwjJsZHvUDwfiAXS8LP9"
       },
@@ -1399,22 +1431,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
-      },
-      "artists": [
-        {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Se Ou M Chwazi",
         "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 218191,
       "name": "Se Ou M Chwazi",
       "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Bal Tout",
-        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Bal Tout",
-      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+        "name": "Way Too Nice",
+        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
       },
       "artists": [
         {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+          "name": "Eyo-E",
+          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+      "duration_ms": 125600,
+      "name": "Way Too Nice",
+      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Plenyen Player Yo",
         "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 226542,
       "name": "Plenyen Player Yo",
       "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Way Too Nice",
-        "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
-      },
-      "artists": [
-        {
-          "name": "Eyo-E",
-          "url": "https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB"
-        }
-      ],
-      "duration_ms": 125600,
-      "name": "Way Too Nice",
-      "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Sote",
-        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sote",
-      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "HEIR",
         "url": "https://open.spotify.com/album/3T6M72BEaI5JDxiN3IA6MY"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 194823,
       "name": "BELLY OF THE BEAST",
       "url": "https://open.spotify.com/track/57MenuBWGgoXfDLxujgnxZ"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Sote",
+        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sote",
+      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
     },
     {
       "added_at": "2023-09-01 04:00:00",

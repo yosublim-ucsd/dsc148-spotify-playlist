@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road.",
-  "num_followers": 69657,
+  "num_followers": 69755,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmQ5YTNmOTAzNTNlNzdjOGVlNmRiYjE1ZmE1NmEzOWJkYTE2N2Fi",
+  "snapshot_id": "MCxmMmUwOWEwNTJiOThhNDlmMjU0NGQyNmFmNTMyYWFmMzQ4ZTE5ZDMx",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
         "name": "Mad Mad World (Deluxe)",
         "url": "https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 229293,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2023-09-08 04:01:00",

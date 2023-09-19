@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style background music for chill dinner ambiance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,206 likes - 190 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,221 likes - 190 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 5 | [You Would Know](https://open.spotify.com/track/6pzQ42eg8TJSNRXR6eoeUs) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [You Would Know](https://open.spotify.com/album/3KdHdkUYvDI4FIJ9A80c4q) | 2:09 |
 | 6 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 |
 | 7 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 |
-| 8 | [Le Lac des Buttes](https://open.spotify.com/track/2wSDYbFEls8WYUCLCUvZNJ) | [Nicolas Dupain\-Aignon](https://open.spotify.com/artist/13jahwQWxrUhKBpng3HRQf) | [Lac des Buttes](https://open.spotify.com/album/5f7kNJ30Borz8VHTtsuG32) | 2:13 |
-| 9 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 |
-| 10 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
-| 11 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 |
+| 8 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 |
+| 9 | [Le Lac des Buttes](https://open.spotify.com/track/2wSDYbFEls8WYUCLCUvZNJ) | [Nicolas Dupain\-Aignon](https://open.spotify.com/artist/13jahwQWxrUhKBpng3HRQf) | [Lac des Buttes](https://open.spotify.com/album/5f7kNJ30Borz8VHTtsuG32) | 2:13 |
+| 10 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 |
+| 11 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
 | 12 | [I Still Miss You](https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [I Still Miss You](https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA) | 2:06 |
 | 13 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 |
 | 14 | [dans mes rêves](https://open.spotify.com/track/6Hy7HXXIfWPtzCsKeEqDjM) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [dans mes rêves](https://open.spotify.com/album/6e7jOATXTfMdLKTNUqtMEB) | 2:24 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 189 | [La consolation](https://open.spotify.com/track/1rmTdklw8wgOStLgI4B25Q) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [La consolation](https://open.spotify.com/album/7JdF9ISUD6AReDwZhvJ4K0) | 2:45 |
 | 190 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MCxkM2I2YzRmMDIzMDM5NWY4YjE2OWQ2OTk4YjJkMjkwM2NjZDg5MDdm`
+Snapshot ID: `MCwxMjQ2MDhhMDcwNGM5YjMwY2Y2M2M0ODQwZmM1MzcyYzVmMGRhMGQ5`

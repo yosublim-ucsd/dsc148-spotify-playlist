@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Briston Maroney
 
-398 songs - 1 day 0 hr 46 min
+399 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 | 2023-04-28 |  |
 | [bluejay](https://open.spotify.com/track/2iew4KgPein9RqH5tUA95K) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [bluejay](https://open.spotify.com/album/2FIDkKL3ElI7ULEkI8OvY0) | 2:35 | 2023-05-26 |  |
 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 | 2023-08-25 |  |
+| [burner phone](https://open.spotify.com/track/1vB0pKXnvQaeqSGkoeNJ9t) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in another life](https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R) | 3:51 | 2023-09-15 |  |
 | [By Myself](https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [By Myself](https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO) | 2:26 | 2022-01-21 | 2023-02-04 |
 | [Cady Road](https://open.spotify.com/track/1ANTgkucU94X8WNLWtzAyq) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/7ncOxJlRQGqWHcTeXXe3mz) | 3:10 | 2022-04-29 | 2022-12-06 |
 | [Cady Road](https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/6zBwMl6GARPzqmZtv0YK8Z) | 3:10 | 2022-04-13 | 2022-07-28 |
@@ -401,7 +402,7 @@
 | [With News About Heaven](https://open.spotify.com/track/5AlvG6En5wNwVQRzxkgXyF) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/6Y9i01k1rGe69qVjWsGWNM) | 4:31 | 2022-04-13 | 2022-07-28 |
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-03-10 |  |
 | [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2022-11-11 | 2023-01-02 |
-| [you deserve attention](https://open.spotify.com/track/6jx9hgYN1lGEtjkCI40hfh) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [you deserve attention](https://open.spotify.com/album/4XgHOqlAaws6ydjq7HGtst) | 2:28 | 2023-09-08 |  |
+| [you deserve attention](https://open.spotify.com/track/6jx9hgYN1lGEtjkCI40hfh) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [you deserve attention](https://open.spotify.com/album/4XgHOqlAaws6ydjq7HGtst) | 2:28 | 2023-09-08 | 2023-09-19 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-10 |  |
 | [Your Garden](https://open.spotify.com/track/6ZmnWJvEU5ZNRB5jGcxND7) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Your Garden](https://open.spotify.com/album/7xyXzKF6OBhyZ69XiRztYi) | 3:27 | 2023-06-16 | 2023-07-29 |
 | [Your Mind’s Walking Out](https://open.spotify.com/track/17niuSm2NSposx5cUKoTvh) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:33 | 2022-04-13 | 2023-05-28 |

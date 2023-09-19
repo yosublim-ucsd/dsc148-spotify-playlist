@@ -6480,7 +6480,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 228000,
       "name": "Mal\u00eca",
       "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
@@ -7519,6 +7519,24 @@
     },
     {
       "album": {
+        "name": "Never Understand (Habibi Funk 024)",
+        "url": "https://open.spotify.com/album/5IINb7SuoBdORtAqr8uafK"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Hesnawi",
+          "url": "https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234281,
+      "name": "Never Understand - Habibi Funk 024",
+      "url": "https://open.spotify.com/track/4GiYIQr4qEMxJDT9OPaYji"
+    },
+    {
+      "album": {
         "name": "Born In Africa",
         "url": "https://open.spotify.com/album/3SINV0dzoGMwwpK86yE77I"
       },
@@ -7770,7 +7788,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 351708,
       "name": "OK Seke Bien",
       "url": "https://open.spotify.com/track/4faQZK914Arr6kersUJT07"
@@ -9786,6 +9804,24 @@
       "duration_ms": 127545,
       "name": "Suburban Breeze",
       "url": "https://open.spotify.com/track/5zz75fDAvsJj7e63D5iMyY"
+    },
+    {
+      "album": {
+        "name": "Education & Recreation",
+        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127545,
+      "name": "Suburban Breeze",
+      "url": "https://open.spotify.com/track/6xgskwtbWpagoXEIeAHHK3"
     },
     {
       "album": {

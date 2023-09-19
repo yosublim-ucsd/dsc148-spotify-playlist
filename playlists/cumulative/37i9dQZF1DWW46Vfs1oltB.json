@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211386,
+      "name": "Baggy Jeans",
+      "url": "https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek"
+    },
+    {
+      "album": {
         "name": "Ball (Feat. Chillin Homie, TRADE L, Mckdaddy)",
         "url": "https://open.spotify.com/album/3X9p3dVTmrzLOVRmi0ESqq"
       },
@@ -12063,6 +12081,24 @@
     },
     {
       "album": {
+        "name": "M.O.M",
+        "url": "https://open.spotify.com/album/5ZAvXTc2yMZSw65Wt0mbw9"
+      },
+      "artists": [
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137146,
+      "name": "M.O.M",
+      "url": "https://open.spotify.com/track/1LdzvuS9dGj59yHXPhfgdu"
+    },
+    {
+      "album": {
         "name": "M.S.F",
         "url": "https://open.spotify.com/album/4MRjnkOdl6K5wC8uFhJ9CE"
       },
@@ -15872,6 +15908,28 @@
       "duration_ms": 246413,
       "name": "PRICELESS (Feat. toigo)",
       "url": "https://open.spotify.com/track/3ugYRBISHignwAHvbWhxbZ"
+    },
+    {
+      "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/4ap44xWjtuk1Xqp7fXhdG2"
+      },
+      "artists": [
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247456,
+      "name": "Private Night (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/5MrVKVlIHBxRHOBPYqzWll"
     },
     {
       "album": {

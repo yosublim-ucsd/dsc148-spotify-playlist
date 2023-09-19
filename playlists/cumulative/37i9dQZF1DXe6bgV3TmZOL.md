@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-407 songs - 1 day 1 hr 34 min
+408 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 | 2022-01-14 |  |
 | [Addicted To Pain](https://open.spotify.com/track/74ODL6xFR2erTu2mvXFIDz) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Fortress](https://open.spotify.com/album/3oMt2cUO9IIttONwd6eHRO) | 4:16 | 2023-07-25 | 2023-09-10 |
 | [Afflicted](https://open.spotify.com/track/70AJAYFBkXnrd9mA6qz0wU) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Loose Threads](https://open.spotify.com/album/5rEM2fDMOEBCNjgdgDvvon) | 4:51 | 2021-11-12 | 2022-07-29 |
-| [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 | 2023-02-24 |  |
+| [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 | 2023-02-24 | 2023-09-19 |
 | [Agree to Disagree](https://open.spotify.com/track/58Eyr2rZWIYM19qhpals74) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:02 | 2021-11-12 | 2022-06-07 |
 | [All Animal](https://open.spotify.com/track/4PEHqVEh5MPmvdYw1oiIKI) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:30 | 2022-11-02 | 2023-05-17 |
 | [All Animal](https://open.spotify.com/track/6rUcboqRuVuowjaL5YUNtx) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/7CcfBGRoxEuWkudbhLMr3H) | 3:30 | 2021-11-12 | 2022-07-29 |
@@ -88,7 +88,7 @@
 | [Calm Before the Storm](https://open.spotify.com/track/3dhDN3hilhqEursIIg8Xko) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [Revival](https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV) | 3:55 | 2022-06-17 |  |
 | [Carry On](https://open.spotify.com/track/3GSMJpuz3rFU8WtCws1rv5) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Carry On](https://open.spotify.com/album/1y4gZwFijhkj8DjqzkBZwI) | 4:54 | 2021-11-12 | 2022-11-03 |
 | [Chaos And Earthquakes](https://open.spotify.com/track/2imkodSyg1hOZwZuE2fJdU) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Chaos And Earthquakes](https://open.spotify.com/album/1UnoCRuJTGd39YMDNGI1RE) | 3:45 | 2021-11-12 | 2022-07-20 |
-| [Chaos And Earthquakes](https://open.spotify.com/track/4j7jkCdab3vYmw0suZnt0X) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [X](https://open.spotify.com/album/0U9V1fSmA5lSYTsYh99AQm) | 3:45 | 2023-06-02 | 2023-09-13 |
+| [Chaos And Earthquakes](https://open.spotify.com/track/4j7jkCdab3vYmw0suZnt0X) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [X](https://open.spotify.com/album/0U9V1fSmA5lSYTsYh99AQm) | 3:45 | 2023-06-02 |  |
 | [Choke](https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Choke](https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK) | 3:47 | 2021-11-12 | 2022-11-13 |
 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 | 2022-11-02 |  |
 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 | 2022-04-04 |  |
@@ -160,7 +160,7 @@
 | [Gold Cobra](https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 3:53 | 2022-11-02 |  |
 | [Gone](https://open.spotify.com/track/6Aslruh5oCnzDKWTALrHOZ) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [VENA](https://open.spotify.com/album/0GC8hjVn9Jz5oEq9gFj9KV) | 4:12 | 2022-07-13 | 2022-08-05 |
 | [Gonna Be OK](https://open.spotify.com/track/76CcaywQzcbgbDj7ovwXUO) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Gonna Be OK](https://open.spotify.com/album/7IckX4AaLXaK5laaNWVMqX) | 2:54 | 2021-11-12 | 2023-03-25 |
-| [Good Enough](https://open.spotify.com/track/38go2owZhNQgAJLzUxEZIn) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 3:16 | 2023-09-14 |  |
+| [Good Enough](https://open.spotify.com/track/38go2owZhNQgAJLzUxEZIn) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 3:16 | 2023-09-14 | 2023-09-19 |
 | [Good F\*\*King Music](https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Good F\*\*King Music](https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU) | 3:26 | 2022-07-13 |  |
 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 | 2022-07-13 | 2022-11-03 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-11-02 |  |
@@ -313,6 +313,7 @@
 | [Scarlet Cross](https://open.spotify.com/track/4fUovW11pjSPFTHVdFCJ8u) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Scarlet Cross](https://open.spotify.com/album/3Uxhke7ujwWei11IqHmpHo) | 3:37 | 2021-11-12 | 2022-07-29 |
 | [Scars that I'm Hiding](https://open.spotify.com/track/0hIrlDHawGdEw12lBSOWlP) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG) | 2:55 | 2023-07-25 |  |
 | [Scars That I'm Hiding \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/0UOtF2ojhKGYEjvZ28ZA6d) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Scars That I'm Hiding \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/album/3ktq0tDEeyn6FIdVyJvw87) | 2:55 | 2021-11-12 | 2023-08-31 |
+| [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 | 2023-09-14 |  |
 | [Self\-Destruction](https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 2:26 | 2022-10-07 |  |
 | [Set Fazers](https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Set Fazers](https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K) | 3:15 | 2023-04-04 | 2023-08-24 |
 | [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 | 2021-11-12 | 2022-07-15 |

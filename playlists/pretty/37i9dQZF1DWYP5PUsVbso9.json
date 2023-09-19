@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 278857,
+  "num_followers": 279010,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGFmZDBiZDc1NGYxMDkyNmQzNmQ0ZmIzYWRlNDBhNWFiMTVmZDky",
+  "snapshot_id": "MCwzM2U3ZmYwZDM5YmZjNjQ3ZTQwZGFlNGEwODEwNzJhZWJiMjMxZTBh",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 258733,
+      "name": "Coward Of The County",
+      "url": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 202026,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "(Ghost) Riders in the Sky",
-      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 283640,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -387,8 +387,8 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
       "artists": [
         {
@@ -396,25 +396,9 @@
           "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 258733,
-      "name": "Coward Of The County",
-      "url": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "Summertime Dream",
+        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 389280,
+      "name": "The Wreck of the Edmund Fitzgerald",
+      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Summertime Dream",
-        "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
+        "name": "Kenny Rogers",
+        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
       },
       "artists": [
         {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 389280,
-      "name": "The Wreck of the Edmund Fitzgerald",
-      "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
+      "duration_ms": 220866,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 171653,
       "name": "Every Which Way but Loose - 2009 Remaster",
       "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "Kenny Rogers",
-        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Man In Black",
-        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Man in Black",
-      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Rose Colored Glasses",
         "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 314226,
       "name": "You Never Even Called Me By My Name",
       "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
-      },
-      "artists": [
-        {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "I Love",
-      "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Rocky Mountain Music",
         "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 142773,
       "name": "Two Dollars in the Jukebox - 2008 Remaster",
       "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+      },
+      "artists": [
+        {
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "I Love",
+      "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Let's Keep It That Way",
-        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Tennessee Waltz",
-      "url": "https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Charlie Rich - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 162866,
       "name": "The Most Beautiful Girl",
       "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "It Must Be Love - Single Version",
-      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "HAG: The Hits Volume 2",
         "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 169346,
       "name": "The Fightin' Side Of Me",
       "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "It Must Be Love - Single Version",
+      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
     },
     {
       "added_at": "2023-08-21 19:26:53",

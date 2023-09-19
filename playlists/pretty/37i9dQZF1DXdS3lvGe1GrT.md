@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bo Staloch \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,731 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,939 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 59 | [Perfect Delusions](https://open.spotify.com/track/5r81Q3IJfTUC1h3jCX9uHt) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [Perfect Delusions](https://open.spotify.com/album/5ngHMX5dvulNRXXVujCb1F) | 3:07 |
 | 60 | [I'm Not Going in There](https://open.spotify.com/track/7F4MPxbs56LxzzZTwZUsJA) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [I'm Not Going in There](https://open.spotify.com/album/5fOKsLIrvfR8k9BFPVFSyB) | 4:02 |
 | 61 | [One Hour Less](https://open.spotify.com/track/4Y1XTtLOIe5aYD4Dg8mOP6) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [One Hour Less](https://open.spotify.com/album/2CGAzo11gamLgkIzEqcdAa) | 4:52 |
-| 62 | [Killer Line](https://open.spotify.com/track/3pxQXw1cHlXEbMulMyEOFf) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Killer Line](https://open.spotify.com/album/2wWOcYEk8biEvndff06WXk) | 3:50 |
+| 62 | [Killer Line](https://open.spotify.com/track/72f3mEIopS9EnZVn3GwlPC) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Dreamer Awake](https://open.spotify.com/album/12jj5kr4VuIImcN2lqXbah) | 3:50 |
 | 63 | [Tomato Cheeks](https://open.spotify.com/track/2nL6ptyJUpSSEJskr4Bk86) | [Lunar Ash](https://open.spotify.com/artist/7iPGIxDtjpECWMj1woQma1) | [Tomato Cheeks](https://open.spotify.com/album/3vxR8IIZhzft8DZiN2lmDi) | 4:00 |
 | 64 | [Whiplash](https://open.spotify.com/track/1P46DYGK9HcpohUwwWP6Co) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/59cVvw6WZjjSOjnu01SXYj) | 2:47 |
 | 65 | [Reality Mind](https://open.spotify.com/track/553klLGtJCONJztTXktVF6) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [A New Reality Mind](https://open.spotify.com/album/6gWz09raxjmq1EMIPcbnFy) | 3:41 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 97 | [The Great Equalizer](https://open.spotify.com/track/2UxYjbXjsBvpgl5iSi0l4i) | [Ava McCoy](https://open.spotify.com/artist/1Hx2MmCDbn7kdUG70WT0xc) | [Closer to the Bugs](https://open.spotify.com/album/1qHR5exrMNcopkG74cWd8r) | 2:01 |
 | 98 | [Witch Hazel](https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e) | [Karen Took The Kids](https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE) | [Witch Hazel](https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn) | 4:22 |
 | 99 | [jane](https://open.spotify.com/track/7jSXAEb7AKi1AZW4tOtFNG) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [jane](https://open.spotify.com/album/0E4Zg3sGwKwB4yBFFH8dIO) | 2:24 |
-| 100 | [The Well](https://open.spotify.com/track/0wDL2SlmwZtb1WmvHd53xw) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [The Well](https://open.spotify.com/album/42lCwdDbMMIXotsoHQnhh3) | 3:37 |
+| 100 | [The Well](https://open.spotify.com/track/720DXnPFSZgboGcNcovsPP) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [West Of It All](https://open.spotify.com/album/411HEAs67Ulmlen1UlEO9t) | 3:37 |
 
-Snapshot ID: `MCxkMGI0NmRlYzQyN2Y3YTZlNTA5Mjc1NGUxMmE1YjY5MWRkNDYwNWIx`
+Snapshot ID: `MCxhMjYyODBjMjcxNmY4ZmRmNTQyOTZjYjg3Yzk2MWM1NGZiZTdmMmZj`

@@ -1,12 +1,12 @@
 {
   "description": "Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 \ud83c\udf79",
-  "num_followers": 243692,
+  "num_followers": 243821,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGVmZjhjMzFiMzM1M2U3YTk3M2E1Yjg3YjM5ZjJjMzdiMjg0NmI5",
+  "snapshot_id": "MCxlZjU4MmRiMzk3NDE3NDU5ZGNkZDYwOTAyYTgyMmRmMTc2ZTUxNzli",
   "tracks": [
     {
       "added_at": "2023-09-01 04:01:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "Overnight",
         "url": "https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj"
       },
@@ -259,22 +243,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "Dumb Love",
         "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
       "artists": [
         {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
-        },
-        {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -563,6 +559,26 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+      },
+      "artists": [
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+        }
+      ],
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "Parcels",
         "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 237227,
       "name": "Lightenup",
       "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 305776,
+      "name": "Cheer Up, My Brother",
+      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "Azulejos",
         "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 214981,
       "name": "Alala",
       "url": "https://open.spotify.com/track/2GRrIHGGboa714SZeVcprI"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -859,22 +875,6 @@
       "duration_ms": 229573,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
       "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 305776,
-      "name": "Cheer Up, My Brother",
-      "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Melody A.M.",
-        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 218320,
-      "name": "Eple",
-      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Melody A.M.",
+        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 218320,
+      "name": "Eple",
+      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 345310,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Joys",
+        "url": "https://open.spotify.com/album/5dwpmQPOTG6rm25LfSXOR0"
+      },
+      "artists": [
+        {
+          "name": "Roberto Surace",
+          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
+        }
+      ],
+      "duration_ms": 135218,
+      "name": "Joys",
+      "url": "https://open.spotify.com/track/2owws8NRqfPUdIn3Uag7Yp"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "She's Just the Type of Girl",
         "url": "https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Joys",
-        "url": "https://open.spotify.com/album/5dwpmQPOTG6rm25LfSXOR0"
+        "name": "Since I Left You (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
       },
       "artists": [
         {
-          "name": "Roberto Surace",
-          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
         }
       ],
-      "duration_ms": 135218,
-      "name": "Joys",
-      "url": "https://open.spotify.com/track/2owws8NRqfPUdIn3Uag7Yp"
+      "duration_ms": 262840,
+      "name": "Since I Left You",
+      "url": "https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 200135,
       "name": "Praja Magia",
       "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Since I Left You (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Since I Left You",
-      "url": "https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Don't Let Go",
-        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 269799,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 269799,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "Supply The Love",
         "url": "https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf"
       },
@@ -1503,6 +1503,26 @@
       "duration_ms": 155821,
       "name": "Supply The Love",
       "url": "https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Amplified Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "Missing - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1539,26 +1559,6 @@
       "duration_ms": 192386,
       "name": "Stay With You - Radio Version",
       "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Amplified Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "Missing - Todd Terry Remix",
-      "url": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Beaubien Dream",
+        "url": "https://open.spotify.com/album/1LEWPND2aRAZNw0U8qyqGJ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "duration_ms": 417749,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7mJvI2K63TtchC9Eyiia9W"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "Cinecitt\u00e0",
         "url": "https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 208358,
       "name": "Cinecitt\u00e0",
       "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Beaubien Dream",
-        "url": "https://open.spotify.com/album/1LEWPND2aRAZNw0U8qyqGJ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Holland",
-          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
-        }
-      ],
-      "duration_ms": 417749,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7mJvI2K63TtchC9Eyiia9W"
     }
   ],
   "unique_name": "Aperitivo Time",

@@ -4,7 +4,7 @@
 
 > Ist nur einmal im Jahr!
 
-85 songs - 4 hr 18 min
+86 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Ich liebe das Leben \- Stereoact \#Remix](https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L) | [Vicky Leandros](https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ich liebe das Leben \(Stereoact \#Remix\)](https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4) | 3:23 | 2023-07-14 |  |
 | [Ich schieß mich weg](https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Micha von der Rampe](https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w) | [Ich schieß mich weg](https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg) | 2:07 | 2023-08-28 |  |
 | [Ich schwanke noch](https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Ich schwanke noch](https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN) | 3:29 | 2023-07-14 |  |
+| [Igel](https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Igel](https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv) | 2:14 | 2023-09-18 |  |
 | [Inselfieber](https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS) | [Peter Wackel](https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb) | [Inselfieber](https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL) | 2:33 | 2023-07-14 |  |
 | [Johnny Däpp \(Ich will Mallorca zurück\)](https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Johnny Däpp \(Ich will Mallorca zurück\)](https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX) | 3:43 | 2023-07-14 |  |
 | [Kabinenparty](https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Nils\_Gucki](https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF) | [Kabinenparty](https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5) | 2:22 | 2023-07-14 |  |
@@ -79,7 +80,7 @@
 | [Rapunzel \- DJ Robin Remix](https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Rapunzel \(DJ Robin Remix\)](https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX) | 2:45 | 2023-07-14 |  |
 | [Saufen aufm Spielplatz](https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG) | [BroyS](https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [Saufen aufm Spielplatz](https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67) | 4:00 | 2023-07-14 |  |
 | [Saufi saufi](https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Saufi saufi](https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7) | 3:26 | 2023-07-14 |  |
-| [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 |  |
+| [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 | 2023-09-19 |
 | [Scheißegal, ich feier \- Radio Edit](https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg) | [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Scheißegal, ich feier \(Radio Edit\)](https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY) | 2:44 | 2023-07-14 |  |
 | [Senorita](https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD) | [Kay One](https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv), [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Senorita](https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk) | 3:58 | 2023-08-28 |  |
 | [So viel gemeinsam](https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [So viel gemeinsam](https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl) | 2:16 | 2023-07-14 | 2023-08-04 |

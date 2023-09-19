@@ -4,7 +4,7 @@
 
 > 
 
-1,440 songs - 3 day 9 hr 45 min
+1,441 songs - 3 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1070,6 +1070,7 @@
 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 | 2021-03-11 | 2022-04-16 |
 | [SEND IT!](https://open.spotify.com/track/3QcKhQwiyrQACTeb2pdi3u) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [SEND IT!](https://open.spotify.com/album/19hFTVuLUtQfYf4Z5FdFgj) | 2:31 | 2021-01-08 | 2022-04-12 |
 | [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 | 2022-07-28 | 2023-03-13 |
+| [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 | 2023-09-14 |  |
 | [September](https://open.spotify.com/track/3yrWiNA19yBryWRnC6KbVi) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Now, Then & Forever](https://open.spotify.com/album/2F38mVHMgDqQGQ955b64ID) | 3:36 | 2021-03-10 | 2022-04-10 |
 | [Shadow \(feat\. IRO\) \- From Songland](https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Shadow \(feat\. IRO\) \[From Songland\]](https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3) | 2:57 | 2019-10-25 | 2022-04-19 |
 | [Shake It Off](https://open.spotify.com/track/5WfhXulggG0c6WoVeMPA8N) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/6w36pmMA5bxECalu5rxQAw) | 3:39 | 2021-03-07 | 2021-05-22 |
@@ -1350,7 +1351,7 @@
 | [Walk Of Life](https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms \(Remastered\)](https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh) | 4:09 | 2019-07-29\* | 2022-04-15 |
 | [Walking On A Dream](https://open.spotify.com/track/3iVAyrTlbWGBq0laeQ18z2) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/6cMiYjMZ7ltJC3OyljYJO6) | 3:18 | 2021-05-16 | 2022-04-10 |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2022-10-27 |  |
-| [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2019-08-08 |  |
+| [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2019-08-08 | 2023-09-19 |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2019-08-02 | 2019-08-09 |
 | [Want You Back](https://open.spotify.com/track/2Pvr8rYuh5J8V7QglJhH6W) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Want You Back](https://open.spotify.com/album/3K2xMUXaUoOB5mBlXkKOTx) | 2:53 | 2019-08-26 | 2022-04-09 |
 | [Want You Back](https://open.spotify.com/track/2ixswrurtpfZHrx406eGgw) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something To Tell You](https://open.spotify.com/album/3EFSOzgqaOQqJCMAMMn4Cl) | 3:52 | 2019-08-05 | 2022-04-21 |

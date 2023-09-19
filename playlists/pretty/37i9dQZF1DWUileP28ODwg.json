@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave",
-  "num_followers": 315186,
+  "num_followers": 315439,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTk5MTU1Yzg1M2M4Nzc3ZjY4NjFlZWU5ZmE0N2U2NWI4M2M5MzE4",
+  "snapshot_id": "MCwzMWQ5YmJjNGYwNTBjMTkwNzA5ODVhNDA3NWE1YThhYjM1Y2YxNGU1",
   "tracks": [
     {
       "added_at": "2023-03-10 08:53:36",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 208691,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Build a Boat (feat. Gabby Barrett)",
         "url": "https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 196846,
       "name": "For God Is With Us",
       "url": "https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 208691,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 193091,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "A Hundred Highways",
         "url": "https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi"
       },
@@ -467,22 +451,6 @@
       "duration_ms": 234493,
       "name": "Heart of God",
       "url": "https://open.spotify.com/track/0XUOsMM0n3jRGzRgagPqGH"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Make It Through",
-        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 192196,
-      "name": "Make It Through",
-      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -503,6 +471,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 193091,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "God Is Good",
         "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 197800,
       "name": "God Is Good",
       "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Make It Through",
+        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 192196,
+      "name": "Make It Through",
+      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
+        "name": "I'll Fight for You",
+        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
+      "duration_ms": 167403,
+      "name": "I'll Fight for You",
+      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "I'll Fight for You",
-        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 167403,
-      "name": "I'll Fight for You",
-      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 172327,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Ain't Nobody",
-        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 213967,
-      "name": "Ain't Nobody - Radio Version",
-      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "The Love Of Jesus",
         "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 184883,
       "name": "The Love Of Jesus",
       "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 213967,
+      "name": "Ain't Nobody - Radio Version",
+      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Somebody Loves You",
-        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 191944,
-      "name": "Somebody Loves You",
-      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Fight On My Knees",
         "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
       },
@@ -1003,22 +987,6 @@
       "duration_ms": 188499,
       "name": "Fight On My Knees",
       "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Holy Spirit Come",
-        "url": "https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq"
-      },
-      "artists": [
-        {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
-        }
-      ],
-      "duration_ms": 243161,
-      "name": "How You Love Me",
-      "url": "https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1039,6 +1007,38 @@
       "duration_ms": 239431,
       "name": "Me on Your Mind",
       "url": "https://open.spotify.com/track/28WYdGMY9SGNfJ0SarLbxB"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Somebody Loves You",
+        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 191944,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Holy Spirit Come",
+        "url": "https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        }
+      ],
+      "duration_ms": 243161,
+      "name": "How You Love Me",
+      "url": "https://open.spotify.com/track/0gsuWWKdj8JjXEto69wKsd"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "I Will Carry You (Radio Version)",
-        "url": "https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "I Will Carry You - Radio Version",
-      "url": "https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Christ Our Hope In Life And Death",
         "url": "https://open.spotify.com/album/0hz5LRsLloj4raXH1EF3f1"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Friend In Jesus (Live)",
-        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
+        "name": "I Will Carry You (Radio Version)",
+        "url": "https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN"
       },
       "artists": [
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 348141,
-      "name": "Friend In Jesus - Live",
-      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
+      "duration_ms": 198906,
+      "name": "I Will Carry You - Radio Version",
+      "url": "https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1355,6 +1339,22 @@
       "duration_ms": 206048,
       "name": "Yours To Use",
       "url": "https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Friend In Jesus (Live)",
+        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 348141,
+      "name": "Friend In Jesus - Live",
+      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
     },
     {
       "added_at": "2023-03-10 08:53:36",

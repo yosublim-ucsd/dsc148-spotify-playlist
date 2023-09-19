@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Laurence\-Anne
 
-128 songs - 7 hr 29 min
+129 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 | 2023-02-10 | 2023-09-07 |
 | [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 | 2023-08-18 |  |
 | [Comfort, Edge](https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:43 | 2023-02-10 |  |
+| [Cool et branchée](https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cool et branchée](https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz) | 2:57 | 2023-09-08 |  |
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2023-02-10 |  |
 | [creusercreuser](https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [creusercreuser](https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP) | 4:17 | 2023-02-10 | 2023-04-21 |
 | [Dans tes rêves](https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Des feux pour voir](https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd) | 4:03 | 2023-02-10 | 2023-06-30 |
@@ -90,7 +91,7 @@
 | [N'importe Où Sauf Ici](https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [L'air d'aller \(Musique de la série télévisée\)](https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO) | 2:26 | 2023-08-18 |  |
 | [Nimueshtaten nete](https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Nimueshtaten nete](https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO) | 4:00 | 2023-02-10 | 2023-06-09 |
 | [Nos corps](https://open.spotify.com/track/2l8apbCCTwY4XpAjR57JW8) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Maladie d'amour](https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV) | 3:39 | 2023-02-10 |  |
-| [Nue](https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq) | [Sade Sati \(Deluxe\)](https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K) | 3:28 | 2023-07-07 |  |
+| [Nue](https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq) | [Sade Sati \(Deluxe\)](https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K) | 3:28 | 2023-07-07 | 2023-09-19 |
 | [Nyx](https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 3:07 | 2023-02-10 | 2023-07-01 |
 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 | 2023-02-10 |  |
 | [OMG \(oiseau\)](https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Totalement Sublime](https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td) | 4:03 | 2023-02-24 | 2023-03-25 |

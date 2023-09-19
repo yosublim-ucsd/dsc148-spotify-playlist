@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-105 songs - 6 hr 38 min
+106 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Arroz con coco](https://open.spotify.com/track/7h6jglJXxtDhjmCW2ANwBL) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [Lucho Bermúdez y Su Orquesta](https://open.spotify.com/album/2HBENhhnrO1W1CU75gDyoR) | 2:28 | 2021-10-20 |  |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-20 |  |
 | [Black Catbird](https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc) | 2:45 | 2021-10-20 |  |
-| [Bomba Atómica](https://open.spotify.com/track/5MoDPR7GwbH50w45ikDs8A) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow), [El Grupo Renacimiento](https://open.spotify.com/artist/6nKLOhfxHF891LIo15FQCZ) | [Meridian Brothers & El Grupo Renacimiento](https://open.spotify.com/album/7lH6L9KUFciaS90VDFaUNA) | 4:37 | 2023-01-07 |  |
+| [Bomba Atómica](https://open.spotify.com/track/5MoDPR7GwbH50w45ikDs8A) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow), [El Grupo Renacimiento](https://open.spotify.com/artist/6nKLOhfxHF891LIo15FQCZ) | [Meridian Brothers & El Grupo Renacimiento](https://open.spotify.com/album/7lH6L9KUFciaS90VDFaUNA) | 4:37 | 2023-01-07 | 2023-09-19 |
 | [Break Away](https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:06 | 2021-10-20 |  |
 | [Caminito](https://open.spotify.com/track/6g0HKbe7QjZTaBLAfgR8yL) | [Swing Original Monks](https://open.spotify.com/artist/1nV4bRtpwOUY2BAoxsLcpq) | [Somos](https://open.spotify.com/album/1nMVeppV67Pys7MZEoLj3T) | 3:48 | 2021-10-20 |  |
 | [Canción De Aplauso](https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [De La Canción](https://open.spotify.com/album/34uQVGKZI1DNPvBYiwHbch) | 3:06 | 2021-10-20 |  |
@@ -73,9 +73,10 @@
 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 | 2023-05-25 |  |
 | [Mamita Santa](https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mamita Santa](https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg) | 3:13 | 2022-01-14 |  |
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-04-01 |  |
+| [Me Estoy Poniendo Viejo](https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Me Estoy Poniendo Viejo](https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv) | 3:54 | 2023-02-28 |  |
 | [Me Robaron Mi Runa Mula](https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [El Gran Cacique](https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ) | 3:12 | 2021-10-20 |  |
 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 | 2023-03-16 |  |
-| [Mi Gran Noche](https://open.spotify.com/track/7Ce3RwQrxYwih27gpRjJhE) | [Aniceto y sus Fabulosos](https://open.spotify.com/artist/3sj4WDoPYnrkC4dg84UtG5) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:55 | 2021-10-20 |  |
+| [Mi Gran Noche](https://open.spotify.com/track/7Ce3RwQrxYwih27gpRjJhE) | [Aniceto y sus Fabulosos](https://open.spotify.com/artist/3sj4WDoPYnrkC4dg84UtG5) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:55 | 2021-10-20 | 2023-09-19 |
 | [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 | 2021-10-20 |  |
 | [Mientras Unos Mueren](https://open.spotify.com/track/4Au25kOuJcI84LrekAcikd) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Pase lo Que Pase](https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179) | 3:44 | 2021-10-20 |  |
 | [Mil Versiones](https://open.spotify.com/track/54KcGCuNHyFmL4kzIAr31s) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Mil Versiones](https://open.spotify.com/album/5icUeEDMPIULprCFm2hnh7) | 2:25 | 2021-10-20 |  |
@@ -86,7 +87,7 @@
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2021-10-20 |  |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-12 |  |
 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 | 2021-10-20 |  |
-| [Paga la Cuenta Sinverguenza](https://open.spotify.com/track/56PULupF5Gt50FyostKuMd) | [Manzanita](https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G) | [The Roots of Chicha 2](https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI) | 3:09 | 2021-10-20 | 2023-08-27 |
+| [Paga la Cuenta Sinverguenza](https://open.spotify.com/track/56PULupF5Gt50FyostKuMd) | [Manzanita](https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G) | [The Roots of Chicha 2](https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI) | 3:09 | 2021-10-20 |  |
 | [Para Elisa](https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX) | [Los Hermanos Zañartu](https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI) | [Enrique Delgado \(feat\. Enrique Delgado Montes\)](https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj) | 2:48 | 2021-10-20 |  |
 | [Paso Palante](https://open.spotify.com/track/3nK7fQHM7Gld1esyJmRf2h) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:05 | 2021-10-20 | 2023-09-13 |
 | [Pista \(Fresh Start\)](https://open.spotify.com/track/34DOledEvD7igMMVEWbaEO) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:22 | 2023-01-02 |  |

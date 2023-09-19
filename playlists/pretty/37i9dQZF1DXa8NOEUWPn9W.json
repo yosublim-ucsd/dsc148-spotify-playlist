@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Shermanology.",
-  "num_followers": 1895783,
+  "num_followers": 1897009,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmE5MjA0ZGVhMGM4ZmNkYTgwZmM2OGJjNjY5NmY4NGQ1ODQ5NTY3",
+  "snapshot_id": "MCwwYmYwNWE3NDM5MjJiNzU0NGFlM2JjMzA1ODRiNTM4N2IwZDE3MWM5",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Your Mind Is Dirty",
-        "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 198799,
-      "name": "Your Mind Is Dirty",
-      "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Fine Night",
         "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 161723,
       "name": "Fine Night",
       "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Your Mind Is Dirty",
+        "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 198799,
+      "name": "Your Mind Is Dirty",
+      "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1387,6 +1387,30 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/3reZq1pI5fbX7h724Bjoz2"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 127734,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/1LoGrm5coC2yXhofVni5Cp"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Feel It Deep Inside",
         "url": "https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG"
       },
@@ -1427,30 +1451,6 @@
       "duration_ms": 154176,
       "name": "U Ok?",
       "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/3reZq1pI5fbX7h724Bjoz2"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Quarterhead",
-          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 127734,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/1LoGrm5coC2yXhofVni5Cp"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1515,46 +1515,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Salvation",
-        "url": "https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "NEZ",
-          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7IVvaU7Jcv9fikTipL141a"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 157212,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/0mlT36UaCBdLk3eWBf1xP2"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Bucovina 2023",
         "url": "https://open.spotify.com/album/6bXo2rgz9XgOZEaSctxNDm"
       },
@@ -1575,6 +1535,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Giodisco",
         "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 163250,
       "name": "Giodisco",
       "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7IVvaU7Jcv9fikTipL141a"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 157212,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/0mlT36UaCBdLk3eWBf1xP2"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1655,6 +1655,26 @@
       "duration_ms": 153750,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Dance No More (with Kaleena Zanders)",
+        "url": "https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 202657,
+      "name": "Dance No More (with Kaleena Zanders)",
+      "url": "https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1771,46 +1791,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "If Love Is A Skill & Georgia",
-        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 217708,
-      "name": "If Love Is A Skill",
-      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Dance No More (with Kaleena Zanders)",
-        "url": "https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        }
-      ],
-      "duration_ms": 202657,
-      "name": "Dance No More (with Kaleena Zanders)",
-      "url": "https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "If Love Is A Skill & Georgia",
+        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 217708,
+      "name": "If Love Is A Skill",
+      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "What You Need",
-        "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Where You Are (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 282375,
       "name": "Where You Are - Gorgon City Remix",
       "url": "https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Love Me Right",
-        "url": "https://open.spotify.com/album/2KHcUTy2K9ZJnrpXrGKf16"
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         }
       ],
-      "duration_ms": 188671,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/3SfytvcxqoQWgITH0r9QY0"
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Love Me Right",
+        "url": "https://open.spotify.com/album/2KHcUTy2K9ZJnrpXrGKf16"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/3SfytvcxqoQWgITH0r9QY0"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "DRENCH",
         "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Throw Your Hands",
-        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 191408,
-      "name": "Throw Your Hands",
-      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Do You Feel It",
         "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 186625,
       "name": "Do You Feel It",
       "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Throw Your Hands",
+        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "Throw Your Hands",
+      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 274677,
-      "name": "Sun Showers",
-      "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Acid (All Night Long)",
         "url": "https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 153690,
       "name": "Acid (All Night Long)",
       "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 274677,
+      "name": "Sun Showers",
+      "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "NO GUEST LIST",
+        "url": "https://open.spotify.com/album/6bIbXBJvayhVzwRiCYDgSx"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 162562,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/6HWy1YDfSdPvJJ7DTDp8AP"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Take My Hand (feat. Josh Barry)",
         "url": "https://open.spotify.com/album/3FsMheFQtusAMlfV75Nbyc"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 171670,
       "name": "Take My Hand (feat. Josh Barry)",
       "url": "https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "NO GUEST LIST",
-        "url": "https://open.spotify.com/album/6bIbXBJvayhVzwRiCYDgSx"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 162562,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/6HWy1YDfSdPvJJ7DTDp8AP"
     },
     {
       "added_at": "2023-09-15 04:00:00",

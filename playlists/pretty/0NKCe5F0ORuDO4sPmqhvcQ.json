@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20948,
+  "num_followers": 20946,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA0NjAsNjk5ODdiODg5MzdhZDk0NDVkODExZjk0MmIxY2FkMjFhYmRlNmY2OQ==",
+  "snapshot_id": "MTA0NjMsOTQ0OGVhY2I1MGZiNzVjM2Q0MjZhMmQ4YzQ0YjI3MjU0ZDgzOTNiYQ==",
   "tracks": [
     {
       "added_at": "2023-09-01 20:06:07",
@@ -2219,6 +2219,62 @@
       "duration_ms": 182307,
       "name": "Motion",
       "url": "https://open.spotify.com/track/09Gw3c0YxUGPVCrj2GXbSF"
+    },
+    {
+      "added_at": "2023-09-18 20:28:22",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/5Zg9VxMehF1QbCRD2yMESc"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        }
+      ],
+      "duration_ms": 301200,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/3q27PHvmQDV2BURl1QaTte"
+    },
+    {
+      "added_at": "2023-09-18 20:28:33",
+      "album": {
+        "name": "want u",
+        "url": "https://open.spotify.com/album/7njdUxRgzPxUlUBHTYLR3r"
+      },
+      "artists": [
+        {
+          "name": "SENZA",
+          "url": "https://open.spotify.com/artist/6WjBgaTm4K1hVJ7KOfIs76"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "want u",
+      "url": "https://open.spotify.com/track/6nw4IaIhMiSsAiC0Wcij3U"
+    },
+    {
+      "added_at": "2023-09-18 22:22:00",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/0wtipOu4OobwJj0jJpIDZV"
+      },
+      "artists": [
+        {
+          "name": "Zidakara",
+          "url": "https://open.spotify.com/artist/1hTBatOhJ4f8nwdpny243e"
+        },
+        {
+          "name": "B-Dos",
+          "url": "https://open.spotify.com/artist/78XmtRqWV7RVWeYacvLJVx"
+        }
+      ],
+      "duration_ms": 147407,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6OXYxf6aGStPAF33xfbX4y"
     }
   ],
   "unique_name": "Moving Castle Monthly",

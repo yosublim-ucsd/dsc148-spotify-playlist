@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1052039,
+  "num_followers": 1052797,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTUwOTI4NDdlODI2YWI2MzVmOTM5ZDY2NTkwMjJmMjQwMzIxMmRm",
+  "snapshot_id": "MCxiYjliMThiY2NiNjQ4Y2NkNDM1NWQ1N2QzOTcwZTkxY2UwYTNkN2Y2",
   "tracks": [
     {
       "added_at": "2023-07-14 10:06:53",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Children (Dance Vault Mixes)",
         "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 252106,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -297,7 +297,7 @@
         }
       ],
       "duration_ms": 244093,
-      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+      "name": "Gonna Make You Sweat (Everybody Dance Now)",
       "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
     },
     {
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Movin' Melodies",
-        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "9Pm (Till I Come)",
-      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 264000,
       "name": "Dreams (Will Come Alive)",
       "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Movin' Melodies",
+        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "9Pm (Till I Come)",
+      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "The Party Album!",
         "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 236933,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -667,22 +667,6 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "L'Amour Toujour",
-        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "L'amour Toujours (Small Mix)",
-      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -747,6 +731,22 @@
       "duration_ms": 226773,
       "name": "Get A Way",
       "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "L'Amour Toujour",
+        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "L'amour Toujours (Small Mix)",
+      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Sandstorm",
-        "url": "https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Sandstorm - Radio Edit",
-      "url": "https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Ice 'n' Green",
         "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 255400,
       "name": "It's a Rainy Day",
       "url": "https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Sandstorm",
+        "url": "https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Sandstorm - Radio Edit",
+      "url": "https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
-      },
-      "artists": [
-        {
-          "name": "2 Brothers On The 4th Floor",
-          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
-        }
-      ],
-      "duration_ms": 351026,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 229573,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
       "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        }
+      ],
+      "duration_ms": 351026,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1043,6 +1043,22 @@
       "duration_ms": 243266,
       "name": "Let The Beat Go On - Short Version",
       "url": "https://open.spotify.com/track/0yaWNizxPgPE9E0bD31mcS"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "duration_ms": 209014,
+      "name": "Somebody Dance with Me",
+      "url": "https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1131,22 +1147,6 @@
       "duration_ms": 226933,
       "name": "Flying High - Radio Mix",
       "url": "https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 209014,
-      "name": "Somebody Dance with Me",
-      "url": "https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r"
     },
     {
       "added_at": "2023-07-14 10:06:53",

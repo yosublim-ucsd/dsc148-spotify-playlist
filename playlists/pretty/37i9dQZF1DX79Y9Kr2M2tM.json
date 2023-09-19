@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 847634,
+  "num_followers": 847728,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDNlMzhkZjdjNTFhNjU2YjBiMTMxN2Q5YjllODk4M2FlOTU0YzFk",
+  "snapshot_id": "MCxlY2JiNTYwYzlhMzJmNzJjN2JjODQzNjZiNTFjNDg1MzNkZWMzZTlh",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Where's My Love",
-        "url": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC"
+        "name": "Old Sea Brigade",
+        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
         }
       ],
-      "duration_ms": 239880,
-      "name": "Where's My Love - Acoustic",
-      "url": "https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ"
+      "duration_ms": 185746,
+      "name": "Love Brought Weight",
+      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Old Sea Brigade",
-        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
+        "name": "Where's My Love",
+        "url": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC"
       },
       "artists": [
         {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 185746,
-      "name": "Love Brought Weight",
-      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
+      "duration_ms": 239880,
+      "name": "Where's My Love - Acoustic",
+      "url": "https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Hard Believer",
         "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 310693,
       "name": "Looking Too Closely",
       "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 216252,
-      "name": "Top to Toe",
-      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 322040,
       "name": "The Wolves (Act I and II)",
       "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 216252,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 212826,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe"
       },
@@ -1023,6 +1039,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Do It All Again",
+        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Do It All Again",
+      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Anjunadeep 08",
         "url": "https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy"
       },
@@ -1043,38 +1075,6 @@
       "duration_ms": 214933,
       "name": "Hunger Of The Pine - Jody Wisternoff & James Grant Remix",
       "url": "https://open.spotify.com/track/6jrztnYIBYFo121nj0Oajx"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Do It All Again",
-        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Do It All Again",
-      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Melatonin (Unplugged)",
-        "url": "https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 325280,
-      "name": "Melatonin (Unplugged)",
-      "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/5QQVaIp7B4zABTIaEECseo"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 209585,
       "name": "The Grain",
       "url": "https://open.spotify.com/track/24At1pkaBi4P9PsbeeUttf"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Melatonin (Unplugged)",
+        "url": "https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 325280,
+      "name": "Melatonin (Unplugged)",
+      "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5JfZ1ndPZNDX3CoksYG2GN"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        },
-        {
-          "name": "John Raymond",
-          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
-        },
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 310107,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/4qgCo3MXhSQhDM8Aq1mXIu"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Branscombe",
         "url": "https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 207441,
       "name": "Cormorant Bird",
       "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5JfZ1ndPZNDX3CoksYG2GN"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        },
+        {
+          "name": "John Raymond",
+          "url": "https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 310107,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/4qgCo3MXhSQhDM8Aq1mXIu"
     },
     {
       "added_at": "2023-09-08 04:00:00",

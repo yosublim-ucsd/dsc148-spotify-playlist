@@ -2722,6 +2722,24 @@
     {
       "album": {
         "name": "Copacabana",
+        "url": "https://open.spotify.com/album/2aoZn4WaR7tmFKHb40p7Xw"
+      },
+      "artists": [
+        {
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/1f2WAWsmxx6JKrKTBO46UU"
+    },
+    {
+      "album": {
+        "name": "Copacabana",
         "url": "https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A"
       },
       "artists": [
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 244363,
       "name": "Moqueca",
       "url": "https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku"

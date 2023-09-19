@@ -688,7 +688,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 174297,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
@@ -710,6 +710,28 @@
       "duration_ms": 259458,
       "name": "Ca\u00f1onazos / la Esquina del Movimiento (En Vivo)",
       "url": "https://open.spotify.com/track/0CDu9iGvvkGHhm4UISaJtH"
+    },
+    {
+      "album": {
+        "name": "Chiquita",
+        "url": "https://open.spotify.com/album/3D1ujCJShDaTaZIZhAFBch"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
+        {
+          "name": "Benji Cordero",
+          "url": "https://open.spotify.com/artist/5NhE1pgahei4POWw4cIzJ3"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148320,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/263UaojVegiH2Hgp3D1dov"
     },
     {
       "album": {
@@ -1109,6 +1131,32 @@
     },
     {
       "album": {
+        "name": "Espacio",
+        "url": "https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203590,
+      "name": "Espacio",
+      "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
+    },
+    {
+      "album": {
         "name": "Estoy Enamorao",
         "url": "https://open.spotify.com/album/1Nmqx99fuiE1CPNmtLUJUu"
       },
@@ -1362,7 +1410,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 245202,
       "name": "La Invit\u00e9 a Bailar",
       "url": "https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1"

@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
@@ -1042,6 +1042,24 @@
       "duration_ms": 320173,
       "name": "Peace Be Still",
       "url": "https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B"
+    },
+    {
+      "album": {
+        "name": "Perfect Peace",
+        "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Perfect Peace",
+      "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
     },
     {
       "album": {

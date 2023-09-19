@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 285487,
+  "num_followers": 285532,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjJiZWRiZjc5OTAwMGM5NWMzMjZlNmQ2YTg2NmVhOTEzZWYzYjRi",
+  "snapshot_id": "MCxlZjc2ZjQ4ODdmZTFiNDUxYzhiMDY0ZTMyYmJlMmNmNjhkMzY2ZmQ2",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 269952,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
       },
@@ -147,18 +163,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3"
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
       },
       "artists": [
         {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
         }
       ],
-      "duration_ms": 269952,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi"
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -175,22 +191,6 @@
       "duration_ms": 242000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Bette Davis Eyes",
         "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 210000,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -385,6 +385,22 @@
       "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Stay - Spotify Singles",
+      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
+    },
+    {
       "added_at": "2023-08-08 14:58:46",
       "album": {
         "name": "Different Now",
@@ -403,22 +419,6 @@
       "duration_ms": 265772,
       "name": "Different Now",
       "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Stay - Spotify Singles",
-      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
     },
     {
-      "added_at": "2023-08-08 14:58:46",
-      "album": {
-        "name": "Soak Up The Sun",
-        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 304413,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "In My Life",
@@ -499,6 +483,22 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2023-08-08 14:58:46",
+      "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 304413,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
-        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 188694,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Dancing On My Own (triple j Like A Version)",
         "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 230553,
       "name": "Dancing On My Own - triple j Like A Version",
       "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
+        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 188694,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Life And Life Only (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "del mar county fair 2008",
         "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 174888,
       "name": "del mar county fair 2008",
       "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Life And Life Only (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Paul",
+        "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 187121,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
+    },
+    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Shivers",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Cooking",
-        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Cooking",
-      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Cooking",
+        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 171315,
+      "name": "Cooking",
+      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -827,22 +843,6 @@
       "duration_ms": 178928,
       "name": "Charm You - Blondshell Version",
       "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Paul",
-        "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 187121,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "keep your head up",
-        "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 206672,
-      "name": "keep your head up",
-      "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Thirteen",
@@ -923,6 +907,22 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "keep your head up",
+        "url": "https://open.spotify.com/album/5UMCnMfWmOo9Yc2Eu0L6xf"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 206672,
+      "name": "keep your head up",
+      "url": "https://open.spotify.com/track/1fC0O9vW5aDc3Oo5OqBCmL"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
-      },
-      "artists": [
-        {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 154869,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+      },
+      "artists": [
+        {
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+        }
+      ],
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "slow dancing in a burning room (stripped)",
-        "url": "https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx"
-      },
-      "artists": [
-        {
-          "name": "ST LUNA",
-          "url": "https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw"
-        }
-      ],
-      "duration_ms": 195578,
-      "name": "slow dancing in a burning room - stripped",
-      "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
-    },
-    {
       "added_at": "2023-07-20 17:51:58",
       "album": {
         "name": "Somebody Told Me",
@@ -1623,6 +1607,22 @@
       "duration_ms": 231242,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "slow dancing in a burning room (stripped)",
+        "url": "https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx"
+      },
+      "artists": [
+        {
+          "name": "ST LUNA",
+          "url": "https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw"
+        }
+      ],
+      "duration_ms": 195578,
+      "name": "slow dancing in a burning room - stripped",
+      "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
     },
     {
       "added_at": "2023-05-05 17:19:46",

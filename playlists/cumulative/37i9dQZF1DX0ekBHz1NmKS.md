@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-770 songs - 1 day 16 hr 43 min
+771 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-10-13 |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |
 | [Cold Shoulder](https://open.spotify.com/track/34snSDVVV1KB4bbTZjIB05) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Cold Shoulder](https://open.spotify.com/album/5gO8l10JAF0ONPQILQNJ0Z) | 3:04 | 2022-05-05 | 2022-07-17 |
-| [Cold Turkey](https://open.spotify.com/track/3f17XRSpPLhtdt3ofn56qG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Cold Turkey](https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc) | 2:33 | 2023-08-25 |  |
+| [Cold Turkey](https://open.spotify.com/track/3f17XRSpPLhtdt3ofn56qG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Cold Turkey](https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc) | 2:33 | 2023-08-25 | 2023-09-19 |
 | [Coldtrain](https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX) | [Caspar Camitz](https://open.spotify.com/artist/7Mymyw9vEuRvJKD9Fy919Q), [Katmanlo](https://open.spotify.com/artist/1jXMfZgRIg0JlqF5MMst97) | [By The End Of Coldtrain](https://open.spotify.com/album/4wFhlNN5WJ9hs33mFgTZaT) | 3:31 | 2021-12-16 | 2022-04-02 |
 | [Cool Kids](https://open.spotify.com/track/48w0n6R4pVu0gamM91ZQcE) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Cool Kids](https://open.spotify.com/album/5VctleKkq3DNVXv6zjcVzt) | 2:31 | 2022-03-10 | 2022-07-13 |
 | [Cool Me Down](https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:38 | 2022-06-21 | 2022-08-17 |
@@ -137,6 +137,7 @@
 | [Dansar på lakan](https://open.spotify.com/track/1Nhm9iD7DycxEiLzPjvSnV) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z) | [Dansar på lakan](https://open.spotify.com/album/7fkILnGxZDkcsnRVPjCcjS) | 3:11 | 2021-12-16 | 2022-01-10 |
 | [Dear Havanna](https://open.spotify.com/track/1Sd8I2aucIUkPHja16CDu1) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw), [Havanna Werner Johnson](https://open.spotify.com/artist/5Jv214x15UoVfHMo4LIpLU) | [Dear Havanna](https://open.spotify.com/album/10OeMzAgC6XD8qTAqtxrEb) | 2:57 | 2021-12-16 | 2022-03-31 |
 | [Death Of Me](https://open.spotify.com/track/5OLWoMycnrKMQIB5g6hjZw) | [Lance & Linton](https://open.spotify.com/artist/6M3rUPqXzEcBsKFl0f9q8c) | [Death Of Me](https://open.spotify.com/album/4Jv7YmMG9g5NyzUgQJzFSS) | 3:23 | 2021-12-16 | 2022-03-07 |
+| [Deep Down \- From the Film ‘Avgrunden’](https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Deep Down \(From the Film ‘Avgrunden’\)](https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u) | 2:47 | 2023-09-14 |  |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1bYVmrLMimVUcFa1dzeZE4) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 4:16 | 2023-09-08 |  |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Den här gången är det på riktigt](https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw) | 4:16 | 2023-02-23 | 2023-08-26 |
 | [Den sista](https://open.spotify.com/track/6T51Z4ZEUf8dRUvYbEhFuj) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Mattias Alkberg](https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE) | [Darkest Shade of Dark / Den sista](https://open.spotify.com/album/1ieRkdclQMGGYGZJwyJCW9) | 3:14 | 2021-12-16 | 2022-04-02 |

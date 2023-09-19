@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Debbii Dawson
 
-535 songs - 1 day 4 hr 30 min
+536 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [breakup with a friend](https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i) | 2:42 | 2023-04-28 | 2023-06-24 |
 | [Broken English](https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Broken English](https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA) | 3:02 | 2023-01-27 | 2023-05-06 |
 | [Brooklyn \- Stripped](https://open.spotify.com/track/3goLem0sEOQmKk29FWYx6q) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Brooklyn \(Stripped\)](https://open.spotify.com/album/1mOnHIpwGUAnU1jgbK3Ods) | 2:51 | 2022-01-14 | 2022-02-19 |
+| [buffalo](https://open.spotify.com/track/4ujsDQYYnvt4rWSVsQsy7C) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [buffalo](https://open.spotify.com/album/5I01Y9oTVDnSKFSg8T81F4) | 3:18 | 2023-09-18 |  |
 | [Bumble Bee](https://open.spotify.com/track/4GcMviwgxuwqGW552BSqoq) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Bumble Bee](https://open.spotify.com/album/1I2v5RJtr4Tt6yA7I1U1Rl) | 4:09 | 2022-12-23 | 2023-02-11 |
 | [Bumblebees and Blue Skies](https://open.spotify.com/track/0Bczbw2k63cjhOS078dXaF) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Bumblebees and Blue Skies](https://open.spotify.com/album/0OhZ0ZfAmshKSHDrxHALYW) | 5:16 | 2022-10-14 | 2022-12-24 |
 | [Burden](https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Burden](https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE) | 2:25 | 2023-02-17 | 2023-05-13 |
@@ -110,7 +111,7 @@
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 | 2022-10-08 |
 | [Convertible in the Rain](https://open.spotify.com/track/1fZ8mppAUR8G9DHzDd8nID) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Convertible in the Rain](https://open.spotify.com/album/4Ef3H9zyvX7nmOCnagOjpp) | 3:52 | 2022-11-04 | 2022-12-31 |
 | [Convince Myself](https://open.spotify.com/track/23s1QNkajTtC5kRbMCrWNE) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Convince Myself](https://open.spotify.com/album/2qnVx4SGCy5qlwefWAT1ig) | 3:02 | 2023-09-15 |  |
-| [Copout](https://open.spotify.com/track/3yrh9twRfAvbpwHw73qt92) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Copout](https://open.spotify.com/album/3rpxPx8NubbxauNXDTsFh8) | 2:38 | 2023-07-14 |  |
+| [Copout](https://open.spotify.com/track/3yrh9twRfAvbpwHw73qt92) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Copout](https://open.spotify.com/album/3rpxPx8NubbxauNXDTsFh8) | 2:38 | 2023-07-14 | 2023-09-19 |
 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-04-28 |  |
 | [Crying Over You](https://open.spotify.com/track/7oDnvOvNLM7tAHykuOrTse) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Crying Over You](https://open.spotify.com/album/1Iu3Bt2mXV9XOhIAnzJisS) | 2:43 | 2023-06-30 |  |
 | [Crystal Ball](https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Crystal Ball](https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7) | 3:35 | 2022-01-14 | 2022-02-26 |

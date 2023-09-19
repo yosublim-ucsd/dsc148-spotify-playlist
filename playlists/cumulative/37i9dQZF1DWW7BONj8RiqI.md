@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.
 
-325 songs - 17 hr 54 min
+326 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Feel The Love](https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC) | [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [YAGO](https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa) | 3:27 | 2022-08-18 | 2023-07-12 |
 | [Feel The Love](https://open.spotify.com/track/2XYPHD71AlPDFekVePLSC7) | [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [Feel The Love](https://open.spotify.com/album/43pDCKtWtKOUDYxUZkwPCP) | 3:27 | 2021-08-26 | 2022-12-19 |
 | [Fete Cyah Over](https://open.spotify.com/track/1oA7q6OHpUgRyV4cjs5Syy) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Fete Cyah Over](https://open.spotify.com/album/7yMiqo1Voc33P4nTalAoag) | 2:31 | 2022-02-24 | 2023-02-22 |
-| [Finally](https://open.spotify.com/track/5si9Jot7asAKQuELQj0cTu) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Finally](https://open.spotify.com/album/7sc88VHIHcEguKynwGbzb1) | 3:15 | 2023-07-11 |  |
+| [Finally](https://open.spotify.com/track/0flO097HnRPkoysVteTrLl) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Finally](https://open.spotify.com/album/2BnV1KPoLhuonvJYLHeik6) | 3:15 | 2023-08-11 |  |
+| [Finally](https://open.spotify.com/track/5si9Jot7asAKQuELQj0cTu) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Finally](https://open.spotify.com/album/7sc88VHIHcEguKynwGbzb1) | 3:15 | 2023-07-11 | 2023-09-19 |
 | [First Fete](https://open.spotify.com/track/45JWRO1iDr4jkhpXSxMXVG) | [Marvelus](https://open.spotify.com/artist/5p6jMuErecfkJtueqF72zo), [Nadia Batson](https://open.spotify.com/artist/6aEtv45FW57jvZXOwbJgF0) | [Daruma Riddim](https://open.spotify.com/album/5Nats3Xv3emqbAvaXsBd7K) | 3:30 | 2022-08-18 | 2023-02-22 |
 | [Fling Bam Bam](https://open.spotify.com/track/19kJGPG46e0AoKQLTurWMv) | [Terri Lyons](https://open.spotify.com/artist/54Pc87vBkLMKbQfrd7ZWxF) | [Boss Level Riddim](https://open.spotify.com/album/10JM7uuHU8vIjQvkGvkQb6) | 3:02 | 2022-02-24 | 2022-08-19 |
 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 | 2023-02-21 | 2023-05-16 |

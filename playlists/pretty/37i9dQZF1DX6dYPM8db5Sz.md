@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs?si=\-WcH5l06TfefXYBiX2jQlA">Yung Beathoven</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,167 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,192 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 64 | [Strangers Arms](https://open.spotify.com/track/2xWiyPS3nrRBCNuvPdJh4n) | [The Breeze](https://open.spotify.com/artist/3usNfpEWJMyOD1K2NJkGU8) | [Strangers Arms](https://open.spotify.com/album/5sDM9mCBGIEsBa8H3imZy5) | 4:32 |
 | 65 | [MESSED UP KIDS](https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [MESSED UP KIDS](https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L) | 2:57 |
 
-Snapshot ID: `MCw4NGQ3NjkxNDIyOWQ2NDcyODAyNzUzYWFkZDgyZDdmOWVlNDg1NjZi`
+Snapshot ID: `MCwxZDA5ZmU1MzgxZWY0Y2FlYzE1YzRmNGNkNmVkYTlhM2I5YjViMmMx`

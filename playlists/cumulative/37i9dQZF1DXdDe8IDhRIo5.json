@@ -1436,10 +1436,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 243382,
       "name": "Place du Swing",
       "url": "https://open.spotify.com/track/6yEqWdVTUt0wvOp1Ycs1sN"
+    },
+    {
+      "album": {
+        "name": "Salut du Combo",
+        "url": "https://open.spotify.com/album/4rtN36lSpDvxHr0JPIf2uF"
+      },
+      "artists": [
+        {
+          "name": "Greg Ruby",
+          "url": "https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7"
+        },
+        {
+          "name": "Steve Rice",
+          "url": "https://open.spotify.com/artist/0q1LMzk9N688736AFf4146"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243382,
+      "name": "Place du Swing",
+      "url": "https://open.spotify.com/track/7g55UW2Aln5Kx2aHDyhVxL"
     },
     {
       "album": {

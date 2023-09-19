@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 272295,
+  "num_followers": 272357,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjA0NTc4ZmM0MDMwMmU0Njk4M2FmZjFhMDgyNTU1ZTVmYjA2NThi",
+  "snapshot_id": "MCwyMjc5MWZmMzdkMzdlMTExNWM2NDA4ZjI4NWVmOTBlYjFmYTg1NDYz",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -563,6 +563,26 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
+        "name": "No More Idols",
+        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
         "name": "Deep Down Low",
         "url": "https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 349090,
       "name": "Finder",
       "url": "https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "No More Idols",
-        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv"
-        }
-      ],
-      "duration_ms": 260426,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o"
     },
     {
       "added_at": "2020-11-06 16:59:04",

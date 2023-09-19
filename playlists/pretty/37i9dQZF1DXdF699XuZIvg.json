@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 690516,
+  "num_followers": 691440,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDQwZjcxYTFkYWFiZmEyY2JiMWM3MTNhYWEyYWJlYjJmYTE5YjY5",
+  "snapshot_id": "MCxmNTQ3YWJlYWFjNzJkNTlmOTIzNjZiNzQ4NmY3M2I1YmUxNDQyZjM2",
   "tracks": [
     {
       "added_at": "2023-09-07 08:27:38",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-07 08:27:38",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
-    },
-    {
-      "added_at": "2023-09-07 08:27:38",
-      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 265560,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"
+    },
+    {
+      "added_at": "2023-09-07 08:27:38",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2023-09-07 08:27:38",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-09-07 08:27:38",
       "album": {
-        "name": "Love At First Sting (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/14kTyafNZvlbn586zryGww"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 253666,
-      "name": "Rock You Like a Hurricane - 2015 - Remaster",
-      "url": "https://open.spotify.com/track/2fICdpdRotwfmGYzvs8Ngf"
-    },
-    {
-      "added_at": "2023-09-07 08:27:38",
-      "album": {
         "name": "Kinks (Deluxe)",
         "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 141506,
       "name": "All Day and All of the Night",
       "url": "https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm"
+    },
+    {
+      "added_at": "2023-09-07 08:27:38",
+      "album": {
+        "name": "Love At First Sting (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/14kTyafNZvlbn586zryGww"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 253666,
+      "name": "Rock You Like a Hurricane - 2015 - Remaster",
+      "url": "https://open.spotify.com/track/2fICdpdRotwfmGYzvs8Ngf"
     },
     {
       "added_at": "2023-09-07 08:27:38",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-07 08:27:38",
       "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 269733,
-      "name": "Fuel",
-      "url": "https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC"
-    },
-    {
-      "added_at": "2023-09-07 08:27:38",
-      "album": {
         "name": "Screaming For Vengeance (Expanded Edition)",
         "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 310080,
       "name": "You've Got Another Thing Coming",
       "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
+    },
+    {
+      "added_at": "2023-09-07 08:27:38",
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC"
     },
     {
       "added_at": "2023-09-07 08:27:38",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-07 08:27:38",
       "album": {
-        "name": "Piece of Mind (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
-    },
-    {
-      "added_at": "2023-09-07 08:27:38",
-      "album": {
         "name": "Highway to Hell",
         "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2023-09-07 08:27:38",
       "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+        "name": "Piece of Mind (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 304893,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
     },
     {
       "added_at": "2023-09-07 08:27:38",
@@ -911,6 +895,22 @@
     {
       "added_at": "2023-09-07 08:27:38",
       "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 304893,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
+    },
+    {
+      "added_at": "2023-09-07 08:27:38",
+      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 176306,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"
-    },
-    {
-      "added_at": "2023-09-07 08:27:38",
-      "album": {
-        "name": "Them Crooked Vultures",
-        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
-      },
-      "artists": [
-        {
-          "name": "Them Crooked Vultures",
-          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "New Fang",
-      "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
     },
     {
       "added_at": "2023-09-07 08:27:38",
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-09-07 08:27:38",
       "album": {
-        "name": "The Number of the Beast (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
+        "name": "Them Crooked Vultures",
+        "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Them Crooked Vultures",
+          "url": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO"
         }
       ],
-      "duration_ms": 233506,
-      "name": "Run to the Hills - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
+      "duration_ms": 228639,
+      "name": "New Fang",
+      "url": "https://open.spotify.com/track/7uJLdyIAaYLGT0oLw7I6b3"
     },
     {
       "added_at": "2023-09-07 08:27:38",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-09-07 08:27:38",
       "album": {
+        "name": "The Number of the Beast (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Run to the Hills - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
+    },
+    {
+      "added_at": "2023-09-07 08:27:38",
+      "album": {
         "name": "Let the Vultures In",
         "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-07 08:27:38",
       "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
-    },
-    {
-      "added_at": "2023-09-07 08:27:38",
-      "album": {
         "name": "Billy Talent",
         "url": "https://open.spotify.com/album/4Z4FErymthnN4ctJdKRgko"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 255813,
       "name": "Try Honesty",
       "url": "https://open.spotify.com/track/3fPSHjVO4iwwGEhHvTwlNb"
+    },
+    {
+      "added_at": "2023-09-07 08:27:38",
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
     },
     {
       "added_at": "2023-09-07 08:27:38",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-07 08:27:38",
       "album": {
-        "name": "Bogus Operandi",
-        "url": "https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 223785,
-      "name": "Bogus Operandi",
-      "url": "https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I"
-    },
-    {
-      "added_at": "2023-09-07 08:27:38",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 146596,
       "name": "Go",
       "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
+    },
+    {
+      "added_at": "2023-09-07 08:27:38",
+      "album": {
+        "name": "Tyrannosaurus Hives",
+        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 120506,
+      "name": "Two-Timing Touch and Broken Bones",
+      "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
     },
     {
       "added_at": "2023-09-07 08:27:38",

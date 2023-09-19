@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 148921,
+  "num_followers": 148956,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGM0MWVlYTczN2M4NzI1MjdkNTcwOGU1ZGMxODlmZTY3MjE3YjY4",
+  "snapshot_id": "MCxhOTViMGJmMjFhZWE3ZGZkY2VhOWRhYjAwZDE5NGExZjRiMTNkOGJl",
   "tracks": [
     {
       "added_at": "2023-08-03 20:17:12",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 189906,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "Little Voice",
         "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 232760,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 138546,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Love Her",
-      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "Love on the Weekend",
         "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Love Her",
+      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Matters of the Heart",
-        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
-      },
-      "artists": [
-        {
-          "name": "RuthAnne",
-          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "The Vow",
-      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 217161,
       "name": "6 months",
       "url": "https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "Matters of the Heart",
+        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "The Vow",
+      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "ii",
-        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 178476,
-      "name": "Thin",
-      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "A Song For Every Moon",
         "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 205029,
       "name": "Just The Same",
       "url": "https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 178476,
+      "name": "Thin",
+      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
         "name": "Somebody Loved",
         "url": "https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL"
       },
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 203546,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
+      "duration_ms": 218946,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1639,22 +1655,6 @@
       "duration_ms": 173682,
       "name": "Be Kind (with Halsey) [Stripped]",
       "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "Collections From The Whiteout",
         "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 257773,
       "name": "What A Day - Edit",
       "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Songs For You, Truths For Me",
-        "url": "https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN"
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
       "artists": [
         {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         }
       ],
-      "duration_ms": 211400,
-      "name": "You Make It Real",
-      "url": "https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW"
+      "duration_ms": 183591,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU"
     }
   ],
   "unique_name": "Ren hygge",

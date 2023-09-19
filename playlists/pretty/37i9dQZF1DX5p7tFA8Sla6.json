@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 51900,
+  "num_followers": 51922,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGFhYTRiM2UyNDBiYTYzNDc2Mzc0NjQ1OWE4NTY5ZGFiY2RmMDg2",
+  "snapshot_id": "MCw3NDNiOWEyY2JiNTkzMGQwM2MxODQ5NjQ2ODgyMTAzMDIzNDQ0ZWFh",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -179,22 +179,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Superfly (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
         "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
@@ -207,22 +191,6 @@
       "duration_ms": 287000,
       "name": "Let It Whip",
       "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "In the Stone",
-      "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -243,18 +211,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Zapp",
-        "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
+        "name": "Superfly (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
       "artists": [
         {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 311120,
-      "name": "More Bounce to the Ounce",
-      "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
+      "duration_ms": 233600,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -271,6 +239,38 @@
       "duration_ms": 346666,
       "name": "Flash Light",
       "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "In the Stone",
+      "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Zapp",
+        "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
+      },
+      "artists": [
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+        }
+      ],
+      "duration_ms": 311120,
+      "name": "More Bounce to the Ounce",
+      "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -515,22 +515,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Bustin' Loose",
-        "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
-      },
-      "artists": [
-        {
-          "name": "Chuck Brown and the Soul Searchers",
-          "url": "https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu"
-        }
-      ],
-      "duration_ms": 462466,
-      "name": "Bustin' Loose",
-      "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Get On The Good Foot",
         "url": "https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi"
       },
@@ -543,6 +527,38 @@
       "duration_ms": 176973,
       "name": "Cold Sweat",
       "url": "https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 461160,
+      "name": "P-Funk (Wants To Get Funked Up)",
+      "url": "https://open.spotify.com/track/0GIfaHgivfBCV67eYF996A"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Bustin' Loose",
+        "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
+      },
+      "artists": [
+        {
+          "name": "Chuck Brown and the Soul Searchers",
+          "url": "https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu"
+        }
+      ],
+      "duration_ms": 462466,
+      "name": "Bustin' Loose",
+      "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -595,22 +611,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 461160,
-      "name": "P-Funk (Wants To Get Funked Up)",
-      "url": "https://open.spotify.com/track/0GIfaHgivfBCV67eYF996A"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "If It Ain't Funky Back It Up",
         "url": "https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5"
       },
@@ -659,6 +659,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Back In The Day: The Best Of Bootsy",
+        "url": "https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 339373,
+      "name": "Bootzilla",
+      "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Tuxedo III",
         "url": "https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 186348,
       "name": "A Message from the Meters",
       "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Back In The Day: The Best Of Bootsy",
-        "url": "https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 339373,
-      "name": "Bootzilla",
-      "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -763,22 +763,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Everybody Want Sum",
-        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        }
-      ],
-      "duration_ms": 288253,
-      "name": "Sheez Music",
-      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Tuxedo II",
         "url": "https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "What We Got Together",
-        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
+        "name": "Everybody Want Sum",
+        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
       },
       "artists": [
         {
-          "name": "Brother Strut",
-          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
         }
       ],
-      "duration_ms": 155933,
-      "name": "Funk That Junk",
-      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
+      "duration_ms": 288253,
+      "name": "Sheez Music",
+      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -823,6 +807,22 @@
       "duration_ms": 362733,
       "name": "Yes We Can Can",
       "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "What We Got Together",
+        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
+      },
+      "artists": [
+        {
+          "name": "Brother Strut",
+          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Funk That Junk",
+      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -935,22 +935,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "My Radio Sure Sounds Good To Me",
-        "url": "https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq"
-      },
-      "artists": [
-        {
-          "name": "Larry Graham & Graham Central Station",
-          "url": "https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5"
-        }
-      ],
-      "duration_ms": 227946,
-      "name": "Boogie Witcha, Baby",
-      "url": "https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Controversy",
         "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 234800,
       "name": "Let's Work",
       "url": "https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "My Radio Sure Sounds Good To Me",
+        "url": "https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq"
+      },
+      "artists": [
+        {
+          "name": "Larry Graham & Graham Central Station",
+          "url": "https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5"
+        }
+      ],
+      "duration_ms": 227946,
+      "name": "Boogie Witcha, Baby",
+      "url": "https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Sign \"O\" the Times",
-        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 282106,
-      "name": "Housequake",
-      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Greatest Of Pleasure",
         "url": "https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 387893,
       "name": "Joyous",
       "url": "https://open.spotify.com/track/4yVKYKv0qoS66bU4KQUsLe"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 282106,
+      "name": "Housequake",
+      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq"
     },
     {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Third Wall Chronicles",
-        "url": "https://open.spotify.com/album/34YrKUuESihhNFM1HzXInQ"
-      },
-      "artists": [
-        {
-          "name": "Pimps of Joytime",
-          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "This Funk (Give Me a Hand)",
-      "url": "https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U"
-    },
-    {
       "added_at": "2019-09-20 18:17:51",
       "album": {
         "name": "Shake It",
@@ -1143,6 +1127,22 @@
       "duration_ms": 177080,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/1apfl27W9ell44IcK6Wb1t"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Third Wall Chronicles",
+        "url": "https://open.spotify.com/album/34YrKUuESihhNFM1HzXInQ"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "This Funk (Give Me a Hand)",
+      "url": "https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U"
     },
     {
       "added_at": "2019-09-06 07:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Death Or Devotion",
-      "url": "https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Breaks from the Border",
         "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 191160,
       "name": "Take What You Need",
       "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Death Or Devotion",
+      "url": "https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Afterlife Vol. 2 - EP",
+        "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Mister Man",
+      "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Vs.",
         "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 233491,
       "name": "Do It with Soul",
       "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Afterlife Vol. 2 - EP",
-        "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Mister Man",
-      "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Chasing Gold",
+        "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wilson",
+          "url": "https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk"
+        }
+      ],
+      "duration_ms": 274237,
+      "name": "Word Is Out",
+      "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Lab Experiments, Vol. 2",
         "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 211615,
       "name": "Warning",
       "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Chasing Gold",
-        "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wilson",
-          "url": "https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk"
-        }
-      ],
-      "duration_ms": 274237,
-      "name": "Word Is Out",
-      "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
     },
     {
       "added_at": "2019-08-22 14:26:16",

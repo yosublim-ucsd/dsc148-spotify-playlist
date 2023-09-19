@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Vagabon
 
-5,859 songs - 14 day 6 hr 46 min
+5,860 songs - 14 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2991,7 +2991,8 @@
 | [Let's See](https://open.spotify.com/track/3WGPaB4zs0wYETPVDSionA) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Let's See](https://open.spotify.com/album/2j4ZsXbej8YnGsDaNNW8Ty) | 4:59 | 2020-07-03 | 2020-07-18 |
 | [Let's Try This Again](https://open.spotify.com/track/61wN5H9ijd5gZ3wR5e2zDv) | [eliza elliott](https://open.spotify.com/artist/0HLxtYwwRy4qx1r8utJRAq) | [Let's Try This Again](https://open.spotify.com/album/5910XemVAodsss8PX7PoBo) | 3:08 | 2023-01-27 | 2023-03-04 |
 | [Level Head](https://open.spotify.com/track/5lBsVrEkjH2a76DG6ZFeLp) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Level Head](https://open.spotify.com/album/2ejrBQwJFtyCepDGw0KfKA) | 3:58 | 2020-11-20 | 2021-01-23 |
-| [Lexicon](https://open.spotify.com/track/70aDp1WRRHjSO2EFYvFgLK) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Lexicon](https://open.spotify.com/album/7yco9Vsq2MAOlHx9xaju0N) | 2:57 | 2023-09-15 |  |
+| [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-15 |  |
+| [Lexicon](https://open.spotify.com/track/70aDp1WRRHjSO2EFYvFgLK) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Lexicon](https://open.spotify.com/album/7yco9Vsq2MAOlHx9xaju0N) | 2:57 | 2023-09-15 | 2023-09-19 |
 | [ley lines](https://open.spotify.com/track/7rxKw7YGU0sdk1SWPfxnm5) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [ley lines](https://open.spotify.com/album/0IraxrE9AO91GkUZCd85Y8) | 3:49 | 2019-07-12 | 2019-08-02 |
 | [LI\(AR\)](https://open.spotify.com/track/0MiKKfCxpWxsf8ur3YAKyg) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [honest red](https://open.spotify.com/album/4Ngf93EC3XujEo0qRdawk0) | 2:15 | 2020-10-09 | 2020-10-30 |
 | [Library \(feat\. Purr\)](https://open.spotify.com/track/0vdrHnhtRum6HGlsTlUXmL) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Library \(feat\. Purr\)](https://open.spotify.com/album/3TJ5rdwJK40WRdzTMMK0gs) | 2:39 | 2023-07-21 | 2023-08-19 |

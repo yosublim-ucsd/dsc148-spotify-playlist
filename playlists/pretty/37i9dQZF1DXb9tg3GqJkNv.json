@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: FRVRFRIDAY",
-  "num_followers": 7498,
+  "num_followers": 7526,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzUwNmZiNjIxNjViZWE1OGI1ZTQ5MjZiN2RlY2E4MTQ4ZjdmODU5",
+  "snapshot_id": "MCw5YmE1MTRlNjZiMjNjM2NhMTFhZWE1NTE5NjE1ODczOWI4NGZjOGNk",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -199,6 +199,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Champion (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "EXCEPTIONAL",
         "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 232122,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "RECKLESS",
-        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Champion (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Killamonjaro",
         "url": "https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB"
       },
@@ -607,18 +587,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Pause Play",
-        "url": "https://open.spotify.com/album/1fzRm9tToQXOf1GwXWP0MT"
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
       },
       "artists": [
         {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
         }
       ],
-      "duration_ms": 164466,
-      "name": "Pause Play",
-      "url": "https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ"
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -683,6 +667,22 @@
       "duration_ms": 206600,
       "name": "Better Believe (ft The Weeknd)",
       "url": "https://open.spotify.com/track/2WN7xpcY4zmcqF57HFEGZY"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Pause Play",
+        "url": "https://open.spotify.com/album/1fzRm9tToQXOf1GwXWP0MT"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Pause Play",
+      "url": "https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Bionic Man",
-        "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
-      },
-      "artists": [
-        {
-          "name": "BVB",
-          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
-        },
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bionic Man",
-      "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Northside Jane",
         "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 228388,
       "name": "Late Nights",
       "url": "https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Bionic Man",
+        "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
+      },
+      "artists": [
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        },
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bionic Man",
+      "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "30,000 ft",
+        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        },
+        {
+          "name": "Dj Charlie B",
+          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+        }
+      ],
+      "duration_ms": 157873,
+      "name": "30,000 ft",
+      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 245093,
       "name": "Realest In the City (feat. Meek Mill & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "30,000 ft",
-        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        },
-        {
-          "name": "Dj Charlie B",
-          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
-        }
-      ],
-      "duration_ms": 157873,
-      "name": "30,000 ft",
-      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
-      },
-      "artists": [
-        {
-          "name": "LocoCity",
-          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
-        }
-      ],
-      "duration_ms": 139213,
-      "name": "Job Done",
-      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "While You on Road",
         "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 182535,
       "name": "While You on Road",
       "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
+      },
+      "artists": [
+        {
+          "name": "LocoCity",
+          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
+        }
+      ],
+      "duration_ms": 139213,
+      "name": "Job Done",
+      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
     },
     {
       "added_at": "2023-09-15 04:00:00",

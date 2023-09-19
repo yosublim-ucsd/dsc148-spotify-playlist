@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 104301,
+  "num_followers": 104386,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNThmNzFjOTM5MWZkNGM1MzYzYzg0NzUzN2I0YmVlZmM5YjU4ZmVk",
+  "snapshot_id": "MCw1YzE1OTFiYmI2MGNiYjU5ZDExZTA5NzJhZTJmODUwNTkzNzM1M2Zk",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0"
-      },
-      "artists": [
-        {
-          "name": "Slumberville",
-          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
-        }
-      ],
-      "duration_ms": 116417,
-      "name": "Ladybug",
-      "url": "https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Heliolingus",
         "url": "https://open.spotify.com/album/2lLzW831DY8i0fHoDeSAF0"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 172356,
       "name": "Heliolingus",
       "url": "https://open.spotify.com/track/27Z1479QzFOWOaSRbWpgEu"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0"
+      },
+      "artists": [
+        {
+          "name": "Slumberville",
+          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
+        }
+      ],
+      "duration_ms": 116417,
+      "name": "Ladybug",
+      "url": "https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Woo Luv : Guitars & Emo Trap (Instrumental)",
-        "url": "https://open.spotify.com/album/7j0aJqD2B3VvPYPzlSSyOc"
-      },
-      "artists": [
-        {
-          "name": "LBandy",
-          "url": "https://open.spotify.com/artist/0KgDFmrEx0ezsgblUjCxoA"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Papi - Instrumental",
-      "url": "https://open.spotify.com/track/1VeFGeFeMw607RUCZKzgJa"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "west",
         "url": "https://open.spotify.com/album/2KRk8B1FmtNsMJQAVPsauR"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 177882,
       "name": "west",
       "url": "https://open.spotify.com/track/53euCZa2GQ6kN18ZxU1dbf"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Woo Luv : Guitars & Emo Trap (Instrumental)",
+        "url": "https://open.spotify.com/album/7j0aJqD2B3VvPYPzlSSyOc"
+      },
+      "artists": [
+        {
+          "name": "LBandy",
+          "url": "https://open.spotify.com/artist/0KgDFmrEx0ezsgblUjCxoA"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Papi - Instrumental",
+      "url": "https://open.spotify.com/track/1VeFGeFeMw607RUCZKzgJa"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/49khuIg6AMmQiF98bSxiSi"
-      },
-      "artists": [
-        {
-          "name": "Mad Q",
-          "url": "https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4"
-        }
-      ],
-      "duration_ms": 144049,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/2YOLzRGMjNSgZ3KZimG2Rg"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Targa",
         "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
       },
@@ -399,26 +383,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "The Ace",
-        "url": "https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/49khuIg6AMmQiF98bSxiSi"
       },
       "artists": [
         {
-          "name": "Ballpoint",
-          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
-        },
-        {
-          "name": "Cushy",
-          "url": "https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q"
-        },
-        {
-          "name": "_91nova",
-          "url": "https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2"
+          "name": "Mad Q",
+          "url": "https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4"
         }
       ],
-      "duration_ms": 144968,
-      "name": "The Ace",
-      "url": "https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6"
+      "duration_ms": 144049,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/2YOLzRGMjNSgZ3KZimG2Rg"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -487,6 +463,30 @@
       "duration_ms": 195353,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "The Ace",
+        "url": "https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        },
+        {
+          "name": "Cushy",
+          "url": "https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q"
+        },
+        {
+          "name": "_91nova",
+          "url": "https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2"
+        }
+      ],
+      "duration_ms": 144968,
+      "name": "The Ace",
+      "url": "https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -723,18 +723,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Stay at Home",
-        "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
+        "name": "tv-guides . (mini-tape)",
+        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
       },
       "artists": [
         {
-          "name": "ElNasser",
-          "url": "https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R"
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Stay at Home",
-      "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
+      "duration_ms": 79911,
+      "name": "yoyogi park",
+      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Stay at Home",
+        "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
+      },
+      "artists": [
+        {
+          "name": "ElNasser",
+          "url": "https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Stay at Home",
+      "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Skye",
         "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 190098,
       "name": "Skye",
       "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "tv-guides . (mini-tape)",
-        "url": "https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 79911,
-      "name": "yoyogi park",
-      "url": "https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Mawj",
-        "url": "https://open.spotify.com/album/3ylLnuEqOipXkEbJcHGj7W"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 207274,
-      "name": "Mawj",
-      "url": "https://open.spotify.com/track/4x7i7pSaI036ZYYeTwBLou"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Farmingdale",
         "url": "https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 180427,
       "name": "Farmingdale",
       "url": "https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Mawj",
+        "url": "https://open.spotify.com/album/3ylLnuEqOipXkEbJcHGj7W"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 207274,
+      "name": "Mawj",
+      "url": "https://open.spotify.com/track/4x7i7pSaI036ZYYeTwBLou"
     },
     {
       "added_at": "2022-03-22 11:23:16",

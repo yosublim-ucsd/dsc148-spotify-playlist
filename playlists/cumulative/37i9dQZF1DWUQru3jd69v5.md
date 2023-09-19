@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Philip
 
-722 songs - 1 day 7 hr 25 min
+723 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [MALAGA](https://open.spotify.com/track/2wP2hvc5vEG37UPcHLJbDM) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [MALAGA](https://open.spotify.com/album/6k1CQrZESTG1mNk9plWqmK) | 2:28 | 2023-09-14 |  |
 | [Malaga](https://open.spotify.com/track/5z4h4xGcFDkCz3bqhWolE2) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Malaga](https://open.spotify.com/album/4IziXI7cFEh03rNQUjxMul) | 2:24 | 2022-05-10 | 2022-07-27 |
 | [Maledette vie](https://open.spotify.com/track/1vR6UrRJD9quE4aIrO08In) | [Young Rame](https://open.spotify.com/artist/2Nl7TO1yi0ambHrlfQORgv), [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Maledette vie](https://open.spotify.com/album/6XPdshvT5iqqposfyo5ndb) | 2:59 | 2022-09-15 | 2022-10-07 |
-| [MALESSERE](https://open.spotify.com/track/545rFGADsAjNGw7Nb0fDUe) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [MALESSERE](https://open.spotify.com/album/1Dwq1mXGAe79jZ1U7KHWq6) | 2:28 | 2023-08-24 |  |
+| [MALESSERE](https://open.spotify.com/track/545rFGADsAjNGw7Nb0fDUe) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [MALESSERE](https://open.spotify.com/album/1Dwq1mXGAe79jZ1U7KHWq6) | 2:28 | 2023-08-24 | 2023-09-19 |
 | [Malibu](https://open.spotify.com/track/0SCAm0DyhJPONFltMDKJJb) | [Tauro](https://open.spotify.com/artist/1JKavBKQ99guFMeGJvoa07), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Logos.Lux](https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T) | [Malibu](https://open.spotify.com/album/0fIE4KFPFs9gJaDmLFLHbK) | 2:44 | 2022-07-15 | 2022-09-30 |
 | [Malocchio](https://open.spotify.com/track/376OdDXazc3256d9hK9nDR) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Malocchio](https://open.spotify.com/album/18mWjO7193KO63NSWaJ9y7) | 2:49 | 2023-05-18 | 2023-06-02 |
 | [MALOCCHIO \#1](https://open.spotify.com/track/4GlnTz0XDB3saXOYGubuml) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [MALOCCHIO \#1](https://open.spotify.com/album/2RgRIgtrFOweJ9jPWeix2P) | 1:13 | 2023-05-25 | 2023-06-09 |
@@ -493,6 +493,7 @@
 | [PAGA \(feat\. Kerim Levrai, Orfedi, MadPrince, Marsiglia\)](https://open.spotify.com/track/5twuziyJFCD8Z47wkgKB3M) | [GROUP5](https://open.spotify.com/artist/2hx4C3GnYXZh96qs9jgZFu), [Kerim Levrai](https://open.spotify.com/artist/2snabMyKqMDWa5rbHSP1ta), [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [Marsiglia](https://open.spotify.com/artist/360DKtml0W70xlAGX7bEwD), [Orfedi](https://open.spotify.com/artist/6tWqhYyCcRdweFdayEdUue) | [PAGA \(feat\. Kerim Levrai, Orfedi, MadPrince, Marsiglia\)](https://open.spotify.com/album/5Iraf9HVMcQTvkPBsyHslU) | 2:06 | 2023-06-22 | 2023-06-30 |
 | [Pampano \(feat\. Guesan\)](https://open.spotify.com/track/5OEIk9sx6cAam8OXzIbBgm) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F), [Guesan](https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD) | [Pampano \(feat\. Guesan\)](https://open.spotify.com/album/5M5mt8xuU3O2BK9yF5xqYy) | 2:03 | 2023-07-20 | 2023-08-18 |
 | [Panama](https://open.spotify.com/track/2NaDjUskdeJyn8tG0f9NzU) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Vaporstef](https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz) | [Panama](https://open.spotify.com/album/3iUGHThARKVQzRTwajJ7RC) | 2:18 | 2023-02-02 | 2023-04-21 |
+| [PANAMA](https://open.spotify.com/track/0MzGKQtVElVJcmW0sXJpWa) | [NOLOVENEJI](https://open.spotify.com/artist/4W4q5tHADZKP5P5iO4ivWB), [Ashh](https://open.spotify.com/artist/6LJfY9HFgJUCkLkWc9VsEb) | [PANAMA](https://open.spotify.com/album/2cpuoIdlvylQc515lz1sLb) | 3:19 | 2023-09-18 |  |
 | [Pantera](https://open.spotify.com/track/6IQoJUnGjHF0LOZ81cJjhl) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [Pantera](https://open.spotify.com/album/4iiGDZ7xs1MgkNoEXscZfi) | 2:06 | 2023-06-01 | 2023-06-16 |
 | [PAPAJERSEY](https://open.spotify.com/track/7f2pjAvuVMMJvKqm8xVMa7) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [PAPAJERSEY](https://open.spotify.com/album/6GvztqFAleXlYXRj9Tse7Z) | 2:10 | 2023-04-06 | 2023-05-12 |
 | [Papavero](https://open.spotify.com/track/2J2NxH7j3Wy1tpoCNXkeHx) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw), [Beak On The Night](https://open.spotify.com/artist/3nW7Xw52V74rD3XkfTKC56) | [Papavero](https://open.spotify.com/album/7DMsu93EGO0wQNfTUy2heK) | 2:03 | 2023-05-04 | 2023-05-19 |

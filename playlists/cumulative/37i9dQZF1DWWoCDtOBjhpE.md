@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Body Say](https://open.spotify.com/track/7xrA11O07xo57Bbg6p4hck) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Body Say](https://open.spotify.com/album/7eh0AAzV329H8VmPnjlSXF) | 3:13 | 2016-12-01 |  |
-| [Daddy Lessons \(feat\. The Chicks\)](https://open.spotify.com/track/7tTElNyvXsfFcxDXIiH5cm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Daddy Lessons \(feat\. The Chicks\)](https://open.spotify.com/album/7vmngE1EExuJ0wpdRescsX) | 6:25 | 2016-12-01 |  |
+| [Daddy Lessons](https://open.spotify.com/track/7tTElNyvXsfFcxDXIiH5cm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Daddy Lessons](https://open.spotify.com/album/7vmngE1EExuJ0wpdRescsX) | 6:25 | 2016-12-01 |  |
 | [Gold](https://open.spotify.com/track/6ZSO7kPn8IMJFymyticbJO) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [low kii savage](https://open.spotify.com/album/2EvTMiJyF3H4BoxNCL4HLh) | 3:45 | 2016-12-01 |  |
 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 | 2016-12-01 |  |
 | [I Got You](https://open.spotify.com/track/2jB9QaPJyVdz2Q0Va8rrnU) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:11 | 2022-07-29 |  |

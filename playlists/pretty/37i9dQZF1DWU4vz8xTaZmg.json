@@ -1,12 +1,12 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 67314,
+  "num_followers": 67376,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2M2NTcyYzVkNmZkYjc5ZWUxYTIxOTJhMjUwNmFhNzI3ODAwYjBl",
+  "snapshot_id": "MCwxYmNiNGE3YTY3NDFmZTk3MGEzNjYzN2I1YTcxZjY1MmEzZTg0MWU1",
   "tracks": [
     {
       "added_at": "2023-08-22 14:05:14",
@@ -331,18 +331,22 @@
     {
       "added_at": "2023-08-22 14:05:14",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "Shawn Mendes (Deluxe)",
+        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+      "duration_ms": 190799,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
     },
     {
       "added_at": "2023-08-22 14:05:14",
@@ -363,22 +367,18 @@
     {
       "added_at": "2023-08-22 14:05:14",
       "album": {
-        "name": "Shawn Mendes (Deluxe)",
-        "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 190799,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
       "added_at": "2023-08-22 14:05:14",
@@ -431,26 +431,6 @@
       "duration_ms": 182893,
       "name": "La Manzana del Amor (feat. 2 Minutos)",
       "url": "https://open.spotify.com/track/0ck1PNND1wq7w5E8qBpgyX"
-    },
-    {
-      "added_at": "2023-08-22 14:05:14",
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Goodbyes (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
     },
     {
       "added_at": "2023-08-22 14:05:14",
@@ -535,18 +515,22 @@
     {
       "added_at": "2023-08-22 14:05:14",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+      "duration_ms": 174853,
+      "name": "Goodbyes (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
     },
     {
       "added_at": "2023-08-22 14:05:14",
@@ -563,6 +547,22 @@
       "duration_ms": 117013,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
+    },
+    {
+      "added_at": "2023-08-22 14:05:14",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2023-08-22 14:05:14",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-08-22 14:05:14",
       "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2023-08-22 14:05:14",
+      "album": {
         "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 226626,
       "name": "So\u00f1\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
-    },
-    {
-      "added_at": "2023-08-22 14:05:14",
-      "album": {
-        "name": "Beggars Banquet (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 378146,
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
     },
     {
       "added_at": "2023-08-22 14:05:14",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-08-22 14:05:14",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 257053,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
-    },
-    {
-      "added_at": "2023-08-22 14:05:14",
-      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 208079,
       "name": "Estamos Bien",
       "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+    },
+    {
+      "added_at": "2023-08-22 14:05:14",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 257053,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
     },
     {
       "added_at": "2023-08-22 14:05:14",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-08-22 14:05:14",
       "album": {
-        "name": "Panini",
-        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 114893,
-      "name": "Panini",
-      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
-    },
-    {
-      "added_at": "2023-08-22 14:05:14",
-      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 236215,
       "name": "NI BIEN NI MAL",
       "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
+    },
+    {
+      "added_at": "2023-08-22 14:05:14",
+      "album": {
+        "name": "Panini",
+        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "Panini",
+      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
     },
     {
       "added_at": "2023-08-22 14:05:14",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-08-22 14:05:14",
       "album": {
-        "name": "Morad: Bzrp Music Sessions, Vol. 47",
-        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 177583,
-      "name": "Morad: Bzrp Music Sessions, Vol. 47",
-      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
-    },
-    {
-      "added_at": "2023-08-22 14:05:14",
-      "album": {
         "name": "Mother's Milk",
         "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
       },
@@ -1335,18 +1315,22 @@
     {
       "added_at": "2023-08-22 14:05:14",
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+        "name": "Morad: Bzrp Music Sessions, Vol. 47",
+        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 144935,
-      "name": "VIBEZ",
-      "url": "https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM"
+      "duration_ms": 177583,
+      "name": "Morad: Bzrp Music Sessions, Vol. 47",
+      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
     },
     {
       "added_at": "2023-08-22 14:05:14",
@@ -1363,6 +1347,22 @@
       "duration_ms": 173913,
       "name": "ALMA DINAMITA",
       "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
+    },
+    {
+      "added_at": "2023-08-22 14:05:14",
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "VIBEZ",
+      "url": "https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM"
     },
     {
       "added_at": "2023-08-22 14:05:14",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2023-08-22 14:05:14",
       "album": {
+        "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
+        "url": "https://open.spotify.com/album/1LFRuZl97Bf8wdeVqpnZcH"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 199391,
+      "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
+      "url": "https://open.spotify.com/track/4jTKJOFxaqEcm558JYi4Dh"
+    },
+    {
+      "added_at": "2023-08-22 14:05:14",
+      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 217866,
       "name": "Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/5WnfnSpuNEGXyEt78PBA6d"
-    },
-    {
-      "added_at": "2023-08-22 14:05:14",
-      "album": {
-        "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
-        "url": "https://open.spotify.com/album/1LFRuZl97Bf8wdeVqpnZcH"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 199391,
-      "name": "Trueno: Bzrp Freestyle Sessions, Vol. 6",
-      "url": "https://open.spotify.com/track/4jTKJOFxaqEcm558JYi4Dh"
     },
     {
       "added_at": "2023-08-22 14:05:14",

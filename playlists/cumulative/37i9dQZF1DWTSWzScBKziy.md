@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-207 songs - 13 hr 30 min
+208 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [How Far](https://open.spotify.com/track/01puXiVg4t7vhENFH58R6b) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/2AF8BmjE2SRLOUAeV57ofY) | 3:07 | 2022-05-27 | 2023-03-10 |
 | [How Far](https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 3:07 | 2022-10-29 |  |
 | [Hurt Is](https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Hurt Is](https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b) | 3:03 | 2022-10-29 |  |
+| [I Came Home](https://open.spotify.com/track/0EVb9XEij2x5ZayAjCgWVe) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A) | 3:50 | 2022-10-29 |  |
 | [I Came Home](https://open.spotify.com/track/6u2fcb4doVMXe4BLacMrSc) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/5AoqaPhWwaCy49vv73guSG) | 3:50 | 2022-10-29 | 2023-03-04 |
 | [I Can't Believe](https://open.spotify.com/track/3qfEOVHVZVy7Yjb3JDJcf5) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [I Can't Believe](https://open.spotify.com/album/5MQnRj4S6kW4BhrTKujeZR) | 4:30 | 2022-05-27 | 2022-10-30 |
 | [I Cry Jesus](https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [I Cry Jesus](https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo) | 3:38 | 2022-05-27 |  |
@@ -125,7 +126,7 @@
 | [Let Me In](https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Let Me In](https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3) | 3:29 | 2022-05-27 | 2022-10-30 |
 | [Life Again](https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:24 | 2022-10-29 | 2023-09-01 |
 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 | 2022-10-29 |  |
-| [Live Out Loud](https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Live Out Loud](https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT) | 3:23 | 2022-10-29 |  |
+| [Live Out Loud](https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Live Out Loud](https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT) | 3:23 | 2022-10-29 | 2023-09-19 |
 | [Long Way Home \- From The Motion Picture “Father Stu”](https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Long Way Home \(From The Motion Picture “Father Stu”\)](https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi) | 3:26 | 2022-05-27 |  |
 | [Lost Without You](https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:59 | 2022-10-29 |  |
 | [Lost Without You](https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Lost Without You](https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W) | 2:59 | 2022-10-29 | 2023-04-30 |

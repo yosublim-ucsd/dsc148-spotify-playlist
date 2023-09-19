@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-363 songs - 15 hr 30 min
+369 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-04-04 | 2022-04-29 |
 | [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 | 2023-08-01 |  |
 | [Duality](https://open.spotify.com/track/1sdV3pcwnK8twgSyqGtmo7) | [Bethany Howell](https://open.spotify.com/artist/0SDJYZtFgByzaTKZrb21kj) | [Water Lilies](https://open.spotify.com/album/7HUWpZuHBpU73fqW0sLEFA) | 2:13 | 2022-04-04 |  |
+| [Each glorious entity](https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Each glorious entity](https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r) | 2:13 | 2023-09-18 |  |
 | [Easy Mind](https://open.spotify.com/track/5yWqERL6uxGk8aM0kwTLLK) | [Melos Mind](https://open.spotify.com/artist/3rxp5aGDhyK8G8vYShjKG2) | [Emotional Echoes](https://open.spotify.com/album/4gnAnMDZEHLbJ2EXUT6Lof) | 1:50 | 2023-09-05 |  |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-04 |  |
 | [Ellipses](https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Ellipses](https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM) | 2:31 | 2022-04-04 |  |
@@ -135,6 +136,7 @@
 | [Hymne d'été](https://open.spotify.com/track/1BMXuo67CPYuccFQO0r0v9) | [Gael Motif](https://open.spotify.com/artist/5Cekx8y4a1ldk7upl3DTe3) | [Hymne d'été](https://open.spotify.com/album/5BqIJ93b8hXkeVY2LMPj1G) | 2:14 | 2022-04-04 | 2022-11-19 |
 | [If I Could Tell You](https://open.spotify.com/track/11Qo1ZRy2R3aC12G33c210) | [Maude Eldridge](https://open.spotify.com/artist/21f60v74DrfHND4HjqmE1u) | [If I Could Tell You](https://open.spotify.com/album/2JPlNFaUONwpq8BiuuxG0z) | 2:23 | 2022-04-04 | 2022-04-29 |
 | [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2022-04-04 |  |
+| [Imagine](https://open.spotify.com/track/6Q0m7E33lcj6FOgdEsH448) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Imagine](https://open.spotify.com/album/7azCak0GgPVaSFelg61xYa) | 2:09 | 2023-09-18 |  |
 | [Imperceptible](https://open.spotify.com/track/3wowypV1ykrIueaXWRRYey) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Imperceptible](https://open.spotify.com/album/2jKPlE2WuGckCR1D1v5Gpq) | 2:55 | 2022-04-04 |  |
 | [Impuissance](https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL) | [Luisa Amogida](https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj) | [Impuissance](https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay) | 2:03 | 2022-04-04 |  |
 | [In The Presence Of Starlight](https://open.spotify.com/track/1S0sSgUfWpqvPET73lU7Hv) | [Rusyav](https://open.spotify.com/artist/31Cm8F7MLg9rGw3vnmSk6w) | [In The Presence Of Starlight](https://open.spotify.com/album/4lmyXqbmLgTESZMGlm7XXX) | 3:19 | 2022-04-04 | 2022-07-08 |
@@ -199,6 +201,7 @@
 | [Má sestra](https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Má sestra](https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe) | 2:05 | 2022-10-14 |  |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2022-04-04 |  |
 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 | 2023-07-18 |  |
+| [Narrative](https://open.spotify.com/track/1QKnzkBw9Hb5wjQG6qV1mS) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Narrative](https://open.spotify.com/album/6e28Zlbs7YZOGbPHzVCpgH) | 3:02 | 2023-09-18 |  |
 | [New Chapter](https://open.spotify.com/track/0PoJrtrLvVaoT6A9WnvEjx) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/6KxPhx5LU7ybLt3Hd1b4o8) | 2:29 | 2022-07-28 | 2023-02-14 |
 | [New Chapter](https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/0yFqWwIT5jDcx0EfhSuQLU) | 2:29 | 2023-02-03 | 2023-08-02 |
 | [New Chapter](https://open.spotify.com/track/4691T6692tOUpmqOcgPz71) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/2vslOwXeIfgd3IsgWuuPZI) | 2:29 | 2022-04-04 | 2022-07-29 |
@@ -215,6 +218,7 @@
 | [Open Thoughts](https://open.spotify.com/track/3yO3vslrpSAPNFnWuKh2x3) | [Cedric Grey](https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO) | [Open Thoughts](https://open.spotify.com/album/7v1vAxGArRuuXSSshwjA1X) | 2:50 | 2022-10-14 |  |
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-04-04 |  |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-04-04 | 2022-12-24 |
+| [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 |  |
 | [Outside Lit Windows With You](https://open.spotify.com/track/14QoAqrZEbEilcN1DVVKYn) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Outside Lit Windows With You](https://open.spotify.com/album/57PiHhu4kdVfRoRnHtaI4L) | 3:00 | 2023-02-21 |  |
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2022-04-04 |  |
 | [Paint](https://open.spotify.com/track/6UglRwzluckjrj2D07nZXm) | [Matthew Wilcock](https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf) | [Paint](https://open.spotify.com/album/6GSVwm72VKE8tv79fvqupK) | 2:09 | 2022-04-28 |  |
@@ -329,6 +333,7 @@
 | [Tout, sauf mon ombre](https://open.spotify.com/track/18gxWtwvPc7BtLfcL52K9i) | [Corrine Chloé](https://open.spotify.com/artist/1BjYghTaiPxeWiLObrvsyR) | [Tout, sauf mon ombre](https://open.spotify.com/album/3b2kYxC690HiyzFYxcgzYY) | 3:02 | 2022-04-04 | 2022-05-21 |
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2022-04-04 |  |
 | [Traunstein](https://open.spotify.com/track/3oTDoIy41rJX9ZQYURoWRt) | [Theodore Tompkins](https://open.spotify.com/artist/6q0goYsbiGF4LUqGIWrXBb) | [Traunstein](https://open.spotify.com/album/0R44nYLnFDUvN9XCk8sKGY) | 2:29 | 2022-04-04 |  |
+| [Tromsø](https://open.spotify.com/track/09jdC5o254s2seWBMMHco7) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Tromsø](https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX) | 2:11 | 2023-09-18 |  |
 | [True Self](https://open.spotify.com/track/3wJYd4AguIe41wp8gPZAmL) | [Izzy Rubin](https://open.spotify.com/artist/3i9R9BlH4QfTzP3DZIEj86) | [True Self](https://open.spotify.com/album/6sqaTWutALgbYSSmYbSGnH) | 3:57 | 2022-04-04 |  |
 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 | 2022-04-28 |  |
 | [Trust](https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS) | [Loris Murray](https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk) | [Trust](https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk) | 2:15 | 2022-04-04 | 2022-04-29 |
@@ -346,6 +351,7 @@
 | [Vale of Tears](https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Vale Of Tears](https://open.spotify.com/album/1t1VwebAkrX58MEDCi6ZLf) | 2:22 | 2022-04-04 |  |
 | [Valse](https://open.spotify.com/track/3IYzsI7pfsXJYJY41NoVRK) | [Egor Grushin](https://open.spotify.com/artist/75LREKsEbGngALKa5YcwAK) | [Valse](https://open.spotify.com/album/4i4NzFTtaIX9WAcT3tGcaw) | 2:08 | 2022-04-04 |  |
 | [Velez\-Malaga](https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq) | [Rosa Monteiro](https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1) | [Velez\-Malaga](https://open.spotify.com/album/6bmGfliwOLuAcStJqB9sNl) | 3:14 | 2022-04-04 | 2022-11-19 |
+| [Velvet Clouds](https://open.spotify.com/track/3jCXY0CuLyrBQ5hMUwOk6i) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Velvet Clouds](https://open.spotify.com/album/5H8zgkqm0EvJGe21PbpKR6) | 2:31 | 2023-09-18 |  |
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-04-04 | 2022-04-29 |
 | [Verdant](https://open.spotify.com/track/5vtWoxJeBYe5ZGnoR8v9TE) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Verdant](https://open.spotify.com/album/5aV8K6xI28TsFxEAmIubjq) | 2:26 | 2022-05-20 |  |
 | [Verses](https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Verses](https://open.spotify.com/album/0oEfniLgEookbXSSQSpIqE) | 3:15 | 2022-04-04 |  |

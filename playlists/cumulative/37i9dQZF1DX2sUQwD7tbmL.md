@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-584 songs - 1 day 8 hr 59 min
+585 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A\-Punk](https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 2:17 | 2021-06-04 | 2022-04-21 |
 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2022-07-22 |  |
 | [Access](https://open.spotify.com/track/4mC6s6mZW0L0IXSrDodWhW) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/6My1J5oGzw5wwVgVhqBQge) | 4:28 | 2021-05-01 | 2022-03-12 |
-| [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 | 2021-05-01 |  |
+| [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 | 2021-05-01 | 2023-09-19 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-10-14 |  |
 | [Adult](https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Adult](https://open.spotify.com/album/61EpcO4cSj1KVzYD6xPyFe) | 2:37 | 2021-05-01 | 2022-07-29 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-07 | 2023-03-18 |
@@ -281,6 +281,7 @@
 | [It’s A Shame](https://open.spotify.com/track/4DoWwjW93HS2p0SahEQ2qR) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Pink Feathers](https://open.spotify.com/artist/5G46oA5vyTUNhJkAyqmGmW) | [EGO](https://open.spotify.com/album/4soSC3Y3hkAczeDVklfp34) | 3:00 | 2022-11-30 | 2023-01-04 |
 | [Japanese](https://open.spotify.com/track/5mVKOml3VuRIe4Y5pPyyYx) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Japanese / A Whole Month Of You](https://open.spotify.com/album/3QvqkEYqLwoEWrAPSQulNY) | 3:12 | 2022-04-13 | 2022-04-19 |
 | [Japanese Posters](https://open.spotify.com/track/19mIMQ8rNN4jmfR1UXVNBQ) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Subway Songs](https://open.spotify.com/album/3zfsyrUc2lWulBUcDzaos7) | 2:36 | 2022-04-13 | 2022-07-29 |
+| [Japanese Posters](https://open.spotify.com/track/403SdJ62eNPjNc94vJQJOu) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Subway Songs](https://open.spotify.com/album/4tXxs6waGudqwvt6FCP6LN) | 2:36 | 2023-05-26 |  |
 | [Japanese Posters](https://open.spotify.com/track/4EKD6FGZOQQmKWXZiZx3fh) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Japanese Posters](https://open.spotify.com/album/2RsHKX2dgI6GAN9UNPkIGZ) | 2:36 | 2022-11-07 | 2023-08-18 |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-07-22 | 2022-10-15 |
 | [Jealous](https://open.spotify.com/track/5s2zbxZI4Ym5LTKwjZHS2V) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/2HgcXoqKJbuPX2clDpwxA5) | 2:02 | 2022-04-13 | 2022-07-29 |

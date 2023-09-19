@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Blondshell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,438 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,450 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
 | 100 | [bleed](https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [bleed](https://open.spotify.com/album/5g7nVEocQGj2yBKJcWVgIX) | 2:57 |
 
-Snapshot ID: `MCw2ZTI3YzcxZGZlODBjZWFiNjg1YzM2NmVlZjZiMTRlODhjOWZlOGIw`
+Snapshot ID: `MCxjYTBhOTc2ODgyNzk2MWM5NTQ3MDZiZTA3ZGY2OTMyMTIxNDZkMTEw`

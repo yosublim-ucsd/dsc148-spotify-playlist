@@ -6835,6 +6835,28 @@
     },
     {
       "album": {
+        "name": "ENJOY THE SHOW",
+        "url": "https://open.spotify.com/album/3RtdXc8lRp6bZN6s5XcFKA"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        },
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135601,
+      "name": "Fan Or A Killer",
+      "url": "https://open.spotify.com/track/4TvpN52tawjwsilh1WA6jf"
+    },
+    {
+      "album": {
         "name": "Big Grim Reaper: The Return",
         "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
       },

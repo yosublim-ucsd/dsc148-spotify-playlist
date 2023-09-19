@@ -1,12 +1,12 @@
 {
   "description": "Hated is out! Foto: YUNGBLUD",
-  "num_followers": 60605,
+  "num_followers": 60693,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDYzODVjYjZlNTgzYzdhZWJlOWJhZGNlMmQ2NDJlOWVhZGVkNWYy",
+  "snapshot_id": "MCw1YmQ0MzIwN2Q4MThmZjFmYmRhMWUxOGMwZDBjMTJhNjJkOTIzNzQw",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Lowlife",
-        "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "Lowlife",
-      "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Lowlife",
+        "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 233626,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -279,90 +279,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "leave me for dead",
-        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 176399,
-      "name": "leave me for dead",
-      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Punk Goes Pop, Vol. 7",
-        "url": "https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/5rQQaAUU86ulQ4uZIyS1hp"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "BLINK AND YOU'LL MISS IT//",
-        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 168975,
-      "name": "MARRY KILL F*CK//",
-      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Even When I\u2019m Not With You",
-      "url": "https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "GOSSIP (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
@@ -395,6 +311,90 @@
       "duration_ms": 227975,
       "name": "Tell Me You Love Me - Rock Version",
       "url": "https://open.spotify.com/track/327h326DnJvW5suWlUG8yp"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "leave me for dead",
+        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 176399,
+      "name": "leave me for dead",
+      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Even When I\u2019m Not With You",
+      "url": "https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Punk Goes Pop, Vol. 7",
+        "url": "https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/5rQQaAUU86ulQ4uZIyS1hp"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "BLINK AND YOU'LL MISS IT//",
+        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 168975,
+      "name": "MARRY KILL F*CK//",
+      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "MONO",
         "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 194346,
       "name": "Punisher",
       "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "nobody's favorite person, not even my own",
         "url": "https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b"
       },
@@ -679,22 +663,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Scaled And Icy (Livestream Version)",
         "url": "https://open.spotify.com/album/1B61NzknoGqafMfKLY7QtZ"
       },
@@ -711,6 +679,42 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "under (feat. phem)",
+        "url": "https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "duration_ms": 137926,
+      "name": "under (feat. phem)",
+      "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3"
       },
@@ -723,6 +727,22 @@
       "duration_ms": 166854,
       "name": "NOCTURNAL",
       "url": "https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -755,26 +775,6 @@
       "duration_ms": 178842,
       "name": "Children In The Dark",
       "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "under (feat. phem)",
-        "url": "https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        },
-        {
-          "name": "phem",
-          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
-        }
-      ],
-      "duration_ms": 137926,
-      "name": "under (feat. phem)",
-      "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
     },
     {
       "added_at": "2023-09-15 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,798 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,828 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 18 | [Shower Beer](https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:11 |
 | 19 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 |
 | 20 | [Slice of Heaven \(feat\. Dave Dobbyn\)](https://open.spotify.com/track/6NzxMmxVHloqGM758vrOmn) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [Dave Dobbyn](https://open.spotify.com/artist/5bYfbDXaMVCxEt7hOAvEWc) | [Slice of Heaven \(feat\. Dave Dobbyn\)](https://open.spotify.com/album/7qfKavzeo74lEX0OZ6HZ0F) | 2:55 |
-| 21 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 |
+| 21 | [PARK CHINOIS](https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [PARK CHINOIS](https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX) | 3:22 |
 | 22 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 23 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
 | 24 | [We Ride](https://open.spotify.com/track/0ZndP0d6W6ICRmSlKgMiS4) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [We Ride](https://open.spotify.com/album/54BeNq6d1lkoLM8foqjx9k) | 3:07 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 98 | [Waking Dream](https://open.spotify.com/track/6wuX11M0gbpmdjtMJ0O98c) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [JULIA](https://open.spotify.com/album/6kSnkFQGSNserpUB78IE4m) | 3:06 |
 | 99 | [Body Beat](https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/7JGTe36pDv9qlUAKrII5O6) | 3:01 |
 
-Snapshot ID: `MCwxN2YyNmUzNTMyMzNmZDI4Y2YwNjk5ZThhZDliOTA2YTY1NjQ0YzY4`
+Snapshot ID: `MCxhOGY5ZjQ4YWU0NzBkNGQwYmMyNzIzYzA3NzRlZTM0ZjMyZjc5OTVj`

@@ -1,12 +1,12 @@
 {
   "description": "This week's top new releases. Cover: Sia",
-  "num_followers": 37969,
+  "num_followers": 37973,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmU0NTUyM2QyYWZjNzgyNmU4NmZlYjc2YTgyYzdhOTljOTM4OTEw",
+  "snapshot_id": "MCwzZThlMWY4MGI3MTNlZTlmNzI0ODE0M2I4MDhiYjU5NWE3Y2Q4NTFl",
   "tracks": [
     {
       "added_at": "2023-09-15 08:58:00",
@@ -1836,12 +1836,12 @@
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
           "name": "K-Trap",
           "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
         }
       ],
       "duration_ms": 202221,

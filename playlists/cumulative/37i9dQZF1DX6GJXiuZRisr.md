@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-412 songs - 1 day 5 hr 49 min
+413 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Ethera](https://open.spotify.com/track/0Ynou2LoIOmqRiyu4elKYX) | [Lost Prince](https://open.spotify.com/artist/23kzag3jmFxPLJbXO4g3VG) | [Ethera](https://open.spotify.com/album/3wyjgZ0wOfi6LebCJFvbZ9) | 3:33 | 2021-05-07 | 2022-07-08 |
 | [Euphoria](https://open.spotify.com/track/4HM6sm5QAAUYzAyB1SEzDE) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/5rGYIvW4LFeBonvZQBxPvi) | 3:21 | 2023-02-10 | 2023-03-12 |
 | [Euphoria](https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz) | 3:21 | 2023-03-31 | 2023-04-20 |
-| [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 | 2023-05-26 |  |
+| [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 | 2023-05-26 | 2023-09-19 |
 | [Euphorica](https://open.spotify.com/track/0gxfYluzV5eMLxH4IG7e7i) | [Subside](https://open.spotify.com/artist/6W0mTJw9zAastgid1lZ4BP), [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv) | [Euphorica](https://open.spotify.com/album/5DmKIOsy8y4Apjshx5EmMc) | 3:29 | 2021-12-17 | 2022-07-12 |
 | [Everyday \- Jennifer Cardini Remix](https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [Everyday \(Jennifer Cardini Remix\)](https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j) | 7:20 | 2022-10-14 | 2022-12-06 |
 | [Exhilaration](https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Sternstunde \| Exhilaration](https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl) | 6:54 | 2021-11-26 | 2022-07-28 |
@@ -349,6 +349,7 @@
 | [The Book Of Wisdom](https://open.spotify.com/track/2LbBVu9zXT5VBtKQUr7Bjz) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [The Book Of Wisdom](https://open.spotify.com/album/3rZzflHwbx182lpEdodaVn) | 3:29 | 2021-05-07 | 2022-04-19 |
 | [The Coaster](https://open.spotify.com/track/29Z2NgQd8Og6nKlzs1GQ6S) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [The Coaster](https://open.spotify.com/album/7bc7gl0qBODD1JQHbTtjwA) | 3:06 | 2021-05-07 | 2022-07-21 |
 | [The Grand Swell](https://open.spotify.com/track/3SwAjQOvQ79jpLZyjzJwJh) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [The Grand Swell](https://open.spotify.com/album/23V0126apKDHzsQrAiqLwT) | 4:51 | 2021-08-20 | 2022-07-29 |
+| [The Horizon \(With You\)](https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [The Horizon \(With You\)](https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q) | 3:07 | 2023-09-15 |  |
 | [The Maker](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [The Maker](https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md) | 2:36 | 2023-03-14 |  |
 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 | 2021-11-05 | 2022-06-26 |
 | [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 |  |

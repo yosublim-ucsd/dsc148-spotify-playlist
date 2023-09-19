@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,688 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,750 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [XXX STAR](https://open.spotify.com/track/4zIIv3QrCunhm4jEJrEl2R) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Izzy](https://open.spotify.com/artist/3lx9s0PztiAJYkM0RLD8kC) | [XXX STAR](https://open.spotify.com/album/7GP0XlzmjsIdGM51mOuwLF) | 3:00 |
 | 51 | [MARTILLAN](https://open.spotify.com/track/4NqwHco5pomh97kVFSGUKS) | [Joa & Jalys](https://open.spotify.com/artist/4Qypd98pOg4Lp2kCxXBic9) | [MARTILLAN](https://open.spotify.com/album/521QVQUQRpt2KCraRvPGcP) | 2:26 |
 
-Snapshot ID: `MCw3NTBhMzExN2NjYzg3YTRlNzExYjdiNzE2NTY0NzU0ZTgwNTQzY2Vh`
+Snapshot ID: `MCw0Y2I1NGExNTIwNGYwNzkzOWRiNzgxNGZjNGJmZWNmNTViNGQ0NGQx`

@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 7984,
+  "num_followers": 7995,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTM1ZDYwZDc2ZDBhY2FkMTQ3OWVlZDcwZGExYjBmZDUyYTEyY2Ez",
+  "snapshot_id": "MCw1NmVkMjcyZDgzZjAyNDNlNWU4NTA3ZThjZDMzYmE1MjZkZDFjY2I3",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -183,6 +183,34 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -219,34 +247,6 @@
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "LONDON (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 250722,
-      "name": "LONDON (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 237983,
       "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 207360,
       "name": "Frankenstein (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3gDRZkL8YfzpZg1N1YsW5x"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
     },
     {
       "added_at": "2022-11-30 13:46:00",

@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoCDtOBjhpE.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 |
 | 2 | [Side To Side](https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:46 |
-| 3 | [Daddy Lessons \(feat\. The Chicks\)](https://open.spotify.com/track/7tTElNyvXsfFcxDXIiH5cm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Daddy Lessons \(feat\. The Chicks\)](https://open.spotify.com/album/7vmngE1EExuJ0wpdRescsX) | 6:25 |
+| 3 | [Daddy Lessons](https://open.spotify.com/track/7tTElNyvXsfFcxDXIiH5cm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Daddy Lessons](https://open.spotify.com/album/7vmngE1EExuJ0wpdRescsX) | 6:25 |
 | 4 | [The Greatest](https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:30 |
 | 5 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:43 |
 | 6 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:34 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoCDtOBjhpE.md) - [plain]
 | 19 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 |
 | 20 | [Gold](https://open.spotify.com/track/6ZSO7kPn8IMJFymyticbJO) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [low kii savage](https://open.spotify.com/album/2EvTMiJyF3H4BoxNCL4HLh) | 3:45 |
 
-Snapshot ID: `MCxmNDc3MzhhZjA3NThmMDUzMDgyMWMzM2Y3NDJhNjMyNDFlY2RkNDNh`
+Snapshot ID: `MCxlNmExMTVjY2FkYTNkZGJhYmI2MDNmYjg5NTZlNGU5ZTU0ZTE1MjY0`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 49688,
+  "num_followers": 49697,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDY4NGE2MzkxNTc5ODJkOGM5MzRhYTc2MGU0Njg2NTgwYTg2MDk5",
+  "snapshot_id": "MCw5YjRhZjRkNzNjY2RiOGI0M2VlZjUwZDRmNDYwYzkxZmRmMTFkYWU5",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Dominicana",
-      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "BLACKsummers'night (2009)",
         "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 310520,
       "name": "Pretty Wings - uncut",
       "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Estas Buena",
         "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
       },
@@ -263,6 +247,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Ya Casi Vienen",
         "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
       },
@@ -275,6 +275,38 @@
       "duration_ms": 174946,
       "name": "Foto En Panty",
       "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "Abayarde",
+      "url": "https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "TU ME QUIERES?",
+        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TU ME QUIERES?",
+      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -299,22 +331,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "TU ME QUIERES?",
-        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "TU ME QUIERES?",
-      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "KI-KI",
         "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 141335,
       "name": "KI-KI",
       "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "Abayarde",
-      "url": "https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -375,22 +375,6 @@
       "duration_ms": 269400,
       "name": "Mi ni\u00f1a Lola",
       "url": "https://open.spotify.com/track/7uDjOQtIiy7wk2UQdHj97u"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -467,6 +451,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Ibeyi",
         "url": "https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 252095,
       "name": "River",
       "url": "https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "G Wagon",
-        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "G Wagon",
-      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -555,6 +539,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "G Wagon",
+        "url": "https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "G Wagon",
+      "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 224869,
       "name": "Qu\u00e9 L\u00e1stima",
       "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Spell 31",
-        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 195204,
-      "name": "Sister 2 Sister",
-      "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -643,18 +627,34 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm"
       },
       "artists": [
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
         }
       ],
-      "duration_ms": 151026,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
+      "duration_ms": 160093,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Spell 31",
+        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "duration_ms": 195204,
+      "name": "Sister 2 Sister",
+      "url": "https://open.spotify.com/track/2nSancXdw3xATmlG1X6Ts0"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "El Toro",
-        "url": "https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm"
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
       },
       "artists": [
         {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         }
       ],
-      "duration_ms": 160093,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t"
+      "duration_ms": 151026,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Flavors 3",
+        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 180375,
+      "name": "Acu\u00e9rdate De M\u00ed",
+      "url": "https://open.spotify.com/track/0KV5E5nAh0zU9M5eSORUgG"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Las II Torres",
         "url": "https://open.spotify.com/album/2IyzVWMQv5cHl9oN8tth6H"
       },
@@ -839,38 +855,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Booty Puty",
-        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 227836,
-      "name": "Mal\u00e9vola",
-      "url": "https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Flavors 3",
-        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 180375,
-      "name": "Acu\u00e9rdate De M\u00ed",
-      "url": "https://open.spotify.com/track/0KV5E5nAh0zU9M5eSORUgG"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 146966,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Booty Puty",
+        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 227836,
+      "name": "Mal\u00e9vola",
+      "url": "https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Na Pa Ti (feat. Kofi)",
-        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        }
-      ],
-      "duration_ms": 173098,
-      "name": "Na Pa Ti (feat. Kofi)",
-      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "NO AZARA",
         "url": "https://open.spotify.com/album/6HbbphcRcKCbvbO6XHppND"
       },
@@ -987,22 +967,6 @@
       "duration_ms": 149167,
       "name": "NO AZARA",
       "url": "https://open.spotify.com/track/6ZN6U9DZFVaquehTHGGag5"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 146023,
-      "name": "Oye Mi Ritmo",
-      "url": "https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1035,6 +999,42 @@
       "duration_ms": 293173,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 146023,
+      "name": "Oye Mi Ritmo",
+      "url": "https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Pa' El Alma",
+        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "CHEAP WINE",
         "url": "https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 376013,
       "name": "La rebelion",
       "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Pa' El Alma",
-        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
     },
     {
       "added_at": "2023-06-20 14:37:46",

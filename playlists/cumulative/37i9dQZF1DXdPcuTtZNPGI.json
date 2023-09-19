@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "DIGNITY",
+        "url": "https://open.spotify.com/album/0yeSKha3HfhzdjVNnrqLks"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252396,
+      "name": "DIGNITY",
+      "url": "https://open.spotify.com/track/1BDCBbdTDQo3JxC0kVDSqP"
+    },
+    {
+      "album": {
         "name": "Kyougen",
         "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
       },

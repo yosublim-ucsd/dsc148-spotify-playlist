@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 63048,
+  "num_followers": 63138,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzBhNjc5MWI5ZjYwOWM1OTdjNzcyOGI1NzAxZWUzMGZlNTllZWUw",
+  "snapshot_id": "MCwyZmIxMmIwN2M5YWQzZWY5NWJmN2RjMDczY2UzNzZjYWIwNzcwMDBi",
   "tracks": [
     {
       "added_at": "2023-08-23 10:30:13",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Chicago Bound",
-        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "That's All Right - 1950 Single Version",
-      "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 148826,
       "name": "Backlash Blues",
       "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Chicago Bound",
+        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "That's All Right - 1950 Single Version",
+      "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 330893,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Night Beat",
         "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 171826,
       "name": "Little Red Rooster",
       "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "I Pity The Fool",
-      "url": "https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Jamming With Edward",
         "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
       },
@@ -551,6 +535,58 @@
       "duration_ms": 314373,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "I Pity The Fool",
+      "url": "https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Sun Records Originals: Mystery Train",
+        "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        },
+        {
+          "name": "The Blue Flames",
+          "url": "https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Mystery Train - Remastered 2022",
+      "url": "https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -583,42 +619,6 @@
       "duration_ms": 256533,
       "name": "Sweet Home Chicago",
       "url": "https://open.spotify.com/track/31NrEjRvAP4ot9Mj3DWIqa"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "Sun Records Originals: Mystery Train",
-        "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
-      },
-      "artists": [
-        {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
-        },
-        {
-          "name": "The Blue Flames",
-          "url": "https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Mystery Train - Remastered 2022",
-      "url": "https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Blues With A Feeling",
-      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
         "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
@@ -719,18 +703,34 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Texas Cannonball",
-        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 239133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+      "duration_ms": 187773,
+      "name": "Blues With A Feeling",
+      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
+        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Nobody Knows You When You're Down And Out",
+      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
+        "name": "Texas Cannonball",
+        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 175466,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
-        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Nobody Knows You When You're Down And Out",
-      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
     },
     {
       "added_at": "2023-08-23 10:30:13",

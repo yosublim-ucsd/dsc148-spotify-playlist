@@ -819,6 +819,28 @@
     },
     {
       "album": {
+        "name": "americana, but lofi",
+        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
+      },
+      "artists": [
+        {
+          "name": "lonelyboy",
+          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "the kids aren't alright - lofi",
+      "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
+    },
+    {
+      "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },

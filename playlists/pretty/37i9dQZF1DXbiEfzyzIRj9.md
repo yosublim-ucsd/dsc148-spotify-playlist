@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,598 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,606 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 100 | [Beee\-Hive](https://open.spotify.com/track/7I2ViRmeZhDSxNBTSwLMXa) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH) | [Beee\-Hive](https://open.spotify.com/album/5OLSia3v0gJn2bKuDMWcWT) | 4:38 |
 
-Snapshot ID: `MCwxZTkzODI4NDEzMmY3YzMyOWU3M2IzODZkYWRlYzRmNTA3NmQxMWVk`
+Snapshot ID: `MCxkNTUxNWNmZDgxMjNmYTAyYzg4ZTI0MmMxMmIyM2IxYmU4ZDcwNjVm`

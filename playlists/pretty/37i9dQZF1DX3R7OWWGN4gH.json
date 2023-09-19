@@ -1,12 +1,12 @@
 {
   "description": "Entering my reputation era...",
-  "num_followers": 1107230,
+  "num_followers": 1108088,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTgyNjhjNzQzMzhiMTQwOTNmMjllZDg2ZGUwODliM2NhYzNlNTY3",
+  "snapshot_id": "MCw4MzgxNjAyOWI3ZmI4YTc0MGVmMzczYmVhYTBmNDMxZDA3MmUxNzQy",
   "tracks": [
     {
       "added_at": "2023-09-17 03:22:22",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "added_at": "2023-09-17 03:22:22",
+      "album": {
         "name": "Death of a Bachelor",
         "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
       },
@@ -383,18 +399,18 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+      "duration_ms": 157497,
+      "name": "Mount Everest",
+      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -411,22 +427,6 @@
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
-    },
-    {
-      "added_at": "2023-09-17 03:22:22",
-      "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 157497,
-      "name": "Mount Everest",
-      "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 164801,
-      "name": "Vigilante Shit",
-      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
-    },
-    {
-      "added_at": "2023-09-17 03:22:22",
-      "album": {
         "name": "Electra Heart (Deluxe)",
         "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 180952,
       "name": "you should see me in a crown",
       "url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d"
+    },
+    {
+      "added_at": "2023-09-17 03:22:22",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
+        "name": "No Time To Die",
+        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 242265,
+      "name": "No Time To Die",
+      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
+    },
+    {
+      "added_at": "2023-09-17 03:22:22",
+      "album": {
         "name": "Play with Fire (feat. Yacht Money)",
         "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 179955,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
-    },
-    {
-      "added_at": "2023-09-17 03:22:22",
-      "album": {
-        "name": "No Time To Die",
-        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 242265,
-      "name": "No Time To Die",
-      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 168839,
+      "name": "all the good girls go to hell",
+      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
+    },
+    {
+      "added_at": "2023-09-17 03:22:22",
+      "album": {
         "name": "Wars In A Wonderland",
         "url": "https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 196235,
       "name": "BABYDOLL",
       "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
-    },
-    {
-      "added_at": "2023-09-17 03:22:22",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 168839,
-      "name": "all the good girls go to hell",
-      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
-        "name": "O My Heart",
-        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
       "artists": [
         {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 262173,
-      "name": "Burning Pile",
-      "url": "https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn"
+      "duration_ms": 193143,
+      "name": "bury a friend",
+      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -875,6 +875,22 @@
       "duration_ms": 246294,
       "name": "EVIL",
       "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
+    },
+    {
+      "added_at": "2023-09-17 03:22:22",
+      "album": {
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 262173,
+      "name": "Burning Pile",
+      "url": "https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -907,22 +923,6 @@
       "duration_ms": 122772,
       "name": "Build a Bitch",
       "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
-    },
-    {
-      "added_at": "2023-09-17 03:22:22",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 193143,
-      "name": "bury a friend",
-      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 194711,
+      "name": "COPYCAT",
+      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
+    },
+    {
+      "added_at": "2023-09-17 03:22:22",
+      "album": {
         "name": "Suicide Squad: The Album",
         "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 120666,
       "name": "cinderella's dead",
       "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
-    },
-    {
-      "added_at": "2023-09-17 03:22:22",
-      "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 194711,
-      "name": "COPYCAT",
-      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "Dangerous Woman",
+      "url": "https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN"
+    },
+    {
+      "added_at": "2023-09-17 03:22:22",
+      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+        "name": "Cradles",
+        "url": "https://open.spotify.com/album/746AA6hN51bj4yUlGBHgUX"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
         }
       ],
-      "duration_ms": 235946,
-      "name": "Dangerous Woman",
-      "url": "https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN"
+      "duration_ms": 209829,
+      "name": "Cradles",
+      "url": "https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -1363,22 +1379,6 @@
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
-    },
-    {
-      "added_at": "2023-09-17 03:22:22",
-      "album": {
-        "name": "Cradles",
-        "url": "https://open.spotify.com/album/746AA6hN51bj4yUlGBHgUX"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        }
-      ],
-      "duration_ms": 209829,
-      "name": "Cradles",
-      "url": "https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
-        "name": "K-12",
-        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 161064,
-      "name": "Class Fight",
-      "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
-    },
-    {
-      "added_at": "2023-09-17 03:22:22",
-      "album": {
         "name": "Broke with Expensive Taste",
         "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
       },
@@ -1507,6 +1491,38 @@
       "duration_ms": 168096,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/5BsGmbPJyupA70FlD7NtbS"
+    },
+    {
+      "added_at": "2023-09-17 03:22:22",
+      "album": {
+        "name": "older",
+        "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 137778,
+      "name": "older",
+      "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
+    },
+    {
+      "added_at": "2023-09-17 03:22:22",
+      "album": {
+        "name": "K-12",
+        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 161064,
+      "name": "Class Fight",
+      "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
     },
     {
       "added_at": "2023-09-17 03:22:22",
@@ -1611,38 +1627,6 @@
     {
       "added_at": "2023-09-17 03:22:22",
       "album": {
-        "name": "AVA",
-        "url": "https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 159338,
-      "name": "AVA",
-      "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
-    },
-    {
-      "added_at": "2023-09-17 03:22:22",
-      "album": {
-        "name": "People I Don't Like",
-        "url": "https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 142765,
-      "name": "People I Don't Like",
-      "url": "https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW"
-    },
-    {
-      "added_at": "2023-09-17 03:22:22",
-      "album": {
         "name": "Overwhelmed",
         "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 159293,
       "name": "overwhelmed",
       "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
+    },
+    {
+      "added_at": "2023-09-17 03:22:22",
+      "album": {
+        "name": "AVA",
+        "url": "https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 159338,
+      "name": "AVA",
+      "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
     }
   ],
   "unique_name": "Villain Mode",

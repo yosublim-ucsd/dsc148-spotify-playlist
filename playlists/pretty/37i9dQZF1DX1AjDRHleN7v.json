@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 279735,
+  "num_followers": 279855,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWQ2ZGU0NTA0ZGJjNzU0MjIxMDU1MzFmNDAwZDM5YjM2NTNjMzNl",
+  "snapshot_id": "MCw1ZGVkNzkyNjJhOTAxN2JjZmVhM2ViMDQxZjU4ODFmNzYyMGY1NDUw",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Look For The Good (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2KRilDRNGoK60NM5gXfF63"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 194609,
+      "name": "Be Where Your Feet Are",
+      "url": "https://open.spotify.com/track/7awndyySQdYEo3qffxtdUD"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "TROPICALIA",
         "url": "https://open.spotify.com/album/2Kx09C96ugvfDpiE2cfeMp"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 227294,
       "name": "Love So Strong",
       "url": "https://open.spotify.com/track/70oUkZVnH2WQWaNZ8zwn8p"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Look For The Good (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2KRilDRNGoK60NM5gXfF63"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 194609,
-      "name": "Be Where Your Feet Are",
-      "url": "https://open.spotify.com/track/7awndyySQdYEo3qffxtdUD"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -411,6 +411,30 @@
       "duration_ms": 204224,
       "name": "Brisa Positiva",
       "url": "https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Acordei Bem Cedo",
+        "url": "https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "MC Murilo MT",
+          "url": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP"
+        }
+      ],
+      "duration_ms": 377142,
+      "name": "Acordei Bem Cedo",
+      "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -487,30 +511,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Acordei Bem Cedo",
-        "url": "https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "MC Murilo MT",
-          "url": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP"
-        }
-      ],
-      "duration_ms": 377142,
-      "name": "Acordei Bem Cedo",
-      "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
         "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Uma Noite E 1/2",
+        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Costa",
+          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
+        }
+      ],
+      "duration_ms": 170608,
+      "name": "Uma Noite E 1/2",
+      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Uma Noite E 1/2",
-        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Costa",
-          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
-        }
-      ],
-      "duration_ms": 170608,
-      "name": "Uma Noite E 1/2",
-      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Sess\u00e3o Aberta Ac\u00fastico",
         "url": "https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 245312,
       "name": "Sem Medo",
       "url": "https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Fica um Pouco Mais",
+        "url": "https://open.spotify.com/album/2nAtRgvDgHMnDGn2DVEtra"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Fica um Pouco Mais",
+      "url": "https://open.spotify.com/track/3bN4uISvzllUNUQT9vtRtr"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -647,22 +663,6 @@
       "duration_ms": 219538,
       "name": "Vou Agradecer",
       "url": "https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Fica um Pouco Mais",
-        "url": "https://open.spotify.com/album/2nAtRgvDgHMnDGn2DVEtra"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Fica um Pouco Mais",
-      "url": "https://open.spotify.com/track/3bN4uISvzllUNUQT9vtRtr"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Donavi",
-        "url": "https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD"
-      },
-      "artists": [
-        {
-          "name": "Ms\u00e1rio",
-          "url": "https://open.spotify.com/artist/23uEfKXCMDz7CayvDlN3Az"
-        },
-        {
-          "name": "Karina Buhr",
-          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Donavi",
-      "url": "https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Filho do Mar",
         "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 186909,
       "name": "40 Graus",
       "url": "https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Donavi",
+        "url": "https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD"
+      },
+      "artists": [
+        {
+          "name": "Ms\u00e1rio",
+          "url": "https://open.spotify.com/artist/23uEfKXCMDz7CayvDlN3Az"
+        },
+        {
+          "name": "Karina Buhr",
+          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Donavi",
+      "url": "https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "O Que te Faz Viver",
-        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
-      },
-      "artists": [
-        {
-          "name": "Kallibre",
-          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "O Que te Faz Viver",
-      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "P\u00f4r do Sol",
         "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "O Que te Faz Viver",
+        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
+      },
+      "artists": [
+        {
+          "name": "Kallibre",
+          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "O Que te Faz Viver",
+      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Corri Demais",
         "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 178470,
       "name": "Corri Demais",
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Frequ\u00eancia do Amor",
-        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 161107,
-      "name": "Frequ\u00eancia do Amor",
-      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1059,18 +1043,34 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+        "name": "O Amor Venceu",
+        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
       },
       "artists": [
         {
-          "name": "Gabriel Oliveira",
-          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+          "name": "Luc DubWise",
+          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
         }
       ],
-      "duration_ms": 223157,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
+      "duration_ms": 187884,
+      "name": "O Amor Venceu",
+      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Frequ\u00eancia do Amor",
+        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "Frequ\u00eancia do Amor",
+      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
     }
   ],
   "unique_name": "Praiana",

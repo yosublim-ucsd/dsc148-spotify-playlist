@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-217 songs - 10 hr 15 min
+221 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Padjelanta](https://open.spotify.com/track/5N5jZgY2X3sfj3HUSjg1Ic) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:44 | 2020-10-20\* | 2022-01-08 |
 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2021-06-18 |  |
 | [Pastel](https://open.spotify.com/track/5ewgBMv3RKvWgusgayOubz) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Pastel](https://open.spotify.com/album/7s6ILaRz5CluLRvZVQzBOv) | 2:35 | 2020-10-20\* | 2023-09-09 |
+| [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 | 2023-09-18 |  |
 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 | 2020-10-20\* | 2023-09-09 |
 | [Pink Leaves](https://open.spotify.com/track/0vVHC00JNA3FjAAKVcOOEf) | [v i v](https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX) | [Pink Leaves](https://open.spotify.com/album/5EuxY0r4AtvyPikjyZyCC4) | 4:30 | 2023-09-08 |  |
 | [Placid Skies](https://open.spotify.com/track/6rqGbIXc1GcgOYrWw8MLY7) | [Montana Plains](https://open.spotify.com/artist/6XOiaS2D7BL25uNuKlS4nR) | [Placid Skies](https://open.spotify.com/album/0NVfdJJRVoz71KstCax2d0) | 2:42 | 2020-10-20\* | 2023-09-09 |
@@ -174,6 +175,7 @@
 | [Snowfall](https://open.spotify.com/track/2clc722RMKNSOSgleEgXE4) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Snowfall](https://open.spotify.com/album/4Lr598YUKKD8cMRZu8QPf0) | 2:11 | 2023-09-08 |  |
 | [Sol Da Manhã](https://open.spotify.com/track/50N1j5jEo9Wj30rnG6OuIH) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Sol Da Manhã](https://open.spotify.com/album/6j4tS64diWDcR9suydI2dz) | 2:38 | 2020-10-20\* |  |
 | [Someone Else's Memories](https://open.spotify.com/track/0dbeYro3abzF7yIrRorb3o) | [So Vea](https://open.spotify.com/artist/3HKvIprAGifH1akdCwAm3u) | [Someone Else's Memories](https://open.spotify.com/album/21iNC9S6FJxEAbqTVFQW30) | 3:28 | 2020-10-20\* | 2023-09-09 |
+| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-09-18 |  |
 | [Sommernacht](https://open.spotify.com/track/1UOcTdl0c9FV6kRJtlDstp) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Zeitwende](https://open.spotify.com/album/5r6ZeOl1BWKav1ygarn1Gd) | 2:30 | 2023-09-08 |  |
 | [Sonar](https://open.spotify.com/track/2cALhQ0Tark1fCoezh76lw) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Karl Moss](https://open.spotify.com/album/5TVb1POzOFwH37hgsYjvbI) | 2:11 | 2023-09-08 |  |
 | [Soothing Me](https://open.spotify.com/track/0sM8esXY30pzv68Bwtoq3d) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Soothing Me](https://open.spotify.com/album/6ds0odJgRkazJMLj74z5du) | 3:27 | 2021-02-24 |  |
@@ -188,6 +190,7 @@
 | [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 | 2020-10-20\* |  |
 | [Summer Snow](https://open.spotify.com/track/4953EuU1fRqRQBFsYNsMHs) | [Renata Szabo](https://open.spotify.com/artist/2Ld6f08VOXx90E5Lu2dLwv) | [Summer Snow](https://open.spotify.com/album/63utaJVYnUlUgpS00dkCC2) | 2:44 | 2020-10-20\* | 2023-09-09 |
 | [Sundara](https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Sundara](https://open.spotify.com/album/1hfHJIrOtPFJP0tg93KzsM) | 2:42 | 2023-09-08 |  |
+| [Sunlight](https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Sunlight](https://open.spotify.com/album/1pnv7v92HbxEPV2UPpC5kh) | 2:04 | 2023-09-18 |  |
 | [Sunrise](https://open.spotify.com/track/0nsDRLBkStw53EuYXbibO4) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:56 | 2020-10-28 |  |
 | [Sunset at the Veranda](https://open.spotify.com/track/1DSFdhs58XvcJs6OFFR6B2) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Sunset at the Veranda](https://open.spotify.com/album/0mnIZBUOqZjxG0Gn8Asp2o) | 2:38 | 2020-10-20\* | 2020-11-28 |
 | [Surrender](https://open.spotify.com/track/2XT3IIDjd9ve1bHoavN1L6) | [Frozen Forests](https://open.spotify.com/artist/3JMKuMIkqPhpsXO0nAUhs9) | [Elevate](https://open.spotify.com/album/3Jr1NEoQbFZ9xi1fYa4Fq6) | 3:32 | 2020-10-20\* | 2021-12-11 |
@@ -209,6 +212,7 @@
 | [Til Mathilde](https://open.spotify.com/track/74hynqEUgqRntXOfiqAkd9) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Til Mathilde](https://open.spotify.com/album/3VgStQpHt6x0AfiBI1t92P) | 4:15 | 2020-10-20\* | 2021-09-03 |
 | [Time Freezes](https://open.spotify.com/track/7A7WJn6zZ1RNoM6FWIffq1) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Winter Solstice](https://open.spotify.com/album/5GWU9xzKbfbKHXneotKD7f) | 3:15 | 2020-10-20\* | 2022-05-20 |
 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 | 2020-10-20\* |  |
+| [Traumtänzer](https://open.spotify.com/track/07cIvi3D7cHWRkJLTY0JCh) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Traumtänzer](https://open.spotify.com/album/4uSHjDIZrc1wxbZmlIQUEE) | 2:02 | 2023-09-18 |  |
 | [Treetops](https://open.spotify.com/track/2Bc6RUt59expV4jOAadt1G) | [Hans Vincent](https://open.spotify.com/artist/0Y4WR89pA1Dx4IcwMswWWQ) | [Treetops](https://open.spotify.com/album/2WIucGO1ZHGgwnsOOy7Qmr) | 3:08 | 2021-04-22 |  |
 | [Un Tambour sur les Roses](https://open.spotify.com/track/1oYGtB1E2bEjakyLElrdBX) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Réunion](https://open.spotify.com/album/3KduaJCpIteIgNVgo5GSAh) | 3:08 | 2020-10-20\* | 2020-11-28 |
 | [Untextured Sighs](https://open.spotify.com/track/2DfFinSzRS5nwkya1xdHaH) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Untextured Sighs](https://open.spotify.com/album/7axKO0cbma2inHc4wJFg4o) | 2:38 | 2023-09-08 |  |

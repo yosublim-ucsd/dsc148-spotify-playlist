@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,202 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,305 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 21 | [Tus Ojitos](https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tus Ojitos](https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc) | 4:15 |
 | 22 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
 | 23 | [Fui Yo](https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Fui Yo](https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP) | 3:04 |
-| 24 | [Mañana](https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr) | [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO), [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mañana](https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL) | 2:52 |
-| 25 | [Despierto](https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp) | 3:19 |
+| 24 | [Despierto](https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp) | 3:19 |
+| 25 | [Mañana](https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr) | [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO), [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mañana](https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL) | 2:52 |
 | 26 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 |
 | 27 | [La Vida en Rosa](https://open.spotify.com/track/2odlHl0cZ7Q1npc6RL07Ar) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [La Vida en Rosa](https://open.spotify.com/album/40vbtVpx6kZt8AgNixhVeP) | 2:08 |
 | 28 | [pa' que sueñes](https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [pa' que sueñes](https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq) | 2:50 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 52 | [Duele](https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Leonardo La Croix](https://open.spotify.com/artist/5gmFKzyDu2PZ3hESPT0tUm) | [Duele](https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl) | 2:46 |
 | 53 | [MI TODO](https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:50 |
 | 54 | [Visa](https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Visa](https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o) | 3:07 |
-| 55 | [cuarto pa' las doce](https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [cuarto pa' las doce](https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1) | 2:24 |
-| 56 | [Cliché](https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:44 |
+| 55 | [Cliché](https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:44 |
+| 56 | [cuarto pa' las doce](https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [cuarto pa' las doce](https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1) | 2:24 |
 | 57 | [Quieres de mi](https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan) | [Anna Zarate](https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2), [Gamboa](https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu) | [Quieres de mi](https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq) | 3:12 |
 | 58 | [Camarones y Viniles](https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 5:21 |
 | 59 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 72 | [beat relajado para estudiar](https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [beat relajado para estudiar](https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx) | 4:10 |
 | 73 | [Guitarra](https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Guitarra](https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn) | 2:54 |
 | 74 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 |
-| 75 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Amsterdam \(Versión En Español\)](https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w) | 3:57 |
-| 76 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 |
+| 75 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 |
+| 76 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Amsterdam \(Versión En Español\)](https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w) | 3:57 |
 | 77 | [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 |
 | 78 | [Sola \- Remix](https://open.spotify.com/track/5Yv2eICTZqWEK1iooM9Ycu) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Sola \(Remix\)](https://open.spotify.com/album/5oA98aDLteUiejvagOwTrB) | 3:43 |
 | 79 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 99 | [hablé con ella ayer](https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:44 |
 | 100 | [The Process 2](https://open.spotify.com/track/5qR47w2aiijdN7EUCnqCeM) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [The Process 2](https://open.spotify.com/album/7eWz5te5PJL41BdYN4CehQ) | 2:50 |
 
-Snapshot ID: `MCxhNWYyYzBjMTJjZDI0ZmUyMzg5NGVjMzYxNGM3NGEwMmZjYmIxMWIz`
+Snapshot ID: `MCxiYjJmNzQ5NDNjMTBlOGYxYWYzYmMyMDA0MTMzODEwYWUxZTY2MWRh`

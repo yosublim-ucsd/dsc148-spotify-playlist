@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 93592,
+  "num_followers": 93631,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzNhZDcyMDM3NzRlODVmNTU0OTAyNGViMTczN2Y4NTE5Mzk1Mjg5",
+  "snapshot_id": "MCwxNWNjZTk1MmFjNzdhMWZkNmFhY2UxOTQzMGNjMTFmNzk1YmU3MzJm",
   "tracks": [
     {
       "added_at": "2023-05-09 01:25:54",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Kelly Lee Owens",
-        "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 192674,
-      "name": "S.O",
-      "url": "https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn"
-    },
-    {
       "added_at": "2021-11-25 22:12:36",
       "album": {
         "name": "Patterns Of Consciousness",
@@ -373,6 +357,22 @@
       "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Kelly Lee Owens",
+        "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 192674,
+      "name": "S.O",
+      "url": "https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn"
+    },
+    {
       "added_at": "2022-09-27 23:17:09",
       "album": {
         "name": "1994",
@@ -387,6 +387,22 @@
       "duration_ms": 645372,
       "name": "Ola De Luz",
       "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Yulquen",
+      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -441,38 +457,6 @@
       "url": "https://open.spotify.com/track/4JT4orneDAvaWkjUTuwShZ"
     },
     {
-      "added_at": "2022-03-30 15:08:41",
-      "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Yulquen",
-      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
-    },
-    {
       "added_at": "2022-09-15 12:23:59",
       "album": {
         "name": "Nutrition",
@@ -493,6 +477,38 @@
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
     },
     {
+      "added_at": "2022-03-30 15:08:41",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
+    },
+    {
+      "added_at": "2022-12-20 22:24:39",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Promise",
@@ -507,38 +523,6 @@
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst"
-    },
-    {
-      "added_at": "2022-08-03 02:34:20",
-      "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
     },
     {
       "added_at": "2022-07-08 04:56:00",
@@ -557,20 +541,36 @@
       "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
     },
     {
-      "added_at": "2022-12-20 22:24:39",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
         }
       ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
+    },
+    {
+      "added_at": "2022-08-03 02:34:20",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Kelly Lee Owens",
         "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 227258,
       "name": "Anxi.",
       "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Oquo Quooon",
-      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -887,6 +887,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Oquo Quooon",
+      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "MP Productions - EP 1",
         "url": "https://open.spotify.com/album/0uOT2SqsYa1IV69KqRtKhT"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 180000,
       "name": "Eve",
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2022-01-13 02:57:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Auroras",
         "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 205906,
       "name": "Ch\u00e9ri - Instrumental",
       "url": "https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2022-07-06 16:48:39",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k"
     },
     {
-      "added_at": "2022-12-16 01:59:41",
-      "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "5",
-      "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Insight",
@@ -1291,6 +1275,22 @@
       "duration_ms": 293294,
       "name": "Insight",
       "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
+    },
+    {
+      "added_at": "2022-12-16 01:59:41",
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "5",
+      "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
-      "added_at": "2022-09-30 02:46:46",
-      "album": {
-        "name": "\u307f\u305e\u3046\u3075\u304f",
-        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
-      },
-      "artists": [
-        {
-          "name": "\u4e0b\u6751\u771f\u4e00",
-          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
-        }
-      ],
-      "duration_ms": 388373,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
-    },
-    {
       "added_at": "2023-03-28 06:19:24",
       "album": {
         "name": "weirdbloom",
@@ -1405,6 +1389,22 @@
       "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
     },
     {
+      "added_at": "2022-09-30 02:46:46",
+      "album": {
+        "name": "\u307f\u305e\u3046\u3075\u304f",
+        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
+      },
+      "artists": [
+        {
+          "name": "\u4e0b\u6751\u771f\u4e00",
+          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
+        }
+      ],
+      "duration_ms": 388373,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Angel Tears in Sunlight",
@@ -1419,6 +1419,22 @@
       "duration_ms": 270539,
       "name": "Marking Time",
       "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Under The Sun (Expanded Vol. 1)",
+        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "duration_ms": 270546,
+      "name": "Give It Your Choir - Instrumental",
+      "url": "https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
       },
       "artists": [
         {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
         }
       ],
-      "duration_ms": 270546,
-      "name": "Give It Your Choir - Instrumental",
-      "url": "https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI"
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
     },
     {
       "added_at": "2023-04-15 02:42:19",
@@ -1493,20 +1509,20 @@
       "url": "https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-02-25 03:59:46",
       "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
         }
       ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1523,22 +1539,6 @@
       "duration_ms": 220212,
       "name": "Aubades",
       "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
-    },
-    {
-      "added_at": "2022-02-25 03:59:46",
-      "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2023-03-22 17:48:40",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Hodes",
-        "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
-      },
-      "artists": [
-        {
-          "name": "Bengalfuel",
-          "url": "https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "The Pier",
-      "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 289320,
       "name": "The Star Compass",
       "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Hodes",
+        "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
+      },
+      "artists": [
+        {
+          "name": "Bengalfuel",
+          "url": "https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "The Pier",
+      "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
     },
     {
       "added_at": "2022-03-11 06:16:07",

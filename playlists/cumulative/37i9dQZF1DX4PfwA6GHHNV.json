@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "GR\u20acG MC",
+          "url": "https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
+    },
+    {
+      "album": {
         "name": "Arrepios",
         "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
       },

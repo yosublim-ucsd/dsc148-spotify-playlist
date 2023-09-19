@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 10112,
+  "num_followers": 10140,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTBiNzZiYTNlZGM3MDE3NTM3NDViNDMzZmVjMWVlMTYwOGMzMmM2",
+  "snapshot_id": "MCwyMjUxNzhhMzNjZjc2OTk3N2E1MjNjYmE5YjE1YTU4MDE2ZmY1ZGQ5",
   "tracks": [
     {
       "added_at": "2023-08-24 02:22:14",
@@ -23,6 +23,22 @@
       "duration_ms": 167480,
       "name": "Deep in the night, you and me",
       "url": "https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "\uc774\uc0ac Moving",
+        "url": "https://open.spotify.com/album/3WUrxZXHNostS9hbGd3A4Q"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "\uc774\uc0ac Moving",
+      "url": "https://open.spotify.com/track/1LKrxKVMmC9ahJ77RTAQ4f"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -55,22 +71,6 @@
       "duration_ms": 206053,
       "name": "Summer Night You and I",
       "url": "https://open.spotify.com/track/7m1PHy5AiA2Y2VEkCvVGzY"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
-        "name": "\uc774\uc0ac Moving",
-        "url": "https://open.spotify.com/album/3WUrxZXHNostS9hbGd3A4Q"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "\uc774\uc0ac Moving",
-      "url": "https://open.spotify.com/track/1LKrxKVMmC9ahJ77RTAQ4f"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 200862,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 251560,
       "name": "If",
       "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "PLAYLIST (Original Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "What Should I do",
         "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 267893,
       "name": "What Should I do",
       "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -491,6 +491,26 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
+        "name": "\uc548\ubd80 Greeting",
+        "url": "https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371"
+      },
+      "artists": [
+        {
+          "name": "Kim Oki",
+          "url": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 400870,
+      "name": "\uc548\ub155 Bye (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
         "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
         "url": "https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87"
       },
@@ -527,22 +547,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
-        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
-      },
-      "artists": [
-        {
-          "name": "Who R U?",
-          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
-      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "Lean On Me (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
@@ -555,6 +559,22 @@
       "duration_ms": 153000,
       "name": "It will be all fine",
       "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
+        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
+      },
+      "artists": [
+        {
+          "name": "Who R U?",
+          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
+      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -587,26 +607,6 @@
       "duration_ms": 178493,
       "name": "i and i",
       "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
-        "name": "\uc548\ubd80 Greeting",
-        "url": "https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371"
-      },
-      "artists": [
-        {
-          "name": "Kim Oki",
-          "url": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 400870,
-      "name": "\uc548\ub155 Bye (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "Lonely night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
         "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 178373,
       "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
       "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "Lonely night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Lost Stars",
+      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
+        "name": "My Little Thought",
+        "url": "https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Lazy Me",
+      "url": "https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
         "name": "Mm Mm",
         "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 187500,
       "name": "Quince Tree",
       "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
-        "name": "My Little Thought",
-        "url": "https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Lazy Me",
-      "url": "https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

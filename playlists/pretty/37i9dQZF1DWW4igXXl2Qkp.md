@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:1WaFQSHVGZQJTbf0BdxdNo">Tommy Richman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,634 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,696 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FEVER](https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:10 |
-| 2 | [Fuck the Lies](https://open.spotify.com/track/2vEMKldLN7wFv3XFNWgk6s) | [Tel Money](https://open.spotify.com/artist/0tZEZDemDVkndCOnjHyrAW) | [Fuck the Lies](https://open.spotify.com/album/6GijDn7atAhpqs7Va5hUmh) | 3:22 |
-| 3 | [Just In Time](https://open.spotify.com/track/7MWv1HHPxLo3OlRX5bRnIt) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Just In Time](https://open.spotify.com/album/5gKEIPtqlPK7WWOEUdB6W9) | 2:14 |
-| 4 | [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 |
-| 5 | [BRB](https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [BRB](https://open.spotify.com/album/11tIOLXTlQRg1ZJeJrIBJ6) | 1:47 |
-| 6 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 |
-| 7 | [Water](https://open.spotify.com/track/2oWwkZox6LKv7vQccsOlMv) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [UGH](https://open.spotify.com/album/3eFOkUfSZ4yUH9b8804KR1) | 1:53 |
-| 8 | [High Standards](https://open.spotify.com/track/2EfkjrpRyqFxhiBpI3AqtL) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [High Standards](https://open.spotify.com/album/5E3CcBIGp0Uma00uGG5R2k) | 3:29 |
+| 1 | [Fuck the Lies](https://open.spotify.com/track/2vEMKldLN7wFv3XFNWgk6s) | [Tel Money](https://open.spotify.com/artist/0tZEZDemDVkndCOnjHyrAW) | [Fuck the Lies](https://open.spotify.com/album/6GijDn7atAhpqs7Va5hUmh) | 3:22 |
+| 2 | [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 |
+| 3 | [FEVER](https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:10 |
+| 4 | [Just In Time](https://open.spotify.com/track/7MWv1HHPxLo3OlRX5bRnIt) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Just In Time](https://open.spotify.com/album/5gKEIPtqlPK7WWOEUdB6W9) | 2:14 |
+| 5 | [High Standards](https://open.spotify.com/track/2EfkjrpRyqFxhiBpI3AqtL) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [High Standards](https://open.spotify.com/album/5E3CcBIGp0Uma00uGG5R2k) | 3:29 |
+| 6 | [BRB](https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [BRB](https://open.spotify.com/album/11tIOLXTlQRg1ZJeJrIBJ6) | 1:47 |
+| 7 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 |
+| 8 | [Water](https://open.spotify.com/track/2oWwkZox6LKv7vQccsOlMv) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [UGH](https://open.spotify.com/album/3eFOkUfSZ4yUH9b8804KR1) | 1:53 |
 | 9 | [In Da Area](https://open.spotify.com/track/2HJXPA4Tqfp6ezekrVgg8k) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work Volume.2](https://open.spotify.com/album/2qHbhcVWG14e4k6FfFEKEA) | 2:08 |
 | 10 | [I Like](https://open.spotify.com/track/4FV1qGukKvdaVtBcv853Bi) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [I Like](https://open.spotify.com/album/4vYP74UV7y5RWLhp3mGC38) | 2:06 |
 | 11 | [Last laugh](https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [HNL](https://open.spotify.com/track/0zxpRRpS5SZQyiTW3sP2Tk) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [HNL](https://open.spotify.com/album/7vsrshJJAAW5AQJDcRo6Jx) | 2:22 |
 | 75 | [Love Language](https://open.spotify.com/track/5fNgz0GbFBXhz4RoBNTnQB) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Love Language](https://open.spotify.com/album/0YYIIcjmHW3mtiVaLStpOD) | 2:07 |
 
-Snapshot ID: `MCwzODk1YjMwNmFmNGQ4ZTM2ZTA1YzYzYmJkNDhiOWZlNWViN2E3ODc2`
+Snapshot ID: `MCwxODFmODY1ZDgyZTY4NGI0NzAwYTdhZGI5NzE4MzlkMGQxZTIzM2Jj`

@@ -5,6 +5,48 @@
   "tracks": [
     {
       "album": {
+        "name": "Alzypher Vol. 1",
+        "url": "https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Alzypher Vol. 1",
+      "url": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
       },
@@ -586,7 +628,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 220946,
       "name": "Manejando Bien R\u00e1pido",
       "url": "https://open.spotify.com/track/5Ek7uFR8PbqMRgbIqzCGJ4"

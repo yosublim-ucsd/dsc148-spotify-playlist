@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 277461,
       "name": "Bomba At\u00f3mica",
       "url": "https://open.spotify.com/track/5MoDPR7GwbH50w45ikDs8A"
@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "Me Estoy Poniendo Viejo",
+        "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234382,
+      "name": "Me Estoy Poniendo Viejo",
+      "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
+    },
+    {
+      "album": {
         "name": "El Gran Cacique",
         "url": "https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ"
       },
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 175906,
       "name": "Mi Gran Noche",
       "url": "https://open.spotify.com/track/7Ce3RwQrxYwih27gpRjJhE"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Paga la Cuenta Sinverguenza",
       "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"

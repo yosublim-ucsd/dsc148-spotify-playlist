@@ -4,7 +4,7 @@
 
 > Where the local scene started.
 
-57 songs - 3 hr 19 min
+59 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Faster the Chase](https://open.spotify.com/track/3TyvUMUb5SG55CWxCwizoF) | [InMe](https://open.spotify.com/artist/6EXjdbEiqhPzodtf7MtVos) | [White Butterfly](https://open.spotify.com/album/6iBQRwQad8crW7TkoVZXcy) | 3:30 | 2022-12-28 |  |
 | [Forget His Facade](https://open.spotify.com/track/2ryH0f8E3gLqZyEXGmin27) | [Furthest Drive Home](https://open.spotify.com/artist/1gQmSu1aiJweUuHVPtCjMM) | [Forget His Facade](https://open.spotify.com/album/4JbmVyJYKsN7WaAQBvURiZ) | 3:37 | 2023-01-06 |  |
 | [Give Me What I Want](https://open.spotify.com/track/0Fx8N7XtHkbF3ZnPk8Pm6B) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [UK Sound](https://open.spotify.com/album/2q9DE2cseH212rhCFRc2hO) | 3:19 | 2022-12-28 | 2023-03-09 |
-| [Give Me What I Want](https://open.spotify.com/track/76RjI93JiNnMWvqVjAyjWV) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Falling Down: Post\-Hardcore Millennials](https://open.spotify.com/album/2vSfyYHhmKtMmZ5ESQTIB4) | 3:19 | 2022-12-28 |  |
+| [Give Me What I Want](https://open.spotify.com/track/2fbFuqMaEBFMNX0pzoGW2K) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [You've Got Some Catching Up to Do](https://open.spotify.com/album/3BdstsGEz1xvAM9Li0ECXu) | 3:19 | 2022-12-28 |  |
+| [Give Me What I Want](https://open.spotify.com/track/76RjI93JiNnMWvqVjAyjWV) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Falling Down: Post\-Hardcore Millennials](https://open.spotify.com/album/2vSfyYHhmKtMmZ5ESQTIB4) | 3:19 | 2022-12-28 | 2023-09-19 |
 | [Gum](https://open.spotify.com/track/0ty8clX5vC9cc08KqywES5) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 3:01 | 2023-01-06 |  |
 | [Here We Go](https://open.spotify.com/track/6jngGXpDL4VDaPUTAZebJf) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Lower Than Atlantis](https://open.spotify.com/album/25xQevIYTCKcvsw9fyZoDb) | 3:42 | 2022-12-28 |  |
 | [Hiding With Boys](https://open.spotify.com/track/3quA6NYHEI2n2pLZvjc3LB) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Eternity, In Your Arms](https://open.spotify.com/album/4Q3AGdThgRrZmYaFtDbWmP) | 3:33 | 2023-01-06 |  |
@@ -37,7 +38,8 @@
 | [Live Like This](https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:36 | 2023-01-06 |  |
 | [Love Someone Else](https://open.spotify.com/track/1tofp6uffkJvUAy3yoC1Tp) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Changing Tune](https://open.spotify.com/album/2mw1ppe4S1ijmVTdF5iuCe) | 2:29 | 2022-12-28 |  |
 | [Made Up Stories](https://open.spotify.com/track/2ZdymrlU6m5hlw4IIcHJPp) | [Go:Audio](https://open.spotify.com/artist/6ucXCSUlJfLhpAYhyO9S50) | [Made Up Stories](https://open.spotify.com/album/1TDScbF70yfakqo72tzgDr) | 3:17 | 2023-01-06 |  |
-| [Matters at All](https://open.spotify.com/track/4xcVz5h9ZArd4UG3EzDms1) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Emo Confessions](https://open.spotify.com/album/1jNV367bAhq5M8szF4EG6f) | 3:50 | 2022-12-28 |  |
+| [Matters at All](https://open.spotify.com/track/4xcVz5h9ZArd4UG3EzDms1) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Emo Confessions](https://open.spotify.com/album/1jNV367bAhq5M8szF4EG6f) | 3:50 | 2022-12-28 | 2023-09-19 |
+| [Matters at All](https://open.spotify.com/track/5LyHsdD7kh3IZf8YVScWZH) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [You've Got Some Catching Up to Do](https://open.spotify.com/album/3BdstsGEz1xvAM9Li0ECXu) | 3:50 | 2022-12-28 |  |
 | [Money Power Fame](https://open.spotify.com/track/6Y2hhxh7Abr3Xtg7qM9Dz0) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Automatic](https://open.spotify.com/album/2HbNC0hBybJ97pzOcEtgW1) | 3:22 | 2022-12-28 |  |
 | [Move, Shake, Hide \- Was Brauer Mix](https://open.spotify.com/track/5MrZ8zjALW5fsTjch9YLrT) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1), [Was Brauer](https://open.spotify.com/artist/0FkFBPl6srrSG45Ihg1l0e) | [The Weird And Wonderful Marmozets](https://open.spotify.com/album/0g6Yixfp4y0wlDCY8ukhfp) | 3:27 | 2022-12-28 |  |
 | [No Sleep Tonight](https://open.spotify.com/track/0kkvGHFs7oTdfItBF4n1hW) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Common Dreads](https://open.spotify.com/album/1NuzPVEhVfDYdu49gmxrzd) | 4:16 | 2022-12-28 | 2023-04-16 |

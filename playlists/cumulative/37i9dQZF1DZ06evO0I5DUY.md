@@ -4,7 +4,7 @@
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 44 min
+78 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,9 +57,10 @@
 | [Mandato Divino](https://open.spotify.com/track/6aAz6vKrqgnakvmzhwjQ6C) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Explosion Norteña](https://open.spotify.com/album/2R6VICqmXcj45VuwQ6G5Hr) | 3:01 | 2022-06-01 |  |
 | [Menos Que Nada](https://open.spotify.com/track/46mK5SstpnGYBhwSrWf0re) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:45 | 2022-07-22 |  |
 | [Mi Amigo](https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Tu Nombre](https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm) | 2:43 | 2022-06-01 |  |
+| [Mi Primer Amor](https://open.spotify.com/track/1b9pojRX4HOsrthAGDZghA) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [30 Cadetazos](https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8) | 2:36 | 2023-09-18 |  |
 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Mas Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 | 2022-09-01 | 2022-09-03 |
 | [Nave 727](https://open.spotify.com/track/7DffTGNIGuDdpNiPy766Es) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Lupe Tijerina y Rosendo Cantu](https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 3:17 | 2022-06-02 | 2022-10-06 |
-| [Necio, Necio Moriré](https://open.spotify.com/track/6eJvzv29SetXxfpltuEdji) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:15 | 2023-09-15 |  |
+| [Necio, Necio Moriré](https://open.spotify.com/track/6eJvzv29SetXxfpltuEdji) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:15 | 2023-09-15 | 2023-09-19 |
 | [No Hay Novedad](https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:03 | 2022-06-01 |  |
 | [Nomas Las Mujeres Quedan](https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Corridos](https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD) | 3:08 | 2022-06-03 |  |
 | [Pescadores de Ensenada](https://open.spotify.com/track/2QLYBaZhH2uCkxTfGgG0u7) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pescadores de Ensenada](https://open.spotify.com/album/5yPptrMx2qRG9dweqE7aD1) | 2:54 | 2022-06-02 |  |

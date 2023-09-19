@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Weeekly\(위클리\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Loossemble\(루셈블\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-362 songs - 20 hr 20 min
+363 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-11-29 |  |
 | [Kiss Kiss](https://open.spotify.com/track/50ajzamysWhpMUVP89gfsQ) | [LABOUM](https://open.spotify.com/artist/4iO5uKMUphLqQ20TfrdZx3) | [BLOSSOM](https://open.spotify.com/album/59SDRVaYsfAurXwDmOwiBe) | 3:09 | 2021-11-29 | 2022-07-29 |
 | [KNOCK KNOCK](https://open.spotify.com/track/7kKvrBLjXFPFWtEAjT59CV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster : LANE 2](https://open.spotify.com/album/7CgL5c3BKZUnYgh8uWdeQQ) | 3:15 | 2021-11-29 | 2022-07-25 |
-| [L.O.V.E](https://open.spotify.com/track/2Q6sQdtO6fuMDstx7dQDf5) | [HUR YOUNG JI](https://open.spotify.com/artist/0FUmt6iMoB9sJpxZuWkOI5) | [Toi Toi Toi](https://open.spotify.com/album/6FjX3b1iXNls3lsVSPj5bi) | 2:59 | 2023-09-13 |  |
+| [L.O.V.E](https://open.spotify.com/track/2Q6sQdtO6fuMDstx7dQDf5) | [HUR YOUNG JI](https://open.spotify.com/artist/0FUmt6iMoB9sJpxZuWkOI5) | [Toi Toi Toi](https://open.spotify.com/album/6FjX3b1iXNls3lsVSPj5bi) | 2:59 | 2023-09-13 | 2023-09-19 |
 | [La Vie en Rose](https://open.spotify.com/track/1fRaznZsAB2i63TtmYv2Hc) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/7tggzWGzVusg9SEKqbJYpt) | 3:38 | 2021-11-29 | 2022-07-29 |
 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 | 2022-07-28 |  |
 | [Lady's Room](https://open.spotify.com/track/6f48SDPW5xu6gUsfLaHOZi) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:15 | 2022-03-29 | 2022-04-05 |
@@ -170,7 +170,7 @@
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-11-29 |  |
 | [Listen to my word\(A\-ing\)](https://open.spotify.com/track/3jxoRPeed8f84PLTuKJeR7) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Haha](https://open.spotify.com/artist/3lY2yvsj2BSiYSA8PcPGqF), [SKULL](https://open.spotify.com/artist/7qKWQnE3S7v8m3rLwMVdGg) | [LISTEN TO MY WORD](https://open.spotify.com/album/6ZlnuAuYdtlcZ8aIRjWV8J) | 3:30 | 2022-04-04 | 2022-04-21 |
 | [LOL](https://open.spotify.com/track/3f8hlbcbaUvwIZcOkbiFPh) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:29 | 2021-11-29 | 2022-04-19 |
-| [Lost Dreams](https://open.spotify.com/track/1bD1saiO45a4GBgsTByTfn) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:24 | 2023-09-13 |  |
+| [Lost Dreams](https://open.spotify.com/track/1bD1saiO45a4GBgsTByTfn) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:24 | 2023-09-13 | 2023-09-19 |
 | [LOVE BOMB](https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue) | 3:19 | 2022-07-28 | 2023-08-24 |
 | [LOVE BOMB](https://open.spotify.com/track/6FoI3qwCRq0el1RYKeVGSx) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/1txcaw9svQD60PDIjdqrBY) | 3:19 | 2021-11-29 | 2022-07-02 |
 | [Love Bug](https://open.spotify.com/track/5KnXbmxjbmXiuSmMclGOIi) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 6th Mini Album 'Time for the moon night'](https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP) | 3:42 | 2021-11-29 | 2022-07-25 |
@@ -261,6 +261,7 @@
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-28 | 2022-08-13 |
 | [Secret Garden](https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 4:04 | 2021-11-29 | 2022-07-28 |
 | [SEMINA](https://open.spotify.com/track/0wVLIpc1C3nSwvKNtkPrq3) | [gugudan SEMINA](https://open.spotify.com/artist/794b07X4OdSxB97S6X3NaP) | [Semina](https://open.spotify.com/album/65sFFFCBlzpksWDFLKLbEu) | 3:07 | 2021-11-29 | 2022-07-28 |
+| [Sensitive](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [Loossemble](https://open.spotify.com/album/51TyZNm7E9EF1gSJGLGsxh) | 3:05 | 2023-09-18 |  |
 | [Shine](https://open.spotify.com/track/2qJjNAljfrYm7slPCXzRtC) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:36 | 2022-01-26 | 2022-04-11 |
 | [Shining Bright](https://open.spotify.com/track/2E4E9jhBX8aAAACBG19Ked) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [DELIGHT](https://open.spotify.com/album/7aTLF46tlKvNePZyUIf4e6) | 3:28 | 2023-03-30 | 2023-07-18 |
 | [Shot thru the heart](https://open.spotify.com/track/7ut6KQCuZ2ANbnMsSe7eos) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:25 | 2022-03-29 | 2022-04-13 |
@@ -271,7 +272,7 @@
 | [Sixteen](https://open.spotify.com/track/3hNdg4iWnhnjj1kP14sRKC) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:21 | 2022-01-04 | 2022-04-21 |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-03 | 2023-08-15 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-17 |  |
-| [Smooth Sailing](https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 3:36 | 2023-08-30 | 2023-09-07 |
+| [Smooth Sailing](https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 3:36 | 2023-08-30 |  |
 | [SNAPSHOT](https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [Jessica & Krystal \- US Road Trip \(Original Soundtrack, Pt\. 2\)](https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki) | 3:10 | 2021-11-29 | 2022-07-20 |
 | [Sooo LUCKY](https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:22 | 2021-11-29 | 2022-07-27 |
 | [Sparkling Rain](https://open.spotify.com/track/5LokC9peDfvMTpAPjMIlV6) | [hyeon seo park](https://open.spotify.com/artist/3ikV9ZwFZz1DDiTc6xbMAW) | [Sparkling Rain](https://open.spotify.com/album/4uCCdIu2Ug9CBtTW11LtiZ) | 3:26 | 2022-07-04 | 2022-07-09 |

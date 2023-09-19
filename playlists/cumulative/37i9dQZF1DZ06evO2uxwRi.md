@@ -4,7 +4,7 @@
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 3 min
+74 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Thousand Years](https://open.spotify.com/track/5jikbiarPYHC9fc3lYrHfV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 4:00 | 2022-10-12 |  |
 | [Accidentally in Love](https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 2:58 | 2022-09-16 |  |
 | [All Downhill From Here](https://open.spotify.com/track/5dpDrUG52yI3s1AQRlaypA) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:12 | 2022-09-16 |  |
+| [Anthem for the Unwanted](https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 3:12 | 2023-09-18 |  |
 | [At Least I'm Known For Something](https://open.spotify.com/track/5Lp0UwCoIDhrWR4ZXVXiu6) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:30 | 2022-09-16 |  |
 | [Backseat](https://open.spotify.com/track/4lQcddTT0dqUgRsiFux4bK) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Backseat](https://open.spotify.com/album/7wEu93qQCQX4PaTwka6jvW) | 3:30 | 2022-09-19 | 2023-05-18 |
 | [Better Off Dead](https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 2:48 | 2022-09-16 |  |
@@ -79,7 +80,7 @@
 | [Truth Of My Youth](https://open.spotify.com/track/7JHJCf7qCg1USvqvhIOVgW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:02 | 2022-09-16 |  |
 | [Understatement](https://open.spotify.com/track/4191ROqtYiS10furYDAv05) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:11 | 2022-09-16 |  |
 | [Vicious Love \(feat\. Hayley Williams\)](https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection: Ascension](https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk) | 3:17 | 2022-09-16 |  |
-| [Watch the Lilies Grow](https://open.spotify.com/track/4xEpc9SmK9cAlw0407Cxz9) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 4:33 | 2023-01-22 |  |
+| [Watch the Lilies Grow](https://open.spotify.com/track/4xEpc9SmK9cAlw0407Cxz9) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 4:33 | 2023-01-22 | 2023-09-19 |
 | [Your Jokes Aren't Funny](https://open.spotify.com/track/3KKGoTkLjHsXXAEjxX5kdT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:08 | 2022-09-16 | 2023-01-23 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

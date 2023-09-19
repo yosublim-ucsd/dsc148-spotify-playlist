@@ -4,7 +4,7 @@
 
 > Discover new releases and rising artists from the classical world\. Cover: Erland Cooper
 
-120 songs - 9 hr 3 min
+121 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [In the Mists \(Arr\. for Trumpet & Piano by Lucy Humphris\): I\. Andante](https://open.spotify.com/track/0JrsEDY8kQPfj9rVrOTplX) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Lucy Humphris](https://open.spotify.com/artist/2kYdsNXIJJQ3YH5Qqhhnip), [Harry Rylance](https://open.spotify.com/artist/6JdUIgRFi8bSKeY5I1vctT) | [Janáček: In the Mists](https://open.spotify.com/album/0u3dmv18z82ZJeIGXART4W) | 4:39 | 2023-03-03 |  |
 | [In Transit](https://open.spotify.com/track/5J9WtGaILyrpnqNOJiAuIy) | [Neil Gaiman](https://open.spotify.com/artist/5Is2PjIax2qNHglzMBSRWY), [FourPlay String Quartet](https://open.spotify.com/artist/28Qz1ko7E5vCcx6z6hyDA4) | [In Transit](https://open.spotify.com/album/6Bvy3VdjMddprT8qQn9UEs) | 6:07 | 2023-03-03 |  |
 | [Invocation](https://open.spotify.com/track/5Ab2aR0dnezaz23JVR7vso) | [Fraser Wilson](https://open.spotify.com/artist/6d5Y1TyRHtneqB7I81gWkO), [Apollo5](https://open.spotify.com/artist/4dSvehv3V36ySeHEuuGMQx) | [Invocations](https://open.spotify.com/album/1eQcStHHIT6dKDfRAxJcKh) | 6:10 | 2023-03-10 |  |
-| [Ker al Loch \- Solo Piano](https://open.spotify.com/track/3wS3AQejgbN67aLHiODBiM) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Ker al Loch \(Four Ways\)](https://open.spotify.com/album/0Dj7gv30Jz736jF3SRYtzS) | 5:59 | 2023-06-09 |  |
+| [Ker al Loch \- Solo Piano](https://open.spotify.com/track/3wS3AQejgbN67aLHiODBiM) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Ker al Loch \(Four Ways\)](https://open.spotify.com/album/0Dj7gv30Jz736jF3SRYtzS) | 5:59 | 2023-06-09 | 2023-09-19 |
+| [Ker al Loch \- Solo Piano](https://open.spotify.com/track/7xmmQMR8TQUFq6ADEo5YqP) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Kerber \(Solo Piano\)](https://open.spotify.com/album/739SgH5SoCbzVOWQw59o5r) | 5:59 | 2023-08-18 |  |
 | [Le sacre du printemps / Pt\. 2: Le sacrifice: XIV\. Danse sacrale: L'Élue](https://open.spotify.com/track/736llxXEMkdZjjQQzu71L6) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd), [Klaus Mäkelä](https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE) | [Stravinsky: Le sacre du printemps / Pt\. 2: Le sacrifice: XIV\. Danse sacrale: L'Élue](https://open.spotify.com/album/6sQUIVQxAxMQvliDgseLcQ) | 4:49 | 2023-03-03 |  |
 | [Liszt: 3 Liebesträume, S\. 541: No\. 2 in E Major](https://open.spotify.com/track/0VWEJL1npobt3gQLhhyV0J) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mariam Batsashvili](https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci) | [Liszt: 3 Liebesträume, S\. 541: No\. 2](https://open.spotify.com/album/1PHUM5WeAVxcOofKOE598U) | 4:27 | 2023-08-18 |  |
 | [Love Is Stronger Than Pride \(Arr\. Simon for Piano\)](https://open.spotify.com/track/5XyaoHmuxdVWUg2vkO1McG) | [Sade Adu](https://open.spotify.com/artist/0US6Qjw05r2L04QMNTLWfg), [Andrew Hale](https://open.spotify.com/artist/38noD0A6jhU1r40ICjtajU), [Stuart Matthewman](https://open.spotify.com/artist/2OOsPeiMEpk3JKFqUT9OAN), [Carlos Simon](https://open.spotify.com/artist/25U2MSksQUgokSJw5snr9G) | [Love Is Stronger Than Pride \(Arr\. Simon for Piano\)](https://open.spotify.com/album/0vfaZ5hgbnt49rHlwooRuw) | 4:08 | 2023-08-18 |  |

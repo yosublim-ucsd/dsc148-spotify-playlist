@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 34891,
+  "num_followers": 34912,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmEyMmViZmZiOTdkNTQzZmM2MTYxOWU2NWZiMjFjNzE3YTVkNjUx",
+  "snapshot_id": "MCw0MTc3MTkzZGM2NDY1MTJkYWY3M2IyZmZhMzczZDFiYTI0YTcwNTUx",
   "tracks": [
     {
       "added_at": "2023-06-16 14:02:21",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -175,22 +159,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -203,6 +171,38 @@
       "duration_ms": 196133,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 187666,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "I Wish I Knew How It Would Feel to Be Free",
-      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 213136,
       "name": "Mad About You",
       "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -843,6 +843,38 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "The Sweetest Peaches [Part One (1940-1966)]",
+        "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Something's Got A Hold On Me",
+      "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 231044,
+      "name": "Kissing My Love",
+      "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "Got To Be Good",
         "url": "https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e"
       },
@@ -859,22 +891,6 @@
       "duration_ms": 159933,
       "name": "Got To Be Good",
       "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "The Sweetest Peaches [Part One (1940-1966)]",
-        "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Something's Got A Hold On Me",
-      "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -911,18 +927,18 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 231044,
-      "name": "Kissing My Love",
-      "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
+      "duration_ms": 144000,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -959,38 +975,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Love and Hate in a Different Time",
         "url": "https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 282177,
       "name": "Love and Hate in a Different Time - Original",
       "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Something",
         "url": "https://open.spotify.com/album/7moeasHrdO4gtA9gierUQ7"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 207333,
       "name": "Light My Fire - 1994 Remaster",
       "url": "https://open.spotify.com/track/2RxYGOHMSm6nc9q9xyLtYq"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "Angels & Queens - Part I (Track by Track)",
+        "url": "https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 176048,
       "name": "The Hardest Part (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "Angels & Queens - Part I (Track by Track)",
-        "url": "https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
     },
     {
       "added_at": "2023-06-16 14:02:21",

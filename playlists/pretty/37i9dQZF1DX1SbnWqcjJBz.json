@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 77717,
+  "num_followers": 77853,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODFlOWU0NzJhNGNkNjcxNjgyMzJkMThmY2M4ZmRkYjY2ODY5NDMz",
+  "snapshot_id": "MCw1NWFhNGYwNzZlNWE4NTZjYmEyNzc2YWQ3ODg5MDFjNmJmZDkwOGY5",
   "tracks": [
     {
       "added_at": "2023-08-05 17:03:05",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Prisoner (feat. Dua Lipa)",
+      "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 185480,
       "name": "Harleys In Hawaii",
       "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Prisoner (feat. Dua Lipa)",
-      "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -375,42 +375,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Plastic Hearts",
-      "url": "https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
-        "name": "Rain On Me (with Ariana Grande)",
-        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -423,6 +387,22 @@
       "duration_ms": 180283,
       "name": "Salt",
       "url": "https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Plastic Hearts",
+      "url": "https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -459,22 +439,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Femme Fatale (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "JoJo",
         "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
       },
@@ -491,6 +455,42 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
         "name": "I'm Not Dead",
         "url": "https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 214386,
       "name": "U + Ur Hand",
       "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -575,22 +591,6 @@
       "duration_ms": 256213,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
-        "name": "Maybe You\u2019re The Problem",
-        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -711,38 +711,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 162595,
-      "name": "Look At Her Now",
-      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
-        "name": "LM5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Wasabi",
-      "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "Hook Me Up",
         "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
       },
@@ -787,6 +755,38 @@
       "duration_ms": 207959,
       "name": "Cut To The Feeling",
       "url": "https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Wasabi",
+      "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 162595,
+      "name": "Look At Her Now",
+      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
       },
       "artists": [
         {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
+      "duration_ms": 159013,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -1039,6 +1023,22 @@
       "duration_ms": 240600,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Half Written Story",
-        "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 216083,
-      "name": "I Love You's",
-      "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 162585,
       "name": "Boys",
       "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "Half Written Story",
+        "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 216083,
+      "name": "I Love You's",
+      "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Lotus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "Welcome to the Dollhouse",
         "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 244266,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "I Don't Want It At All",
-        "url": "https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 250615,
-      "name": "I Don't Want It At All",
-      "url": "https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "SAWAYAMA (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Love You Like That",
-        "url": "https://open.spotify.com/album/4bQ7I6MzchpBs3tJh1mwoW"
+        "name": "I Don't Want It At All",
+        "url": "https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4"
       },
       "artists": [
         {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 177946,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/2IClzYyvgwrsmVVipYsx5T"
+      "duration_ms": 250615,
+      "name": "I Don't Want It At All",
+      "url": "https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -1663,6 +1647,22 @@
       "duration_ms": 205693,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "Love You Like That",
+        "url": "https://open.spotify.com/album/4bQ7I6MzchpBs3tJh1mwoW"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/2IClzYyvgwrsmVVipYsx5T"
     },
     {
       "added_at": "2023-08-05 17:03:05",

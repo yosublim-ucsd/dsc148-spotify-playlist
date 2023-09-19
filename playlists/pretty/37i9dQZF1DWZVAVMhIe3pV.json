@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 338620,
+  "num_followers": 338831,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjUzMjc2MWZmM2M4ZWYxZGFmMWI0NWE3NGRiYTY5OGFiNjM5ZmFl",
+  "snapshot_id": "MCxmNzRiOTdkMmRiZGQ0MzdhYjE2NmM3MmZjZDdkNjRmZjliYWEwZjc3",
   "tracks": [
     {
       "added_at": "2023-09-08 08:39:24",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-08 08:39:24",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Somewhere I Belong",
-      "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
-    },
-    {
-      "added_at": "2023-09-08 08:39:24",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 159836,
       "name": "abcdefu (angrier)",
       "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
+    },
+    {
+      "added_at": "2023-09-08 08:39:24",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Somewhere I Belong",
+      "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
     },
     {
       "added_at": "2023-09-08 08:39:24",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-08 08:39:24",
       "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
-    },
-    {
-      "added_at": "2023-09-08 08:39:24",
-      "album": {
         "name": "Trench",
         "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 252360,
       "name": "Send the Pain Below",
       "url": "https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s"
+    },
+    {
+      "added_at": "2023-09-08 08:39:24",
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
     },
     {
       "added_at": "2023-09-08 08:39:24",

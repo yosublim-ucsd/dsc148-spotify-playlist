@@ -2109,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "Expert In A Dying Field (Deluxe)",
+        "url": "https://open.spotify.com/album/1hrtiaFoQ6Xj8J8V8cdPU2"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191253,
+      "name": "I Told You That I Was Afraid - Acoustic",
+      "url": "https://open.spotify.com/track/1fZvTi2TCNDFl1JvbJ2j1b"
+    },
+    {
+      "album": {
         "name": "I Told You That I Was Afraid (Acoustic)",
         "url": "https://open.spotify.com/album/1hIGg6MAd0unvfdCRpqCVU"
       },
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 191253,
       "name": "I Told You That I Was Afraid - Acoustic",
       "url": "https://open.spotify.com/track/2xI0fHshnUbLnKGB66Mc3c"

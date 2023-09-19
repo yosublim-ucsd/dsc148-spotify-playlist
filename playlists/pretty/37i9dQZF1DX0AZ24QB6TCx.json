@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 304466,
+  "num_followers": 304524,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWE4MzdkM2NkZWVkMDFkNWUwMDE3YmJhMTJjMjRmYzI1ZTViZGU5",
+  "snapshot_id": "MCwwNTE1MjUzZTY4YTc0NDkwMzY3OTJkZWRkMmRjYTBiODFhMTNiYjQ1",
   "tracks": [
     {
       "added_at": "2023-08-03 22:01:00",
@@ -403,6 +403,26 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 269799,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "High On Beat",
+        "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
+        }
+      ],
+      "duration_ms": 206223,
+      "name": "High On Beat",
+      "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "Unspoken Words",
         "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
       },
@@ -575,22 +595,6 @@
       "duration_ms": 285675,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Graf Zahl",
-        "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 332869,
-      "name": "Graf Zahl",
-      "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -611,6 +615,22 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "Graf Zahl",
+        "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        }
+      ],
+      "duration_ms": 332869,
+      "name": "Graf Zahl",
+      "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 371859,
       "name": "Movement",
       "url": "https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "High On Beat",
-        "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Bloom Twins",
-          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
-        }
-      ],
-      "duration_ms": 206223,
-      "name": "High On Beat",
-      "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
+        "name": "Purified Fragments Vi",
+        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Firmoral",
+      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
         "name": "A Radiant Sign (Remixed)",
         "url": "https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 227987,
       "name": "Far Behind - Jeremy Olander Remix",
       "url": "https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi"
-    },
-    {
-      "added_at": "2023-08-03 22:01:00",
-      "album": {
-        "name": "Purified Fragments Vi",
-        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Firmoral",
-      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
     },
     {
       "added_at": "2023-08-03 22:01:00",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "Vaal",
-        "url": "https://open.spotify.com/album/7FuSN7H620KARGtXqV9LK6"
+        "name": "CTG",
+        "url": "https://open.spotify.com/album/7xdjpdKWXPxXYynt2DDFG0"
       },
       "artists": [
         {
-          "name": "Crouwel",
-          "url": "https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE"
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "I\u00fari Oliveira",
+          "url": "https://open.spotify.com/artist/6OUoXZid4ik4nXQ4FuYLPg"
         }
       ],
-      "duration_ms": 228818,
-      "name": "Vaal",
-      "url": "https://open.spotify.com/track/1VwrgkMDeccLvOdX9q5QJs"
+      "duration_ms": 198000,
+      "name": "CTG",
+      "url": "https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny"
     }
   ],
   "unique_name": "Afterhours",

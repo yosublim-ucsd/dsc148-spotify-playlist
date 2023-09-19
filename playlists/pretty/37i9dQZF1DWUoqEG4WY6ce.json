@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1054044,
+  "num_followers": 1054189,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTZiNmI4YzgxMWE3NGMzNTY3Y2M1ZmM5ZjNmYjU0YWQ2YWEwMjIw",
+  "snapshot_id": "MCwzYmY0Nzc2YTliYTA2ZGM3ZTM0Y2M5NzRkOTFiYzQzMDdkYWVmMGEx",
   "tracks": [
     {
       "added_at": "2023-06-01 19:14:40",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "We're Going to Be Friends",
-      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
         "name": "Grand",
         "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 246586,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "Every Time the Sun Comes Up",
+      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
         "name": "Consolers of the Lonely",
         "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "Every Time the Sun Comes Up",
-      "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
     },
     {
       "added_at": "2023-06-01 19:14:40",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-06-01 19:14:40",
       "album": {
+        "name": "Earthtones",
+        "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 260959,
+      "name": "Way With Words",
+      "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
+    },
+    {
+      "added_at": "2023-06-01 19:14:40",
+      "album": {
         "name": "Santa Catalina",
         "url": "https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 235000,
       "name": "Driving South",
       "url": "https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m"
-    },
-    {
-      "added_at": "2023-06-01 19:14:40",
-      "album": {
-        "name": "Earthtones",
-        "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 260959,
-      "name": "Way With Words",
-      "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
     },
     {
       "added_at": "2023-06-01 19:14:40",

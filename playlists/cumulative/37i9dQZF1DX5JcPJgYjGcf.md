@@ -4,7 +4,7 @@
 
 > All the megahits by the South Korean boy band are right here! We are one!
 
-141 songs - 8 hr 7 min
+142 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Say It](https://open.spotify.com/track/1v63HdaLjF520P32frB392) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [1 Billion Views \- The 1st Album](https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q) | 3:20 | 2021-07-26 |  |
 | [Si Fueras Mía](https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2021-07-26 |  |
 | [Sign](https://open.spotify.com/track/2WoZh6Z32L6lEEDu7wxmfT) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:13 | 2021-07-26 |  |
+| [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 | 2023-09-18 |  |
 | [SSFW](https://open.spotify.com/track/4CrjiZPKCIMeDTW1wYZxRG) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [SSFW](https://open.spotify.com/album/5eq9uD3Lm8SKdYfTBxRdX7) | 3:39 | 2021-07-26 |  |
 | [Stay With Me](https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Guardian \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) | 3:12 | 2021-07-26 |  |
 | [Telephone](https://open.spotify.com/track/6ksOaijLwaSWTVRtPgakt0) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1 Billion Views \- The 1st Album](https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q) | 3:15 | 2021-07-26 |  |

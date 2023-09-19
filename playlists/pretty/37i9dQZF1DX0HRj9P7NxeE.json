@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1769767,
+  "num_followers": 1769870,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmExNjgzYmI5MjQzYjcyMzIwZTViMGZjOTlhZWYxNjI3N2E1MWRm",
+  "snapshot_id": "MCw5ZWE3ZDM1MzA3MDFkNjIzODc5ZjQ3MjhlYjk4MjE2MDUxOWZiMmM2",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Have Mercy",
-        "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 186761,
       "name": "Lottery (feat. LU KALA)",
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Have Mercy",
+        "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Fruit Loop",
-        "url": "https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 137263,
-      "name": "Fruit Loop",
-      "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "SHOT O' CLOCK",
         "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Fruit Loop",
+        "url": "https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 137263,
+      "name": "Fruit Loop",
+      "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Booty Drop",
         "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 159560,
       "name": "Booty Drop",
       "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -703,22 +687,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx"
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
       },
       "artists": [
         {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 133200,
-      "name": "I Can't Stop (Big Boss Vette & Omah Lay)",
-      "url": "https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6"
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -751,26 +731,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
-        "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
-      "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "They Got Amnesia",
         "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
       },
@@ -795,118 +755,42 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+        "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
+        "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
+      "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
     },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Pressurelicious (feat. Future)",
-        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 173061,
-      "name": "Pressurelicious (feat. Future)",
-      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Blick Blick",
-        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "Blick Blick (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Throw Dat",
-        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Throw Dat",
-      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Act Bad",
-        "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Act Bad",
-      "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It's Givin",
-      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+      "duration_ms": 133200,
+      "name": "I Can't Stop (Big Boss Vette & Omah Lay)",
+      "url": "https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -947,6 +831,106 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Blick Blick",
+        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "Blick Blick (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Wheelie (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Throw Dat",
+        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Throw Dat",
+      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Pressurelicious (feat. Future)",
+        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 173061,
+      "name": "Pressurelicious (feat. Future)",
+      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Act Bad",
+        "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Act Bad",
+      "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "THE SINGLE LIFE",
         "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
       },
@@ -959,6 +943,34 @@
       "duration_ms": 134760,
       "name": "BO$$ CHICK",
       "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Anything Flows (feat. Maiya The Don, 2Rare & Kari Faux)",
+        "url": "https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        }
+      ],
+      "duration_ms": 198385,
+      "name": "Anything Flows (feat. Maiya The Don, 2Rare & Kari Faux)",
+      "url": "https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m"
     },
     {
       "added_at": "2023-09-15 04:00:00",

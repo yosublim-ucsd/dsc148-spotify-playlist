@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-284 songs - 16 hr 59 min
+285 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-11-24 | 2023-04-14 |
 | [I Love You So \- Acoustic](https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So \(Acoustic\)](https://open.spotify.com/album/5WU3xyxDUz9pSjBg8h6cYU) | 2:27 | 2022-10-20 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-24 |  |
-| [I Told You That I Was Afraid \- Acoustic](https://open.spotify.com/track/2xI0fHshnUbLnKGB66Mc3c) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [I Told You That I Was Afraid \(Acoustic\)](https://open.spotify.com/album/1hIGg6MAd0unvfdCRpqCVU) | 3:11 | 2023-07-18 |  |
+| [I Told You That I Was Afraid \- Acoustic](https://open.spotify.com/track/1fZvTi2TCNDFl1JvbJ2j1b) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field \(Deluxe\)](https://open.spotify.com/album/1hrtiaFoQ6Xj8J8V8cdPU2) | 3:11 | 2023-09-15 |  |
+| [I Told You That I Was Afraid \- Acoustic](https://open.spotify.com/track/2xI0fHshnUbLnKGB66Mc3c) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [I Told You That I Was Afraid \(Acoustic\)](https://open.spotify.com/album/1hIGg6MAd0unvfdCRpqCVU) | 3:11 | 2023-07-18 | 2023-09-19 |
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-10-20 | 2022-12-15 |
 | [I've Got Me](https://open.spotify.com/track/3OEkjjCpSSDJKtgCKA7lXx) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/7554UBrWWgTDrFloVXvVCc) | 2:16 | 2023-06-29 |  |
 | [If I Was A Painter](https://open.spotify.com/track/6HNRHvqwjiQc0deescr4x6) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [All Of This Is Chance](https://open.spotify.com/album/0efxzMu8bCNeWP2MGltdRE) | 4:07 | 2023-02-09 | 2023-06-30 |

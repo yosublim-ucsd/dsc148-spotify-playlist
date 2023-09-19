@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 46097,
+  "num_followers": 46130,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
+  "snapshot_id": "MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Beach Planet Vol. 1",
+        "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
+      },
+      "artists": [
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Each Time I Think of You",
+      "url": "https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Que Me Siga (Malo)",
         "url": "https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 195946,
       "name": "Que Me Siga (Malo)",
       "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Beach Planet Vol. 1",
-        "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
-      },
-      "artists": [
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Each Time I Think of You",
-      "url": "https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -711,34 +711,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Sierra Madre (Remix)",
-        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
-      },
-      "artists": [
-        {
-          "name": "Bial Hclap",
-          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
-        },
-        {
-          "name": "H\u00e9ctor Guerra",
-          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
-        },
-        {
-          "name": "Danger",
-          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
-        },
-        {
-          "name": "Noe Gonzalez Molina",
-          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
-        }
-      ],
-      "duration_ms": 305866,
-      "name": "Sierra Madre (Remix)",
-      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Tierra",
         "url": "https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J"
       },
@@ -775,6 +747,34 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Sierra Madre (Remix)",
+        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "H\u00e9ctor Guerra",
+          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
+        },
+        {
+          "name": "Danger",
+          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
+        },
+        {
+          "name": "Noe Gonzalez Molina",
+          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
+        }
+      ],
+      "duration_ms": 305866,
+      "name": "Sierra Madre (Remix)",
+      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -907,6 +907,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Venimos",
         "url": "https://open.spotify.com/album/6LVxpWNwPBJBfZSIotbjJ1"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 211367,
       "name": "Venimos",
       "url": "https://open.spotify.com/track/4RZ6HrfPP5ML2L3D7bsPXW"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        },
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 188804,
-      "name": "La Ni\u00f1a Grande",
-      "url": "https://open.spotify.com/track/0nOay39wPB6N6sNTYnXjrN"
     }
   ],
   "unique_name": "Club Electropical",

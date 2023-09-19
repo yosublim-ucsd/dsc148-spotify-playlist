@@ -4,7 +4,7 @@
 
 > HIPHOP 50!
 
-1,213 songs - 2 day 5 hr 34 min
+1,214 songs - 2 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -925,6 +925,7 @@
 | [SAFARI](https://open.spotify.com/track/3TJm53n5DqltPYnn8UYquo) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [SAFARI](https://open.spotify.com/album/7wcI75BwXH6Qw8xSsqOymb) | 2:22 | 2023-07-06 |  |
 | [Sagrada Familia](https://open.spotify.com/track/3ocHxXV8fDZ1R6iMoEIYan) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:49 | 2021-12-16 | 2022-02-11 |
 | [Saint Laurent \(feat\. C.Gambino\)](https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Saint Laurent \(feat\. C.Gambino\)](https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC) | 2:48 | 2023-06-01 | 2023-09-08 |
+| [Salam](https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salam](https://open.spotify.com/album/56xgHK320guDeJaXou4VQu) | 2:17 | 2023-09-18 |  |
 | [SALT TILL SOCKER](https://open.spotify.com/track/77rmhU3V7x6SxMnxpYt9Gh) | [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29) | [SALT TILL SOCKER](https://open.spotify.com/album/4jWEG47HF6fhWpY5sNwNqv) | 2:25 | 2021-12-16 | 2022-01-20 |
 | [Sand I Skorna \(feat\. Niklas von Arnold\)](https://open.spotify.com/track/00g7bDWZe0xxFpiLIjp1MC) | [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [Sum Comfort](https://open.spotify.com/artist/5bGZv8x0se674jzkn0rnfP), [Niklas von Arnold](https://open.spotify.com/artist/4qxxOhWbUE0N7Nn6yfIjbQ) | [Backspeglar II / Sand I Skorna](https://open.spotify.com/album/2P4QQrDxGeeQ1nQcyz6WrX) | 2:56 | 2022-12-15 | 2023-01-20 |
 | [SANDEN](https://open.spotify.com/track/0AYy1Pbcqp1PTnlDdHrmHt) | [GIDDE](https://open.spotify.com/artist/52wHLsSLdkVMLYo2ZXP8y6) | [SANDEN](https://open.spotify.com/album/4Wr7MPl8uUVtUhId9xqWVx) | 2:30 | 2022-11-17 | 2022-12-02 |
@@ -978,7 +979,7 @@
 | [Släppa Taget](https://open.spotify.com/track/0w4aPwxBYwYg5VMKVlU3gQ) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Släppa Taget](https://open.spotify.com/album/7w4W6NrkgzCBVpgYneFRKD) | 3:14 | 2023-04-27 | 2023-06-02 |
 | [Slå tillbaks](https://open.spotify.com/track/3009VcC2Z0lf1sZBuJnJbN) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Slå tillbaks](https://open.spotify.com/album/0dKjkBn1u8UtmDEDWQsFGx) | 2:53 | 2022-06-23 | 2022-08-05 |
 | [Slösa Min Tid](https://open.spotify.com/track/2eJyy5ndUo90AwE0rPzUDi) | [fowler](https://open.spotify.com/artist/49y6Rng4PhdGOKdC4xKfIA), [ANH](https://open.spotify.com/artist/1kmyK4B8GpPz1nHI2MvOSO) | [Slösa Min Tid](https://open.spotify.com/album/7ukBA1iD8CgLWavw25pHts) | 2:33 | 2023-09-07 | 2023-09-11 |
-| [Slösa Min Tid](https://open.spotify.com/track/75Fpg4QgKglOYjl2qahrOY) | [fowler](https://open.spotify.com/artist/49y6Rng4PhdGOKdC4xKfIA), [ANH](https://open.spotify.com/artist/1kmyK4B8GpPz1nHI2MvOSO) | [Slösa Min Tid](https://open.spotify.com/album/2NvulYneU0aBPQn99DZDNt) | 2:33 | 2023-09-07 |  |
+| [Slösa Min Tid](https://open.spotify.com/track/75Fpg4QgKglOYjl2qahrOY) | [fowler](https://open.spotify.com/artist/49y6Rng4PhdGOKdC4xKfIA), [ANH](https://open.spotify.com/artist/1kmyK4B8GpPz1nHI2MvOSO) | [Slösa Min Tid](https://open.spotify.com/album/2NvulYneU0aBPQn99DZDNt) | 2:33 | 2023-09-07 | 2023-09-19 |
 | [Smooth](https://open.spotify.com/track/0yytFV5LM6FCKaeANeVvfv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [No Borders: European Compilation Project](https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP) | 2:51 | 2022-11-10 | 2023-02-10 |
 | [Smäller lokalt](https://open.spotify.com/track/3qzZR7sk8OvUQAHmaklatW) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Smäller lokalt](https://open.spotify.com/album/26XvNWskss1XednRdp59bH) | 2:12 | 2023-03-03 | 2023-03-31 |
 | [Snabbt](https://open.spotify.com/track/6TdJ1SX5GWGaP890MCs5bn) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx), [R1ZZY](https://open.spotify.com/artist/0gc4Q4fFZ8m5HNZtW8MxGB), [Pregame](https://open.spotify.com/artist/4C3xckfmc7nHR3P29jrXFb) | [Snabbt](https://open.spotify.com/album/6atpUdjNIDMWUvREXaoruK) | 1:56 | 2023-08-10 | 2023-09-08 |

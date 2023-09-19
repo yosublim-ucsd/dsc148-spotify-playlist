@@ -651,6 +651,32 @@
     },
     {
       "album": {
+        "name": "AIO",
+        "url": "https://open.spotify.com/album/5n3YDTAYHFMHEC2VJtsPZP"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213708,
+      "name": "AIO",
+      "url": "https://open.spotify.com/track/0aiHF5X0CGALjTaEFurQnd"
+    },
+    {
+      "album": {
         "name": "Al Chica",
         "url": "https://open.spotify.com/album/5wcpuA5GZ8XdlJbppL5yJH"
       },
@@ -16203,6 +16229,24 @@
     },
     {
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/02IhYgiRbwckRrXTKYrRPV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165242,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n"
+    },
+    {
+      "album": {
         "name": "On & On (Kevin McKay Remix)",
         "url": "https://open.spotify.com/album/0Loqru4GwLUyDo0t26CaPp"
       },
@@ -17412,7 +17456,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 216028,
       "name": "Pheromones",
       "url": "https://open.spotify.com/track/4CfZFbL0CDLG1YJmnxgJju"
@@ -17598,7 +17642,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"

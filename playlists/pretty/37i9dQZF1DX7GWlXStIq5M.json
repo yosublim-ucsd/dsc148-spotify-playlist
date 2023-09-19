@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Lexa, Thiago Pantale\u00e3o",
-  "num_followers": 366535,
+  "num_followers": 366572,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWM5M2M0ZWI0YWJkZjBiZTI1ZjYzMTYwNzFmNTEyZjI0MmIxNjAx",
+  "snapshot_id": "MCwwYjgwMzg2YTFmMmQ3NTA3YzMzODhhMDBkNjM5MGE4M2M2MGZkMWI2",
   "tracks": [
     {
       "added_at": "2023-09-15 03:00:00",
@@ -251,6 +251,26 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Pilantra",
+        "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 192708,
+      "name": "Pilantra",
+      "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -291,30 +311,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 202955,
-      "name": "NOSSA M\u00daSICA",
-      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "BICHO SOLTO!!!",
         "url": "https://open.spotify.com/album/4OXl5ItBNYKMZ1uvQiVwY2"
       },
@@ -335,22 +331,26 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Pilantra",
-        "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
       "artists": [
         {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 192708,
-      "name": "Pilantra",
-      "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
+      "duration_ms": 202955,
+      "name": "NOSSA M\u00daSICA",
+      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Funk Generation: A Favela Love Story",
-        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 172950,
-      "name": "Used To Be",
-      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
+      "duration_ms": 173725,
+      "name": "Principalmente Me Sinto Arrasada",
+      "url": "https://open.spotify.com/track/24LGL93o3wuVuYLCBhV3c5"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -411,6 +411,22 @@
       "duration_ms": 135456,
       "name": "Quase N\u00e3o Namoro",
       "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 172950,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -455,22 +471,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 173725,
-      "name": "Principalmente Me Sinto Arrasada",
-      "url": "https://open.spotify.com/track/24LGL93o3wuVuYLCBhV3c5"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Piloto",
         "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
       },
@@ -483,26 +483,6 @@
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Vai Vendo",
-        "url": "https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 162221,
-      "name": "Vai Vendo",
-      "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -523,22 +503,6 @@
       "duration_ms": 128371,
       "name": "Te vi de canto",
       "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Ciclone",
-        "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Ciclone",
-      "url": "https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -591,6 +555,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 140196,
+      "name": "Carnificina",
+      "url": "https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
@@ -603,6 +583,42 @@
       "duration_ms": 175000,
       "name": "Tudo Pra Amar Voc\u00ea",
       "url": "https://open.spotify.com/track/729wf3M4niTm0Cw7J8p63a"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Vai Vendo",
+        "url": "https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 162221,
+      "name": "Vai Vendo",
+      "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Ciclone",
+        "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Ciclone",
+      "url": "https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -655,18 +671,38 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+        "name": "MAMA.CITA (hasta la vista)",
+        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
       "artists": [
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 140196,
-      "name": "Carnificina",
-      "url": "https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI"
+      "duration_ms": 152358,
+      "name": "MAMA.CITA (hasta la vista)",
+      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 133140,
+      "name": "Casi Casi",
+      "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -687,22 +723,6 @@
       "duration_ms": 204235,
       "name": "Fiu Fiu",
       "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Funk Generation: A Favela Love Story",
-        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 133140,
-      "name": "Casi Casi",
-      "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -795,26 +815,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "MAMA.CITA (hasta la vista)",
-        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 152358,
-      "name": "MAMA.CITA (hasta la vista)",
-      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Orishas",
         "url": "https://open.spotify.com/album/5ExpTcYgqYuloazTYb0RgC"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 166470,
       "name": "N\u00e3o Devo Nada",
       "url": "https://open.spotify.com/track/7Mhe1VdenqiiRAqsSIyxHo"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Oops!...I did it again",
-        "url": "https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 138064,
-      "name": "Oops!\u2026I Did It Again",
-      "url": "https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -959,6 +943,22 @@
       "duration_ms": 166363,
       "name": "Dejav\u00fa",
       "url": "https://open.spotify.com/track/1JnXc8ukcmbP2BRVRhmMaM"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Oops!...I did it again",
+        "url": "https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 138064,
+      "name": "Oops!\u2026I Did It Again",
+      "url": "https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Tua Bitch",
-        "url": "https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY"
-      },
-      "artists": [
-        {
-          "name": "Dona Nyna",
-          "url": "https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "TUA BITCH",
-      "url": "https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Inten\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 135625,
       "name": "Inten\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Tua Bitch",
+        "url": "https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY"
+      },
+      "artists": [
+        {
+          "name": "Dona Nyna",
+          "url": "https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "TUA BITCH",
+      "url": "https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL"
     },
     {
       "added_at": "2023-09-15 03:00:00",

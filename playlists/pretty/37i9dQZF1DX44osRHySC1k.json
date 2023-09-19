@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52064,
+  "num_followers": 52069,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGFhNjEzMTFkMmZkMjIxYTQ2MzgzYWMzNjhmMjgxNzI0MzhjMDk0",
+  "snapshot_id": "MCw5ZjA1NTMzNGY0YTRlMzc0N2UwMmFhM2UzYjk5MmNhMTE5YzcwMGUz",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Atmospheres",
-        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Pads of Redemption",
         "url": "https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 168536,
       "name": "Pads of Redemption",
       "url": "https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 572853,
-      "name": "Sound of Invisible Waters",
-      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Falling Stars",
         "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 158423,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 572853,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
-        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Deep Theta 4 Hz",
-      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Sea Of Tranquility",
         "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 175318,
       "name": "Sea Of Tranquility",
       "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "Deep Theta 4 Hz",
+      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -587,6 +587,30 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Endless Meditation",
+        "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
+      },
+      "artists": [
+        {
+          "name": "Savasana",
+          "url": "https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk"
+        },
+        {
+          "name": "Yoga Savasana",
+          "url": "https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq"
+        },
+        {
+          "name": "Moon Tunes",
+          "url": "https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD"
+        }
+      ],
+      "duration_ms": 163684,
+      "name": "Endless Sleep",
+      "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -651,26 +675,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Endless Meditation",
-        "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
+        "name": "A Clear Mind",
+        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
       },
       "artists": [
         {
-          "name": "Savasana",
-          "url": "https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk"
-        },
-        {
-          "name": "Yoga Savasana",
-          "url": "https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq"
-        },
-        {
-          "name": "Moon Tunes",
-          "url": "https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD"
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
         }
       ],
-      "duration_ms": 163684,
-      "name": "Endless Sleep",
-      "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
+      "duration_ms": 173696,
+      "name": "A Clear Mind",
+      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -691,18 +707,34 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Clear Mind",
-        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
+        "name": "schemering",
+        "url": "https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq"
       },
       "artists": [
         {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+          "name": "Jaidy Thissen",
+          "url": "https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT"
         }
       ],
-      "duration_ms": 173696,
-      "name": "A Clear Mind",
-      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
+      "duration_ms": 124374,
+      "name": "schemering",
+      "url": "https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mantric Melody",
+        "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 111277,
+      "name": "Mantric Melody",
+      "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -719,22 +751,6 @@
       "duration_ms": 247257,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "schemering",
-        "url": "https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq"
-      },
-      "artists": [
-        {
-          "name": "Jaidy Thissen",
-          "url": "https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT"
-        }
-      ],
-      "duration_ms": 124374,
-      "name": "schemering",
-      "url": "https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -767,22 +783,6 @@
       "duration_ms": 130541,
       "name": "Sentiment",
       "url": "https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Mantric Melody",
-        "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 111277,
-      "name": "Mantric Melody",
-      "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Sleeping Rose",
-        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
-      },
-      "artists": [
-        {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "My Sleeping Rose",
-      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "For Better Times",
         "url": "https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 247283,
       "name": "As We Believed",
       "url": "https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "My Sleeping Rose",
+        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+      },
+      "artists": [
+        {
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "My Sleeping Rose",
+      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Anjali",
-        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
-      },
-      "artists": [
-        {
-          "name": "Michael Mandrell and Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Priya (Beloved)",
-      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 152581,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Anjali",
+        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
+      },
+      "artists": [
+        {
+          "name": "Michael Mandrell and Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Priya (Beloved)",
+      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Distant Call",
+        "url": "https://open.spotify.com/album/2mebF0VT6uPkhFFFaUD4lS"
+      },
+      "artists": [
+        {
+          "name": "Patric Edmundsson",
+          "url": "https://open.spotify.com/artist/3Gmy6Q0k5ghwf6DlvLykAv"
+        },
+        {
+          "name": "Edmundsson",
+          "url": "https://open.spotify.com/artist/4LmMqAbv5YOe97JeIsGxUz"
+        }
+      ],
+      "duration_ms": 114857,
+      "name": "Distant Call",
+      "url": "https://open.spotify.com/track/2TLpX4WdP9seockw6oO3Lg"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Mandala Spirit",
         "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 272730,
       "name": "Rain",
       "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Distant Call",
-        "url": "https://open.spotify.com/album/2mebF0VT6uPkhFFFaUD4lS"
-      },
-      "artists": [
-        {
-          "name": "Patric Edmundsson",
-          "url": "https://open.spotify.com/artist/3Gmy6Q0k5ghwf6DlvLykAv"
-        },
-        {
-          "name": "Edmundsson",
-          "url": "https://open.spotify.com/artist/4LmMqAbv5YOe97JeIsGxUz"
-        }
-      ],
-      "duration_ms": 114857,
-      "name": "Distant Call",
-      "url": "https://open.spotify.com/track/2TLpX4WdP9seockw6oO3Lg"
     }
   ],
   "unique_name": "Nidra",

@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 163045,
+  "num_followers": 163154,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl",
+  "snapshot_id": "MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -123,26 +123,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Apnea",
         "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 218000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Lost Gravity EP",
+        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 305401,
+      "name": "Lost Gravity",
+      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Lost Gravity EP",
-        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
         }
       ],
-      "duration_ms": 305401,
-      "name": "Lost Gravity",
-      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
+      "duration_ms": 300975,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -511,22 +527,6 @@
       "duration_ms": 267488,
       "name": "My Stripes",
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 300975,
-      "name": "Starz",
-      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 249677,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Clear",
-      "url": "https://open.spotify.com/track/2qEUwn7wOYwecjpQbrCvjB"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Vivi",
-        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
-      },
-      "artists": [
-        {
-          "name": "Elevven",
-          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Vivi",
-      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Faya / The Crack",
         "url": "https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 310000,
       "name": "Faya",
       "url": "https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
+      },
+      "artists": [
+        {
+          "name": "Elevven",
+          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Vivi",
+      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
     },
     {
       "added_at": "2022-11-25 16:56:36",

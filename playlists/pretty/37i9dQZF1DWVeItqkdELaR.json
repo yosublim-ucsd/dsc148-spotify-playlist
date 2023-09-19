@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 103552,
+  "num_followers": 103612,
   "original_name": "Ver\u00e3o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWY5NTdkMWUzMjQ0MzI1MTZlMTJmMWU5YTViOGI5N2U2OWUzOWQ0",
+  "snapshot_id": "MCw3NWY4Njk3NWY3NzM3ZTM5NGI0N2QzY2Y2NTExOTQ3YjI2Y2Q1N2Q4",
   "tracks": [
     {
       "added_at": "2023-08-29 17:00:51",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "Duas Tr\u00eas",
         "url": "https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "Solteiros",
-        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 179023,
-      "name": "Solteiros",
-      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "EUROPA (feat. Gson)",
         "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 216800,
       "name": "EUROPA (feat. Gson)",
       "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "Solteiros",
+        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 179023,
+      "name": "Solteiros",
+      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
     },
     {
       "added_at": "2023-08-29 17:00:51",

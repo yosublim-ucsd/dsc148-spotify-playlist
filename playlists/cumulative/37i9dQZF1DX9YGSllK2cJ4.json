@@ -4987,6 +4987,24 @@
     },
     {
       "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/1s7oBPQXkG9AQN8FMqZgIQ"
+      },
+      "artists": [
+        {
+          "name": "Richard No\u00e9",
+          "url": "https://open.spotify.com/artist/6vqqdZR8jcxqX0wDi0xeji"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169830,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3b1HVaEhdzla4xDeSoU4BA"
+    },
+    {
+      "album": {
         "name": "Tempered",
         "url": "https://open.spotify.com/album/5DcXeEG9J7ok6XtGsxpRRx"
       },

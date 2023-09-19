@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 668890,
+  "num_followers": 669386,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjkxYjI4OTFkYmY3NzliODVhMmVlNTVhZWIyYWRmNjJlYWY4ZWVi",
+  "snapshot_id": "MCwxNjNlODdmNzhlODUyNTdiN2E1NDRmNTJhNmJhZjllZmY5OTFmYzg4",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Dear Prudence",
-      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Famous Monsters",
         "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 576703,
       "name": "Bela Lugosi's Dead (Official Version)",
       "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -313,20 +313,20 @@
       "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
+      "added_at": "2023-01-06 06:22:16",
       "album": {
-        "name": "Some Girls Wander by Mistake",
-        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711"
       },
       "artists": [
         {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+          "name": "Twin Tribes",
+          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
         }
       ],
-      "duration_ms": 488011,
-      "name": "Temple of Love - 1992",
-      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
+      "duration_ms": 190525,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -343,22 +343,6 @@
       "duration_ms": 428800,
       "name": "Love You to Death",
       "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
-    },
-    {
-      "added_at": "2023-01-06 06:22:16",
-      "album": {
-        "name": "Ceremony",
-        "url": "https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711"
-      },
-      "artists": [
-        {
-          "name": "Twin Tribes",
-          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
-        }
-      ],
-      "duration_ms": 190525,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -391,6 +375,22 @@
       "duration_ms": 231560,
       "name": "Dark Entries",
       "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Some Girls Wander by Mistake",
+        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 488011,
+      "name": "Temple of Love - 1992",
+      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Sky's Gone Out",
-        "url": "https://open.spotify.com/album/42L0285NmWnp6lF0Tf6uyw"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "All We Ever Wanted Was Everything",
-      "url": "https://open.spotify.com/track/6Q9kdCHXpAef5YbKXKeG9M"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Selected Scenes from the End of the World",
         "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "The Sky's Gone Out",
+        "url": "https://open.spotify.com/album/42L0285NmWnp6lF0Tf6uyw"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "All We Ever Wanted Was Everything",
+      "url": "https://open.spotify.com/track/6Q9kdCHXpAef5YbKXKeG9M"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 398933,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Eighties - 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -587,22 +603,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Eighties - 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/5bXAysvuhQbyWllgYuahwt"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 252093,
       "name": "Atmosphere - 2020 Digital Remaster",
       "url": "https://open.spotify.com/track/7k42ztYdHyKWrKrENxwjkV"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "The Lovecats",
-      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -699,18 +683,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
       },
       "artists": [
         {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 420300,
-      "name": "Dominion / Mother Russia",
-      "url": "https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ"
+      "duration_ms": 220093,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
     },
     {
       "added_at": "2023-03-17 00:43:40",
@@ -727,6 +711,22 @@
       "duration_ms": 179600,
       "name": "Christine",
       "url": "https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 420300,
+      "name": "Dominion / Mother Russia",
+      "url": "https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -775,6 +775,22 @@
       "duration_ms": 220160,
       "name": "Kick in the Eye",
       "url": "https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 334666,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -879,22 +895,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 334666,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Some Great Reward (2006 Remaster)",
         "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Poverty",
-        "url": "https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb"
-      },
-      "artists": [
-        {
-          "name": "Motorama",
-          "url": "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
-        }
-      ],
-      "duration_ms": 211510,
-      "name": "Red Drop",
-      "url": "https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Botanic Verses",
         "url": "https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 246560,
       "name": "Snake Dance",
       "url": "https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Poverty",
+        "url": "https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb"
+      },
+      "artists": [
+        {
+          "name": "Motorama",
+          "url": "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
+        }
+      ],
+      "duration_ms": 211510,
+      "name": "Red Drop",
+      "url": "https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL"
     },
     {
       "added_at": "2021-10-15 04:04:50",

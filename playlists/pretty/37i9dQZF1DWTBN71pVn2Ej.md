@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,417 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,458 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [Never Fucked Up Once](https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 2:20 |
 | 50 | [I Don't Wanna Think About It Anymore](https://open.spotify.com/track/0pPwh0OAc7DR4E2mKyBUGh) | [MOY](https://open.spotify.com/artist/3Rc6Z7I5jrIAKiYnrlWb0s) | [I Don't Wanna Think About It Anymore](https://open.spotify.com/album/4zhxDBXV48RtNB0fdFNkKD) | 2:29 |
 
-Snapshot ID: `MCwxNTdiMDU0MTM5OTFmZTdiOWQxMWRiMTczZWY5OTgyMTBhMWZiODc5`
+Snapshot ID: `MCwyZGE1NDc1N2Y2ZjI3ZDFkYTZkMWJhMzBhODA1YzgzYjlhNzNmMjNl`

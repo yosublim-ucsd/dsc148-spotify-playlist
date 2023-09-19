@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. Cover: LE SSERAFIM \(르세라핌\)
 
-286 songs - 15 hr 38 min
+287 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Heart Emoji \(feat\. BIGONE\)](https://open.spotify.com/track/5BhMBl7sVdjb8SOY7fwZjT) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Heart Emoji](https://open.spotify.com/album/3woPtSI7v4acRdHxKcjUvA) | 2:18 | 2023-01-11 | 2023-05-02 |
 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 | 2023-09-14 |  |
 | [Here I Am](https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q) | [BOYS PLANET](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) | [BOYS PLANET \- Here I Am](https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc) | 4:04 | 2023-01-11 | 2023-05-02 |
+| [hit the floor](https://open.spotify.com/track/6605lg0mbsHwJroFaEUtFH) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Voice tool tip.txt](https://open.spotify.com/album/4ZjyTLpfGTTDl8lfZUulGx) | 2:40 | 2023-09-18 |  |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-25 | 2023-02-16 |
 | [HOP ON THE TRUCK \(Prod\. Padi\)](https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [HOP ON THE TRUCK](https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE) | 4:23 | 2023-01-17 | 2023-08-24 |
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-11-03 | 2023-02-16 |
@@ -143,7 +144,7 @@
 | [Love You More Than Myself](https://open.spotify.com/track/7gzO0kkFEsUaQsfGlKjWBR) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Love You More Than Myself](https://open.spotify.com/album/5Y2s9onBx0bvUarEh8bQeJ) | 3:07 | 2021-12-30 | 2022-01-28 |
 | [Love, Maybe](https://open.spotify.com/track/5btJjUxmhPK1cwdw0mnhRD) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Love, Maybe \(A Business Proposal OST Part.5\)](https://open.spotify.com/album/50WHnqFZhIQC88oZr5hlN3) | 3:05 | 2022-04-18 | 2022-06-18 |
 | [Lovelylove \(feat\. CHOI NAKTA\)](https://open.spotify.com/track/0tyXMBNyUjV5oSuctNXZaw) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w), [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr) | [Lovelylove \(feat\. CHOI NAKTA\)](https://open.spotify.com/album/5r6hXPpgoLzmI9baalPZim) | 3:10 | 2021-12-30 | 2022-01-22 |
-| [lullaby](https://open.spotify.com/track/5svaQXGGlWWzuJW4eGAN9p) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [lullaby](https://open.spotify.com/album/3xrgoW81mLMRai347DLCW2) | 3:14 | 2023-05-01 |  |
+| [lullaby](https://open.spotify.com/track/5svaQXGGlWWzuJW4eGAN9p) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [lullaby](https://open.spotify.com/album/3xrgoW81mLMRai347DLCW2) | 3:14 | 2023-05-01 | 2023-09-19 |
 | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/track/4nEJDV6OOOww5gucLVgmZY) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/album/2jSpSqvYB1Us8C1HYmNG3I) | 2:41 | 2022-04-20 | 2022-07-05 |
 | [MAKE U DANCE](https://open.spotify.com/track/1vozwNInCvxQaBrc5a66eo) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [MAKE U DANCE](https://open.spotify.com/album/1UoyICgBwsGpylrHLj5zep) | 2:37 | 2021-12-30 | 2022-03-11 |
 | [MAKE U DANCE \(feat\. EUNHA\)](https://open.spotify.com/track/1ncwp4dnCgJ51kBXk3FeZu) | [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [MAKE U DANCE](https://open.spotify.com/album/30YRh92OdilNbDqsLrg90V) | 2:37 | 2022-11-30 | 2023-01-12 |

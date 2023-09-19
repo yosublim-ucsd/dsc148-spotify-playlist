@@ -2223,6 +2223,28 @@
     },
     {
       "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/3uCJttNNrmUgW1jVKRHDWv"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150303,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/4p1yzpajuKXwZKBQ7PyH9x"
+    },
+    {
+      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -7528,7 +7550,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
@@ -8014,7 +8036,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 429290,
       "name": "EnterRauw",
       "url": "https://open.spotify.com/track/2hlQyWfyn9KdzJtGFjlQAs"
@@ -8294,7 +8316,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 151373,
       "name": "ETA",
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
@@ -12528,7 +12550,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 156345,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
@@ -12594,7 +12616,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -17230,6 +17252,24 @@
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "album": {
+        "name": "Ojos de Girasol",
+        "url": "https://open.spotify.com/album/4093b1jyU6GQ0sH2w6wJbL"
+      },
+      "artists": [
+        {
+          "name": "Darviin",
+          "url": "https://open.spotify.com/artist/6dL0CCjAn3nxhZpGVmcO4E"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269373,
+      "name": "Ojos de Girasol",
+      "url": "https://open.spotify.com/track/3TIbBfQEDiM3nZiyIf4wFy"
     },
     {
       "album": {
@@ -21996,7 +22036,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 229013,
       "name": "Snow Flower (feat. Peakboy)",
       "url": "https://open.spotify.com/track/34IGOyXR6cn0YI9VBu8m0y"
@@ -24605,6 +24645,32 @@
     },
     {
       "album": {
+        "name": "TUCA DONKA",
+        "url": "https://open.spotify.com/album/27XmqsKeLyr5jDURAordcd"
+      },
+      "artists": [
+        {
+          "name": "CURSEDEVIL",
+          "url": "https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "Skorde",
+          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75692,
+      "name": "TUCA DONKA",
+      "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
+    },
+    {
+      "album": {
         "name": "Tukoh Taka (Official FIFA Fan Festival\u2122Anthem)",
         "url": "https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO"
       },
@@ -26788,6 +26854,32 @@
       "duration_ms": 161106,
       "name": "X19X",
       "url": "https://open.spotify.com/track/51CGbL9BAw1896waeHoR9w"
+    },
+    {
+      "album": {
+        "name": "XOXO (Kisses Hugs)",
+        "url": "https://open.spotify.com/album/7ypr8nw5re15S7r5XR8Q28"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "horrormovies",
+          "url": "https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA"
+        },
+        {
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130785,
+      "name": "XOXO (Kisses Hugs)",
+      "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"
     },
     {
       "album": {

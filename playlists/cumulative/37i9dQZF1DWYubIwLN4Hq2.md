@@ -4,7 +4,7 @@
 
 > It's a Saturday night in the country, all the time!
 
-81 songs - 4 hr 23 min
+82 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Lonely If You Are](https://open.spotify.com/track/1iyE0UwRtLUBf9OqLfFGSp) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [The Album](https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4) | 2:56 | 2022-07-18 |  |
 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 | 2022-07-18 |  |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2022-07-18 |  |
-| [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:39 | 2022-07-18 |  |
+| [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/0vInSJATtcoZZ0GofWNGjP) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Cross Country: The Extra Mile](https://open.spotify.com/album/47Neda2C9GGMDkgyM3fuqs) | 2:39 | 2023-08-31 |  |
+| [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:39 | 2022-07-18 | 2023-09-19 |
 | [My Wave](https://open.spotify.com/track/6wEWlttx3wUooRC7ydITFL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:32 | 2022-07-18 |  |
 | [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 | 2023-08-09 |  |
 | [Neon Soul](https://open.spotify.com/track/25Gxi8mBqLUMuEAGTzUSQc) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [Neon Soul](https://open.spotify.com/album/4ysEjN3nv2ZeGYuSntqcMa) | 3:12 | 2022-07-18 |  |

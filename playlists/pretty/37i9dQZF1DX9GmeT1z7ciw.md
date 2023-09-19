@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,589 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,632 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,19 +17,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 7 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 |
 | 8 | [KiLLiNG ME](https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [SEEDS OF HOPE](https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5) | 2:55 |
 | 9 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 |
-| 10 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
+| 10 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 |
 | 11 | [Rave\-up Tonight](https://open.spotify.com/track/4a6UFsB5YKrGYwC50RK5im) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [PHASE 2](https://open.spotify.com/album/5NvvNBuNHN9iDy1MdNYDrK) | 3:22 |
 | 12 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 |
 | 13 | [GODBLAST](https://open.spotify.com/track/7DQ5JwO0oEwm9IjYfaQGfB) | [Earthists.](https://open.spotify.com/artist/2fW1q3e7jiCe9l55PlIcNE) | [GODBLAST](https://open.spotify.com/album/1neW5Xgp9wEk3xZHDFq13s) | 3:06 |
-| 14 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 |
+| 14 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
 | 15 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
 | 16 | [SYOKISHODO](https://open.spotify.com/track/08JA6xRSgOcycZ94PqzJoE) | [HIKAGE](https://open.spotify.com/artist/5GmWKtZuqNYrBrrHlhY9DO) | [SYOKISHODO](https://open.spotify.com/album/7nchzTfUv6iZxjSFvWj3Yr) | 3:08 |
 | 17 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 |
 | 18 | [Underneath](https://open.spotify.com/track/6QgBcizFhhAywXr1Er0TAo) | [Falling Asleep](https://open.spotify.com/artist/10ieHOzetJ5VD9IBD1flWx) | [HEAVEN'S WHERE OUR SOULS BELONG](https://open.spotify.com/album/7g3nYJsl25536GHWALEpJn) | 3:37 |
 | 19 | [Shinra Dark Pop](https://open.spotify.com/track/1EcQCDJGRTbUyGHhAvyRvT) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [Shinra Dark Pop](https://open.spotify.com/album/1pD3UcDc6DNbzkYNl9yehf) | 2:10 |
 | 20 | [Dirty old fart is waiting for my reaction](https://open.spotify.com/track/1yxbAP2Q68GvJss6IaMES7) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 0:57 |
-| 21 | [Home](https://open.spotify.com/track/1YhaeT8EygMA6OaUVwrow4) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:01 |
-| 22 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
+| 21 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
+| 22 | [Home](https://open.spotify.com/track/1YhaeT8EygMA6OaUVwrow4) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:01 |
 | 23 | [GIANT KILLING](https://open.spotify.com/track/5B2dUopTUbPBD9Q0Zgfysf) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [HUMAN](https://open.spotify.com/album/4qSxXHpKqiVSlrpXY5Vj1l) | 3:28 |
 | 24 | [Voyuer](https://open.spotify.com/track/714b2diY0lAC23l1UwucEg) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [Voyuer](https://open.spotify.com/album/68prMgrp45QL4qb8tlBQ24) | 3:49 |
 | 25 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 49 | [Locust](https://open.spotify.com/track/6PfrqjudrParHtDBQ3bw9m) | [Prompts](https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl), [KAITOPALEDUSK](https://open.spotify.com/artist/1SS5s1IOYIkoHfsuQNIK0L) | [Locust / Let The Rain Wash Over](https://open.spotify.com/album/4phEIX43og9GKlEjUcZmCm) | 2:24 |
 | 50 | [Chronostasis](https://open.spotify.com/track/2hvydf5uDU6LD8e55JEScU) | [View From The Soyuz](https://open.spotify.com/artist/3F0nXEE0ikWWVavikJGkOT) | [Immaculate](https://open.spotify.com/album/4MVWrveCovKtARU8jwY0YD) | 2:43 |
 
-Snapshot ID: `MCw0M2MwOGQ1NTBiMjYwYmQwN2FmZDAwNzUwZTMxZWQ2OGQzZDY5ZjMz`
+Snapshot ID: `MCw4YTk1MTllZjE5ZjZjYTlmZDkzNDMzYmUwZTA0ZGUzODJmZDg2M2Vh`

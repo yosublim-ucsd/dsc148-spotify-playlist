@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-142 songs - 14 hr 49 min
+143 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Cantaloupe Island \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 5:33 | 2021-12-02 |  |
 | [Castle Park](https://open.spotify.com/track/0jf293soDMku4J3lHZXUa3) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [View With A Room](https://open.spotify.com/album/0bxXAO9Vxpx20fidIJc4va) | 3:57 | 2022-09-22 |  |
 | [Ceora](https://open.spotify.com/track/5rQTh8OF3mfjgu0NJkSTOk) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 6:23 | 2022-10-06 |  |
-| [Chicago Blues](https://open.spotify.com/track/0XA8HGtG7ypDQVdv1utqtP) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 4:53 | 2023-08-01 |  |
+| [Chicago Blues](https://open.spotify.com/track/03GB3BpOhd8PiIug8UKQQy) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 4:53 | 2023-08-30 |  |
+| [Chicago Blues](https://open.spotify.com/track/0XA8HGtG7ypDQVdv1utqtP) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 4:53 | 2023-08-01 | 2023-09-19 |
 | [Chicago Blues](https://open.spotify.com/track/26gSq8ynYSkBTo637il67o) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Chicago Blues](https://open.spotify.com/album/5WWS6v1T7jcdZ1CLUZtJtH) | 4:53 | 2023-08-01 | 2023-08-09 |
 | [Chitlins Con Carne](https://open.spotify.com/track/18A1V1vsy5YgHFqb4galTw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:30 | 2021-12-02 |  |
 | [Colors In The Dark](https://open.spotify.com/track/48Fbw0y8ofNfTHmuezhNPm) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Collagically Speaking](https://open.spotify.com/album/4odXFRfbmTNdyjiidyDgDb) | 4:48 | 2021-12-02 | 2023-04-12 |

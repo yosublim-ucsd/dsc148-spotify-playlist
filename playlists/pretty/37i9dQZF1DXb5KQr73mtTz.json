@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 15181,
+  "num_followers": 15211,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmQ2OWU0ZGQ0ZmZhODc5YTdhZjQ2OTAxNjEwYjRjMzQxNjJjNzBm",
+  "snapshot_id": "MCxmZjg3ZjU5ZjA1NGYyMWRmMWZkM2MzNzUyZDE0ODdlNzhlMmU3ZDU0",
   "tracks": [
     {
       "added_at": "2023-09-15 04:42:38",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-09-15 04:42:38",
       "album": {
-        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c OST Part.3",
-        "url": "https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF"
-      },
-      "artists": [
-        {
-          "name": "Kim Yeonji",
-          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
-        }
-      ],
-      "duration_ms": 302864,
-      "name": "\ub9c8\uc74c\uc758 \ub9d0",
-      "url": "https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10"
-    },
-    {
-      "added_at": "2023-09-15 04:42:38",
-      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS"
       },
@@ -231,22 +215,6 @@
     {
       "added_at": "2023-09-15 04:42:38",
       "album": {
-        "name": "Go Back \uc9d1\uc5d0",
-        "url": "https://open.spotify.com/album/2sLLoVge1yKRRnMfsSxMoZ"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 227489,
-      "name": "Go Back \uc9d1\uc5d0",
-      "url": "https://open.spotify.com/track/1PpbY7tb1bcMPMfbACTHDG"
-    },
-    {
-      "added_at": "2023-09-15 04:42:38",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -263,18 +231,34 @@
     {
       "added_at": "2023-09-15 04:42:38",
       "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
+        "name": "\ub85c\ubd07\uc774 \uc544\ub2c8\uc57c OST Part.3",
+        "url": "https://open.spotify.com/album/6PghZs1B7a76Q2eFqqf5hF"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "Kim Yeonji",
+          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
         }
       ],
-      "duration_ms": 211999,
-      "name": "Can't Go",
-      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
+      "duration_ms": 302864,
+      "name": "\ub9c8\uc74c\uc758 \ub9d0",
+      "url": "https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10"
+    },
+    {
+      "added_at": "2023-09-15 04:42:38",
+      "album": {
+        "name": "Go Back \uc9d1\uc5d0",
+        "url": "https://open.spotify.com/album/2sLLoVge1yKRRnMfsSxMoZ"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 227489,
+      "name": "Go Back \uc9d1\uc5d0",
+      "url": "https://open.spotify.com/track/1PpbY7tb1bcMPMfbACTHDG"
     },
     {
       "added_at": "2023-09-15 04:42:38",
@@ -291,6 +275,22 @@
       "duration_ms": 258532,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx"
+    },
+    {
+      "added_at": "2023-09-15 04:42:38",
+      "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Can't Go",
+      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
     },
     {
       "added_at": "2023-09-15 04:42:38",
@@ -359,6 +359,38 @@
     {
       "added_at": "2023-09-15 04:42:38",
       "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 281944,
+      "name": "Love Alone",
+      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
+    },
+    {
+      "added_at": "2023-09-15 04:42:38",
+      "album": {
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
+    },
+    {
+      "added_at": "2023-09-15 04:42:38",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -407,38 +439,6 @@
       "duration_ms": 217040,
       "name": "Without U",
       "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
-    },
-    {
-      "added_at": "2023-09-15 04:42:38",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 281944,
-      "name": "Love Alone",
-      "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
-    },
-    {
-      "added_at": "2023-09-15 04:42:38",
-      "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2023-09-15 04:42:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-09-15 04:42:38",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
-    },
-    {
-      "added_at": "2023-09-15 04:42:38",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2023-09-15 04:42:38",
+      "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2023-09-15 04:42:38",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-09-15 04:42:38",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 178666,
-      "name": "How You Been",
-      "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
+      "duration_ms": 216266,
+      "name": "\ub0a0 \uc0ac\ub791\ud55c \ucc98\uc74c\uc758 \ub108\ub85c \ub3cc\uc544\uc640",
+      "url": "https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ"
     },
     {
       "added_at": "2023-09-15 04:42:38",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-09-15 04:42:38",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "How You Been",
+      "url": "https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ"
+    },
+    {
+      "added_at": "2023-09-15 04:42:38",
+      "album": {
         "name": "Why break up? (My love X Jeon Sang Keun)",
         "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 271280,
       "name": "Why break up? (My love X Jeon Sang Keun)",
       "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
-    },
-    {
-      "added_at": "2023-09-15 04:42:38",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "\ub0a0 \uc0ac\ub791\ud55c \ucc98\uc74c\uc758 \ub108\ub85c \ub3cc\uc544\uc640",
-      "url": "https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ"
     },
     {
       "added_at": "2023-09-15 04:42:38",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-09-15 04:42:38",
       "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
       "artists": [
         {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2023-09-15 04:42:38",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-09-15 04:42:38",
       "album": {
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
+    },
+    {
+      "added_at": "2023-09-15 04:42:38",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 262394,
       "name": "Sad ending (Feat. george)",
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
-    },
-    {
-      "added_at": "2023-09-15 04:42:38",
-      "album": {
-        "name": "Eyebrow Moon \ub208\uc379\ub2ec",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2023-09-15 04:42:38",

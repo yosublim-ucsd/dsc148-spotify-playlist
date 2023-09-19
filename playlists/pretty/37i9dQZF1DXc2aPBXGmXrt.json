@@ -1,15 +1,15 @@
 {
   "description": "This is the essential Justin Bieber. ",
-  "num_followers": 2994150,
+  "num_followers": 2994836,
   "original_name": "This Is Justin Bieber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTBmMDUxNjhjM2FiYWY0NTU5MTMzY2U4ZGQ1N2QwYTBmOTJjNjky",
+  "snapshot_id": "MCwwM2M1MjUwMWU4NTViZTA5NzQ5MjVlYWUwYjFkZWE3MmE0MDQzOGE0",
   "tracks": [
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
@@ -61,7 +61,27 @@
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
+      "album": {
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+    },
+    {
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Private Landing (feat. Justin Bieber & Future)",
         "url": "https://open.spotify.com/album/3UeapbH1wFSnDjCjraZMQ2"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/4EDTT4kSqfpc0FKuxfNo2E"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Beautiful Love (Free Fire)",
         "url": "https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Cold Water",
         "url": "https://open.spotify.com/album/3Kmo85mapQ2wTaCAHBkKsK"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/7zsXy7vlHdItvUSH8EwQss"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
@@ -261,7 +281,7 @@
       "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice (The Complete Edition)",
         "url": "https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/3UGIZ8qcrMTwzLbx6Kttqt"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
@@ -401,7 +421,7 @@
       "url": "https://open.spotify.com/track/1jYiIOC5d6soxkJP81fxq2"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Despacito Feat. Justin Bieber (Remix)",
         "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/0pwYLVXVknPSGUQb39cePC"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/4MmMxyew8yq1OEyJOMaX6M"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "2U",
         "url": "https://open.spotify.com/album/0EYVu7ginQ5nPsQj3woBAQ"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/762UXiwEHYY97VL45sAUPR"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Never Say Never - The Remixes",
         "url": "https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice (Triple Chucks Deluxe)",
         "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/59ltMnCjkPJqUM4pBlc1o2"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "attention (with Justin Bieber)",
         "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice (The Complete Edition)",
         "url": "https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "up at night (feat. justin bieber)",
         "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice (The Complete Edition)",
         "url": "https://open.spotify.com/album/5v2lj0w9VJIbjcUUKYLvlo"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/5G99lkpldkHJx6o1Z37ts7"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Friends (with BloodPop\u00ae)",
         "url": "https://open.spotify.com/album/7huML9zDbY4thKH0xSuZTP"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/7iNIg7XDEaYECfWD5dJ9Va"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/3rLIv187BhjyweFe89SgLn"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
@@ -829,7 +849,7 @@
       "url": "https://open.spotify.com/track/70XP39KE8vTgxtRXcwfxJA"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/2o9LAypwGH4ctV0i9boo6d"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Eenie Meenie EP",
         "url": "https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu"
@@ -861,7 +881,7 @@
       "url": "https://open.spotify.com/track/45O0tUN9Bh6LH4eNxQ07AT"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -877,7 +897,7 @@
       "url": "https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
@@ -897,7 +917,7 @@
       "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -913,7 +933,7 @@
       "url": "https://open.spotify.com/track/0oaY19dUwZimIgzn3ZZLZO"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
@@ -929,7 +949,7 @@
       "url": "https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
@@ -953,7 +973,7 @@
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice (Triple Chucks Deluxe)",
         "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
@@ -969,7 +989,7 @@
       "url": "https://open.spotify.com/track/3kZLeZr4StCy1tlOBRJrUH"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "No Brainer",
         "url": "https://open.spotify.com/album/02drHFQa59AoJWU6DXSSjd"
@@ -997,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5WvAo7DNuPRmk4APhdPzi8"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
@@ -1013,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
@@ -1033,7 +1053,7 @@
       "url": "https://open.spotify.com/track/6Z2pe32hFnUd2x5NgO5KFc"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
         "url": "https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr"
@@ -1057,7 +1077,7 @@
       "url": "https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -1077,7 +1097,7 @@
       "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "#willpower (Deluxe)",
         "url": "https://open.spotify.com/album/0VWYRbEcvJcPrqMGJirO6q"
@@ -1097,7 +1117,7 @@
       "url": "https://open.spotify.com/track/01TuObJVd7owWchVRuQbQw"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
@@ -1117,7 +1137,7 @@
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice (Triple Chucks Deluxe)",
         "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
@@ -1137,7 +1157,7 @@
       "url": "https://open.spotify.com/track/5dfjlWOwxxCQnM26MpsJjV"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -1157,7 +1177,7 @@
       "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
@@ -1173,7 +1193,7 @@
       "url": "https://open.spotify.com/track/40qyPyljksBEqlNw5sW37T"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
@@ -1193,7 +1213,7 @@
       "url": "https://open.spotify.com/track/1Mg8vLBYwizu7AuhYQO64V"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
@@ -1209,7 +1229,7 @@
       "url": "https://open.spotify.com/track/521Os1SMlxmsoevsqyjNmJ"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
@@ -1225,7 +1245,7 @@
       "url": "https://open.spotify.com/track/0pYUyZ3aQR1fAOdhXfoD3R"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
@@ -1245,7 +1265,7 @@
       "url": "https://open.spotify.com/track/1EsTfiu26JucTyc5npjJU4"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice (Triple Chucks Deluxe)",
         "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
@@ -1265,7 +1285,7 @@
       "url": "https://open.spotify.com/track/34q2wrKN8QvZG1EIy2TgFn"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Lolly",
         "url": "https://open.spotify.com/album/4BPliemSu5BLyFuEX9luS5"
@@ -1289,7 +1309,7 @@
       "url": "https://open.spotify.com/track/2xtIAFJIMkzHGHiCrJ9iwd"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
@@ -1305,7 +1325,7 @@
       "url": "https://open.spotify.com/track/5Py8zRKGkZvgHniVVtvNCN"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
@@ -1321,7 +1341,7 @@
       "url": "https://open.spotify.com/track/6Xw2FLih8m5ItDbyP992HH"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
@@ -1337,7 +1357,7 @@
       "url": "https://open.spotify.com/track/0SNIAtRCPVVLoGEPcuHSIc"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice (Triple Chucks Deluxe)",
         "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
@@ -1357,7 +1377,7 @@
       "url": "https://open.spotify.com/track/2mHp4X0GDuzKr5ovAMHdpQ"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
@@ -1377,7 +1397,7 @@
       "url": "https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
@@ -1393,7 +1413,7 @@
       "url": "https://open.spotify.com/track/2hLu8L8SNfCN4yKyPdX0h3"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
@@ -1409,7 +1429,7 @@
       "url": "https://open.spotify.com/track/21pCToQdqcPi879auxjxKe"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Justice (Triple Chucks Deluxe)",
         "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
@@ -1429,7 +1449,7 @@
       "url": "https://open.spotify.com/track/2DDSdwVkrD2Jyhsycn9d3r"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
@@ -1445,7 +1465,7 @@
       "url": "https://open.spotify.com/track/0nxvFG50rGXkiGQqOO2MHr"
     },
     {
-      "added_at": "2023-03-07 21:55:56",
+      "added_at": "2023-09-18 18:16:32",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"

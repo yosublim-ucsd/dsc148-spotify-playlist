@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 54765,
+  "num_followers": 54874,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWRkNjk2NGUwYjU4YjI0NGY1YjBkNzlhYWYxMzI2NThiYWNjNjZl",
+  "snapshot_id": "MCxhZTljMjFmNzBhYTBhNjQ2OGNjNWE5ZDg5N2Q5ZDYyNTBjZjEwNDU0",
   "tracks": [
     {
       "added_at": "2023-09-15 16:02:50",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-09-15 16:02:50",
       "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
+    },
+    {
+      "added_at": "2023-09-15 16:02:50",
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -179,22 +195,6 @@
     {
       "added_at": "2023-09-15 16:02:50",
       "album": {
-        "name": "Calm Down",
-        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
-    },
-    {
-      "added_at": "2023-09-15 16:02:50",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -207,22 +207,6 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2023-09-15 16:02:50",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 202183,
-      "name": "Little Freak",
-      "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
     },
     {
       "added_at": "2023-09-15 16:02:50",
@@ -275,6 +259,22 @@
     {
       "added_at": "2023-09-15 16:02:50",
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 202183,
+      "name": "Little Freak",
+      "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
+    },
+    {
+      "added_at": "2023-09-15 16:02:50",
+      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 175226,
       "name": "Next Thing You Know",
       "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
-    },
-    {
-      "added_at": "2023-09-15 16:02:50",
-      "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Sweet Creature",
-      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
     },
     {
       "added_at": "2023-09-15 16:02:50",
@@ -323,6 +307,22 @@
     {
       "added_at": "2023-09-15 16:02:50",
       "album": {
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+    },
+    {
+      "added_at": "2023-09-15 16:02:50",
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF"
       },
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-09-15 16:02:50",
       "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Sweet Creature",
+      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
+    },
+    {
+      "added_at": "2023-09-15 16:02:50",
+      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
-    },
-    {
-      "added_at": "2023-09-15 16:02:50",
-      "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
       "added_at": "2023-09-15 16:02:50",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-09-15 16:02:50",
       "album": {
-        "name": "Girls And Boys",
-        "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        }
-      ],
-      "duration_ms": 135386,
-      "name": "The Way I Am",
-      "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
-    },
-    {
-      "added_at": "2023-09-15 16:02:50",
-      "album": {
         "name": "Cloud",
         "url": "https://open.spotify.com/album/00m3LiJyqbMziKcN5eO67G"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 156707,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/4H3S0dQ6g8QwacSCp9W156"
+    },
+    {
+      "added_at": "2023-09-15 16:02:50",
+      "album": {
+        "name": "Girls And Boys",
+        "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "duration_ms": 135386,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
     },
     {
       "added_at": "2023-09-15 16:02:50",
@@ -959,6 +959,22 @@
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "added_at": "2023-09-15 16:02:50",
+      "album": {
+        "name": "Silence Between Songs",
+        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "17",
+      "url": "https://open.spotify.com/track/5kxV0Tv6pbddmqqKJvlNtS"
     },
     {
       "added_at": "2023-09-15 16:02:50",
@@ -1027,6 +1043,22 @@
     {
       "added_at": "2023-09-15 16:02:50",
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 200305,
+      "name": "21 Days",
+      "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
+    },
+    {
+      "added_at": "2023-09-15 16:02:50",
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/3QUlMH61fQz93W2uVNU5CF"
       },
@@ -1055,38 +1087,6 @@
       "duration_ms": 244635,
       "name": "altar",
       "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
-    },
-    {
-      "added_at": "2023-09-15 16:02:50",
-      "album": {
-        "name": "Silence Between Songs",
-        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "17",
-      "url": "https://open.spotify.com/track/5kxV0Tv6pbddmqqKJvlNtS"
-    },
-    {
-      "added_at": "2023-09-15 16:02:50",
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 200305,
-      "name": "21 Days",
-      "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
     }
   ],
   "unique_name": "Lazy Afternoon",

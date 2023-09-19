@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 406356,
+  "num_followers": 406611,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjdjNTkyNTJjNmM4ZDA1ZTE0NzM5ODFlMjdiNjAxZjhjMzgyMGRi",
+  "snapshot_id": "MCwxODUwYjdjZGNjYmU0ZGM2ODdhOTQ0OGFjMDAyYTA4MjFhNzBhZTJi",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -299,26 +299,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
-        }
-      ],
-      "duration_ms": 204798,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Stamp!",
         "url": "https://open.spotify.com/album/7MbWoZrF41CMAzeUZdS8In"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 207066,
       "name": "Lola's Theme - Radio Edit",
       "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "duration_ms": 204798,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -519,6 +519,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Evacuate The Dancefloor",
+        "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Evacuate The Dancefloor - Radio Edit",
+      "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Now You're Gone - The Album",
         "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
       },
@@ -535,38 +551,6 @@
       "duration_ms": 148186,
       "name": "Now You're Gone (feat. DJ Mental Theo's Bazzheadz) - Video Edit",
       "url": "https://open.spotify.com/track/5Nr1ZcH9PGTiQdGl9HCCS1"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Hot",
-        "url": "https://open.spotify.com/album/1BykQV2nA2F8zXzsUJ6DQ2"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 217036,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/7F1lHcpnTycnimQrCxDFI5"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Evacuate The Dancefloor",
-        "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 205884,
-      "name": "Evacuate The Dancefloor - Radio Edit",
-      "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -591,6 +575,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/1BykQV2nA2F8zXzsUJ6DQ2"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 217036,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/7F1lHcpnTycnimQrCxDFI5"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Push The Button",
         "url": "https://open.spotify.com/album/715rku55lldqdw9WiEuPgi"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 393813,
       "name": "Galvanize",
       "url": "https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -655,22 +671,6 @@
       "duration_ms": 200400,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -771,6 +771,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 360426,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Leave The World Behind",
         "url": "https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 360426,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Mr. Vain Recall",
         "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 213413,
       "name": "Mr. Vain Recall - Radio Edit",
       "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Aerodynamic",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -903,6 +887,22 @@
       "duration_ms": 210973,
       "name": "I'm Not Alone - Radio Edit",
       "url": "https://open.spotify.com/track/07POri5O6Xu0aVZzlvOcpy"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Mind The Gap",
+        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "One (Always Hardcore)",
+      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Just a Little More Love",
         "url": "https://open.spotify.com/album/78M16AQffV0YUfvseg60MT"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Mind The Gap",
-        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "One (Always Hardcore)",
-      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/5Y7dFFiVB9zHfGZJPX2Pql"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Jumping All Over The World",
+        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 228821,
+      "name": "Jumping All Over The World",
+      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1591,22 +1607,6 @@
       "duration_ms": 212066,
       "name": "Strobe - Radio Edit",
       "url": "https://open.spotify.com/track/0ubZ5nFWwxKoYJ7hk6TaRm"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Jumping All Over The World",
-        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 228821,
-      "name": "Jumping All Over The World",
-      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",

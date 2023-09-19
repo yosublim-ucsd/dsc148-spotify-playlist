@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 550373,
+  "num_followers": 550579,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDBjZjVhYTQxMDFiODExMDg4YzNiMGU3MWQzMTllMzdlMDZiZDgx",
+  "snapshot_id": "MCw3ODU2NjE4OThhM2NhYjkyOWQ4MGI1YmI4ZmExOTYzYWY4MWU2MTkx",
   "tracks": [
     {
       "added_at": "2023-09-14 13:20:31",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "Mezmerize",
-        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "B.Y.O.B.",
-      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 201960,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Mezmerize",
+        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "B.Y.O.B.",
+      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 260773,
+      "name": "Unsainted",
+      "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
         "name": "Indestructible (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 260773,
-      "name": "Unsainted",
-      "url": "https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "Cowboys from Hell",
         "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 243533,
       "name": "Cowboys from Hell",
       "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Symphony Of Destruction",
-      "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -315,6 +299,22 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Symphony Of Destruction",
+      "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
         "name": "Beyond Hell / Above Heaven",
         "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 263080,
       "name": "A Warrior's Call",
       "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "People = Shit",
-      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -391,6 +375,22 @@
       "duration_ms": 311813,
       "name": "Bat Country",
       "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "People = Shit",
+      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
         "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
         "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 253317,
       "name": "My Own Grave",
       "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "Reroute to Remain",
-        "url": "https://open.spotify.com/album/2V5Jx67RInNn2v0LGihiWh"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Cloud Connected",
-      "url": "https://open.spotify.com/track/0dHogHUS4xgLOoFBt0ko1j"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "The Black Crown",
         "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 192560,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/4Ku3OOZWR4tpKNCVFXILY8"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Reroute to Remain",
+        "url": "https://open.spotify.com/album/2V5Jx67RInNn2v0LGihiWh"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Cloud Connected",
+      "url": "https://open.spotify.com/track/0dHogHUS4xgLOoFBt0ko1j"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 322933,
       "name": "Tornado Of Souls",
       "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "Scars (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
-      },
-      "artists": [
-        {
-          "name": "Soil",
-          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 200800,
       "name": "Panic",
       "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Scars (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 441133,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/3fOc9x06lKJBhz435mInlH"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "American Sun",
         "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 225026,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 441133,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/3fOc9x06lKJBhz435mInlH"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 233297,
-      "name": "MANTRA",
-      "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 350644,
       "name": "Moth Into Flame",
       "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 233297,
+      "name": "MANTRA",
+      "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
     },
     {
       "added_at": "2023-09-14 13:20:31",

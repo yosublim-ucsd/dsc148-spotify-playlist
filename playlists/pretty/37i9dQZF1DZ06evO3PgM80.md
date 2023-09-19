@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,739 likes - 39 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,793 likes - 39 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 8 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
 | 9 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
 | 10 | [Não Mais Escravos](https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Não Mais Escravos](https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG) | 5:12 |
-| 11 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
-| 12 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
+| 11 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
+| 12 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 | 13 | [Em Fervente Oração \- Acústico](https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Em Fervente Oração \(Acústico\)](https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx) | 4:53 |
 | 14 | [Som das Águas \- Acústico](https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Som das Águas \(Acústico\)](https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB) | 3:45 |
 | 15 | [Tu és Bom](https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu és Bom](https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV) | 3:22 |
-| 16 | [Meu Abrigo \- Ao Vivo](https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Meu Abrigo \(Ao Vivo\)](https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW) | 4:59 |
-| 17 | [Me Deixe Aqui / Tudo Entregarei \- Ao Vivo](https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Me Deixe Aqui / Tudo Entregarei \(Ao Vivo\)](https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh) | 4:53 |
+| 16 | [Me Deixe Aqui / Tudo Entregarei \- Ao Vivo](https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Me Deixe Aqui / Tudo Entregarei \(Ao Vivo\)](https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh) | 4:53 |
+| 17 | [Meu Abrigo \- Ao Vivo](https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Meu Abrigo \(Ao Vivo\)](https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW) | 4:59 |
 | 18 | [Tudo O Que Sou](https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tudo O Que Sou](https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ) | 4:30 |
 | 19 | [Se Tenho Cristo / O Bondoso Amigo \- Ao Vivo](https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Se Tenho Cristo / O Bondoso Amigo \(Ao Vivo\)](https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz) | 7:18 |
 | 20 | [De Adentro Hacia Afuera](https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Adentro Hacia Afuera](https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE) | 5:07 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 38 | [Vem Quebra As Barreiras / Come And Tear Down The Walls](https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Vem Quebra As Barreiras / Come And Tear Down The Walls](https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h) | 6:06 |
 | 39 | [Há Liberdade Aqui \- Ao Vivo](https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Há Liberdade Aqui \(Ao Vivo\)](https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn) | 9:28 |
 
-Snapshot ID: `MjgyNDYzNTEsMDAwMDAwMDA4ZWQwY2E2MjU2MWUxNTQ5MDdkMWRiNjQ0YTQ3ZTk0NQ==`
+Snapshot ID: `MjgyNTA2NTEsMDAwMDAwMDBiNzVmOTE5M2NlZjRhYjhiM2M3NGUzNzM2ZGZmMjFhYw==`

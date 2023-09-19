@@ -2,9 +2,9 @@
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: بلقيس
+> اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: ماجد المهندس
 
-138 songs - 9 hr 47 min
+139 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Leeh Ma Teji](https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Leeh Ma Teji](https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd) | 5:25 | 2022-06-08 | 2023-04-21 |
 | [lo Hobek](https://open.spotify.com/track/598erFMdm6rEKqw7tRg3PX) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [lo Hobek](https://open.spotify.com/album/48Ppl1mtZYWRqlDPgr2vBr) | 3:18 | 2022-04-07 | 2023-04-21 |
 | [Logiak](https://open.spotify.com/track/6MLGToHN1rywzRuXgKjbmF) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Logiak](https://open.spotify.com/album/7uiBwDftspH5AQVMhxT45m) | 3:50 | 2022-04-07 | 2023-04-21 |
+| [Ma Fagadtek](https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ma Fagadtek](https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX) | 3:59 | 2023-09-18 |  |
 | [Maazom](https://open.spotify.com/track/2vQF0IxnmS298QNT0wkqej) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Maazom](https://open.spotify.com/album/65IDPgoxTtbQzQ8BY2B6e4) | 3:50 | 2022-04-07 | 2022-10-05 |
 | [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 | 2022-12-08 | 2023-08-31 |
 | [Mawed Eyonk](https://open.spotify.com/track/7aq0vVJxIfEJBl0Nca2Yfq) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mawed Eyonk](https://open.spotify.com/album/2f6Pbb9qmPx9PEkOULDmOn) | 5:21 | 2022-09-01 | 2023-07-28 |
@@ -84,7 +85,7 @@
 | [Thekrak \(16\)](https://open.spotify.com/track/7DPK6KDwhYUiPPGgXuq1st) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:39 | 2022-10-04 | 2023-01-27 |
 | [Tkhawfni](https://open.spotify.com/track/3dFrNHTI0cSE7BZQNViPdR) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Tkhawfni](https://open.spotify.com/album/2UUrjBTk7RHOZ9g7XbVHtX) | 5:00 | 2023-07-31 |  |
 | [Wesh Fini](https://open.spotify.com/track/595iet95ZCUsYsHBYjyOZA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Wesh Fini](https://open.spotify.com/album/1y0u5gcePiOuiKRHZLHnWR) | 3:11 | 2023-08-10 |  |
-| [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 | 2022-12-08 |  |
+| [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 | 2022-12-08 | 2023-09-19 |
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-04-07 | 2023-04-21 |
 | [Ya Hob](https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Ya Hob](https://open.spotify.com/album/0veyUyHuLWTMr5IuNjm67h) | 4:03 | 2022-04-07 | 2022-12-09 |
 | [Yalghair](https://open.spotify.com/track/0euUlVRj9fSXSFkpmTM50j) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [AlNeskha AlJadeeda](https://open.spotify.com/album/2Ri8hAF6UfEkpRN5Bc5Kxu) | 2:49 | 2023-01-27 | 2023-02-15 |

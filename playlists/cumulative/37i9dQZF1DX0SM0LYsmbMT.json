@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 115875,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3HbAR7ZxhLZjlBN84UaitM"
@@ -17508,6 +17508,28 @@
       "duration_ms": 112105,
       "name": "Ebony",
       "url": "https://open.spotify.com/track/2T6WXP8JYho3407VP4jcZk"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/11CYpa0oCkneUiM0uvsVcd"
+      },
+      "artists": [
+        {
+          "name": "Mindeliq",
+          "url": "https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL"
+        },
+        {
+          "name": "\u00d8NEMOR3",
+          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118424,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/40UK1Zl6X8GmezVlI6AZWg"
     },
     {
       "album": {
@@ -57393,6 +57415,28 @@
     },
     {
       "album": {
+        "name": "Soothsayin'",
+        "url": "https://open.spotify.com/album/2scEFIwR1R6VgXlQAKiK8x"
+      },
+      "artists": [
+        {
+          "name": "Lamar Azul",
+          "url": "https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34"
+        },
+        {
+          "name": "Mindscape",
+          "url": "https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95087,
+      "name": "Soothsayin'",
+      "url": "https://open.spotify.com/track/6OLmIVP9JmnwVenHx2O309"
+    },
+    {
+      "album": {
         "name": "Soul Croissant",
         "url": "https://open.spotify.com/album/5IMDlmWPWpjyPg5EWBcqdP"
       },
@@ -59890,7 +59934,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-19",
       "duration_ms": 139310,
       "name": "sultry sights",
       "url": "https://open.spotify.com/track/4xux98neag9PNFMxlfVgj3"

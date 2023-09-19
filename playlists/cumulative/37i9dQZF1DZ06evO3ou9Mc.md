@@ -4,7 +4,7 @@
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 59 min
+55 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Takes Me Nowhere](https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:59 | 2022-09-16 |  |
 | [The Future Is Now](https://open.spotify.com/track/2B17416FS7vL5qljgqfm7L) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:08 | 2022-09-16 |  |
 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 | 2022-09-16 |  |
+| [the kids aren't alright \- lofi](https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [americana, but lofi](https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS) | 2:12 | 2023-09-18 |  |
 | [The Meaning Of Life](https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:56 | 2022-09-16 |  |
 | [The Noose](https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:18 | 2022-09-16 |  |
 | [This Is Not Utopia](https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 2:38 | 2022-09-16 |  |

@@ -1,28 +1,128 @@
 {
   "description": "Girls just wanna have funds  ",
-  "num_followers": 18617,
+  "num_followers": 18643,
   "original_name": "Internet Famous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjJmZDAwZGNlOThjOThiOGRkNDI4Y2I0M2ExOTJhY2Y2MGY3ZDgw",
+  "snapshot_id": "MCwwYTIyNTVmODBhNWE0ZThiYjAxNTg3YjYwN2NlNmE3YWJkZjRiN2Y1",
   "tracks": [
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "Cash",
-        "url": "https://open.spotify.com/album/2Ssol3lCn5se4yfnFCOSYf"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
       },
       "artists": [
         {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 187714,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/4fSK7nMpI1QAHir02gYcYk"
+      "duration_ms": 183527,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "B'Day",
+        "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 272706,
+      "name": "Upgrade U (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/6V1nOgkrGmr6Wx1x4RQ6Bc"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "7 rings",
+      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Musical Kings",
+        "url": "https://open.spotify.com/album/4PUT56Yt5I5pOoPkwhU7D1"
+      },
+      "artists": [
+        {
+          "name": "Mfr Souls",
+          "url": "https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Bontle Smith",
+          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
+        }
+      ],
+      "duration_ms": 348531,
+      "name": "Amanikiniki (feat. Major League Djz, Kamo Mphela & Bontle Smith)",
+      "url": "https://open.spotify.com/track/7cVgVA4VO6EaVWvKZGQF9m"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) [Remix]",
+        "url": "https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 229601,
+      "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
+      "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
     },
     {
       "added_at": "2023-07-06 13:33:54",
@@ -51,18 +151,22 @@
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
+        "name": "African Baddie",
+        "url": "https://open.spotify.com/album/3Hq0h20QXGyrQWfdURFUPw"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 197954,
-      "name": "Money Good",
-      "url": "https://open.spotify.com/track/2I6m7c5IfPR7za6B1im2X7"
+      "duration_ms": 204599,
+      "name": "Pounds & Dollars",
+      "url": "https://open.spotify.com/track/1MGDBkEAXEIXojBu5bZYhQ"
     },
     {
       "added_at": "2023-07-06 13:33:54",
@@ -87,34 +191,370 @@
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
+        "name": "Fly Girl (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 183527,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
+      "duration_ms": 205384,
+      "name": "Fly Girl (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
     },
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 238266,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Billionaire",
+        "url": "https://open.spotify.com/album/5FLNBkUXIiygfm1MSsm9U7"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 213838,
+      "name": "Billionaire",
+      "url": "https://open.spotify.com/track/3tXlTQF3mB4npOJtHvcMbu"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Britney Jean (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 247960,
+      "name": "Work Bitch",
+      "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "duration_ms": 154615,
+      "name": "Soft Life",
+      "url": "https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "It's Givin",
+      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Loaded",
+        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/7C9G1DbVHXdx7ndn2eNHeD"
+      },
+      "artists": [
+        {
+          "name": "Joda Kgosi",
+          "url": "https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8"
+        }
+      ],
+      "duration_ms": 109773,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5tlZjXxSeaaJEd4aYrHkHg"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Seeing Green",
+        "url": "https://open.spotify.com/album/4o2xz4a9BjYCHh2xfYH50t"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 339506,
+      "name": "Seeing Green (with Drake & Lil Wayne)",
+      "url": "https://open.spotify.com/track/7gNB9Xa5NBY2Y8tFmpOlwk"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "49-99",
+        "url": "https://open.spotify.com/album/5oStp74fOW9lLMfZk4LKYQ"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "49-99",
+      "url": "https://open.spotify.com/track/0uyUSBG4Ckupz511Al25D7"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Imma Celebrity",
+        "url": "https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 188965,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Nadia Naked",
+        "url": "https://open.spotify.com/album/4RTVuOqSQqFP5mtCnImdnD"
+      },
+      "artists": [
+        {
+          "name": "Nadia Nakai",
+          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Imma Boss",
+      "url": "https://open.spotify.com/track/3HBzvCsx8PGO91KkzA6qrk"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 109302,
+      "name": "ICY GRL",
+      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Plenty (Too Trendy)",
+        "url": "https://open.spotify.com/album/6XSJg5zvbDjPydgMetheYE"
+      },
+      "artists": [
+        {
+          "name": "Br3nya",
+          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
+        }
+      ],
+      "duration_ms": 167522,
+      "name": "Plenty (Too Trendy)",
+      "url": "https://open.spotify.com/track/2FjZhlWpuCAnAnTJOfxulV"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ"
+      },
+      "artists": [
+        {
+          "name": "Dami Oniru",
+          "url": "https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Soft Life",
+      "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Love Angel Music Baby (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Big Racks (feat. Brooke Candy)",
+        "url": "https://open.spotify.com/album/4XjqjWo0JkZvzlrowphVFz"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        },
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "duration_ms": 184962,
+      "name": "Big Racks (feat. Brooke Candy)",
+      "url": "https://open.spotify.com/track/15Uh4SZo1nnoPS26RK6WTe"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Babyblues",
+        "url": "https://open.spotify.com/album/4TmR0aYCOQ9M0ZRM8q8riP"
+      },
+      "artists": [
+        {
+          "name": "Y'akoto",
+          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/0aBZ8AFkFpfdCl1wDHORNC"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "The Plan",
+        "url": "https://open.spotify.com/album/5dWr9muDnTuBp3diyKHpTo"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        },
+        {
+          "name": "YBN Nahmir",
+          "url": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Can't Relate (feat. YBN Nahmir, YG)",
+      "url": "https://open.spotify.com/track/74YaGodeQdJoR5L8l59CYF"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "EVERYTHING IS LOVE",
+        "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
+      },
+      "artists": [
+        {
+          "name": "The Carters",
+          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/4F8V44j8cbjHnXjfW2HruU"
     },
     {
       "added_at": "2023-07-06 13:33:54",
@@ -155,54 +595,38 @@
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "Bitch Better Have My Money",
-        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 219305,
-      "name": "Bitch Better Have My Money",
-      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+      "duration_ms": 186426,
+      "name": "Money, Money, Money",
+      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
     },
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) [Remix]",
-        "url": "https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs"
+        "name": "2000AND4EVA",
+        "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Maliibu Miitch",
+          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
         }
       ],
-      "duration_ms": 229601,
-      "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
-      "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
+      "duration_ms": 181082,
+      "name": "GUCCI (feat. Maliibu Miitch)",
+      "url": "https://open.spotify.com/track/7k8JGPGIQSO2ma5hlv8uzR"
     },
     {
       "added_at": "2023-07-06 13:33:54",
@@ -239,214 +663,34 @@
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "Loaded",
-        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
+        "name": "fund$",
+        "url": "https://open.spotify.com/album/2ijUGC3jwcZO6lNLDdEcUR"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
         }
       ],
-      "duration_ms": 155789,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
+      "duration_ms": 152093,
+      "name": "fund$",
+      "url": "https://open.spotify.com/track/2zsWUr91K3TIdnzWb0XOmI"
     },
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 156373,
-      "name": "Counterfeit",
-      "url": "https://open.spotify.com/track/6kCmpwaWFOODvxBVyFz1Ql"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Love Angel Music Baby (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 236213,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Stacked",
-        "url": "https://open.spotify.com/album/3p8Vf5t8GAAJ72a6AFCMam"
-      },
-      "artists": [
-        {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
-        }
-      ],
-      "duration_ms": 182662,
-      "name": "Ice Me Out",
-      "url": "https://open.spotify.com/track/6lJl03rkDmbmP5dtmY7MiI"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 109302,
-      "name": "ICY GRL",
-      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Seeing Green",
-        "url": "https://open.spotify.com/album/4o2xz4a9BjYCHh2xfYH50t"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 339506,
-      "name": "Seeing Green (with Drake & Lil Wayne)",
-      "url": "https://open.spotify.com/track/7gNB9Xa5NBY2Y8tFmpOlwk"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Imma Celebrity",
-        "url": "https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 188965,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "B'Day",
-        "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Upgrade U (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/6V1nOgkrGmr6Wx1x4RQ6Bc"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It's Givin",
-      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Billionaire",
-        "url": "https://open.spotify.com/album/5FLNBkUXIiygfm1MSsm9U7"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 213838,
-      "name": "Billionaire",
-      "url": "https://open.spotify.com/track/3tXlTQF3mB4npOJtHvcMbu"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Britney Jean (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 247960,
-      "name": "Work Bitch",
-      "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "49-99",
-        "url": "https://open.spotify.com/album/5oStp74fOW9lLMfZk4LKYQ"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "49-99",
-      "url": "https://open.spotify.com/track/0uyUSBG4Ckupz511Al25D7"
+      "duration_ms": 197954,
+      "name": "Money Good",
+      "url": "https://open.spotify.com/track/2I6m7c5IfPR7za6B1im2X7"
     },
     {
       "added_at": "2023-07-06 13:33:54",
@@ -467,98 +711,34 @@
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "Stacked",
+        "url": "https://open.spotify.com/album/3p8Vf5t8GAAJ72a6AFCMam"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
         }
       ],
-      "duration_ms": 178626,
-      "name": "7 rings",
-      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+      "duration_ms": 182662,
+      "name": "Ice Me Out",
+      "url": "https://open.spotify.com/track/6lJl03rkDmbmP5dtmY7MiI"
     },
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "EVERYTHING IS LOVE",
-        "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
       "artists": [
         {
-          "name": "The Carters",
-          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 244133,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/4F8V44j8cbjHnXjfW2HruU"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "fund$",
-        "url": "https://open.spotify.com/album/2ijUGC3jwcZO6lNLDdEcUR"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "fund$",
-      "url": "https://open.spotify.com/track/2zsWUr91K3TIdnzWb0XOmI"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 186426,
-      "name": "Money, Money, Money",
-      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Soft Life",
-        "url": "https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ"
-      },
-      "artists": [
-        {
-          "name": "Dami Oniru",
-          "url": "https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Soft Life",
-      "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
+      "duration_ms": 156373,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/6kCmpwaWFOODvxBVyFz1Ql"
     },
     {
       "added_at": "2023-07-06 13:33:54",
@@ -579,218 +759,6 @@
     {
       "added_at": "2023-07-06 13:33:54",
       "album": {
-        "name": "Musical Kings",
-        "url": "https://open.spotify.com/album/4PUT56Yt5I5pOoPkwhU7D1"
-      },
-      "artists": [
-        {
-          "name": "Mfr Souls",
-          "url": "https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Kamo Mphela",
-          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
-        },
-        {
-          "name": "Bontle Smith",
-          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
-        }
-      ],
-      "duration_ms": 348531,
-      "name": "Amanikiniki (feat. Major League Djz, Kamo Mphela & Bontle Smith)",
-      "url": "https://open.spotify.com/track/7cVgVA4VO6EaVWvKZGQF9m"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Fly Girl (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "Fly Girl (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "2000AND4EVA",
-        "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
-        {
-          "name": "Maliibu Miitch",
-          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
-        }
-      ],
-      "duration_ms": 181082,
-      "name": "GUCCI (feat. Maliibu Miitch)",
-      "url": "https://open.spotify.com/track/7k8JGPGIQSO2ma5hlv8uzR"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Big Racks (feat. Brooke Candy)",
-        "url": "https://open.spotify.com/album/4XjqjWo0JkZvzlrowphVFz"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        }
-      ],
-      "duration_ms": 184962,
-      "name": "Big Racks (feat. Brooke Candy)",
-      "url": "https://open.spotify.com/track/15Uh4SZo1nnoPS26RK6WTe"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "The Plan",
-        "url": "https://open.spotify.com/album/5dWr9muDnTuBp3diyKHpTo"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        },
-        {
-          "name": "YBN Nahmir",
-          "url": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Can't Relate (feat. YBN Nahmir, YG)",
-      "url": "https://open.spotify.com/track/74YaGodeQdJoR5L8l59CYF"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/7C9G1DbVHXdx7ndn2eNHeD"
-      },
-      "artists": [
-        {
-          "name": "Joda Kgosi",
-          "url": "https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8"
-        }
-      ],
-      "duration_ms": 109773,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/5tlZjXxSeaaJEd4aYrHkHg"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Soft Life",
-        "url": "https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG"
-      },
-      "artists": [
-        {
-          "name": "Lady Donli",
-          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
-        }
-      ],
-      "duration_ms": 154615,
-      "name": "Soft Life",
-      "url": "https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Nadia Naked",
-        "url": "https://open.spotify.com/album/4RTVuOqSQqFP5mtCnImdnD"
-      },
-      "artists": [
-        {
-          "name": "Nadia Nakai",
-          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Imma Boss",
-      "url": "https://open.spotify.com/track/3HBzvCsx8PGO91KkzA6qrk"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "African Baddie",
-        "url": "https://open.spotify.com/album/3Hq0h20QXGyrQWfdURFUPw"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 204599,
-      "name": "Pounds & Dollars",
-      "url": "https://open.spotify.com/track/1MGDBkEAXEIXojBu5bZYhQ"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Babyblues",
-        "url": "https://open.spotify.com/album/4TmR0aYCOQ9M0ZRM8q8riP"
-      },
-      "artists": [
-        {
-          "name": "Y'akoto",
-          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/0aBZ8AFkFpfdCl1wDHORNC"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
-        "name": "Plenty (Too Trendy)",
-        "url": "https://open.spotify.com/album/6XSJg5zvbDjPydgMetheYE"
-      },
-      "artists": [
-        {
-          "name": "Br3nya",
-          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
-        }
-      ],
-      "duration_ms": 167522,
-      "name": "Plenty (Too Trendy)",
-      "url": "https://open.spotify.com/track/2FjZhlWpuCAnAnTJOfxulV"
-    },
-    {
-      "added_at": "2023-07-06 13:33:54",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/1LNWHMAB5ouDyaU8sPm0Sv"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 174375,
       "name": "Business",
       "url": "https://open.spotify.com/track/7eQvy46qkWjEYrlJnlns0D"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
+      "added_at": "2023-07-06 13:33:54",
+      "album": {
+        "name": "Cash",
+        "url": "https://open.spotify.com/album/2Ssol3lCn5se4yfnFCOSYf"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/4fSK7nMpI1QAHir02gYcYk"
     }
   ],
   "unique_name": "Internet Famous",

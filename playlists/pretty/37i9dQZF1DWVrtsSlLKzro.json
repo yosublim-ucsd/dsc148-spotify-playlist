@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 615903,
+  "num_followers": 616091,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWJkMTQ3MzVlNzFmMzA4NmU2YTM1MmY5OWI5MzA3MTdhZDI2MjMy",
+  "snapshot_id": "MCwwMGUxZTQ2MjdhY2I2NDZmMjk3ZmE2M2U3YTc4Mzk5NjM2YTIzZGJk",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -155,26 +155,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951"
+        "name": "Meteor",
+        "url": "https://open.spotify.com/album/5uozo9ZNHo3vI7x14cWzmW"
       },
       "artists": [
         {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
-        },
-        {
-          "name": "Jamis",
-          "url": "https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 194107,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"
+      "duration_ms": 171279,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/3q53rFJ6wnhLhm6W8VlA8P"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -195,18 +187,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Meteor",
-        "url": "https://open.spotify.com/album/5uozo9ZNHo3vI7x14cWzmW"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+        },
+        {
+          "name": "Jamis",
+          "url": "https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 171279,
-      "name": "Meteor",
-      "url": "https://open.spotify.com/track/3q53rFJ6wnhLhm6W8VlA8P"
+      "duration_ms": 194107,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -675,46 +675,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "In The Cold",
-        "url": "https://open.spotify.com/album/4tFVMKFJs5PXf4Nk01Yrmn"
+        "name": "To Last",
+        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
       },
       "artists": [
         {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "James Droll",
-          "url": "https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 239487,
-      "name": "In The Cold",
-      "url": "https://open.spotify.com/track/3BajuGMCYm9PJaVOPYCN47"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Drifting Away",
-      "url": "https://open.spotify.com/track/6nbXYLeP21ksEQNFrHl2a2"
+      "duration_ms": 176283,
+      "name": "To Last",
+      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -743,18 +715,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "To Last",
-        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
+        "name": "In The Cold",
+        "url": "https://open.spotify.com/album/4tFVMKFJs5PXf4Nk01Yrmn"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "James Droll",
+          "url": "https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw"
         }
       ],
-      "duration_ms": 176283,
-      "name": "To Last",
-      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
+      "duration_ms": 239487,
+      "name": "In The Cold",
+      "url": "https://open.spotify.com/track/3BajuGMCYm9PJaVOPYCN47"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -775,6 +755,26 @@
       "duration_ms": 248906,
       "name": "Without Me - ILLENIUM Remix",
       "url": "https://open.spotify.com/track/4bw3ZyWA1ui0Adu285NWDl"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/6nbXYLeP21ksEQNFrHl2a2"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "nice 2 me",
-        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 171622,
-      "name": "nice 2 me",
-      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom"
       },
@@ -1091,46 +1071,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "New York ft. mazie",
-        "url": "https://open.spotify.com/album/5MIu1XVdFF3AD2rTuMvGX8"
+        "name": "nice 2 me",
+        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         },
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
         }
       ],
-      "duration_ms": 132228,
-      "name": "New York ft. mazie",
-      "url": "https://open.spotify.com/track/0WdkklLlHI5SdulAdk32wE"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/7ghIKFtH1hzdB3dLXgRcOf"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/2yg53XBaQDtIk6hYT2VFSD"
+      "duration_ms": 171622,
+      "name": "nice 2 me",
+      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1155,6 +1111,50 @@
       "duration_ms": 255172,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/2nQyEHecmmt0WE43mOsScr"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/7ghIKFtH1hzdB3dLXgRcOf"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/2yg53XBaQDtIk6hYT2VFSD"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "New York ft. mazie",
+        "url": "https://open.spotify.com/album/5MIu1XVdFF3AD2rTuMvGX8"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 132228,
+      "name": "New York ft. mazie",
+      "url": "https://open.spotify.com/track/0WdkklLlHI5SdulAdk32wE"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "I Don't Wanna Know",
+        "url": "https://open.spotify.com/album/4Q9WKZvB7Sf6rgRHJ9pWKD"
+      },
+      "artists": [
+        {
+          "name": "Silience",
+          "url": "https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI"
+        }
+      ],
+      "duration_ms": 180522,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/0hHcQSdtwycNOec82X2QId"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Lovers Say Goodbye",
         "url": "https://open.spotify.com/album/2SCHhLKJQTLI3OExmZYaTz"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 137213,
       "name": "Lovers Say Goodbye",
       "url": "https://open.spotify.com/track/7aVvHrB8hLb7421u4sp7S8"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "I Don't Wanna Know",
-        "url": "https://open.spotify.com/album/4Q9WKZvB7Sf6rgRHJ9pWKD"
-      },
-      "artists": [
-        {
-          "name": "Silience",
-          "url": "https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI"
-        }
-      ],
-      "duration_ms": 180522,
-      "name": "I Don't Wanna Know",
-      "url": "https://open.spotify.com/track/0hHcQSdtwycNOec82X2QId"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "feel something real",
-        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 208676,
-      "name": "feel something real",
-      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Love For You",
         "url": "https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 203530,
       "name": "Love For You",
       "url": "https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "feel something real",
+        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 208676,
+      "name": "feel something real",
+      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Treading Water",
-        "url": "https://open.spotify.com/album/20ZPAqgm26vHBDt3S6oRLu"
-      },
-      "artists": [
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 217016,
-      "name": "Treading Water",
-      "url": "https://open.spotify.com/track/4b7pT27gKEESHwnffFMDUp"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 182350,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Treading Water",
+        "url": "https://open.spotify.com/album/20ZPAqgm26vHBDt3S6oRLu"
+      },
+      "artists": [
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 217016,
+      "name": "Treading Water",
+      "url": "https://open.spotify.com/track/4b7pT27gKEESHwnffFMDUp"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Temper Temper (feat. ONR)",
+        "url": "https://open.spotify.com/album/78cHKcaJ2agjy5arczangj"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "ONR",
+          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
+        }
+      ],
+      "duration_ms": 213571,
+      "name": "Temper Temper (feat. ONR)",
+      "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "One More Day (with Chandler Leighton)",
         "url": "https://open.spotify.com/album/20BQqiuNutjnDzWLSBZfWL"
       },
@@ -1795,26 +1815,6 @@
       "duration_ms": 272000,
       "name": "One More Day (with Chandler Leighton)",
       "url": "https://open.spotify.com/track/7hCZVX8ogwzgszIKtkD6Bv"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Temper Temper (feat. ONR)",
-        "url": "https://open.spotify.com/album/78cHKcaJ2agjy5arczangj"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "ONR",
-          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "Temper Temper (feat. ONR)",
-      "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2135,26 +2135,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Happiness, Guaranteed",
-        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 231578,
-      "name": "Empty Promise",
-      "url": "https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "A Moment Apart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ"
       },
@@ -2171,6 +2151,26 @@
       "duration_ms": 232936,
       "name": "Falls",
       "url": "https://open.spotify.com/track/3jYmQk6u6naf6aCZKXp8L4"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Happiness, Guaranteed",
+        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 231578,
+      "name": "Empty Promise",
+      "url": "https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 305051,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/4ULqmjj1Rt1IzbTCAYSzOt"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Waiting...",
         "url": "https://open.spotify.com/album/5Tw9rBaxeaAOT5AYisGu9o"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 221555,
       "name": "Waiting...",
       "url": "https://open.spotify.com/track/2RvaQGoRf0aGCrzzITBqpE"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 305051,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/4ULqmjj1Rt1IzbTCAYSzOt"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -2835,6 +2835,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/1FBX7KlwpLpKMeYG23xRDu"
+      },
+      "artists": [
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "Zeli",
+          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
+        }
+      ],
+      "duration_ms": 210983,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1OlNYBgxkEL41GqBnN1X68"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Avoiding Pain",
         "url": "https://open.spotify.com/album/4H57gAzcBcaUAb4ua9H3zD"
       },
@@ -2867,26 +2887,6 @@
       "duration_ms": 224391,
       "name": "Never Easy",
       "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/1FBX7KlwpLpKMeYG23xRDu"
-      },
-      "artists": [
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        },
-        {
-          "name": "Zeli",
-          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
-        }
-      ],
-      "duration_ms": 210983,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1OlNYBgxkEL41GqBnN1X68"
     },
     {
       "added_at": "2023-09-08 04:00:00",

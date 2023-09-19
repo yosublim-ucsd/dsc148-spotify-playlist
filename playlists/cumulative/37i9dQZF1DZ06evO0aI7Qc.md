@@ -4,7 +4,7 @@
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-116 songs - 5 hr 57 min
+117 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Belico](https://open.spotify.com/track/5rCdxvU6IlAE9DrkvXxHuY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:15 | 2022-06-01 | 2023-08-02 |
 | [Bien Alerta \- En vivo](https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bien Alerta \(En vivo\)](https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx) | 2:33 | 2022-10-12 | 2023-05-16 |
 | [Bien EnRRedado](https://open.spotify.com/track/6Qld1xtQDQS4FqdhgOQ6V7) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nueva Partida](https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR) | [Bien EnRRedado](https://open.spotify.com/album/1iXDvhAunMV7qEEMFDzCvp) | 2:52 | 2023-06-23 |  |
+| [Bonita](https://open.spotify.com/track/1k9D0uyT8BvBCNJQoPBZLK) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bonita](https://open.spotify.com/album/4hH7njS67Xgt6TRcBwK8A8) | 3:15 | 2023-09-18 |  |
 | [Botelleo](https://open.spotify.com/track/2X5Po5rj4QpNFlB15Ahj9f) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lunaty](https://open.spotify.com/artist/1ioIJEt6VBdMiQxOTL8Bmv) | [Botelleo](https://open.spotify.com/album/28ktg5hd5Wq6CoobsbOwom) | 2:43 | 2023-08-16 | 2023-09-13 |
 | [Buenas Rachas](https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Buenas Rachas](https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e) | 2:33 | 2023-08-10 |  |
 | [Bélica Como Ninguna](https://open.spotify.com/track/59XObm1gFYaUOdzsg0QApT) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bélica Como Ninguna](https://open.spotify.com/album/2kEeiftlpYDuSfRmlwCh1K) | 2:21 | 2023-08-18 |  |
@@ -59,7 +60,7 @@
 | [El Güero \(En Vivo\)](https://open.spotify.com/track/15J0GGYsaeGj0jyoGXPKXY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Güero \(En Vivo\)](https://open.spotify.com/album/4X4D0S2WG2GGTSFi7mJ9TZ) | 2:15 | 2022-06-01 | 2022-10-16 |
 | [El H \(En Vivo\)](https://open.spotify.com/track/6053Is00EA36bQRzjvairQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Pisteando Con Amigos \(En Vivo\)](https://open.spotify.com/album/3eyWMTbJs0XLxLaOaUFLSU) | 3:00 | 2022-06-01 | 2023-02-28 |
 | [El Menon](https://open.spotify.com/track/3F9XBs8RPNylnwllVddzt1) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos 2019 Vol\. 2](https://open.spotify.com/album/7qWQtf7ia2Bf8q22TPMn8D) | 4:05 | 2022-06-01 | 2022-10-13 |
-| [El Mickey](https://open.spotify.com/track/120PEdxV65LmPyrTNFEMTp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Mickey](https://open.spotify.com/album/2rGybDkmfUvIxy7bWS2tH1) | 3:23 | 2022-06-01 |  |
+| [El Mickey](https://open.spotify.com/track/120PEdxV65LmPyrTNFEMTp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Mickey](https://open.spotify.com/album/2rGybDkmfUvIxy7bWS2tH1) | 3:23 | 2022-06-01 | 2023-09-19 |
 | [El Nano](https://open.spotify.com/track/6QeQdtPudjr0dcr9fcT8qv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Nano](https://open.spotify.com/album/0lwkPnZICyG9OkD77unsot) | 2:40 | 2022-06-01 | 2023-06-09 |
 | [El Primito \(En Vivo\)](https://open.spotify.com/track/5IWf4feNMKgijlJugOLYkJ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Primito \(En Vivo\)](https://open.spotify.com/album/7sGozLOnXBrjgjocsW14ih) | 3:05 | 2022-06-12 | 2023-01-21 |
 | [El Tony](https://open.spotify.com/track/4nPvBCUA5Oo47v4z6i1VfM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Paramos de Chambear](https://open.spotify.com/album/1ktHCfbNTgJqNskCciws97) | 3:14 | 2022-06-01 | 2023-08-27 |

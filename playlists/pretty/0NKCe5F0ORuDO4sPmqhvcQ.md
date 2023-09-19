@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,948 likes - 119 songs - 6 hr 42 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,946 likes - 122 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,5 +127,8 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 117 | [skydrivin](https://open.spotify.com/track/1o8ldMCYDBQ1fFsOBPXfpB) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [skydrivin](https://open.spotify.com/album/70pPkKEzYL70r95sCzvdqe) | 4:31 |
 | 118 | [If The DJ Let Me](https://open.spotify.com/track/0WOr4IFzO5PX2KQoU4hslu) | [a.k.a\. skips](https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv) | [If The DJ Let Me](https://open.spotify.com/album/4kNlUWofwgf6KjUF6vB9pS) | 3:51 |
 | 119 | [Motion](https://open.spotify.com/track/09Gw3c0YxUGPVCrj2GXbSF) | [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI) | [Motion](https://open.spotify.com/album/3RnXk2590lJ1zz4l2otNOZ) | 3:02 |
+| 120 | [Waiting](https://open.spotify.com/track/3q27PHvmQDV2BURl1QaTte) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Waiting](https://open.spotify.com/album/5Zg9VxMehF1QbCRD2yMESc) | 5:01 |
+| 121 | [want u](https://open.spotify.com/track/6nw4IaIhMiSsAiC0Wcij3U) | [SENZA](https://open.spotify.com/artist/6WjBgaTm4K1hVJ7KOfIs76) | [want u](https://open.spotify.com/album/7njdUxRgzPxUlUBHTYLR3r) | 2:35 |
+| 122 | [Take My Hand](https://open.spotify.com/track/6OXYxf6aGStPAF33xfbX4y) | [Zidakara](https://open.spotify.com/artist/1hTBatOhJ4f8nwdpny243e), [B\-Dos](https://open.spotify.com/artist/78XmtRqWV7RVWeYacvLJVx) | [Take My Hand](https://open.spotify.com/album/0wtipOu4OobwJj0jJpIDZV) | 2:27 |
 
-Snapshot ID: `MTA0NjAsNjk5ODdiODg5MzdhZDk0NDVkODExZjk0MmIxY2FkMjFhYmRlNmY2OQ==`
+Snapshot ID: `MTA0NjMsOTQ0OGVhY2I1MGZiNzVjM2Q0MjZhMmQ4YzQ0YjI3MjU0ZDgzOTNiYQ==`

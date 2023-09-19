@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-211 songs - 11 hr 56 min
+212 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 | 2022-05-30 |  |
 | [Down by the Water](https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm) | 2:58 | 2022-07-25 |  |
 | [Dreams](https://open.spotify.com/track/6ktuv95da650Ghn7crrZhg) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Dreams](https://open.spotify.com/album/5aP1PNb01SVRJNcaoOuItH) | 4:28 | 2022-05-30 | 2022-07-10 |
+| [Easy Thing](https://open.spotify.com/track/3UgSN3Sk0Bj1EdschiKTRB) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Easy Thing](https://open.spotify.com/album/1IMObMG6eLRwu6ZVTkACWa) | 2:43 | 2023-09-18 |  |
 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 | 2022-08-08 |  |
 | [Empty House](https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Empty House](https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu) | 3:32 | 2023-02-27 | 2023-08-20 |
 | [Even When/The Best Part \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Even When/The Best Part \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL) | 1:46 | 2022-05-30 | 2022-08-09 |
@@ -145,7 +146,7 @@
 | [Rather be Alone](https://open.spotify.com/track/4NVYuCegpkpDh7yswwxGFx) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Rather be Alone](https://open.spotify.com/album/3QJBv6MBftu4qs9exxiSsR) | 2:55 | 2023-04-17 | 2023-04-25 |
 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 | 2022-07-25 |  |
 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 | 2022-08-08 |  |
-| [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 | 2023-09-11 |  |
+| [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 | 2023-09-11 | 2023-09-19 |
 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 | 2022-05-30 | 2022-06-26 |
 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 | 2022-08-08 | 2023-08-01 |
 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 | 2022-05-30 | 2022-07-29 |

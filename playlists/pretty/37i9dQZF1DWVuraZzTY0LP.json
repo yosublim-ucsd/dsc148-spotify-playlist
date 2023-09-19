@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 328236,
+  "num_followers": 328318,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDE3NzFiM2UyMWJiZWZkYzQ3MWQ2Yzk1ZjM1MGUxOWVkN2M1MDc0",
+  "snapshot_id": "MCxmNTc5OTVhYTYwMjkyZTcwMTY5NjI3ODhhYzhiOTE2YjIwOTc0ZmUw",
   "tracks": [
     {
       "added_at": "2023-09-09 00:01:32",
@@ -623,38 +623,6 @@
     {
       "added_at": "2023-09-09 00:01:32",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
-    },
-    {
-      "added_at": "2023-09-09 00:01:32",
-      "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
-    },
-    {
-      "added_at": "2023-09-09 00:01:32",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -683,22 +651,6 @@
     {
       "added_at": "2023-09-09 00:01:32",
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Cosmic Girl - Remastered",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
-    },
-    {
-      "added_at": "2023-09-09 00:01:32",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -715,6 +667,54 @@
     {
       "added_at": "2023-09-09 00:01:32",
       "album": {
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
+    },
+    {
+      "added_at": "2023-09-09 00:01:32",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+    },
+    {
+      "added_at": "2023-09-09 00:01:32",
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 244146,
+      "name": "Cosmic Girl - Remastered",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
+    },
+    {
+      "added_at": "2023-09-09 00:01:32",
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -727,6 +727,26 @@
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
+    },
+    {
+      "added_at": "2023-09-09 00:01:32",
+      "album": {
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
       "added_at": "2023-09-09 00:01:32",
@@ -759,26 +779,6 @@
       "duration_ms": 215160,
       "name": "Everybody's Changing",
       "url": "https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA"
-    },
-    {
-      "added_at": "2023-09-09 00:01:32",
-      "album": {
-        "name": "Cracker Island (feat. Thundercat)",
-        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Cracker Island (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
       "added_at": "2023-09-09 00:01:32",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-09-09 00:01:32",
       "album": {
-        "name": "After Midnight (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "After Midnight (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2023-09-09 00:01:32",
-      "album": {
         "name": "Flamingos",
         "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
       },
@@ -923,6 +903,26 @@
     {
       "added_at": "2023-09-09 00:01:32",
       "album": {
+        "name": "After Midnight (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "After Midnight (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
+    },
+    {
+      "added_at": "2023-09-09 00:01:32",
+      "album": {
         "name": "Viaje Por Lo Eterno",
         "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 205000,
       "name": "Nunca Me Dejes",
       "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
-    },
-    {
-      "added_at": "2023-09-09 00:01:32",
-      "album": {
-        "name": "Body Paint",
-        "url": "https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 290584,
-      "name": "Body Paint",
-      "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
     },
     {
       "added_at": "2023-09-09 00:01:32",
@@ -983,6 +967,22 @@
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+    },
+    {
+      "added_at": "2023-09-09 00:01:32",
+      "album": {
+        "name": "Body Paint",
+        "url": "https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 290584,
+      "name": "Body Paint",
+      "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
     },
     {
       "added_at": "2023-09-09 00:01:32",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-09-09 00:01:32",
       "album": {
-        "name": "Besos y Pendientes",
-        "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 171680,
-      "name": "Besos y Pendientes",
-      "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
-    },
-    {
-      "added_at": "2023-09-09 00:01:32",
-      "album": {
         "name": "Small World",
         "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
       },
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2023-09-09 00:01:32",
       "album": {
+        "name": "Besos y Pendientes",
+        "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 171680,
+      "name": "Besos y Pendientes",
+      "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
+    },
+    {
+      "added_at": "2023-09-09 00:01:32",
+      "album": {
         "name": "Paranoia Pop",
         "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-09-09 00:01:32",
       "album": {
-        "name": "As Long As You Are",
-        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 205249,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh"
-    },
-    {
-      "added_at": "2023-09-09 00:01:32",
-      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 183906,
       "name": "Theworstthing",
       "url": "https://open.spotify.com/track/0EvZksFiDpboeG4UVaIvJa"
+    },
+    {
+      "added_at": "2023-09-09 00:01:32",
+      "album": {
+        "name": "As Long As You Are",
+        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 205249,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh"
     }
   ],
   "unique_name": "mam\u00e1 cool",

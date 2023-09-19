@@ -4,7 +4,7 @@
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Roy Woods, dvsn, and more\. Cover: <a href="spotify:artist:3TVXtAsR1Inumwj472S9r4">Drake</a> and Noah "40" Shebib
 
-107 songs - 6 hr 37 min
+109 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,12 +44,12 @@
 | [Fake Love](https://open.spotify.com/track/343YBumqHu19cGoGARUTsd) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:30 | 2023-06-01 |  |
 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 | 2023-06-01 |  |
 | [Friends \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/48yghmFphEYBqEUReolP8J) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:07 | 2023-06-01 |  |
-| [Get You Good](https://open.spotify.com/track/0Hy7GwC7e4FZBWsWnOcuqP) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Exis](https://open.spotify.com/album/6EfvX1lLPABeA3hMjcFuWr) | 3:46 | 2023-06-01 |  |
+| [Get You Good](https://open.spotify.com/track/0Hy7GwC7e4FZBWsWnOcuqP) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Exis](https://open.spotify.com/album/6EfvX1lLPABeA3hMjcFuWr) | 3:46 | 2023-06-01 | 2023-09-19 |
 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 | 2023-06-01 |  |
 | [Gwan Big up Urself](https://open.spotify.com/track/5RLIG9RLyMYhQGH7MI98ny) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU) | 3:20 | 2023-06-01 |  |
 | [Hallucinations](https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 4:06 | 2023-06-01 |  |
 | [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 | 2023-07-28 |  |
-| [Her](https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A) | 5:00 | 2023-06-01 |  |
+| [Her](https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A) | 5:00 | 2023-06-01 | 2023-09-19 |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-06-01 |  |
 | [Hotline Bling](https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:27 | 2023-06-01 |  |
 | [I Am Who I Am](https://open.spotify.com/track/4XkfMJCouzBbIXYYmA9B9m) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [I Am Who I Am](https://open.spotify.com/album/6725TSXWsKWvwXEMV5V5e3) | 3:09 | 2023-06-01 |  |
@@ -93,6 +93,7 @@
 | [Say Less](https://open.spotify.com/track/1vScfhgwjsSWwaL8Mlllxc) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Say Less](https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh) | 3:07 | 2023-06-01 | 2023-07-29 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-06-01 |  |
 | [Shot Again](https://open.spotify.com/track/2kzRO8PzGaUS0Ihq5cSPUA) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Shot Again](https://open.spotify.com/album/4QoVgwnLR1GBeA8Nu3pmlH) | 2:35 | 2023-06-01 |  |
+| [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-18 |  |
 | [SPLIT DECISION](https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:06 | 2023-06-01 |  |
 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 | 2023-06-01 |  |
 | [Started From the Bottom](https://open.spotify.com/track/5DI9jxTHrEiFAhStG7VA8E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same](https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t) | 2:54 | 2023-06-01 |  |
@@ -109,6 +110,7 @@
 | [Toosie Slide](https://open.spotify.com/track/7elj3cJvac6NnDKcCOXflk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dark Lane Demo Tapes](https://open.spotify.com/album/45c1tgTktunRMmfh3WVh8U) | 4:07 | 2023-06-01 |  |
 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 | 2023-06-01 |  |
 | [UP](https://open.spotify.com/track/1H59LEwe8DlA7jHsERO7Kx) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [UP](https://open.spotify.com/album/7gsSrQAUjkLIduueCRrpRV) | 2:50 | 2023-06-01 |  |
+| [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2023-09-18 |  |
 | [Wants and Needs \(feat\. Lil Baby\)](https://open.spotify.com/track/6ZoZ4KGIDD23DohdVk0Ybw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Scary Hours 2](https://open.spotify.com/album/6RxuBWYLCMtRHl7IpoVuhY) | 3:14 | 2023-06-01 |  |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 | 2023-06-01 |  |
 | [What's Next](https://open.spotify.com/track/3mDFLytDotXo2p0rvfGbkA) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/6RxuBWYLCMtRHl7IpoVuhY) | 2:58 | 2023-06-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 580827,
+  "num_followers": 580986,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZhODU3YzhjY2Q1Mzc1ZTM2YWZiNWIzYmVmNTBlMTg0ZjU2OTg2",
+  "snapshot_id": "MCwxNmM2MmU3MzY0OTI5NmRmZWM5MWVhYzQwOGMwZGUyNzNlNDExOTI0",
   "tracks": [
     {
       "added_at": "2023-07-17 18:15:29",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Run On",
-        "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
-      },
-      "artists": [
-        {
-          "name": "Jamie Bower",
-          "url": "https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1"
-        },
-        {
-          "name": "King Sugar",
-          "url": "https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP"
-        }
-      ],
-      "duration_ms": 212705,
-      "name": "Run On",
-      "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "King Arthur: Legend of the Sword (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1OVF4Ls0TgBVe8rMdUqcyz"
       },
@@ -355,18 +335,22 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+        "name": "Run On",
+        "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Jamie Bower",
+          "url": "https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1"
+        },
+        {
+          "name": "King Sugar",
+          "url": "https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP"
         }
       ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
+      "duration_ms": 212705,
+      "name": "Run On",
+      "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -399,6 +383,22 @@
       "duration_ms": 164440,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Live at the Old Quarter, Houston, Texas",
         "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 218188,
       "name": "Devil's Spoke",
       "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 228958,
       "name": "Pretty Polly",
       "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Nobody knows.",
-        "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
-      },
-      "artists": [
-        {
-          "name": "Willis Earl Beal",
-          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
-        }
-      ],
-      "duration_ms": 279733,
-      "name": "Too Dry To Cry",
-      "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Nobody knows.",
+        "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
+      },
+      "artists": [
+        {
+          "name": "Willis Earl Beal",
+          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
+        }
+      ],
+      "duration_ms": 279733,
+      "name": "Too Dry To Cry",
+      "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Quiet Flame",
-        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 242153,
-      "name": "Pull the Moon",
-      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Put Your Needle Down",
         "url": "https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
       },
       "artists": [
         {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 217240,
-      "name": "Fire in the Empire",
-      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1359,6 +1343,22 @@
       "duration_ms": 88293,
       "name": "Long Time Travelin'",
       "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Fire in the Empire",
+      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "The Ghost Who Walks",
-        "url": "https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1"
-      },
-      "artists": [
-        {
-          "name": "Karen Elson",
-          "url": "https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Stolen Roses",
-      "url": "https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Hell Among The Yearlings",
         "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 270893,
       "name": "The Devil Had A Hold Of Me",
       "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "The Ghost Who Walks",
+        "url": "https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1"
+      },
+      "artists": [
+        {
+          "name": "Karen Elson",
+          "url": "https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Stolen Roses",
+      "url": "https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Lay This Body Down",
-        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
       "artists": [
         {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 287773,
-      "name": "Lay This Body Down",
-      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
+      "duration_ms": 177359,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
     }
   ],
   "unique_name": "Southern Gothic",

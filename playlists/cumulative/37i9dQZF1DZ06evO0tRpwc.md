@@ -4,7 +4,7 @@
 
 > This is Daniela Araújo\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 54 min
+57 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Esperança](https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Catarse: Lado A](https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB) | 4:40 | 2023-07-09 |  |
 | [Farol](https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Farol](https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww) | 3:58 | 2023-07-09 |  |
 | [Faça Morada \- Ao Vivo](https://open.spotify.com/track/76jwmxMu3mYo805VuBLVsC) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo \(Ao Vivo\)](https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv) | 4:22 | 2023-07-09 |  |
+| [Gratidão](https://open.spotify.com/track/6ktpmdpTcsHiMl17l1k5Nl) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:14 | 2023-09-18 |  |
 | [Guia\-Me](https://open.spotify.com/track/3ysiBzk8LiZaik65dHuqDh) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 3:57 | 2023-07-09 |  |
 | [Imensurável](https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:04 | 2023-07-09 |  |
 | [Jugo Suave](https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:21 | 2023-07-09 |  |
@@ -62,7 +63,7 @@
 | [Verdade](https://open.spotify.com/track/52gwchgkLip9BrstkfDOGE) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 3:55 | 2023-08-16 |  |
 | [Verdade \(feat\. Daniela Araújo\) \- Ao Vivo](https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Principio \(Ao Vivo\)](https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c) | 4:14 | 2023-07-09 |  |
 | [Você Consegue Sim](https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acústico, Vol\. 2](https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB) | 3:19 | 2023-07-09 |  |
-| [Volta](https://open.spotify.com/track/1miCqZ9vKOVNDRGDyeNKFu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 5:16 | 2023-07-09 |  |
+| [Volta](https://open.spotify.com/track/1miCqZ9vKOVNDRGDyeNKFu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 5:16 | 2023-07-09 | 2023-09-19 |
 | [Éramos Iguais \(feat\. Daniela Araújo & Rashid\)](https://open.spotify.com/track/27YVyh5IDUSnjC23NlUfOw) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Boaz Novaz](https://open.spotify.com/album/1POssn3x8pJZztmDsUFXUM) | 4:27 | 2023-07-09 |  |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

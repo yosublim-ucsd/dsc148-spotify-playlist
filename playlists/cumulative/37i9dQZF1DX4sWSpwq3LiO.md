@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,620 songs - 3 day 0 hr 2 min
+1,621 songs - 3 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,6 +694,7 @@
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2021-08-12 | 2022-11-10 |
 | [Lamentation for a Lost Life](https://open.spotify.com/track/77O9eTcQpYwCnANBQHjGDQ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Taboo \(Music From The Original TV Series\)](https://open.spotify.com/album/6U5z9EiIl1iBdwfzAGxS0B) | 2:21 | 2019-05-26\* | 2020-09-15 |
 | [land in sight](https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [land in sight](https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3) | 3:20 | 2023-08-29 |  |
+| [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 | 2023-09-18 |  |
 | [Lanuza](https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Lanuza](https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ) | 2:52 | 2022-03-10 | 2022-09-24 |
 | [Laredo](https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Laredo](https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq) | 2:47 | 2022-02-23 | 2022-09-24 |
 | [Larissa](https://open.spotify.com/track/1GsXfbpjrnAr8G4LcnhlPt) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Larissa](https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4) | 2:38 | 2021-09-09 | 2022-09-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 574459,
+  "num_followers": 574579,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjQwNjNhMDM1MTA5NjY5M2MzMjE1MGFmNGNkYWJmNmNkNTNlMGE3",
+  "snapshot_id": "MCw4OWQ5MTgxZGJlNWExMTdkYmIxN2E1NDU1Yzk4Y2IwMDkxMDVkMWYy",
   "tracks": [
     {
       "added_at": "2023-08-29 08:42:33",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
       },
@@ -143,6 +159,22 @@
       "duration_ms": 162608,
       "name": "Just A Little While",
       "url": "https://open.spotify.com/track/4ofr8ORQ9w1QuxGLBwRiQk"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -179,38 +211,6 @@
       "duration_ms": 159754,
       "name": "Heartworks",
       "url": "https://open.spotify.com/track/2y0zJlae50VyzO7NCrQe06"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -299,42 +299,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Diving (feat. Holly Humberstone)",
-        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Diving (feat. Holly Humberstone)",
-      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
-        "name": "Bedroom Exile",
-        "url": "https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 198970,
-      "name": "Bedroom Exile",
-      "url": "https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
@@ -383,6 +347,42 @@
       "duration_ms": 250521,
       "name": "Unknown Song",
       "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Bedroom Exile",
+        "url": "https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 198970,
+      "name": "Bedroom Exile",
+      "url": "https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Diving (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Diving (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 197811,
-      "name": "3D Feelings",
-      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 174347,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 197811,
+      "name": "3D Feelings",
+      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Passion (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 221135,
-      "name": "Passion (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 128703,
       "name": "Tenderfoot",
       "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Passion (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 221135,
+      "name": "Passion (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Colour Me Blue",
-      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "ich mags",
         "url": "https://open.spotify.com/album/5PB2mi2e4cq4HdBarm0sPS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 161960,
       "name": "ich mags",
       "url": "https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Colour Me Blue",
+      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Here, Right Now",
-        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "Going with You",
-      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Right There",
         "url": "https://open.spotify.com/album/2oBZsMGLHyBtI7xDnmaunz"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 182936,
       "name": "Right There",
       "url": "https://open.spotify.com/track/5oXj6bEvSt0piiMFZc8gpE"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Here, Right Now",
+        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Going with You",
+      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Red & Blue",
-        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 213418,
-      "name": "Red & Blue",
-      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "I Swear It's True",
         "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 191297,
       "name": "hunger",
       "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Red & Blue",
+        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 213418,
+      "name": "Red & Blue",
+      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
     },
     {
       "added_at": "2023-08-29 08:42:33",

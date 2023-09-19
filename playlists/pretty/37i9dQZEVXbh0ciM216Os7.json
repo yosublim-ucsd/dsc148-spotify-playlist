@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDA1NTliYjhkN2ZmMGY4NjQzZmE2MDk0NWFiNGYwY2YzZg==",
+  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDA3NDhmNTJjZmUxYjI3YzRiYmNhNmYwOTgwZDJmMjhjMw==",
   "tracks": [
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Battle Pass Mixtape",
-        "url": "https://open.spotify.com/album/7uAISPJ5P2xO7x1L1RrfrJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Marsiv",
-          "url": "https://open.spotify.com/artist/16HroKQr2QoO2mBunvXSoh"
-        }
-      ],
-      "duration_ms": 241937,
-      "name": "Protect ya Neck - Beat",
-      "url": "https://open.spotify.com/track/3v8miUWCBtKwa1u0pDhzC1"
-    },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
@@ -63,6 +47,22 @@
       "duration_ms": 118436,
       "name": "Rebuke - Instrumental",
       "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023)",
+        "url": "https://open.spotify.com/album/4fd8mqhFEDpn8sJitGqS8k"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 288230,
+      "name": "Too Far Gone? (Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023)",
+      "url": "https://open.spotify.com/track/4P5M6lFGdjz58JJK6hYW8w"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -123,6 +123,54 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "BUCK WILD",
+        "url": "https://open.spotify.com/album/5ImKCJbyk1dOft8wdHTUKa"
+      },
+      "artists": [
+        {
+          "name": "Headkrack",
+          "url": "https://open.spotify.com/artist/0IB0hCCHwwj5vbLcYk8WbQ"
+        },
+        {
+          "name": "Local Astronauts",
+          "url": "https://open.spotify.com/artist/4spEdT2akJzTcOugrkhnLh"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Kool Keith",
+          "url": "https://open.spotify.com/artist/3zFaWPA8Jobgf5egh38KD2"
+        },
+        {
+          "name": "Fly Deff",
+          "url": "https://open.spotify.com/artist/49FiS9ZFyKxljQsQAep1nH"
+        }
+      ],
+      "duration_ms": 226411,
+      "name": "BUCK WILD - Radio Edit",
+      "url": "https://open.spotify.com/track/7moyxFvUkA2ScJne5GHwCW"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Warrior Tour (Live Studio)",
+        "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
+      },
+      "artists": [
+        {
+          "name": "IAM",
+          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+        }
+      ],
+      "duration_ms": 560973,
+      "name": "Demain c'est loin - Live Studio",
+      "url": "https://open.spotify.com/track/5DVC4v4D2XvU9fBZWHrdeT"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "So Gold (Immersive Edition)",
         "url": "https://open.spotify.com/album/7vsKdJyq79Nf8MChnGpGpy"
       },
@@ -151,24 +199,8 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Warrior Tour (Live Studio)",
-        "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
-      },
-      "artists": [
-        {
-          "name": "IAM",
-          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
-        }
-      ],
-      "duration_ms": 560973,
-      "name": "Demain c'est loin - Live Studio",
-      "url": "https://open.spotify.com/track/5DVC4v4D2XvU9fBZWHrdeT"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Happy",
-        "url": "https://open.spotify.com/album/2xn1MSovWrPuWBTLSJEfMx"
+        "url": "https://open.spotify.com/album/67nEDeSnu6MLIm5Vr8UWwf"
       },
       "artists": [
         {
@@ -182,23 +214,7 @@
       ],
       "duration_ms": 222986,
       "name": "Happy",
-      "url": "https://open.spotify.com/track/3cPafGcaLEsfrZZZB7gB3M"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "End",
-        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 445933,
-      "name": "All Mountains",
-      "url": "https://open.spotify.com/track/1u7JDkPMV47l42Ajimwnzw"
+      "url": "https://open.spotify.com/track/4xO6bnooEZzdvKGNuciK0i"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -283,8 +299,24 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Freak 54 (Freak Out) [Sped Up Version]",
-        "url": "https://open.spotify.com/album/5ntn1tPGZZuDGoa16ACng8"
+        "name": "USA",
+        "url": "https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Freak 54 (Freak Out)",
+        "url": "https://open.spotify.com/album/5w5ybFZ5gewy0Lb9LA9lXc"
       },
       "artists": [
         {
@@ -296,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 109779,
-      "name": "Freak 54 (Freak Out) - Sped Up Version",
-      "url": "https://open.spotify.com/track/3GBJHmYBfh911Fs8DF8ZHe"
+      "duration_ms": 128240,
+      "name": "Freak 54 (Freak Out)",
+      "url": "https://open.spotify.com/track/5CAaHC3rBhhZyFR7JqgPbn"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -367,22 +399,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Australia Stops",
-        "url": "https://open.spotify.com/album/6GtcJTPQEKWoFDtXLrgWbh"
-      },
-      "artists": [
-        {
-          "name": "C.O.F.F.I.N",
-          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
-        }
-      ],
-      "duration_ms": 347640,
-      "name": "Faceless",
-      "url": "https://open.spotify.com/track/1GaAvOXKpcMxIgFd1fvX7o"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Dookie (30th Anniversary Outtakes)",
         "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
       },
@@ -392,9 +408,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 224800,
-      "name": "Christie Rd. - Outtake",
-      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
+      "duration_ms": 169773,
+      "name": "Walking the Dog (demo) - Outtake",
+      "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -467,30 +483,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "She Listen To Trap",
-        "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
-      },
-      "artists": [
-        {
-          "name": "A.M",
-          "url": "https://open.spotify.com/artist/38thHiXEE2yx8OacMf89Sq"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Get It Done",
-          "url": "https://open.spotify.com/artist/7I1gH3qVSIyH7sE4l0dFVu"
-        }
-      ],
-      "duration_ms": 143103,
-      "name": "She Listen To Trap",
-      "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Good Brother",
         "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
       },
@@ -527,6 +519,26 @@
       "duration_ms": 153360,
       "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/3t0yleDo23gh9vEjAfDbgX"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Origin Story",
+        "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
+      },
+      "artists": [
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        },
+        {
+          "name": "The Future Kingz",
+          "url": "https://open.spotify.com/artist/4sw5s8BqMsNkOSZtNgACKv"
+        }
+      ],
+      "duration_ms": 297624,
+      "name": "Origin Story",
+      "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
     },
     {
       "added_at": "2023-09-15 04:00:00",

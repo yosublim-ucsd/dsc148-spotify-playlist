@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,802 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,519 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 21 | [The Ocean \- Remaster](https://open.spotify.com/track/0AqjkVFqa1ujle4Lb1k9wR) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 4:31 |
 | 22 | [Babe I'm Gonna Leave You \- 1990 Remaster](https://open.spotify.com/track/4OMu5a8sFpcRCPCcsoEaov) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:41 |
 | 23 | [Houses of the Holy \- Remaster](https://open.spotify.com/track/0d0Z9qFbTIgDSZtImluTAy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 4:04 |
-| 24 | [Moby Dick \- Intro / Outro Rough Mix](https://open.spotify.com/track/4lZjT7PLaWPIcm2InIDU2k) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Deluxe Edition\)](https://open.spotify.com/album/58N1RPC3B4mRkjBaug4u3X) | 1:38 |
+| 24 | [Bron\-Y\-Aur Stomp \- Remaster](https://open.spotify.com/track/1dK6cNOMYjEP3QGYOfwP6t) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:17 |
 | 25 | [The Rain Song \- Remaster](https://open.spotify.com/track/3JLrri1xSCui3bzITDJbkk) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 7:39 |
 | 26 | [Dazed and Confused \- 1990 Remaster](https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:26 |
-| 27 | [Bron\-Y\-Aur Stomp \- Remaster](https://open.spotify.com/track/1dK6cNOMYjEP3QGYOfwP6t) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:17 |
+| 27 | [Moby Dick \- Intro / Outro Rough Mix](https://open.spotify.com/track/4lZjT7PLaWPIcm2InIDU2k) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Deluxe Edition\)](https://open.spotify.com/album/58N1RPC3B4mRkjBaug4u3X) | 1:38 |
 | 28 | [Travelling Riverside Blues \(BBC Session\) \- Remastered](https://open.spotify.com/track/3dCarMp6T3GsKCspJgeD0a) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 5:11 |
 | 29 | [Ten Years Gone \- Remaster](https://open.spotify.com/track/6M5m8gfTj3rhYEPDzLmdL4) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 6:34 |
-| 30 | [Misty Mountain Hop \- Remaster](https://open.spotify.com/track/5NnZ4JJxWiqqhYNu3rwmFj) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:38 |
-| 31 | [That's the Way \- Remaster](https://open.spotify.com/track/1ZUv3ISx2nFaz0JimVdcoT) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 5:37 |
+| 30 | [That's the Way \- Remaster](https://open.spotify.com/track/1ZUv3ISx2nFaz0JimVdcoT) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 5:37 |
+| 31 | [Misty Mountain Hop \- Remaster](https://open.spotify.com/track/5NnZ4JJxWiqqhYNu3rwmFj) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:38 |
 | 32 | [What Is and What Should Never Be \- 1990 Remaster](https://open.spotify.com/track/5G7uLHtoEW140QOcBpJlfz) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:43 |
 | 33 | [Bron\-Yr\-Aur \- Remaster](https://open.spotify.com/track/5rgWj8h7lzbSmwpp0wFkXD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 2:06 |
 | 34 | [The Girl I Love She Got Long Black Wavy Hair \- Live on Tasty Pop Sundae from BBC Sessions;Remaster](https://open.spotify.com/track/7ecVrUYlhj6OrKTAK0oDzo) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [The Complete BBC Sessions \(Remastered\)](https://open.spotify.com/album/6VH2op0GKIl3WNTbZmmcmI) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 49 | [The Crunge \- Remaster](https://open.spotify.com/track/7IgBLFklu75pp8Y1vphChS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 3:17 |
 | 50 | [We're Gonna Groove \- Remaster](https://open.spotify.com/track/49gK7IgvdjZDcei0HJ8yYu) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 2:38 |
 
-Snapshot ID: `MjgyNDYzNTAsMDAwMDAwMDA1YzA4NTcwMTQ5OTNkNTBjYzVjYjI2OGUxZTY0ZGQ1Ng==`
+Snapshot ID: `MjgyNTA2NTEsMDAwMDAwMDA5M2Y0M2MyMDYyMGU2ZGY1ZjVlMjNhZTM2YzgxNjNhMg==`

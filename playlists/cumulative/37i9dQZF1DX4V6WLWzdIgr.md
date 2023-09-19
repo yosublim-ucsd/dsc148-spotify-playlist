@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-64 songs - 5 hr 17 min
+65 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 | 2023-08-09 |  |
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2021-09-08 |  |
 | [Pelanggaran](https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pelanggaran](https://open.spotify.com/album/74dbmkxOoWQE3h4RlXfPIK) | 4:57 | 2023-09-13 |  |
-| [Raiso Dadi Siji](https://open.spotify.com/track/2WamguLifm5R5oKt4kuddx) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Linda Sulini](https://open.spotify.com/artist/0dbRMrhQQRU84Eh6GafP6O) | [Raiso Dadi Siji](https://open.spotify.com/album/0YX5jGnXIZ7McHkHuJzfbg) | 6:34 | 2023-08-01 |  |
+| [Raiso Dadi Siji](https://open.spotify.com/track/2WamguLifm5R5oKt4kuddx) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Linda Sulini](https://open.spotify.com/artist/0dbRMrhQQRU84Eh6GafP6O) | [Raiso Dadi Siji](https://open.spotify.com/album/0YX5jGnXIZ7McHkHuJzfbg) | 6:34 | 2023-08-01 | 2023-09-19 |
+| [RAISO DADI SIJI](https://open.spotify.com/track/6Jo8Hoo4vJpXtESmBJEEJS) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Linda Sulini](https://open.spotify.com/artist/0dbRMrhQQRU84Eh6GafP6O) | [RAISO DADI SIJI](https://open.spotify.com/album/0ur8PFBqXKXVdwhHFviG4J) | 6:37 | 2023-09-13 |  |
 | [Rasah Bali](https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ena Vika](https://open.spotify.com/artist/6JefPJoggP4q1iCg3qJlBd) | [Rasah Bali](https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e) | 4:24 | 2023-02-03 |  |
 | [Saktenane](https://open.spotify.com/track/38JRCDnXTA9XG58jJnhh6l) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane](https://open.spotify.com/album/5RFmA98QgQqRBtEcErNAUX) | 5:21 | 2023-09-13 |  |
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2021-09-08 |  |

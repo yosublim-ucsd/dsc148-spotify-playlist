@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 
 > It's a Saturday night in the country, all the time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,859 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,936 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 | 36 | [KEITH \- Pop Remix](https://open.spotify.com/track/4CzCd0VNYi5r3NI8MOyrrl) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [KEITH \(Pop Remix\)](https://open.spotify.com/album/2H0ixr01bPLofyeanCtq87) | 2:52 |
 | 37 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 |
 | 38 | [Drink](https://open.spotify.com/track/7Jc8drLOY0v3guDMfSACIz) | [Southbound xo](https://open.spotify.com/artist/2Vd1apm9XWtfshrjOmodgB) | [Drink](https://open.spotify.com/album/6fhWZIDRTVu1lK1sZ0RVkh) | 3:02 |
-| 39 | [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:39 |
+| 39 | [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/0vInSJATtcoZZ0GofWNGjP) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Cross Country: The Extra Mile](https://open.spotify.com/album/47Neda2C9GGMDkgyM3fuqs) | 2:39 |
 | 40 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 |
 | 41 | [For The First Time](https://open.spotify.com/track/0LG2cFomCi8Fb664Lvr3Nu) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [When Was The Last Time](https://open.spotify.com/album/6SVzzB0SnMlBXcHsmhNxzC) | 3:17 |
 | 42 | [We Got Friday Night](https://open.spotify.com/track/0p0YtAR7xpu6P3MeRR25ii) | [Jason Lee](https://open.spotify.com/artist/7gQSJZwTfM0tyflnvoqCmP) | [11](https://open.spotify.com/album/3abSlWOaK3xxXAfmWTxqA9) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 | 74 | [Singles You Up \- Ryan Riback Remix](https://open.spotify.com/track/3clfDJ1mvmbSTg9jw40wan) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Singles You Up \(Ryan Riback Remix\)](https://open.spotify.com/album/6BdsIEdziglvxn10fmjsVf) | 3:18 |
 | 75 | [Footloose](https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Footloose](https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN) | 3:38 |
 
-Snapshot ID: `MCxmM2NmOGU2MjI1YmY2NDM2ZTczY2VkYzIxZTczMmI1MDg0ZTQ3NTU3`
+Snapshot ID: `MCw4Zjc4YmUwYzlmM2YyYmI2MjI3ZjY3ODNhYzcwOTUxMWY0MGMwMTFj`

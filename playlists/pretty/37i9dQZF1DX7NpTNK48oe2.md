@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NpTNK48oe2.md) - [plain]
 
 > Hasta allá donde tú te encuentres te ha de llegar mi olvido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,896 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,024 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NpTNK48oe2.md) - [plain]
 | 11 | [Que Sea Mi Condena](https://open.spotify.com/track/7pWFm7BD7o5aXqpHO1Xqt9) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:09 |
 | 12 | [La Muerte del Palomo](https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:26 |
 | 13 | [La Farsante](https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:55 |
-| 14 | [Siempre Estoy Pensando en Ti \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/track/26BJh7P4lKzBmjMJWmke5c) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Mariachi México 70 De Pepe López](https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 3:30 |
+| 14 | [Siempre Estoy Pensando en Ti](https://open.spotify.com/track/26BJh7P4lKzBmjMJWmke5c) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Mariachi México 70 De Pepe López](https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 3:30 |
 | 15 | [Lágrimas y Lluvia](https://open.spotify.com/track/3rMg1HEQFyLnZBJTAmKd7o) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:59 |
-| 16 | [Te Voy a Olvidar](https://open.spotify.com/track/6DAlU6VmY22PDAI8KpLRT2) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:23 |
+| 16 | [Te Voy a Olvidar](https://open.spotify.com/track/6DAlU6VmY22PDAI8KpLRT2) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:23 |
 | 17 | [Yo Me Voy](https://open.spotify.com/track/5ZMPjswwVLJIBs4Zu6u5M6) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:06 |
 | 18 | [Qué Chasco Me Llevé](https://open.spotify.com/track/6QvAw8AYmGHBxPSFmGPN4b) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:23 |
 | 19 | [Con Todo y Mi Tristeza](https://open.spotify.com/track/0v7RRVOQkthBDVlWZpmdjz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años De Exitos Rancheros](https://open.spotify.com/album/2Zygg5L4t4WscA9yL5OaQ0) | 3:49 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NpTNK48oe2.md) - [plain]
 | 46 | [El Sinaloense](https://open.spotify.com/track/5CmZaMmJCnqqWEQH2U2Xbu) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel Con Banda..\. El Recodo](https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl) | 3:09 |
 | 47 | [Adiós al Amigo](https://open.spotify.com/track/1dpo2XA0bDlmjn62ISZkb6) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel Con Banda..\. El Recodo](https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl) | 2:49 |
 | 48 | [La Herencia](https://open.spotify.com/track/0EEgUlARl8vQVj8yqbO8AR) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 3:07 |
-| 49 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
+| 49 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
 | 50 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
 
-Snapshot ID: `MCw1ZmZkOWFiMzAzNTg3YmU3NDAwMjY4MTMzOTk2Y2ZhN2RiYzA4N2Nl`
+Snapshot ID: `MCwwNWQyZjFhMGZiYTVhZjAwNTg0Yjg4ODM0NTQ1ZjFjY2IwMjYzMjUx`

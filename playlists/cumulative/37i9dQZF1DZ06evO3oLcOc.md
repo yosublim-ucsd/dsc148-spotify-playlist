@@ -4,7 +4,7 @@
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 20 min
+64 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,10 @@
 | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf) | 2:55 | 2023-06-07 |  |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2023-06-07 |  |
 | [Chrome Hearted \(feat\. Tyga\)](https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Chrome Hearted \(feat\. Tyga\)](https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ) | 2:33 | 2023-06-07 |  |
-| [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2023-06-07 |  |
+| [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2023-06-07 | 2023-09-19 |
+| [Collide \(feat\. Tyga\)](https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Dark Side](https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H) | 4:20 | 2023-09-18 |  |
 | [Day One](https://open.spotify.com/track/3OLSNsjLlDxMIBCrGQSnJv) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Day One](https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi) | 2:28 | 2023-06-07 | 2023-08-01 |
-| [Dennis Rodman \(feat\. Tyga\)](https://open.spotify.com/track/2N8jIpNMutjwnt50OroVVL) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Floor Seats II](https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV) | 3:18 | 2023-06-07 |  |
+| [Dennis Rodman \(feat\. Tyga\)](https://open.spotify.com/track/2N8jIpNMutjwnt50OroVVL) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Floor Seats II](https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV) | 3:18 | 2023-06-07 | 2023-09-19 |
 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 | 2023-06-07 |  |
 | [Deuces \(feat\. Tyga & Kevin McCall\)](https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Kevin McCall](https://open.spotify.com/artist/2teIxF2qgr0rYmTTMKiZ7s) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:36 | 2023-06-07 |  |
 | [Dip \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4hXDobvUaXyDFLnmecoY0z) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dip \(feat\. Nicki Minaj\)](https://open.spotify.com/album/32EKwnBISVjObigwvsBzcL) | 3:15 | 2023-06-07 |  |

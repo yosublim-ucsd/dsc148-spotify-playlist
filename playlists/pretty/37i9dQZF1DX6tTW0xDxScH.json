@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 695785,
+  "num_followers": 696063,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzZmN2FkYTA0YzdlNDhmYTY3NzY5N2M1MjY3YWMyZWMxNDk2Nzcx",
+  "snapshot_id": "MCxjNGZlNzViZTg4YTFhYzgxOGUwYzYxMDlhYWY0NzgyYTcxZWMyM2Ri",
   "tracks": [
     {
       "added_at": "2023-04-04 17:18:55",
@@ -75,18 +75,22 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
       "artists": [
         {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 146175,
-      "name": "Time in a Bottle",
-      "url": "https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL"
+      "duration_ms": 252811,
+      "name": "Texas Sun",
+      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -107,22 +111,18 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 252811,
-      "name": "Texas Sun",
-      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+      "duration_ms": 146175,
+      "name": "Time in a Bottle",
+      "url": "https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/6Bq78nvB8jyxF9dQIdCahr"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "It's Our Love",
-      "url": "https://open.spotify.com/track/4A6zEXlSk7xIIqDh92iZ26"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Vide Noir",
         "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "First Place",
-        "url": "https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o"
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/6Bq78nvB8jyxF9dQIdCahr"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 283190,
-      "name": "Everything Is Just a Mess",
-      "url": "https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB"
+      "duration_ms": 227906,
+      "name": "It's Our Love",
+      "url": "https://open.spotify.com/track/4A6zEXlSk7xIIqDh92iZ26"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -851,6 +835,22 @@
       "duration_ms": 276600,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "First Place",
+        "url": "https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 283190,
+      "name": "Everything Is Just a Mess",
+      "url": "https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 204453,
       "name": "Trick To Happy",
       "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 159453,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
     },
     {
       "added_at": "2023-04-04 17:18:55",
