@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PP Krit
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: DIDIxDADA
 
-381 songs - 22 hr 56 min
+383 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [คือเธอ \- Original soundtrack from "Cutie Pie 2 You"](https://open.spotify.com/track/2eXpVUUo3WeFkLcp3HWFZ9) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [คือเธอ \(Original soundtrack from "Cutie Pie 2 You"\)](https://open.spotify.com/album/1jaKAX6yT6fXPUdDuX6E6i) | 3:19 | 2023-02-02 | 2023-02-11 |
 | [คุยคนเดียวเก่ง](https://open.spotify.com/track/4DqaFHKqAsnBn9DfLWhRpW) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:22 | 2022-05-26 | 2022-12-24 |
 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 | 2022-05-26 |  |
-| [งอนละ](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2022-11-17 |  |
+| [งอนละ](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2022-11-17 | 2023-09-20 |
 | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/track/1iO8Gwn33kImgOeDpFXTD5) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/album/7qbW3ywq8vR5IhhsNMJ09F) | 3:17 | 2022-06-16 | 2022-07-02 |
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2023-04-10 |  |
 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2022-05-26 | 2023-04-20 |
@@ -139,7 +139,7 @@
 | [จีบก่อนได้ไหม](https://open.spotify.com/track/7tjyoj5A5A64T66nOJ2EDG) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [จีบก่อนได้ไหม](https://open.spotify.com/album/3Blple8BFcrzO2t0z9kZft) | 4:30 | 2023-08-24 | 2023-09-16 |
 | [จีบตอนนี้ \- Available Now](https://open.spotify.com/track/0UTKM4QrKUwNCvWUzq7E6E) | [Porch Pathaseth](https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve) | [kiddorecords D\-SUEM\-BLUR](https://open.spotify.com/album/74l8lgDRag1rBUvsyB0eQp) | 2:56 | 2022-12-15 | 2023-01-27 |
 | [ฉบับปรับปรุง](https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q), [Lazyloxy](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MAS\[S\]TERPIECE](https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2) | 4:04 | 2022-05-26 | 2022-11-18 |
-| [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 | 2022-07-22 |  |
+| [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 | 2022-07-22 | 2023-09-20 |
 | [ฉันจะฉาปเธอ \- Curse](https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ฉันจะฉาปเธอ \(Curse\)](https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP) | 3:17 | 2022-05-26 |  |
 | [ชน \(Crush\)](https://open.spotify.com/track/1DTRZvmzt6JcspTCeIBJeC) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 2:45 | 2023-08-04 | 2023-08-11 |
 | [ชอบความเหงา \(Loneliness\)](https://open.spotify.com/track/1QTwE3bpK1t6W3H4ffpFc1) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [ชอบความเหงา \(Loneliness\)](https://open.spotify.com/album/2ocXPv98Cd9un077PQCbIi) | 3:27 | 2022-10-07 | 2022-10-27 |
@@ -206,6 +206,7 @@
 | [ปีนไม่ไหว \- From Future วิศวะสุดหล่อกับคุณหมอของผม](https://open.spotify.com/track/4afl2R8ZC6lk3CUKkhD6dm) | [Bever Patsapon](https://open.spotify.com/artist/4OV6Ord5kzWXZC2agBXlXK) | [ปีนไม่ไหว \(From Future วิศวะสุดหล่อกับคุณหมอของผม\)](https://open.spotify.com/album/4vOVnGAxp6ml513x1Ee4p0) | 3:36 | 2023-02-23 | 2023-03-03 |
 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \[feat\. Aheye of 4EVE\]](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 | 2023-05-10 |  |
 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\)](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 | 2022-05-26 | 2022-08-26 |
+| [พลั้ง \(Confess\)](https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [พลั้ง \(Confess\)](https://open.spotify.com/album/4NE78JyLuQgUhllqVJF4iw) | 3:34 | 2023-09-19 |  |
 | [พิง \- เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV) | 4:02 | 2022-05-26 | 2023-03-03 |
 | [พิสูจน์ \(PROVE IT\)](https://open.spotify.com/track/2hvFb7MUUY2hfKdzySdPHO) | [SIZZY](https://open.spotify.com/artist/5nWu2ZmwUsVv1eAfbIUSXF) | [พิสูจน์ \(PROVE IT\)](https://open.spotify.com/album/1pLQp0VSjMiGLV3jzTaQMs) | 3:37 | 2022-06-16 | 2022-06-24 |
 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/0MejzQMW0yfpwfZwIjNaAH) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/album/5xP13jAUjzH2TBjxaj5stu) | 3:39 | 2022-05-26 | 2022-07-29 |
@@ -213,6 +214,7 @@
 | [พูดได้ไหม \(Let Me Tell You\) \- เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/track/3RBEKEeZWt3iCsuh4bvZpl) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO) | [เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President](https://open.spotify.com/album/2U1hTTT8zpG58iAlcjCPGg) | 3:29 | 2023-03-02 | 2023-03-10 |
 | [พ่อไม่ให้มี \(DADD\)](https://open.spotify.com/track/51XcWthCJU8nY22ARPHav8) | [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [พ่อไม่ให้มี \(DADD\)](https://open.spotify.com/album/3VU3OpwYZ5zpqE74jPzTcy) | 2:59 | 2023-02-10 | 2023-02-17 |
 | [มองจากดาวอังคารก็รู้](https://open.spotify.com/track/6Sw06fUvccaRgiButscHjY) | [Chilling Sunday](https://open.spotify.com/artist/5UjfkANGRdbB6a6aLQHoz9) | [มองจากดาวอังคารก็รู้](https://open.spotify.com/album/1XCt0fRiLyzYaTcGlLPWX1) | 3:36 | 2022-07-28 | 2022-08-06 |
+| [มังคุด \(Mangosteen\)](https://open.spotify.com/track/1dLGInITu3AqnKbGIA4pIc) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [มังคุด \(Mangosteen\)](https://open.spotify.com/album/0dyAGziFzoW1m2OGwXSuID) | 3:27 | 2023-09-19 |  |
 | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/track/13p7WgSfNUXKmWUjskWtSW) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/album/6OLZ8YxFlH5RF0j0ZCRd9y) | 3:19 | 2023-02-28 | 2023-04-07 |
 | [มาเอาไร \- A Rebound](https://open.spotify.com/track/0E1TRAWupIIwrC3vZDkHFd) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [มาเอาไร \(A Rebound\)](https://open.spotify.com/album/4bYkrPsvvRsRhYcaSl3TA7) | 3:03 | 2022-06-09 | 2022-06-17 |
 | [มาๆหายๆ feat.Karn The Parkinson](https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [I GOT LOST BUT LOOK WHAT I FOUND](https://open.spotify.com/album/4P76Ypg17RLMlwr17EPWL6) | 3:10 | 2022-06-23 | 2022-07-02 |

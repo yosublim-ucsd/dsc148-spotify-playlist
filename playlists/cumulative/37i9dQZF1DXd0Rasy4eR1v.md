@@ -4,7 +4,7 @@
 
 > Freshest of Pakistani discoveries\. Cover \- REHMA
 
-550 songs - 1 day 5 hr 59 min
+551 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [Ishq Hai Tum Se](https://open.spotify.com/track/6BCJp7GSb306Xnl52UXyfP) | [Sarah Baig](https://open.spotify.com/artist/5A34YpQqReAFYBD1PafxaB) | [Ishq Hai Tum Se](https://open.spotify.com/album/1oUF0CrhXbE8XmeEP0EpP7) | 3:25 | 2023-08-18 |  |
 | [Ja Tujhe Maaf Kiya](https://open.spotify.com/track/5yQTz3T7hwAdxcYsiO5p4U) | [Maher Anjum](https://open.spotify.com/artist/5FxkNNihpaKyHXSydbpYaw) | [Ja Tujhe Maaf Kiya](https://open.spotify.com/album/12Bm834TJFSghhW8cKf9C4) | 3:32 | 2023-01-10 | 2023-02-14 |
 | [JAAGO](https://open.spotify.com/track/0vQy01cz38orKn8ZBpcDtL) | [Sulaimankhan](https://open.spotify.com/artist/6J8mNNmuuLcMM2sAWwyZBQ), [Ebraheem Rana](https://open.spotify.com/artist/0GrPLEj6r0EB6nBxInw6WT) | [JAAGO](https://open.spotify.com/album/3wvTim27nYCG905GBANA0E) | 2:27 | 2023-02-13 | 2023-02-22 |
-| [Jaan](https://open.spotify.com/track/2RinockL2ispPJgQTJmtbR) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Jaan](https://open.spotify.com/album/0ITNKys4gWN5yYOs9LGnsf) | 2:48 | 2023-08-18 |  |
+| [Jaan](https://open.spotify.com/track/2RinockL2ispPJgQTJmtbR) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Jaan](https://open.spotify.com/album/0ITNKys4gWN5yYOs9LGnsf) | 2:48 | 2023-08-18 | 2023-09-20 |
+| [Jaan](https://open.spotify.com/track/5rIbOVHy0ofgn9K72fQXJc) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Jaan](https://open.spotify.com/album/5w7vIl1FY2emz6CJeAtwol) | 2:48 | 2023-09-15 |  |
 | [Jaan Lou](https://open.spotify.com/track/7uGQ1zLnCDHUifxtd00tGU) | [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [Jaan Lou](https://open.spotify.com/album/4eldTopB4HrRasJlswJYRz) | 3:27 | 2022-08-27 | 2023-01-11 |
 | [Jaanay Dou](https://open.spotify.com/track/4CCHA0ySvIT9iddPYrCcHN) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Jaanay Dou](https://open.spotify.com/album/1sO4lHaWGApYFnRottOzIF) | 2:29 | 2022-11-30 | 2023-01-11 |
 | [Jaane Doon](https://open.spotify.com/track/1lXhq6EqfAQzadS9wOYpMe) | [RAAMIS](https://open.spotify.com/artist/004cRPgBOiWUUsu3mXXd1W), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc) | [Jaane Doon](https://open.spotify.com/album/6ZRUft1aDOIjbBcWYWeFWL) | 2:47 | 2022-10-26 | 2022-11-18 |

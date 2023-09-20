@@ -73529,6 +73529,24 @@
     },
     {
       "album": {
+        "name": "The Enduring Spirit",
+        "url": "https://open.spotify.com/album/27vpwk5EXUilPRY06umtHv"
+      },
+      "artists": [
+        {
+          "name": "Tomb Mold",
+          "url": "https://open.spotify.com/artist/1zFGR4NaBbCDBGwifPKGfM"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254671,
+      "name": "The Perfect Memory (Phantasm of Aura)",
+      "url": "https://open.spotify.com/track/3zMrw4riP8Y0iN8tfce9wB"
+    },
+    {
+      "album": {
         "name": "PHALARIS",
         "url": "https://open.spotify.com/album/6UwjEa3d5izqJbyieLVXRj"
       },

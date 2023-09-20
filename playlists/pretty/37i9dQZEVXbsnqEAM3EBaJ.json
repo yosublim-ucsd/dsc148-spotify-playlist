@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDU3ODAsMDAwMDAwMDBkZDZmMDE1NjhmMzMwN2M2MTliYmQ4Y2I1MGJmOGExNg==",
+  "snapshot_id": "MjgyNDU3ODAsMDAwMDAwMDA2NjAyMWI4ZWVkNzhmNmNlNmEwYTVhZGFmYTZhNzU2ZQ==",
   "tracks": [
     {
       "added_at": "2023-09-15 03:00:00",
@@ -175,18 +175,34 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Love Can Heal (Dark-Side Mix)",
-        "url": "https://open.spotify.com/album/20WPUErgD9ia0v9s1mFqiQ"
+        "name": "To The Faithful Departed (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0cg6OTD0VxMSAzQghLeecH"
       },
       "artists": [
         {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 360503,
-      "name": "Love Can Heal - Dark-Side Mix",
-      "url": "https://open.spotify.com/track/7IOJKh6TomNexUadGLns5l"
+      "duration_ms": 150440,
+      "name": "I Just Shot John Lennon - Paris Demo",
+      "url": "https://open.spotify.com/track/7b8Fk0Ptl83TJ46HyjulKs"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Lady Writer - Live At The Rainbow / Dec 1979",
+      "url": "https://open.spotify.com/track/77014L6RWjLdxOkpIaO6As"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -203,22 +219,6 @@
       "duration_ms": 253419,
       "name": "Losing My Sense Of Taste",
       "url": "https://open.spotify.com/track/4jx6y4zo67WjSDhCHTxAuz"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Live 1978 - 1992",
-        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 387853,
-      "name": "Down To The Waterline - Live At The Rainbow / Dec 1979",
-      "url": "https://open.spotify.com/track/2HgNLvtah8nkEbQvEKWyId"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 169773,
-      "name": "Walking the Dog (demo) - Outtake",
-      "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
+      "duration_ms": 224800,
+      "name": "Christie Rd. - Outtake",
+      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -335,22 +335,6 @@
       "duration_ms": 276545,
       "name": "P\u00e1jaros de fuego - Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\"",
       "url": "https://open.spotify.com/track/4qsgzEP6xq3jYHdj7eocub"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "To The Faithful Departed (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1CPtOBwQVBkxSCBYnNbZTd"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "Salvation - Early Mix",
-      "url": "https://open.spotify.com/track/4XXbh0DujCStZ5F2rVfX1d"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -419,6 +403,22 @@
       "duration_ms": 225013,
       "name": "Oler A Ti",
       "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "The Man in Me (Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978)",
+        "url": "https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
+      "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 712370,
-      "name": "Yours Is No Disgrace - Live: Yale Bowl, USA 24th July 1971",
-      "url": "https://open.spotify.com/track/7xhyCH2gmbWKINV4KO0Dqc"
+      "duration_ms": 428634,
+      "name": "I've Seen All Good People - Live: Yale Bowl, USA 24th July 1971",
+      "url": "https://open.spotify.com/track/79E74cEOPLkFbdOdnErNjl"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -564,17 +564,17 @@
       },
       "artists": [
         {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
         },
         {
           "name": "Manuel del Corral",
           "url": "https://open.spotify.com/artist/1399uZh5GCbxPwTfXkx6mb"
         }
       ],
-      "duration_ms": 230380,
-      "name": "Hymn to the Sun",
-      "url": "https://open.spotify.com/track/70XVkRO1xd2vnECuo68hzq"
+      "duration_ms": 122711,
+      "name": "Hopak",
+      "url": "https://open.spotify.com/track/7t4bXpsDCAFMHZvkXCPM0K"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -591,22 +591,6 @@
       "duration_ms": 245690,
       "name": "The Future is Now",
       "url": "https://open.spotify.com/track/5zGhhbzdQACPf4ABpVWE2d"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Sometimes You Lose Before You Win",
-        "url": "https://open.spotify.com/album/17CJhGkrhZomJmYP0WSFrK"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Sometimes You Lose Before You Win",
-      "url": "https://open.spotify.com/track/2c4goRObjUsHBWfXS9xBRB"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -643,26 +627,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "iScreaM Vol.25 : Red Flavor Remix",
-        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Mar Vista",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Red Flavor - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Live In Vienna 1998",
         "url": "https://open.spotify.com/album/0zEmVfGL3K1lMqF3IpwCPs"
       },
@@ -675,6 +639,26 @@
       "duration_ms": 283841,
       "name": "This Kid's - Live In Vienna 1998",
       "url": "https://open.spotify.com/track/2kf6PloMCppZSVoJc4hF7v"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Misery (feat. Atreyu)",
+        "url": "https://open.spotify.com/album/0oIW9gCsZ1g3IXZcEZEPCm"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 192176,
+      "name": "Misery (feat. Atreyu)",
+      "url": "https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -727,22 +711,6 @@
       "duration_ms": 328293,
       "name": "Don't Fight It - Live",
       "url": "https://open.spotify.com/track/0SUO9zBxf5FCyKtRPqEwIk"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Live 76",
-        "url": "https://open.spotify.com/album/1ow8kQSYz5M2nqCWWasM0t"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 545706,
-      "name": "Coney Island Baby - Live",
-      "url": "https://open.spotify.com/track/5KP5MAyH27baIHYWu5Bj6y"
     },
     {
       "added_at": "2023-09-15 03:00:00",

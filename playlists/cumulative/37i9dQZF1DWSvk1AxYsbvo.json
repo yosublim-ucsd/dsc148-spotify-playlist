@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E"
+      },
+      "artists": [
+        {
+          "name": "\ud6c8\uc815\uc591",
+          "url": "https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206253,
+      "name": "Can I Be Me",
+      "url": "https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw"
+    },
+    {
+      "album": {
         "name": "Candy For You",
         "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
       },
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 174946,
       "name": "Mm Mm - Acoustic Version",
       "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 187500,
       "name": "Quince Tree",
       "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
@@ -2976,6 +2994,24 @@
       "duration_ms": 198999,
       "name": "\uc80a\uc74c\uc744 \uc120\uc0ac\ud574\uc694 Sending My Youth",
       "url": "https://open.spotify.com/track/5Y4tiUkw3QrvW2bMzGI5iO"
+    },
+    {
+      "album": {
+        "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190520,
+      "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
+      "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
     },
     {
       "album": {

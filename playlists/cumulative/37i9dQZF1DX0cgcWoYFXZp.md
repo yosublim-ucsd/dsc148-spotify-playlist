@@ -10,7 +10,6 @@
 |---|---|---|---|---|---|
 | [122](https://open.spotify.com/track/2kGek9G5lGt7ZoypYCo1uX) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [A color+5](https://open.spotify.com/album/6yxOaU5H0KLZ1ssYS1oO2g) | 3:11 | 2021-08-01 |  |
 | [122](https://open.spotify.com/track/2l5S3X3w0oBJQGsk5jhP1X) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [A color+5](https://open.spotify.com/album/2uNrgJuHjlJLKUUGUrpYzS) | 3:11 | 2021-08-01 | 2022-07-29 |
-| [3号線](https://open.spotify.com/track/33X2BynK6JcdImh2S1nH8F) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [シティミュージック \(リマスタリング\)](https://open.spotify.com/album/19bB89Jjgd0xogUWKsOGbI) | 5:10 | 2021-08-01 |  |
 | [beautiful life](https://open.spotify.com/track/3mwNJ7lUDPIKQgGGxYF7T6) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [corridor](https://open.spotify.com/album/4ablWmXxoeKubRVlctBPUV) | 5:34 | 2021-08-01 |  |
 | [Doyou no yoru ni](https://open.spotify.com/track/74M5rVQTod4U1hIXBpbZ4C) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [LOVE CITY](https://open.spotify.com/album/7v4AQJ7pGrqqLGrC1XGnbn) | 7:43 | 2021-08-01 |  |
 | [Full Circle](https://open.spotify.com/track/5DBmGbbZM6u6q86yZT5sd7) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [A BIRD](https://open.spotify.com/album/4SskAJSmh7UojYEYllCz1d) | 5:15 | 2021-08-01 |  |
@@ -77,5 +76,6 @@
 | [雨は毛布のように \- 2018 Remaster](https://open.spotify.com/track/16WZL73Bt8j3n3INyJfuUv) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Fine \(2018 Remaster\)](https://open.spotify.com/album/3rRognV0OVBz3tZ2dn8KXZ) | 4:50 | 2021-08-01 |  |
 | [香りと影](https://open.spotify.com/track/7lfibSBnB10b7KzmCOj7yt) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Shipbuilding](https://open.spotify.com/album/3AaZ0g8PEvAbziKyvhsPai) | 4:24 | 2021-08-01 |  |
 | [魔法](https://open.spotify.com/track/2BCoHO5o1LMy6lBKesSAWj) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [LOVE ALBUM](https://open.spotify.com/album/70fv04HqVVkpwRpWChVm0T) | 6:00 | 2021-08-01 | 2022-07-29 |
+| [３号線](https://open.spotify.com/track/33X2BynK6JcdImh2S1nH8F) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [シティミュージック \(リマスタリング）](https://open.spotify.com/album/19bB89Jjgd0xogUWKsOGbI) | 5:10 | 2021-08-01 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9936,
+  "num_followers": 9951,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzUzNGZiMmExOTY0MjEwNTMwZjMyYmNiZWI2ODFhNjg3ODY1OTI4",
+  "snapshot_id": "MCw2OGE4NzRkNDZmNWUyNWI5ZDQ4NmZhY2IxZjNiMTVjODA1Y2E5NTg1",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Seotaiji and Boys",
-        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "I Know - '92 TV Edit",
-      "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "PERFECT LOVE",
         "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 200097,
       "name": "White love",
       "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Seotaiji and Boys",
+        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "I Know - '92 TV Edit",
+      "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -995,18 +995,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "HEY, COME ON! - The 4th Album",
-        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
+        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
       "artists": [
         {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+          "name": "\ud669\ud61c\uc601",
+          "url": "https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b"
+        },
+        {
+          "name": "Nam Woo-hyun",
+          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Hey, Come On!",
-      "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
+      "duration_ms": 237029,
+      "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
+      "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
-        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
+        "name": "HEY, COME ON! - The 4th Album",
+        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
       "artists": [
         {
-          "name": "\ud669\ud61c\uc601",
-          "url": "https://open.spotify.com/artist/3H7vH6RdckUBg6Xxra9I0b"
-        },
-        {
-          "name": "Nam Woo-hyun",
-          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 237029,
-      "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
-      "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
+      "duration_ms": 208440,
+      "name": "Hey, Come On!",
+      "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "280KM SPEED",
+        "url": "https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 248778,
+      "name": "\ub098 \uc5b4\ub9b4 \uc801 \uafc8",
+      "url": "https://open.spotify.com/track/35LWTNkTu78YPqF2lS7C0i"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "\ud64d\uacbd\ubbfc Vol. 3",
         "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 225098,
       "name": "\uc6b4\uba85",
       "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "280KM SPEED",
-        "url": "https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 248778,
-      "name": "\ub098 \uc5b4\ub9b4 \uc801 \uafc8",
-      "url": "https://open.spotify.com/track/35LWTNkTu78YPqF2lS7C0i"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\uc0ac\ub791\ub9cc\uc0ac",
-        "url": "https://open.spotify.com/album/6aJnz5ARKUGudgHG9Uquup"
-      },
-      "artists": [
-        {
-          "name": "Noise",
-          "url": "https://open.spotify.com/artist/1ndo1he29FAeiehsdw5g0t"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "\ub108\uc5d0\uac8c \uc6d0\ud55c\uac74",
-      "url": "https://open.spotify.com/track/7hz9BEXxvhQtDkBhx0FHja"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Road Fighter",
         "url": "https://open.spotify.com/album/08TW1bmGzSg172Db8C2Bde"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "\uc0ac\ub791\ub9cc\uc0ac",
+        "url": "https://open.spotify.com/album/6aJnz5ARKUGudgHG9Uquup"
+      },
+      "artists": [
+        {
+          "name": "Noise",
+          "url": "https://open.spotify.com/artist/1ndo1he29FAeiehsdw5g0t"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "\ub108\uc5d0\uac8c \uc6d0\ud55c\uac74",
+      "url": "https://open.spotify.com/track/7hz9BEXxvhQtDkBhx0FHja"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
         "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 237963,
       "name": "Unreasonable Reason",
       "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Re-turn",
-        "url": "https://open.spotify.com/album/3O8lIpghPdAcJ7RFkzdk15"
-      },
-      "artists": [
-        {
-          "name": "Space A",
-          "url": "https://open.spotify.com/artist/5TMZPKsvsx21rtdMeTElUL"
-        }
-      ],
-      "duration_ms": 229630,
-      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
-      "url": "https://open.spotify.com/track/4KA4iwe4NeFptO6mnDfvbI"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Re-turn",
+        "url": "https://open.spotify.com/album/3O8lIpghPdAcJ7RFkzdk15"
+      },
+      "artists": [
+        {
+          "name": "Space A",
+          "url": "https://open.spotify.com/artist/5TMZPKsvsx21rtdMeTElUL"
+        }
+      ],
+      "duration_ms": 229630,
+      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
+      "url": "https://open.spotify.com/track/4KA4iwe4NeFptO6mnDfvbI"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "The Life\u2026 DOC Blues",
         "url": "https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 224840,
       "name": "\u1109\u1161\u1105\u1161\u11bc\u110b\u1173\u11af \u110b\u1161\u110c\u1175\u11a8\u1103\u1169 \u1102\u1161\u11ab I Don't Know Love",
       "url": "https://open.spotify.com/track/1lilimwLEAWFlImqjke27f"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "One Flew over the Cuckoo's Nest",
-      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Click-B",
-        "url": "https://open.spotify.com/album/7Jt6i57qFtmBUeXFLZrMFF"
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
       },
       "artists": [
         {
-          "name": "Click-B",
-          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
         }
       ],
-      "duration_ms": 242093,
-      "name": "To Be Continued",
-      "url": "https://open.spotify.com/track/7L4fxoCYiWzFWepXU3yv9m"
+      "duration_ms": 203693,
+      "name": "One Flew over the Cuckoo's Nest",
+      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Click-B",
+        "url": "https://open.spotify.com/album/7Jt6i57qFtmBUeXFLZrMFF"
+      },
+      "artists": [
+        {
+          "name": "Click-B",
+          "url": "https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w"
+        }
+      ],
+      "duration_ms": 242093,
+      "name": "To Be Continued",
+      "url": "https://open.spotify.com/track/7L4fxoCYiWzFWepXU3yv9m"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
         "url": "https://open.spotify.com/album/6su9aNu18CtW7EWK9M0PUE"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 253426,
       "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
       "url": "https://open.spotify.com/track/04SDFqyKorGmxyZ8lopA53"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "\u592a\u56db\u5b50 Taesaja, Vol. 1",
-        "url": "https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz"
-      },
-      "artists": [
-        {
-          "name": "\ud0dc\uc0ac\uc790 Taesaja",
-          "url": "https://open.spotify.com/artist/18rjQLv66TaLhZSVYQu9Jh"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "\ub3c4 The Way",
-      "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1395,18 +1379,34 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+        "name": "\u592a\u56db\u5b50 Taesaja, Vol. 1",
+        "url": "https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz"
       },
       "artists": [
         {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+          "name": "\ud0dc\uc0ac\uc790 Taesaja",
+          "url": "https://open.spotify.com/artist/18rjQLv66TaLhZSVYQu9Jh"
         }
       ],
-      "duration_ms": 239560,
-      "name": "Love is gone",
-      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
+      "duration_ms": 222250,
+      "name": "\ub3c4 The Way",
+      "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Deuxism",
+        "url": "https://open.spotify.com/album/5Q5YrEMnQmNxtivzl4j8hM"
+      },
+      "artists": [
+        {
+          "name": "DEUX",
+          "url": "https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA"
+        }
+      ],
+      "duration_ms": 213550,
+      "name": "\uc6b0\ub9ac\ub294",
+      "url": "https://open.spotify.com/track/7bON6VDJ5ndO6EAxCrjVj2"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "DJ DOC Best Of Best Panda Mix Vol. 1",
-        "url": "https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 185939,
-      "name": "\uba38\ud53c\uc758 \ubc95\uce59",
-      "url": "https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Click-B 3",
         "url": "https://open.spotify.com/album/59JEuiM9FKWpulCD9SzCqI"
       },
@@ -1459,18 +1443,34 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Deuxism",
-        "url": "https://open.spotify.com/album/5Q5YrEMnQmNxtivzl4j8hM"
+        "name": "DJ DOC Best Of Best Panda Mix Vol. 1",
+        "url": "https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W"
       },
       "artists": [
         {
-          "name": "DEUX",
-          "url": "https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA"
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
         }
       ],
-      "duration_ms": 213550,
-      "name": "\uc6b0\ub9ac\ub294",
-      "url": "https://open.spotify.com/track/7bON6VDJ5ndO6EAxCrjVj2"
+      "duration_ms": 185939,
+      "name": "\uba38\ud53c\uc758 \ubc95\uce59",
+      "url": "https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "Love is gone",
+      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 187259,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
         "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 202318,
       "name": "Let's Go to the Beach Pt. 2",
       "url": "https://open.spotify.com/track/3rmrE59ZBjeJCPhFm6bSe6"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
-      },
-      "artists": [
-        {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
-        }
-      ],
-      "duration_ms": 187259,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ"
     },
     {
       "added_at": "2021-03-11 16:28:13",

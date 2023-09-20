@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 580986,
+  "num_followers": 581086,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmM2MmU3MzY0OTI5NmRmZWM5MWVhYzQwOGMwZGUyNzNlNDExOTI0",
+  "snapshot_id": "MCwwNGZhODU3YzhjY2Q1Mzc1ZTM2YWZiNWIzYmVmNTBlMTg0ZjU2OTg2",
   "tracks": [
     {
       "added_at": "2023-07-17 18:15:29",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Parker Millsap",
-        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Old Time Religion",
-      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "From Eden EP",
         "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 229666,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Parker Millsap",
+        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Old Time Religion",
+      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Real Gone (Remastered)",
-        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "How's It Gonna End",
-      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Real Gone (Remastered)",
+        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "How's It Gonna End",
+      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Ribbon",
         "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 216538,
       "name": "Ribbon",
       "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Tin Type",
-        "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
-      },
-      "artists": [
-        {
-          "name": "Elliott BROOD",
-          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Cadillac Dust",
-      "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Digging Up Birds: A Collection of Rarities & Others",
         "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 188660,
       "name": "No Way Out but Down (Alternate Version)",
       "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Tin Type",
+        "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
+      },
+      "artists": [
+        {
+          "name": "Elliott BROOD",
+          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Cadillac Dust",
+      "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
     },
     {
       "added_at": "2023-07-17 18:15:29",

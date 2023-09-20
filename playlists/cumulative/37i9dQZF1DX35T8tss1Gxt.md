@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147">Dante Bowe</a>
 
-408 songs - 1 day 0 hr 38 min
+409 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Automatic](https://open.spotify.com/track/1THaY9o2MzTUeSafomuyq3) | [Jennesis](https://open.spotify.com/artist/5aXugu7Zp5EQenwCq6M8ur) | [Automatic](https://open.spotify.com/album/7tRHlp3QMUsS1pqfhm73RY) | 3:38 | 2022-06-25 | 2022-07-25 |
 | [Awe!](https://open.spotify.com/track/0kVBFAOf4DqT3zFTNfGdF4) | [Anna Beaden](https://open.spotify.com/artist/2SbluIo4IZVxJvEHnQR8r6) | [Awe!](https://open.spotify.com/album/33lg7H8wGe368kafecZ3hk) | 3:58 | 2022-04-01 | 2022-05-28 |
 | [Back to You](https://open.spotify.com/track/0BXUW4wib9sg9SH20Nwdam) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Back to You](https://open.spotify.com/album/1Xqk8mkHHeF6UPpqQpjA83) | 3:14 | 2023-01-20 | 2023-04-22 |
+| [Bad To The Bone](https://open.spotify.com/track/72uOlb4ynq8xEWHhfYGGMl) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Bad To The Bone](https://open.spotify.com/album/7KHmdsP2gT7wwUWyNMnnMH) | 2:41 | 2023-07-21 |  |
 | [band\-aid solution](https://open.spotify.com/track/7JhvorPpRRmDoISWceZgzR) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [be patient with us](https://open.spotify.com/album/5NsUcxjoaArp9jbKZzHkkC) | 3:01 | 2022-02-27 | 2022-06-10 |
 | [Be Alright](https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY) | [Michael Dixon](https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF), [Christina Bell](https://open.spotify.com/artist/4cPFOPBu1lxWI5cKlWmSvR) | [How Are You Healing?](https://open.spotify.com/album/5k9npIVUV9HbqnCzo1RDfy) | 4:45 | 2022-07-08 | 2023-06-28 |
 | [Be Like You](https://open.spotify.com/track/02CSSbF9oGhVBpiWxKxa1v) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Be Like You](https://open.spotify.com/album/4xIxK1YMgsgdgV2Xf3PfFA) | 4:34 | 2022-06-25 | 2023-01-21 |
@@ -317,7 +318,7 @@
 | [Satisfy](https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg) | [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Satisfy](https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr) | 3:04 | 2023-01-20 |  |
 | [Satisfy](https://open.spotify.com/track/04B186DxbKn5aDCXduKAv3) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 3:14 | 2022-02-19 | 2022-06-24 |
 | [Save Saved](https://open.spotify.com/track/5ypKDUEAzx2SvAytFaW7lu) | [Rebekah Renatus](https://open.spotify.com/artist/5LJnvWUrVdnEPvKBgfwz0Y), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Promises](https://open.spotify.com/album/5UuH1w06Kv54v43zbgnjl0) | 2:52 | 2022-06-25 | 2022-07-29 |
-| [Say Less](https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [Say Less](https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw) | 2:47 | 2022-06-25 |  |
+| [Say Less](https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [Say Less](https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw) | 2:47 | 2022-06-25 | 2023-09-20 |
 | [SEARCH ME](https://open.spotify.com/track/1e20PTHf4mZhewGYhHTzgL) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [SEARCH ME](https://open.spotify.com/album/2dvFh1mmemW9aNO8mfNL6c) | 4:00 | 2022-02-19 | 2022-06-26 |
 | [Self Righteous](https://open.spotify.com/track/2Ajaiy5blpMAe3jjMhBfYB) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Self Righteous](https://open.spotify.com/album/0scnkRQmi8ACXacs8nNJvj) | 3:28 | 2022-06-25 | 2022-07-24 |
 | [Set Of 2](https://open.spotify.com/track/4hvpPwIgWxU1Vpz84OfAAC) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Almond Eyes](https://open.spotify.com/album/6eaw3onrYLNw6mCj4CNkRg) | 3:38 | 2022-02-19 | 2022-06-26 |

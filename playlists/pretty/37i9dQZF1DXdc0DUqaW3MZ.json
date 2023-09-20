@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 316814,
+  "num_followers": 316902,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmE1YWQ4OTZmZTU1MmYwNjM5MzU1MzgxMmFhN2EzMDBhOTdjMDU4",
+  "snapshot_id": "MCwwMjU3MDZiMDA4MDk4YjhlMGRlZjE0ZDMzN2ZlNGZlMmQ2NDRmYTZj",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Downers",
-        "url": "https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 218888,
-      "name": "Downers",
-      "url": "https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "soulboy (IZCO Remix)",
         "url": "https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 229320,
       "name": "soulboy - IZCO Remix",
       "url": "https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Downers",
+        "url": "https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 218888,
+      "name": "Downers",
+      "url": "https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Mr. Sun (miss da sun)",
-        "url": "https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Mr. Sun (miss da sun)",
-      "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "i can't go outside",
         "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 248764,
       "name": "fuego (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Mr. Sun (miss da sun)",
+        "url": "https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Mr. Sun (miss da sun)",
+      "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw"
-      },
-      "artists": [
-        {
-          "name": "Dirty Freud",
-          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/0NrtOr0vIUnktfY7rxNgD3"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "FYO",
         "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 164963,
       "name": "FYO",
       "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw"
+      },
+      "artists": [
+        {
+          "name": "Dirty Freud",
+          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/0NrtOr0vIUnktfY7rxNgD3"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -923,26 +923,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "All Mine",
-        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
+        "name": "Pleasure (Now & Forever)",
+        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
       },
       "artists": [
         {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        },
-        {
-          "name": "John Givez",
-          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
+          "name": "Buddy Love",
+          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
         }
       ],
-      "duration_ms": 148529,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
+      "duration_ms": 246760,
+      "name": "Boy Blue",
+      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
     },
     {
       "added_at": "2022-06-20 14:19:42",

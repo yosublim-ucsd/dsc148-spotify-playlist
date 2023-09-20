@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,652 songs - 5 day 19 hr 57 min
+3,653 songs - 5 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1763,6 +1763,7 @@
 | [Lilium](https://open.spotify.com/track/3IuZJRYuoDXkIvTcQctoxP) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Lilium](https://open.spotify.com/album/0qD1oFp5qSffg4jOpg9Ldw) | 1:56 | 2020-09-11 | 2021-05-07 |
 | [Lilly](https://open.spotify.com/track/35GbXtA6KnylGNqMMKVzLW) | [S U G R.](https://open.spotify.com/artist/6CxbId1x5hr5m0noI1A4cF) | [Lilly](https://open.spotify.com/album/0YIHbWc2YytkvmFqTfwXQ7) | 2:12 | 2021-03-30 | 2021-04-16 |
 | [Lilutu](https://open.spotify.com/track/2qHy5286NNXTEMmXWOQ9q5) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Lilutu](https://open.spotify.com/album/4C428rdJ5EuKN0IJaqtIPJ) | 1:49 | 2021-04-30 | 2022-12-04 |
+| [Lily Scent and Cigarette Smoke](https://open.spotify.com/track/5aF4wHXhE4SgjqZga6tBli) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Jakob Gerhardt](https://open.spotify.com/artist/6naolhpsGxwmfRVMZxQjNt) | [Lily Scent and Cigarette Smoke](https://open.spotify.com/album/04WBbuoTVg6IsJXjJTJc9G) | 2:58 | 2023-09-14 |  |
 | [Limbo](https://open.spotify.com/track/5PXPsC3XPPmJksG4AANMco) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Limbo](https://open.spotify.com/album/55W0490c9UTOjnRK7MD0yf) | 2:04 | 2020-10-09 | 2021-05-14 |
 | [limes](https://open.spotify.com/track/0kFCePqQWKvo5BgeIzkfyK) | [oofoe](https://open.spotify.com/artist/6u1oX4NPDuxo0Eo41dgf9O) | [limes / kyoto](https://open.spotify.com/album/2wNwXFFrRSyfQkheGyKph5) | 1:32 | 2019-11-08 | 2020-03-27 |
 | [Limitless Romance](https://open.spotify.com/track/2MTYZm8JCYRyPvO1wXq9fl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/7a7ggcxcyypfeusCE9LARB) | 2:25 | 2022-05-12 | 2022-11-20 |
@@ -3207,7 +3208,7 @@
 | [The Trail](https://open.spotify.com/track/3BnXclvUwcS7iKV0iSR1zv) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [The Trail](https://open.spotify.com/album/6nzJLUQCXfcGDQOlEqkArE) | 2:03 | 2022-04-21 | 2023-09-01 |
 | [THE VIEW](https://open.spotify.com/track/5OSy0Rmn2xKNDGR32GgAnV) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Miles Singleton](https://open.spotify.com/artist/6D2oQFsBu917I9n3KhVXNM) | [GISEKE](https://open.spotify.com/album/697BmXjyTQ2M8bi7jGrova) | 2:10 | 2021-08-25 | 2021-10-08 |
 | [The Watcher](https://open.spotify.com/track/7w8nwOG04fyJ1rzrlOppIJ) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [The Watcher](https://open.spotify.com/album/75RvHKUJoQIH3N0SBbBZ0U) | 2:21 | 2021-12-12 | 2022-01-14 |
-| [The Way](https://open.spotify.com/track/4ABXL7KSqvGaIPVbJdCZ1o) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [The Way](https://open.spotify.com/album/0wiWvo8whkIhBrhCd4u5l7) | 2:15 | 2023-09-14 |  |
+| [The Way](https://open.spotify.com/track/4ABXL7KSqvGaIPVbJdCZ1o) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [The Way](https://open.spotify.com/album/0wiWvo8whkIhBrhCd4u5l7) | 2:15 | 2023-09-14 | 2023-09-20 |
 | [The Window](https://open.spotify.com/track/5ytrNTP8dqIYdresL6ktrq) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [The Window](https://open.spotify.com/album/3LhghqvpRgYrBqJApGZvJh) | 2:44 | 2023-07-13 | 2023-08-26 |
 | [Them Sweet Waffles](https://open.spotify.com/track/4o6yYAExlEIfVHXMaA6k2j) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Them Sweet Waffles](https://open.spotify.com/album/3447p9lXxAdafgzrwa96Ca) | 2:23 | 2022-08-04 | 2022-09-23 |
 | [Theme 3](https://open.spotify.com/track/3x7TTsk6FK4HRKzvucIPr3) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Peter Thomas Sound Orchester](https://open.spotify.com/artist/2guRkkGBMKiboUZJr0NhZF), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Theme 3](https://open.spotify.com/album/1nrgvX69fLq9Rw8kBVk8DB) | 3:11 | 2023-06-01 | 2023-07-07 |

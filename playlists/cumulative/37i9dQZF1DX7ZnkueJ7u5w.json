@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Bate Que Bate",
+        "url": "https://open.spotify.com/album/6dm6X7ieh9d1s3e07tlkyK"
+      },
+      "artists": [
+        {
+          "name": "Mayonesa",
+          "url": "https://open.spotify.com/artist/6xvoG4IC2xgLq37QY48fPk"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196533,
+      "name": "Agachadita",
+      "url": "https://open.spotify.com/track/6WGndzqaxnqYfAXbSq6RhG"
+    },
+    {
+      "album": {
         "name": "Las Viejas Mas Bailadas",
         "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
       },
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 205466,
       "name": "Nena",
       "url": "https://open.spotify.com/track/4IimwTTiXvDLjrRoWUebkW"

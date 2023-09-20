@@ -2665,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
+    },
+    {
+      "album": {
         "name": "La Culpa",
         "url": "https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR"
       },
@@ -6048,7 +6066,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 274613,
       "name": "Vete Y Al\u00e9jate De M\u00ed",
       "url": "https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B"

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 9048,
+  "num_followers": 9072,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2U2NWY2NDRjOWViZjAzNWY1ZGNhODI3MTU2MGI3ZWNjNzdkMDcw",
+  "snapshot_id": "MCw5NmNiNDg0M2Y1Y2NlZjI2MmQ0NjdiYTU1N2ExYTVhOTg3MDc5MjM5",
   "tracks": [
     {
       "added_at": "2023-07-18 18:13:51",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-07-18 18:13:51",
       "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5PZN71yON3rzA8OaEidrIo"
-    },
-    {
-      "added_at": "2023-07-18 18:13:51",
-      "album": {
         "name": "Case",
         "url": "https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 202448,
       "name": "Case",
       "url": "https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5"
+    },
+    {
+      "added_at": "2023-07-18 18:13:51",
+      "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5PZN71yON3rzA8OaEidrIo"
     },
     {
       "added_at": "2023-07-18 18:13:51",

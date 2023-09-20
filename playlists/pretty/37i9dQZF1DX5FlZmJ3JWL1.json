@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 703633,
+  "num_followers": 703988,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjk2MTgwYjE1NjMwNTI4N2EzMzk0MGZlZTRlZjg3ZTRmYjNhYmI1",
+  "snapshot_id": "MCw2MDM0NjM0ZTg1Y2Y0OTk3YjkyMjY5NDkyNzdmNWYyNGEzZDI0NWQ2",
   "tracks": [
     {
       "added_at": "2023-09-08 11:10:47",
@@ -399,30 +399,6 @@
     {
       "added_at": "2023-09-08 11:10:47",
       "album": {
-        "name": "Blow It Up",
-        "url": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Love Harder",
-          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "Blow It Up",
-      "url": "https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu"
-    },
-    {
-      "added_at": "2023-09-08 11:10:47",
-      "album": {
         "name": "I Like To Move It",
         "url": "https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 138000,
       "name": "I Like To Move It",
       "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
+    },
+    {
+      "added_at": "2023-09-08 11:10:47",
+      "album": {
+        "name": "Blow It Up",
+        "url": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Blow It Up",
+      "url": "https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu"
     },
     {
       "added_at": "2023-09-08 11:10:47",
@@ -811,30 +811,6 @@
     {
       "added_at": "2023-09-08 11:10:47",
       "album": {
-        "name": "Coconut",
-        "url": "https://open.spotify.com/album/1bk3ObntSufsULFDAS3h3c"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        },
-        {
-          "name": "GRY",
-          "url": "https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Coconut",
-      "url": "https://open.spotify.com/track/1aUr1M92RnRVNFWrAPq64Q"
-    },
-    {
-      "added_at": "2023-09-08 11:10:47",
-      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
+    },
+    {
+      "added_at": "2023-09-08 11:10:47",
+      "album": {
+        "name": "Coconut",
+        "url": "https://open.spotify.com/album/1bk3ObntSufsULFDAS3h3c"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "GRY",
+          "url": "https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/1aUr1M92RnRVNFWrAPq64Q"
     },
     {
       "added_at": "2023-09-08 11:10:47",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-09-08 11:10:47",
       "album": {
+        "name": "Bongo Remix",
+        "url": "https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk"
+      },
+      "artists": [
+        {
+          "name": "Max + Johann",
+          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
+        }
+      ],
+      "duration_ms": 160901,
+      "name": "Bongo Remix",
+      "url": "https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6"
+    },
+    {
+      "added_at": "2023-09-08 11:10:47",
+      "album": {
         "name": "LIGHTWAVES",
         "url": "https://open.spotify.com/album/1JhkARu8eNtzhsxCNwjnte"
       },
@@ -955,6 +971,22 @@
     {
       "added_at": "2023-09-08 11:10:47",
       "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2023-09-08 11:10:47",
+      "album": {
         "name": "Rock My Body (with INNA) [Sam Feldt Remix]",
         "url": "https://open.spotify.com/album/5AD2PA4Cef5qsJZGsyj0xZ"
       },
@@ -979,38 +1011,6 @@
       "duration_ms": 169921,
       "name": "Rock My Body (with INNA) [Sam Feldt Remix]",
       "url": "https://open.spotify.com/track/7iLximGIlwAFgB5J7KG7pJ"
-    },
-    {
-      "added_at": "2023-09-08 11:10:47",
-      "album": {
-        "name": "Bongo Remix",
-        "url": "https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk"
-      },
-      "artists": [
-        {
-          "name": "Max + Johann",
-          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
-        }
-      ],
-      "duration_ms": 160901,
-      "name": "Bongo Remix",
-      "url": "https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6"
-    },
-    {
-      "added_at": "2023-09-08 11:10:47",
-      "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     }
   ],
   "unique_name": "Fit Beats ",

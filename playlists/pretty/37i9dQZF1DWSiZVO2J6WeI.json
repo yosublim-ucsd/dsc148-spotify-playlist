@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 776470,
+  "num_followers": 776526,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDVmNWY0NzhlNmYzNzBlZGNkYzMzYTk0MWQ0YWE2MWQ2OWQ5YmVl",
+  "snapshot_id": "MCxiNzA5M2MyNWExZjkyZWY2NTgzOGY0YjkzM2Q3ZmVlMWZkNTI4NzAx",
   "tracks": [
     {
       "added_at": "2023-09-15 12:26:05",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-09-15 12:26:05",
       "album": {
-        "name": "Dr\u00f8mme",
-        "url": "https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf"
-      },
-      "artists": [
-        {
-          "name": "Etheral Gust",
-          "url": "https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV"
-        }
-      ],
-      "duration_ms": 132427,
-      "name": "Dr\u00f8mme",
-      "url": "https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh"
-    },
-    {
-      "added_at": "2023-09-15 12:26:05",
-      "album": {
         "name": "Sensory Bypass",
         "url": "https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 151800,
       "name": "Sensory Bypass",
       "url": "https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU"
+    },
+    {
+      "added_at": "2023-09-15 12:26:05",
+      "album": {
+        "name": "Dr\u00f8mme",
+        "url": "https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf"
+      },
+      "artists": [
+        {
+          "name": "Etheral Gust",
+          "url": "https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV"
+        }
+      ],
+      "duration_ms": 132427,
+      "name": "Dr\u00f8mme",
+      "url": "https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh"
     },
     {
       "added_at": "2023-09-15 12:26:05",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-09-15 12:26:05",
       "album": {
+        "name": "Drommenes Verden",
+        "url": "https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j"
+      },
+      "artists": [
+        {
+          "name": "Casper Bjerke",
+          "url": "https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Drommenes Verden",
+      "url": "https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7"
+    },
+    {
+      "added_at": "2023-09-15 12:26:05",
+      "album": {
         "name": "Breezy Blossoms",
         "url": "https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b"
       },
@@ -319,18 +335,18 @@
     {
       "added_at": "2023-09-15 12:26:05",
       "album": {
-        "name": "Drommenes Verden",
-        "url": "https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j"
+        "name": "Sigur",
+        "url": "https://open.spotify.com/album/5cpKYQ6H4dPM4RNArtaR0l"
       },
       "artists": [
         {
-          "name": "Casper Bjerke",
-          "url": "https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4"
+          "name": "Rufus Odobata",
+          "url": "https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK"
         }
       ],
-      "duration_ms": 199200,
-      "name": "Drommenes Verden",
-      "url": "https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7"
+      "duration_ms": 176500,
+      "name": "Sigur",
+      "url": "https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ"
     },
     {
       "added_at": "2023-09-15 12:26:05",
@@ -347,22 +363,6 @@
       "duration_ms": 139600,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
-    },
-    {
-      "added_at": "2023-09-15 12:26:05",
-      "album": {
-        "name": "Sigur",
-        "url": "https://open.spotify.com/album/5cpKYQ6H4dPM4RNArtaR0l"
-      },
-      "artists": [
-        {
-          "name": "Rufus Odobata",
-          "url": "https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Sigur",
-      "url": "https://open.spotify.com/track/2hkjEqloiE8FdudIDgUbwJ"
     },
     {
       "added_at": "2023-09-15 12:26:05",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-15 12:26:05",
       "album": {
-        "name": "Before Sunrise",
-        "url": "https://open.spotify.com/album/43hmIuXmgNrRR39OzMHPpU"
-      },
-      "artists": [
-        {
-          "name": "Aileen Morais",
-          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Before Sunrise",
-      "url": "https://open.spotify.com/track/36ohYATGnjB8KVRhsglPDP"
-    },
-    {
-      "added_at": "2023-09-15 12:26:05",
-      "album": {
         "name": "Sobre las Nubes",
         "url": "https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 177600,
       "name": "Sobre las Nubes",
       "url": "https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl"
+    },
+    {
+      "added_at": "2023-09-15 12:26:05",
+      "album": {
+        "name": "Before Sunrise",
+        "url": "https://open.spotify.com/album/43hmIuXmgNrRR39OzMHPpU"
+      },
+      "artists": [
+        {
+          "name": "Aileen Morais",
+          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Before Sunrise",
+      "url": "https://open.spotify.com/track/36ohYATGnjB8KVRhsglPDP"
     },
     {
       "added_at": "2023-09-15 12:26:05",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-15 12:26:05",
       "album": {
-        "name": "Laze",
-        "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
-      },
-      "artists": [
-        {
-          "name": "Aileen Morais",
-          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Stillness",
-      "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
-    },
-    {
-      "added_at": "2023-09-15 12:26:05",
-      "album": {
         "name": "Painted Illusions",
         "url": "https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 199250,
       "name": "Nattljus",
       "url": "https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90"
+    },
+    {
+      "added_at": "2023-09-15 12:26:05",
+      "album": {
+        "name": "Laze",
+        "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
+      },
+      "artists": [
+        {
+          "name": "Aileen Morais",
+          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
     },
     {
       "added_at": "2023-09-15 12:26:05",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-15 12:26:05",
       "album": {
-        "name": "Neda",
-        "url": "https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw"
-      },
-      "artists": [
-        {
-          "name": "Xiada",
-          "url": "https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc"
-        }
-      ],
-      "duration_ms": 155426,
-      "name": "Neda",
-      "url": "https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE"
-    },
-    {
-      "added_at": "2023-09-15 12:26:05",
-      "album": {
         "name": "Axiom",
         "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 191320,
       "name": "Perception",
       "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
+    },
+    {
+      "added_at": "2023-09-15 12:26:05",
+      "album": {
+        "name": "Neda",
+        "url": "https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw"
+      },
+      "artists": [
+        {
+          "name": "Xiada",
+          "url": "https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc"
+        }
+      ],
+      "duration_ms": 155426,
+      "name": "Neda",
+      "url": "https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE"
     },
     {
       "added_at": "2023-09-15 12:26:05",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-09-15 12:26:05",
       "album": {
-        "name": "Eternalis",
-        "url": "https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx"
-      },
-      "artists": [
-        {
-          "name": "Arctic Pulse",
-          "url": "https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi"
-        }
-      ],
-      "duration_ms": 192038,
-      "name": "Arriving",
-      "url": "https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR"
-    },
-    {
-      "added_at": "2023-09-15 12:26:05",
-      "album": {
         "name": "Lago de Atitla\u0301n",
         "url": "https://open.spotify.com/album/2wd9XA2cXAZO4L6Wn6qNo2"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 192250,
       "name": "Lago de Atitla\u0301n",
       "url": "https://open.spotify.com/track/08KQZAu0iL2E4CHwwmUIjS"
+    },
+    {
+      "added_at": "2023-09-15 12:26:05",
+      "album": {
+        "name": "Eternalis",
+        "url": "https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx"
+      },
+      "artists": [
+        {
+          "name": "Arctic Pulse",
+          "url": "https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi"
+        }
+      ],
+      "duration_ms": 192038,
+      "name": "Arriving",
+      "url": "https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR"
     },
     {
       "added_at": "2023-09-15 12:26:05",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-09-15 12:26:05",
       "album": {
-        "name": "Penumbra",
-        "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
-      },
-      "artists": [
-        {
-          "name": "Chiara Nieves",
-          "url": "https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc"
-        }
-      ],
-      "duration_ms": 260038,
-      "name": "Penumbra",
-      "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
-    },
-    {
-      "added_at": "2023-09-15 12:26:05",
-      "album": {
         "name": "serenity (sleep)",
         "url": "https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 165891,
       "name": "isolation",
       "url": "https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q"
+    },
+    {
+      "added_at": "2023-09-15 12:26:05",
+      "album": {
+        "name": "Penumbra",
+        "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
+      },
+      "artists": [
+        {
+          "name": "Chiara Nieves",
+          "url": "https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc"
+        }
+      ],
+      "duration_ms": 260038,
+      "name": "Penumbra",
+      "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
     },
     {
       "added_at": "2023-09-15 12:26:05",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-09-15 12:26:05",
       "album": {
-        "name": "Bertrand of the Ringing",
-        "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
-      },
-      "artists": [
-        {
-          "name": "Star Patterns",
-          "url": "https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Ceremonial Stone",
-      "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
-    },
-    {
-      "added_at": "2023-09-15 12:26:05",
-      "album": {
         "name": "Cygnus A",
         "url": "https://open.spotify.com/album/0D4vISbqnNZPeEl9lEN2Dc"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 196875,
       "name": "Malin 1",
       "url": "https://open.spotify.com/track/49rlIN0XGY8jRlKgIBKvJe"
+    },
+    {
+      "added_at": "2023-09-15 12:26:05",
+      "album": {
+        "name": "Bertrand of the Ringing",
+        "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
+      },
+      "artists": [
+        {
+          "name": "Star Patterns",
+          "url": "https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Ceremonial Stone",
+      "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
     },
     {
       "added_at": "2023-09-15 12:26:05",

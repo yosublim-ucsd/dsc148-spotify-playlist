@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=7587eb4fd9b141f9">KB</a>
 
-822 songs - 1 day 17 hr 9 min
+823 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [I's On Him](https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [I's On Him](https://open.spotify.com/album/1331lQw385FSkpj02K7pOF) | 3:01 | 2021-12-11 | 2022-05-29 |
 | [Icarus](https://open.spotify.com/track/3h5kGTuLeiPiO5p2aw6Io8) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Wild Sons](https://open.spotify.com/album/74cMCoijO7oVaK1KkOSfQR) | 2:27 | 2022-05-28 | 2022-07-22 |
 | [ICE COLD](https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [JUDAS](https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE) | 1:40 | 2022-10-07 |  |
+| [IF I RAN AWAY](https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [IF I RAN AWAY](https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV) | 2:33 | 2023-08-25 |  |
 | [If I'm Honest](https://open.spotify.com/track/6bMBAXji91RdFWpjihPLUH) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [If I'm honest](https://open.spotify.com/album/1RIpcD9zLx0NWCdMEq0X79) | 2:43 | 2022-11-25 | 2023-01-11 |
 | [IGWT](https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [IGWT](https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT) | 2:59 | 2022-10-14 |  |
 | [Impossible](https://open.spotify.com/track/2YCMAOOVUzRJKzDMciNnu0) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Impossible](https://open.spotify.com/album/4yhrYvq3KBDsFGrtqM6ATh) | 3:24 | 2022-05-28 | 2023-03-29 |
@@ -594,7 +595,7 @@
 | [Ready or Not](https://open.spotify.com/track/1T7T6IwX2Evr0vjiWi8z58) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Ready or Not](https://open.spotify.com/album/3StUjylJFydfdlnycZwLd3) | 2:59 | 2021-12-11 | 2022-01-03 |
 | [Real Love](https://open.spotify.com/track/2Vj4TYsbJsXr0pkVuxubdL) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [3 Miles High](https://open.spotify.com/artist/7duAWxN7O6z3dDlI4sGEiq) | [Real Love](https://open.spotify.com/album/2e9RDAJT6iLgYv9PhNXxXI) | 2:21 | 2021-12-11 | 2022-04-27 |
 | [Real Ones Winning \(feat\. Avila\)](https://open.spotify.com/track/2dW17w7cd9OdILR3CeZvAl) | [R\-Swift](https://open.spotify.com/artist/7gZ8kNeMcOD0Fm4b9xyOLX), [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [Avila](https://open.spotify.com/artist/7nQ4Hw9SEKUFCyKOyyuYek) | [Real Ones Winning \(feat\. Avila\)](https://open.spotify.com/album/7t53IjboDQA4wzDujlHBmk) | 2:34 | 2021-12-11 | 2022-04-29 |
-| [Reality Checks](https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz) | [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe) | [Reality Checks](https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo) | 3:10 | 2022-07-17 |  |
+| [Reality Checks](https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz) | [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe) | [Reality Checks](https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo) | 3:10 | 2022-07-17 | 2023-09-20 |
 | [Reborn](https://open.spotify.com/track/7IPD7tvVOxDasWX0ZTU8Gx) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Desesperado \(Español\)](https://open.spotify.com/album/3KkwQBbgUCdbStPTGEN8qQ) | 3:01 | 2021-12-11 | 2022-01-15 |
 | [Red](https://open.spotify.com/track/64LAMlRR8VPDDbUumx1esT) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Red](https://open.spotify.com/album/5fh3EGJRYh7xbDXI0hWrCE) | 3:31 | 2021-12-11 | 2022-03-14 |
 | [Red Light Green Light](https://open.spotify.com/track/3qSqflHIOVYcd1IebVehuK) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Red Light Green Light](https://open.spotify.com/album/5sXxncoEUZUb8dkjZNHxwI) | 2:32 | 2022-09-16 | 2023-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,401 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,403 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 13 | [Pretty Girls](https://open.spotify.com/track/5IIu5JtVdXYaqvpCAz9Dis) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Weensey Of Backyard Band](https://open.spotify.com/artist/48d8y1vS0Ly0R93ReZuDf3) | [Attention Deficit](https://open.spotify.com/album/05hgYBx67XFjqWL8on4ugu) | 4:11 |
 | 14 | [Crew \(feat\. Brent Faiyaz\) \- New Impressionz Remix](https://open.spotify.com/track/47smLvlpCoBOPtjxjiDDYO) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Crew \(Remixes\)](https://open.spotify.com/album/1AdUYWD1SvbB87Ikje1pZG) | 4:20 |
 | 15 | [Gucci Bandana](https://open.spotify.com/track/04GcEOJulJLmz5MJsHRwtU) | [Reaction Band](https://open.spotify.com/artist/67cjHiRC2gsQWs3G0KZRnE) | [Greatest Hits](https://open.spotify.com/album/3WdCIfF6N895H2P4XSlRxj) | 7:25 |
-| 16 | [The Box](https://open.spotify.com/track/0oQK98QxIxaFDggvA7sxzO) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 3:51 |
+| 16 | [The Box](https://open.spotify.com/track/5mYjtBtp79JLS5cR7vVPeE) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI) | 3:51 |
 | 17 | [Club Godzilla](https://open.spotify.com/track/0zSWfzxS8BObYNkl7bqkQg) | [Big Action](https://open.spotify.com/artist/0hLqtceiHhwQ6TkUpUx7P4) | [Only Fans, Vol\. 1](https://open.spotify.com/album/2DnKPmWnaiZD350AHdLljC) | 2:41 |
 | 18 | [Own It \(GoGo Bounce\)](https://open.spotify.com/track/5iQGMwDkPB9K2HCFXjtlAu) | [Don Panama](https://open.spotify.com/artist/5xhWTTy7Vi5FPDQaUYSIbp), [Drew Keys](https://open.spotify.com/artist/2W0dNRlFKyqlESIr4ZXNLm) | [Own It \(GoGo Bounce\)](https://open.spotify.com/album/1BlJ4Te08MqckmUvhp1ny3) | 2:58 |
 | 19 | [Roll Call](https://open.spotify.com/track/1N6tzEqcWfHCmUyBzkhGYo) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 4:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 69 | [Da Butt](https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [Lost R&B Hits Of The 80S](https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk) | 5:14 |
 | 70 | [96 Dope Jam](https://open.spotify.com/track/3UzNKOAkbXimKt9hzGKwfc) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 6:31 |
 
-Snapshot ID: `MCw4MzgzYWRhNWFhN2Y5OTg4OGUzNWI1ZDEyYTE2ZGRkOWMxZWZkZmY0`
+Snapshot ID: `MCw4N2U1MGJlMTc4YjVkYjQwOGEyNTI2MDIxMzUwOTgwMWFhMDk1NDNk`

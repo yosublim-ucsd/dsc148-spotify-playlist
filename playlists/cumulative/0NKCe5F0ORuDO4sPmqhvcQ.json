@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/0BINonSEu5AmCiLrhhfAMm"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "always",
+      "url": "https://open.spotify.com/track/4x18rLsHPvkWkBPCULknfd"
+    },
+    {
+      "album": {
         "name": "Always A Dream",
         "url": "https://open.spotify.com/album/6FvLm2WrMOHLuu2ZgFr2Et"
       },
@@ -494,6 +512,24 @@
       "duration_ms": 152829,
       "name": "Am I Human?",
       "url": "https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL"
+    },
+    {
+      "album": {
+        "name": "am i right?",
+        "url": "https://open.spotify.com/album/1zSt0UqmEaaX6Mxkau913w"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182483,
+      "name": "am i right?",
+      "url": "https://open.spotify.com/track/6CS6zb9sXKsDm5n1Bbqc9R"
     },
     {
       "album": {
@@ -9949,6 +9985,28 @@
     },
     {
       "album": {
+        "name": "Mind Over Matter",
+        "url": "https://open.spotify.com/album/7A6ctoMJhFjeQ0XBYDgTqX"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "Torii Wolf",
+          "url": "https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0BJRJBpg3tnQ2KQRgjclec"
+    },
+    {
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6"
       },
@@ -10254,6 +10312,28 @@
       "duration_ms": 259114,
       "name": "Younger - Hahlweg Remix",
       "url": "https://open.spotify.com/track/4V5rzxrs7YZgcayPycwUto"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6BsBUWdc6Ewfv77AbNL5I4"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197111,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/4YuZXJDmHNtliF8N5TVMH8"
     },
     {
       "album": {

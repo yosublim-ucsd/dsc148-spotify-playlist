@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 690089,
+  "num_followers": 690083,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmZlZDQ0YWE1MjQ2YzU3ZGZiNjU5ZjIxNzJjN2U3ZjFiMDM4ZjNm",
+  "snapshot_id": "MCw0ZjkyYTg3ZDhjNDUxM2UzZWU2NWNhOWJmOTNiYThjNDZiNTczMDY4",
   "tracks": [
     {
       "added_at": "2023-09-08 00:00:00",
@@ -1951,22 +1951,18 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
       },
       "artists": [
         {
-          "name": "Coldabank",
-          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
-        },
-        {
-          "name": "Freedo",
-          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
         }
       ],
-      "duration_ms": 154904,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
+      "duration_ms": 159375,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
     }
   ],
   "unique_name": "PARTY MODE",

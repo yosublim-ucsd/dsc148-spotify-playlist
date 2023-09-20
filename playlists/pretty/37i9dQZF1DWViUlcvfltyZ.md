@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Cover: Piqued Jacks
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,709 likes - 64 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,719 likes - 64 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 63 | [Sbaglio peggiore](https://open.spotify.com/track/3496cFB078fy8zXdX108Gr) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Sbaglio peggiore](https://open.spotify.com/album/5svg1vlynhxUiqyJfrCJjG) | 3:14 |
 | 64 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 
-Snapshot ID: `MCw3MmUwMzc0NTQwZDU2ZmNhZWY5NTU5YjAxNTJiNzgzYmRmZTRhNDM1`
+Snapshot ID: `MCxlZWIyNDQwYTUyYTJkNjUwMTA3NzJhZDYxMTVkYzIwYWM3MmQyM2Jh`

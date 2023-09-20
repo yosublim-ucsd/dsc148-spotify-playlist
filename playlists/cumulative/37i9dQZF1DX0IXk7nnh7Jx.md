@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-386 songs - 23 hr 15 min
+387 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 | 2020-12-18 | 2023-02-19 |
 | [Falling Up](https://open.spotify.com/track/4LJCaeXCP3cAkVpdMBA3wM) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/0zDzV5qt4vpwVkv7xmliUe) | 3:19 | 2020-12-18 | 2022-07-28 |
 | [Far Kingdom \(reimagined\)](https://open.spotify.com/track/7rjwZiCmwudgo74jFUOQj1) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Far Kingdom \(reimagined\)](https://open.spotify.com/album/55m7zq0QtVvPe1hqGHOcY8) | 3:59 | 2020-12-18 | 2022-07-29 |
-| [Fill My Cup](https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Fill My Cup](https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O) | 3:27 | 2023-02-19 |  |
+| [Fill My Cup](https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Fill My Cup](https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O) | 3:27 | 2023-02-19 | 2023-09-20 |
 | [Find My Home](https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK) | [Shiny Penny](https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy) | [Find My Home](https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy) | 4:20 | 2020-12-18 | 2023-02-19 |
 | [FIND MY WAY](https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [FIND MY WAY](https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5) | 1:50 | 2023-08-04 |  |
 | [Fireflies](https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Fireflies](https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4) | 3:57 | 2023-02-24 | 2023-04-09 |
@@ -273,6 +273,7 @@
 | [Revenant](https://open.spotify.com/track/0wDvDQVV7qEaVKd4T80YnN) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/2pgAmtx7LUbcAVy4KjykbG) | 5:07 | 2020-12-18 | 2022-07-18 |
 | [RICH](https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [RICH](https://open.spotify.com/album/5P1RmCAG4yB80keglreodA) | 2:42 | 2023-08-04 |  |
 | [Right With You](https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [In the Upper Room](https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC) | 2:46 | 2023-02-19 |  |
+| [RIVALS](https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [RIVALS](https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3) | 3:07 | 2023-08-11 |  |
 | [Room For You](https://open.spotify.com/track/2RYbtzFtOttR2YZ7HdZDtR) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Room For You](https://open.spotify.com/album/1l60EgkGgcn0bIfFWOPLVu) | 3:20 | 2023-02-24 |  |
 | [Room In My Heart \- Live](https://open.spotify.com/track/0lAYTLhvqqHEoSwwNQHWoX) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Zo Chilengwe](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Room In My Heart \(Live\)](https://open.spotify.com/album/4pDAlIbOqFqT5M7F228qJ6) | 4:15 | 2023-02-19 | 2023-04-19 |
 | [Room In My Heart \- Live](https://open.spotify.com/track/2pYCK9Kj5SbVcKfDtNnoH8) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Zo Chilengwe](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Thin Place \(Live\)](https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50) | 4:15 | 2023-04-21 |  |

@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA0NjMsOTQ0OGVhY2I1MGZiNzVjM2Q0MjZhMmQ4YzQ0YjI3MjU0ZDgzOTNiYQ==",
+  "snapshot_id": "MTA0NjgsZmEwMDZlNDYwNTM0MzY5YTY0NjkyMjNmYjNkZTYxZmYwODA5N2U3Mw==",
   "tracks": [
     {
       "added_at": "2023-09-01 20:06:07",
@@ -103,6 +103,26 @@
       "duration_ms": 208153,
       "name": "HydroPlane",
       "url": "https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx"
+    },
+    {
+      "added_at": "2023-09-19 18:09:52",
+      "album": {
+        "name": "Mind Over Matter",
+        "url": "https://open.spotify.com/album/7A6ctoMJhFjeQ0XBYDgTqX"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "Torii Wolf",
+          "url": "https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0BJRJBpg3tnQ2KQRgjclec"
     },
     {
       "added_at": "2023-08-23 14:10:06",
@@ -2275,6 +2295,58 @@
       "duration_ms": 147407,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6OXYxf6aGStPAF33xfbX4y"
+    },
+    {
+      "added_at": "2023-09-19 18:10:26",
+      "album": {
+        "name": "am i right?",
+        "url": "https://open.spotify.com/album/1zSt0UqmEaaX6Mxkau913w"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 182483,
+      "name": "am i right?",
+      "url": "https://open.spotify.com/track/6CS6zb9sXKsDm5n1Bbqc9R"
+    },
+    {
+      "added_at": "2023-09-19 18:10:31",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6BsBUWdc6Ewfv77AbNL5I4"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/4YuZXJDmHNtliF8N5TVMH8"
+    },
+    {
+      "added_at": "2023-09-19 18:53:53",
+      "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/0BINonSEu5AmCiLrhhfAMm"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "always",
+      "url": "https://open.spotify.com/track/4x18rLsHPvkWkBPCULknfd"
     }
   ],
   "unique_name": "Moving Castle Monthly",

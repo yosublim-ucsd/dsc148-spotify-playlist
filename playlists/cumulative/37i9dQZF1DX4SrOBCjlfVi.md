@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Doja Cat, Rod Wave and more\. Cover: Offset
 
-3,594 songs - 7 day 0 hr 8 min
+3,595 songs - 7 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3128,7 +3128,8 @@
 | [Tell Me Bout It](https://open.spotify.com/track/7I3VPjpsYDKxKFbxSTZbAb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/7B4Z1YST4O7dpiL2DyIZlH) | 2:56 | 2022-07-29 | 2022-08-03 |
 | [TELL ME IM RIGHT](https://open.spotify.com/track/2ltbtk62BGf7AoWeVJYv72) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [TELL ME IM RIGHT](https://open.spotify.com/album/1nSlBADZLhwU0DlaNLU6MD) | 2:26 | 2023-05-05 | 2023-05-13 |
 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 | 2023-08-04 | 2023-08-12 |
-| [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/3aG8LIKhmcxv44NngUbDoy) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/6H7diE7QNHugTJu7Ptlol2) | 4:01 | 2023-09-15 |  |
+| [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/2Nlky0GKESaONs5FBZpisF) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/7vF5mIej4btrKYDtrnjH3b) | 4:01 | 2023-09-15 |  |
+| [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/3aG8LIKhmcxv44NngUbDoy) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/6H7diE7QNHugTJu7Ptlol2) | 4:01 | 2023-09-15 | 2023-09-20 |
 | [Tell Somebody](https://open.spotify.com/track/1ClHCOX8C1aB9RNtXJrQKO) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Tell Somebody](https://open.spotify.com/album/4bdbkfQjyuRdCsWR3UAj9C) | 3:19 | 2022-01-28 | 2022-02-05 |
 | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz) | 3:22 | 2022-05-06 | 2022-05-28 |
 | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 | 2022-05-06 | 2022-05-14 |

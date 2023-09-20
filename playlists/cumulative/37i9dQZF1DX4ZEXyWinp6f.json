@@ -104,7 +104,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 130240,
       "name": "Crimes of the Future",
       "url": "https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 407120,
       "name": "Hell Riders",
       "url": "https://open.spotify.com/track/4WoJjW20CcWFt5S4PVBycE"
@@ -5346,6 +5346,24 @@
       "duration_ms": 110680,
       "name": "Theme Number Sixty Eight",
       "url": "https://open.spotify.com/track/4Ug4rbQ666U9pputB0E3kV"
+    },
+    {
+      "album": {
+        "name": "Patterns Of Consciousness",
+        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 885000,
+      "name": "This Causes Consciousness to Fracture",
+      "url": "https://open.spotify.com/track/1KWfgbe4SBaEMvZUgo5hpF"
     },
     {
       "album": {

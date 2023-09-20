@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Rod Wave and more\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,884 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,062 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 30 | [Roadkill](https://open.spotify.com/track/1UuEqB02onXOpwc3jK5LFU) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Roadkill](https://open.spotify.com/album/3YYDZAGUoNpbLao2B96eGi) | 2:48 |
 | 31 | [Hook Mitchell](https://open.spotify.com/track/6CKDa6mKBdGpllS72Bpj5V) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ) | [Hook Mitchell](https://open.spotify.com/album/0f3GzsAigXJPTZj6pNmODH) | 3:39 |
 | 32 | [Sex cells](https://open.spotify.com/track/26Id12aC5I49lgOGUmgcZ8) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Experience \(Hosted by DJ Maino The Plug\)](https://open.spotify.com/album/5pvk3ndnDdNFYVtxTnXNVP) | 3:11 |
-| 33 | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/3aG8LIKhmcxv44NngUbDoy) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/6H7diE7QNHugTJu7Ptlol2) | 4:01 |
+| 33 | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/2Nlky0GKESaONs5FBZpisF) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/7vF5mIej4btrKYDtrnjH3b) | 4:01 |
 | 34 | [Never Enough](https://open.spotify.com/track/6zRJ4zXxZ5S8P1XMURRm7k) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Never Enough](https://open.spotify.com/album/2OZFvjpnidmupRRZGYjNZM) | 2:26 |
 | 35 | [Heat Warning](https://open.spotify.com/track/7kBe0MvuSawtc6DcL2zfdz) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Heat Warning](https://open.spotify.com/album/5zqlMLn3VAGIjRpUWEniUd) | 2:28 |
 | 36 | [No Statements](https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [No Statements](https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK) | 2:38 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [FRIED](https://open.spotify.com/track/3Ni3aIyhb653KodcYFae0L) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [FRIED](https://open.spotify.com/album/0yvrH8FMw4q4rJulnhRs5K) | 1:48 |
 | 51 | [Day I Got Shot](https://open.spotify.com/track/5tSNezeNAkfObxNhlTqhXd) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Day I Got Shot](https://open.spotify.com/album/0lz246QSLrOp5EAE7wfbNG) | 2:48 |
 
-Snapshot ID: `MCw5ZjEzNDgzZDA1NjhlZGZmYzYwNzVkODYyNGExNzk5MTlkYTFmOTlm`
+Snapshot ID: `MCxkMTRkNGMzMjc2NzA4OTI5NTA3N2I5YWZlOTBiMDllNjZlMDg3Yzc5`

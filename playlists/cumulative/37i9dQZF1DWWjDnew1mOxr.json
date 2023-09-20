@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: Miles Kane",
+  "description": "Boss music for boss people. Cover: JAMIE WEBSTER",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -60,6 +60,24 @@
     {
       "album": {
         "name": "Alright",
+        "url": "https://open.spotify.com/album/1G87Kj047fGnnuyy9TSgIZ"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1YtDiUfVAR54jdvCD9UfRe"
+    },
+    {
+      "album": {
+        "name": "Alright",
         "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
       },
       "artists": [
@@ -110,6 +128,24 @@
       "duration_ms": 190520,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ"
+    },
+    {
+      "album": {
+        "name": "Back to the Light",
+        "url": "https://open.spotify.com/album/5HsJ8jtEXFxujuleSECHng"
+      },
+      "artists": [
+        {
+          "name": "Teenage Fanclub",
+          "url": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "Back to the Light",
+      "url": "https://open.spotify.com/track/3DbbslE3KZNVQ2aCsjcF40"
     },
     {
       "album": {
@@ -200,6 +236,24 @@
       "duration_ms": 190206,
       "name": "Bite",
       "url": "https://open.spotify.com/track/2y0x5oohwPiUANKG4kqtEB"
+    },
+    {
+      "album": {
+        "name": "Black Cat",
+        "url": "https://open.spotify.com/album/4nbnUaUzLFai1ZW3SP8vOb"
+      },
+      "artists": [
+        {
+          "name": "Red Rum Club",
+          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140613,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/3dw3CbKSsae5LFuP5uRIeV"
     },
     {
       "album": {
@@ -484,7 +538,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 256146,
       "name": "Cherophobe",
       "url": "https://open.spotify.com/track/08VN91L0UaY6B2wcSd4ojR"
@@ -520,7 +574,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 206805,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/3fyIwr5p1pZ4uPpUrGETLN"
@@ -718,7 +772,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 160337,
       "name": "Empire",
       "url": "https://open.spotify.com/track/17NF7bFPjLTCyG7mdoU9RN"
@@ -736,7 +790,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 262656,
       "name": "Everyone's a Liar",
       "url": "https://open.spotify.com/track/0HrFnaw0MjTqa8YmxeXDys"
@@ -826,10 +880,68 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 212560,
       "name": "Feels So Real",
       "url": "https://open.spotify.com/track/3FT6FDtU2POsP0XAcqtAsh"
+    },
+    {
+      "album": {
+        "name": "A Sense Of Doubt",
+        "url": "https://open.spotify.com/album/7rarto0TdC6zceBil7cgxK"
+      },
+      "artists": [
+        {
+          "name": "The Sukis",
+          "url": "https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Female of the Species",
+      "url": "https://open.spotify.com/track/2K8kox96chIc5gFJVRWJgg"
+    },
+    {
+      "album": {
+        "name": "Fickle Fran (feat. Billy Bragg)",
+        "url": "https://open.spotify.com/album/5AO5eNGtaNBXnN0gwnrkJP"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        },
+        {
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225087,
+      "name": "Fickle Fran (feat. Billy Bragg)",
+      "url": "https://open.spotify.com/track/0mX9xhRMwmx6qvqRzHLXlj"
+    },
+    {
+      "album": {
+        "name": "Find My Way Around",
+        "url": "https://open.spotify.com/album/6sE8AmGoJcgIHTTKtKC40n"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195173,
+      "name": "Find My Way Around",
+      "url": "https://open.spotify.com/track/4R9aYkJz3drmXGdETRnndb"
     },
     {
       "album": {
@@ -1096,7 +1208,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 157756,
       "name": "Hull Sky",
       "url": "https://open.spotify.com/track/3KTFknLMGHEH7yaxCjDrS7"
@@ -1899,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Prawn Soup",
+        "url": "https://open.spotify.com/album/79n2NMO61v0yMwY65V0t9y"
+      },
+      "artists": [
+        {
+          "name": "The Skinner Brothers",
+          "url": "https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153050,
+      "name": "PRAWN SOUP",
+      "url": "https://open.spotify.com/track/5PEH48ZYmU1Ewx15tFJz6w"
+    },
+    {
+      "album": {
         "name": "Pretend",
         "url": "https://open.spotify.com/album/02h2495vFYmNXvFZlFMavz"
       },
@@ -2000,7 +2130,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 237422,
       "name": "Ritual Of The Crocodile Men",
       "url": "https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y"
@@ -2396,7 +2526,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 272720,
       "name": "Time Comes Around",
       "url": "https://open.spotify.com/track/0c5RPTaGarzbe2aMltCHji"
@@ -2742,6 +2872,24 @@
       "duration_ms": 225680,
       "name": "Wor Flags",
       "url": "https://open.spotify.com/track/2lvcExg0HKWUjxVeRwKjno"
+    },
+    {
+      "album": {
+        "name": "Would You Come To My Funeral",
+        "url": "https://open.spotify.com/album/44DQfthWsCBD3K5wCTDjq9"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272626,
+      "name": "Would You Come To My Funeral",
+      "url": "https://open.spotify.com/track/5EXsCJyxIM8Mv1KruQgsq9"
     },
     {
       "album": {

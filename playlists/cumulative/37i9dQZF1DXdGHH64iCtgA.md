@@ -4,7 +4,7 @@
 
 > Strut down Etro's SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Marco De Vincenzo.
 
-245 songs - 19 hr 15 min
+246 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1,618](https://open.spotify.com/track/5LH6z8sYZ6gQ4xOxSWwvvy) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy) | [Charlotte Adigéry](https://open.spotify.com/album/5essRp10ttUIJXwlwNcGNH) | 5:58 | 2023-09-07 |  |
 | [1982](https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [First Album \(2009 Reissue\)](https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8) | 5:19 | 2022-05-06 | 2023-09-08 |
 | [3AM IN CHELSEA](https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 4:06 | 2022-05-06 | 2023-07-24 |
+| [Acqua Bagnami](https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Acqua Bagnami](https://open.spotify.com/album/4BJj638K8ZAasjQw8YDEV5) | 5:08 | 2023-09-20 |  |
 | [Adieu Au Dancefloor](https://open.spotify.com/track/23bfFo3YUywjPKONLr2GN1) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Adieux Au Dancefloor](https://open.spotify.com/album/6mdIs3bkdfUTmRdkFEmQMc) | 5:58 | 2023-09-07 |  |
 | [Animosity \- SOPHIE Remix](https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC) | [Abyss X](https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Animosity \(SOPHIE Remix\)](https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh) | 8:06 | 2022-05-06 | 2022-07-29 |
 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 | 2022-05-06 | 2023-09-08 |

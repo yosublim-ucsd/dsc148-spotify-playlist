@@ -2,9 +2,9 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: Jang HeeWon\(장희원\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: D.O.\(디오\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-466 songs - 1 day 3 hr 43 min
+467 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [I Wanna Fall in Love](https://open.spotify.com/track/1SitWmav8K9bEn1f23anqO) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 5:05 | 2022-04-12 | 2022-04-15 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2021-12-10 | 2022-07-27 |
 | [I Want to Be A Pillow](https://open.spotify.com/track/0p2Rh63rx8xbxVPwol2EmA) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_i?](https://open.spotify.com/album/72uhm3L8qHUsKHneApbolo) | 3:43 | 2021-12-10 | 2022-07-29 |
-| [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 | 2023-09-19 |
+| [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 |  |
 | [I want to love](https://open.spotify.com/track/5D63fftBm3Haj5laapgWl2) | [Park Jaewoo](https://open.spotify.com/artist/2WIOofcSewAuVXBSMuQ2dD) | [I want to love](https://open.spotify.com/album/5K5TZWuzj0p4LJwH7jTFug) | 3:31 | 2022-08-18 | 2022-09-03 |
 | [I Will Remember](https://open.spotify.com/track/2FV04bwFqfJyOLDZL2vx7C) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 3:08 | 2022-03-31 | 2022-04-07 |
 | [I Wonder](https://open.spotify.com/track/0WLjUv41NxxFZnNnn0Ra9W) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49) | [Let's Eat! 3 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/535nRzc7dhjietZuqgHfQr) | 3:39 | 2021-12-10 | 2022-05-31 |
@@ -195,7 +195,7 @@
 | [Inside](https://open.spotify.com/track/3SVvPN9zqICAetI0g9x5SN) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Inside](https://open.spotify.com/album/2jVzlkR05AEAzBAGdv1C4G) | 2:48 | 2022-03-31 | 2022-04-12 |
 | [invisible](https://open.spotify.com/track/7a3FZTbMXhvBHPK1gpA03u) | [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [invisible](https://open.spotify.com/album/1aG1R1Q706NZOhXVd4ZWSM) | 4:14 | 2022-03-31 | 2022-04-11 |
 | [Is you](https://open.spotify.com/track/36HZ2Z3rvP3i4YFB5tUjY9) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/7y8QDramTNvHWnbFANijH1) | 3:51 | 2022-02-10 | 2022-05-28 |
-| [It's Love](https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2022-04-12 |  |
+| [It's Love](https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2022-04-12 | 2023-09-20 |
 | [It’s Okay To Cry](https://open.spotify.com/track/5JxWTxU8trBOfLmeHReKHZ) | [LIM HEON IL](https://open.spotify.com/artist/1NaPFRqmf4eMTGfIR3eXwR), [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [It’s Okay To Cry](https://open.spotify.com/album/3fcD3HSeakYnWjFc1wNoXy) | 4:26 | 2022-03-31 | 2022-04-09 |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-10 | 2022-07-29 |
 | [I′m Coming Home](https://open.spotify.com/track/0dfK89MvMnBQcpdbW5f9tx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Jirisan \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/77YNd9Ym3wycCakmOaKfAp) | 4:06 | 2022-04-12 | 2022-06-12 |
@@ -328,6 +328,7 @@
 | [So, Back Then](https://open.spotify.com/track/5onLxvNhVu5YbSfj746B0W) | [Yoon Gook Jin](https://open.spotify.com/artist/1JYnAsYQNcFPXAZ6xauHyg) | [So, Back Then](https://open.spotify.com/album/3NrJeLAtSrBt2rkfcFTdqH) | 4:41 | 2022-03-31 | 2022-04-21 |
 | [Soft](https://open.spotify.com/track/5YcPOaMnKoWKqIHxg4iL3Y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/0fbVHkoxzHbm6RDa9IOUGC) | 3:57 | 2022-03-31 | 2022-04-20 |
 | [Soil, Flower, Water and Fish](https://open.spotify.com/track/3bzLlD5h9CXhMhYaGLF8rx) | [nijuu](https://open.spotify.com/artist/5DOwMhG96lFhlPpNG9oaWW) | [Soil, Flower, Water and Fish](https://open.spotify.com/album/2WMvMC7FAo6grG2iyvDB2D) | 3:16 | 2022-03-31 | 2022-04-20 |
+| [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 | 2023-09-19 |  |
 | [Somehow you are 왠지 너는](https://open.spotify.com/track/17xYfVlgC5q36pXP7Eju4A) | [Jaejoo Boys](https://open.spotify.com/artist/6Z41VjRzi0cKNZAVp5u7VZ) | [Somehow you are 왠지 너는](https://open.spotify.com/album/5BvCMIM7DpDMVcd6k5bRRy) | 3:57 | 2022-03-31 | 2022-07-09 |
 | [Something missing between us](https://open.spotify.com/track/2HJGLIMw4jK21i93h7OLTg) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Nothing Serious](https://open.spotify.com/album/5aSX6Isg7e4xCJ7lilMuXn) | 2:35 | 2021-12-10 | 2022-07-17 |
 | [Sometimes](https://open.spotify.com/track/2MRammTsaxveEWfizitMik) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Sometimes](https://open.spotify.com/album/2HIe17CyOCaFH1migb5nQI) | 3:07 | 2022-03-31 | 2022-04-17 |
@@ -365,7 +366,7 @@
 | [Thank You](https://open.spotify.com/track/6FlCuZG1bp05Peno7KzYdK) | [Jang Pill Soon](https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI) | [THANK YOU](https://open.spotify.com/album/1EBJSo4XSiKOIpzfPor1T5) | 4:39 | 2023-01-11 | 2023-01-26 |
 | [That Day That Night \(feat\. Hailey Jeong\)](https://open.spotify.com/track/5culRJ1gKQdosIKnzN1VHX) | [Hye In](https://open.spotify.com/artist/5T8Zdi42zgO3H3hgHXPvk8), [Hailey Jeong](https://open.spotify.com/artist/7EhVfkEbLB64DCZv7Gnqjl) | [That Day That Night](https://open.spotify.com/album/1SCaW8oW7y5TMYJN6gqzlK) | 2:51 | 2022-03-31 | 2022-04-13 |
 | [The Art Of Farewell \(feat\. Hyelyn\)](https://open.spotify.com/track/4SsdS2qbyy2JRH1sNSanO4) | [MUSM](https://open.spotify.com/artist/7uT444qheRWiJsA0EGvXFh), [Hyelyn](https://open.spotify.com/artist/3AUu7kGxxt4tatQ5jNfm3L) | [MUSM, op\. 3](https://open.spotify.com/album/3IdhQk1jtUpHRJxpD2vPwR) | 4:02 | 2022-03-31 | 2022-04-20 |
-| [the beginning of love](https://open.spotify.com/track/61GIG0J84qsIAymMgw5VeL) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [the beginning of love](https://open.spotify.com/album/5EdaQnclyZKmJZwHtGevz2) | 3:11 | 2023-09-07 |  |
+| [the beginning of love](https://open.spotify.com/track/61GIG0J84qsIAymMgw5VeL) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [the beginning of love](https://open.spotify.com/album/5EdaQnclyZKmJZwHtGevz2) | 3:11 | 2023-09-07 | 2023-09-20 |
 | [The Blue Night Of Jeju Island](https://open.spotify.com/track/5I6MDAsc3nv2BPiiGnLEDI) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [The Blue Night Of Jeju Island](https://open.spotify.com/album/5N0DCNi28CDILaQZ7tYNfU) | 4:05 | 2022-03-31 | 2022-04-28 |
 | [The Cat House 고양이 집](https://open.spotify.com/track/3gOrrjFANav8rcfBiHXFnM) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [The Cat House 고양이 집](https://open.spotify.com/album/1Dx5d7CPHRQ7228ZCT4aLT) | 3:51 | 2022-03-31 | 2022-04-20 |
 | [The end](https://open.spotify.com/track/1YtcUMj2HBDcD0wgNFGCAW) | [ONL](https://open.spotify.com/artist/0liJPOMxnzqzSVesgtun1D) | [Be opposite](https://open.spotify.com/album/7FxTHRGeQdiJSIaERNzWMZ) | 4:47 | 2023-01-25 | 2023-02-25 |

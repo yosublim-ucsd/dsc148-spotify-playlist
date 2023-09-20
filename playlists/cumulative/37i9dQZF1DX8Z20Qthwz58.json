@@ -1445,6 +1445,42 @@
     },
     {
       "album": {
+        "name": "We`re like a movie stars",
+        "url": "https://open.spotify.com/album/5IVJ4MPPvsZyRIaCCe5xiS"
+      },
+      "artists": [
+        {
+          "name": "Pa!nter",
+          "url": "https://open.spotify.com/artist/3TLkCvPSwrTgS5vb7TkZ2T"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165826,
+      "name": "We`re like a movie stars",
+      "url": "https://open.spotify.com/track/2L2xEoZAaDgR0PpnbdnP37"
+    },
+    {
+      "album": {
+        "name": "What if we met at another place ?",
+        "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "What if we met at another place ?",
+      "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
+    },
+    {
+      "album": {
         "name": "WHY YOU?",
         "url": "https://open.spotify.com/album/29OG07EpYadviilDMVEgd4"
       },

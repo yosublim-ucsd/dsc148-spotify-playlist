@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Philip
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,412 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,425 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |
 | 50 | [LACRIME ROSSE](https://open.spotify.com/track/5rYhpfVrqfozHyIwNXGL5Z) | [Blessed](https://open.spotify.com/artist/6WMR02sCaYnhKgiTlzTB3A) | [LACRIME ROSSE](https://open.spotify.com/album/05hCSIHycn6rB0v7MoV1sK) | 2:28 |
 
-Snapshot ID: `MCxmZmI1MTAzOGQ3OWM4NjBiODdhMjE2YmE3YTAxZjE0YzgwMDE1ZmRk`
+Snapshot ID: `MCw4NjhjNDIwOGU1MzZkNzM1MDZhNDBiOWY0OWEyNWVmNzFlMjZiYWY1`

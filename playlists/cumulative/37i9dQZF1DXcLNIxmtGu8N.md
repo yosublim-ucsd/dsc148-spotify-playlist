@@ -4,7 +4,7 @@
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-74 songs - 5 hr 54 min
+75 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Takes My Breath Away \- Live](https://open.spotify.com/track/1g8soFqOrBfamriJLVSjig) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [The Gift](https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok) | 3:34 | 2022-01-29 |  |
 | [Tambourina Go Go Bounce](https://open.spotify.com/track/0ahcKcp9NEfIPfkoa966Ce) | [Marcy Mane](https://open.spotify.com/artist/7u9z6yLFvWVEJcnDJnd7sw) | [FLEXICO](https://open.spotify.com/album/2JBBtkjaL8peNpXrkk6rcI) | 2:15 | 2022-01-29 |  |
 | [Tear The Club Up](https://open.spotify.com/track/543joO4Z5GEJV2ANiNwOcf) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Skillet](https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F) | 8:55 | 2022-01-29 |  |
-| [The Box](https://open.spotify.com/track/0oQK98QxIxaFDggvA7sxzO) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 3:51 | 2022-01-29 |  |
+| [The Box](https://open.spotify.com/track/0oQK98QxIxaFDggvA7sxzO) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 3:51 | 2022-01-29 | 2023-09-20 |
+| [The Box](https://open.spotify.com/track/5mYjtBtp79JLS5cR7vVPeE) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI) | 3:51 | 2022-01-29 |  |
 | [The Bud](https://open.spotify.com/track/55hSyt21hVdzIVLvqNX1Ma) | [The Huck\-A\-Bucks](https://open.spotify.com/artist/4FvuiKP0S3bvpjrB1AiLij) | [The Huck\-a\-Bucks Live!](https://open.spotify.com/album/2LfIiVEK3YbRN7SCkrUaHH) | 7:36 | 2022-01-29 |  |
 | [The Water](https://open.spotify.com/track/3yDUcKMfVRPXugdpRv4oar) | [Northeast Groovers](https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS) | [Straight from the Basement](https://open.spotify.com/album/51LT5vzPLIfxs4MdDmPq8A) | 6:00 | 2022-01-29 |  |
 | [The Water Dance](https://open.spotify.com/track/6DLjYEn27mIjNxJlrTq1ay) | [DJ Flexx](https://open.spotify.com/artist/1xGxKdeIVaVIbwOqSGsNOi) | [DJ Flexx Presents...www.thatgogo.com](https://open.spotify.com/album/1JTRloLJa8f3D66wVSoFk7) | 7:27 | 2022-01-29 |  |

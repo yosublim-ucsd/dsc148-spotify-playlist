@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 127683,
+  "num_followers": 127745,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTllMjc4ZDZjYjM5OWI1NzkwMjg1N2RlNmE2MjZhNjJjMWU0ZDZh",
+  "snapshot_id": "MCw5N2U4NDJmMzYwZjE3NDQzMGQ4ODllYzQ2YTYxNzc5MDE0ZWY5ZTAw",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/3aSgmsxNCqjIgwMClyEeJm"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 133693,
-      "name": "Folhas Secas",
-      "url": "https://open.spotify.com/track/2m7hny9dJ4hnwMPpabhyD8"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Pagode Novo",
         "url": "https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 205663,
       "name": "Atraco",
       "url": "https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/3aSgmsxNCqjIgwMClyEeJm"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 133693,
+      "name": "Folhas Secas",
+      "url": "https://open.spotify.com/track/2m7hny9dJ4hnwMPpabhyD8"
     },
     {
       "added_at": "2023-08-04 03:01:00",

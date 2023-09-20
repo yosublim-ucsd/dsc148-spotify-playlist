@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Christian Nodal
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,362 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,518 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Se Acelera](https://open.spotify.com/track/6NvBWU7dJqMm5ETZWT2Mjl) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [Se Acelera](https://open.spotify.com/album/5JCg2S8bEOiE1xIrf236Tt) | 3:19 |
 | 50 | [Qué De Raro Tiene](https://open.spotify.com/track/4yTCWlsJHi4eQLbD5uRmKc) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué De Raro Tiene](https://open.spotify.com/album/1HGDJVqncehIpoJpmUguAC) | 3:11 |
 
-Snapshot ID: `MCwwMjlmYjc3OWQ1ZjJkZjBjZTcwNTc1MDc4MGE3ZDdlZGViOWFjNTQ0`
+Snapshot ID: `MCwzNjZmZGUzMWQ1MzVjN2Q3NzdiOWUwMjNjZjljODc2ZjY5YTc0NGUw`

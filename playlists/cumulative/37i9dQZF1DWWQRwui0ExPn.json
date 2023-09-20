@@ -7484,7 +7484,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/4BWWjTzEZ5A4uZIMbv0Mbb"
@@ -8366,6 +8366,24 @@
       "duration_ms": 125217,
       "name": "Balcony View",
       "url": "https://open.spotify.com/track/3QgWPgTZvV7EzawDm9oSDj"
+    },
+    {
+      "album": {
+        "name": "Baleari",
+        "url": "https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y"
+      },
+      "artists": [
+        {
+          "name": "Valhallz",
+          "url": "https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209230,
+      "name": "Baleari",
+      "url": "https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF"
     },
     {
       "album": {
@@ -11744,7 +11762,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 157848,
       "name": "Blissed Out",
       "url": "https://open.spotify.com/track/3Y3FMJS7a3qQuAIZJqDa4K"
@@ -20572,7 +20590,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 178783,
       "name": "Coffee In Houston",
       "url": "https://open.spotify.com/track/1iy5F9Q2jFmp6R7Rt1tlad"
@@ -26370,6 +26388,24 @@
       "duration_ms": 125514,
       "name": "discussive",
       "url": "https://open.spotify.com/track/29tJFeSe9sRlxLrs0pRps7"
+    },
+    {
+      "album": {
+        "name": "Dispar",
+        "url": "https://open.spotify.com/album/6p4Z6gGfUdd77p8ZWkAzWg"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Dispar",
+      "url": "https://open.spotify.com/track/0tNyPU9Mo6SVUWyo5VD7GD"
     },
     {
       "album": {
@@ -45885,6 +45921,24 @@
     },
     {
       "album": {
+        "name": "Howzit?",
+        "url": "https://open.spotify.com/album/4pXcxfjsiBm0ZU8t5kFF9t"
+      },
+      "artists": [
+        {
+          "name": "Slacker Jack's",
+          "url": "https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156750,
+      "name": "Howzit?",
+      "url": "https://open.spotify.com/track/395eVmBVCjR3TY8eUrOVl4"
+    },
+    {
+      "album": {
         "name": "Huey Blue",
         "url": "https://open.spotify.com/album/6ciqkfbmzXa5L5uGTDSoBh"
       },
@@ -56638,7 +56692,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 155121,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/0UnxuUzeW8LAAgQFbOgOwS"
@@ -57008,7 +57062,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 129000,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/6hRHaEUjl2cHW2P60wPywi"
@@ -63006,7 +63060,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 142000,
       "name": "Mezzenile",
       "url": "https://open.spotify.com/track/0FcnYz7S1rCXsPLh4idw5M"
@@ -90306,7 +90360,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 129996,
       "name": "Smiley",
       "url": "https://open.spotify.com/track/2tXjkhsUKUfxP7VyQV5Bod"
@@ -90622,7 +90676,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 157333,
       "name": "Snap Out Of It",
       "url": "https://open.spotify.com/track/6lCw89tyHYJVJV6EA5idaG"
@@ -93498,7 +93552,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 133043,
       "name": "Spliffs on the Moon",
       "url": "https://open.spotify.com/track/7qczwDZEiRbJwvn8EnzYyK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Kendji Girac
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,270 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,385 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 59 | [Insomnies \- Alternative version](https://open.spotify.com/track/0R9CHXARoc0sX0FgQctIDd) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Insomnies \(Alternative version\)](https://open.spotify.com/album/7uFpQNvHDCvAMWLppQBAqy) | 3:00 |
 | 60 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 |
 
-Snapshot ID: `MCxiYjUyYjY0NjMzNzVmNmE1YTE0NzkzNTFlODk3YTBkMjkxMzBhY2E0`
+Snapshot ID: `MCwwOTMwODJkMmM0YWE3ZDEwMjM5MDRmNWQ2NGU5ZTcxMmIzM2RhMGZl`

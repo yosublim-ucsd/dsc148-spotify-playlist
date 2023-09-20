@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,238 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,374 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 25 | [Little Fairy Carpenter](https://open.spotify.com/track/5K0V5WtaEJMYc3izrQ6vQV) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [SuperBlue: The Iridescent Spree](https://open.spotify.com/album/5qMLFAqVK8IwPRcpuH88R8) | 4:58 |
 | 26 | [Jazz Hands \(feat\. CeeLo Green\)](https://open.spotify.com/track/5o0EnxQGxtzMH23QEiOsXL) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Jazz Hands \(feat\. CeeLo Green\)](https://open.spotify.com/album/3womuEXUOjSxKvWvdmFgNv) | 3:15 |
 | 27 | [Transe](https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Transe](https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL) | 6:23 |
-| 28 | [Drive My Car](https://open.spotify.com/track/2UqjB852n1IxWh2GDbyD9u) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Greg Hutchinson](https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o), [Matt Penmann](https://open.spotify.com/artist/11XVTuKY8lRxcrbbysWYLr) | [Brexit Music](https://open.spotify.com/album/4Syh9y7tKbCtkHRsSOjxNB) | 3:09 |
+| 28 | [Drive My Car](https://open.spotify.com/track/2UqjB852n1IxWh2GDbyD9u) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Greg Hutchinson](https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o), [Matt Penmann](https://open.spotify.com/artist/11XVTuKY8lRxcrbbysWYLr) | [Brexit Music](https://open.spotify.com/album/4Syh9y7tKbCtkHRsSOjxNB) | 3:08 |
 | 29 | [One Week](https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [One Week](https://open.spotify.com/album/5kCMg3tpv9Qu25zUFem5VI) | 2:40 |
 | 30 | [September In The Rain](https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [September in the Rain](https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX) | 4:08 |
 | 31 | [Far Too Much \- Edit](https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Far Too Much \(Edit\)](https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Bonaventura](https://open.spotify.com/track/6GMqhc3dcBUExHWViNubtM) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Bonaventura](https://open.spotify.com/album/15HRPbNuHuuTmMkWHM9nKD) | 2:25 |
 | 50 | [Closer](https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Closer](https://open.spotify.com/album/2aVYyjgHni7OpuNf53KUH0) | 4:55 |
 
-Snapshot ID: `MCw5N2YzMDU5YjJkNGNmNWRkMTY5YjQ1NTZiODhmNjU1ZTI5YWFhNjIw`
+Snapshot ID: `MCw2ODliYWEzYTg1ZjlhNGMzZDMzYmIxNDFhMzg1YjVjMzU1Mjk3ODRj`

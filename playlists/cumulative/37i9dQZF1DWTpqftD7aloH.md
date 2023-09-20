@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-219 songs - 20 hr 36 min
+220 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Como Será o Amanhã](https://open.spotify.com/track/4PYovafuBJ88bOLeeYQUUS) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Como Será o Amanhã](https://open.spotify.com/album/5O9Ehx3H8FGpDaefJWRUyq) | 3:16 | 2023-09-01 |  |
 | [Como Será O Amanhã](https://open.spotify.com/track/6pn1RvIvRxkRbnNXQuXvBJ) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Como Será O Amanhã](https://open.spotify.com/album/7GEV5TiNIQoN9aKNKR8OjB) | 3:16 | 2023-06-23 | 2023-08-21 |
 | [Conquistando o Impossível](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) | [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Conquistando O Impossível](https://open.spotify.com/album/1oqWPqtbHvtiP4o8EmxQ9y) | 4:28 | 2023-02-17 |  |
-| [Cordeiro que Venceu \- Ao Vivo](https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Cordeiro que Venceu \(Ao Vivo\)](https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2) | 6:50 | 2023-09-01 |  |
+| [Cordeiro que Venceu \- Ao Vivo](https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Cordeiro que Venceu \(Ao Vivo\)](https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2) | 6:50 | 2023-09-01 | 2023-09-20 |
 | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/track/3yMXARmXJgM6c0sYrtLJDk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/album/02EClmGIfQz1LDlAw8XEER) | 4:49 | 2023-01-14 | 2023-01-21 |
 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2022-09-09 | 2023-01-14 |
 | [Cuido dos Detalhes](https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Cuido dos Detalhes](https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp) | 3:33 | 2023-03-15 |  |
@@ -159,6 +159,7 @@
 | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \- Ao Vivo](https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Pode Morar Aqui \(feat\. Alessandro Vilas Boas\) \[Ao Vivo\]](https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw) | 9:50 | 2022-09-09 |  |
 | [Porque Ele Vive \- Ao Vivo](https://open.spotify.com/track/5vf2Pm7OtecvE7qEU6BIwX) | [Victor Valente](https://open.spotify.com/artist/0bvD77fzjmlT6znB31jexq), [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce) | [Porque Ele Vive \(Ao Vivo\)](https://open.spotify.com/album/3X085WzabzRlHOkk66f3vX) | 6:52 | 2022-12-09 |  |
 | [Porque Eu Te Amei](https://open.spotify.com/track/7I24eKra0eqFunpdPVVgBH) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [\#Somosum](https://open.spotify.com/album/73zkcwGt5hvG3oPiasCa27) | 4:19 | 2023-07-07 |  |
+| [Portões Celestiais \- Ao Vivo](https://open.spotify.com/track/5b3OazQ41nLo3CNeuLyMPA) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [Matheus Trindade](https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL) | [Portões Celestiais \(Ao Vivo\)](https://open.spotify.com/album/574eXP5AevEROvGHuUdGSv) | 5:50 | 2023-09-15 |  |
 | [Pra Onde Eu Irei? \- Live Church](https://open.spotify.com/track/5l2nA65AMfg7GdZvFMyXI4) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Pra Onde Eu Irei? \(Live Church\)](https://open.spotify.com/album/0ZnX9cZRCa0CBfgPVgzB9Q) | 8:09 | 2022-09-09 |  |
 | [Pra Sempre Com Você \- Ao Vivo](https://open.spotify.com/track/4QWZGsHLDNhonHSsic6dLc) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Isaque Valadão Bessa](https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9) | [Pra Sempre Com Você \(Ao Vivo\)](https://open.spotify.com/album/18IATy6wOZqgQJVC7hYXUI) | 4:46 | 2023-01-14 | 2023-02-04 |
 | [Promises \(feat\. Joe L Barnes\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 | 2022-09-09 | 2023-07-15 |

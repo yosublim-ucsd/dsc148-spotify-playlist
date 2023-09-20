@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDA3NDhmNTJjZmUxYjI3YzRiYmNhNmYwOTgwZDJmMjhjMw==",
+  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDA1ZDUzYTZjMDE4MjNhMGZlNmRhYTQwNGNlM2M2NTgxZA==",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -123,17 +123,33 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 218794,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "BUCK WILD",
-        "url": "https://open.spotify.com/album/5ImKCJbyk1dOft8wdHTUKa"
+        "url": "https://open.spotify.com/album/5kZy8TjO6es1p9LLT4CcDN"
       },
       "artists": [
         {
           "name": "Headkrack",
           "url": "https://open.spotify.com/artist/0IB0hCCHwwj5vbLcYk8WbQ"
-        },
-        {
-          "name": "Local Astronauts",
-          "url": "https://open.spotify.com/artist/4spEdT2akJzTcOugrkhnLh"
         },
         {
           "name": "Method Man",
@@ -146,11 +162,15 @@
         {
           "name": "Fly Deff",
           "url": "https://open.spotify.com/artist/49FiS9ZFyKxljQsQAep1nH"
+        },
+        {
+          "name": "Local Astronauts",
+          "url": "https://open.spotify.com/artist/4spEdT2akJzTcOugrkhnLh"
         }
       ],
-      "duration_ms": 226411,
-      "name": "BUCK WILD - Radio Edit",
-      "url": "https://open.spotify.com/track/7moyxFvUkA2ScJne5GHwCW"
+      "duration_ms": 226797,
+      "name": "BUCK WILD",
+      "url": "https://open.spotify.com/track/5mruhSCt0NQmA2adGcM2Wn"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -219,6 +239,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "End",
+        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 370653,
+      "name": "Loved Ones",
+      "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Bigger Houses",
         "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
       },
@@ -235,8 +271,8 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Another One Of Me",
-        "url": "https://open.spotify.com/album/2xnqikpcvH2vBYc89VnwwL"
+        "name": "The Love Album: Off The Grid",
+        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
       },
       "artists": [
         {
@@ -258,7 +294,7 @@
       ],
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
-      "url": "https://open.spotify.com/track/3vAdBZvbr3bFBiSLT4iVap"
+      "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -299,24 +335,8 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "USA",
-        "url": "https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "USA",
-      "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Freak 54 (Freak Out)",
-        "url": "https://open.spotify.com/album/5w5ybFZ5gewy0Lb9LA9lXc"
+        "name": "Freak 54 (Freak Out) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/5ntn1tPGZZuDGoa16ACng8"
       },
       "artists": [
         {
@@ -328,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 128240,
-      "name": "Freak 54 (Freak Out)",
-      "url": "https://open.spotify.com/track/5CAaHC3rBhhZyFR7JqgPbn"
+      "duration_ms": 109779,
+      "name": "Freak 54 (Freak Out) - Sped Up Version",
+      "url": "https://open.spotify.com/track/3GBJHmYBfh911Fs8DF8ZHe"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -379,26 +399,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "americana, but lofi",
-        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
-      },
-      "artists": [
-        {
-          "name": "lonelyboy",
-          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
-        },
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "the kids aren't alright - lofi",
-      "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Dookie (30th Anniversary Outtakes)",
         "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
       },
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 169773,
-      "name": "Walking the Dog (demo) - Outtake",
-      "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
+      "duration_ms": 224800,
+      "name": "Christie Rd. - Outtake",
+      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -451,38 +451,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Dirty Diana (Metal Version)",
-        "url": "https://open.spotify.com/album/0rCS3cSTu4NJFPnzMfUk61"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 260495,
-      "name": "Dirty Diana (Metal Version)",
-      "url": "https://open.spotify.com/track/5JB0Ejgsq7Unv4JAzFPyHW"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 482744,
-      "name": "Denardirn",
-      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Good Brother",
         "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
       },
@@ -503,6 +471,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Le d\u00e9part",
+        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 175020,
+      "name": "Le d\u00e9part",
+      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Nature at Play: J.S. Bach's Cello Suite No. 1 (Live from the Great Smoky Mountains)",
         "url": "https://open.spotify.com/album/3NGKzPTT6anTfj7qb9QtYq"
       },
@@ -519,6 +507,22 @@
       "duration_ms": 153360,
       "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/3t0yleDo23gh9vEjAfDbgX"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/7g09Qn1ZsVdk4V8KusjWUn"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 226203,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -596,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 229120,
-      "name": "Wheel in the Sky - Live",
-      "url": "https://open.spotify.com/track/76HmaOtXS5qez65SNIIOiI"
+      "duration_ms": 270040,
+      "name": "Chain Reaction - Live",
+      "url": "https://open.spotify.com/track/7ADzRdI3TmUwBiHViCHCG8"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

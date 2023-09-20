@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io?si=XkStSkkaT6OkdsdKWI9kLw">Wikus Botma</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,256 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,284 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Stoutgat](https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Stoutgat](https://open.spotify.com/album/5JQbHRJ42Vhl5U3GCcpYdw) | 3:10 |
 | 50 | [Die Bokmasjien](https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK) | [Leon Schuster](https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs) | [Die Bokmasjien](https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm) | 3:46 |
 
-Snapshot ID: `MCw5NzRlNzkwYWY3ZGQ1YzAyNGY5YTE3N2MxNTc5ZTc2OTdhYjUyMzZm`
+Snapshot ID: `MCw5ZmY5MzhmYTgwMTE3YzhiY2YyNDdkNTU0ZTEyZDgwM2U2ZTc0YTA1`

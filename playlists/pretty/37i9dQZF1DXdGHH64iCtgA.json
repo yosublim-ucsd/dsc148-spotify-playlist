@@ -1,15 +1,31 @@
 {
   "description": "Strut down Etro's SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Marco De Vincenzo.",
-  "num_followers": 68283,
+  "num_followers": 68384,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2Q1MTJjZmM2ZTgzN2Y1ZjAwY2E5NzcwNjg0Y2FjMTRmODBhNjBj",
+  "snapshot_id": "MCw3NWMzZjFjN2FjNmE1ZTFkMDUxYjg5OWE5MDA2NjJiY2IzMDVlNGM0",
   "tracks": [
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
+      "album": {
+        "name": "Acqua Bagnami",
+        "url": "https://open.spotify.com/album/4BJj638K8ZAasjQw8YDEV5"
+      },
+      "artists": [
+        {
+          "name": "Santamarea",
+          "url": "https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o"
+        }
+      ],
+      "duration_ms": 308142,
+      "name": "Acqua Bagnami",
+      "url": "https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN"
+    },
+    {
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "so sad so sexy",
         "url": "https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/069LHKgjOwo1sXUztAPHIj"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Lanterns",
         "url": "https://open.spotify.com/album/6vIi2q78LUq93PhpO6VY1J"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/0BQMym4vrghWvHFDQybmRa"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Sound of Silver",
         "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
@@ -57,23 +73,7 @@
       "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
-      "album": {
-        "name": "Non Conosco Nessun Patrizio!",
-        "url": "https://open.spotify.com/album/6xPD9DwFdzmlGxI1tjPLHt"
-      },
-      "artists": [
-        {
-          "name": "Milva",
-          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Il Ballo Del Potere",
-      "url": "https://open.spotify.com/track/1Nujfh0EUJbuzm9ILrby43"
-    },
-    {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "MAGDALENE",
         "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
@@ -89,7 +89,23 @@
       "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
+      "album": {
+        "name": "Non Conosco Nessun Patrizio!",
+        "url": "https://open.spotify.com/album/6xPD9DwFdzmlGxI1tjPLHt"
+      },
+      "artists": [
+        {
+          "name": "Milva",
+          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Il Ballo Del Potere",
+      "url": "https://open.spotify.com/track/1Nujfh0EUJbuzm9ILrby43"
+    },
+    {
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "ANIMA",
         "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/2iQPembmg5KvkqXU0sd6xo"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Scacco Matto",
         "url": "https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/4rbLiyMabI4JhlLeXqb5ps"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Neo-Classic",
         "url": "https://open.spotify.com/album/4TIUQ4dDNl2Ucb6ORfZ14X"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/73mRkfeSwMxsxaa8rBCQUk"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "12000 lune",
         "url": "https://open.spotify.com/album/6FAodIEfgmPYI0sL3KEWHQ"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/2U7eXMRdFBuGIVjKRVMscb"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Girlhood, la bande originale de Bande de Filles",
         "url": "https://open.spotify.com/album/7DSHUPMJdMZ8YUTzehAzaT"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/5WUWlMYIoMvNL35vyxNvZ5"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Hideous Bastard",
         "url": "https://open.spotify.com/album/4l3zlqIjR8K1tB1b8Yyn0f"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/0Y3dpX5KtEdMknoP9DKWaL"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/5mE2RcGPPbE4gNoLB6FYPf"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Half Age EP",
         "url": "https://open.spotify.com/album/47mFpUDunR1rckC31EBT0g"
@@ -233,23 +249,7 @@
       "url": "https://open.spotify.com/track/4qEcn7up35rLRPsVXXmCzv"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
-      "album": {
-        "name": "HiRUDiN",
-        "url": "https://open.spotify.com/album/70dAWY6KDpSriewnxFngXt"
-      },
-      "artists": [
-        {
-          "name": "Austra",
-          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
-        }
-      ],
-      "duration_ms": 218449,
-      "name": "Risk It",
-      "url": "https://open.spotify.com/track/7JprUmSaMX3riuNvPLn87K"
-    },
-    {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Spectrum of Love",
         "url": "https://open.spotify.com/album/50rgN4NAnnRqFzl7TTtnQv"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/56cqmGid7J5wMyfXJzOEOd"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
         "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Ring",
         "url": "https://open.spotify.com/album/6JGrqpb1agaLvq61iWZBe0"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/72gvw1oTvv6zTK7a8o0ylO"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Feel It Break",
         "url": "https://open.spotify.com/album/7kZDvUzWaeZrvkEc3Jr1e8"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/3aY3gBVJ9rc104V1nRHiPa"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Il Quadro di Troisi",
         "url": "https://open.spotify.com/album/4jSXeII5Vv1ODLIbk2ksCZ"
@@ -349,7 +349,23 @@
       "url": "https://open.spotify.com/track/7oqgvXZ20rg8idt6xwdoQt"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
+      "album": {
+        "name": "HiRUDiN",
+        "url": "https://open.spotify.com/album/70dAWY6KDpSriewnxFngXt"
+      },
+      "artists": [
+        {
+          "name": "Austra",
+          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
+        }
+      ],
+      "duration_ms": 218449,
+      "name": "Risk It",
+      "url": "https://open.spotify.com/track/7JprUmSaMX3riuNvPLn87K"
+    },
+    {
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Merriweather Post Pavilion",
         "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "You're Too Precious",
         "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Rest",
         "url": "https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/0pfTlQJBOV4LUmF8qqrVy5"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/5bcJwBywjaz78KTf374PCb"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "gr\u00e6",
         "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/3LuaxVf1C3jAJO6kzQgbIg"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "E-Bay Queen Is Dead",
         "url": "https://open.spotify.com/album/78xdXx85GxYUezK9kGO3yd"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/04YObtYkElo3sNcr9hUe1w"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/0c9MTfnssGoNXUgmsaE5XU"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "When Love Hurts",
         "url": "https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/5PRdzrncmga9ieUFVrlE41"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "I'm on Top",
         "url": "https://open.spotify.com/album/3L1JG5XGlYjZp0IN7y8pMu"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/42xl5HtTPAiHNGzUAYC6of"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "The Other Lover (Little Dragon & Moses Sumney)",
         "url": "https://open.spotify.com/album/5aCUZAQz1bDC3txTnqDm5N"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Lost River Original Motion Picture Score",
         "url": "https://open.spotify.com/album/0u5okKZvztQ0ciPxcJ2zLa"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/0NSSZTpUoEtA8b0j1WtuvY"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Chris",
         "url": "https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/4UH4lWuTEs9r8W0ZkJ5heS"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
@@ -577,55 +593,7 @@
       "url": "https://open.spotify.com/track/1EvFahLuLZ0vSVZo8YR3G9"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
-      "album": {
-        "name": "Anika",
-        "url": "https://open.spotify.com/album/2T0Sr4KCGXEuhd0bGhvrdL"
-      },
-      "artists": [
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "I Go To Sleep",
-      "url": "https://open.spotify.com/track/5Vh9M3spmCbDewUZxUmwlH"
-    },
-    {
-      "added_at": "2023-09-07 04:00:00",
-      "album": {
-        "name": "Electric Lines (Bonus Edition)",
-        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 357401,
-      "name": "Electric Lines",
-      "url": "https://open.spotify.com/track/2WLaRlaBmBHL6dqaovdO0m"
-    },
-    {
-      "added_at": "2023-09-07 04:00:00",
-      "album": {
-        "name": "Bunny",
-        "url": "https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo"
-      },
-      "artists": [
-        {
-          "name": "Matthew Dear",
-          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
-        }
-      ],
-      "duration_ms": 300680,
-      "name": "Modafinil Blues",
-      "url": "https://open.spotify.com/track/4No4T12hxjiPsOqUtN5HVU"
-    },
-    {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "When Love Hurts",
         "url": "https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP"
@@ -641,7 +609,55 @@
       "url": "https://open.spotify.com/track/7eKebagU8RXRnPitSnd3hT"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
+      "album": {
+        "name": "Anika",
+        "url": "https://open.spotify.com/album/2T0Sr4KCGXEuhd0bGhvrdL"
+      },
+      "artists": [
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "I Go To Sleep",
+      "url": "https://open.spotify.com/track/5Vh9M3spmCbDewUZxUmwlH"
+    },
+    {
+      "added_at": "2023-09-20 00:01:00",
+      "album": {
+        "name": "Electric Lines (Bonus Edition)",
+        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 357401,
+      "name": "Electric Lines",
+      "url": "https://open.spotify.com/track/2WLaRlaBmBHL6dqaovdO0m"
+    },
+    {
+      "added_at": "2023-09-20 00:01:00",
+      "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo"
+      },
+      "artists": [
+        {
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+        }
+      ],
+      "duration_ms": 300680,
+      "name": "Modafinil Blues",
+      "url": "https://open.spotify.com/track/4No4T12hxjiPsOqUtN5HVU"
+    },
+    {
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Temp\u00e9raments",
         "url": "https://open.spotify.com/album/07oac8ZypPw4d1VtOmxknA"
@@ -657,7 +673,23 @@
       "url": "https://open.spotify.com/track/58CYcQHLke4WHv6usQplh0"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/0IISH2eLnsPMmjjNwZEElq"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Shades of Blue",
+      "url": "https://open.spotify.com/track/47JVgLUOFUp4iZ60wR5nv2"
+    },
+    {
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Butterfly (Remixes)",
         "url": "https://open.spotify.com/album/3TAsLhBSwjq9iZWvp49jAG"
@@ -677,7 +709,7 @@
       "url": "https://open.spotify.com/track/1KQtHHc9UQ5qcouSGd8l2i"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
@@ -693,7 +725,7 @@
       "url": "https://open.spotify.com/track/3jks0Wb2Pnq981bSX3X44x"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Cuore di Mamma - Mother's Heart (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/354OTWPlr0SbFKnZJsNu8K"
@@ -709,7 +741,7 @@
       "url": "https://open.spotify.com/track/0p6pIexL8DXGPy5qxfc8jF"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Topical Dancer",
         "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
@@ -729,23 +761,7 @@
       "url": "https://open.spotify.com/track/6cQKCdlyFHGQkvXLnBx7g2"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
-      "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/0IISH2eLnsPMmjjNwZEElq"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Shades of Blue",
-      "url": "https://open.spotify.com/track/47JVgLUOFUp4iZ60wR5nv2"
-    },
-    {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Monument ordinaire",
         "url": "https://open.spotify.com/album/5iQxynqu3B2KR3XsrU0HrK"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/69zQBZWWiWre2N7AneiVBc"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Cardan",
         "url": "https://open.spotify.com/album/3X7EL2ektk2cUqmXBwIQGO"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/2niXWS7JOhbUm5oI2awwYE"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Gaspard va au mariage (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1234JRNDutF84RmOBE1cLS"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/63UOCLFLRT2fA31DH1JOx3"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Entertnmnt",
         "url": "https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/09ocYTOuaUDAhwshSAYILr"
@@ -829,23 +845,7 @@
       "url": "https://open.spotify.com/track/6HH5YsdUL9p3EpPpHAjIHK"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
-      "album": {
-        "name": "Charlotte Adig\u00e9ry",
-        "url": "https://open.spotify.com/album/5essRp10ttUIJXwlwNcGNH"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Adig\u00e9ry",
-          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
-        }
-      ],
-      "duration_ms": 358792,
-      "name": "1,618",
-      "url": "https://open.spotify.com/track/5LH6z8sYZ6gQ4xOxSWwvvy"
-    },
-    {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Kelly Lee Owens",
         "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/0ATFMjLib1XaK01KibIyLj"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "&",
         "url": "https://open.spotify.com/album/0NkBeWqvEa5VnniPUCk4UW"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/0kVrNcwLbPFYoPCHSLDc7M"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Tunes 2011-2019",
         "url": "https://open.spotify.com/album/4X4cmhqFm50dk6LyTtLuv6"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/24mRY501qetRyl5wtLVP87"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Magic Oneohtrix Point Never",
         "url": "https://open.spotify.com/album/5o7JAhPyjgxKUsJH0PpwwZ"
@@ -913,7 +913,23 @@
       "url": "https://open.spotify.com/track/0OPKI821InjaDvWnAt2Mal"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
+      "album": {
+        "name": "Charlotte Adig\u00e9ry",
+        "url": "https://open.spotify.com/album/5essRp10ttUIJXwlwNcGNH"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Adig\u00e9ry",
+          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        }
+      ],
+      "duration_ms": 358792,
+      "name": "1,618",
+      "url": "https://open.spotify.com/track/5LH6z8sYZ6gQ4xOxSWwvvy"
+    },
+    {
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Adieux Au Dancefloor",
         "url": "https://open.spotify.com/album/6mdIs3bkdfUTmRdkFEmQMc"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/23bfFo3YUywjPKONLr2GN1"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Still Night, Still Light",
         "url": "https://open.spotify.com/album/6meVSNjMZXTYr19bNtSYK8"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/7mW8ul2VqE6O9oBSuaxnlf"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/2q78xap5Jv3j3Do0VIasVZ"
@@ -961,7 +977,7 @@
       "url": "https://open.spotify.com/track/2cr4hBM1L966JNlaNdkpRL"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Omnion",
         "url": "https://open.spotify.com/album/0dhWdoFP6zgSavj2jcNCr3"
@@ -981,7 +997,7 @@
       "url": "https://open.spotify.com/track/3Hs30mGDpRG1uqkTYjSEJ8"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/0b7kSCIX3vzGQSekOQKpOC"
@@ -1001,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5Pirg3m910jqAZOHIcAiVn"
     },
     {
-      "added_at": "2023-09-07 04:00:00",
+      "added_at": "2023-09-20 00:01:00",
       "album": {
         "name": "Indirizzo portoghese (15TH anniversary edition)",
         "url": "https://open.spotify.com/album/278MQ4EIMVpnB2QlmQrFEX"

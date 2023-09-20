@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 892625,
+  "num_followers": 892668,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTdiNDQ0OTkwZmJmNDZiZGVjNTJjYjVlNGIzMWFiYjg4ZjgyNzg2",
+  "snapshot_id": "MCw3MmYzNDRlMTVmNWM5ZTlmMDU0ZjFmZjY1YTMzMDNhZmQwZjU4YTEx",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -215,22 +215,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Pour Your Heart Out (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         }
       ],
-      "duration_ms": 223561,
-      "name": "Pour Your Heart Out (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+      "duration_ms": 239853,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -275,18 +271,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H"
+        "name": "Pour Your Heart Out (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 239853,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
+      "duration_ms": 223561,
+      "name": "Pour Your Heart Out (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 210017,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "BRAVE",
-        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
-      },
-      "artists": [
-        {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "DAMN",
-      "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Only Be Me",
+        "url": "https://open.spotify.com/album/18jDao69dC593MEAZheoyA"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 208285,
+      "name": "Only Be Me",
+      "url": "https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 244302,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Only Be Me",
-        "url": "https://open.spotify.com/album/18jDao69dC593MEAZheoyA"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 208285,
-      "name": "Only Be Me",
-      "url": "https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Animal Vegetable Mineral Pt. 1",
-        "url": "https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w"
-      },
-      "artists": [
-        {
-          "name": "Doctor P",
-          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Flying Spaghetti Monster",
-      "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 127900,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Animal Vegetable Mineral Pt. 1",
+        "url": "https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Flying Spaghetti Monster",
+      "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1571,30 +1571,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Lights Go Down (Peekaboo Remix)",
-        "url": "https://open.spotify.com/album/5dqobhABvWXbytvUKbPpnB"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        }
-      ],
-      "duration_ms": 325720,
-      "name": "Lights Go Down - Peekaboo Remix",
-      "url": "https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "High Like This",
         "url": "https://open.spotify.com/album/1AHQrn7hhAuNghkFtCXEnD"
       },
@@ -1615,6 +1591,30 @@
       "duration_ms": 192725,
       "name": "High Like This",
       "url": "https://open.spotify.com/track/3Ukb1tpAsQOdUSVKAW94Cj"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Lights Go Down (Peekaboo Remix)",
+        "url": "https://open.spotify.com/album/5dqobhABvWXbytvUKbPpnB"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "duration_ms": 325720,
+      "name": "Lights Go Down - Peekaboo Remix",
+      "url": "https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1727,26 +1727,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "WukiWorld",
-        "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Snappy Jit",
-          "url": "https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY"
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
         }
       ],
-      "duration_ms": 118522,
-      "name": "Chicken Wang",
-      "url": "https://open.spotify.com/track/30DR47jeEqFXbZ7ezJ37Xs"
+      "duration_ms": 121007,
+      "name": "Red Ish",
+      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1771,18 +1763,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+        "name": "WukiWorld",
+        "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
       "artists": [
         {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Snappy Jit",
+          "url": "https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY"
         }
       ],
-      "duration_ms": 121007,
-      "name": "Red Ish",
-      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
+      "duration_ms": 118522,
+      "name": "Chicken Wang",
+      "url": "https://open.spotify.com/track/30DR47jeEqFXbZ7ezJ37Xs"
     },
     {
       "added_at": "2023-09-01 04:00:00",

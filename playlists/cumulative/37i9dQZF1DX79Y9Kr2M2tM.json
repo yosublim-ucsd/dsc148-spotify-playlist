@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 121590,
       "name": "Filthy Rich",
       "url": "https://open.spotify.com/track/13VxOPr7t6Ou4Hrh0t7oA5"
@@ -2444,6 +2444,24 @@
       "duration_ms": 256261,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/5YWJYToSH7vZ98r5PS3y6j"
+    },
+    {
+      "album": {
+        "name": "Pistol Shrimp",
+        "url": "https://open.spotify.com/album/5teivAr6a0JL0H36dIwRyf"
+      },
+      "artists": [
+        {
+          "name": "Hanging Valleys",
+          "url": "https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Pistol Shrimp",
+      "url": "https://open.spotify.com/track/5M1hoIZLs9cSOihCgUTJjT"
     },
     {
       "album": {

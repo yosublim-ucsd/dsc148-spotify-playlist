@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: quentinn®
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,093 likes - 103 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,102 likes - 103 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 36 | [Witch](https://open.spotify.com/track/1DAlrq5j3Y6eVburtC4K1I) | [milos](https://open.spotify.com/artist/6SqVZR2beS3E0tzj6LTSn6) | [Witch](https://open.spotify.com/album/0VAsugkwDAl2fs8spQLdoY) | 4:07 |
 | 37 | [Independent Artist](https://open.spotify.com/track/02Dtp1urMF9P3Lv0zQlEal) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [Independent Artist](https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC) | 3:14 |
 | 38 | [轉個身擁抱](https://open.spotify.com/track/4Lr6oJWXDw4dH9j6Gx9DKr) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [轉個身擁抱](https://open.spotify.com/album/4Bxi1DFRqMZ4ZgZup60baS) | 3:57 |
-| 39 | [羊 \(feat\. TXMIYAMA\)](https://open.spotify.com/track/0mlV6AhzUdpW3jc5WvU3ux) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS), [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw) | [Oh my.](https://open.spotify.com/album/3kdzxVZUeTJxf4F9Ud263O) | 2:38 |
+| 39 | [羊 \(feat\. TXMIYAMA\)](https://open.spotify.com/track/0mlV6AhzUdpW3jc5WvU3ux) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS) | [Oh my.](https://open.spotify.com/album/3kdzxVZUeTJxf4F9Ud263O) | 2:38 |
 | 40 | [轆轆 \- World Vision \- Let the Hungry Be Heard 原創歌曲](https://open.spotify.com/track/3Mhzxp8xj5dhRZUNqrl0Lw) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [轆轆 \(World Vision \- Let the Hungry Be Heard 原創歌曲\)](https://open.spotify.com/album/1MdzZQ2Ol5653dDLYxwE3A) | 2:01 |
 | 41 | [FALL4U](https://open.spotify.com/track/2J8wZHOeDCvGc3ePzgRCXE) | [HEi\-Z](https://open.spotify.com/artist/2En6rTX3nAc3ZW4VtDAsrX), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [POIZON 777](https://open.spotify.com/album/3GdKZ0H6MdNLNxIn6qdse8) | 3:30 |
 | 42 | [fOoL\#\#](https://open.spotify.com/track/3mYyUU2ZXDtA9I0YG8zWpi) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [fOoL\#\#](https://open.spotify.com/album/73L9KxkHzTRg4QSUXYMMG9) | 2:43 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 102 | [Last Summer](https://open.spotify.com/track/3X9pggRCXEN57mhhbQj0Tt) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj), [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T), [Cho Lewis](https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa) | [Last Summer](https://open.spotify.com/album/1sRtwQC7tPZAmyRvVB0cFq) | 4:18 |
 | 103 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCxhMWZiNzZhNzUwZjYwNzNiZjRmYWZjNzMyNGRiYTRmOGQwZjgzYjhh`
+Snapshot ID: `MCw2YzVmZmNiNDE4YzRlYjJkZWNjNjcxYWM5ZGI1NGIzZTNjY2ZkM2M0`

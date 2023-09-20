@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,750 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,791 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 30 | [Adiós](https://open.spotify.com/track/4t0NpSFPaxdhIPgMf6ZPls) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [L\-Pop](https://open.spotify.com/album/5LnfoTa3gu4CS1tY6aecDN) | 3:08 |
 | 31 | [La Custodia](https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [La Custodia](https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb) | 3:47 |
 | 32 | [Saico](https://open.spotify.com/track/1O6C6BFlZQ9QLzn8yY8uHG) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Saico](https://open.spotify.com/album/112KC0njtpo0OmNXsqnpUu) | 3:40 |
-| 33 | [Blam Blam \- Versión Video Oficial](https://open.spotify.com/track/7eLXViatmXsyZ0LXyzVGOZ) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Blam Blam \(Versión Video Oficial\)](https://open.spotify.com/album/0NcksgOJ0Me9wELFREIczu) | 6:28 |
+| 33 | [Blam Blam \- Versión Video Oficial](https://open.spotify.com/track/7eLXViatmXsyZ0LXyzVGOZ) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Blam Blam \(Versión Video Oficial\)](https://open.spotify.com/album/0NcksgOJ0Me9wELFREIczu) | 6:28 |
 | 34 | [Heisenbern](https://open.spotify.com/track/6xA4c9bG8Eqrzf8rT167Ai) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Heisenbern](https://open.spotify.com/album/7zmMr2oxWs6WCWUtncO64t) | 3:09 |
 | 35 | [CIUDAD DE CAMPEONES \(LAFC\)](https://open.spotify.com/track/7kjPoIyDOj4y98PTtWL7Nn) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [DJ FLICT](https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX), [Bobby Castro](https://open.spotify.com/artist/4ihFcvdNSlB6Likn7JXeuO) | [CIUDAD DE CAMPEONES \(LAFC\)](https://open.spotify.com/album/5A3QkurHrx7qKz2yrvYAgt) | 2:41 |
 | 36 | [Me Sacas](https://open.spotify.com/track/6vJtAViJFjIZce8RcYfBkH) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [G4BBA](https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd), [Gavss](https://open.spotify.com/artist/0qEqW7rr1VRG15q2iZiSMc) | [Me Sacas](https://open.spotify.com/album/2bI2PWT9He2tBtmfeCjJrI) | 2:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [XXX STAR](https://open.spotify.com/track/4zIIv3QrCunhm4jEJrEl2R) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Izzy](https://open.spotify.com/artist/3lx9s0PztiAJYkM0RLD8kC) | [XXX STAR](https://open.spotify.com/album/7GP0XlzmjsIdGM51mOuwLF) | 3:00 |
 | 51 | [MARTILLAN](https://open.spotify.com/track/4NqwHco5pomh97kVFSGUKS) | [Joa & Jalys](https://open.spotify.com/artist/4Qypd98pOg4Lp2kCxXBic9) | [MARTILLAN](https://open.spotify.com/album/521QVQUQRpt2KCraRvPGcP) | 2:26 |
 
-Snapshot ID: `MCw0Y2I1NGExNTIwNGYwNzkzOWRiNzgxNGZjNGJmZWNmNTViNGQ0NGQx`
+Snapshot ID: `MCw3NTBhMzExN2NjYzg3YTRlNzExYjdiNzE2NTY0NzU0ZTgwNTQzY2Vh`

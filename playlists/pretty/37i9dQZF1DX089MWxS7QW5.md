@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Moon Sujin\(문수진\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,464 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,529 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Lay me by your side \(feat\. JoOhA & Still\)](https://open.spotify.com/track/4UFUYZeFSxlmMMuwxAD8Qq) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [JoOhA](https://open.spotify.com/artist/3hkgIaHRJ0slOoCa8zUFVX), [Still](https://open.spotify.com/artist/6IbdxPqmhxU87FC6GneXxX) | [You are my spring](https://open.spotify.com/album/3r6HeTeQd7JlGmuhhiGwGe) | 2:46 |
 | 50 | [Tonite](https://open.spotify.com/track/1RQ5RNrzQ5BD3X8idn8KOQ) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Tonite](https://open.spotify.com/album/60TEBgKHLlYS86WTewsbuZ) | 3:09 |
 
-Snapshot ID: `MCw5OTE3ZWVmMWMxODk3ZTFmMGNhNTA1NzEwZjU5ZGQyMzM1MWU3YWJl`
+Snapshot ID: `MCxmZDhhYWIyNTdhODFjZDcyYjc0ZGZmMWM4ODE4ODVjMmFiMTU4OTJk`

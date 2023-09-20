@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-822 songs - 1 day 22 hr 59 min
+823 songs - 1 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Boi](https://open.spotify.com/track/10R7Djb6myvWfSGEsERTOI) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Boi](https://open.spotify.com/album/5Xsomj7rG5iSv8Qk3qK6KR) | 2:55 | 2022-10-04 | 2022-10-21 |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-01-11 |  |
 | [Bottoms call](https://open.spotify.com/track/2rqlkkVdR9j1HkSKafirod) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [FIZZY POP SYNDROME](https://open.spotify.com/album/60JxpX2186DBSffWf0HDpk) | 3:30 | 2022-06-16 | 2022-06-22 |
-| [Boukenroku](https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Boukenroku](https://open.spotify.com/album/1CAQgaomrrnWrQ7FvnjeqL) | 3:47 | 2023-08-15 |  |
+| [Boukenroku](https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Boukenroku](https://open.spotify.com/album/1CAQgaomrrnWrQ7FvnjeqL) | 3:47 | 2023-08-15 | 2023-09-20 |
 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 | 2022-06-16 | 2023-02-07 |
 | [BURU](https://open.spotify.com/track/1pJPzYGmUJF92NRelGfyIn) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Buru](https://open.spotify.com/album/0hXRW6dvSRdOt2OHcQOjh6) | 4:07 | 2022-06-09 | 2022-06-12 |
 | [Butterfly](https://open.spotify.com/track/1kJGuGXY4YUKD2I5UpnzZ6) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Butterfly](https://open.spotify.com/album/4JZgEloxGusyotoEfxPgaO) | 3:21 | 2022-10-25 | 2022-11-16 |
@@ -648,6 +648,7 @@
 | [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2023-02-14 | 2023-02-16 |
 | [愛くるしい](https://open.spotify.com/track/7KxMETuGfHLNuSIjmioXMw) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [愛くるしい](https://open.spotify.com/album/1HvyZrbkhKUvkhlH63o83e) | 3:29 | 2022-06-21 | 2022-06-29 |
 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 | 2023-01-05 | 2023-07-07 |
+| [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 | 2023-09-19 |  |
 | [抜刀 \(feat\. 花譜\)](https://open.spotify.com/track/3diUXDfx20uzySBCK3k9PZ) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [抜刀 \(feat\. 花譜\)](https://open.spotify.com/album/0kkMNmUqS0alqVxclf3Xho) | 3:34 | 2022-07-05 | 2022-07-23 |
 | [抱きしめたいほど美しい日々に](https://open.spotify.com/track/3HPZXJVEnxULarjQ2E61cY) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [抱きしめたいほど美しい日々に](https://open.spotify.com/album/1PFxujzYb1SjAaj9CubTIf) | 3:05 | 2022-06-09 | 2022-07-27 |
 | [推しと結婚したくてしぬ!](https://open.spotify.com/track/5A2MP7c9jAxMPSP7LwBbox) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [推しと結婚したくてしぬ!](https://open.spotify.com/album/3XJ9PoIpGyOKwJR2qA4PmC) | 2:04 | 2022-07-14 | 2022-07-20 |

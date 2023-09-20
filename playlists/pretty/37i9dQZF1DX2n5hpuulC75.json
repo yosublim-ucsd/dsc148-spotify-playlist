@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 258241,
+  "num_followers": 258271,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDQ1YjVlZmMwNDAwNzlmOTYxNDU3YWE0M2YwNmVkZmIyZTZkZDM1",
+  "snapshot_id": "MCxjM2FiMTc4MmIyZTc2NjQ4MTRjNzg1ZmNiMzE2MzFhN2NlNWE1ZWY2",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -387,22 +387,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Ayahuasca",
-        "url": "https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 508601,
-      "name": "Ayahuasca",
-      "url": "https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "When U Go",
-        "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
+        "name": "Ayahuasca",
+        "url": "https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6"
       },
       "artists": [
         {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         }
       ],
-      "duration_ms": 212724,
-      "name": "When U Go - Edit",
-      "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
+      "duration_ms": 508601,
+      "name": "Ayahuasca",
+      "url": "https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -447,6 +431,22 @@
       "duration_ms": 225360,
       "name": "Bet She Looks Like You",
       "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "When U Go",
+        "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 212724,
+      "name": "When U Go - Edit",
+      "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
-    },
-    {
       "added_at": "2019-09-16 15:44:25",
       "album": {
         "name": "Baby You Can Free Your Mind",
@@ -619,6 +603,22 @@
       "duration_ms": 335180,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/0id4OAtEVPbvZHLuTErrF0"
+      },
+      "artists": [
+        {
+          "name": "Hazey Eyes",
+          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "They Came Along",
         "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 357894,
       "name": "They Came Along",
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Backwater",
-        "url": "https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"
-      },
-      "artists": [
-        {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
-        }
-      ],
-      "duration_ms": 254010,
-      "name": "Nylon",
-      "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
     }
   ],
   "unique_name": "Mellow Mood",

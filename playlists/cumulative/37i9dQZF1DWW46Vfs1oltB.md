@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Huh\(허성현\)\)
 
-993 songs - 2 day 6 hr 34 min
+994 songs - 2 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,6 +914,7 @@
 | [us \(feat\. meenoi\)](https://open.spotify.com/track/2qcAEHuRQRtnmMMroqpgdB) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [us](https://open.spotify.com/album/1oz79lymQckAylxWIoecPg) | 3:48 | 2021-12-18 | 2022-07-02 |
 | [V CYPHER 2021](https://open.spotify.com/track/0XfaVKXUsWCGy9MLunRzUj) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Wutan](https://open.spotify.com/artist/6X4GGufs8OhbUC1fy1xuUn), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [Odee](https://open.spotify.com/artist/6cXolDFPOgf0wuRe5kMPxo), [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z) | [V CYPHER 2021](https://open.spotify.com/album/4fzAscJBrtkwuk0dypkHZI) | 7:14 | 2021-12-29 | 2022-07-05 |
 | [Vancouver](https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:36 | 2022-06-18 | 2022-08-13 |
+| [Vancouver 2](https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Vancouver 2](https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq) | 3:22 | 2023-09-19 |  |
 | [Victory](https://open.spotify.com/track/1N4m5I7HVLcL7Jr6jTyHuK) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Victory](https://open.spotify.com/album/7qO83BG110baknRcJDa6FI) | 3:35 | 2022-07-04 | 2022-10-04 |
 | [Voice](https://open.spotify.com/track/6ppmBAKbIkivD5vBsTiCT3) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 1:56 | 2023-05-24 | 2023-06-01 |
 | [Vroom \(Feat\. lIlBOI, Swings\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/5a3aBxwQjcZfT1Qswlc1cK) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 4:10 | 2022-12-25 | 2023-07-18 |

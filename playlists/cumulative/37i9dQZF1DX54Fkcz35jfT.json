@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u6625\u306d\u3080\u308a",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: NOISEMAKER",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "GOLD IMPRINTS",
+        "url": "https://open.spotify.com/album/0u4T0jMskpSiQO0mrw6TNK"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241944,
+      "name": "MAE",
+      "url": "https://open.spotify.com/track/0YgGz6kZcMw4QXq2IM6tAE"
+    },
+    {
+      "album": {
         "name": "MAGIC TIME / CREEPSHOW",
         "url": "https://open.spotify.com/album/1LdYc6r9E8RKlTShRs0myy"
       },
@@ -1293,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "A YEAR OF STRENGTH",
+        "url": "https://open.spotify.com/album/1uorBMQ4jsjiHv4sqdSUTp"
+      },
+      "artists": [
+        {
+          "name": "TOTALFAT",
+          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182826,
+      "name": "New Shit",
+      "url": "https://open.spotify.com/track/6YKn5ACbOOiZ1sm6qQoT7O"
+    },
+    {
+      "album": {
         "name": "of course",
         "url": "https://open.spotify.com/album/68hagxENiIaUNAprO75WGC"
       },
@@ -1358,7 +1394,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 246561,
       "name": "ONESTAR",
       "url": "https://open.spotify.com/track/0pIOcDlY4pFwNarTwkyRDY"
@@ -1997,6 +2033,28 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ"
+      },
+      "artists": [
+        {
+          "name": "AFJB",
+          "url": "https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj"
+        },
+        {
+          "name": "MUD",
+          "url": "https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247472,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88"
+    },
+    {
+      "album": {
         "name": "True Self",
         "url": "https://open.spotify.com/album/1uiHPKRGpdwSeBjqcBo9Ng"
       },
@@ -2120,7 +2178,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 114505,
       "name": "We're ready",
       "url": "https://open.spotify.com/track/7zGhee4uS7rMR0or1PEHVB"

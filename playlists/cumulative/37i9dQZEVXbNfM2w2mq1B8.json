@@ -3324,7 +3324,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "Capo Di Tutti Capi",
       "url": "https://open.spotify.com/track/1nTivkmTADTOu1UJwghpXv"
@@ -5836,7 +5836,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 339960,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/1Wc540B74tn2yPUEDBJaST"
@@ -6780,7 +6780,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 171757,
       "name": "For You",
       "url": "https://open.spotify.com/track/0ycXEADE6ra6nW7cJgX5Qm"
@@ -7406,7 +7406,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 270495,
       "name": "Gonka",
       "url": "https://open.spotify.com/track/1HhDpamkdO5DK65VjAmxBf"
@@ -10780,7 +10780,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -11404,7 +11404,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 189036,
       "name": "Luv Me Now",
       "url": "https://open.spotify.com/track/16UPxqGDJj2X41vsDMR3Qa"
@@ -13728,7 +13728,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 215771,
       "name": "Nqma Kak",
       "url": "https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi"
@@ -23469,6 +23469,32 @@
     },
     {
       "album": {
+        "name": "\u041d\u0430 \u041c\u043e\u0434\u0430",
+        "url": "https://open.spotify.com/album/1VP0vOtVfdYvRYqI9OfHtI"
+      },
+      "artists": [
+        {
+          "name": "Torino",
+          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
+        },
+        {
+          "name": "Pashata",
+          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
+        },
+        {
+          "name": "Ustata",
+          "url": "https://open.spotify.com/artist/6sGqL21vegtgNafT0a7W8q"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "\u041d\u0430 \u041c\u043e\u0434\u0430",
+      "url": "https://open.spotify.com/track/3F7iGkKi1UzevYNYUBlMV8"
+    },
+    {
+      "album": {
         "name": "\u041d\u0430\u0432\u0438\u043a",
         "url": "https://open.spotify.com/album/1E3PkOLbBMyFtLqL1e8u1Z"
       },
@@ -23682,7 +23708,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 177357,
       "name": "\u041d\u0435\u043a\u0430 \u0437\u0430\u0431\u0440\u0430\u0432\u044f",
       "url": "https://open.spotify.com/track/5rKayZly6BtezmKKs0uaSe"
@@ -24130,7 +24156,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 201790,
       "name": "\u041f\u043e\u043b\u0443\u0434\u044f\u0445",
       "url": "https://open.spotify.com/track/5SVhcxTgaQjQZBg8bFWiAV"

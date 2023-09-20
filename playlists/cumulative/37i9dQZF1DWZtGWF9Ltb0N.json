@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Boi",
+        "url": "https://open.spotify.com/album/2EpK3T7VOSuuJeFWGsdqof"
+      },
+      "artists": [
+        {
+          "name": "Abelation",
+          "url": "https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "Boi",
+      "url": "https://open.spotify.com/track/7aCc1Qi6GLpzR3yOzgGJnl"
+    },
+    {
+      "album": {
         "name": "Unreleased Classics. Vol.2 2004-2006",
         "url": "https://open.spotify.com/album/4t4cgkh5JyDnl3lyD8RliW"
       },
@@ -9632,7 +9650,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 251571,
       "name": "Wriggle",
       "url": "https://open.spotify.com/track/3EW5sNOYG0NoiYDYBX3GTD"

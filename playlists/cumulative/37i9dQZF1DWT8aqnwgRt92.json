@@ -103,6 +103,50 @@
     },
     {
       "album": {
+        "name": "1000\u5e74\u611b",
+        "url": "https://open.spotify.com/album/5nqpf4XFM9KhU8EYhW2I7n"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u5ddd\u5343\u611b",
+          "url": "https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318229,
+      "name": "1000\u5e74\u611b",
+      "url": "https://open.spotify.com/track/1Lo6vGRaUV5ZIMgZk8xSFx"
+    },
+    {
+      "album": {
+        "name": "A lonely night \uff5e\u3072\u3068\u308a\u307c\u3063\u3061\u306eGet Wild\uff5e",
+        "url": "https://open.spotify.com/album/7Av4wZIVDisfPaIzarh3UC"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u30a2\u30a4\u30cb\u30fc",
+          "url": "https://open.spotify.com/artist/1PqSi9Rgp6H0LhdCefCyPi"
+        },
+        {
+          "name": "RED",
+          "url": "https://open.spotify.com/artist/5bVJRJd9mUtOh6b1sxM9gb"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239813,
+      "name": "A lonely night \uff5e\u3072\u3068\u308a\u307c\u3063\u3061\u306eGet Wild\uff5e",
+      "url": "https://open.spotify.com/track/2HqmDb5HE9W9bh15VRZCHw"
+    },
+    {
+      "album": {
         "name": "A NEW DAY",
         "url": "https://open.spotify.com/album/2Ng7IKU01WIZL0NkjYbr5q"
       },
@@ -5955,6 +5999,24 @@
     },
     {
       "album": {
+        "name": "NOTE",
+        "url": "https://open.spotify.com/album/1wzThfYPTKwVnLPmIRiKOt"
+      },
+      "artists": [
+        {
+          "name": "\u4ef2\u6751\u5b97\u609f",
+          "url": "https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254879,
+      "name": "NOTE",
+      "url": "https://open.spotify.com/track/3uV183mN6huX2bG1cQaEql"
+    },
+    {
+      "album": {
         "name": "ENDING THEME NUISANCE FROM TV SERIES \u201dSPY CLASSROOM\u201d 2ND SEASON",
         "url": "https://open.spotify.com/album/3d8jNva9LVnONzcOPuRMh4"
       },
@@ -7386,7 +7448,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 213793,
       "name": "SIGN IS B - AI SOLO VER.",
       "url": "https://open.spotify.com/track/7382VXbagXQiuxHc7uFZr5"
@@ -7422,7 +7484,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 222466,
       "name": "Sing a song together",
       "url": "https://open.spotify.com/track/2QYXjGOfahFNABoNSmMXwS"
@@ -8938,7 +9000,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 344413,
       "name": "Weight of the World/Kowareta Sekai no Uta - From CrosSing",
       "url": "https://open.spotify.com/track/45GCLrLOLkphfCNidiJPG4"
@@ -11588,7 +11650,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 223033,
       "name": "\u30c6\u30ec\u30dd\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/0RX8Z1fQQrXVJ7obomHWTT"
@@ -13898,6 +13960,24 @@
       "duration_ms": 241426,
       "name": "\u5922\u60f3\u7684\u30af\u30ed\u30cb\u30af\u30eb",
       "url": "https://open.spotify.com/track/1gCtuZ1H0PbzBkNY1UIx6n"
+    },
+    {
+      "album": {
+        "name": "\u5922\u73fe\u3001\u590f\u98a8\u85ab\u308b",
+        "url": "https://open.spotify.com/album/54cPWGbDrhtKQ6p7idmprT"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u539f\u5cb3\u4eba",
+          "url": "https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270400,
+      "name": "\u5922\u73fe\u3001\u590f\u98a8\u85ab\u308b",
+      "url": "https://open.spotify.com/track/5btlspRyO7f9Zvbiosu0KN"
     },
     {
       "album": {

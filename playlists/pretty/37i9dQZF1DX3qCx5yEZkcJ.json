@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1491570,
+  "num_followers": 1491560,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2E4YWIyYzc1ZDg1ZGEwYzIyNjFhM2VjMGQzMWE0NTI2NTYyOGZj",
+  "snapshot_id": "MCw5N2M3NDI3MDg5ZDgyMjU0NTg1YWViZjY0N2U2ZDc1ZjljODZiN2Q2",
   "tracks": [
     {
       "added_at": "2023-08-31 15:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Cadillac Mountain",
-        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
+        "name": "Easy Feet",
+        "url": "https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh"
       },
       "artists": [
         {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+          "name": "Smartface",
+          "url": "https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym"
         }
       ],
-      "duration_ms": 103255,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+      "duration_ms": 116893,
+      "name": "Too Tired",
+      "url": "https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Easy Feet",
-        "url": "https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh"
+        "name": "Cadillac Mountain",
+        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
       },
       "artists": [
         {
-          "name": "Smartface",
-          "url": "https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym"
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
         }
       ],
-      "duration_ms": 116893,
-      "name": "Too Tired",
-      "url": "https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7"
+      "duration_ms": 103255,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
+        "name": "Tender Rose",
+        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 202938,
+      "name": "Tender Rose",
+      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
         "name": "EVOKE",
         "url": "https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Tender Rose",
-        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 202938,
-      "name": "Tender Rose",
-      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 88000,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
-        "name": "Busy Bird",
-        "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
-      },
-      "artists": [
-        {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
-        },
-        {
-          "name": "Mirror Box",
-          "url": "https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F"
-        }
-      ],
-      "duration_ms": 130964,
-      "name": "Busy Bird",
-      "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1119,22 +1099,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Couch Business",
-        "url": "https://open.spotify.com/album/6AR8RyloFDRFf30SCzPB3x"
+        "name": "Busy Bird",
+        "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
       },
       "artists": [
         {
-          "name": "FLKS",
-          "url": "https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0"
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
         },
         {
-          "name": "Shuko",
-          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+          "name": "Mirror Box",
+          "url": "https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F"
         }
       ],
-      "duration_ms": 104506,
-      "name": "Fog\u00e0o Love",
-      "url": "https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y"
+      "duration_ms": 130964,
+      "name": "Busy Bird",
+      "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1159,22 +1139,42 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Bopatron",
-        "url": "https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg"
+        "name": "Couch Business",
+        "url": "https://open.spotify.com/album/6AR8RyloFDRFf30SCzPB3x"
       },
       "artists": [
         {
-          "name": "Cloudchord",
-          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
+          "name": "FLKS",
+          "url": "https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0"
         },
         {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
         }
       ],
-      "duration_ms": 196235,
-      "name": "Bopatron",
-      "url": "https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6"
+      "duration_ms": 104506,
+      "name": "Fog\u00e0o Love",
+      "url": "https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "White Tea",
+        "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
+      },
+      "artists": [
+        {
+          "name": "Styn",
+          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
+        },
+        {
+          "name": "Bertholet",
+          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
+        }
+      ],
+      "duration_ms": 88279,
+      "name": "White Tea",
+      "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "White Tea",
-        "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
+        "name": "Bopatron",
+        "url": "https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg"
       },
       "artists": [
         {
-          "name": "Styn",
-          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
+          "name": "Cloudchord",
+          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
         },
         {
-          "name": "Bertholet",
-          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
         }
       ],
-      "duration_ms": 88279,
-      "name": "White Tea",
-      "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
+      "duration_ms": 196235,
+      "name": "Bopatron",
+      "url": "https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6"
     },
     {
       "added_at": "2023-08-31 15:00:00",

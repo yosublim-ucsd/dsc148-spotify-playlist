@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: Mother Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,177 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,214 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Staring at a Blank Page](https://open.spotify.com/track/6QgKVzbncvyp9r6fMdYXC7) | [Odds](https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp) | [Crash the Time Machine](https://open.spotify.com/album/57aPUeaEozFBuU3x6yVLqQ) | 3:24 |
 | 100 | [Monster](https://open.spotify.com/track/7ikIpVYCkHcNi8peNx2K95) | [Mountain Head](https://open.spotify.com/artist/1Wyrho9gXU38NlI2b3lO0O) | [Monster](https://open.spotify.com/album/5qNUNjAWL1znmAvmMj9wT2) | 2:17 |
 
-Snapshot ID: `MCxiNWY2ODExOWJhNjljNDJiNzNkNDQ5NmY2Nzg4YTYxNjVlZDVmODg4`
+Snapshot ID: `MCwyN2I3MWZiZjJhMDMzOTc0M2NlNGI4ZmU5OWY0ZjQ3NDZjNWU3YzI4`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-690 songs - 1 day 16 hr 21 min
+691 songs - 1 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2021-06-02 | 2021-06-03 |
 | [1001 \(You're Lovely\)](https://open.spotify.com/track/7ip4DUtdpLH4TkHfKgFbpf) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [1001 \(You're Lovely\)](https://open.spotify.com/album/034QxEQoDA2B6O8rtNglTe) | 3:14 | 2021-03-27\* | 2021-10-09 |
 | [134340](https://open.spotify.com/track/1MX0g22bQkr9HDVe37fLnN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 3:50 | 2022-04-23 | 2022-09-23 |
-| [17](https://open.spotify.com/track/3LejSFG20mSl4IzORHa7Ya) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Ceramics Runway](https://open.spotify.com/album/1seGyT8ATQOf4G8c9QR8sP) | 3:30 | 2022-11-16 | 2023-09-17 |
+| [17](https://open.spotify.com/track/3LejSFG20mSl4IzORHa7Ya) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Ceramics Runway](https://open.spotify.com/album/1seGyT8ATQOf4G8c9QR8sP) | 3:30 | 2022-11-16 |  |
 | [17](https://open.spotify.com/track/4cxB2603ulZZjod5FwmWy1) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [17](https://open.spotify.com/album/1hmpvMQD6vOAf4dpT67jsP) | 3:30 | 2022-09-30 | 2022-11-17 |
 | [17 นาที](https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [17 นาที](https://open.spotify.com/album/5SJUJTC3angIZd2p8kmBUR) | 3:35 | 2022-02-19 | 2022-07-23 |
 | [2 faces](https://open.spotify.com/track/3I7s9xEyLFWbEDtsv7vYt3) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [the other side](https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N) | 2:52 | 2023-08-19 | 2023-08-27 |
@@ -140,7 +140,7 @@
 | [Extraordinary](https://open.spotify.com/track/19CoWVqDyUbiqxoyMf4HkJ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [Extraordinary](https://open.spotify.com/album/1nm0OJwsjXkjixIFpk8FZG) | 4:01 | 2021-03-27\* | 2021-12-11 |
 | [Face\-off](https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:49 | 2023-03-25 | 2023-03-28 |
 | [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2022-08-29 | 2023-03-05 |
-| [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2023-07-05 |  |
+| [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2023-07-05 | 2023-09-20 |
 | [Far](https://open.spotify.com/track/3HxtdKRmw0BNUs4VM7uYvE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:36 | 2021-09-19 | 2021-09-20 |
 | [far away](https://open.spotify.com/track/7bJ6jD8vlKDU2lmur1lMjp) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [the other side](https://open.spotify.com/album/5qzQi2sdmwHfKe1BPMYi1N) | 3:13 | 2022-08-27 | 2023-08-28 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2021-10-27 | 2021-11-14 |
@@ -544,7 +544,7 @@
 | [ทราบแล้วเปลี่ยน \- attention please](https://open.spotify.com/track/7MxhdBolnOFvWu4WMURsX5) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ทราบแล้วเปลี่ยน \(attention please\)](https://open.spotify.com/album/7r8dBkF7ABMLXIFQEuVbk2) | 3:55 | 2022-03-18 | 2022-12-13 |
 | [ทะเลสีดำ \- เพลงประกอบละคร แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/4d3ZN68omv7xoexu5wglUD) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เพลงประกอบละคร แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/album/0eNu0duhI8p2QRiDLTbiXq) | 3:45 | 2021-06-21 | 2021-06-23 |
 | [ทักครับ](https://open.spotify.com/track/70DE8f3cq3auql4JMrF0Qg) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ทักครับ](https://open.spotify.com/album/5JQ7Bn6uJX2Ed94W8gvvJK) | 3:11 | 2022-04-27 | 2023-02-07 |
-| [ทิ้งไว้อย่างพอใจ\(Consoled\)](https://open.spotify.com/track/6ErAsIiAY6I44yW5d3WXFM) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ทิ้งไว้อย่างพอใจ\(Consoled\)](https://open.spotify.com/album/11DE8UFzSfYEjLX8OC7aGb) | 5:18 | 2023-08-11 |  |
+| [ทิ้งไว้อย่างพอใจ\(Consoled\)](https://open.spotify.com/track/6ErAsIiAY6I44yW5d3WXFM) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ทิ้งไว้อย่างพอใจ\(Consoled\)](https://open.spotify.com/album/11DE8UFzSfYEjLX8OC7aGb) | 5:18 | 2023-08-11 | 2023-09-20 |
 | [ที่สุดของฉัน](https://open.spotify.com/track/1icYoiOpJDRqYdSvTSK7v4) | [2021 ราตรี \(2021 Ratri\)](https://open.spotify.com/artist/0bc8YINhSnzAEHTbhK8hGR) | [ที่สุดของฉัน](https://open.spotify.com/album/0QZpUpgDgcumPb5i5a3bAN) | 4:05 | 2021-03-27\* | 2021-04-26 |
 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 | 2023-09-04 | 2023-09-18 |
 | [ที่ไม่รัก](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 | 2022-12-02 | 2023-06-02 |
@@ -656,6 +656,7 @@
 | [เสแสร้ง \(Pretend\)](https://open.spotify.com/track/3imt8APLtyXVGsLZM362nA) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [Moon](https://open.spotify.com/artist/0AEFDYdJjix0o8cZ1lnrNb) | [เสแสร้ง \(Pretend\) \[Feat\. MOON\]](https://open.spotify.com/album/6X0fYVQVcGJmu7SaKJMzYR) | 3:43 | 2022-03-20 | 2022-09-06 |
 | [เส้นบางๆ](https://open.spotify.com/track/2qZQa0feL1j3hxFB3vJ15d) | [Indigo](https://open.spotify.com/artist/5505l53fTUi5P0uWQbRT0w) | [INDIGO](https://open.spotify.com/album/21ITnrYudAvIs9cfnPBdLs) | 4:30 | 2023-04-03 | 2023-06-04 |
 | [เส้นบางๆ](https://open.spotify.com/track/5n3UhHQI7SHKkhI69u69Yq) | [Indigo](https://open.spotify.com/artist/5505l53fTUi5P0uWQbRT0w) | [เส้นบางๆ](https://open.spotify.com/album/02FsmwYV0AlSX79gNlcnmV) | 4:31 | 2023-01-21 | 2023-04-04 |
+| [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/track/7kYkOkwL7644XyOdjQ9zo5) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/album/26LY4e9rP1alRPyBwokxsW) | 3:31 | 2023-09-19 |  |
 | [เหมือนเคย \(feat\. Seattha Sirachaya\)](https://open.spotify.com/track/7gKB3piJMHJPRxgpr8jSoB) | [Boyd Kosiyabong](https://open.spotify.com/artist/7LiltnpnD4Q60750gWXrgB), [เศรษฐา ศิระฉายา](https://open.spotify.com/artist/7Ks73bCI9nkDjG0WQpQatP) | [Boyd Kosiyabong Song Book](https://open.spotify.com/album/0lRs7MSiZMImc3as9ES1xL) | 5:34 | 2023-07-13 | 2023-07-27 |
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2021-12-01 | 2022-06-10 |
 | [เฮอร์ไมโอน้อง \- Hermionong](https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [เฮอร์ไมโอน้อง \(Hermionong\)](https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj) | 3:36 | 2022-07-06 | 2022-12-03 |

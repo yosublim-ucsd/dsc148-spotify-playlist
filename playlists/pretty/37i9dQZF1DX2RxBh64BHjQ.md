@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0gg11prPP6OqtUvBcKnPpq">Rylo Rodriguez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,790,552 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,790,635 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 16 | [Black Truck](https://open.spotify.com/track/3aOubX8YTVByNPQrqw6ZzK) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Black Truck](https://open.spotify.com/album/4ZawUvODH9E2hA6UOLlUQy) | 2:35 |
 | 17 | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/album/4Lm3jQ2K459Vufnq6wHjn4) | 2:44 |
 | 18 | [Soak City \(feat\. Mustard, OhGeesy & BlueBucksClan\)](https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Soak City \(feat\. Mustard, OhGeesy & BlueBucksClan\)](https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF) | 4:14 |
-| 19 | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/3aG8LIKhmcxv44NngUbDoy) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/6H7diE7QNHugTJu7Ptlol2) | 4:01 |
+| 19 | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/2Nlky0GKESaONs5FBZpisF) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/7vF5mIej4btrKYDtrnjH3b) | 4:01 |
 | 20 | [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 |
 | 21 | [Highs & Lows](https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9), [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Highs & Lows](https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6) | 2:04 |
 | 22 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 |
 | 100 | [Flyest in The City \(feat\. A Boogie Wit da Hoodie & Jeremih\)](https://open.spotify.com/track/3LzcF35kaoR15JSBJflDZ7) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [C3](https://open.spotify.com/album/3IyUsMKChk9h8J9NeZYWl0) | 3:51 |
 
-Snapshot ID: `MCw3ZDkyYzRmNzgwOWQyYTMxNzllODE2MmRhOTcyODkyYzAwYjI4ZGJj`
+Snapshot ID: `MCwzYTM1MmIyNzdmMDZmN2ExODUzMDQ5ZDRjYmJjMzRlZmQyY2M3NzNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4U3Mh4fpzJb7XD1CR1ZbDx">Mery Spolsky</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,354 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,361 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Co jeśli](https://open.spotify.com/track/5tsCXnrirmIokQ2CnItHv8) | [Justyna Biedrawa](https://open.spotify.com/artist/2jonFoAFilDQI0GmJJu3qE) | [Co jeśli](https://open.spotify.com/album/4mkOq0a4l2S4IVJi908AWH) | 3:21 |
 | 50 | [Pralka](https://open.spotify.com/track/6o94JCG1Trgza82ezLHQnC) | [Ranko Ukulele](https://open.spotify.com/artist/0tfJBHQtndZAeilrnJfJSC) | [Pralka](https://open.spotify.com/album/5jWUbG9svUsH22CgzgbHNT) | 2:58 |
 
-Snapshot ID: `MCw2MmRjYTZkZTRiM2QyY2RhZjMyZDA5MmE2MjFlNmVhNjJkOTgyYmFk`
+Snapshot ID: `MCw1NDc2NzVmNGY4OTA5YTNlYTA3MTEyNjM5OTA2ODA0MWI4MmVkYTgx`

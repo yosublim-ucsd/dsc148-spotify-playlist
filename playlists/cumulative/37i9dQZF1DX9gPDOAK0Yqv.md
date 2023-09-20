@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-335 songs - 1 day 4 hr 52 min
+336 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Cyberlove](https://open.spotify.com/track/5wpnorsUa9T5pcWzYL59l4) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Cyberlove](https://open.spotify.com/album/2fmUH8FRtfCmaHWS5yjb43) | 6:16 | 2023-05-31 | 2023-06-10 |
 | [Cycles](https://open.spotify.com/track/3EtEfnPhlRPuM6ShLIcd33) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Mardraüs](https://open.spotify.com/artist/3q5A1HlL3MuhN1DKH4UHSm) | [Cycles](https://open.spotify.com/album/4jpO0xkA40y6zJUPp2yMUm) | 5:00 | 2022-12-06 | 2023-02-20 |
 | [Dance Alone \- Hidden Empire Remix](https://open.spotify.com/track/6xcKHNfHEcyG0TG6gVEUrn) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Dance Alone](https://open.spotify.com/album/3OOU0i7XGbvVYWVjfb7Blx) | 6:34 | 2022-12-28 | 2023-01-06 |
-| [Dance for Me](https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Dance for Me](https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W) | 4:05 | 2023-03-24 |  |
+| [Dance for Me](https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Dance for Me](https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W) | 4:05 | 2023-03-24 | 2023-09-20 |
 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-11-23 |  |
 | [Dance!](https://open.spotify.com/track/0qNHdyhouo2nJWQ3M92ld4) | [DJ Dee](https://open.spotify.com/artist/6BJUZfk50Ru1g0sMC4dcsf) | [Dance!](https://open.spotify.com/album/37jpCS2ScxL6e4ppd8kqTX) | 4:00 | 2023-04-28 | 2023-05-06 |
 | [Dark Future](https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Mind Kontrol EP](https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc) | 6:43 | 2023-04-28 | 2023-05-06 |
@@ -240,6 +240,7 @@
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-12-28 | 2023-01-06 |
 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-09-01 |  |
 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-03-03 |  |
+| [Ritam](https://open.spotify.com/track/3d8JQ8JJEi97aKzWq4BtlF) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Ritam](https://open.spotify.com/album/1hWSLGSfK9PN83cRuTAXRK) | 4:52 | 2023-09-15 |  |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |
 | [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-04 |  |
 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 | 2022-12-02 | 2023-02-04 |

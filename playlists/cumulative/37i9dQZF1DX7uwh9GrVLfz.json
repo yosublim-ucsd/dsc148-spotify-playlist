@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: WANIMA",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: TOTALFAT",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 257273,
       "name": "LAST FOREVER",
       "url": "https://open.spotify.com/track/6Tk4jblZ6c6p46RWT3NIWH"
@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 203930,
       "name": "Life is",
       "url": "https://open.spotify.com/track/7fwrQ99Av65pJVvpvqaW41"
@@ -3808,6 +3808,24 @@
       "duration_ms": 255480,
       "name": "Lyin' Ass Bitch",
       "url": "https://open.spotify.com/track/2OaRpaOjDXXrExzWADia0L"
+    },
+    {
+      "album": {
+        "name": "GOLD IMPRINTS",
+        "url": "https://open.spotify.com/album/0u4T0jMskpSiQO0mrw6TNK"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241944,
+      "name": "MAE",
+      "url": "https://open.spotify.com/track/0YgGz6kZcMw4QXq2IM6tAE"
     },
     {
       "album": {
@@ -4568,6 +4586,24 @@
       "duration_ms": 165240,
       "name": "New Coaster",
       "url": "https://open.spotify.com/track/6PvvJiVzgcsOHZ4m026aFI"
+    },
+    {
+      "album": {
+        "name": "A YEAR OF STRENGTH",
+        "url": "https://open.spotify.com/album/1uorBMQ4jsjiHv4sqdSUTp"
+      },
+      "artists": [
+        {
+          "name": "TOTALFAT",
+          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182826,
+      "name": "New Shit",
+      "url": "https://open.spotify.com/track/6YKn5ACbOOiZ1sm6qQoT7O"
     },
     {
       "album": {

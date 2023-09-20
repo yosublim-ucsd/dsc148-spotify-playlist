@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 
 > Music from "Tales of Series!"\. 『テイルズ オブ』シリーズの楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,375 likes - 92 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,382 likes - 92 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 | 73 | [We'll Meet in Front of the Fountain](https://open.spotify.com/track/5aoCJNvXVhe3XV6ljPRWV9) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF LEGENDIA Original Soundtrack](https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0) | 1:58 |
 | 74 | [Birds Chirp, and I Sing](https://open.spotify.com/track/7r2ZdRqQPF2v0pi0U5pn1y) | [kanon](https://open.spotify.com/artist/1POnf4Z5Xyrs3wHoet3Qlv), [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF LEGENDIA Original Soundtrack](https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0) | 3:52 |
 | 75 | [Battle Artist](https://open.spotify.com/track/7sirJywqf84KwuX2gi8BiB) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF LEGENDIA Original Soundtrack](https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0) | 3:23 |
-| 76 | [Light of the Fireflies](https://open.spotify.com/track/3iHdoPJOpxtFgQacCUe7E3) | [須藤 まゆみ](https://open.spotify.com/artist/1D4cfhxxGmFjs32eMuikBo), [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF LEGENDIA Original Soundtrack](https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0) | 4:55 |
+| 76 | [Light of the Fireflies](https://open.spotify.com/track/3iHdoPJOpxtFgQacCUe7E3) | [須藤まゆみ](https://open.spotify.com/artist/09Zj6pVKQ3a2CNvDB6qB1h), [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF LEGENDIA Original Soundtrack](https://open.spotify.com/album/5o923P8rKYMWsWvETQFbQ0) | 4:55 |
 | 77 | [TALES OF VS.](https://open.spotify.com/track/6VFr4VvAymi7ht9MJk1H25) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF VS\. Original Soundtrack](https://open.spotify.com/album/1JkIGewWwEESJyU1zYbrml) | 1:29 |
 | 78 | [Silver Heroes](https://open.spotify.com/track/1sLILWKpxBMCR3mv5QTlEQ) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF VS\. Original Soundtrack](https://open.spotify.com/album/1JkIGewWwEESJyU1zYbrml) | 3:19 |
 | 79 | [Thirst for Victory \-ARRANGED\- \(from Tales of Legendia\)](https://open.spotify.com/track/6uDjcIsOasbUfUJlirgwCh) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF VS\. Original Soundtrack](https://open.spotify.com/album/1JkIGewWwEESJyU1zYbrml) | 3:25 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 | 91 | [THE SECOND ACT \- X ver.](https://open.spotify.com/track/38hyBU2GzJMndiBpNUZl2A) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF PHANTASIA Narikiri Dungeon X Original Soundtrack](https://open.spotify.com/album/3IhlW0fyUCbWTdoEA8VpXQ) | 2:11 |
 | 92 | [TAKE UP THE CROSS \- X ver.](https://open.spotify.com/track/4nswyQlRqmtbQRxiqKQBha) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF PHANTASIA Narikiri Dungeon X Original Soundtrack](https://open.spotify.com/album/3IhlW0fyUCbWTdoEA8VpXQ) | 2:39 |
 
-Snapshot ID: `MCwxYzBkNzA4N2NmZWE0NzNmNGQ0Y2YyY2Q3NDc4OTY5M2Q2MWE4YTky`
+Snapshot ID: `MCw0OTE2YzM2YzMzMmQ1MmQ1NzZjMDAxNTYzNTM3NDgyZDlhYmU2MjJl`

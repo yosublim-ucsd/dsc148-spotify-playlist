@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-386 songs - 22 hr 6 min
+387 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Fall to Me \- helloworld Remix](https://open.spotify.com/track/6AY5MIVCmf8KOpZep8ybbs) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [spaceKDET](https://open.spotify.com/artist/1xBuZxBaWWHwYaoq7HUi7v) | [Fall to Me \(helloworld Remix\)](https://open.spotify.com/album/2IYKUzv8xvP4vHPlu1F14F) | 3:09 | 2022-03-11 | 2022-08-30 |
 | [FAR OUT](https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT](https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra) | 3:24 | 2023-02-25 |  |
 | [Fashionista](https://open.spotify.com/track/0FfUbh8bqH5wHryhFFyJiJ) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [Fashionista](https://open.spotify.com/album/32JmfZAqyQgraYFON5r5be) | 3:23 | 2023-07-21 | 2023-09-15 |
+| [Fashionista](https://open.spotify.com/track/3dHuvUDEMOPMQPDlyk472w) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [Fashionista](https://open.spotify.com/album/5xCV1XWZclYiEDTY7bV4uG) | 3:23 | 2023-09-08 |  |
 | [Feelings](https://open.spotify.com/track/6ci9PcBjfrY0v1sBogeJyv) | [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [Martyska](https://open.spotify.com/artist/2SZl0w1TGNOsGTBWullexw), [Alice Smoke](https://open.spotify.com/artist/5AhHvbx7VZK7IbUzTuUDpE) | [Feelings](https://open.spotify.com/album/1N04P27Q51fwyQYVea1RdA) | 2:52 | 2022-04-15 | 2022-07-20 |
 | [Finally Find You](https://open.spotify.com/track/0fEg3weP8yuyHlcPpb8fKm) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C), [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG) | [Finally Find You](https://open.spotify.com/album/17clwf7D1BlFkUUpzg5Wiy) | 3:48 | 2022-01-07 |  |
 | [Find You](https://open.spotify.com/track/28OESpqaslD63Wbrg0yVRP) | [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Find You](https://open.spotify.com/album/0DjVFCKZnUbJDmCjaJzhdE) | 2:51 | 2022-08-05 | 2023-05-13 |
@@ -379,7 +380,7 @@
 | [Whirlwind \- Woebn edit](https://open.spotify.com/track/09DsSWNAzsSDwfYVT9im2u) | [Woebn](https://open.spotify.com/artist/3yfMqqxSYQjufPDxqyLiNX), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Krystal](https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH) | [Whirlwind \(Woebn edit\)](https://open.spotify.com/album/7FXi7a8FRMD9SjC8xUACIl) | 3:04 | 2022-01-07 | 2022-07-06 |
 | [WISH YOU WELL](https://open.spotify.com/track/2ABecMfF7whpOkO7yuHJBn) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [ellie d.](https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh) | [WISH YOU WELL](https://open.spotify.com/album/0tb42ecODs0ifhKGygHJia) | 2:00 | 2023-07-07 |  |
 | [With Clouds Below](https://open.spotify.com/track/7hwSaTdDujbwXGGp72hssA) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W) | [With Clouds Below](https://open.spotify.com/album/7wsIfcNt1Muj6dgNpuDldC) | 3:29 | 2022-01-07 | 2023-05-13 |
-| [Without u \(feat\. Holywatr\)](https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Without u \(feat\. Holywatr\)](https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj) | 3:05 | 2023-05-12 |  |
+| [Without u \(feat\. Holywatr\)](https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Without u \(feat\. Holywatr\)](https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj) | 3:05 | 2023-05-12 | 2023-09-20 |
 | [WONDER POP](https://open.spotify.com/track/2LJRpUkMAyBmuBSxQDN61i) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [WONDER POP](https://open.spotify.com/album/5Qfzvs1Xso9ZaZwbqN8a42) | 6:06 | 2022-01-07 |  |
 | [Worlds Away](https://open.spotify.com/track/7oN714ES39BtIurjS46BQt) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Worlds Away](https://open.spotify.com/album/54qisi0X9GjPyLA0MTlnSN) | 3:52 | 2022-01-07 |  |
 | [You Make It Look So Easy \- S.M.I.L.E.Y](https://open.spotify.com/track/00k4OQ83GU3zlGINUJngQA) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [You Make It Look so Easy \(S.M.I.L.E.Y\)](https://open.spotify.com/album/76cQqQjAjGYy8aoBJTXXis) | 4:41 | 2022-01-28 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,076 likes - 69 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,043 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 22 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 |
 | 23 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 24 | [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 |
-| 25 | [DELİ](https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0) | [Elanur](https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1) | [DELİ](https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9) | 1:48 |
-| 26 | [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 |
+| 25 | [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 |
+| 26 | [DELİ](https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0) | [Elanur](https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1) | [DELİ](https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9) | 1:48 |
 | 27 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
 | 28 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 |
 | 29 | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/track/7GcPP6XnsvwJzJ7GMem62o) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/album/5aVa3UtePEKd3BBLmHWYdc) | 3:46 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 38 | [Bine cu puțin rău](https://open.spotify.com/track/02kqrcZdWFtkU5UE5032eC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Bine cu puțin rău](https://open.spotify.com/album/4jPhADH3p3ncfgKcW4MStH) | 3:18 |
 | 39 | [Habeetah](https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Habeetah](https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I) | 4:20 |
 | 40 | [No a co](https://open.spotify.com/track/5JMz22e5dypbfB5avDjrFy) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [No a co](https://open.spotify.com/album/5V0dLUYIqjDQkVSMvJ6EW3) | 2:43 |
-| 41 | [Venus \(projekt Babie Lato\)](https://open.spotify.com/track/5LIGOOM1dU9ukpF8smMF1x) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ), [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Venus \(projekt Babie Lato\)](https://open.spotify.com/album/6rwgYL02gjRo6m7T6GyMha) | 4:40 |
-| 42 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 |
-| 43 | [Manwa Bhaagey](https://open.spotify.com/track/5sVlW4pj3NDIYKNftGwRlZ) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL) | [Manwa Bhaagey](https://open.spotify.com/album/13X5ctGRnJaAvO3WyXsoF6) | 4:17 |
-| 44 | [One Nation Under Love](https://open.spotify.com/track/2AoHZl4LY1AppFWiVGtYEO) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
+| 41 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 |
+| 42 | [Venus \(projekt Babie Lato\)](https://open.spotify.com/track/5LIGOOM1dU9ukpF8smMF1x) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ), [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Venus \(projekt Babie Lato\)](https://open.spotify.com/album/6rwgYL02gjRo6m7T6GyMha) | 4:40 |
+| 43 | [One Nation Under Love](https://open.spotify.com/track/2AoHZl4LY1AppFWiVGtYEO) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
+| 44 | [Manwa Bhaagey](https://open.spotify.com/track/5sVlW4pj3NDIYKNftGwRlZ) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL) | [Manwa Bhaagey](https://open.spotify.com/album/13X5ctGRnJaAvO3WyXsoF6) | 4:17 |
 | 45 | [Sweet Memories](https://open.spotify.com/track/1xgI05DNppXfcLxCAQkwUB) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Sweet Memories](https://open.spotify.com/album/4f9dQRwzon9EU1MNBZpu0f) | 3:04 |
-| 46 | [Mon Coeur](https://open.spotify.com/track/6MYE1Mmja8v0l2QhB3VMDN) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Mon Coeur](https://open.spotify.com/album/1ryq3HSnSHPVRdJfBArDUF) | 2:44 |
-| 47 | [Slow Down](https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Slow Down](https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA) | 3:08 |
+| 46 | [Slow Down](https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Slow Down](https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA) | 3:08 |
+| 47 | [Mon Coeur](https://open.spotify.com/track/6MYE1Mmja8v0l2QhB3VMDN) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Mon Coeur](https://open.spotify.com/album/1ryq3HSnSHPVRdJfBArDUF) | 2:44 |
 | 48 | [Belize](https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:41 |
 | 49 | [Alles Weggegeven](https://open.spotify.com/track/25J6xA9QCLjqN2QdTlOGD1) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Alles Weggegeven](https://open.spotify.com/album/1Rt0CA8bfzHQbGYGUMplwp) | 4:05 |
 | 50 | [Fred](https://open.spotify.com/track/4VoPD81pxeb9OyZRW2iXRm) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Fred](https://open.spotify.com/album/79w4GV92g3rM9bSyjW1sE5) | 3:21 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 56 | [Laguna](https://open.spotify.com/track/5DrHgtqk6tf0hbuc3i5tB9) | [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Laguna](https://open.spotify.com/album/1jLlM2l3XmCEpPTOAQIjuB) | 3:29 |
 | 57 | [In Over My Head](https://open.spotify.com/track/2ATO6c4e7hdwgOPIt4TU8s) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [In Over My Head](https://open.spotify.com/album/3pojOspPOs6TyRWqBS5D1P) | 3:18 |
 | 58 | [Assim Assim](https://open.spotify.com/track/6NhKVVIfnuRTFRXZtjtJZo) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Assim Assim](https://open.spotify.com/album/0PYk0DGSjgfEOTdzKZMnxb) | 2:49 |
-| 59 | [Pink Matter \- Live](https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY) | [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F), [Champion Sound](https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx) | [LIVE ARCHIVE](https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6) | 4:02 |
-| 60 | [Look at Her](https://open.spotify.com/track/1aFDhoY7njfcASKfeD6KGf) | [Nqobilé](https://open.spotify.com/artist/2tosc2NIcCcBk7xHWKaM4V) | [Look at Her](https://open.spotify.com/album/39kVGduCr5oSqwFJ5rFkSi) | 2:46 |
+| 59 | [Look at Her](https://open.spotify.com/track/1aFDhoY7njfcASKfeD6KGf) | [Nqobilé](https://open.spotify.com/artist/2tosc2NIcCcBk7xHWKaM4V) | [Look at Her](https://open.spotify.com/album/39kVGduCr5oSqwFJ5rFkSi) | 2:46 |
+| 60 | [Pink Matter \- Live](https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY) | [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F), [Champion Sound](https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx) | [LIVE ARCHIVE](https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6) | 4:02 |
 | 61 | [מרקורי](https://open.spotify.com/track/3WL2ABZitGrbfWyfqwnVlO) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [מרקורי](https://open.spotify.com/album/10hYe8TMsKOiw2ICrpVmex) | 3:23 |
 | 62 | [NEKÏ UGYANÚGY](https://open.spotify.com/track/7jZs5dDDXK5O8zY4ekvogp) | [BÖBE](https://open.spotify.com/artist/7EDnFpwVQRaREGbgWNzozn) | [NEKÏ UGYANÚGY](https://open.spotify.com/album/7IX8lZYrZOwk6Led6tv22A) | 2:39 |
 | 63 | [Las Ganas](https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 4:17 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [know me well](https://open.spotify.com/track/4SYMqB8nRaBzfuulzFTUC4) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [know me well](https://open.spotify.com/album/1iXjbMK0vZ6bVtQ2F98xuP) | 2:58 |
 | 69 | [Silsilay Tor Gaya](https://open.spotify.com/track/1zHxHrICgqYDfyrYJIDFrw) | [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd) | [Silsilay Tor Gaya](https://open.spotify.com/album/6eLCSTvN2jg7x1lHTrgkXJ) | 4:17 |
 
-Snapshot ID: `MCw2ZjU0ZjlkN2JlY2M5ZmE3NDdiZmRmNmE3OGMwMmUyYjFjODhhZDkz`
+Snapshot ID: `MCwyZTg2YmQ5MmRjNzY1ODJlZGY2MGIwYmFjZDg2NTk3ZTZiZTY2MmIy`

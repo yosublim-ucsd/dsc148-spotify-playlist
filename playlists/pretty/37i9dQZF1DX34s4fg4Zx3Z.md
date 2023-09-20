@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,496 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,507 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 6 | [Hạnh Phúc Của Một Tang Gia](https://open.spotify.com/track/02e7eP3dx2cdOVxFUO5tqd) | [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i), [Minionz](https://open.spotify.com/artist/4LnAxWwAvNG6m62sp3q0Pt) | [Hạnh Phúc Của Một Tang Gia](https://open.spotify.com/album/0fpOLnMOparhE97l1WUxyq) | 3:30 |
 | 7 | [Tinh dep latinh buon](https://open.spotify.com/track/7JeE6PNUGbzaR8eqbxYE1Y) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Tinh dep latinh buon](https://open.spotify.com/album/2ZzqQTlqBiZNsj0JxYsQPh) | 2:31 |
 | 8 | [Lovelyboy](https://open.spotify.com/track/17gjDrdge4XCwr3XGnykJu) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Lovelyboy](https://open.spotify.com/album/4xcw8Xlrbs2NA0o5hhrgBY) | 2:57 |
-| 9 | [Muốn Sao Nữa](https://open.spotify.com/track/2cBqsgX10iLSZXbs7cbs8u) | [Yung](https://open.spotify.com/artist/4WF9GdetrQiLeWDWAISRGa) | [Muốn Sao Nữa](https://open.spotify.com/album/5z0lexfD7gNONqDJuc7w2m) | 3:44 |
+| 9 | [Muốn Sao Nữa Thằng Tồi?](https://open.spotify.com/track/2cBqsgX10iLSZXbs7cbs8u) | [Yung](https://open.spotify.com/artist/4WF9GdetrQiLeWDWAISRGa) | [Muốn Sao Nữa Thằng Tồi?](https://open.spotify.com/album/5z0lexfD7gNONqDJuc7w2m) | 3:44 |
 | 10 | [Từng Có Thời Yêu Người Như Thế Đó](https://open.spotify.com/track/4wRX6qBr2cdIx47SgTYxf0) | [Upin](https://open.spotify.com/artist/4sJaOI1bU42O4eApLm0xOD), [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj) | [Từng Có Thời Yêu Người Như Thế Đó](https://open.spotify.com/album/6gIFIGdocNX8ncKPZFXV79) | 2:50 |
 | 11 | [CÓ BAO ĐIỀU](https://open.spotify.com/track/2mCRjHzWKCCDwLMMpR8Ktl) | [Maize](https://open.spotify.com/artist/1t9YGBngLrj99AgaqqQl49), [Yellowa](https://open.spotify.com/artist/4AL79ySD9YSiJAkigZjutp) | [CÓ BAO ĐIỀU](https://open.spotify.com/album/0Bu18fliQUjCSqIHhkZ4a5) | 3:42 |
 | 12 | [Yêu Đương Đâu Giống Ngôn Tình](https://open.spotify.com/track/3ifw7Yf3FAfgzDnGQuSJJE) | [Sing](https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29), [AEP SIMON](https://open.spotify.com/artist/69b3wAh06ngvbRYCuz3BLG) | [Yêu Đương Đâu Giống Ngôn Tình](https://open.spotify.com/album/0sCMrGL9fETG2EvhEUWbl7) | 3:46 |
 | 13 | [Khu vườn](https://open.spotify.com/track/1LnOxCZuBpFAwIt50xvuQf) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [Khu vườn](https://open.spotify.com/album/6UvnOCsDd1t4dVqfB265IK) | 2:11 |
 | 14 | [Lái Xe Một Mình \(Joy\)](https://open.spotify.com/track/2hjf9rtmB1lajYg7QTnpVy) | [Em Ellata](https://open.spotify.com/artist/2gHZhGddcfiD6ASs7pK1iD) | [Lái Xe Một Mình \(Joy\)](https://open.spotify.com/album/5L3QslaUYOrzI1XRDIHUFT) | 4:19 |
-| 15 | [dieu valse cuoi](https://open.spotify.com/track/2vgHb85Gk8xtTKt4VcmkNZ) | [Hekii](https://open.spotify.com/artist/6WMFJ9mRl9DUqzrXzfMqzD) | [điệu valse cuối](https://open.spotify.com/album/0LB7u3QQPGsJrTXhvFt3b7) | 3:57 |
+| 15 | [điệu valse cuối](https://open.spotify.com/track/2vgHb85Gk8xtTKt4VcmkNZ) | [Hekii](https://open.spotify.com/artist/6WMFJ9mRl9DUqzrXzfMqzD) | [điệu valse cuối](https://open.spotify.com/album/0LB7u3QQPGsJrTXhvFt3b7) | 3:57 |
 | 16 | [Lênh Đênh](https://open.spotify.com/track/1mSAWzcymoYECx3jBjE4Fx) | [Jo$eph](https://open.spotify.com/artist/3XqVrwsevRswO1cGSqJ7WE), [Paties](https://open.spotify.com/artist/610qZrk1PKFAOgV5yNuGRa) | [Lênh Đênh](https://open.spotify.com/album/4VmjLXo74ZRPLz08NrMCGS) | 4:22 |
 | 17 | [Ur Last](https://open.spotify.com/track/3MocLz6PpG5s1fExwkOfc4) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [1Sebt](https://open.spotify.com/artist/63JqmXv0wo6jAOOUzypO8J) | [Ur Last](https://open.spotify.com/album/6nNWq1rjVAfl46XxD6easA) | 3:02 |
 | 18 | [Tình Yêu Bát Cơm Rang](https://open.spotify.com/track/0BYhX9x826n8XavciXnCGe) | [Thiện Hưng](https://open.spotify.com/artist/5sLcAaPV5ix8rfppZysYDs) | [Tình Yêu Bát Cơm Rang](https://open.spotify.com/album/62icSOymEnTz3THoSWZvIf) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Làm Liền Cho Nóng](https://open.spotify.com/track/1kdG0LaSWfzwYoFkgfMhwi) | [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [Xám](https://open.spotify.com/artist/0OzWJ833Wac4o3SAh38s7i), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [Làm Liền Cho Nóng](https://open.spotify.com/album/5fuyWjQZEEiu1wEoOcqjA3) | 3:31 |
 | 100 | [em lai di dau day?](https://open.spotify.com/track/1JZUgjMN8onMfdCAQxb0xb) | [Cáu](https://open.spotify.com/artist/79RDZmnftJOANOKbYtEo5e) | [em lai di dau day?](https://open.spotify.com/album/1mXPFMkwnS8WP19cgIO0oy) | 2:51 |
 
-Snapshot ID: `MCwyYzQzY2Y5MzNmMDE1ZDYxYTczNTNmY2I1ZjZiZDVkNzMzN2NkMTI2`
+Snapshot ID: `MCw5MTcwZWEwYjhjZDljY2I5MmU3NTEyZTI0M2E2NjRjMWUyMWVlNDEw`

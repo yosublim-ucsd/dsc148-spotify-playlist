@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 217335,
+  "num_followers": 217873,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGI0MmFiYjllMDA2NWQ5OTNmMjYxZGY2ZDA0Yjk1NDUyYzAyZjA4",
+  "snapshot_id": "MCw1YTc3NTc2OGJkZTQ4MzY0ZjU2MmQxMDM1ZGNmOGU3YWYzOTJlNjlk",
   "tracks": [
     {
       "added_at": "2023-09-08 12:01:16",
@@ -339,26 +339,18 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
-        "name": "Mirror Mirror",
-        "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 247272,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
+      "duration_ms": 206625,
+      "name": "We Control",
+      "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
     },
     {
       "added_at": "2023-09-08 12:01:16",
@@ -395,18 +387,26 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 206625,
-      "name": "We Control",
-      "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
+      "duration_ms": 247272,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
     },
     {
       "added_at": "2023-09-08 12:01:16",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
-        "name": "Club Vibes Part 05",
-        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 485760,
-      "name": "Black Unicorn",
-      "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
-    },
-    {
-      "added_at": "2023-09-08 12:01:16",
-      "album": {
         "name": "Bells of Notre Dame",
         "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 251026,
       "name": "Bells of Notre Dame",
       "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
+    },
+    {
+      "added_at": "2023-09-08 12:01:16",
+      "album": {
+        "name": "Club Vibes Part 05",
+        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 485760,
+      "name": "Black Unicorn",
+      "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
     },
     {
       "added_at": "2023-09-08 12:01:16",

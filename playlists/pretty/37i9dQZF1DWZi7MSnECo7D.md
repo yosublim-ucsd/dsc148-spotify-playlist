@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Uyara Torrente
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,067 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,082 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 22 | [Horas Iguais](https://open.spotify.com/track/3Ya1g8ylZheWcFhyF5RzKM) | [Lúcio Maia](https://open.spotify.com/artist/0uu17DoK7kT8DWzO9CLA5O) | [Horas Iguais](https://open.spotify.com/album/3XATFGhrDvTibddYrjAXpJ) | 3:14 |
 | 23 | [tudo pra mim](https://open.spotify.com/track/13A3gifaYjdtVC4ihXmexk) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [tudo pra mim](https://open.spotify.com/album/2SioAF15z3a5PXZdyXzGGW) | 3:33 |
 | 24 | [Em Todo Canto](https://open.spotify.com/track/0FftjOKC6GhuDFlSjEwame) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Em Todo Canto/Tremeu Minha Solidão](https://open.spotify.com/album/2GZvAjfFNrTvdT8LgFDN1P) | 3:28 |
-| 25 | [VEJA](https://open.spotify.com/track/6mO9K6le5QYMAGzku81Wqq) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X), [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT) | [tds bem Global](https://open.spotify.com/album/5pGNFxHPkUaCu267VsRIXV) | 2:47 |
+| 25 | [VEJA](https://open.spotify.com/track/6mO9K6le5QYMAGzku81Wqq) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X) | [tds bem Global](https://open.spotify.com/album/5pGNFxHPkUaCu267VsRIXV) | 2:47 |
 | 26 | [Truque](https://open.spotify.com/track/5BWDctHY7KfVt6sc1D3tOs) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Truque](https://open.spotify.com/album/5n44zhzi1I9ig1CKj80Sm3) | 3:20 |
 | 27 | [A Cidade Quer](https://open.spotify.com/track/2NOSXF0YxFYChI66eigEj9) | [Os Últimos Escolhidos do Futebol](https://open.spotify.com/artist/0kpGdnhRrd1MRewMN6eX8f) | [O Catálogo de Clichês](https://open.spotify.com/album/2UakfqVogyqfKtbFeIEOLN) | 4:26 |
 | 28 | [Todo Dia É De Mudanca](https://open.spotify.com/track/5rYNNP09GB18zTmcNMHVya) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [1 2 3 4](https://open.spotify.com/album/3OV2o4Fy4cgTWyJYCzF1dF) | 3:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Camará Station](https://open.spotify.com/track/20WqfPX5U5kBIo3uMQRtVR) | [mellina](https://open.spotify.com/artist/7nGtXBuI7PJa8Rcy4aL9SY), [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh) | [Camará Station](https://open.spotify.com/album/6GvEAAEut6TqOuzZtIVkSU) | 2:19 |
 | 70 | [Infinita](https://open.spotify.com/track/4yv4dVvcP0ldZxjck7sQAF) | [Cidrais](https://open.spotify.com/artist/5QYAoZeTdLdRkiECvhZ5VE) | [Infinita](https://open.spotify.com/album/2Sni0Wz8fACtUr8Q96FgI2) | 3:58 |
 
-Snapshot ID: `MCxmMGI2NjJlOWY0YTQzMGUzYTcyMWExZmEwZDE1NjIwNDFhZmRiZTdj`
+Snapshot ID: `MCwxZWI3OGRiZDU2ZGRiYjBiZTNmNDQ1Njg3MTk0Nzc5M2M3MjE4ZWY2`

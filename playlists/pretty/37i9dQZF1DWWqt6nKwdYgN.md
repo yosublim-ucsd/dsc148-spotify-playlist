@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Chales Ans y Sharif en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,014 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,035 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [BEEMO](https://open.spotify.com/track/7sBkokjVVW3wfU1SLE33Eh) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Sr\. Freddy Malaria](https://open.spotify.com/album/3DuxazPpULOeNqRAkq02AB) | 2:08 |
 | 100 | [INESTABLE](https://open.spotify.com/track/7oZU0WfiYy81ezw6tnSpH7) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [INESTABLE](https://open.spotify.com/album/7u83atv1sRDpcLZTx60sfV) | 2:54 |
 
-Snapshot ID: `MCxiNmJkMjM0NTFmOGM2M2VjNTljZjBhOGE5ZDczM2ZlYzVjYWQzMDdm`
+Snapshot ID: `MCxmYjI2NTU1MjZmOTdmYmI5ODM0OWJhZTFhMmMxMzY5NjIzY2NkMjgz`

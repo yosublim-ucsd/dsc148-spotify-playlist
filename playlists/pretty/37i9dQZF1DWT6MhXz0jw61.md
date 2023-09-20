@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,294,341 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294,518 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 9 | [PTSD](https://open.spotify.com/track/4zcQ2G5Ho5xr5RF5fouAB6) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Lucky Me](https://open.spotify.com/album/47jzrGCudVC17eem7BkxRt) | 2:28 |
 | 10 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
 | 11 | [Shimmy \(feat\. Joey Bada$$\)](https://open.spotify.com/track/7vL9rAHS2fLo8EjvGvtWr7) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 2:35 |
-| 12 | [SINCE ELEMENTARY](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
+| 12 | [SINCE ELEMENTARY](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [SINCE ELEMENTARY](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
 | 13 | [Red Handed](https://open.spotify.com/track/6JtdBQyO9qyY4HnWJY1mnn) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Red Handed](https://open.spotify.com/album/2nH0QSZxfAkdNPsPDe6WPs) | 3:55 |
 | 14 | [PLAIN JANE](https://open.spotify.com/track/0jNQCknhKG95C7aVx6YOTR) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [SAMSON: THE ALBUM](https://open.spotify.com/album/75MxgYHn8C4PeA5J8ToWti) | 3:17 |
 | 15 | [Save Yours](https://open.spotify.com/track/20ONgMrt1QKEo1xRvyv8Jx) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Save Yours](https://open.spotify.com/album/3aNFCwqjk0FUqTC9ycTxZv) | 3:09 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 27 | [Aang](https://open.spotify.com/track/1Tq22UsA5ThihqbZvustnR) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE) | [Aang](https://open.spotify.com/album/0sNMiAQZPMUH6s97XSLSui) | 3:01 |
 | 28 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 |
 | 29 | [GO WITH THE GHOST](https://open.spotify.com/track/1ArrMOlOFWYmrst6DTV95C) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [GO WITH THE GHOST](https://open.spotify.com/album/3PpbucB0CCYMdTvJThYsvf) | 2:53 |
-| 30 | [CATCH THIS FADE](https://open.spotify.com/track/2ThBzYbBU4b4jskdsLafTF) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Catch This Fade](https://open.spotify.com/album/3Hvq6VhqTKxzZIkzkBYXC7) | 2:55 |
+| 30 | [CATCH THIS FADE](https://open.spotify.com/track/2ThBzYbBU4b4jskdsLafTF) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [CATCH THIS FADE](https://open.spotify.com/album/3Hvq6VhqTKxzZIkzkBYXC7) | 2:55 |
 | 31 | [Marble Columns \(feat\. Larry June\)](https://open.spotify.com/track/3IPSBSVqnwlWu2wsexdHqo) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [VICES](https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6) | 3:10 |
 | 32 | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo) | 4:13 |
 | 33 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [The Basement](https://open.spotify.com/track/5AiS9AoF7ONfTcNdXjWPNi) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [The Basement](https://open.spotify.com/album/3vBiOLOfxBGyxc6rhVsjK2) | 3:22 |
 | 100 | [FLAWS](https://open.spotify.com/track/0EnlvUZO6N6TadHIwbRkRQ) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FLAWS](https://open.spotify.com/album/2HeQ8J78llo9ltuobnqS1F) | 4:07 |
 
-Snapshot ID: `MCxlNzE1NWI3MTBiMzY5ODc5YzAxYTUwNjdmNTRjZGZlNWY0MjlmNDZh`
+Snapshot ID: `MCxlMjcxZDNlYjc4OGY1YjlhY2Y0ZGY1ZmFiNDliM2Q5YzAwOWU3NTQ5`

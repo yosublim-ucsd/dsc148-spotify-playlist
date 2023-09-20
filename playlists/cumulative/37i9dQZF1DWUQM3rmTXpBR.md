@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: A5rass
 
-173 songs - 10 hr 38 min
+174 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Al Hamdullah](https://open.spotify.com/track/1I7EiwtCU8q7oB68P6lEJN) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Al Hamdullah](https://open.spotify.com/album/6Juo9kUV5BTp1DbY3Vv2mB) | 3:28 | 2023-04-23 |  |
 | [Al Rabta](https://open.spotify.com/track/7BnxgBDGc0f0xgFGNaYaWC) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Al Rabta](https://open.spotify.com/album/74YSFIcE0BoGp0vLfkYNis) | 5:03 | 2021-12-23 | 2022-04-16 |
 | [Al Sa'aa Al Oula](https://open.spotify.com/track/7hQSSr9kFGmM1zyQmeIkPw) | [Statues of Sinking Men](https://open.spotify.com/artist/0Yb1BJkuMs6USz8shheqxY) | [Al Sa'aa Al Oula](https://open.spotify.com/album/0Zucsn1XIbYo6OZ2wel2hB) | 4:33 | 2022-09-05 | 2023-04-24 |
+| [Al\-Furat](https://open.spotify.com/track/2OnVKpbC4WDedzVcoHjGBx) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Metatext](https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE) | [Al\-Furat](https://open.spotify.com/album/34fg5aZvCqPS5tMcGCwfGl) | 3:54 | 2023-09-19 |  |
 | [Aladdin](https://open.spotify.com/track/2f7rLXE1t0LaKC29Ie1ebb) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Aladdin](https://open.spotify.com/album/173KkWJDT5Lo7LUPD2m57k) | 2:58 | 2022-08-14 | 2022-08-23 |
 | [Aman Aman](https://open.spotify.com/track/4PxgQVobtqrn0MSSFu4GIS) | [Yazan Haifawi](https://open.spotify.com/artist/1XNUjQOaJHx64HU5plUCdO) | [Wahad](https://open.spotify.com/album/50h20MwAWGy4qMiA1eueuV) | 4:06 | 2023-04-23 |  |
 | [Amar 14](https://open.spotify.com/track/2O36wGSupi2wumi360NBxz) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Amar 14](https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y) | 3:03 | 2022-01-10 | 2023-04-24 |

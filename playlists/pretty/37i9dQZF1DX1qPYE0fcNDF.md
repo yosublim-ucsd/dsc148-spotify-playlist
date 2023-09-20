@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,890 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,884 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 4 | [Christmas In Hollis](https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Tougher Than Leather \(Expanded Edition\)](https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv) | 2:58 |
 | 5 | [Man's Not Hot \- Christmas Edition](https://open.spotify.com/track/28lLyEK20U9nsJc6U9dNun) | [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO) | [Man's Not Hot \(Christmas Edition\)](https://open.spotify.com/album/4NzqRB5yfjUem4rK6BX9Dt) | 3:23 |
 | 6 | [Sweet Yamz](https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Sweet Yamz](https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd) | 1:45 |
-| 7 | [All I Want for Christmas Is You \(feat\. Jermaine Dupri & Lil Bow Wow\) \- So So Def Remix](https://open.spotify.com/track/5EGVmjPN2y1s3hrPcQGqiF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA) | [Greatest Hits](https://open.spotify.com/album/5NIt2v0wjaZAXPqOYerldC) | 3:43 |
+| 7 | [All I Want for Christmas Is You \- So So Def Remix](https://open.spotify.com/track/5EGVmjPN2y1s3hrPcQGqiF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA) | [Greatest Hits](https://open.spotify.com/album/5NIt2v0wjaZAXPqOYerldC) | 3:43 |
 | 8 | [3 Kings](https://open.spotify.com/track/2awA4tHY7SFlJZrvgWfdSP) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [A Very ROC Christmas](https://open.spotify.com/album/55mrxLIpf5AzhIEN43MSCh) | 2:55 |
 | 9 | [12 Days Of Bhristmas \(with OMB Bloodbath & WESTSIDE BOOGIE\)](https://open.spotify.com/track/6rRzIoA5r8yK8BgFvXWlE2) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:13 |
 | 10 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 1:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 49 | [Christmas At Swae’s](https://open.spotify.com/track/2uIJmDr8yFuq27JgZGAw7l) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Ear Drummers](https://open.spotify.com/artist/16b0RUDQWdrU5HYFKuFW98) | [Christmas At Swae’s](https://open.spotify.com/album/6Qx4jA6F8xTrAypkeaVUSk) | 3:46 |
 | 50 | [Bungecord Christmas](https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Bungecord Christmas](https://open.spotify.com/album/1TJY1i9QiyYIABj0cPN9po) | 2:09 |
 
-Snapshot ID: `MCwwZTczMTBiYjMzYTlmNzExNjUzMjU1MjBiNWNkOTAyNWVjN2QxZGVj`
+Snapshot ID: `MCw0ZTZmM2NlZTY0YjUzMzVjMDIxYTU2NWExZGU5MTZlMTA1MjYxODM1`

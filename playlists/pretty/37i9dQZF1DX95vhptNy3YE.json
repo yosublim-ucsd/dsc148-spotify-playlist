@@ -1,12 +1,12 @@
 {
   "description": "Duquesa e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 215740,
+  "num_followers": 215771,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDg1M2YwZDBlOGQ1MGUzY2YwY2NhOWVlZmZhNDUyNTNhNmQxNWZl",
+  "snapshot_id": "MCxiMjBlYWUxMjBkNmJhMGIxZTkyNmQ4YTZlZGI2OTRkYTQ0NjBlYzRl",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -375,34 +375,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Desfile na Favela",
-      "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -431,6 +403,34 @@
       "duration_ms": 277411,
       "name": "Perfeita",
       "url": "https://open.spotify.com/track/6a35UETcJteB4oVCSFoAqr"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Desfile na Favela",
+      "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "Famigerado",
+      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Preto Demais",
-        "url": "https://open.spotify.com/album/0r4tvWwDSlhMPOw9j70nx6"
-      },
-      "artists": [
-        {
-          "name": "Hugo Ojuara",
-          "url": "https://open.spotify.com/artist/0IWYr6WoUeneAbJIYdCf3D"
-        }
-      ],
-      "duration_ms": 172875,
-      "name": "Preto Demais",
-      "url": "https://open.spotify.com/track/0SqExyvgUPTawKsVM2SZoP"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -667,6 +651,46 @@
       "duration_ms": 175031,
       "name": "Cruzeiro do Ney",
       "url": "https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Preto Demais",
+        "url": "https://open.spotify.com/album/0r4tvWwDSlhMPOw9j70nx6"
+      },
+      "artists": [
+        {
+          "name": "Hugo Ojuara",
+          "url": "https://open.spotify.com/artist/0IWYr6WoUeneAbJIYdCf3D"
+        }
+      ],
+      "duration_ms": 172875,
+      "name": "Preto Demais",
+      "url": "https://open.spotify.com/track/0SqExyvgUPTawKsVM2SZoP"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Jogo",
+      "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -783,30 +807,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Jogo",
-      "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Beija Que Eu Paro de Falar (Ao Vivo)",
         "url": "https://open.spotify.com/album/6hClh0VFvcaG04mAjzKBZa"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 128453,
       "name": "Beija Que Eu Paro de Falar - Ao Vivo",
       "url": "https://open.spotify.com/track/4vbt2ZMxdVDerLgOUrMYoW"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Sou + As Negras",
-        "url": "https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg"
-      },
-      "artists": [
-        {
-          "name": "Afreekassia",
-          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
-        },
-        {
-          "name": "G.a.B.o",
-          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
-        }
-      ],
-      "duration_ms": 161076,
-      "name": "Sou + As Negras",
-      "url": "https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -867,6 +847,26 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Sou + As Negras",
+        "url": "https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "G.a.B.o",
+          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
+        }
+      ],
+      "duration_ms": 161076,
+      "name": "Sou + As Negras",
+      "url": "https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Novinha do Peito Bicudo",
         "url": "https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa"
       },
@@ -887,6 +887,30 @@
       "duration_ms": 177230,
       "name": "Novinha do Peito Bicudo",
       "url": "https://open.spotify.com/track/48t7p44DDZoJpHq0NDgGdG"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Acordei Bem Cedo",
+        "url": "https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "MC Murilo MT",
+          "url": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP"
+        }
+      ],
+      "duration_ms": 377142,
+      "name": "Acordei Bem Cedo",
+      "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -995,30 +1019,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Acordei Bem Cedo",
-        "url": "https://open.spotify.com/album/67TrPKnENDevc0cq8FEfm5"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "MC Murilo MT",
-          "url": "https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP"
-        }
-      ],
-      "duration_ms": 377142,
-      "name": "Acordei Bem Cedo",
-      "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Of\u00edcio de Cantante",
         "url": "https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE"
       },
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Cachoeira",
+        "url": "https://open.spotify.com/album/4mAithietzaFqqKXXniP44"
+      },
+      "artists": [
+        {
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
+        },
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        },
+        {
+          "name": "F.R.ED",
+          "url": "https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5"
+        }
+      ],
+      "duration_ms": 167366,
+      "name": "Cachoeira",
+      "url": "https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Gostosa de Air Max",
         "url": "https://open.spotify.com/album/4h9JWqAumE78sOniGFUGg1"
       },
@@ -1171,30 +1195,6 @@
       "duration_ms": 278068,
       "name": "F.D.P",
       "url": "https://open.spotify.com/track/6VGOXyPBs38qrq7nNyZvcD"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Cachoeira",
-        "url": "https://open.spotify.com/album/4mAithietzaFqqKXXniP44"
-      },
-      "artists": [
-        {
-          "name": "BADZILLA",
-          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
-        },
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
-        },
-        {
-          "name": "F.R.ED",
-          "url": "https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5"
-        }
-      ],
-      "duration_ms": 167366,
-      "name": "Cachoeira",
-      "url": "https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC"
     },
     {
       "added_at": "2023-09-15 03:01:00",

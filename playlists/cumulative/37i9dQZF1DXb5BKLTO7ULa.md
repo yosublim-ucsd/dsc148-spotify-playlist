@@ -4,7 +4,7 @@
 
 > Siggy & D1ns \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a>\-artiesten\) op de cover\. De nieuwste releases elke vrijdag op Spotify!
 
-3,014 songs - 6 day 14 hr 23 min
+3,015 songs - 6 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,7 +838,8 @@
 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 | 2023-07-20 | 2023-07-28 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-09 | 2023-03-18 |
 | [Evicted](https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Evicted](https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz) | 3:29 | 2023-08-03 | 2023-08-11 |
-| [EWA EWA](https://open.spotify.com/track/2RLMkYFyNkgABJvNk4nPca) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [EWA EWA](https://open.spotify.com/album/0tFphBLPOSM0o7qtG9KRIV) | 2:15 | 2023-09-14 |  |
+| [EWA EWA](https://open.spotify.com/track/2RLMkYFyNkgABJvNk4nPca) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [EWA EWA](https://open.spotify.com/album/0tFphBLPOSM0o7qtG9KRIV) | 2:15 | 2023-09-14 | 2023-09-20 |
+| [EWA EWA](https://open.spotify.com/track/70ft08BdXctantaAYo6JEI) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [EWA EWA](https://open.spotify.com/album/4pbXVz5H5Z8fajMzASUtub) | 2:15 | 2023-09-15 |  |
 | [Exoskeleton](https://open.spotify.com/track/0LjemCYSKjdQX6bKrvegZD) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Exoskeleton](https://open.spotify.com/album/4ezvlpkT4osT356BjXhchg) | 3:02 | 2023-05-11 | 2023-05-19 |
 | [Exxxplain this](https://open.spotify.com/track/5Rscw7Y0xkKvj5ZCYglCsU) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV), [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy), [Shurk](https://open.spotify.com/artist/0NDgB30D7P2gt1qCS2qfIx) | [Exxxplain this](https://open.spotify.com/album/1gtLOfdZZhPnYMIbvGy0Dp) | 2:41 | 2023-08-03 | 2023-08-11 |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2023-03-24 | 2023-03-31 |

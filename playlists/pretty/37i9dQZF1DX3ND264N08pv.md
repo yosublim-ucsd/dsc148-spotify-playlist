@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,811 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,015 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 60 | [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 |
 | 61 | [Blow Up](https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Blow Up](https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH) | 3:24 |
 | 62 | [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 |
-| 63 | [READY 4 WAR](https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [XELOR](https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf) | [READY 4 WAR](https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi) | 2:52 |
-| 64 | [Jongens van de straat](https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Jongens van de straat](https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt) | 3:22 |
+| 63 | [Jongens van de straat](https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Jongens van de straat](https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt) | 3:22 |
+| 64 | [READY 4 WAR](https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [XELOR](https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf) | [READY 4 WAR](https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi) | 2:52 |
 | 65 | [The Ultimate Sound](https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Ultimate Sound](https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW) | 2:41 |
 | 66 | [After Dark](https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [After Dark](https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy) | 3:43 |
 | 67 | [Force Of Salvation \- Official Masters of Hardcore Austria 2023 Anthem](https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Force Of Salvation \(Official Masters of Hardcore Austria 2023 Anthem\)](https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY) | 5:22 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 69 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 |
 | 70 | [Born To React](https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Born To React](https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe) | 2:25 |
 | 71 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 |
-| 72 | [Story of My Life](https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Story of My Life](https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c) | 4:05 |
-| 73 | [Adrenaline \- Never Surrender Remix](https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5) | [Neophyte Records All Stars](https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Adrenaline \(Never Surrender Remix\)](https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9) | 2:47 |
+| 72 | [Adrenaline \- Never Surrender Remix](https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5) | [Neophyte Records All Stars](https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Adrenaline \(Never Surrender Remix\)](https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9) | 2:47 |
+| 73 | [Story of My Life](https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Story of My Life](https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c) | 4:05 |
 | 74 | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC) | 4:14 |
 | 75 | [BOW DOWN](https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [BOW DOWN](https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv) | 2:59 |
 | 76 | [Sky Ablaze](https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Sky Ablaze](https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Disruption](https://open.spotify.com/track/0Zxzg3AzI2tJKaCGVJ3yrz) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Disruption](https://open.spotify.com/album/1aEvgZoBSKhQEpE6bIiij3) | 3:00 |
 | 100 | [Piece Of Me](https://open.spotify.com/track/6NPNOsupIs4l08lqCy8y9C) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K), [Army of Two](https://open.spotify.com/artist/4F4OTdgGVbo2Bw9wJ3nnmH) | [Piece Of Me](https://open.spotify.com/album/4yJpxCS5JFqKfEZYMiUfoF) | 3:57 |
 
-Snapshot ID: `MCwzNWEyNjAwZWQ0ZjZkNzUxNDgyYTZiZDFlZWJiYTlmNTM3NDg5MzIz`
+Snapshot ID: `MCxlZWEyOWE3ODQyODU0YjgyMTAxNTM2M2Q1NWZkZmM2ZjkzZTMzNGIy`

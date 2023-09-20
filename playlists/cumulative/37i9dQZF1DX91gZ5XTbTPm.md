@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Sexyy Red
 
-560 songs - 1 day 2 hr 10 min
+561 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,8 @@
 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 | 2023-01-27 | 2023-03-18 |
 | [Tee Shirt](https://open.spotify.com/track/0xpqVf1wKsxmocrsJ3fQw4) | [ReUp Ty](https://open.spotify.com/artist/7eaffIOO2bb3sgzJlpbcMp) | [Tee Shirt](https://open.spotify.com/album/4M8KWSnyQxXGTkGqu751rf) | 2:53 | 2022-05-20 | 2022-06-11 |
 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 | 2023-08-04 | 2023-09-16 |
-| [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/3aG8LIKhmcxv44NngUbDoy) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/6H7diE7QNHugTJu7Ptlol2) | 4:01 | 2023-09-15 |  |
+| [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/2Nlky0GKESaONs5FBZpisF) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/7vF5mIej4btrKYDtrnjH3b) | 4:01 | 2023-09-15 |  |
+| [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/track/3aG8LIKhmcxv44NngUbDoy) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Tell Shyanne 2 \(feat\. Jace!\)](https://open.spotify.com/album/6H7diE7QNHugTJu7Ptlol2) | 4:01 | 2023-09-15 | 2023-09-20 |
 | [Temper](https://open.spotify.com/track/6fXhozDwpdQEUKhq5Ak0mz) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Temper](https://open.spotify.com/album/3VSRbWNR7FBK54z6gWUY3f) | 1:49 | 2022-12-16 | 2023-04-01 |
 | [Tez & Tone 1](https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Tez & Tone 1](https://open.spotify.com/album/22SPzvel0IVFXbPPjGo7nd) | 3:50 | 2022-10-07 | 2022-12-17 |
 | [That Thang Thangin](https://open.spotify.com/track/2s9zRKnrehtQNpyvudnVEj) | [Rahli](https://open.spotify.com/artist/6WwVzGJQWr2jU3iBgl8WPm) | [That Thang Thangin](https://open.spotify.com/album/2Za3bTcvueLJF29infEVoB) | 1:49 | 2022-07-08 | 2022-08-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Mayberg
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,318 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,463 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 14 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 |
 | 15 | [echt von unten / zoé freestyle](https://open.spotify.com/track/5Y5F8yjB2ZnCS0E9kCFR2Y) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [echt von unten / zoé freestyle](https://open.spotify.com/album/4GtfNpDYB3K8gqeQLLFDzA) | 3:11 |
 | 16 | [\\ der schönste mensch der welt](https://open.spotify.com/track/120jaxjSxt7ocidusCDQoy) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:50 |
-| 17 | [Irgendwo](https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt), [Dery](https://open.spotify.com/artist/13UxT98QMoLM0jShpdvU0S) | [Die Pointe](https://open.spotify.com/album/37bJUCwPLErO9HkGNJTJFs) | 2:57 |
+| 17 | [Irgendwo](https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt), [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [Die Pointe](https://open.spotify.com/album/37bJUCwPLErO9HkGNJTJFs) | 2:57 |
 | 18 | [Komisch](https://open.spotify.com/track/5xSB65nP67AIjwa7sRpK1V) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/2vCBo2IAxZKGw4aK8VYOPF) | 2:36 |
 | 19 | [Rosarot](https://open.spotify.com/track/4WXhjmJaVEheeiaxbuVvDZ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rosarot](https://open.spotify.com/album/49aM6o7lUyIPUZUDIx5he1) | 2:39 |
 | 20 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Teil vom Ganzen](https://open.spotify.com/track/6QIlkQBSjeYyNbDSZrcwuJ) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Macloud](https://open.spotify.com/artist/1CQUPR60ihhBANxqwTZv8O), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Teil vom Ganzen](https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn) | 2:16 |
 | 75 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
 
-Snapshot ID: `MCw5NGVmMTYyOTkwMTFjM2VmNGMxYWFjYWU4NmUzNTgxN2I1Y2VhYWYw`
+Snapshot ID: `MCw0M2I2YzI5YzRkZjM0NGEyNzZmMzgxYjI2ZGE3MDAwYzc4ZjY0YjFh`

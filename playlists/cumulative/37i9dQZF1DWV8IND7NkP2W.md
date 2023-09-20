@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-655 songs - 1 day 5 hr 29 min
+657 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [caravan](https://open.spotify.com/track/66j0QbHI6VRrDyIBKpj8cx) | [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [caravan](https://open.spotify.com/album/7J8kEw1gStQfSksAACR8qq) | 2:47 | 2022-01-13 | 2022-07-25 |
 | [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 | 2022-12-16 |  |
 | [Cat Alley](https://open.spotify.com/track/4y9mOkYt3R1VN4kIDbJyz0) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Cat Alley](https://open.spotify.com/album/5cAV9PNJYbpYFAst4vVUsy) | 1:29 | 2021-12-23 | 2022-07-21 |
+| [Cat's Paw Pads](https://open.spotify.com/track/6ppr4vFW4sAD5HnxfVHoTf) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [Thinning](https://open.spotify.com/album/1SRZNXH5IuuQlz95D5pa7h) | 1:52 | 2023-09-19 |  |
 | [CDEFGAB](https://open.spotify.com/track/2ufuWLWpdo8C0zZlETgvxR) | [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [CDEFGAB](https://open.spotify.com/album/16Jd8mOc6Fn2JxXqyOCrD3) | 2:36 | 2023-03-23 | 2023-06-09 |
-| [Chains Reaction](https://open.spotify.com/track/3n8A9cPu1GOX2iBYV8UOeu) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Chains Reaction](https://open.spotify.com/album/5MvtRBgZqo1KzpVsvgicuX) | 2:01 | 2023-07-27 |  |
+| [Chains Reaction](https://open.spotify.com/track/3n8A9cPu1GOX2iBYV8UOeu) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Chains Reaction](https://open.spotify.com/album/5MvtRBgZqo1KzpVsvgicuX) | 2:01 | 2023-07-27 | 2023-09-20 |
 | [Charlie](https://open.spotify.com/track/3S34zryr8HZBiG6WglMjLU) | [MIKISARA](https://open.spotify.com/artist/03y7qdJe0fDUfULcg162jZ) | [Charlie](https://open.spotify.com/album/1lDSDQQgtARrpPYjYwblyo) | 5:01 | 2021-12-23 | 2022-02-10 |
 | [Cheongshin](https://open.spotify.com/track/2NyFugrzJAyMDLJ2TDDYAx) | [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Cheongshin](https://open.spotify.com/album/5764vWIW5PEoi0IA81Lz6n) | 1:16 | 2021-12-23 | 2022-07-10 |
 | [chidori](https://open.spotify.com/track/3riZQ5Vi2XUbWrCSE4YRYQ) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [UNITED EAST ASIA](https://open.spotify.com/album/1bak3p7f7K3RTcqHZXnvzH) | 1:56 | 2022-01-13 | 2022-06-06 |
@@ -105,6 +106,7 @@
 | [CHOUCHIN \(SOUND TOUR\)](https://open.spotify.com/track/484jkFwdfoURJBypnOLCl0) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [CHOUCHIN \(SOUND TOUR\)](https://open.spotify.com/album/0OKZQaezckePqyi8OHSKQH) | 1:10 | 2022-04-14 | 2022-07-24 |
 | [Chōchin](https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [Chōchin](https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn) | 3:05 | 2021-12-23 | 2023-01-10 |
 | [Cigar](https://open.spotify.com/track/1gT7lLqbEvYTtfYLjyKrPi) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Cigar](https://open.spotify.com/album/64NWyzhuLj2NonnCUwxYFi) | 1:30 | 2022-01-06 | 2022-12-16 |
+| [CIGARRO](https://open.spotify.com/track/6qJfERkBPglFKACoKt7RkM) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [CIGARRO](https://open.spotify.com/album/2t3ZnVQCxVV94GiEv89f9X) | 1:42 | 2023-09-19 |  |
 | [Circulate](https://open.spotify.com/track/3fJA8scjwtoCymoEOkz8Fa) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [The Light](https://open.spotify.com/album/2gQShiIHlSMSH3vSXPgSQX) | 4:14 | 2021-12-23 | 2022-07-26 |
 | [city & river](https://open.spotify.com/track/6gDsiaEOqQwrSEylMP1TGh) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [city & river](https://open.spotify.com/album/6TlnOJLl8TjizlinVJ2AcC) | 2:59 | 2022-02-17 | 2022-09-12 |
 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 | 2021-12-23 | 2023-08-11 |
@@ -616,7 +618,7 @@
 | [Umbrella For Two](https://open.spotify.com/track/5YuVeFoaiD1q8b9RuZRKAE) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH), [Jom Bee](https://open.spotify.com/artist/6qfJzYVLixl3pMl20JTxAw) | [Umbrella For Two](https://open.spotify.com/album/5Qb4y1wiRtbisJPCRkwI84) | 2:31 | 2021-12-23 | 2022-05-22 |
 | [UMM](https://open.spotify.com/track/4EFlpLqNYaZQ5dySiioU9i) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [UMM](https://open.spotify.com/album/3OfeK7h6RcovN6GLC1COzq) | 2:12 | 2023-04-13 | 2023-06-17 |
 | [Unikko](https://open.spotify.com/track/0e6Zp0zDbIpBqrp6R2i4ha) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/0et5c9eLd0MQCMvCtBLjFX) | 3:14 | 2023-04-13 | 2023-04-15 |
-| [Unikko](https://open.spotify.com/track/6rUOgQWnD98GNU8ZhPs8fp) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/00MXzpmAv1p9Accr8ryODd) | 3:14 | 2023-04-13 |  |
+| [Unikko](https://open.spotify.com/track/6rUOgQWnD98GNU8ZhPs8fp) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/00MXzpmAv1p9Accr8ryODd) | 3:14 | 2023-04-13 | 2023-09-20 |
 | [Universal Grammar](https://open.spotify.com/track/1btMhHpEB4OvHpKFePAxqa) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Universal Grammar](https://open.spotify.com/album/0BXbhd7CVpSr4qFkfapK0q) | 1:54 | 2022-02-24 | 2022-04-21 |
 | [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 | 2023-05-25 | 2023-08-25 |
 | [utsuroi](https://open.spotify.com/track/3AgJ12XgvmFmyFZEBx3auH) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [utsuroi](https://open.spotify.com/album/71CddnY001Q5e6BebJrfIs) | 2:29 | 2023-04-13 | 2023-04-28 |

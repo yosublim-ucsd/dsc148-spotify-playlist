@@ -1,12 +1,12 @@
 {
   "description": "Una bella banda sonora que acompa\u00f1ar\u00e1 tu tiempo de lectura.",
-  "num_followers": 223154,
+  "num_followers": 223322,
   "original_name": "M\u00fasica para Leer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTYyMmRmNTQ5NzA0ZjVhZWY1ZWZmNGFjZGM0NDAyM2IyMTIyZWYy",
+  "snapshot_id": "MCw1YzU3MTNlMzY1OGI0MTZjODYyY2I1MDBkYzUxZTRkMTNmYzdiZTM3",
   "tracks": [
     {
       "added_at": "2023-09-11 10:31:34",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Jean Paul errant",
+        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 140823,
+      "name": "Jean Paul errant",
+      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Early Memories",
         "url": "https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Jean Paul errant",
-        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
-      },
-      "artists": [
-        {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
-        }
-      ],
-      "duration_ms": 140823,
-      "name": "Jean Paul errant",
-      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj"
-      },
-      "artists": [
-        {
-          "name": "Yao Chen",
-          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Syllables Flow",
         "url": "https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 126673,
       "name": "Syllables Flow",
       "url": "https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj"
+      },
+      "artists": [
+        {
+          "name": "Yao Chen",
+          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Silent Side",
-        "url": "https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk"
-      },
-      "artists": [
-        {
-          "name": "Emilia Branco",
-          "url": "https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz"
-        }
-      ],
-      "duration_ms": 162777,
-      "name": "Silent Side",
-      "url": "https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "The Destination",
         "url": "https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 122343,
       "name": "The Destination",
       "url": "https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Silent Side",
+        "url": "https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk"
+      },
+      "artists": [
+        {
+          "name": "Emilia Branco",
+          "url": "https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz"
+        }
+      ],
+      "duration_ms": 162777,
+      "name": "Silent Side",
+      "url": "https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX"
-      },
-      "artists": [
-        {
-          "name": "Ben Crosland",
-          "url": "https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr"
-        }
-      ],
-      "duration_ms": 143406,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/3U987lHXBgataMkhfi7YAL"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Symposium",
         "url": "https://open.spotify.com/album/7HvhDxhYGGmKftOxbLDcum"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 142750,
       "name": "Symposium",
       "url": "https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX"
+      },
+      "artists": [
+        {
+          "name": "Ben Crosland",
+          "url": "https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr"
+        }
+      ],
+      "duration_ms": 143406,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/3U987lHXBgataMkhfi7YAL"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Plum Coulee",
-        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
+        "name": "Parterre",
+        "url": "https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv"
       },
       "artists": [
         {
-          "name": "Michael Janzen",
-          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
+          "name": "Ji\u0159\u00ed Hor\u00e1k",
+          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
         }
       ],
-      "duration_ms": 173887,
-      "name": "Plum Coulee",
-      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
+      "duration_ms": 128017,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Parterre",
-        "url": "https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv"
+        "name": "Plum Coulee",
+        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
       },
       "artists": [
         {
-          "name": "Ji\u0159\u00ed Hor\u00e1k",
-          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
+          "name": "Michael Janzen",
+          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
         }
       ],
-      "duration_ms": 128017,
-      "name": "Melt",
-      "url": "https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW"
+      "duration_ms": 173887,
+      "name": "Plum Coulee",
+      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc"
-      },
-      "artists": [
-        {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "A Winged Time",
-      "url": "https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Stilles Sehnen (Upright Reframings)",
         "url": "https://open.spotify.com/album/2ac5YHVhCIkDRp2D7lgswK"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 205269,
       "name": "Stilles Sehnen - Upright Reframings",
       "url": "https://open.spotify.com/track/0KJa9LQdtvIkg7m7lGiSQu"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc"
+      },
+      "artists": [
+        {
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "A Winged Time",
+      "url": "https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -735,8 +735,8 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Blessed with a fire",
-        "url": "https://open.spotify.com/album/4OkclVD647nRAOSsgOzxKr"
+        "name": "Peaceful Rebellion",
+        "url": "https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
         }
       ],
-      "duration_ms": 126568,
-      "name": "Blessed with a fire",
-      "url": "https://open.spotify.com/track/1CjqK7of4R5W0lrUjjfRdx"
+      "duration_ms": 139978,
+      "name": "Peaceful Rebellion",
+      "url": "https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Tana",
-        "url": "https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG"
-      },
-      "artists": [
-        {
-          "name": "Jakob Maler",
-          "url": "https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb"
-        }
-      ],
-      "duration_ms": 178674,
-      "name": "Tana",
-      "url": "https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 137124,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Tana",
+        "url": "https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG"
+      },
+      "artists": [
+        {
+          "name": "Jakob Maler",
+          "url": "https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb"
+        }
+      ],
+      "duration_ms": 178674,
+      "name": "Tana",
+      "url": "https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -847,8 +847,8 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Peaceful Rebellion",
-        "url": "https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI"
+        "name": "Blessed with a fire",
+        "url": "https://open.spotify.com/album/4OkclVD647nRAOSsgOzxKr"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
         }
       ],
-      "duration_ms": 139978,
-      "name": "Peaceful Rebellion",
-      "url": "https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA"
+      "duration_ms": 126568,
+      "name": "Blessed with a fire",
+      "url": "https://open.spotify.com/track/1CjqK7of4R5W0lrUjjfRdx"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -975,38 +975,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
-      },
-      "artists": [
-        {
-          "name": "Nelson Haynes",
-          "url": "https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Outside Lit Windows With You",
-        "url": "https://open.spotify.com/album/57PiHhu4kdVfRoRnHtaI4L"
-      },
-      "artists": [
-        {
-          "name": "Sarah Spring",
-          "url": "https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Outside Lit Windows With You",
-      "url": "https://open.spotify.com/track/14QoAqrZEbEilcN1DVVKYn"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Strejfer",
         "url": "https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3"
       },
@@ -1039,114 +1007,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Chaleureuse",
-        "url": "https://open.spotify.com/album/1wjRb8hVZyqMasnqzsqqcw"
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
       },
       "artists": [
         {
-          "name": "Aleron Lapointe",
-          "url": "https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc"
+          "name": "Nelson Haynes",
+          "url": "https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75"
         }
       ],
-      "duration_ms": 134899,
-      "name": "Chaleureuse",
-      "url": "https://open.spotify.com/track/0FAJDVUpuCzEhCGfouo8Fk"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Donde Nadas",
-        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
-      },
-      "artists": [
-        {
-          "name": "Lupe Sinsonte",
-          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
-        }
-      ],
-      "duration_ms": 141941,
-      "name": "Donde Nadas",
-      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "N\u00e5r du er n\u00e6r",
-        "url": "https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC"
-      },
-      "artists": [
-        {
-          "name": "Leah Dreyer",
-          "url": "https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU"
-        }
-      ],
-      "duration_ms": 124576,
-      "name": "N\u00e5r du er n\u00e6r",
-      "url": "https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Ripples",
-        "url": "https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg"
-      },
-      "artists": [
-        {
-          "name": "Sean Oban",
-          "url": "https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Tras Salome\u0301",
-        "url": "https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo"
-      },
-      "artists": [
-        {
-          "name": "Mirta da Silva",
-          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Tras Salome\u0301",
-      "url": "https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
-      },
-      "artists": [
-        {
-          "name": "Alexander Motovilov",
-          "url": "https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw"
-        }
-      ],
-      "duration_ms": 165902,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Forget Me Not",
-        "url": "https://open.spotify.com/album/5slVwW2ujScGX4vXkuRAZB"
-      },
-      "artists": [
-        {
-          "name": "Cedric Armfeldt",
-          "url": "https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ"
-        }
-      ],
-      "duration_ms": 162375,
-      "name": "Forget Me Not",
-      "url": "https://open.spotify.com/track/1HQF8Vz4Kae6oLhni2E54z"
+      "duration_ms": 188500,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1167,6 +1039,134 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "N\u00e5r du er n\u00e6r",
+        "url": "https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC"
+      },
+      "artists": [
+        {
+          "name": "Leah Dreyer",
+          "url": "https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU"
+        }
+      ],
+      "duration_ms": 124576,
+      "name": "N\u00e5r du er n\u00e6r",
+      "url": "https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Outside Lit Windows With You",
+        "url": "https://open.spotify.com/album/57PiHhu4kdVfRoRnHtaI4L"
+      },
+      "artists": [
+        {
+          "name": "Sarah Spring",
+          "url": "https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Outside Lit Windows With You",
+      "url": "https://open.spotify.com/track/14QoAqrZEbEilcN1DVVKYn"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Donde Nadas",
+        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
+      },
+      "artists": [
+        {
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+        }
+      ],
+      "duration_ms": 141941,
+      "name": "Donde Nadas",
+      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Chaleureuse",
+        "url": "https://open.spotify.com/album/1wjRb8hVZyqMasnqzsqqcw"
+      },
+      "artists": [
+        {
+          "name": "Aleron Lapointe",
+          "url": "https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc"
+        }
+      ],
+      "duration_ms": 134899,
+      "name": "Chaleureuse",
+      "url": "https://open.spotify.com/track/0FAJDVUpuCzEhCGfouo8Fk"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Ripples",
+        "url": "https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg"
+      },
+      "artists": [
+        {
+          "name": "Sean Oban",
+          "url": "https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Forget Me Not",
+        "url": "https://open.spotify.com/album/5slVwW2ujScGX4vXkuRAZB"
+      },
+      "artists": [
+        {
+          "name": "Cedric Armfeldt",
+          "url": "https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ"
+        }
+      ],
+      "duration_ms": 162375,
+      "name": "Forget Me Not",
+      "url": "https://open.spotify.com/track/1HQF8Vz4Kae6oLhni2E54z"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Motovilov",
+          "url": "https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw"
+        }
+      ],
+      "duration_ms": 165902,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Tras Salome\u0301",
+        "url": "https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo"
+      },
+      "artists": [
+        {
+          "name": "Mirta da Silva",
+          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Tras Salome\u0301",
+      "url": "https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Lost Words",
         "url": "https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU"
       },
@@ -1179,38 +1179,6 @@
       "duration_ms": 151761,
       "name": "Lost Words",
       "url": "https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Light Textures",
-        "url": "https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx"
-      },
-      "artists": [
-        {
-          "name": "Monty Reiss",
-          "url": "https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "Satin Night",
-      "url": "https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Chalet High",
-        "url": "https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ"
-      },
-      "artists": [
-        {
-          "name": "Boone River",
-          "url": "https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx"
-        }
-      ],
-      "duration_ms": 159871,
-      "name": "Chalet High",
-      "url": "https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1231,22 +1199,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Volga",
-        "url": "https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF"
-      },
-      "artists": [
-        {
-          "name": "Ivan Vladusic",
-          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
-        }
-      ],
-      "duration_ms": 169374,
-      "name": "Volga",
-      "url": "https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Unsaid",
         "url": "https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD"
       },
@@ -1263,18 +1215,50 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Feeling Free",
-        "url": "https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB"
+        "name": "Light Textures",
+        "url": "https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx"
       },
       "artists": [
         {
-          "name": "Andreas Monta",
-          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
+          "name": "Monty Reiss",
+          "url": "https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ"
         }
       ],
-      "duration_ms": 126374,
-      "name": "Feeling Free",
-      "url": "https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe"
+      "duration_ms": 140666,
+      "name": "Satin Night",
+      "url": "https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Volga",
+        "url": "https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF"
+      },
+      "artists": [
+        {
+          "name": "Ivan Vladusic",
+          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
+        }
+      ],
+      "duration_ms": 169374,
+      "name": "Volga",
+      "url": "https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Chalet High",
+        "url": "https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ"
+      },
+      "artists": [
+        {
+          "name": "Boone River",
+          "url": "https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx"
+        }
+      ],
+      "duration_ms": 159871,
+      "name": "Chalet High",
+      "url": "https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Une main tendue",
-        "url": "https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw"
+        "name": "Feeling Free",
+        "url": "https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB"
       },
       "artists": [
         {
-          "name": "C\u00e9line Aubin",
-          "url": "https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT"
+          "name": "Andreas Monta",
+          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
         }
       ],
-      "duration_ms": 121299,
-      "name": "Une main tendue",
-      "url": "https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima"
+      "duration_ms": 126374,
+      "name": "Feeling Free",
+      "url": "https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Une main tendue",
+        "url": "https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Aubin",
+          "url": "https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT"
+        }
+      ],
+      "duration_ms": 121299,
+      "name": "Une main tendue",
+      "url": "https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Interstellar Seasons",
         "url": "https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 151561,
       "name": "Interstellar Seasons",
       "url": "https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Cavandoli",
-        "url": "https://open.spotify.com/album/37BrBYpSTWdUz5j12OqXpy"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9on Branche",
-          "url": "https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm"
-        }
-      ],
-      "duration_ms": 158168,
-      "name": "Cavandoli",
-      "url": "https://open.spotify.com/track/5y2VQOhr2C26gGbxZfx9DT"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Becoming",
-        "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
+        "name": "Cavandoli",
+        "url": "https://open.spotify.com/album/37BrBYpSTWdUz5j12OqXpy"
       },
       "artists": [
         {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+          "name": "L\u00e9on Branche",
+          "url": "https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm"
         }
       ],
-      "duration_ms": 163250,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
+      "duration_ms": 158168,
+      "name": "Cavandoli",
+      "url": "https://open.spotify.com/track/5y2VQOhr2C26gGbxZfx9DT"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1403,6 +1387,22 @@
       "duration_ms": 129044,
       "name": "Textures",
       "url": "https://open.spotify.com/track/6nECGyZZTPXxi38Epefgpi"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Dolce",
-        "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
+        "name": "Autumn Sessions Watching The Apple Tree",
+        "url": "https://open.spotify.com/album/7Hxdu0dRtRXxf6lxFHHu1A"
       },
       "artists": [
         {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+          "name": "Jonas Holmes",
+          "url": "https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl"
         }
       ],
-      "duration_ms": 143011,
-      "name": "Dolce",
-      "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
+      "duration_ms": 166000,
+      "name": "Must",
+      "url": "https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1487,18 +1487,50 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Autumn Sessions Watching The Apple Tree",
-        "url": "https://open.spotify.com/album/7Hxdu0dRtRXxf6lxFHHu1A"
+        "name": "Dolce",
+        "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
       },
       "artists": [
         {
-          "name": "Jonas Holmes",
-          "url": "https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl"
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Must",
-      "url": "https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ"
+      "duration_ms": 143011,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Idyllic garden",
+        "url": "https://open.spotify.com/album/7B53xiF08Ma86VBlkcQcuF"
+      },
+      "artists": [
+        {
+          "name": "Ellen Wince",
+          "url": "https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP"
+        }
+      ],
+      "duration_ms": 124723,
+      "name": "Idyllic garden",
+      "url": "https://open.spotify.com/track/0uPRRKhenDTl56bWKDcilK"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Riding the wind",
+        "url": "https://open.spotify.com/album/7n2aLPN7oTJNDQ01UexRBn"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "duration_ms": 201650,
+      "name": "Riding the wind",
+      "url": "https://open.spotify.com/track/4msrNRwWXkGX3qdgOgD0nJ"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1535,18 +1567,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Riding the wind",
-        "url": "https://open.spotify.com/album/7n2aLPN7oTJNDQ01UexRBn"
+        "name": "Ombre",
+        "url": "https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT"
       },
       "artists": [
         {
-          "name": "Noemi Lucas",
-          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+          "name": "Valentina Romano",
+          "url": "https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1"
         }
       ],
-      "duration_ms": 201650,
-      "name": "Riding the wind",
-      "url": "https://open.spotify.com/track/4msrNRwWXkGX3qdgOgD0nJ"
+      "duration_ms": 125183,
+      "name": "Ombre",
+      "url": "https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1563,22 +1595,6 @@
       "duration_ms": 126328,
       "name": "Breakfast With Chopin",
       "url": "https://open.spotify.com/track/3lHjOedwwnVrhoOayeFdTI"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Ombre",
-        "url": "https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT"
-      },
-      "artists": [
-        {
-          "name": "Valentina Romano",
-          "url": "https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1"
-        }
-      ],
-      "duration_ms": 125183,
-      "name": "Ombre",
-      "url": "https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Nirha",
-        "url": "https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH"
-      },
-      "artists": [
-        {
-          "name": "Matti Aalto",
-          "url": "https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Nirha",
-      "url": "https://open.spotify.com/track/0SK8aridaHO485I2iJD35e"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Restzeit",
         "url": "https://open.spotify.com/album/6YnTVreiPfr0Ve4LlJkv3Z"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 123373,
       "name": "Restzeit",
       "url": "https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Botanical",
-        "url": "https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ"
-      },
-      "artists": [
-        {
-          "name": "Maru Gomes",
-          "url": "https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp"
-        }
-      ],
-      "duration_ms": 143777,
-      "name": "Botanical",
-      "url": "https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1679,6 +1663,38 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Botanical",
+        "url": "https://open.spotify.com/album/4j5uGANP6T2CGeyhKa6BGZ"
+      },
+      "artists": [
+        {
+          "name": "Maru Gomes",
+          "url": "https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp"
+        }
+      ],
+      "duration_ms": 143777,
+      "name": "Botanical",
+      "url": "https://open.spotify.com/track/0auGwYryPNa1UIEn3BrIx0"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Nirha",
+        "url": "https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH"
+      },
+      "artists": [
+        {
+          "name": "Matti Aalto",
+          "url": "https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Nirha",
+      "url": "https://open.spotify.com/track/0SK8aridaHO485I2iJD35e"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Postkaarten",
         "url": "https://open.spotify.com/album/75jJdYhqxDnTeFAAaWtSED"
       },
@@ -1691,38 +1707,6 @@
       "duration_ms": 170625,
       "name": "Nevel op het water",
       "url": "https://open.spotify.com/track/2xrAPUVXZ9Fx3Db3F3BR6r"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Dagr\u00f8m",
-        "url": "https://open.spotify.com/album/42mz8sXPvqxfnQGYbmHtbP"
-      },
-      "artists": [
-        {
-          "name": "Flemming Hoovgard",
-          "url": "https://open.spotify.com/artist/4aW1OBhYHyrbMWqbEfE5gT"
-        }
-      ],
-      "duration_ms": 141097,
-      "name": "Dagr\u00f8m",
-      "url": "https://open.spotify.com/track/2x66aNwtjp3riJ1lurDElm"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Idyllic garden",
-        "url": "https://open.spotify.com/album/7B53xiF08Ma86VBlkcQcuF"
-      },
-      "artists": [
-        {
-          "name": "Ellen Wince",
-          "url": "https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP"
-        }
-      ],
-      "duration_ms": 124723,
-      "name": "Idyllic garden",
-      "url": "https://open.spotify.com/track/0uPRRKhenDTl56bWKDcilK"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1743,22 +1727,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Glacier",
-        "url": "https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK"
-      },
-      "artists": [
-        {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Hymne d'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/5BqIJ93b8hXkeVY2LMPj1G"
       },
@@ -1771,6 +1739,38 @@
       "duration_ms": 134000,
       "name": "Hymne d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/1BMXuo67CPYuccFQO0r0v9"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Dagr\u00f8m",
+        "url": "https://open.spotify.com/album/42mz8sXPvqxfnQGYbmHtbP"
+      },
+      "artists": [
+        {
+          "name": "Flemming Hoovgard",
+          "url": "https://open.spotify.com/artist/4aW1OBhYHyrbMWqbEfE5gT"
+        }
+      ],
+      "duration_ms": 141097,
+      "name": "Dagr\u00f8m",
+      "url": "https://open.spotify.com/track/2x66aNwtjp3riJ1lurDElm"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Glacier",
+        "url": "https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Bulles \u00e0 facettes",
+        "url": "https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 193264,
+      "name": "Bulles \u00e0 facettes",
+      "url": "https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Wayfarer",
         "url": "https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 126326,
       "name": "Wayfarer",
       "url": "https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Maurice",
-        "url": "https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3"
-      },
-      "artists": [
-        {
-          "name": "Oscar Sergel",
-          "url": "https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8"
-        }
-      ],
-      "duration_ms": 167043,
-      "name": "Maurice",
-      "url": "https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Maurice",
+        "url": "https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3"
+      },
+      "artists": [
+        {
+          "name": "Oscar Sergel",
+          "url": "https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8"
+        }
+      ],
+      "duration_ms": 167043,
+      "name": "Maurice",
+      "url": "https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Aurskog",
         "url": "https://open.spotify.com/album/1NdMcghLOelX6u0Mz8smaG"
       },
@@ -1883,54 +1899,6 @@
       "duration_ms": 125816,
       "name": "Aurskog",
       "url": "https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Bulles \u00e0 facettes",
-        "url": "https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 193264,
-      "name": "Bulles \u00e0 facettes",
-      "url": "https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Haven",
-        "url": "https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7"
-      },
-      "artists": [
-        {
-          "name": "Odette Montano",
-          "url": "https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Haven",
-      "url": "https://open.spotify.com/track/5K5WAmv3SxQR8Is4zJklrz"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Under the Poplars",
-        "url": "https://open.spotify.com/album/7vJN1oU025GDt4BkeCRjj3"
-      },
-      "artists": [
-        {
-          "name": "Sheila Withmore",
-          "url": "https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2"
-        }
-      ],
-      "duration_ms": 164132,
-      "name": "Under the Poplars",
-      "url": "https://open.spotify.com/track/0B0cpBMtYjk5PAwM0bkuoB"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -1967,114 +1935,34 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+        "name": "Under the Poplars",
+        "url": "https://open.spotify.com/album/7vJN1oU025GDt4BkeCRjj3"
       },
       "artists": [
         {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+          "name": "Sheila Withmore",
+          "url": "https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Exhibitions",
-      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
+      "duration_ms": 164132,
+      "name": "Under the Poplars",
+      "url": "https://open.spotify.com/track/0B0cpBMtYjk5PAwM0bkuoB"
     },
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Ariosa",
-        "url": "https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded"
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7"
       },
       "artists": [
         {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+          "name": "Odette Montano",
+          "url": "https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Fiorire",
-      "url": "https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Humbly",
-        "url": "https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I"
-      },
-      "artists": [
-        {
-          "name": "Gail Singleton",
-          "url": "https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw"
-        }
-      ],
-      "duration_ms": 132428,
-      "name": "Humbly",
-      "url": "https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "A Tough Hand",
-        "url": "https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe"
-      },
-      "artists": [
-        {
-          "name": "Solemn Whisper",
-          "url": "https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq"
-        }
-      ],
-      "duration_ms": 147250,
-      "name": "A Tough Hand",
-      "url": "https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Clandestine",
-        "url": "https://open.spotify.com/album/5svnulUJ4RuhBt6mD8UEoF"
-      },
-      "artists": [
-        {
-          "name": "Denise Santoz",
-          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
-        }
-      ],
-      "duration_ms": 170208,
-      "name": "Shoreland",
-      "url": "https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/07Yw3BguFmrDGZbuRMpSlC"
-      },
-      "artists": [
-        {
-          "name": "Aron Edwards",
-          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
-        }
-      ],
-      "duration_ms": 215772,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/2jsQkKbjbA9miTDtV7obIh"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "One Step After Another",
-        "url": "https://open.spotify.com/album/2UNtxSpZBHe97fM79W5QzG"
-      },
-      "artists": [
-        {
-          "name": "Vuelto Ciego",
-          "url": "https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl"
-        }
-      ],
-      "duration_ms": 126476,
-      "name": "One Step After Another",
-      "url": "https://open.spotify.com/track/1zMF82eiy28XdnIpQeZc5t"
+      "duration_ms": 165000,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/5K5WAmv3SxQR8Is4zJklrz"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2095,18 +1983,114 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/1xEqzwfnOa644zQG71fg1n"
+        "name": "Ariosa",
+        "url": "https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded"
       },
       "artists": [
         {
-          "name": "John Thomas Remington",
-          "url": "https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3"
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
         }
       ],
-      "duration_ms": 156906,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh"
+      "duration_ms": 177000,
+      "name": "Fiorire",
+      "url": "https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "A Tough Hand",
+        "url": "https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe"
+      },
+      "artists": [
+        {
+          "name": "Solemn Whisper",
+          "url": "https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq"
+        }
+      ],
+      "duration_ms": 147250,
+      "name": "A Tough Hand",
+      "url": "https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/07Yw3BguFmrDGZbuRMpSlC"
+      },
+      "artists": [
+        {
+          "name": "Aron Edwards",
+          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
+        }
+      ],
+      "duration_ms": 215772,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/2jsQkKbjbA9miTDtV7obIh"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Humbly",
+        "url": "https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I"
+      },
+      "artists": [
+        {
+          "name": "Gail Singleton",
+          "url": "https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw"
+        }
+      ],
+      "duration_ms": 132428,
+      "name": "Humbly",
+      "url": "https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Exhibitions",
+      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Clandestine",
+        "url": "https://open.spotify.com/album/5svnulUJ4RuhBt6mD8UEoF"
+      },
+      "artists": [
+        {
+          "name": "Denise Santoz",
+          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
+        }
+      ],
+      "duration_ms": 170208,
+      "name": "Shoreland",
+      "url": "https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "One Step After Another",
+        "url": "https://open.spotify.com/album/2UNtxSpZBHe97fM79W5QzG"
+      },
+      "artists": [
+        {
+          "name": "Vuelto Ciego",
+          "url": "https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl"
+        }
+      ],
+      "duration_ms": 126476,
+      "name": "One Step After Another",
+      "url": "https://open.spotify.com/track/1zMF82eiy28XdnIpQeZc5t"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2127,22 +2111,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Fifth Season",
-        "url": "https://open.spotify.com/album/7ljI3UpeR4ewS323IfBQQV"
-      },
-      "artists": [
-        {
-          "name": "Dani Mezzo",
-          "url": "https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n"
-        }
-      ],
-      "duration_ms": 167088,
-      "name": "Fifth Season",
-      "url": "https://open.spotify.com/track/1ZBFbDeigSeewJ4fjslV0p"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "The Belfry",
         "url": "https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu"
       },
@@ -2159,18 +2127,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Endless skies",
-        "url": "https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5"
+        "name": "Close",
+        "url": "https://open.spotify.com/album/1xEqzwfnOa644zQG71fg1n"
       },
       "artists": [
         {
-          "name": "Celine Hayes",
-          "url": "https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG"
+          "name": "John Thomas Remington",
+          "url": "https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3"
         }
       ],
-      "duration_ms": 218500,
-      "name": "Endless skies",
-      "url": "https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK"
+      "duration_ms": 156906,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2191,18 +2159,34 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Notes in the Stars",
-        "url": "https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY"
+        "name": "Fifth Season",
+        "url": "https://open.spotify.com/album/7ljI3UpeR4ewS323IfBQQV"
       },
       "artists": [
         {
-          "name": "Laura Sherwin",
-          "url": "https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT"
+          "name": "Dani Mezzo",
+          "url": "https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n"
         }
       ],
-      "duration_ms": 181814,
-      "name": "Notes in the Stars",
-      "url": "https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv"
+      "duration_ms": 167088,
+      "name": "Fifth Season",
+      "url": "https://open.spotify.com/track/1ZBFbDeigSeewJ4fjslV0p"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Endless skies",
+        "url": "https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5"
+      },
+      "artists": [
+        {
+          "name": "Celine Hayes",
+          "url": "https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Endless skies",
+      "url": "https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2239,22 +2223,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Branches \u00e9toil\u00e9es",
-        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
-      },
-      "artists": [
-        {
-          "name": "Leonard Czernay",
-          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
-        }
-      ],
-      "duration_ms": 166795,
-      "name": "Branches \u00e9toil\u00e9es",
-      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/680N4M21R3aq1pcyKmJ7Mt"
       },
@@ -2287,18 +2255,34 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Libellule",
-        "url": "https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf"
+        "name": "Branches \u00e9toil\u00e9es",
+        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
       },
       "artists": [
         {
-          "name": "Isaac Boudillet",
-          "url": "https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx"
+          "name": "Leonard Czernay",
+          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
         }
       ],
-      "duration_ms": 165841,
-      "name": "Libellule",
-      "url": "https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj"
+      "duration_ms": 166795,
+      "name": "Branches \u00e9toil\u00e9es",
+      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Notes in the Stars",
+        "url": "https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY"
+      },
+      "artists": [
+        {
+          "name": "Laura Sherwin",
+          "url": "https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT"
+        }
+      ],
+      "duration_ms": 181814,
+      "name": "Notes in the Stars",
+      "url": "https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2315,6 +2299,22 @@
       "duration_ms": 152000,
       "name": "Matria",
       "url": "https://open.spotify.com/track/03wyufh9uNomZdlKIcQ0E4"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Libellule",
+        "url": "https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf"
+      },
+      "artists": [
+        {
+          "name": "Isaac Boudillet",
+          "url": "https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx"
+        }
+      ],
+      "duration_ms": 165841,
+      "name": "Libellule",
+      "url": "https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2367,18 +2367,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "A Dream of Tomorrow",
-        "url": "https://open.spotify.com/album/3Qojrn9xWLkfIbwL9Shrly"
+        "name": "Le parole non bastano",
+        "url": "https://open.spotify.com/album/6EHWGXSxxhvtOSZVEHr52o"
       },
       "artists": [
         {
-          "name": "Kisane",
-          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+          "name": "Massimo Corciani",
+          "url": "https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI"
         }
       ],
-      "duration_ms": 133365,
-      "name": "A Dream of Tomorrow",
-      "url": "https://open.spotify.com/track/4nZCJzRoJqcItuc81ZnCBj"
+      "duration_ms": 151944,
+      "name": "Le parole non bastano",
+      "url": "https://open.spotify.com/track/3q257jNovvy9u7dW3BOo4u"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "A Dream of Tomorrow",
+        "url": "https://open.spotify.com/album/3Qojrn9xWLkfIbwL9Shrly"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "duration_ms": 133365,
+      "name": "A Dream of Tomorrow",
+      "url": "https://open.spotify.com/track/4nZCJzRoJqcItuc81ZnCBj"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Compromise",
         "url": "https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo"
       },
@@ -2431,6 +2447,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Rites of Passage",
+        "url": "https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h"
+      },
+      "artists": [
+        {
+          "name": "Chris Donner",
+          "url": "https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Rites of Passage",
+      "url": "https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Lizards play",
         "url": "https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p"
       },
@@ -2443,22 +2475,6 @@
       "duration_ms": 146569,
       "name": "Lizards play",
       "url": "https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Le parole non bastano",
-        "url": "https://open.spotify.com/album/6EHWGXSxxhvtOSZVEHr52o"
-      },
-      "artists": [
-        {
-          "name": "Massimo Corciani",
-          "url": "https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI"
-        }
-      ],
-      "duration_ms": 151944,
-      "name": "Le parole non bastano",
-      "url": "https://open.spotify.com/track/3q257jNovvy9u7dW3BOo4u"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2527,22 +2543,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Rites of Passage",
-        "url": "https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h"
-      },
-      "artists": [
-        {
-          "name": "Chris Donner",
-          "url": "https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Rites of Passage",
-      "url": "https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Lady Ground",
         "url": "https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a"
       },
@@ -2555,6 +2555,22 @@
       "duration_ms": 174352,
       "name": "Lady Ground",
       "url": "https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Najma",
+        "url": "https://open.spotify.com/album/603A4usovlzYEeYHMLFU5I"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "duration_ms": 167153,
+      "name": "Najma",
+      "url": "https://open.spotify.com/track/19TO5cab4Y0whxSr1LogZi"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2575,6 +2591,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Steady The Ship",
+        "url": "https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH"
+      },
+      "artists": [
+        {
+          "name": "Ragnar Seaholm",
+          "url": "https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Steady The Ship",
+      "url": "https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Overcast",
         "url": "https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR"
       },
@@ -2587,22 +2619,6 @@
       "duration_ms": 153500,
       "name": "Overcast",
       "url": "https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Najma",
-        "url": "https://open.spotify.com/album/603A4usovlzYEeYHMLFU5I"
-      },
-      "artists": [
-        {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
-        }
-      ],
-      "duration_ms": 167153,
-      "name": "Najma",
-      "url": "https://open.spotify.com/track/19TO5cab4Y0whxSr1LogZi"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2639,18 +2655,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Steady The Ship",
-        "url": "https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH"
+        "name": "Never Give In",
+        "url": "https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY"
       },
       "artists": [
         {
-          "name": "Ragnar Seaholm",
-          "url": "https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG"
+          "name": "Irma Kantola",
+          "url": "https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Steady The Ship",
-      "url": "https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le"
+      "duration_ms": 185750,
+      "name": "Never Give In",
+      "url": "https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2671,54 +2687,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Oyasumi Nasai",
-        "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
-      },
-      "artists": [
-        {
-          "name": "Marlon Guild",
-          "url": "https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl"
-        }
-      ],
-      "duration_ms": 209578,
-      "name": "Ja Mata",
-      "url": "https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Never Give In",
-        "url": "https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY"
-      },
-      "artists": [
-        {
-          "name": "Irma Kantola",
-          "url": "https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Never Give In",
-      "url": "https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Innamorarsi",
-        "url": "https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6"
-      },
-      "artists": [
-        {
-          "name": "Irene Gaifana",
-          "url": "https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83"
-        }
-      ],
-      "duration_ms": 152990,
-      "name": "Innamorarsi",
-      "url": "https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Water Lilly Pond",
         "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
       },
@@ -2731,22 +2699,6 @@
       "duration_ms": 188025,
       "name": "Water Lilly Pond",
       "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "I found you",
-        "url": "https://open.spotify.com/album/46AgYDtzsWu8eczwGknUBW"
-      },
-      "artists": [
-        {
-          "name": "Lara Di Umbra",
-          "url": "https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG"
-        }
-      ],
-      "duration_ms": 137226,
-      "name": "I found you",
-      "url": "https://open.spotify.com/track/53LdGm0FF9hIH4GY1aytqr"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2767,18 +2719,50 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Gaillardia",
-        "url": "https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P"
+        "name": "Innamorarsi",
+        "url": "https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6"
       },
       "artists": [
         {
-          "name": "Elliot Ziegler",
-          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
+          "name": "Irene Gaifana",
+          "url": "https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Gaillardia",
-      "url": "https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW"
+      "duration_ms": 152990,
+      "name": "Innamorarsi",
+      "url": "https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Oyasumi Nasai",
+        "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
+      },
+      "artists": [
+        {
+          "name": "Marlon Guild",
+          "url": "https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl"
+        }
+      ],
+      "duration_ms": 209578,
+      "name": "Ja Mata",
+      "url": "https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "I found you",
+        "url": "https://open.spotify.com/album/46AgYDtzsWu8eczwGknUBW"
+      },
+      "artists": [
+        {
+          "name": "Lara Di Umbra",
+          "url": "https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG"
+        }
+      ],
+      "duration_ms": 137226,
+      "name": "I found you",
+      "url": "https://open.spotify.com/track/53LdGm0FF9hIH4GY1aytqr"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2799,6 +2783,38 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Countless Days",
+        "url": "https://open.spotify.com/album/5lQf5PkYVXgSOB1d8ovD9l"
+      },
+      "artists": [
+        {
+          "name": "Novo Talos",
+          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
+        }
+      ],
+      "duration_ms": 203942,
+      "name": "Countless Days",
+      "url": "https://open.spotify.com/track/07pkIvWcTcQnZxLG8Z4yn7"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Gaillardia",
+        "url": "https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P"
+      },
+      "artists": [
+        {
+          "name": "Elliot Ziegler",
+          "url": "https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Gaillardia",
+      "url": "https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Imbolc",
         "url": "https://open.spotify.com/album/0J6pG8QWSeb8jShtQ0MWi3"
       },
@@ -2815,18 +2831,34 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Countless Days",
-        "url": "https://open.spotify.com/album/5lQf5PkYVXgSOB1d8ovD9l"
+        "name": "Feuilles Tombantes",
+        "url": "https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J"
       },
       "artists": [
         {
-          "name": "Novo Talos",
-          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
+          "name": "Mauvais Roger",
+          "url": "https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD"
         }
       ],
-      "duration_ms": 203942,
-      "name": "Countless Days",
-      "url": "https://open.spotify.com/track/07pkIvWcTcQnZxLG8Z4yn7"
+      "duration_ms": 127962,
+      "name": "Feuilles Tombantes",
+      "url": "https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Big Sur",
+        "url": "https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf"
+      },
+      "artists": [
+        {
+          "name": "Marisa Madsen",
+          "url": "https://open.spotify.com/artist/6vdBFtunfJQ1TWNrUdTxMF"
+        }
+      ],
+      "duration_ms": 158625,
+      "name": "Big Sur",
+      "url": "https://open.spotify.com/track/3biK7UciGCvvdSodatIrD1"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2863,22 +2895,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Feuilles Tombantes",
-        "url": "https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J"
-      },
-      "artists": [
-        {
-          "name": "Mauvais Roger",
-          "url": "https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD"
-        }
-      ],
-      "duration_ms": 127962,
-      "name": "Feuilles Tombantes",
-      "url": "https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Deepest Woods",
         "url": "https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe"
       },
@@ -2891,38 +2907,6 @@
       "duration_ms": 169250,
       "name": "Deepest woods",
       "url": "https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Big Sur",
-        "url": "https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf"
-      },
-      "artists": [
-        {
-          "name": "Marisa Madsen",
-          "url": "https://open.spotify.com/artist/6vdBFtunfJQ1TWNrUdTxMF"
-        }
-      ],
-      "duration_ms": 158625,
-      "name": "Big Sur",
-      "url": "https://open.spotify.com/track/3biK7UciGCvvdSodatIrD1"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Storr",
-        "url": "https://open.spotify.com/album/2HKmEzAH66lNarpba1JyoU"
-      },
-      "artists": [
-        {
-          "name": "Teide",
-          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
-        }
-      ],
-      "duration_ms": 197871,
-      "name": "Storr",
-      "url": "https://open.spotify.com/track/1FsASiGx3ay1qxeqZA9sdP"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -2955,6 +2939,22 @@
       "duration_ms": 233000,
       "name": "Akeleie",
       "url": "https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Storr",
+        "url": "https://open.spotify.com/album/2HKmEzAH66lNarpba1JyoU"
+      },
+      "artists": [
+        {
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+        }
+      ],
+      "duration_ms": 197871,
+      "name": "Storr",
+      "url": "https://open.spotify.com/track/1FsASiGx3ay1qxeqZA9sdP"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3023,6 +3023,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Slow Voltage",
+        "url": "https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX"
+      },
+      "artists": [
+        {
+          "name": "Luna Bauer",
+          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "Slow Voltage",
+      "url": "https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Roundabout",
         "url": "https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW"
       },
@@ -3055,22 +3071,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Slow Voltage",
-        "url": "https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX"
-      },
-      "artists": [
-        {
-          "name": "Luna Bauer",
-          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "Slow Voltage",
-      "url": "https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Vitrales",
         "url": "https://open.spotify.com/album/6NfvuPPYduPE9MIQviXENF"
       },
@@ -3083,6 +3083,22 @@
       "duration_ms": 160145,
       "name": "Vitrales",
       "url": "https://open.spotify.com/track/2SPkUtdw39pnYWZr01opD9"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Retrospection",
+        "url": "https://open.spotify.com/album/2TTPCvN55NHOr95q89qmpa"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9rie Beaumont",
+          "url": "https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/2yh46DDBBxoDN45rCH8nBt"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3131,22 +3147,6 @@
       "duration_ms": 145725,
       "name": "Minutieux",
       "url": "https://open.spotify.com/track/2SQvzWBCdnNzleb1BJPdS1"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Retrospection",
-        "url": "https://open.spotify.com/album/2TTPCvN55NHOr95q89qmpa"
-      },
-      "artists": [
-        {
-          "name": "Val\u00e9rie Beaumont",
-          "url": "https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/2yh46DDBBxoDN45rCH8nBt"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3215,22 +3215,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Hidden place",
-        "url": "https://open.spotify.com/album/782ma7pykAubjHJsjDvEEx"
-      },
-      "artists": [
-        {
-          "name": "Finn Lenoir",
-          "url": "https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "Hidden place",
-      "url": "https://open.spotify.com/track/3NZVlwqVu3qMwYM7EXaMV9"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Oddities",
         "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
       },
@@ -3247,34 +3231,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Winter Sessions By The Lake",
-        "url": "https://open.spotify.com/album/4pwxYdiYntZbLCuyJQnadA"
+        "name": "Hidden place",
+        "url": "https://open.spotify.com/album/782ma7pykAubjHJsjDvEEx"
       },
       "artists": [
         {
-          "name": "Jonas Holmes",
-          "url": "https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl"
+          "name": "Finn Lenoir",
+          "url": "https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d"
         }
       ],
-      "duration_ms": 163750,
-      "name": "A Piece In Three Four",
-      "url": "https://open.spotify.com/track/53QF1jYx9t2QTfViROvl6W"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Essence of Light",
-        "url": "https://open.spotify.com/album/7tFfsBfcdYayqs14yezBqR"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Essence of Light",
-      "url": "https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9"
+      "duration_ms": 195882,
+      "name": "Hidden place",
+      "url": "https://open.spotify.com/track/3NZVlwqVu3qMwYM7EXaMV9"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3295,18 +3263,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Feathers",
-        "url": "https://open.spotify.com/album/5oe3BBpC7dNUNu8RDdo5XB"
+        "name": "Winter Sessions By The Lake",
+        "url": "https://open.spotify.com/album/4pwxYdiYntZbLCuyJQnadA"
       },
       "artists": [
         {
-          "name": "Tanisha Hickman",
-          "url": "https://open.spotify.com/artist/3bF4QRKnDmeeFT7WxcwOus"
+          "name": "Jonas Holmes",
+          "url": "https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl"
         }
       ],
-      "duration_ms": 125500,
-      "name": "Feathers",
-      "url": "https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ"
+      "duration_ms": 163750,
+      "name": "A Piece In Three Four",
+      "url": "https://open.spotify.com/track/53QF1jYx9t2QTfViROvl6W"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3327,18 +3295,34 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "La maison de l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr"
+        "name": "Essence of Light",
+        "url": "https://open.spotify.com/album/7tFfsBfcdYayqs14yezBqR"
       },
       "artists": [
         {
-          "name": "Anne Vallayer",
-          "url": "https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz"
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 154500,
-      "name": "La maison de l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D"
+      "duration_ms": 205760,
+      "name": "Essence of Light",
+      "url": "https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Feathers",
+        "url": "https://open.spotify.com/album/5oe3BBpC7dNUNu8RDdo5XB"
+      },
+      "artists": [
+        {
+          "name": "Tanisha Hickman",
+          "url": "https://open.spotify.com/artist/3bF4QRKnDmeeFT7WxcwOus"
+        }
+      ],
+      "duration_ms": 125500,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3355,6 +3339,38 @@
       "duration_ms": 154729,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Valle Halle",
+        "url": "https://open.spotify.com/album/7sTnfKi8ZaEaG9LQRz1tFT"
+      },
+      "artists": [
+        {
+          "name": "Arndt Goudier",
+          "url": "https://open.spotify.com/artist/0adSRv2wPNTotg3FojDkzJ"
+        }
+      ],
+      "duration_ms": 183815,
+      "name": "durch Nacht und Nebel",
+      "url": "https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "La maison de l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr"
+      },
+      "artists": [
+        {
+          "name": "Anne Vallayer",
+          "url": "https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "La maison de l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3391,38 +3407,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Free Ground",
-        "url": "https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ"
-      },
-      "artists": [
-        {
-          "name": "Lavendle",
-          "url": "https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Free Ground",
-      "url": "https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Valle Halle",
-        "url": "https://open.spotify.com/album/7sTnfKi8ZaEaG9LQRz1tFT"
-      },
-      "artists": [
-        {
-          "name": "Arndt Goudier",
-          "url": "https://open.spotify.com/artist/0adSRv2wPNTotg3FojDkzJ"
-        }
-      ],
-      "duration_ms": 183815,
-      "name": "durch Nacht und Nebel",
-      "url": "https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Saga",
         "url": "https://open.spotify.com/album/3wr966vVFS29mukRY6UZUC"
       },
@@ -3439,18 +3423,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Involution",
-        "url": "https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4"
+        "name": "Free Ground",
+        "url": "https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ"
       },
       "artists": [
         {
-          "name": "Ivan Vladusic",
-          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
+          "name": "Lavendle",
+          "url": "https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u"
         }
       ],
       "duration_ms": 163500,
-      "name": "Involution",
-      "url": "https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR"
+      "name": "Free Ground",
+      "url": "https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3471,6 +3455,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Involution",
+        "url": "https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4"
+      },
+      "artists": [
+        {
+          "name": "Ivan Vladusic",
+          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Involution",
+      "url": "https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Pigeon Prelude",
         "url": "https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb"
       },
@@ -3487,22 +3487,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Le Beau",
-        "url": "https://open.spotify.com/album/1nGkLuKoBJur52SMEeMnR6"
-      },
-      "artists": [
-        {
-          "name": "Ossie Woods",
-          "url": "https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl"
-        }
-      ],
-      "duration_ms": 205302,
-      "name": "Le Beau",
-      "url": "https://open.spotify.com/track/2sXivDlzfbHQAPrGYKhWbP"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Fratelli",
         "url": "https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr"
       },
@@ -3515,6 +3499,22 @@
       "duration_ms": 127500,
       "name": "Fratelli",
       "url": "https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Le Beau",
+        "url": "https://open.spotify.com/album/1nGkLuKoBJur52SMEeMnR6"
+      },
+      "artists": [
+        {
+          "name": "Ossie Woods",
+          "url": "https://open.spotify.com/artist/2RNWon12U1hD0DZNKPwXVl"
+        }
+      ],
+      "duration_ms": 205302,
+      "name": "Le Beau",
+      "url": "https://open.spotify.com/track/2sXivDlzfbHQAPrGYKhWbP"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3551,18 +3551,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Reappearance",
-        "url": "https://open.spotify.com/album/7Jhe5OaZ8wSQsCTiQgcdqG"
+        "name": "Adormitor",
+        "url": "https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6"
       },
       "artists": [
         {
-          "name": "Phoebe Waits",
-          "url": "https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF"
+          "name": "Micah Fieraru",
+          "url": "https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe"
         }
       ],
-      "duration_ms": 130448,
-      "name": "Reappearance",
-      "url": "https://open.spotify.com/track/5Cx6SWTmEc6fd2t3k1XTDx"
+      "duration_ms": 136691,
+      "name": "Adormitor",
+      "url": "https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3583,18 +3583,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Adormitor",
-        "url": "https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6"
+        "name": "Reappearance",
+        "url": "https://open.spotify.com/album/7Jhe5OaZ8wSQsCTiQgcdqG"
       },
       "artists": [
         {
-          "name": "Micah Fieraru",
-          "url": "https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe"
+          "name": "Phoebe Waits",
+          "url": "https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF"
         }
       ],
-      "duration_ms": 136691,
-      "name": "Adormitor",
-      "url": "https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl"
+      "duration_ms": 130448,
+      "name": "Reappearance",
+      "url": "https://open.spotify.com/track/5Cx6SWTmEc6fd2t3k1XTDx"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3647,6 +3647,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Dijon",
+        "url": "https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs"
+      },
+      "artists": [
+        {
+          "name": "Antoine Stavelot",
+          "url": "https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ"
+        }
+      ],
+      "duration_ms": 159139,
+      "name": "Dijon",
+      "url": "https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/2Mb8DzYuYlPIM1IaNmO0oq"
       },
@@ -3659,22 +3675,6 @@
       "duration_ms": 185723,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Serre moi",
-        "url": "https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9"
-      },
-      "artists": [
-        {
-          "name": "Mainfred Arthur",
-          "url": "https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Serre moi",
-      "url": "https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3711,18 +3711,66 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Dijon",
-        "url": "https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs"
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/3ywyIfP5x1jjosZDJpxzjT"
       },
       "artists": [
         {
-          "name": "Antoine Stavelot",
-          "url": "https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ"
+          "name": "Michiel Borstlap",
+          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
         }
       ],
-      "duration_ms": 159139,
-      "name": "Dijon",
-      "url": "https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB"
+      "duration_ms": 139794,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/44pzUcTMHrjZnBQTqgjWf0"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Serre moi",
+        "url": "https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9"
+      },
+      "artists": [
+        {
+          "name": "Mainfred Arthur",
+          "url": "https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Serre moi",
+      "url": "https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Jalousie",
+        "url": "https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj"
+      },
+      "artists": [
+        {
+          "name": "Amy-Leigh Williamson",
+          "url": "https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx"
+        }
+      ],
+      "duration_ms": 120500,
+      "name": "Jalousie",
+      "url": "https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/63G9tWahtvcvfMbJplDofw"
+      },
+      "artists": [
+        {
+          "name": "Francie Stooge",
+          "url": "https://open.spotify.com/artist/6G3eQZZG4JQDjKRbO5bZz7"
+        }
+      ],
+      "duration_ms": 130972,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/0xOPyF2d1FC6xuBRj3JJxN"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3759,22 +3807,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Jalousie",
-        "url": "https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj"
-      },
-      "artists": [
-        {
-          "name": "Amy-Leigh Williamson",
-          "url": "https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx"
-        }
-      ],
-      "duration_ms": 120500,
-      "name": "Jalousie",
-      "url": "https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Colorado Nights",
         "url": "https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc"
       },
@@ -3787,22 +3819,6 @@
       "duration_ms": 170991,
       "name": "Colorado Nights",
       "url": "https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Late Spring",
-        "url": "https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy"
-      },
-      "artists": [
-        {
-          "name": "Anthony Bertoli",
-          "url": "https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz"
-        }
-      ],
-      "duration_ms": 180460,
-      "name": "Late Spring",
-      "url": "https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3823,6 +3839,22 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
+        "name": "Late Spring",
+        "url": "https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy"
+      },
+      "artists": [
+        {
+          "name": "Anthony Bertoli",
+          "url": "https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz"
+        }
+      ],
+      "duration_ms": 180460,
+      "name": "Late Spring",
+      "url": "https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
         "name": "Who I Was",
         "url": "https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo"
       },
@@ -3839,18 +3871,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/63G9tWahtvcvfMbJplDofw"
+        "name": "Vaikne",
+        "url": "https://open.spotify.com/album/5zCCxMWQbzOgzl4nij0PVT"
       },
       "artists": [
         {
-          "name": "Francie Stooge",
-          "url": "https://open.spotify.com/artist/6G3eQZZG4JQDjKRbO5bZz7"
+          "name": "Rein Ilves",
+          "url": "https://open.spotify.com/artist/1WkXyHkNDesVuoy1Q64ILn"
         }
       ],
-      "duration_ms": 130972,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/0xOPyF2d1FC6xuBRj3JJxN"
+      "duration_ms": 127303,
+      "name": "Vaikne",
+      "url": "https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3867,22 +3899,6 @@
       "duration_ms": 154750,
       "name": "Dusk to dawn",
       "url": "https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Vaikne",
-        "url": "https://open.spotify.com/album/5zCCxMWQbzOgzl4nij0PVT"
-      },
-      "artists": [
-        {
-          "name": "Rein Ilves",
-          "url": "https://open.spotify.com/artist/1WkXyHkNDesVuoy1Q64ILn"
-        }
-      ],
-      "duration_ms": 127303,
-      "name": "Vaikne",
-      "url": "https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3919,22 +3935,6 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Puritano",
-        "url": "https://open.spotify.com/album/0tWCGrJAZk8F7sJ74Fd1BC"
-      },
-      "artists": [
-        {
-          "name": "Eric Sebastian",
-          "url": "https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "Puritano",
-      "url": "https://open.spotify.com/track/49HXHbk46AZwqq1ITxD44H"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
         "name": "Tempo dell\u2019Oceano",
         "url": "https://open.spotify.com/album/7LDWDL66Jt2u1S9WaH2aVr"
       },
@@ -3947,6 +3947,22 @@
       "duration_ms": 144615,
       "name": "Tempo dell\u2019Oceano",
       "url": "https://open.spotify.com/track/0ruAGzEvwR2YZOzqoXI0Hk"
+    },
+    {
+      "added_at": "2023-09-11 10:31:34",
+      "album": {
+        "name": "Puritano",
+        "url": "https://open.spotify.com/album/0tWCGrJAZk8F7sJ74Fd1BC"
+      },
+      "artists": [
+        {
+          "name": "Eric Sebastian",
+          "url": "https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Puritano",
+      "url": "https://open.spotify.com/track/49HXHbk46AZwqq1ITxD44H"
     },
     {
       "added_at": "2023-09-11 10:31:34",
@@ -3983,34 +3999,18 @@
     {
       "added_at": "2023-09-11 10:31:34",
       "album": {
-        "name": "Follow The Wind",
-        "url": "https://open.spotify.com/album/00szFnztAJMvCFQI4xN0pe"
+        "name": "Intermediate",
+        "url": "https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU"
       },
       "artists": [
         {
-          "name": "Jett Ingram",
-          "url": "https://open.spotify.com/artist/1OsM3C8DqfNYJc0PXD0Pyv"
+          "name": "Alain Pironi",
+          "url": "https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr"
         }
       ],
-      "duration_ms": 144750,
-      "name": "Follow The Wind",
-      "url": "https://open.spotify.com/track/5TsrzBIJvEJXoujkVVY6be"
-    },
-    {
-      "added_at": "2023-09-11 10:31:34",
-      "album": {
-        "name": "Higo",
-        "url": "https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0"
-      },
-      "artists": [
-        {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Higo",
-      "url": "https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV"
+      "duration_ms": 150509,
+      "name": "Intermediate",
+      "url": "https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6"
     }
   ],
   "unique_name": "M\u00fasica para Leer",

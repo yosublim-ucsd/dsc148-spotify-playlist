@@ -1,12 +1,12 @@
 {
   "description": "Tell us Dana and Alden, why is everyone at TJ's so attractive?",
-  "num_followers": 1109705,
+  "num_followers": 1109693,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDJhOGIxYzM5N2QyYjg0ZjIzYjAxMzZkZWM1ODBjNjNmOGJiZWNi",
+  "snapshot_id": "MCxhNGNiZTljYTRlYWQ5MWQxOGZhNTZiY2Q2NGVhZjYzNTc0YmRlYjM1",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -27,6 +27,22 @@
       "duration_ms": 156026,
       "name": "Let's Go to Trader Joe's",
       "url": "https://open.spotify.com/track/0z5l7DO1gTxysQagz2ze8M"
+    },
+    {
+      "added_at": "2023-09-18 14:23:10",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-09-12 17:33:50",
@@ -93,6 +109,22 @@
       "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
     },
     {
+      "added_at": "2023-09-06 15:39:15",
+      "album": {
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
       "added_at": "2023-09-05 00:28:46",
       "album": {
         "name": "Summer's Over",
@@ -113,22 +145,6 @@
       "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
     },
     {
-      "added_at": "2023-09-18 14:23:10",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Nothing Works",
@@ -143,6 +159,22 @@
       "duration_ms": 252797,
       "name": "Nothing Works",
       "url": "https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "wonder if u care",
+        "url": "https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4"
+      },
+      "artists": [
+        {
+          "name": "flyingfish",
+          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        }
+      ],
+      "duration_ms": 134556,
+      "name": "wonder if u care",
+      "url": "https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -233,22 +265,6 @@
       "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
     },
     {
-      "added_at": "2023-09-06 15:39:15",
-      "album": {
-        "name": "hotline",
-        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
-    },
-    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "All Night",
@@ -295,22 +311,6 @@
       "duration_ms": 141333,
       "name": "between the bars",
       "url": "https://open.spotify.com/track/2JA5TwoXap8PS8VFIoEpsf"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "wonder if u care",
-        "url": "https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4"
-      },
-      "artists": [
-        {
-          "name": "flyingfish",
-          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
-        }
-      ],
-      "duration_ms": 134556,
-      "name": "wonder if u care",
-      "url": "https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1143,22 +1143,6 @@
       "duration_ms": 304413,
       "name": "Soak Up The Sun",
       "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Midnight Freak-Out",
-        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Midnight Freak-Out",
-      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
     },
     {
       "added_at": "2023-05-12 04:00:00",

@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "965km",
+        "url": "https://open.spotify.com/album/3EJeJMO42jJYMVcCjt5XQc"
+      },
+      "artists": [
+        {
+          "name": "Lafuzin",
+          "url": "https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201531,
+      "name": "965km",
+      "url": "https://open.spotify.com/track/2czCmnb7wTA0gRmed9JhJi"
+    },
+    {
+      "album": {
         "name": "A Rainy Friday In June",
         "url": "https://open.spotify.com/album/3xiFLn8OFUoqgi4mdZrSgn"
       },
@@ -1859,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "\u4eca\u65e5\u306f\u306a\u3093\u3060\u304b/DOWN TOWN",
+        "url": "https://open.spotify.com/album/1FDOX3sjlYWF2xynxUzWiS"
+      },
+      "artists": [
+        {
+          "name": "flex life",
+          "url": "https://open.spotify.com/artist/66zHgvxzqfIjBiyAUhZRU1"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298166,
+      "name": "DOWN TOWN",
+      "url": "https://open.spotify.com/track/6AvFi2BAozKdtQnY4akfVs"
+    },
+    {
+      "album": {
         "name": "INTERMISSION",
         "url": "https://open.spotify.com/album/6JseI9dzTfHwtYFC9FQ0AH"
       },
@@ -2878,7 +2914,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 346923,
       "name": "Hikari no Machi",
       "url": "https://open.spotify.com/track/66QFHJUNaD4w22PKw6h6u8"
@@ -3458,7 +3494,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 216106,
       "name": "Kitai to Yokan",
       "url": "https://open.spotify.com/track/3uXhwYBekTnCBSw1EOqPTr"
@@ -4370,7 +4406,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 217800,
       "name": "missing summer - Hugh Keice\u3000Remix - Korean Ver.",
       "url": "https://open.spotify.com/track/7fv8egRaKe98kxMpTYkSUh"
@@ -4944,6 +4980,24 @@
       "duration_ms": 160298,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
+    },
+    {
+      "album": {
+        "name": "noidleap",
+        "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203863,
+      "name": "Noidleap",
+      "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
     },
     {
       "album": {
@@ -6352,7 +6406,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 211000,
       "name": "Signpost",
       "url": "https://open.spotify.com/track/3CM06CWV3qisM1SzL8aLXy"
@@ -7446,7 +7500,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 197119,
       "name": "SUTEKI",
       "url": "https://open.spotify.com/track/7ukJqd6fmFIPckkIilunXy"
@@ -7704,6 +7758,24 @@
       "duration_ms": 288099,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6wffxmLgeZTbvS1hYvLkht"
+    },
+    {
+      "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/1oXqi7f9iOGN8r5daigwYx"
+      },
+      "artists": [
+        {
+          "name": "Schuwa Schuwa",
+          "url": "https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/5T3v4s3Hrkd4KNK47RmQNY"
     },
     {
       "album": {
@@ -8182,7 +8254,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 228872,
       "name": "UMA",
       "url": "https://open.spotify.com/track/2vJ8n0NKqQamRSKwDJodZP"
@@ -11011,6 +11083,24 @@
     },
     {
       "album": {
+        "name": "\u5915\u51ea\u901a\u4fe1 2023 Remix",
+        "url": "https://open.spotify.com/album/4DnhmAGIgwpv8NaX1FGlKe"
+      },
+      "artists": [
+        {
+          "name": "S. Kiyotaka & Omega Tribe",
+          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279887,
+      "name": "\u5915\u51ea\u901a\u4fe1 - 2023 Remix",
+      "url": "https://open.spotify.com/track/7ArA09LFsVi9Mcfs43XJQW"
+    },
+    {
+      "album": {
         "name": "\u5915\u66ae\u308c",
         "url": "https://open.spotify.com/album/4irtZ5UbGFW8WkU8TvfPGf"
       },
@@ -11498,7 +11588,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
@@ -11896,7 +11986,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 296399,
       "name": "\u6e1a\u3068\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/0fB9qqzExwkYpfK5j1WAPr"
@@ -12490,6 +12580,28 @@
       "duration_ms": 233199,
       "name": "\u90fd\u4f1a",
       "url": "https://open.spotify.com/track/2xnakNkUj5CFdWQ8kK0BME"
+    },
+    {
+      "album": {
+        "name": "\u90fd\u4f1a (NAUTILUS Re-work)",
+        "url": "https://open.spotify.com/album/5Pvo0Sbl7M9AsSN2xwE6bG"
+      },
+      "artists": [
+        {
+          "name": "HF International",
+          "url": "https://open.spotify.com/artist/5nCgjWUjFdlNTRtLO5e8jy"
+        },
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277237,
+      "name": "\u90fd\u4f1a - NAUTILUS Re-work",
+      "url": "https://open.spotify.com/track/5dffFNM0KfehZXj0e0GiQN"
     },
     {
       "album": {

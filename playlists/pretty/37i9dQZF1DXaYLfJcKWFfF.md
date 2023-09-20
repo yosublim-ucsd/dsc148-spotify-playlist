@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd?si=\-vTi\-zG8TceLlVsEnt73bw"> Tommy WA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,014 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,041 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Chasing Love](https://open.spotify.com/track/0UvDsFVi25ulx7UsoboyLZ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Chasing Love](https://open.spotify.com/album/4kCSRS7Tr6RMq67l3icaTd) | 3:20 |
 | 50 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 |
 
-Snapshot ID: `MCxjYjRmOWFlMDRhZjEwZmI1NDVlZjM2YmY3Nzg2ZWQ3N2I0ZjVhNjM3`
+Snapshot ID: `MCw4ZTkwNDA3Y2E5NzUwMGJmNzJkZjI1MTIzMmM4MGUyYzg4NzVjN2U3`

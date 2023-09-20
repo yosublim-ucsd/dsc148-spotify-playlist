@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Zena Emad
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,654 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,691 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 43 | [Kheles El Kalam](https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Kheles El Kalam](https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL) | 2:35 |
 | 44 | [El Lawlabeya](https://open.spotify.com/track/6aD8DGu8n2ssx7mbfYyOwR) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Lawlabeya](https://open.spotify.com/album/4jo5qM0siknAtHaJBgtpCy) | 2:47 |
 | 45 | [Admantak](https://open.spotify.com/track/0tPxzBIbh3cPuwP56D2aiF) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Admantak](https://open.spotify.com/album/590ZPmndijZDDjeC4DiAkC) | 4:28 |
-| 46 | [شغّل موسيقى](https://open.spotify.com/track/2mf2n0TebeVbejaizJQkD6) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [كاريزما](https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF) | 3:54 |
-| 47 | [Rayto](https://open.spotify.com/track/7bh4lXLynRMSV3cyxTUlCr) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Rayto](https://open.spotify.com/album/1mZSJu73qb3eXhZOL5xM0c) | 3:18 |
-| 48 | [Fish Masari](https://open.spotify.com/track/0efWxVypnPJNk3S3iBwoj9) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Fish Masari](https://open.spotify.com/album/7d8WS4OwETCONnLi3ygKWb) | 2:59 |
+| 46 | [Rayto](https://open.spotify.com/track/7bh4lXLynRMSV3cyxTUlCr) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Rayto](https://open.spotify.com/album/1mZSJu73qb3eXhZOL5xM0c) | 3:18 |
+| 47 | [Fish Masari](https://open.spotify.com/track/0efWxVypnPJNk3S3iBwoj9) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Fish Masari](https://open.spotify.com/album/7d8WS4OwETCONnLi3ygKWb) | 2:59 |
+| 48 | [شغّل موسيقى](https://open.spotify.com/track/2mf2n0TebeVbejaizJQkD6) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [كاريزما](https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF) | 3:54 |
 | 49 | [Dima Lia](https://open.spotify.com/track/4JVoDUGJO6zDT3zUHP5oZa) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Aswatna](https://open.spotify.com/album/1XotwYVQf0PFP20htwJ7Nt) | 3:33 |
 | 50 | [El Raasha](https://open.spotify.com/track/1hnrSD9KAY06hOrpJbylAe) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Raasha](https://open.spotify.com/album/7zc6nx9VVqPeyubRtRPseV) | 2:42 |
 
-Snapshot ID: `MCxkMmY0MTQ1MTQ3YzU3MjdlN2IxNDRiYjJkNjAwMmE3NTY5ZDQ4YmYy`
+Snapshot ID: `MCwwMjY4ZjM3MWJiYTY5NmNjZjdiMTA5MDQ3YTI4NmM5ZjkwM2E2MDc2`

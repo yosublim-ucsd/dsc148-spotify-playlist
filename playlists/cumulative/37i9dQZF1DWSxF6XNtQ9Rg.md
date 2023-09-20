@@ -4,7 +4,7 @@
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-190 songs - 10 hr 22 min
+191 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 | 2022-04-28 |  |
 | [IL MIO AMICO \(feat\. Fabri Fibra\)](https://open.spotify.com/track/3N3W8ZX1bFJsiI8VJmdMbT) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [IL MIO AMICO \(feat\. Fabri Fibra\)](https://open.spotify.com/album/2dGHAoaawrVkd8ytqDQwgx) | 3:29 | 2022-05-27 | 2022-07-21 |
 | [In Radio](https://open.spotify.com/track/0zxvemE96KZ4xBrFolkL1Y) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Status](https://open.spotify.com/album/579t0HatXMKQnAfQ9FSfJd) | 3:41 | 2022-04-28 | 2022-07-21 |
+| [Insta Lova](https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 3:26 | 2023-07-18 |  |
 | [Italiano Anthem](https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Italiano Anthem](https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx) | 2:15 | 2022-08-10 | 2023-03-07 |
 | [Keanu Reeves \(feat\. Achille Lauro\)](https://open.spotify.com/track/1MGXWglFoINJdrcp2W0U0w) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Davide](https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8) | 3:29 | 2022-04-28 | 2022-07-29 |
 | [KUMITE](https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 2:50 | 2022-04-28 |  |
@@ -150,7 +151,7 @@
 | [Rozzi](https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Rozzi](https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok) | 2:43 | 2022-04-28 |  |
 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 | 2022-08-10 |  |
 | [S.e.n.i.c.a.r.](https://open.spotify.com/track/4emN0MkKDuGAdeDGxBlAML) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [King Del Rap](https://open.spotify.com/album/6oEroJCKNSoYDi4LfnQTir) | 3:25 | 2022-04-28 | 2022-07-29 |
-| [Salvador Dalì](https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 4:05 | 2022-04-28 |  |
+| [Salvador Dalì](https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 4:05 | 2022-04-28 | 2023-09-20 |
 | [SCACCIACANI \- feat\. Massimo Pericolo \- prod\. Crookers & Nic Sarno](https://open.spotify.com/track/2665YLaM0dLaIhkjpUHT7k) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [SCACCIACANI \(feat\. Massimo Pericolo \- prod\. Crookers & Nic Sarno\)](https://open.spotify.com/album/5bBSvzbdkR78H5RDDnA8c1) | 3:39 | 2022-04-28 | 2022-07-29 |
 | [Sciccherie](https://open.spotify.com/track/5EOwRI2XBqbpWsIxkW3hdi) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Sciccherie](https://open.spotify.com/album/6XoZExxIhAAEn7rjVsHdby) | 3:12 | 2022-04-28 | 2022-05-28 |
 | [scuol4](https://open.spotify.com/track/6ukVfkwkTlQvfvD477n0qr) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [scuol4](https://open.spotify.com/album/6ZTFcviekuZAsGvQFd25r8) | 2:50 | 2022-06-07 | 2022-06-12 |

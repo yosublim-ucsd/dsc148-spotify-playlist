@@ -812,7 +812,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
       "url": "https://open.spotify.com/track/3vAdBZvbr3bFBiSLT4iVap"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
@@ -1844,6 +1844,40 @@
     {
       "album": {
         "name": "BUCK WILD",
+        "url": "https://open.spotify.com/album/5kZy8TjO6es1p9LLT4CcDN"
+      },
+      "artists": [
+        {
+          "name": "Headkrack",
+          "url": "https://open.spotify.com/artist/0IB0hCCHwwj5vbLcYk8WbQ"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Kool Keith",
+          "url": "https://open.spotify.com/artist/3zFaWPA8Jobgf5egh38KD2"
+        },
+        {
+          "name": "Fly Deff",
+          "url": "https://open.spotify.com/artist/49FiS9ZFyKxljQsQAep1nH"
+        },
+        {
+          "name": "Local Astronauts",
+          "url": "https://open.spotify.com/artist/4spEdT2akJzTcOugrkhnLh"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226797,
+      "name": "BUCK WILD",
+      "url": "https://open.spotify.com/track/5mruhSCt0NQmA2adGcM2Wn"
+    },
+    {
+      "album": {
+        "name": "BUCK WILD",
         "url": "https://open.spotify.com/album/5ImKCJbyk1dOft8wdHTUKa"
       },
       "artists": [
@@ -1870,7 +1904,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 226411,
       "name": "BUCK WILD - Radio Edit",
       "url": "https://open.spotify.com/track/7moyxFvUkA2ScJne5GHwCW"
@@ -2056,7 +2090,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 270040,
       "name": "Chain Reaction - Live",
       "url": "https://open.spotify.com/track/7ADzRdI3TmUwBiHViCHCG8"
@@ -2270,7 +2304,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 224800,
       "name": "Christie Rd. - Outtake",
       "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
@@ -2850,7 +2884,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 482744,
       "name": "Denardirn",
       "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
@@ -3006,7 +3040,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 260495,
       "name": "Dirty Diana (Metal Version)",
       "url": "https://open.spotify.com/track/5JB0Ejgsq7Unv4JAzFPyHW"
@@ -4706,7 +4740,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 128240,
       "name": "Freak 54 (Freak Out)",
       "url": "https://open.spotify.com/track/5CAaHC3rBhhZyFR7JqgPbn"
@@ -4728,7 +4762,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 109779,
       "name": "Freak 54 (Freak Out) - Sped Up Version",
       "url": "https://open.spotify.com/track/3GBJHmYBfh911Fs8DF8ZHe"
@@ -7040,7 +7074,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 175020,
       "name": "Le d\u00e9part",
       "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
@@ -7416,7 +7450,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 370653,
       "name": "Loved Ones",
       "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
@@ -9206,7 +9240,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 218794,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
@@ -11218,7 +11252,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 226203,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
@@ -12418,7 +12452,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 132000,
       "name": "the kids aren't alright - lofi",
       "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
@@ -13426,7 +13460,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 98000,
       "name": "USA",
       "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
@@ -13690,7 +13724,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 169773,
       "name": "Walking the Dog (demo) - Outtake",
       "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
@@ -14028,7 +14062,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 229120,
       "name": "Wheel in the Sky - Live",
       "url": "https://open.spotify.com/track/76HmaOtXS5qez65SNIIOiI"

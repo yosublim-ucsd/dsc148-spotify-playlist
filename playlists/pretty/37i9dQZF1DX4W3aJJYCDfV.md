@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Corinne Bailey Rae \(pictured\), Chase & Status, Tate McRae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,854 likes - 129 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,867 likes - 129 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 95 | [Original Bad Boy](https://open.spotify.com/track/0UNC8bKfJZvvSi42hGNTav) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP) | [Original Bad Boy](https://open.spotify.com/album/07I1KRl3YKYaAydRNnoGhS) | 2:36 |
 | 96 | [softscars](https://open.spotify.com/track/6qCzOLJmzAAsYF5xsz5ajF) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/6D1djmwpqsx5Y611ieEAXr) | 3:26 |
 | 97 | [Arena!](https://open.spotify.com/track/14opyoO8p7wD8zM2wSxF3c) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF) | [Arena!](https://open.spotify.com/album/3bPS0fEOge52BYWNyu76PK) | 2:31 |
-| 98 | [FEELING GOOD](https://open.spotify.com/track/1ST96l3wUQSwGgtQu6lzsx) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Empancipated \(Deluxe\)](https://open.spotify.com/album/4kzAbEHPhMHmRtT7RMAlg3) | 2:26 |
+| 98 | [FEELING GOOD](https://open.spotify.com/track/1ST96l3wUQSwGgtQu6lzsx) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated \(Deluxe\)](https://open.spotify.com/album/4kzAbEHPhMHmRtT7RMAlg3) | 2:26 |
 | 99 | [Heartbeats](https://open.spotify.com/track/4AwgEsYuFsdAYM8Tj6NxeE) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Heartbeats](https://open.spotify.com/album/3X1eYb650jexhiVxkNepW7) | 3:12 |
 | 100 | [Born For This](https://open.spotify.com/track/1vq9eFIww4LVSjrRmHc1Yi) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Born For This](https://open.spotify.com/album/6FbblU6zWSfr0oEYkcpA2d) | 2:26 |
 | 101 | [Take Time](https://open.spotify.com/track/4sbR4X2AdAhnmlMq95ZbnY) | [Swarmz](https://open.spotify.com/artist/2yPprAQlrIQWu60g09B9MZ) | [Take Time](https://open.spotify.com/album/6CsZSKDJgJtt8Kwt9NsJEH) | 2:34 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 113 | [One of Them](https://open.spotify.com/track/4f6QyxLjMTnziS5GnQeSy2) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [One of Them](https://open.spotify.com/album/2q9KnnQRZdpoviYxTyGKmL) | 3:37 |
 | 114 | [Just A Glimpse](https://open.spotify.com/track/2Y7yNsF95CcG8aSGoF2fVM) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Just A Glimpse](https://open.spotify.com/album/0H4KdNP5bI9R74TUfF3Cgk) | 2:54 |
 | 115 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 |
-| 116 | [Cheap WIne](https://open.spotify.com/track/7n0INXhB8nOwpBD8EQYenI) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Cheap Wine](https://open.spotify.com/album/4qz8A46Nmjnz1L0PovbUja) | 2:57 |
+| 116 | [Cheap Wine](https://open.spotify.com/track/7n0INXhB8nOwpBD8EQYenI) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Cheap Wine](https://open.spotify.com/album/4qz8A46Nmjnz1L0PovbUja) | 2:57 |
 | 117 | [Take You On](https://open.spotify.com/track/07VI6sdD2s7hzPEezIMtiT) | [Josh Burnett \(UK\)](https://open.spotify.com/artist/5OazACOH1YtPTkxiqTtILW), [ACT ON](https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz) | [Take You On](https://open.spotify.com/album/7I6qpO1jTxMunIMw3zghgr) | 2:45 |
 | 118 | [You, Me, Lonely](https://open.spotify.com/track/3A5efJ0jFALp7Uqdyadzkh) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [You, Me, Lonely](https://open.spotify.com/album/6WCobsfihtIi3LiOaxTBzz) | 3:40 |
 | 119 | [You and I](https://open.spotify.com/track/46ejgoTGvYFK2x9vPp401O) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [You and I](https://open.spotify.com/album/7ofO4dsMK6vTYyQ0jTTN4n) | 2:28 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 128 | [Dubby](https://open.spotify.com/track/6rPbTqoepgoHoDZrBItweP) | [Play Nice](https://open.spotify.com/artist/1ghxd86r7phiK0vgytiGkh) | [Dubby](https://open.spotify.com/album/5Tgqa6Sze1uf3X4SV8hUqg) | 1:28 |
 | 129 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 |
 
-Snapshot ID: `MCxlMGJlZTE5ODRlMWUzMDA2M2M3NjJmODNiOTU2ODhkZTBkZTUwNWRk`
+Snapshot ID: `MCxhNTY2ZGJlY2YzMTVkMDA5M2JjNjJjZDc3OTIwMTZjYWQ5ZDQ3NzJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hln2awUHXX.md) - [plain]
 
 > An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,677 likes - 61 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,706 likes - 61 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hln2awUHXX.md) - [plain]
 | 60 | [Parsifal, WWV 111: Act III, Scene XI, "Hoechsten Heiles Wunder!"](https://open.spotify.com/track/3Ug2qU2ZfQWZpsSK6wQSXj) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [René Pape](https://open.spotify.com/artist/4H643hPA44WZRSbvXiYwQ5), [Gary Lehman](https://open.spotify.com/artist/1jkXtb0T1H2Zjp9O1WNgaK), [Violeta Urmana](https://open.spotify.com/artist/5HRZLLjW8jC4Kqte3nptim), [Evgeny Nikitin](https://open.spotify.com/artist/54B5CQqpjezJJcYpuslgAX), [Alexei Tanovitski](https://open.spotify.com/artist/4Pxzsw0pdCfn67bW6bF66D), [Nikolai Putilin](https://open.spotify.com/artist/0L9FBSnHsitCWR9pfBzzyJ), [Valery Gergiev](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2), [Mariinsky Orchestra](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6), [Mariinsky Chorus](https://open.spotify.com/artist/2esGRwnpJhd1gztq6qrbpO), [Mariinsky Children's Chorus](https://open.spotify.com/artist/7g5bIiGt7w8drBwtBUoXZQ) | [Wagner: Parsifal](https://open.spotify.com/album/2J8wkK5R3oVrOKnWQVbXCu) | 5:27 |
 | 61 | [Parsifal, WWV 111: Act I, Scene I, "He! Ho! Waldhueter ihr!"](https://open.spotify.com/track/5vE0qrqpaO5cEa97CBBFCi) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [René Pape](https://open.spotify.com/artist/4H643hPA44WZRSbvXiYwQ5), [Violeta Urmana](https://open.spotify.com/artist/5HRZLLjW8jC4Kqte3nptim), [Yuri Alexeev](https://open.spotify.com/artist/0QLk7WTsSEa7zhJg0B89FP), [Yuri Vorobiev](https://open.spotify.com/artist/2N20GV8gHRPvMrMW4pko8H), [Lia Shevtsova](https://open.spotify.com/artist/1KTi12yppNCKHr3KAiAcFx), [Olga Legkova](https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg), [Alexander Timchenko](https://open.spotify.com/artist/6iQo3FrcMYOOjSFGls5gQK), [Andrei Popov](https://open.spotify.com/artist/1j2yBOp3xiD7AsVJsW7HYY), [Valery Gergiev](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2), [Mariinsky Orchestra](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6) | [Wagner: Parsifal](https://open.spotify.com/album/2J8wkK5R3oVrOKnWQVbXCu) | 9:19 |
 
-Snapshot ID: `MCw2ZDgzZWUxODQ0YzQ2NzYwZTY2ZjIxNmM4ZWEzN2M0OTRhMWQ5MmM2`
+Snapshot ID: `MCw4MjJmZWY5MTllMzBlZTEyNjYzYzllMDYzYTgyNjFlN2E2ZDdmNGUz`

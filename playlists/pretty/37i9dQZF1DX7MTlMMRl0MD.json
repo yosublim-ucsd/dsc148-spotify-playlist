@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: NATHY PELUSO & Tiago PZK",
-  "num_followers": 1919987,
+  "num_followers": 1920069,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWI2MDFhMWQ1NWUyMTcyYTRmMjdlZmRjMmU4MTllMGE1NzhmZDY4",
+  "snapshot_id": "MCw3YjQyZTBjMGUxNWNhMzAxZDJlZTIxMzY3ZjdjMzYwYjZmMmIwMzFh",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 269493,
-      "name": "Vagabundo, Borracho y Loco",
-      "url": "https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Carta De Verano",
         "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 245253,
       "name": "Intentalo Tu",
       "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "Vagabundo, Borracho y Loco",
+      "url": "https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP"
-      },
-      "artists": [
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 203751,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "I Love Bachata (Bachata Hits)",
-        "url": "https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s"
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 274613,
-      "name": "Vete Y Al\u00e9jate De M\u00ed",
-      "url": "https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B"
+      "duration_ms": 183600,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
     }
   ],
   "unique_name": "Bachata Lovers",

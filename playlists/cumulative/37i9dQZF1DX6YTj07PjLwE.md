@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-643 songs - 1 day 23 hr 8 min
+644 songs - 1 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [It's A Shame About Ray \- Remastered](https://open.spotify.com/track/0ccE7u6mHbB1LaSc1ZIQWm) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:07 | 2022-04-28 | 2022-07-29 |
 | [It's Good To Be King](https://open.spotify.com/track/1c0flvMImhKMuiZIc0VzEb) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 5:10 | 2022-04-28 | 2022-07-27 |
 | [It's No Good](https://open.spotify.com/track/7HDWE2Ib7cjkhzULV4K8y3) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ultra \(Deluxe\)](https://open.spotify.com/album/0OWIVcNE4aItrlRvMUVueO) | 5:58 | 2022-04-28 | 2022-07-29 |
+| [It's No Good](https://open.spotify.com/track/339PPSAl7Ta2CZ25YI7a7v) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Q](https://open.spotify.com/artist/7HYjhgcTjrAIRBCACbSEqE), [Tim Simenon](https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW) | [Ultra \| The 12" Singles](https://open.spotify.com/album/3FRJU9jyS1gc71ha3leUp8) | 5:58 | 2023-01-18 |  |
 | [It's Only Natural](https://open.spotify.com/track/1oSPStIOjKzNhPqCU1xXVi) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:32 | 2022-04-28 | 2023-03-29 |
 | [It's So Hard](https://open.spotify.com/track/2si7zaWjEi4Jj6qECG508k) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Together Alone](https://open.spotify.com/album/3zMAFbz27Bd7gtmPFAq46b) | 4:28 | 2022-04-28 | 2022-07-12 |
 | [Jealous Again](https://open.spotify.com/track/5IJWnvJJgH4PR4p9aXnNCQ) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 4:35 | 2022-04-28 |  |
@@ -624,7 +625,7 @@
 | [When You Love a Woman](https://open.spotify.com/track/4b79AEQyxEVoiGMyBUv0io) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Trial By Fire](https://open.spotify.com/album/1E8owCbqr9Hhm2jJ6fmGij) | 4:06 | 2022-04-28 |  |
 | [When You're Gone](https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:56 | 2022-04-28 |  |
 | [Where It's At \- Album Version W/ Intro](https://open.spotify.com/track/1GreGTs4rIfjDILBERxKcB) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay](https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7) | 5:29 | 2022-04-28 | 2022-07-29 |
-| [While My Guitar Gently Weeps](https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Hell To Pay](https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1) | 5:15 | 2022-04-28 |  |
+| [While My Guitar Gently Weeps](https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Hell To Pay](https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1) | 5:15 | 2022-04-28 | 2023-09-20 |
 | [White Falcon Fuzz](https://open.spotify.com/track/7zC8aZ1UVdk1DSGbf5KkNW) | [The Mother Hips](https://open.spotify.com/artist/754hwfwMX4RL52JZYmQaBR) | [Pacific Dust](https://open.spotify.com/album/7tce06m4gnEqSXL31Ue3IB) | 4:18 | 2022-04-28 | 2022-06-28 |
 | [White, Discussion](https://open.spotify.com/track/5Xl8wvp7rKr5lEDUxlGDnB) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 6:06 | 2022-04-28 | 2022-07-28 |
 | [Why Bother?](https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:08 | 2022-04-28 | 2022-07-15 |

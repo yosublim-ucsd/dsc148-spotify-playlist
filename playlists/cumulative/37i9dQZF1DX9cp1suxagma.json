@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 220720,
       "name": "Bailar Contigo",
       "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 218360,
       "name": "Bella - Remix",
       "url": "https://open.spotify.com/track/78nLeZtgvDeKygduWsgeUk"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 231532,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 266160,
       "name": "Caraluna",
       "url": "https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 199813,
       "name": "Esper\u00e1ndote",
       "url": "https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 237080,
       "name": "Invencible",
       "url": "https://open.spotify.com/track/7JnFZ24rWPKVxFZd1xw6dm"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 219198,
       "name": "La Correcta",
       "url": "https://open.spotify.com/track/1ISamB2lPDAeKb4Js2hLgq"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 219228,
       "name": "La Estrategia",
       "url": "https://open.spotify.com/track/3mbCqi22KYjndD56qCykyP"
@@ -1318,10 +1318,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 214069,
       "name": "Matizando",
       "url": "https://open.spotify.com/track/1QvF1Yv1kqD7ojG70HawAO"
+    },
+    {
+      "album": {
+        "name": "Matizando",
+        "url": "https://open.spotify.com/album/0GLE4CLio2Kj4fLoBrHOU4"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214069,
+      "name": "Matizando",
+      "url": "https://open.spotify.com/track/7qBYuqHrm5AyA6J500vhoq"
     },
     {
       "album": {
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 199733,
       "name": "No Hay Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 209682,
       "name": "Nuestro Secreto",
       "url": "https://open.spotify.com/track/2sBTBHbqkwz0qSDhKsQ4OQ"
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 252481,
       "name": "Por Hacerme el Bueno",
       "url": "https://open.spotify.com/track/1iEIQ69PuAM76GCBT9HCek"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 205242,
       "name": "Por Pura Curiosidad",
       "url": "https://open.spotify.com/track/1oRfaDjjGDgO3HCql0AOUy"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 183092,
       "name": "Qu\u00e9date Aqu\u00ed",
       "url": "https://open.spotify.com/track/40BHOcBhBU6InTXea4VRAK"
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 206967,
       "name": "Serenata",
       "url": "https://open.spotify.com/track/0Ek2vjTPwy3fXKQnsXy8MH"
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 243042,
       "name": "Simples Corazones (feat. Melendi)",
       "url": "https://open.spotify.com/track/57AHAfiyk3gR8OBRf3s03U"
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 205791,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/1juHIWqgFiDFAKuEBP24Lt"
@@ -2384,7 +2402,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 201122,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 218480,
       "name": "Te Voy a Amar",
       "url": "https://open.spotify.com/track/6G6DiIkasBrTbARK74U7kv"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 206573,
       "name": "Ya Para Qu\u00e9",
       "url": "https://open.spotify.com/track/7HCZWKJmHITV7Pt5YTQDcL"

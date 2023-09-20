@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 
 > Relax and unwind to the soothing hum of the electric fan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,491 likes - 156 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,523 likes - 156 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 | 155 | [Room Fans](https://open.spotify.com/track/4vtFAu2IdR5gjXm8RpKpOB) | [Desi Eskil](https://open.spotify.com/artist/4vDXxjHGMDyOaPyUdRXfQj) | [ASMR Noises](https://open.spotify.com/album/21jlHfINkBEZeKu6nOqK9R) | 3:05 |
 | 156 | [Broken Bedroom Fan](https://open.spotify.com/track/1YyJRtFjLbxDKSwkT4oZTN) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Broken Bedroom Fan](https://open.spotify.com/album/7zPFLeFTAZ8J3tV1wIf51J) | 2:36 |
 
-Snapshot ID: `MCwzMGQ2MjA3YjY1MGZhNmYzMmU2YTJhYWIxN2Y1Y2RmNWZlNWE5Y2Uy`
+Snapshot ID: `MCxkNDRhOTNmM2I4ZjAwMDMxZmZlYzNhMTE5NzAxMGUzMTM3MmYzNjJl`

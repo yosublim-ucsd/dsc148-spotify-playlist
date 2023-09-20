@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-279 songs - 14 hr 27 min
+280 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Deslize de Delírio Inconsequente](https://open.spotify.com/track/7afauHi7fLtMLLqLVTzg5J) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Deslize de Delírio Inconsequente](https://open.spotify.com/album/2CJXL6hmyqNaS3ogixCUY1) | 3:56 | 2022-01-07 | 2022-07-23 |
 | [Devaneios](https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL) | [Fraterna Trip](https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL), [John](https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF) | [Devaneios](https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh) | 3:21 | 2022-11-25 |  |
 | [Diga\-me](https://open.spotify.com/track/1NuJEGUFkcygXNjcSMcbdP) | [FREELION](https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX), [Gibi8](https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Salamanka](https://open.spotify.com/artist/0TpzpzpahCAoko5pXwQAYA), [Tainã Troccoli](https://open.spotify.com/artist/41AuzbTV7cdahoooXbRlRc) | [Diga\-me](https://open.spotify.com/album/6NrL8zeO6CKcwdFnC2ooS0) | 3:19 | 2022-01-07 | 2022-09-03 |
-| [Disfarça](https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL) | [Silveriô](https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg) | [Disfarça](https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW) | 2:39 | 2022-12-23 |  |
+| [Disfarça](https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL) | [Silveriô](https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg) | [Disfarça](https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW) | 2:39 | 2022-12-23 | 2023-09-20 |
 | [Do Jeito Mais Simples](https://open.spotify.com/track/2sEraN3oLThZaCErn0Ru4e) | [Lili Novais](https://open.spotify.com/artist/1gkJzrL4lWQidUjGXnTZ7L) | [Do Jeito Mais Simples](https://open.spotify.com/album/6Ss5f7BqspeOWZAf6cJW12) | 2:31 | 2022-05-16 | 2022-10-29 |
 | [Do Meu Lado](https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p) | [Veni](https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl) | [Do Meu Lado](https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX) | 2:31 | 2022-09-30 |  |
 | [Eclipse](https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [Eclipse](https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv) | 3:50 | 2022-12-02 |  |
@@ -160,6 +160,7 @@
 | [Muito Além](https://open.spotify.com/track/33Ph1S0NLdwMmL02fqaYbo) | [Gabriela Lery](https://open.spotify.com/artist/273Al938zyiMfS04Mh6lNr), [tiagobello](https://open.spotify.com/artist/35QrpCpY1Tn5bKk8Uxz3YE) | [Muito Além](https://open.spotify.com/album/79oYYVtlbJwuOnYAToJqcp) | 3:14 | 2022-08-12 | 2022-12-03 |
 | [Mulher](https://open.spotify.com/track/46uBprY5NXWwAt1A2N88VI) | [Renife](https://open.spotify.com/artist/4TFGb89oFmLWuW5nRqJPOG) | [Mulher](https://open.spotify.com/album/4maHeiiGiCaiJ19zytMbaB) | 3:21 | 2022-01-07 | 2022-08-20 |
 | [Máfia](https://open.spotify.com/track/2ATyqTOa2IROqjP1laQGle) | [Lil Keef](https://open.spotify.com/artist/4W3yMfi6HUVxWEq2qVt7Nt) | [Máfia](https://open.spotify.com/album/63wxSYDicTNV3n5ueRtaU5) | 2:04 | 2023-01-27 | 2023-02-14 |
+| [Música](https://open.spotify.com/track/0qq96gDe8UkoBds0hqYSdl) | [Julico](https://open.spotify.com/artist/1mx6ZZzrHECoq21qvqfQoY) | [Música](https://open.spotify.com/album/7ys1C6UdAQiZ3RTexrUlE8) | 3:56 | 2023-09-15 |  |
 | [NA CIDADE](https://open.spotify.com/track/48SRrE5cEEHH0DASXzOnKv) | [felino](https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq), [Mariana Ramos](https://open.spotify.com/artist/7dbcgDHRj6hl6VMSrIyHCM) | [NA CIDADE](https://open.spotify.com/album/1mfz9gaY8BNO6biqJ3NyUC) | 2:36 | 2022-01-07 | 2022-01-22 |
 | [Nada \(Além de Você\)](https://open.spotify.com/track/0G14NxlIvaxlCszVZOimOc) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6eh8PdDo6Wv9lTLiGqO1JH) | 2:09 | 2023-02-13 | 2023-07-26 |
 | [Nada \(Além de Você\)](https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy) | 2:09 | 2022-12-09 | 2023-02-15 |
@@ -268,7 +269,7 @@
 | [Um Brinde](https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV) | [Rick Agra](https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN) | [Um Brinde](https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2) | 2:33 | 2022-10-28 |  |
 | [VAI](https://open.spotify.com/track/3T2JaAQgQ92z9oVHmWg91C) | [Marc Yann](https://open.spotify.com/artist/2XCuDk7P16Zp9Nvak5BmRf) | [PLATÔNICO](https://open.spotify.com/album/3iZVI9SANNghj1iFpTuAVD) | 2:21 | 2022-10-07 | 2022-11-18 |
 | [vc é uma bagunça](https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [vc é uma bagunça](https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB) | 2:51 | 2022-11-18 |  |
-| [VEJA](https://open.spotify.com/track/6mO9K6le5QYMAGzku81Wqq) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X), [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT) | [tds bem Global](https://open.spotify.com/album/5pGNFxHPkUaCu267VsRIXV) | 2:47 | 2023-09-01 |  |
+| [VEJA](https://open.spotify.com/track/6mO9K6le5QYMAGzku81Wqq) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X) | [tds bem Global](https://open.spotify.com/album/5pGNFxHPkUaCu267VsRIXV) | 2:47 | 2023-09-01 |  |
 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 | 2022-10-14 |  |
 | [Verá](https://open.spotify.com/track/5319dvKuNaay3efQn794i0) | [Gabi Farias](https://open.spotify.com/artist/3GxaLhs7QePUYh49a8TYrM), [Gramophone](https://open.spotify.com/artist/5rnC9EuUqZC8Mbkg2uiLKu) | [Enchente](https://open.spotify.com/album/5YvudFtZ5FcMEL3hpVCsrY) | 4:12 | 2022-02-18 | 2022-09-24 |
 | [Verão](https://open.spotify.com/track/5NbOilBmttx0b5dJcdL697) | [Pseudo Banda](https://open.spotify.com/artist/7B5wVF8YwLqwfVaWk3HkDe), [Vaine](https://open.spotify.com/artist/2pdCZh6Kwn3lZqFIwPRY97) | [Verão](https://open.spotify.com/album/0Z7geQJsarPEigZos4VPEf) | 2:51 | 2022-01-14 | 2022-02-05 |

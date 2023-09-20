@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Arcy Drive \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,195 likes - 125 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,217 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 11 | [Fender](https://open.spotify.com/track/0AT37Z1kNhJPUyeuwJqEHi) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Fender](https://open.spotify.com/album/0NIl6PMP9VgfbMW0w61f0s) | 3:42 |
 | 12 | [Games](https://open.spotify.com/track/7HA1olc168EV5By8K7kWq5) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Games](https://open.spotify.com/album/1MkvXneCkP1Aki2PsIQ0Fm) | 3:38 |
 | 13 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
-| 14 | [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 |
+| 14 | [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 |
 | 15 | [What's The Point In Life](https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [What's The Point In Life](https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l) | 2:18 |
 | 16 | [King of the Slugs](https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [King of the Slugs](https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ) | 7:05 |
 | 17 | [Different](https://open.spotify.com/track/70L61yj3bxVojr86c7xUJ1) | [soft serve](https://open.spotify.com/artist/3zIgLbjYZS3ClwVgN8NQ4B) | [Different](https://open.spotify.com/album/300kNCtYC2PieuVvjzh65J) | 3:59 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 124 | [Olly Carp](https://open.spotify.com/track/2VspudiJVujvSewaidcfKZ) | [HYLA](https://open.spotify.com/artist/7hpxHWdnM6cECjtgqMiWOo) | [Olly Carp](https://open.spotify.com/album/09tgHx4T78MhsW4XP0GKte) | 4:35 |
 | 125 | [Bored](https://open.spotify.com/track/3axRguzEmNU9dDMI6mXk7f) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Bored](https://open.spotify.com/album/0pLdIbrh0ss5wQOIAwqn4A) | 3:04 |
 
-Snapshot ID: `MCwxZjcxY2VhZjdiM2E3YTdkNGE3ZDkxYTk4ZGIxM2FkYzI2ZmEyNzM2`
+Snapshot ID: `MCw3YmQ1ODYyYTMzNTdlZDVhYzBlZTNlNzk0MDcwMDZmZGVmZDc4NzUz`

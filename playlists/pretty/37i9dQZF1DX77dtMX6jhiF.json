@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 10347,
+  "num_followers": 10372,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmRiZTVmNGFiYjg5YWMyMDNlYTBlMmIxMmNiYzcyMTYwY2NiMTRj",
+  "snapshot_id": "MCwwNzZmNTk5YWQzNWM2MzZjZWYyYzA3Yjg5ZGRmNzQ1OGE5NWU1OGNk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 351000,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Ayo",
         "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 232800,
       "name": "Liberian Girl - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 351000,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
     },
     {
       "added_at": "2022-10-01 16:57:49",

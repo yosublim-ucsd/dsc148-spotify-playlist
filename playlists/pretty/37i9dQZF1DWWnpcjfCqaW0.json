@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 280816,
+  "num_followers": 280898,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjI3Y2U0M2Y0YzNkMmVjZGQ2YWJkZTQxZjViZjZmNzEwZGEyM2I5",
+  "snapshot_id": "MCw1MTU0YzRmZTg1MDMxOTcyZDhlMmQzYTIyMDQ2ZTZiZGMyNGZjN2E3",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
-      },
-      "artists": [
-        {
-          "name": "Sonny James",
-          "url": "https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Buck Owens Country Legends",
         "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
       },
@@ -791,18 +775,34 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Sonny James",
+          "url": "https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+      "duration_ms": 152200,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Move It On Over",
+      "url": "https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "Bobby Helms Sings To My Special Angel",
         "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 179293,
       "name": "My Special Angel",
       "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "The Complete Hank Williams",
-        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Move It On Over",
-      "url": "https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy"
     },
     {
       "added_at": "2023-01-02 21:32:07",

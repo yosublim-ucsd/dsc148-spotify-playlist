@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-417 songs - 22 hr 39 min
+418 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Assim](https://open.spotify.com/track/5gjGfw1eaoMOW9Rq97j1Rp) | [Choro](https://open.spotify.com/artist/7jmNHJxPdNzErKwdI9Ts5D), [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b), [Matheus Paraizo](https://open.spotify.com/artist/10BT29sUZJ4ZIKOwIfONA4), [Inês Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn), [AVALANCHE](https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z) | [Assim](https://open.spotify.com/album/3eQ6r9soA8z9PluYL8U2vk) | 2:43 | 2022-07-07 | 2022-08-05 |
 | [Assumir](https://open.spotify.com/track/5K3Pc3hqI1dxSEEjwtAUcv) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF) | [LUZ](https://open.spotify.com/album/2EihWuZWFX3O8L6kSPGmm6) | 3:00 | 2023-05-11 | 2023-05-26 |
 | [Até que vc volte](https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Até que vc volte](https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr) | 2:01 | 2023-03-03 | 2023-03-23 |
-| [Aura Diferente](https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Aura Diferente](https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd) | 4:11 | 2023-09-14 |  |
+| [Aura Diferente](https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Aura Diferente](https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd) | 4:11 | 2023-09-14 | 2023-09-20 |
 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 | 2023-04-27 | 2023-05-19 |
 | [Baby](https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8) | [Baby](https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC) | 3:41 | 2023-03-03 | 2023-03-31 |
 | [Backseat](https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Backseat](https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR) | 3:12 | 2023-08-17 | 2023-09-08 |
@@ -279,6 +279,7 @@
 | [Nós](https://open.spotify.com/track/6Dd3kjgwE8UPeyFDkSPMNF) | [Azart](https://open.spotify.com/artist/1sV336GXOSXGZnimU36h1F) | [Nós](https://open.spotify.com/album/4qa7YPzO9nVedEesEcWZYL) | 3:00 | 2022-09-16 | 2022-10-07 |
 | [O Brilho de Viver](https://open.spotify.com/track/0yvDXvtXyBPxAF5kNUSN8W) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Macaia](https://open.spotify.com/artist/3sF7V5L7Ovcim65sPkuToM) | [O Brilho de Viver](https://open.spotify.com/album/0ehoSA0RrxrciyDb9YQnU9) | 4:15 | 2023-06-15 | 2023-07-07 |
 | [O Rosto Que Pintei](https://open.spotify.com/track/0cx5OGK0zwSrDucutxkxfT) | [DAYARAH](https://open.spotify.com/artist/0fAUWeQDp5d0fRfou2S55A) | [O Rosto Que Pintei](https://open.spotify.com/album/2oHx8LfFDgehTt0mursfCv) | 2:55 | 2022-07-07 | 2022-07-26 |
+| [Oh My God](https://open.spotify.com/track/1qVCh9B4mQuQ5gPPZCJwNh) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Oh My God](https://open.spotify.com/album/73jc5vFY5fpRamIdJNQ97G) | 2:45 | 2023-09-14 |  |
 | [Ohhh](https://open.spotify.com/track/4eG7PhXsV1S9jW4ENOu1GN) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Ohhh](https://open.spotify.com/album/3yRusfv9KZ0EFI2HWpO77p) | 3:38 | 2023-08-17 | 2023-09-01 |
 | [On My Mind](https://open.spotify.com/track/1ihz7Lhk9M5IjKJN4Ofz0A) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Rosa Negra](https://open.spotify.com/album/3E8EybslEXDt6Yl1oxSI9C) | 2:27 | 2023-05-11 | 2023-06-23 |
 | [OQCQZR](https://open.spotify.com/track/5y2ZiYQjzY0dpWPYctp72c) | [Mvza](https://open.spotify.com/artist/4XVI8cWzKF53dOj2QE0z2O), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [OQCQZR](https://open.spotify.com/album/6MAMENT38JHlex9qNufnYI) | 3:02 | 2023-03-01 | 2023-05-12 |

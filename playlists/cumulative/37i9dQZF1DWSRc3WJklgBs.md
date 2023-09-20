@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,198 songs - 2 day 22 hr 11 min
+1,199 songs - 2 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Hot N Heavy](https://open.spotify.com/track/3sIPjLfkLNnm8KLxR9aInw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Hot N Heavy](https://open.spotify.com/album/5mt4XIAT306Y6XdDtJbNUq) | 3:35 | 2021-06-16 | 2022-05-14 |
 | [Hotel \- Arty Remix](https://open.spotify.com/track/4WmeTbYSchhRVmznRY2MwM) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Hotel \(Arty Remix\)](https://open.spotify.com/album/736PACEtlOG7TCnXE2DKsN) | 3:33 | 2019-08-09\* | 2019-09-14 |
 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 | 2022-09-02 |  |
+| [Human](https://open.spotify.com/track/3ripGdakV32rdr8oQW3vjG) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Scot & Millfield](https://open.spotify.com/artist/6LTgaNvQ4z07MLP5Fs3plh) | [Human](https://open.spotify.com/album/75RrTYXEgGFA70iWds7Orl) | 2:55 | 2023-09-15 |  |
 | [human \- EDX's FE5TIVAL RADIO EDIT](https://open.spotify.com/track/01JeGl8zGqw2OV3llgjbqM) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [human remixes](https://open.spotify.com/album/57tMAMW1dPGYt0H0PlO9Dr) | 3:31 | 2019-08-09\* | 2019-09-14 |
 | [Human Touch](https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Human Touch](https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm) | 2:25 | 2022-01-28 | 2023-06-17 |
 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 | 2023-03-07 |  |
@@ -1086,7 +1087,7 @@
 | [Untouchable](https://open.spotify.com/track/05dL7chWJaVjMJnGO1YCKk) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Untouchable](https://open.spotify.com/album/3SDHTZyc0Bc84ePaIzchrd) | 3:48 | 2019-08-09\* | 2019-08-27 |
 | [Untouched Hearts](https://open.spotify.com/track/2WyPSznCIMldBnPrcCuSph) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [Stockholm Syndrome](https://open.spotify.com/artist/2YcwhWZa9RQbF1a42ZGCaS) | [Saga](https://open.spotify.com/album/4d0a9MZ4pQEmdaMlAL473l) | 3:11 | 2019-08-09\* | 2019-09-14 |
 | [Us](https://open.spotify.com/track/0reR3yfMTisKWQUnOmjxkN) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Us](https://open.spotify.com/album/4Xp28y7F7RyIOjwp4v9IgZ) | 3:02 | 2022-08-12 |  |
-| [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/53HvRc4rqJa8YmssjH5GKp) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/album/1AW5jWwgZpzSyl8gELf5Iu) | 3:00 | 2022-02-04 |  |
+| [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/53HvRc4rqJa8YmssjH5GKp) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/album/1AW5jWwgZpzSyl8gELf5Iu) | 3:00 | 2022-02-04 | 2023-09-20 |
 | [Visions](https://open.spotify.com/track/4TANuW9cpKCGqH499rr9re) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [RBBTS](https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8) | [Visions](https://open.spotify.com/album/5T9RiXXAhDNHltzGYXDMGn) | 4:21 | 2019-08-09\* | 2020-03-29 |
 | [WAIT \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/06ZFfsiywuaqGnYQiUfbyn) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [WAIT \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/6agHtwWDfbzFvPJRALB4yh) | 3:43 | 2022-08-12 |  |
 | [Wait For Me](https://open.spotify.com/track/6laq4MxNrh2ZKZGLhB7G0V) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf), [Christian Carcamo](https://open.spotify.com/artist/4OYIJXtZ6II63RT4Y9PUGn) | [Wanderlust](https://open.spotify.com/album/5FDLJc6wSkoj1gstHyE5lA) | 3:37 | 2019-08-09\* | 2021-09-11 |

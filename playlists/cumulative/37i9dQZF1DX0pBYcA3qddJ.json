@@ -649,6 +649,28 @@
     },
     {
       "album": {
+        "name": "HOUSE",
+        "url": "https://open.spotify.com/album/1Gth2C4bhFy2MW15y2yg0V"
+      },
+      "artists": [
+        {
+          "name": "Umitaro Abe",
+          "url": "https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b"
+        },
+        {
+          "name": "Kaori Takeda",
+          "url": "https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/579XAaexqrmGzkiI5tVh7x"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/3dBrfyDYJ8gyVAB7UPUxIZ"
       },
@@ -914,6 +936,24 @@
       "duration_ms": 315827,
       "name": "atoms:arpeggi",
       "url": "https://open.spotify.com/track/3bWs6s31PD86lrCnqCzIXg"
+    },
+    {
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/2N78beiPGNQuH4D3E3Gsfq"
+      },
+      "artists": [
+        {
+          "name": "Classy Moon",
+          "url": "https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/6Ysl4gmI1ILiOBRsGJKoQ9"
     },
     {
       "album": {
@@ -2697,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "For Lovers",
+        "url": "https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75053,
+      "name": "For Lovers",
+      "url": "https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9"
+    },
+    {
+      "album": {
         "name": "Forbidden Doors",
         "url": "https://open.spotify.com/album/2HlAQgCP2dsQNdyM35Iihu"
       },
@@ -3774,7 +3832,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 199784,
       "name": "Ieta",
       "url": "https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml"
@@ -6530,7 +6588,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 177635,
       "name": "Reflexion",
       "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
@@ -9175,6 +9233,24 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
+        "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315640,
+      "name": "\u3086\u3081\u3046\u3064\u3064",
+      "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
+    },
+    {
+      "album": {
         "name": "\u308f\u305f\u3057\u3092\u6ce3\u304b\u305b\u3066\u304f\u3060\u3055\u3044",
         "url": "https://open.spotify.com/album/0VnaLZbJyvsnUwtXinNuiE"
       },
@@ -9638,7 +9714,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 256906,
       "name": "\u30c9\u30d3\u30e5\u30c3\u30b7\u30fc:\u30d9\u30eb\u30ac\u30de\u30b9\u30af\u7d44\u66f2\u301c\u6708\u306e\u5149",
       "url": "https://open.spotify.com/track/044vOEYx8AJIWTms4OB8QZ"
@@ -10202,7 +10278,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 76453,
       "name": "\u6625\u3088\u3001\u6765\u3044",
       "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"

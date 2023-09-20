@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bSion(\uc2dc\uc628)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 326404,
+  "num_followers": 326407,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjhhYjliOWE1ZDc4NzYxNzMxNmY0ZWUzNGMzYjAzYTZhNDMwYTUw",
+  "snapshot_id": "MCwxNDEzMWNkZDQzN2QzNDRlY2FkM2NiYWY2NDk4ZGRiM2U0ZWViNjk5",
   "tracks": [
     {
       "added_at": "2023-09-18 07:51:12",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-18 07:51:12",
       "album": {
-        "name": "Principle Of My Soul",
-        "url": "https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 308186,
-      "name": "Memory Of The Wind",
-      "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
-    },
-    {
-      "added_at": "2023-09-18 07:51:12",
-      "album": {
         "name": "Love, Yerin",
         "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 205800,
       "name": "A Walk",
       "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
+    },
+    {
+      "added_at": "2023-09-18 07:51:12",
+      "album": {
+        "name": "Principle Of My Soul",
+        "url": "https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 308186,
+      "name": "Memory Of The Wind",
+      "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
     },
     {
       "added_at": "2023-09-18 07:51:12",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-18 07:51:12",
       "album": {
-        "name": "Her Private Life (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/22L5wb4wQyv46k4mZMv62g"
-      },
-      "artists": [
-        {
-          "name": "Lee Hae Ri",
-          "url": "https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe"
-        }
-      ],
-      "duration_ms": 228369,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I"
-    },
-    {
-      "added_at": "2023-09-18 07:51:12",
-      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 290960,
       "name": "Soju Hanjan",
       "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
+    },
+    {
+      "added_at": "2023-09-18 07:51:12",
+      "album": {
+        "name": "Her Private Life (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/22L5wb4wQyv46k4mZMv62g"
+      },
+      "artists": [
+        {
+          "name": "Lee Hae Ri",
+          "url": "https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe"
+        }
+      ],
+      "duration_ms": 228369,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I"
     },
     {
       "added_at": "2023-09-18 07:51:12",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-18 07:51:12",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "Fuckin' New Year",
-      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
-    },
-    {
-      "added_at": "2023-09-18 07:51:12",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 251160,
       "name": "You're My End and My Beginning",
       "url": "https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2"
+    },
+    {
+      "added_at": "2023-09-18 07:51:12",
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "Fuckin' New Year",
+      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
     },
     {
       "added_at": "2023-09-18 07:51:12",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-09-18 07:51:12",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
-    },
-    {
-      "added_at": "2023-09-18 07:51:12",
-      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 214346,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
+    },
+    {
+      "added_at": "2023-09-18 07:51:12",
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
     },
     {
       "added_at": "2023-09-18 07:51:12",

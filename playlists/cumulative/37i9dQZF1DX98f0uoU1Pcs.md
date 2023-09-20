@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-548 songs - 1 day 5 hr 45 min
+549 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,8 @@
 | [I Know Nothing At All](https://open.spotify.com/track/00lb13Y2ROaiMi3u5NPRFQ) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OTHERBODY](https://open.spotify.com/album/1FrxEEIn0BIIffAaf2Njfs) | 2:33 | 2023-05-22 |  |
 | [I Like You](https://open.spotify.com/track/50X4ve8zvAF4uMFTn3yMez) | [Bloods](https://open.spotify.com/artist/1zQBkffVEYoxt6Bg7YNCVs), [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [I Like You](https://open.spotify.com/album/56bo8byLWXWjpoZjgL4mrO) | 2:20 | 2022-04-01 | 2022-04-29 |
 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 | 2022-10-24 | 2023-04-15 |
-| [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-15 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 | 2023-09-15 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-15 | 2023-09-20 |
 | [I'll Make You See God](https://open.spotify.com/track/3MbhMiPevTFKJtJQUjkdSZ) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [I'll Make You See God](https://open.spotify.com/album/0NouYsEc5RT38lVFTUvmsV) | 4:52 | 2022-02-25 | 2023-06-03 |
 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 | 2022-01-07 | 2022-02-22 |
 | [I'm Your President](https://open.spotify.com/track/0DabkRkFD74ltGae3xc2Qi) | [Mother's Cake](https://open.spotify.com/artist/4tXtAqJV0KS75ndQsYh1GG) | [Cyberfunk!](https://open.spotify.com/album/3xY4LXoc9298yS7bAUMYeZ) | 2:30 | 2021-10-07 | 2022-06-11 |

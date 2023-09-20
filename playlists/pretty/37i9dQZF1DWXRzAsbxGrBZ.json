@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 28678,
+  "num_followers": 28749,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWVhMzQ5NTQ4YTBhNzM5MDgxOTE2YTZlZjBlZTAzYmQyM2E4ODlm",
+  "snapshot_id": "MCw0MGE2NjgzMDk3MjRhNjhlMTY2NTE2NDE1MDU5ZTg5YjJhZjQ5ZjU5",
   "tracks": [
     {
       "added_at": "2023-09-08 08:08:17",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
-        "name": "My Heartbeat For You",
-        "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
-      },
-      "artists": [
-        {
-          "name": "RoneeDeep",
-          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
-        },
-        {
-          "name": "Zawadi",
-          "url": "https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "My Heartbeat For You",
-      "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
-    },
-    {
-      "added_at": "2023-09-08 08:08:17",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 417600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
+    },
+    {
+      "added_at": "2023-09-08 08:08:17",
+      "album": {
+        "name": "My Heartbeat For You",
+        "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
+      },
+      "artists": [
+        {
+          "name": "RoneeDeep",
+          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
+        },
+        {
+          "name": "Zawadi",
+          "url": "https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "My Heartbeat For You",
+      "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
     },
     {
       "added_at": "2023-09-08 08:08:17",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
-      },
-      "artists": [
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        }
-      ],
-      "duration_ms": 402782,
-      "name": "Gotsom",
-      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
-    },
-    {
-      "added_at": "2023-09-08 08:08:17",
-      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
+        "name": "Artform",
+        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        }
+      ],
+      "duration_ms": 459731,
+      "name": "Flute Activation - Original Mix",
+      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+    },
+    {
+      "added_at": "2023-09-08 08:08:17",
+      "album": {
         "name": "I Rise Again",
         "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3T39mg1ZjH1Jh62iJ0LClN"
       },
       "artists": [
         {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
         }
       ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+      "duration_ms": 402782,
+      "name": "Gotsom",
+      "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
     },
     {
       "added_at": "2023-09-08 08:08:17",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
-        "name": "Gambiando Caras",
-        "url": "https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG"
-      },
-      "artists": [
-        {
-          "name": "Sir Vee The Great",
-          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
-        }
-      ],
-      "duration_ms": 435179,
-      "name": "Gambiando Caras",
-      "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
-    },
-    {
-      "added_at": "2023-09-08 08:08:17",
-      "album": {
         "name": "Dark Snow",
         "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 367124,
       "name": "Dark Snow - Bones Remix",
       "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
+    },
+    {
+      "added_at": "2023-09-08 08:08:17",
+      "album": {
+        "name": "Gambiando Caras",
+        "url": "https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG"
+      },
+      "artists": [
+        {
+          "name": "Sir Vee The Great",
+          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
+        }
+      ],
+      "duration_ms": 435179,
+      "name": "Gambiando Caras",
+      "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
     },
     {
       "added_at": "2023-09-08 08:08:17",

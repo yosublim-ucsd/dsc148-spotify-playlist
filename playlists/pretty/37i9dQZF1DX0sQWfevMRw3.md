@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DANSAR DOM I HIMMELEN??
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,928 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,957 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Satsa På Mig Själv](https://open.spotify.com/track/2LLykyfi9N5ORELGXms4tZ) | [2 Blyga Läppar](https://open.spotify.com/artist/04UWvFdSYUV4wv6UJ0mARE) | [Satsa På Mig Själv](https://open.spotify.com/album/2CRZyHD6Xx9qaztrU8s7fT) | 2:49 |
 | 100 | [STUREPLAN](https://open.spotify.com/track/6LlBUPrRLJURMBGk97UlfH) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Dj Papiljottan](https://open.spotify.com/artist/6wLNEtETDrWp288YzyqTvp) | [STUREPLAN](https://open.spotify.com/album/4lrJfbpvZILhobbR113DZW) | 1:56 |
 
-Snapshot ID: `MCw3NzMwYTFjYzEyNjA3MzZkZjRmMzE4YmUzOWM3ZGM5YWNiY2E5N2Qz`
+Snapshot ID: `MCwxYWQxNzFkZGNlYjZiZTBmZWQzYWVmNDFhYjk2ZTdmMzBhYTkyYmE1`

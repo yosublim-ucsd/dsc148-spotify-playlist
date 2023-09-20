@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "kirakirayou",
+        "url": "https://open.spotify.com/album/384GpFtH2AIVEienGR2CgF"
+      },
+      "artists": [
+        {
+          "name": "saba sister",
+          "url": "https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "kirakirayou",
+      "url": "https://open.spotify.com/track/1r6QqsG9RXtpemNUt7DY5R"
+    },
+    {
+      "album": {
         "name": "kokoronashi",
         "url": "https://open.spotify.com/album/5jVDt2L1WH4yhbgryBdZCu"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 177485,
       "name": "kokoronashi",
       "url": "https://open.spotify.com/track/2S4R6ba07Spqk3AXNJNxp9"
@@ -675,6 +693,24 @@
     },
     {
       "album": {
+        "name": "FANFARE (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226453,
+      "name": "\u30a8\u30cb\u30b0\u30de",
+      "url": "https://open.spotify.com/track/2Z2icDPK5zM0sHNjoKbJfv"
+    },
+    {
+      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
       },
@@ -1000,7 +1036,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 221250,
       "name": "\u4e16\u754c\u306e\u79d8\u5bc6",
       "url": "https://open.spotify.com/track/2ISglgxR4TxUXxrA5Iqwzr"

@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-157 songs - 6 hr 28 min
+158 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 | 2020-11-12 |  |
 | [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 1:48 | 2020-11-12 | 2022-07-27 |
 | [Devine](https://open.spotify.com/track/2UAZ0GqmyRh5O3A17FOlOy) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [G93](https://open.spotify.com/artist/01kKwMSA10JavvAaD0Jj5u) | [Devine](https://open.spotify.com/album/52KSCzrUXBM0seRkCbgtCS) | 2:02 | 2020-11-12 |  |
-| [Dignity](https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:10 | 2020-11-12 |  |
+| [Dignity](https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:10 | 2020-11-12 | 2023-09-20 |
 | [Dignity](https://open.spotify.com/track/3OA9r5uxc2wgI9XWY1RzCz) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/6WYT84o6iLdOkuYTU6858W) | 3:10 | 2020-11-12 | 2022-07-10 |
 | [Distune](https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Distune](https://open.spotify.com/album/4RXlSA1QjJgT7IgpyqG7vc) | 1:58 | 2020-11-12 | 2023-09-18 |
 | [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 | 2022-06-24 | 2023-09-19 |
@@ -115,6 +115,7 @@
 | [Sandcastle](https://open.spotify.com/track/4uzI5lrZY5XD9D8QpUVESB) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:44 | 2020-11-12 |  |
 | [Sandcastle](https://open.spotify.com/track/5o4sk4KHIHbLISuQ7SnKdE) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Sandcastle](https://open.spotify.com/album/6m5MWzSZKFcubFwcL0oMDD) | 1:44 | 2020-11-12 | 2022-07-29 |
 | [Saturnian Potion](https://open.spotify.com/track/1CBfTUq4k0OIL1eYhrM24o) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Saturnian Potion](https://open.spotify.com/album/0a6GJOHAnJ4FKPyck0llk8) | 3:37 | 2020-11-12 | 2022-07-29 |
+| [Serenity](https://open.spotify.com/track/2c4ID1tG3Y0sp20zLRV8TI) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/49jIsH9XQXw0IYubfJK4Kv) | 3:12 | 2020-11-12 |  |
 | [Serenity](https://open.spotify.com/track/44Enofs0bXrGNbKuqtdx0k) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/7boAU92M1FypSBlYz0aeSg) | 3:12 | 2020-11-12 | 2023-09-16 |
 | [Serenity](https://open.spotify.com/track/4x1mZMYf8E239Ug0VeYvzQ) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/4n4VJqnZTaPg41iDIakpmE) | 3:12 | 2020-11-12 | 2022-07-29 |
 | [Sesame](https://open.spotify.com/track/2bS8fi0PnaVWjtPWmGqj5j) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3YzLE1tSMOuHt1XfAir75z) | 2:33 | 2020-11-12 | 2022-07-29 |

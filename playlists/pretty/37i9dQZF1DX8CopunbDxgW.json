@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: NEIL FRANCES",
-  "num_followers": 865895,
+  "num_followers": 865908,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmYyZWU2ZTI3NDU4NDc1MzA4Y2MxMTRkMzg2YzkxMjAxYzVkYjc5",
+  "snapshot_id": "MCxhN2ZhMzM0ZGU2OTAwYzBhZjdkNzBlZTlmZTgzZmQ5NDg3MTUzYWRl",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "JOY (Head To The Sky)",
+        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 230650,
+      "name": "JOY (Head To The Sky)",
+      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Winter Solstice (Braxe + Falcon Remix)",
         "url": "https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 240156,
       "name": "Winter Solstice - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "JOY (Head To The Sky)",
-        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 230650,
-      "name": "JOY (Head To The Sky)",
-      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/0wABBgkiamVDvK04MUvHkU"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/0d8gBiY0neOTYJmbd8Muw6"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Standing My Ground",
-      "url": "https://open.spotify.com/track/6zNm2BIV6gbsRRG0jwQA2d"
-    },
-    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "Love",
@@ -963,6 +947,22 @@
       "duration_ms": 239500,
       "name": "Love",
       "url": "https://open.spotify.com/track/4hriybgE67pyiH6yz7J8R5"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/0d8gBiY0neOTYJmbd8Muw6"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Standing My Ground",
+      "url": "https://open.spotify.com/track/6zNm2BIV6gbsRRG0jwQA2d"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Not Worthy (feat. Nonso Amadi)",
-        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 192208,
-      "name": "Not Worthy (feat. Nonso Amadi)",
-      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Light Places",
         "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 241804,
       "name": "Feels Just Like It",
       "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Not Worthy (feat. Nonso Amadi)",
+        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 192208,
+      "name": "Not Worthy (feat. Nonso Amadi)",
+      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Awesome Ways",
-        "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Awesome Ways",
-      "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Sisyphus",
         "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 206250,
       "name": "Touch",
       "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Awesome Ways",
+        "url": "https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Awesome Ways",
+      "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/5slmjDmkuBgIkl3HPc3GHw"
-      },
-      "artists": [
-        {
-          "name": "SAFIA",
-          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/2vHCoBojKudmRjFUnPsKys"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Day Dreams",
-        "url": "https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Day Dreams",
-      "url": "https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Sunrise Bang Ur Head Against Tha Wall",
         "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
       },
@@ -1447,6 +1415,38 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Day Dreams",
+        "url": "https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Day Dreams",
+      "url": "https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/5slmjDmkuBgIkl3HPc3GHw"
+      },
+      "artists": [
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2vHCoBojKudmRjFUnPsKys"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "DAYS GO BY",
         "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 271756,
       "name": "DAYS GO BY",
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "A Little Bit Further",
+        "url": "https://open.spotify.com/album/1EyXqBrGIPPnKWOuGubCDb"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 302065,
+      "name": "A Little Bit Further",
+      "url": "https://open.spotify.com/track/5KY4shvDTZMZ9wt3piadQ8"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "A Little Bit Further",
-        "url": "https://open.spotify.com/album/1EyXqBrGIPPnKWOuGubCDb"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 302065,
-      "name": "A Little Bit Further",
-      "url": "https://open.spotify.com/track/5KY4shvDTZMZ9wt3piadQ8"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Studio 54",
         "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
@@ -1539,6 +1539,26 @@
       "duration_ms": 166289,
       "name": "Studio 54",
       "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Jam City Presents EFM",
+        "url": "https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "LLTB",
+      "url": "https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1599,26 +1619,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Jam City Presents EFM",
-        "url": "https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR"
-      },
-      "artists": [
-        {
-          "name": "Jam City",
-          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
-        },
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "LLTB",
-      "url": "https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "turn it all the way up",
         "url": "https://open.spotify.com/album/5TGDbBxkgpfVtjZF6FTyUX"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Soy Gitano EP",
-        "url": "https://open.spotify.com/album/5pB761K03E09m3aZz9YFOM"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Our Way",
-      "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/2enL7M75Dt4yGg6qodIhfm"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 220493,
       "name": "Tartaruga",
       "url": "https://open.spotify.com/track/0CFwsncuCbp6qkW8C0dtSZ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Soy Gitano EP",
+        "url": "https://open.spotify.com/album/5pB761K03E09m3aZz9YFOM"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 204848,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Moonlighting \u2013 AstroJazz Vol.1",
+        "url": "https://open.spotify.com/album/4UaAyjTwG1k7X6qJkwYoAy"
+      },
+      "artists": [
+        {
+          "name": "Astrocolor",
+          "url": "https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD"
+        }
+      ],
+      "duration_ms": 215056,
+      "name": "Star Swing",
+      "url": "https://open.spotify.com/track/3aZI3XL8QULBURRSg2O7rr"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/5boyLvydg1vKZeIWY8LwxK"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 451034,
       "name": "RISE - Darius Remix",
       "url": "https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Moonlighting \u2013 AstroJazz Vol.1",
-        "url": "https://open.spotify.com/album/4UaAyjTwG1k7X6qJkwYoAy"
-      },
-      "artists": [
-        {
-          "name": "Astrocolor",
-          "url": "https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD"
-        }
-      ],
-      "duration_ms": 215056,
-      "name": "Star Swing",
-      "url": "https://open.spotify.com/track/3aZI3XL8QULBURRSg2O7rr"
     }
   ],
   "unique_name": "metropolis",

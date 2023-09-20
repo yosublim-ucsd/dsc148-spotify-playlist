@@ -4,7 +4,7 @@
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-114 songs - 6 hr 11 min
+115 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Pasajero](https://open.spotify.com/track/5hvIzJHhh8EoIKVqXIypn6) | [Jeremy G](https://open.spotify.com/artist/7r6BQAQC6tORZMC6RIJBcO) | [Pasajero](https://open.spotify.com/album/65vRCYxPs4YpsBYKJhTOXs) | 3:21 | 2023-06-09 |  |
 | [Perreo X Calle](https://open.spotify.com/track/6TrHcYm0TFwZt5JeSOm8F4) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Perreo X Calle](https://open.spotify.com/album/2uGMXUYZTu0597ajBhZFSa) | 3:10 | 2023-06-09 |  |
 | [Piky](https://open.spotify.com/track/3uDBz9yGkL8qgZxQcSdU1i) | [Producto Sin Corte](https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu) | [Piky](https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9) | 2:41 | 2023-06-09 |  |
-| [Por Amor](https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Por Amor](https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2) | 3:04 | 2023-06-09 |  |
+| [Polvos Narcos](https://open.spotify.com/track/6ckRxmSWoAy1oBrlwrlqhZ) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Polvos Narcos](https://open.spotify.com/album/3OIeXcf2e3ahdXuHuFsHCw) | 3:48 | 2023-06-09 |  |
+| [Por Amor](https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Por Amor](https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2) | 3:04 | 2023-06-09 | 2023-09-20 |
 | [Porche Carrera](https://open.spotify.com/track/7BnUNwbu4ITOkwrS6nGoVb) | [DimeWest](https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Porche Carrera](https://open.spotify.com/album/5pOOSzT6PNhrEQOHLTeuFX) | 3:08 | 2023-06-09 | 2023-07-09 |
 | [Porche Carrera](https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF) | [DimeWest](https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Porche Carrera](https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn) | 3:08 | 2023-06-09 |  |
 | [Pretty Bad Bitch](https://open.spotify.com/track/5Pfv9O833ZMX4q2PdiCHvT) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Pretty Bad Bitch](https://open.spotify.com/album/4KPCiL8KXZ0c6GZlb0dSRV) | 3:23 | 2023-06-09 |  |

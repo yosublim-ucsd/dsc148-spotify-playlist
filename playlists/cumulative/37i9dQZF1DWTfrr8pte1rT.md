@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Pendulum \\m/
 
-324 songs - 18 hr 34 min
+325 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Eyes Wide Open \- ry flora Remix](https://open.spotify.com/track/3YAo0Y2zqII53swBtcGvUJ) | [ry flora](https://open.spotify.com/artist/7uRxlnkvyppjdiZbVM9nzh), [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Eyes Wide Open \(ry flora Remix\)](https://open.spotify.com/album/6bO5MqXKM9qDbxPr9KoP5T) | 3:19 | 2022-01-28 | 2022-02-12 |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-28 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [Eyes Wide Shut](https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm) | 3:35 | 2023-03-03 |  |
-| [Fade With Me](https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Fade With Me](https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA) | 3:34 | 2021-12-10 |  |
+| [Fade With Me](https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Fade With Me](https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA) | 3:34 | 2021-12-10 | 2023-09-20 |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-24 | 2023-03-18 |
 | [Fall Down](https://open.spotify.com/track/6591V8mJSzKn29si2hx9iC) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Fall Down](https://open.spotify.com/album/3BULrq5tWKnyI2GhIZfTwg) | 2:46 | 2022-01-24 | 2022-06-25 |
 | [Falling](https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU) | 3:29 | 2022-06-24 | 2022-12-06 |
@@ -294,6 +294,7 @@
 | [The Real You](https://open.spotify.com/track/4XHTPl7nE6TO2XyUBMmluw) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [The Real You](https://open.spotify.com/album/39KJvXLSyc7itwR6svigHY) | 3:01 | 2021-12-10 | 2022-06-25 |
 | [The Same \(feat\. neverwaves\)](https://open.spotify.com/track/6YHoMGskZLBjLYDRqCJCGX) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [The Same \(feat\. neverwaves\)](https://open.spotify.com/album/4FaxYOyIEqNrVIZD0WXmNO) | 4:39 | 2021-12-10 | 2022-06-25 |
 | [The Sickness](https://open.spotify.com/track/0ydJxPQlsSTaABAQuYn3q9) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [The Sickness](https://open.spotify.com/album/05FU57RYm1lzR9TKEDGQ05) | 4:00 | 2022-01-18 | 2022-06-25 |
+| [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 | 2023-09-15 |  |
 | [This Will Be My Year](https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [This Will Be My Year](https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH) | 3:00 | 2021-12-10 |  |
 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 | 2022-07-22 |  |
 | [Thrones of Blood](https://open.spotify.com/track/0h3lOUAXzJr80KrGVjPpWE) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/57QdPzSq8NhduKeYBJ7jw1) | 4:02 | 2023-01-13 | 2023-04-30 |

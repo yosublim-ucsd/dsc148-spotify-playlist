@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Diddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,018 likes - 81 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,038 likes - 81 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 80 | [Intelligent Bad Bwoy](https://open.spotify.com/track/1gw7vCvbE2z6lwGDOxkW4M) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Daigos](https://open.spotify.com/artist/2E1k7NNNu4SJcMKrGPVVLO) | [Intelligent Bad Bwoy](https://open.spotify.com/album/3izQI59ta8LnH8wIvgXFU9) | 4:28 |
 | 81 | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt) | 2:49 |
 
-Snapshot ID: `MCxiMmQ0YjViY2QxNjJhNjZmNTEyMzZiMTA1MWM4MmU1ZmM1ZmU2ZDRk`
+Snapshot ID: `MCwxZmEwYTY2NGM2NDM0MTNhZDUxNmNkYzdiNmJjOTcwNTJlOTQ3NmQy`

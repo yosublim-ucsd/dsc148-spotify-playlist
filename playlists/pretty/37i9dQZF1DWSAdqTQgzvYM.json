@@ -1,12 +1,12 @@
 {
   "description": "Because everyone else is already taken!",
-  "num_followers": 8496,
+  "num_followers": 8495,
   "original_name": "Be Yourself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjFhYzYwMTY1YTA5YjY3YTQzNjZkMDY4Njc1MjNlYjcxZDcwOWEz",
+  "snapshot_id": "MCxhYmYzZWI1OTNkMDk5MTUzMjZlZDM0Yzg1MzBjMjBlZTA3NjVkY2Vm",
   "tracks": [
     {
       "added_at": "2022-04-15 14:06:51",
@@ -503,22 +503,6 @@
       "duration_ms": 194680,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5yv6tEdYkY3EfWXGSMSnWj"
-    },
-    {
-      "added_at": "2022-04-15 14:06:51",
-      "album": {
-        "name": "Nah Nah Nah",
-        "url": "https://open.spotify.com/album/4IRJpqzRb4OR8PpBeEcgws"
-      },
-      "artists": [
-        {
-          "name": "Haschak Sisters",
-          "url": "https://open.spotify.com/artist/65bfJSe4WLgPfyEo9Pqelp"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Nah Nah Nah",
-      "url": "https://open.spotify.com/track/3qL331Jhf5RO4j0T3DqWun"
     },
     {
       "added_at": "2022-04-15 14:06:51",

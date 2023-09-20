@@ -7333,6 +7333,24 @@
     },
     {
       "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/5iPPHGZzzZJYk4rbI2MWAd"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324057,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/7GgtQOS5ZySXkzw2Qsl21y"
+    },
+    {
+      "album": {
         "name": "Pyxis EP",
         "url": "https://open.spotify.com/album/4HFq51XXEP4uPzcCACtYyT"
       },
@@ -7452,7 +7470,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 525619,
       "name": "Regina Blue",
       "url": "https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts"

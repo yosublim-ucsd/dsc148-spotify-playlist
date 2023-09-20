@@ -20413,6 +20413,24 @@
     },
     {
       "album": {
+        "name": "Slapfunk EP",
+        "url": "https://open.spotify.com/album/5FvmHM9fi9sztkWrBNLGjP"
+      },
+      "artists": [
+        {
+          "name": "wAFF",
+          "url": "https://open.spotify.com/artist/4OHSon9N7JAfxkjlH8nKDb"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443076,
+      "name": "Slapfunk",
+      "url": "https://open.spotify.com/track/5K5wmgZvicEFdSW1E5LhAS"
+    },
+    {
+      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/2Atu4RlAT6gLeJq5WsaaK0"
       },

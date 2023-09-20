@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Il Tre, Shiva, Philip e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,194 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,204 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 59 | [Money Cash \(feat\. Diss Gacha\)](https://open.spotify.com/track/1VxGl8QDtW6MnRBW7bNoSR) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 2:26 |
 | 60 | [BAILEYS](https://open.spotify.com/track/3i45cxmF0k70HsI7VUrMVh) | [Baby Sosa](https://open.spotify.com/artist/7jg5p3qrEEKY7fqNzgoJ9K), [Edo Fendy](https://open.spotify.com/artist/41arBMetHJgurmTgrlOF7J) | [BAILEYS](https://open.spotify.com/album/2PAwVhWREDhFFptsr5AdlT) | 2:37 |
 
-Snapshot ID: `MCxhMzQ1MGZlYmY3ZWM3NjIwMmI0Y2RiYWVjZGY5Yzc3NzYyNmEyZDJi`
+Snapshot ID: `MCxhM2YxZWViYWQ3YTU1OTg4ZTMyM2Q1ZmI1MDE5ZGE0NWNkZDA2ZDQx`

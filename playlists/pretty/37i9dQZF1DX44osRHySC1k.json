@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52069,
+  "num_followers": 52070,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjA1NTMzNGY0YTRlMzc0N2UwMmFhM2UzYjk5MmNhMTE5YzcwMGUz",
+  "snapshot_id": "MCxlZGFhNjEzMTFkMmZkMjIxYTQ2MzgzYWMzNjhmMjgxNzI0MzhjMDk0",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Evans",
-          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 112311,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Evans",
+          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -347,18 +347,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sea Of Tranquility",
-        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
       },
       "artists": [
         {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+          "name": "Eva Slott",
+          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
         }
       ],
-      "duration_ms": 175318,
-      "name": "Sea Of Tranquility",
-      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
+      "duration_ms": 139593,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -379,18 +379,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
+        "name": "Sea Of Tranquility",
+        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
       },
       "artists": [
         {
-          "name": "Eva Slott",
-          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
         }
       ],
-      "duration_ms": 139593,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
+      "duration_ms": 175318,
+      "name": "Sea Of Tranquility",
+      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -555,6 +555,30 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Endless Meditation",
+        "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
+      },
+      "artists": [
+        {
+          "name": "Savasana",
+          "url": "https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk"
+        },
+        {
+          "name": "Yoga Savasana",
+          "url": "https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq"
+        },
+        {
+          "name": "Moon Tunes",
+          "url": "https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD"
+        }
+      ],
+      "duration_ms": 163684,
+      "name": "Endless Sleep",
+      "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "The Solo Piano Collection",
         "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
@@ -583,30 +607,6 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Endless Meditation",
-        "url": "https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK"
-      },
-      "artists": [
-        {
-          "name": "Savasana",
-          "url": "https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk"
-        },
-        {
-          "name": "Yoga Savasana",
-          "url": "https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq"
-        },
-        {
-          "name": "Moon Tunes",
-          "url": "https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD"
-        }
-      ],
-      "duration_ms": 163684,
-      "name": "Endless Sleep",
-      "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -643,18 +643,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Lovely Thunder",
-        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+        "name": "Mantric Melody",
+        "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
       },
       "artists": [
         {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
         }
       ],
-      "duration_ms": 138426,
-      "name": "Olancha Farewell",
-      "url": "https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF"
+      "duration_ms": 111277,
+      "name": "Mantric Melody",
+      "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -675,34 +675,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Clear Mind",
-        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
       },
       "artists": [
         {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 173696,
-      "name": "A Clear Mind",
-      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/28liljlrdNabEfDkZG7JWW"
-      },
-      "artists": [
-        {
-          "name": "Chama Wijnen",
-          "url": "https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP"
-        }
-      ],
-      "duration_ms": 191624,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK"
+      "duration_ms": 138426,
+      "name": "Olancha Farewell",
+      "url": "https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -723,18 +707,34 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mantric Melody",
-        "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/28liljlrdNabEfDkZG7JWW"
       },
       "artists": [
         {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+          "name": "Chama Wijnen",
+          "url": "https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP"
         }
       ],
-      "duration_ms": 111277,
-      "name": "Mantric Melody",
-      "url": "https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI"
+      "duration_ms": 191624,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "A Clear Mind",
+        "url": "https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ"
+      },
+      "artists": [
+        {
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+        }
+      ],
+      "duration_ms": 173696,
+      "name": "A Clear Mind",
+      "url": "https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "unspoken",
-        "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
-      },
-      "artists": [
-        {
-          "name": "Rosetta Arroyo",
-          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "anywhere",
-      "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "unspoken",
+        "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Arroyo",
+          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "anywhere",
+      "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "For Better Times",
-        "url": "https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ"
-      },
-      "artists": [
-        {
-          "name": "Oakwood Station",
-          "url": "https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf"
-        }
-      ],
-      "duration_ms": 247283,
-      "name": "As We Believed",
-      "url": "https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "My Sleeping Rose",
         "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 127865,
       "name": "My Sleeping Rose",
       "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "For Better Times",
+        "url": "https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ"
+      },
+      "artists": [
+        {
+          "name": "Oakwood Station",
+          "url": "https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf"
+        }
+      ],
+      "duration_ms": 247283,
+      "name": "As We Believed",
+      "url": "https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
       },
       "artists": [
         {
-          "name": "Alexander Molina",
-          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
+          "name": "Borghild Wenn",
+          "url": "https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7"
         }
       ],
-      "duration_ms": 163012,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
+      "duration_ms": 152581,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
       },
       "artists": [
         {
-          "name": "Borghild Wenn",
-          "url": "https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7"
+          "name": "Alexander Molina",
+          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
         }
       ],
-      "duration_ms": 152581,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
+      "duration_ms": 163012,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
     },
     {
       "added_at": "2021-06-24 10:58:44",

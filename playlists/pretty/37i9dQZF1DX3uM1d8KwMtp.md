@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,208 likes - 49 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,233 likes - 49 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 35 | [Feeling Good](https://open.spotify.com/track/4wqtlpo7xtEmuY3zJjR2EE) | [Simone Vitullo](https://open.spotify.com/artist/2DmIxLxqj5Pu1QcZxuMZOQ), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Brigitte Wickens](https://open.spotify.com/artist/7MlbbUSbXf3BDOSyFCOOeO) | [Feeling Good](https://open.spotify.com/album/2ONyrF5at73dk9Dbb8AD30) | 6:55 |
 | 36 | [Mon Amour](https://open.spotify.com/track/2UFaIpJFR8fDgc40w7sUpr) | [Bakean](https://open.spotify.com/artist/6Qio1MH1BgukuPhwHL1eYF), [Adassiya](https://open.spotify.com/artist/6PnIMPBBvmCdioVFn2HFXP), [David Abitbol](https://open.spotify.com/artist/2bScLMNUnNbkKs2k1yRJNk) | [Rebirth](https://open.spotify.com/album/2yuKqxMGHteFZXgZgF6FRa) | 8:27 |
 | 37 | [Lost Trumpet In Space](https://open.spotify.com/track/26z4AI4PEA4HS7MuuV2o8O) | [NonCitizens](https://open.spotify.com/artist/73KWbbG4ZspCHvI0aDcfl1) | [Lost Trumpet In Space](https://open.spotify.com/album/4hrVv6wLydlI4Z7veGvRPl) | 6:10 |
-| 38 | [Ay Como Hago](https://open.spotify.com/track/6p1YupLCbZcXAMYqXzF30A) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Anlly Marin](https://open.spotify.com/artist/4ywyCbn9tmI1FzsXlDFvK5), [Yimalá](https://open.spotify.com/artist/4MtegK6bkIzJEi0PcyOBrN) | [Ay Como Hago](https://open.spotify.com/album/67KSanoaM4gplWUIlwaudD) | 6:32 |
+| 38 | [Ay Como Hago](https://open.spotify.com/track/6p1YupLCbZcXAMYqXzF30A) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Anlly Marín](https://open.spotify.com/artist/1CkiILgUUV8OFr0t9AUpkr), [Yimalá](https://open.spotify.com/artist/4MtegK6bkIzJEi0PcyOBrN) | [Ay Como Hago](https://open.spotify.com/album/67KSanoaM4gplWUIlwaudD) | 6:32 |
 | 39 | [Somebody \- Edit](https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Somebody](https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44) | 3:43 |
 | 40 | [Blaze](https://open.spotify.com/track/1O8YpzFXe7vbjck2Wtz1y4) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Blaze](https://open.spotify.com/album/6SwnBZstvXFzoepcQOPXJy) | 5:45 |
 | 41 | [When We Meet](https://open.spotify.com/track/4SMLbQZ9rM5BV8ZxLEOtGk) | [Zakem](https://open.spotify.com/artist/3aZZJkTAm6G2NRZ6DaiL7K) | [The Rain Dance](https://open.spotify.com/album/0TLE2OhP2Hspnn9DIJEKyb) | 7:40 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 48 | [Shikiria \- Zakem, Yescene Remix](https://open.spotify.com/track/65yxCD6MLeTiTiMLCENRhN) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Zakem](https://open.spotify.com/artist/3aZZJkTAm6G2NRZ6DaiL7K), [Yescene](https://open.spotify.com/artist/2K81NzC5UFgLf1mgmHtbSt) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 7:32 |
 | 49 | [Madan](https://open.spotify.com/track/19UXAgu0PzHHWSlmzLv9Qj) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Madan](https://open.spotify.com/album/48CVbFIVq033H7ajrXaJTY) | 3:18 |
 
-Snapshot ID: `MCwzMzhiNTg1ZjU3MWFkYWZkYmUwNmY1NDg2OGJkNWU0MTc1NjAwYzU3`
+Snapshot ID: `MCxiNTQ0MWI4MGY1YzlhMjI2MDc3MzcxYTE2MjVmYWM2NWRkMjM1OTBm`

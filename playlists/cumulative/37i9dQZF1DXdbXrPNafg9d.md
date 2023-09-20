@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Vagabon
 
-5,860 songs - 14 day 6 hr 49 min
+5,861 songs - 14 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2510,7 +2510,8 @@
 | [I Think I Lost My Number Can I Have Yours?](https://open.spotify.com/track/7sm7RkEXLx4IFvvbw8h5rC) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [I Think I Lost My Number Can I Have Yours?](https://open.spotify.com/album/4b0zKPaz51p8EgPHksKoAn) | 3:28 | 2023-09-08 |  |
 | [I Think I Met You In A Dream](https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Think I Met You In A Dream](https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO) | 3:09 | 2022-02-18 | 2022-05-07 |
 | [I Think That](https://open.spotify.com/track/1wD3GvEMtHB1xjKom5CX6A) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Sea Monster](https://open.spotify.com/album/13N9WZkBPSuQYXKKkSN9Ud) | 4:27 | 2020-07-31 | 2020-08-21 |
-| [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-08 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 | 2023-09-08 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-08 | 2023-09-20 |
 | [i tried](https://open.spotify.com/track/1lCm0JDZgZ2gyoJ6Mqi3OF) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [i tried](https://open.spotify.com/album/4iDDKSu5jBg9zDfgzydQq8) | 3:40 | 2023-01-27 | 2023-03-04 |
 | [I Turned My Back on the Written Word](https://open.spotify.com/track/600RW3Gw5CgUEFlHaaysrx) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [I Turned My Back on the Written Word](https://open.spotify.com/album/2PVuclluPuaq80o1uuodY8) | 2:49 | 2019-05-26\* | 2019-06-15 |
 | [i used to](https://open.spotify.com/track/75EStj9OPvWHa9N5KvFo72) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [International Contemporary Ensemble](https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [i used to](https://open.spotify.com/album/5zKGLARoiiUGb2r8R3kLv1) | 3:08 | 2022-08-26 | 2022-10-15 |

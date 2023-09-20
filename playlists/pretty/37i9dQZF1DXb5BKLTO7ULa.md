@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Siggy & D1ns \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a>\-artiesten\) op de cover\. De nieuwste releases elke vrijdag op Spotify!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,613 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,621 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 39 | [Birthday](https://open.spotify.com/track/0IsmZ748Rji34ZldN9vPGe) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Birthday](https://open.spotify.com/album/7jH8nFAnYrwAkeDpmdi9vA) | 2:54 |
 | 40 | [Groeispurt](https://open.spotify.com/track/7ybQ4HIwxVc1EH2htkDFUE) | [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd) | [Groeispurt](https://open.spotify.com/album/5h3NZaXuW2Y4yHKE4REwVG) | 3:52 |
 | 41 | [Temptation](https://open.spotify.com/track/6zGHAuABZTJQwn23m1fgf4) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [New Man](https://open.spotify.com/album/75XStWHKUqPqIRtAYee0Od) | 2:36 |
-| 42 | [EWA EWA](https://open.spotify.com/track/2RLMkYFyNkgABJvNk4nPca) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [EWA EWA](https://open.spotify.com/album/0tFphBLPOSM0o7qtG9KRIV) | 2:15 |
+| 42 | [EWA EWA](https://open.spotify.com/track/70ft08BdXctantaAYo6JEI) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [EWA EWA](https://open.spotify.com/album/4pbXVz5H5Z8fajMzASUtub) | 2:15 |
 | 43 | [Stapje](https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G), [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Stapje](https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4) | 2:13 |
 | 44 | [Nymfomane](https://open.spotify.com/track/3LXMu9kIUBSor7GgjencRf) | [Sick & Nimon](https://open.spotify.com/artist/78oo3JI8z5VDA8voOrA0Tl), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Euro Visie](https://open.spotify.com/album/01nIt5EO52HpWtk3Z7hoYi) | 2:58 |
 | 45 | [Talk](https://open.spotify.com/track/0155rilvtvsAC295WiHtPJ) | [CIEL](https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g) | [Talk](https://open.spotify.com/album/1V8ZpGE33YrmMbvOY9CPNf) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [if i wanted to](https://open.spotify.com/track/3xSWezmaKHVUVWE4XT78z0) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [if i wanted to](https://open.spotify.com/album/1bMqahsmebu45DMUgGCI6T) | 3:02 |
 | 100 | [Milk & Honey](https://open.spotify.com/track/6yG8sxSJNeaViOHwcNs24B) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 2:50 |
 
-Snapshot ID: `MCw4MmMzODc5Nzk5OTk4Njg1NmNmMDVkZjk0NmYzODYxOTZmNjExOWU0`
+Snapshot ID: `MCxkZGZkYmZjMTYyZTY5YmRjNTA1YjBhZjVmNThjYjI4ODg1NTE4OTA4`

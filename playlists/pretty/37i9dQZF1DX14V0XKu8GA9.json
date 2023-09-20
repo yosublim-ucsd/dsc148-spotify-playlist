@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: King Lil G & Young Drummer Boy",
-  "num_followers": 24591,
+  "num_followers": 24683,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjNhNjBlZjQyMjgyMGM2ZWZiYWE3NDExZDU0NzVlMmZhYjIyNzY1",
+  "snapshot_id": "MCw1MjM3NzQwY2Q2ZmY1MWEwZjBhNGU5ODJmZTdiYWViMGRhM2FmYWQ0",
   "tracks": [
     {
       "added_at": "2023-09-15 17:42:25",
@@ -571,6 +571,30 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
+        "name": "This Is What I Need",
+        "url": "https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        },
+        {
+          "name": "Muriel",
+          "url": "https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "This Is What I Need",
+      "url": "https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
         "name": "John Gotti (feat. Chunks)",
         "url": "https://open.spotify.com/album/4YK1V7pLeQ1Kd28Zkm45Vh"
       },
@@ -587,22 +611,6 @@
       "duration_ms": 196340,
       "name": "John Gotti (feat. Chunks)",
       "url": "https://open.spotify.com/track/2aJHkplaxZaO4ERusqANdK"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n"
-      },
-      "artists": [
-        {
-          "name": "Bravo the Bagchaser",
-          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
-        }
-      ],
-      "duration_ms": 86674,
-      "name": "Ran It Up",
-      "url": "https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -627,6 +635,22 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n"
+      },
+      "artists": [
+        {
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
+        }
+      ],
+      "duration_ms": 86674,
+      "name": "Ran It Up",
+      "url": "https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
         "name": "Little Homie",
         "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
       },
@@ -643,30 +667,6 @@
       "duration_ms": 154536,
       "name": "Little Homie",
       "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
-        "name": "This Is What I Need",
-        "url": "https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw"
-      },
-      "artists": [
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        },
-        {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
-        },
-        {
-          "name": "Muriel",
-          "url": "https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "This Is What I Need",
-      "url": "https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -759,6 +759,34 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
+        "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
+        "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Joe Peshi",
+          "url": "https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "duration_ms": 187461,
+      "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
+      "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
         "name": "HorHey",
         "url": "https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW"
       },
@@ -795,34 +823,6 @@
       "duration_ms": 146400,
       "name": "She gon choose",
       "url": "https://open.spotify.com/track/3PPAAIrkrrmBPuXf54xsqd"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
-        "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
-        "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Joe Peshi",
-          "url": "https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
-        }
-      ],
-      "duration_ms": 187461,
-      "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
-      "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
     },
     {
       "added_at": "2023-09-15 17:42:25",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Rich Remedy",
-        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Tweak on the Beat",
-          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
-        }
-      ],
-      "duration_ms": 115356,
-      "name": "Rich Remedy",
-      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
         "name": "Are We Really Free",
         "url": "https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO"
       },
@@ -915,26 +895,6 @@
     {
       "added_at": "2023-09-15 17:42:25",
       "album": {
-        "name": "Props",
-        "url": "https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP"
-      },
-      "artists": [
-        {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
-        },
-        {
-          "name": "Mah",
-          "url": "https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "Props",
-      "url": "https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k"
-    },
-    {
-      "added_at": "2023-09-15 17:42:25",
-      "album": {
         "name": "Bienvenidos",
         "url": "https://open.spotify.com/album/0flYjj312P4iOOuriLc37g"
       },
@@ -951,6 +911,46 @@
       "duration_ms": 154600,
       "name": "Bienvenidos",
       "url": "https://open.spotify.com/track/01KeHXxbmd5GuFOkgzDBSL"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "Rich Remedy",
+        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Tweak on the Beat",
+          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
+        }
+      ],
+      "duration_ms": 115356,
+      "name": "Rich Remedy",
+      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
+    },
+    {
+      "added_at": "2023-09-15 17:42:25",
+      "album": {
+        "name": "Props",
+        "url": "https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP"
+      },
+      "artists": [
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        },
+        {
+          "name": "Mah",
+          "url": "https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "Props",
+      "url": "https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k"
     },
     {
       "added_at": "2023-09-15 17:42:25",

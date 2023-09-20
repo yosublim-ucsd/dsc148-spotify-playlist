@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now! Cover: \u5409\u4e95\u548c\u54c9",
+  "description": "The biggest rock bands/artists in Japan right now! Cover: THE BACK HORN",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 309918,
       "name": "All for RAN",
       "url": "https://open.spotify.com/track/2Exj7jLQ6dWGfynuNu8gj8"
+    },
+    {
+      "album": {
+        "name": "All the best to you",
+        "url": "https://open.spotify.com/album/3M97FptKdqBzgXtzg64ALJ"
+      },
+      "artists": [
+        {
+          "name": "LOVE PSYCHEDELICO",
+          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276666,
+      "name": "All the best to you",
+      "url": "https://open.spotify.com/track/11mjDfy7LLfPCKw8HH1NwA"
     },
     {
       "album": {
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 212000,
       "name": "EMA (alt ver.)",
       "url": "https://open.spotify.com/track/3RgRthwq2xYgJ8ysOVzblu"
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 387520,
       "name": "Hana Ni Nare - Ryu-Take 2023 ver.",
       "url": "https://open.spotify.com/track/3ywoJ3ZNkZ7AXaTFaiA109"
@@ -4112,7 +4130,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 250973,
       "name": "Long Live Rock",
       "url": "https://open.spotify.com/track/7IYrXDZhuYP1O3k7UUxWAf"
@@ -5634,7 +5652,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 241153,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx"
@@ -5656,6 +5674,24 @@
       "duration_ms": 226132,
       "name": "Particle Dreams",
       "url": "https://open.spotify.com/track/7lFa5iule0QXNxlue91AD4"
+    },
+    {
+      "album": {
+        "name": "Personal Communication",
+        "url": "https://open.spotify.com/album/4KcSHytIzcWH1EzOyTr4nx"
+      },
+      "artists": [
+        {
+          "name": "Plasticzooms",
+          "url": "https://open.spotify.com/artist/45pcIklchW1WFozLF8E1Y0"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224581,
+      "name": "Personal Communication",
+      "url": "https://open.spotify.com/track/6hrLZjcUC2Ruxn5nNWuKmk"
     },
     {
       "album": {
@@ -5796,7 +5832,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 240133,
       "name": "Radio song",
       "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
@@ -5911,6 +5947,42 @@
     },
     {
       "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234159,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG"
+    },
+    {
+      "album": {
+        "name": "Relay~Mori no Uta",
+        "url": "https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8"
+      },
+      "artists": [
+        {
+          "name": "SOUTHERN ALL STARS",
+          "url": "https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239494,
+      "name": "Relay~Mori no Uta",
+      "url": "https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
       },
@@ -6002,7 +6074,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 333943,
       "name": "RINGSIDE MAN",
       "url": "https://open.spotify.com/track/4A1gagvqSTX8CqoSP4qwJI"
@@ -7414,7 +7486,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 238320,
       "name": "The Beginning of the End",
       "url": "https://open.spotify.com/track/4DyNo4QolzSJQbBtZnkRmQ"
@@ -10100,7 +10172,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 222320,
       "name": "\u30ad\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS"
@@ -10122,6 +10194,24 @@
       "duration_ms": 205160,
       "name": "\u30ad\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/5YTV52nMvvHrH9uTbk1ll7"
+    },
+    {
+      "album": {
+        "name": "\u30ae\u30d5\u30c8 (alt ver.)",
+        "url": "https://open.spotify.com/album/6NTEA3yHbJbaHAEuFSfA8x"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "\u30ae\u30d5\u30c8 (alt ver.)",
+      "url": "https://open.spotify.com/track/2RCZLGGtKIJl59Jy5eYd2o"
     },
     {
       "album": {
@@ -10252,6 +10342,24 @@
       "duration_ms": 240533,
       "name": "\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg"
+    },
+    {
+      "album": {
+        "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+        "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238543,
+      "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+      "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
     },
     {
       "album": {
@@ -12931,6 +13039,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u5f8c\u306b\u6b8b\u308b\u3082\u306e",
+        "url": "https://open.spotify.com/album/3AlcLDqtqCBD3tb6b7vtoU"
+      },
+      "artists": [
+        {
+          "name": "THE BACK HORN",
+          "url": "https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240173,
+      "name": "\u6700\u5f8c\u306b\u6b8b\u308b\u3082\u306e",
+      "url": "https://open.spotify.com/track/4UI79sU0p8oGRn7dFmJCx5"
+    },
+    {
+      "album": {
         "name": "\u6b4c\u8005 -utamono-",
         "url": "https://open.spotify.com/album/5vZMvqi85kt7qJApwc4saD"
       },
@@ -14300,7 +14426,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 241081,
       "name": "\u9084\u66a6\u3042\u308a\u304c\u3068\u3046\u3002",
       "url": "https://open.spotify.com/track/3JbWFAaeCvRJDZkrHiOMeq"

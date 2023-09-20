@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: boyish
 
-1,665 songs - 3 day 15 hr 44 min
+1,666 songs - 3 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1321,7 +1321,7 @@
 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 | 2023-08-25 |  |
 | [smb2l](https://open.spotify.com/track/44dlDthpDSiplvoFGwD2AA) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [shapeless](https://open.spotify.com/album/2yJtn1NTEXnj5tM3B2NGyf) | 2:46 | 2023-03-03 | 2023-03-18 |
 | [smile](https://open.spotify.com/track/19H6OuZyJ9iFpxVvQveTJP) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:35 | 2022-12-07 | 2023-01-19 |
-| [Smiley](https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Smiley](https://open.spotify.com/album/63ub9Mu2sxcHPPSxpBspMR) | 2:49 | 2023-06-30 |  |
+| [Smiley](https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Smiley](https://open.spotify.com/album/63ub9Mu2sxcHPPSxpBspMR) | 2:49 | 2023-06-30 | 2023-09-20 |
 | [Smoke and Mirrors](https://open.spotify.com/track/6fKpX8Zm3BR8SaZ4p20TA6) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Smoke and Mirrors](https://open.spotify.com/album/2HuDC40v2paafEQvIvkM41) | 3:11 | 2021-02-24 | 2021-05-27 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-21 | 2023-04-01 |
 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 | 2023-04-14 | 2023-04-29 |
@@ -1506,6 +1506,7 @@
 | [Things I Hate](https://open.spotify.com/track/30rX6yMaXXWJ3CFShHLQGm) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Things I Hate](https://open.spotify.com/album/0lauA8wezg5MEriw6JaF5D) | 3:37 | 2021-08-27 | 2022-04-08 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/2WpMB2RxvNOnStRrT2e2kC) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Things I Thought Were Mine](https://open.spotify.com/album/6RMv7YvMivHcrnZuQrM8fq) | 3:13 | 2021-02-22 | 2021-05-28 |
 | [Things In The Way](https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ) | 2:39 | 2022-01-21 | 2022-04-20 |
+| [Think I'm In Love](https://open.spotify.com/track/237o9ApKazX3A8EtweI4CW) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/7A2keYN2oIuDOYQ10ZIOKF) | 2:13 | 2023-03-24 |  |
 | [Think I'm In Love](https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Think I'm In Love](https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f) | 2:13 | 2023-01-13 | 2023-08-27 |
 | [Think it Over](https://open.spotify.com/track/5vGUEnUZ0At77Rvwc17ovx) | [New Constellations](https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9) | [Think it Over](https://open.spotify.com/album/7dKKuaRUj7eoq6537pCUvZ) | 3:08 | 2023-03-24 | 2023-07-04 |
 | [Thirty Eight](https://open.spotify.com/track/1noZLHWZB15QEDBCHq8CdE) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Thirty Eight](https://open.spotify.com/album/6zxftKiTydsE5rK2AoXncr) | 3:45 | 2020-10-20 | 2021-01-25 |

@@ -1,13 +1,33 @@
 {
   "description": "Hear all of Drake's biggest and best hits in one playlist. Thank us later.",
-  "num_followers": 3923161,
+  "num_followers": 3923944,
   "original_name": "This Is Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTBjNjQ0NjkwNzY0NDVjODNkMGU0Mjg3Y2JhOTZiMzJhZDVlYTZi",
+  "snapshot_id": "MCw1YjQ2MWE0MzhmY2E4YzVjNzBjN2UxMDM2N2ZmMjFmMGI1OGZlY2Mx",
   "tracks": [
+    {
+      "added_at": "2023-09-19 21:53:14",
+      "album": {
+        "name": "Slime You Out",
+        "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
     {
       "added_at": "2023-08-02 20:54:36",
       "album": {

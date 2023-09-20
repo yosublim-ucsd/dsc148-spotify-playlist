@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,306 songs - 3 day 2 hr 32 min
+1,307 songs - 3 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1008,6 +1008,7 @@
 | [Skandal](https://open.spotify.com/track/5bPi6LAI7JfyjIIFzNA56d) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Skandal](https://open.spotify.com/album/7rhdGC3zlyzgANmxuSqY1y) | 2:49 | 2022-04-28 | 2022-05-14 |
 | [Skat Town](https://open.spotify.com/track/3AoZDeNk57ogW4fPOQHnXp) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Skat Town](https://open.spotify.com/album/7DAe8hSZa67UuzaHDORMMt) | 3:14 | 2023-05-19 | 2023-06-10 |
 | [Skinny Jeans](https://open.spotify.com/track/3phhGhWB72lFyFpqtQQUXa) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Techno Tupac](https://open.spotify.com/artist/3X84CtZn7kefjfUMlxU2vx) | [Skinny Jeans](https://open.spotify.com/album/4bw5yMeuH03uiMesqQBgwW) | 3:21 | 2022-06-24 | 2022-07-02 |
+| [Slapfunk](https://open.spotify.com/track/5K5wmgZvicEFdSW1E5LhAS) | [wAFF](https://open.spotify.com/artist/4OHSon9N7JAfxkjlH8nKDb) | [Slapfunk EP](https://open.spotify.com/album/5FvmHM9fi9sztkWrBNLGjP) | 7:23 | 2023-09-19 |  |
 | [Slow Burn](https://open.spotify.com/track/7H3cuXHkYi3GEu4WEASYN3) | [Aidan Rudd](https://open.spotify.com/artist/0Sk7ICzr5YpQ2b9N7zPSdD) | [Slow Burn](https://open.spotify.com/album/2Atu4RlAT6gLeJq5WsaaK0) | 3:23 | 2023-07-15 | 2023-08-05 |
 | [Slow Motion](https://open.spotify.com/track/74zgUHiAs8U4t8Yy2lVO63) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Slow Motion](https://open.spotify.com/album/6wO58tdQbSRH4S9AX1Trd4) | 2:53 | 2023-09-01 | 2023-09-09 |
 | [Smack](https://open.spotify.com/track/2hHy4cKWVnOTgj9Cw22zQf) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Smack](https://open.spotify.com/album/34xztdsAM3OQdpQBblZU7y) | 2:33 | 2023-04-14 | 2023-04-22 |

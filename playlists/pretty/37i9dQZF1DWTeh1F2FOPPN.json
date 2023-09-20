@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 45635,
+  "num_followers": 45719,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWQyM2M3ZjAzMDQ1NDUxYzNjNTcxNTIwNzJlYzhhYmQ5YTRmYTNm",
+  "snapshot_id": "MCw0ZDRkNmQ2MTg5ZWEyNDM1ZTBlYzQxMTA1N2YxZmI0NmE1MTE2OTEw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:54:27",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "I Care 4 U",
         "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 265666,
       "name": "Are You That Somebody",
       "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/3NlLmKBJozwoi0k03Feb1N"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 261800,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
+      "duration_ms": 199386,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/3NlLmKBJozwoi0k03Feb1N"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -319,6 +303,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 261800,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
         "name": "Come To My Garden",
         "url": "https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 199293,
       "name": "Les Fleurs",
       "url": "https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Don't You Worry 'Bout A Thing",
-      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -411,6 +395,22 @@
       "duration_ms": 174933,
       "name": "I Can't Get Next To You",
       "url": "https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Harvest for the World",
-        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 323306,
-      "name": "(At Your Best) You Are Love",
-      "url": "https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 217089,
       "name": "Move",
       "url": "https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Harvest for the World",
+        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 323306,
+      "name": "(At Your Best) You Are Love",
+      "url": "https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr"
     },
     {
       "added_at": "2022-10-01 16:54:27",

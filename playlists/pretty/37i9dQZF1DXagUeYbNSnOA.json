@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Awexa. Updates every Wednesday.",
-  "num_followers": 172439,
+  "num_followers": 172444,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTI2ZmI0YmJmOTIxN2YzYTg2ZWY1NTEwMzdlMGUzZWMzMDNjM2Qz",
+  "snapshot_id": "MCxlZjU4ZWQwMDllZWRiNjljMDljYjI2ZjllN2Q5NjAxMWM0YWU4MGE5",
   "tracks": [
     {
       "added_at": "2023-09-13 06:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-13 06:00:00",
       "album": {
-        "name": "Te Gusta, Me Gusta",
-        "url": "https://open.spotify.com/album/6NzxWW8X0f5Eye27bOMBWB"
-      },
-      "artists": [
-        {
-          "name": "Neysa Blay",
-          "url": "https://open.spotify.com/artist/221r7E6QASURKauguQwGWw"
-        }
-      ],
-      "duration_ms": 182634,
-      "name": "Te Gusta, Me Gusta",
-      "url": "https://open.spotify.com/track/1BZZhlU3Mdab6jIMgM6gu8"
-    },
-    {
-      "added_at": "2023-09-13 06:00:00",
-      "album": {
         "name": "La Que Me Gusta",
         "url": "https://open.spotify.com/album/5y0syMqQFxOokIk906aq9r"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 186461,
       "name": "La Que Me Gusta",
       "url": "https://open.spotify.com/track/6bKvK0rHqyt5hoP1zwk5Sb"
+    },
+    {
+      "added_at": "2023-09-13 06:00:00",
+      "album": {
+        "name": "Te Gusta, Me Gusta",
+        "url": "https://open.spotify.com/album/6NzxWW8X0f5Eye27bOMBWB"
+      },
+      "artists": [
+        {
+          "name": "Neysa Blay",
+          "url": "https://open.spotify.com/artist/221r7E6QASURKauguQwGWw"
+        }
+      ],
+      "duration_ms": 182634,
+      "name": "Te Gusta, Me Gusta",
+      "url": "https://open.spotify.com/track/1BZZhlU3Mdab6jIMgM6gu8"
     },
     {
       "added_at": "2023-09-13 06:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-09-13 06:00:00",
       "album": {
-        "name": "MADRID",
-        "url": "https://open.spotify.com/album/5Jok2lUjxOPWG2P9G7qHnl"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "MADRID",
-      "url": "https://open.spotify.com/track/4HAnXvCFV9RHwrxFmFH1vv"
-    },
-    {
-      "added_at": "2023-09-13 06:00:00",
-      "album": {
         "name": "Un Perro Verde",
         "url": "https://open.spotify.com/album/6zYM7YzVGfLZoQMupKMvys"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 221991,
       "name": "Llevo un Vino",
       "url": "https://open.spotify.com/track/7yGKZQrS0WYTyjhKGJnxnE"
+    },
+    {
+      "added_at": "2023-09-13 06:00:00",
+      "album": {
+        "name": "MADRID",
+        "url": "https://open.spotify.com/album/5Jok2lUjxOPWG2P9G7qHnl"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "MADRID",
+      "url": "https://open.spotify.com/track/4HAnXvCFV9RHwrxFmFH1vv"
     },
     {
       "added_at": "2023-09-13 06:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-13 06:00:00",
       "album": {
-        "name": "Nuevo Mundo",
-        "url": "https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI"
-      },
-      "artists": [
-        {
-          "name": "Priscilla F\u00e9lix",
-          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
-        }
-      ],
-      "duration_ms": 207267,
-      "name": "El Mismo Sol",
-      "url": "https://open.spotify.com/track/1CWMxQdZAuaFWOX9AdYJOw"
-    },
-    {
-      "added_at": "2023-09-13 06:00:00",
-      "album": {
         "name": "Desahog\u00e1ndome",
         "url": "https://open.spotify.com/album/4kPZW9e6uQ3eqSaTzTz0iH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 234359,
       "name": "Desahog\u00e1ndome",
       "url": "https://open.spotify.com/track/3wnAh76ynjSkMdLbOOR1GS"
+    },
+    {
+      "added_at": "2023-09-13 06:00:00",
+      "album": {
+        "name": "Nuevo Mundo",
+        "url": "https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI"
+      },
+      "artists": [
+        {
+          "name": "Priscilla F\u00e9lix",
+          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
+        }
+      ],
+      "duration_ms": 207267,
+      "name": "El Mismo Sol",
+      "url": "https://open.spotify.com/track/1CWMxQdZAuaFWOX9AdYJOw"
     },
     {
       "added_at": "2023-09-13 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating ten years of Burna Boys's Debut Album; Leaving an Impact for Eternity \(LIFE\)\. Cover: Burna boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,900 likes - 40 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,995 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 37 | [Repete](https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8) | [Blackmagic \(Version 2.0\)](https://open.spotify.com/album/0nepGl4m2TfanN9B9LYZDW) | 3:38 |
 | 38 | [Kele Kele](https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:42 |
 | 39 | [Reggae Blues](https://open.spotify.com/track/0S3zWefFu9O7zIq8EarIbl) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD) | [Reggae Blues](https://open.spotify.com/album/5PDKVGLq0QVzgwPjtj5xZw) | 4:49 |
-| 40 | [Kondo](https://open.spotify.com/track/6tHIVKiKsId5xDM3ufMzgl) | [Dagrin](https://open.spotify.com/artist/6LRZTXWP7Ytxujepqoq21m) | [C.E.O](https://open.spotify.com/album/3AgOia4r1Uq1mzwezYEzfy) | 3:31 |
+| 40 | [Expensive Shit](https://open.spotify.com/track/6sNNtFKdCz0bnjx7IEXyl2) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Expensive Shit](https://open.spotify.com/album/20IklXmkirz07Lpv6jnLNB) | 13:13 |
 
-Snapshot ID: `MCw1NTAwYjQ3YzVkNjNmODNlYzIzNjI5MmQyOTYxZDE4MDBlNDMzNDk4`
+Snapshot ID: `MCxlM2QxMmY1MWM2N2QyZWNiYWRjYTAwNWUyNGNmYTNmODJhYzJiNjNj`

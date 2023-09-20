@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: VIC MENSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,578 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,618 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 57 | [TRUTH OR DARE](https://open.spotify.com/track/5FNgzQI7b3PqEBrL9RHjBP) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [TRUTH OR DARE](https://open.spotify.com/album/5BJ69eEkaAShh1YxodOnb8) | 4:05 |
 | 58 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 59 | [The Getaway](https://open.spotify.com/track/62XMMjGkRhNyLmyRJnyxTN) | [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa) | [The Getaway](https://open.spotify.com/album/1SrmJcntxwGRO8Yxj9a4nb) | 3:11 |
-| 60 | [SINCE ELEMENTARY](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
+| 60 | [SINCE ELEMENTARY](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [SINCE ELEMENTARY](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
 | 61 | [My Own Lane](https://open.spotify.com/track/4Vp0ivRVcWXrPrxZA7w7gi) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [My Own Lane](https://open.spotify.com/album/4Pct0jmajIPalLfYBY2ghD) | 2:17 |
 | 62 | [Get A Ticket](https://open.spotify.com/track/60PjmG1cTL2MRuDa8MRlkB) | [Chase Fetti](https://open.spotify.com/artist/4aAGG2cCHa15MPo795nJ97), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Get A Ticket](https://open.spotify.com/album/0idQETHpZfu6zCAqP5unBw) | 2:52 |
 | 63 | [Let The Sample Work](https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |
 | 100 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
 
-Snapshot ID: `MCwzZGNmNGZhZTEyOWFiYmQ2OTYyNjUzMjA3MmE2YmI5YjEwNTM0NDA3`
+Snapshot ID: `MCxiYTYxMDFiZWVlYWE0ODAzNDc0Yzc4MWUwOGRmM2RmYWM2YjQxMWFm`

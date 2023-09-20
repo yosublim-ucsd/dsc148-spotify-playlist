@@ -300,7 +300,7 @@
           "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         },
         {
-          "name": "Vidi Aldiano",
+          "name": "VIDI",
           "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
         }
       ],
@@ -694,7 +694,7 @@
           "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         },
         {
-          "name": "Vidi Aldiano",
+          "name": "VIDI",
           "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
         }
       ],
@@ -1798,6 +1798,24 @@
     {
       "album": {
         "name": "Senandika",
+        "url": "https://open.spotify.com/album/7G5u1YpMeur38AijDIp1x2"
+      },
+      "artists": [
+        {
+          "name": "VIDI",
+          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255625,
+      "name": "Tanpa Diminta",
+      "url": "https://open.spotify.com/track/2uT0cNyO1gl4XRFeqkc2ud"
+    },
+    {
+      "album": {
+        "name": "Senandika",
         "url": "https://open.spotify.com/album/7ub6oAQi8e6dzxk5NAyZdA"
       },
       "artists": [
@@ -1812,24 +1830,6 @@
       "duration_ms": 255624,
       "name": "Tanpa Diminta",
       "url": "https://open.spotify.com/track/5K6HxdlgStsikWTy9jPaiN"
-    },
-    {
-      "album": {
-        "name": "Senandika",
-        "url": "https://open.spotify.com/album/7G5u1YpMeur38AijDIp1x2"
-      },
-      "artists": [
-        {
-          "name": "Vidi Aldiano",
-          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
-        }
-      ],
-      "date_added": "2023-09-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 255625,
-      "name": "Tanpa Diminta",
-      "url": "https://open.spotify.com/track/2uT0cNyO1gl4XRFeqkc2ud"
     },
     {
       "album": {

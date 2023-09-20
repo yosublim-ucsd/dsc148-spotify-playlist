@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: GIMS, Maluma",
-  "num_followers": 37967,
+  "num_followers": 37968,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGMxYmNjMTAyOWYzZGFhMDJmOGZiMzBhMDY1ZGQ3YTBiZTg2NGY3",
+  "snapshot_id": "MCw5YTUyMWYwZGJhNzFkMWQ1OTM1ODI2YWE2M2IyMTUwM2UxY2MzODJl",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -259,26 +259,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Immonde",
-        "url": "https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        }
-      ],
-      "duration_ms": 162525,
-      "name": "Immonde",
-      "url": "https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 176109,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/02RGARryimtGfuawXbKj8P"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Immonde",
+        "url": "https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 162525,
+      "name": "Immonde",
+      "url": "https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "\u00c7a va !",
-        "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
-      },
-      "artists": [
-        {
-          "name": "DJ Bens",
-          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 154580,
-      "name": "\u00c7a va !",
-      "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Chef D'orchestre",
         "url": "https://open.spotify.com/album/10BPtugQncuVXNT8CVu0f1"
       },
@@ -459,6 +439,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "\u00c7a va !",
+        "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
+      },
+      "artists": [
+        {
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 154580,
+      "name": "\u00c7a va !",
+      "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Femmes",
         "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 131399,
       "name": "Femmes",
       "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "La Peuf 6",
+        "url": "https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        }
+      ],
+      "duration_ms": 168359,
+      "name": "La Peuf 6",
+      "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -507,18 +523,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "La Peuf 6",
-        "url": "https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp"
+        "name": "Dans la moyenne",
+        "url": "https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn"
       },
       "artists": [
         {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
         }
       ],
-      "duration_ms": 168359,
-      "name": "La Peuf 6",
-      "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
+      "duration_ms": 158006,
+      "name": "Dans la moyenne",
+      "url": "https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -563,22 +579,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Dans la moyenne",
-        "url": "https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn"
-      },
-      "artists": [
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
-        }
-      ],
-      "duration_ms": 158006,
-      "name": "Dans la moyenne",
-      "url": "https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "C\u0153ur parapluie",
         "url": "https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG"
       },
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "LOVE'n'TENDRESSE",
+        "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "LOVE'n'TENDRESSE",
+      "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Mon jaun\u00e9",
         "url": "https://open.spotify.com/album/0PXL8hSka7EKM9IO4ijtwD"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "LOVE'n'TENDRESSE",
-        "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
       },
       "artists": [
         {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
         }
       ],
-      "duration_ms": 194666,
-      "name": "LOVE'n'TENDRESSE",
-      "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
+      "duration_ms": 159841,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 173036,
       "name": "Je remplace mes exs",
       "url": "https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
-      },
-      "artists": [
-        {
-          "name": "Beendo Z",
-          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
-        }
-      ],
-      "duration_ms": 159841,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -715,6 +715,38 @@
       "duration_ms": 125546,
       "name": "Shatta (feat. Ghost Killer Track)",
       "url": "https://open.spotify.com/track/2CrMndt2MVGC0ZrBV1J0jv"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Z\u00e9nith",
+        "url": "https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r"
+      },
+      "artists": [
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Z\u00e9nith",
+      "url": "https://open.spotify.com/track/7waEJapWACgWkq3by4intP"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "R+V",
+        "url": "https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 89146,
+      "name": "R+V",
+      "url": "https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -759,38 +791,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Alg\u00e9rien F\u00e2ch\u00e9",
-        "url": "https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb"
-      },
-      "artists": [
-        {
-          "name": "Kofs",
-          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "Alg\u00e9rien F\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "R+V",
-        "url": "https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 89146,
-      "name": "R+V",
-      "url": "https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "\u00c0 l'inverse",
         "url": "https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Z\u00e9nith",
-        "url": "https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r"
+        "name": "Alg\u00e9rien F\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb"
       },
       "artists": [
         {
-          "name": "Kalash Criminel",
-          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+          "name": "Kofs",
+          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Z\u00e9nith",
-      "url": "https://open.spotify.com/track/7waEJapWACgWkq3by4intP"
+      "duration_ms": 112941,
+      "name": "Alg\u00e9rien F\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -14144,6 +14144,24 @@
     {
       "album": {
         "name": "I Thought You'd Change",
+        "url": "https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171215,
+      "name": "I Thought You'd Change",
+      "url": "https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG"
+    },
+    {
+      "album": {
+        "name": "I Thought You'd Change",
         "url": "https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ"
       },
       "artists": [
@@ -14154,7 +14172,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 171215,
       "name": "I Thought You'd Change",
       "url": "https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H"
@@ -16368,7 +16386,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 139549,
       "name": "Let's Do Drugs",
       "url": "https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh"

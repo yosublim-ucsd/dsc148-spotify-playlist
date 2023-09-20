@@ -5412,7 +5412,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
@@ -5510,7 +5510,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 210451,
       "name": "NIGHT DANCER - BIG Naughty Remix",
       "url": "https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U"
@@ -5696,6 +5696,24 @@
       "duration_ms": 160298,
       "name": "NO TIME",
       "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
+    },
+    {
+      "album": {
+        "name": "noidleap",
+        "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203863,
+      "name": "Noidleap",
+      "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
     },
     {
       "album": {
@@ -10552,6 +10570,28 @@
       "duration_ms": 233199,
       "name": "\u90fd\u4f1a",
       "url": "https://open.spotify.com/track/2xnakNkUj5CFdWQ8kK0BME"
+    },
+    {
+      "album": {
+        "name": "\u90fd\u4f1a (NAUTILUS Re-work)",
+        "url": "https://open.spotify.com/album/5Pvo0Sbl7M9AsSN2xwE6bG"
+      },
+      "artists": [
+        {
+          "name": "HF International",
+          "url": "https://open.spotify.com/artist/5nCgjWUjFdlNTRtLO5e8jy"
+        },
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277237,
+      "name": "\u90fd\u4f1a - NAUTILUS Re-work",
+      "url": "https://open.spotify.com/track/5dffFNM0KfehZXj0e0GiQN"
     },
     {
       "album": {

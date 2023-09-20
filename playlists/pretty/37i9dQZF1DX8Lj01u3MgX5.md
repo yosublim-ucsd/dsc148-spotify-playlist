@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,190 likes - 69 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,216 likes - 69 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 55 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 |
 | 56 | [I Don't Know If It's Right \- Single Version](https://open.spotify.com/track/3gN473EqByYLUo0QW40bwK) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Love Come Down: The Best of Evelyn "Champagne" King](https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz) | 3:45 |
 | 57 | [I Love You More](https://open.spotify.com/track/0ccXHJcp98HBgEXVLUP3eH) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Wall To Wall](https://open.spotify.com/album/7vEoYXIwYcmKudgsngfVZE) | 5:34 |
-| 58 | [I Wonder If I Take You Home \(with Full Force\)](https://open.spotify.com/track/32HDdhFzppY9DVNW4a39Ee) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 3:57 |
+| 58 | [I Wonder If I Take You Home](https://open.spotify.com/track/32HDdhFzppY9DVNW4a39Ee) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 3:57 |
 | 59 | [I'll Do Anything for You](https://open.spotify.com/track/1nk923vTBTYCk5mU3bKELU) | [Denroy Morgan](https://open.spotify.com/artist/3c4YM7n144AgnZskYxraYe) | [Link up to Ethiopia](https://open.spotify.com/album/5Mi0iC3B6G0JzrtxjBIMCW) | 5:08 |
 | 60 | [Looking For A New Love](https://open.spotify.com/track/64M7vSptOdMCuHwYzKuplj) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Louil Silas Jr.](https://open.spotify.com/artist/4aknOZmKFnayYvd03Avoz6) | [Jody Watley](https://open.spotify.com/album/16Ekp385tuuCTdoEakzEv3) | 5:07 |
 | 61 | [In My House](https://open.spotify.com/track/11vItFXykyMe5BNKmItbo2) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [Only Four You](https://open.spotify.com/album/31jtOHSH3ziyOU9HQEhQs4) | 5:02 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 68 | [Sucker M.C.'s \(Krush\-Groove 1\)](https://open.spotify.com/track/3hx5R8nOKu5zvhlfDNSIQC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 3:09 |
 | 69 | [The Show](https://open.spotify.com/track/3umJExJml0XrE3BcGtAoCU) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Doug E\. Fresh](https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip) | [Dame Dash Presents Paid In Full / Dream Team](https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy) | 4:26 |
 
-Snapshot ID: `MCxlOWRlYjkyMDVmMzU2ZmM5MzczYzFhNjliODgyZGIyNDNmMTZjMmY1`
+Snapshot ID: `MCxiZDViYzhiNjkyMDk1YzE5YjE4ZmVmNmM5MjFkMzk0MDk1OWI3YjYx`

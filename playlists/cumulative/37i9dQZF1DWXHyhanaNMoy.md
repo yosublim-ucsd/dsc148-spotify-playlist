@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: KATNUF
 
-707 songs - 1 day 7 hr 53 min
+708 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [En Die Dingen Daar](https://open.spotify.com/track/5347LKOoRWFJxvxQY2SEAa) | [Naro](https://open.spotify.com/artist/5Kv6rQa5K5N440P21T9a0Y) | [En Die Dingen Daar](https://open.spotify.com/album/3Xh4eGqrVaSGTVtdvhgkv2) | 2:13 | 2023-03-22 | 2023-05-09 |
 | [Enjoyment](https://open.spotify.com/track/6joqibVw5dlmznb4bINJhb) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Enjoyment](https://open.spotify.com/album/3u7RahkGaDMBWG6W0JIVTn) | 3:14 | 2022-08-18 | 2023-02-03 |
 | [Evidence](https://open.spotify.com/track/3BfUA5HYf8dtXvtnYqtvxw) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Evidence](https://open.spotify.com/album/6xI9kUBYnKMVVtYH6Zj6Dz) | 2:57 | 2022-07-28 | 2022-08-26 |
-| [EWA EWA](https://open.spotify.com/track/2RLMkYFyNkgABJvNk4nPca) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [EWA EWA](https://open.spotify.com/album/0tFphBLPOSM0o7qtG9KRIV) | 2:15 | 2023-09-14 |  |
+| [EWA EWA](https://open.spotify.com/track/2RLMkYFyNkgABJvNk4nPca) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [EWA EWA](https://open.spotify.com/album/0tFphBLPOSM0o7qtG9KRIV) | 2:15 | 2023-09-14 | 2023-09-20 |
+| [EWA EWA](https://open.spotify.com/track/70ft08BdXctantaAYo6JEI) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [EWA EWA](https://open.spotify.com/album/4pbXVz5H5Z8fajMzASUtub) | 2:15 | 2023-09-14 |  |
 | [Expres](https://open.spotify.com/track/1jykfspak6OvEB3cdzrrGm) | [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU) | [Expres](https://open.spotify.com/album/3FpWGWi82FSIEVkucrO9lh) | 2:17 | 2022-10-27 | 2023-02-24 |
 | [Eyes On You](https://open.spotify.com/track/5859tGjNNx7e8eJMRkOHcZ) | [Lil MG](https://open.spotify.com/artist/2XYHHHKyZLvw1KUrDF1yfI), [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG), [Masquraid](https://open.spotify.com/artist/6FUddiIO2kIjYz2yvNfz6q) | [Eyes On You](https://open.spotify.com/album/6TOllhriaS9pA0tXKmf3de) | 2:05 | 2023-02-23 | 2023-03-25 |
 | [Facetime](https://open.spotify.com/track/6ZQ8Fh1qXoOYW6FwXrZ7bP) | [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Facetime](https://open.spotify.com/album/3axtGv7LHI7lZ8Zt8z2dO2) | 2:00 | 2023-08-03 | 2023-08-16 |
@@ -406,7 +407,7 @@
 | [Mi Gyal](https://open.spotify.com/track/5j9VIL2P3eIlsNjMf0gx0b) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf), [Mr\. Fishbone](https://open.spotify.com/artist/6agIb95cuFIKWDZKIy0CED) | [Mi Gyal](https://open.spotify.com/album/1QKJLwJNWBZu20gqGi3Ana) | 3:05 | 2023-05-11 | 2023-06-16 |
 | [MIA](https://open.spotify.com/track/703ZRGW00Fra2Et6d0e4bK) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [MIA](https://open.spotify.com/album/5EEUlKuZcyXlGlWDiXq16c) | 2:25 | 2023-04-27 | 2023-06-09 |
 | [Midden In De Club](https://open.spotify.com/track/0Fu1u02G2t0zx57nznFwC8) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Midden In De Club](https://open.spotify.com/album/7hVIIRKPPaeSXY0d6qe8RW) | 3:51 | 2023-02-23 | 2023-05-26 |
-| [Mijn alles \- Motafied Beatz Remix](https://open.spotify.com/track/0svAVFM4R1RPguV6u4nux5) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Motafied Beatz](https://open.spotify.com/artist/7Dv61UPzqtzE8zCx34wceI) | [Mijn Alles \(Motafied Beatz Remix\)](https://open.spotify.com/album/5XqcYSSPGlPZPBH5gsyd0U) | 4:20 | 2023-09-07 |  |
+| [Mijn Alles \- Motafied Beatz Remix](https://open.spotify.com/track/0svAVFM4R1RPguV6u4nux5) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Motafied Beatz](https://open.spotify.com/artist/7Dv61UPzqtzE8zCx34wceI) | [Mijn Alles \(Motafied Beatz Remix\)](https://open.spotify.com/album/5XqcYSSPGlPZPBH5gsyd0U) | 4:20 | 2023-09-07 |  |
 | [Mijn Baby](https://open.spotify.com/track/2a2Dkwi2hOpjEo2JALKPXN) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Mijn Baby](https://open.spotify.com/album/1QIPelJFczpWwTC82DdJTW) | 2:06 | 2022-09-01 | 2022-09-23 |
 | [Milan](https://open.spotify.com/track/3ptkyPijuK4W4h0IdOro9y) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Milan](https://open.spotify.com/album/1rNjAENY9u4HeKBzPIHNJd) | 2:14 | 2023-05-11 | 2023-07-11 |
 | [MILE HIGH CLUB](https://open.spotify.com/track/1tX578kFr8rSvHqNYUgmBm) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [MILE HIGH CLUB](https://open.spotify.com/album/7bDd1wwEiaYkEzwvbMDpxe) | 2:31 | 2022-07-14 | 2022-07-29 |

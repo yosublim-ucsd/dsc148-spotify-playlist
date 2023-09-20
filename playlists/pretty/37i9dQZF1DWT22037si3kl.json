@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: F\u00faria",
-  "num_followers": 125089,
+  "num_followers": 125152,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjFiYWUwOTY4OGE4Yjk2NWU1ZDg4ODIxYmFlNzhhZmYwNjA3OTEw",
+  "snapshot_id": "MCw0ZWViZjVkODdlOTQ1ZDkyOTEwYWE2MmE5YWI0OWNlNTNmNWJmOGQ4",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Ironicamente",
-        "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "No Cutty",
-          "url": "https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ"
-        }
-      ],
-      "duration_ms": 164269,
-      "name": "Ironicamente",
-      "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Trap Funk Star",
         "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 206068,
       "name": "Pe\u00e7as De Griffe",
       "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Ironicamente",
+        "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "No Cutty",
+          "url": "https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ"
+        }
+      ],
+      "duration_ms": 164269,
+      "name": "Ironicamente",
+      "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -767,34 +767,30 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Yeezy Slide \"FREESTYLE 01\"",
-        "url": "https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe"
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
       "artists": [
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
         },
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
         },
         {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        },
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
         }
       ],
-      "duration_ms": 196056,
-      "name": "Yeezy Slide \"FREESTYLE 01\"",
-      "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"
+      "duration_ms": 307692,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -827,30 +823,34 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+        "name": "Yeezy Slide \"FREESTYLE 01\"",
+        "url": "https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         },
         {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
         },
         {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
         }
       ],
-      "duration_ms": 307692,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
+      "duration_ms": 196056,
+      "name": "Yeezy Slide \"FREESTYLE 01\"",
+      "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Noronha",
-        "url": "https://open.spotify.com/album/4vUiqIfXmxekWwfz0X5dey"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 170256,
-      "name": "Noronha",
-      "url": "https://open.spotify.com/track/6i8bPQX4qbTV4OiInAjz0y"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 191867,
       "name": "Reino na Terra",
       "url": "https://open.spotify.com/track/7lY80jq9loXF9fc2mW3OB3"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Noronha",
+        "url": "https://open.spotify.com/album/4vUiqIfXmxekWwfz0X5dey"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 170256,
+      "name": "Noronha",
+      "url": "https://open.spotify.com/track/6i8bPQX4qbTV4OiInAjz0y"
     },
     {
       "added_at": "2023-09-15 03:01:00",

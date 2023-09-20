@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,954 likes - 71 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,955 likes - 71 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 11 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 |
 | 12 | [坂道のメロディ](https://open.spotify.com/track/65XW0J9tP56gJrPLdXgJpv) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [すてきな15才](https://open.spotify.com/album/2600J4K01OUJMqyn4S87ca) | 4:44 |
 | 13 | [replica](https://open.spotify.com/track/0TrRIlfaTzdsgG90fSsTzr) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:23 |
-| 14 | [VOICES](https://open.spotify.com/track/2DQWxHJ8ei69pVs2U48w65) | [新居昭乃](https://open.spotify.com/artist/6Pp5qIsQ8kTUlFkK8dy2Ff) | [空の森\(BEST ALBUM\)](https://open.spotify.com/album/1Q4GRwR0Lg1gENqvcBEOaJ) | 3:54 |
+| 14 | [VOICES](https://open.spotify.com/track/2DQWxHJ8ei69pVs2U48w65) | [新居昭乃](https://open.spotify.com/artist/6Pp5qIsQ8kTUlFkK8dy2Ff) | [空の森（BEST ALBUM）](https://open.spotify.com/album/1Q4GRwR0Lg1gENqvcBEOaJ) | 3:54 |
 | 15 | [player](https://open.spotify.com/track/6V7zJOoCyx2LUECNqYFrhQ) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [Heartsdales](https://open.spotify.com/artist/6GM1DqK9x30pjn3tPAZpgT) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:42 |
 | 16 | [トライアングラー](https://open.spotify.com/track/7dLS9A8CcWmL3cB6Rv8grW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:36 |
 | 17 | [Ray of Water\[piano solo main theme\] \- 作・編曲:菅野よう子](https://open.spotify.com/track/6cywdhgj79rTo4blxjQdll) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [Yoko Kanno: Ray of Water \[piano solo main theme\]](https://open.spotify.com/album/1NTRa6tnawhDlsWdgyKGDE) | 4:44 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 70 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
 | 71 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 ～Tami～](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MCwwM2JiMjNmZWJlMjAxY2NiYjIxZTA5NTNmNTA4ZWRmZGFkYWVkZWEw`
+Snapshot ID: `MCxmOTE4ZWUzNzYzZTNmNzYzODdlZTE5NjQ5MjM3N2IzMmU5M2U2NmJh`

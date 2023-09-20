@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Nikita Ahuja, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,553 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,578 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 60 | [Zindagi Kya Hai Tu](https://open.spotify.com/track/7yKgwroibBix9wNOdfxxmy) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Zindagi Kya Hai Tu](https://open.spotify.com/album/5eq8YiBlX958Wb3A1WGmbq) | 4:55 |
 | 61 | [Aao Zara](https://open.spotify.com/track/6Zc1kIVs8fAt5Rol3CjQg4) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Aao Zara](https://open.spotify.com/album/4QvcSQ2zjaoAGmk8ZZzCvI) | 3:42 |
 | 62 | [Raahein](https://open.spotify.com/track/5Ggp8fMRHqF7S3si6QsVBa) | [Parvatish Pradeep](https://open.spotify.com/artist/5vjgwPGSteudan2MIvGjlu), [Shrishti](https://open.spotify.com/artist/1TJvvTiPcNP01AbkNEM0CR), [Sushant Sudhakaran](https://open.spotify.com/artist/459Gk3hSTwkbo4LYgU1tg6) | [Raahein](https://open.spotify.com/album/0zB03tYArVvY2gtaZbnwZe) | 4:52 |
-| 63 | [Hum Dum Tera](https://open.spotify.com/track/0dCicXrl4h0lO087jMm5hM) | [Rachit Shrivastava](https://open.spotify.com/artist/5k3Iw8VrxwZyFdi4dBPeBn), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax) | [Hum Dum Tera](https://open.spotify.com/album/2XNwrtWLOTLXj5W4VQ1Ara) | 3:09 |
+| 63 | [Humdum Tera](https://open.spotify.com/track/0dCicXrl4h0lO087jMm5hM) | [Rachit Shrivastava](https://open.spotify.com/artist/5k3Iw8VrxwZyFdi4dBPeBn), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax) | [Humdum Tera](https://open.spotify.com/album/2XNwrtWLOTLXj5W4VQ1Ara) | 3:09 |
 | 64 | [Mausam](https://open.spotify.com/track/0a1dfhDsY0yVKpbc41Jafr) | [Shayaan](https://open.spotify.com/artist/5uZ1uWP2Dyu8AvKmmNQjOT), [NEel](https://open.spotify.com/artist/18KBIfP6G38tm8XuNHVchh) | [Mausam](https://open.spotify.com/album/2oiL68ahLD5QFW7WS27okT) | 2:53 |
 | 65 | [Yaadein](https://open.spotify.com/track/5Cqpd71Xbk64x7u1dDoafK) | [Abhijeet Mishra](https://open.spotify.com/artist/62hjYogKtbkhd6EGwr6W5J), [Ritika Parmeshwar](https://open.spotify.com/artist/5rWStJVm2HSCUzr6LKAeP9), [Aaditya Mehta](https://open.spotify.com/artist/5Tjip7F6A9nCH4Jz6q7Mns) | [Yaadein](https://open.spotify.com/album/4mgTgyu8g3jOObEb5g6QG3) | 3:58 |
 | 66 | [Heeriye](https://open.spotify.com/track/5kGsDg4DwHvDxsFsR7a7cJ) | [Tirth Thakkar](https://open.spotify.com/artist/3b98XmPzCYNOIX2m8GzqAf) | [Heeriye](https://open.spotify.com/album/53eXJcwAZAQ50p5CDl6BY1) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 |
 | 100 | [Door Kahin](https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs) | 3:24 |
 
-Snapshot ID: `MCxhZjdiOWQ4MmJmOTdmNjU3MjVmM2NlNWRjMzEyNDVmYmI1MWRhNGFm`
+Snapshot ID: `MCw3M2U2ZGI4OTk2MDkzOTY5Y2ViNzFlZDFjMjBmNTViYjcxYjE2N2Jm`

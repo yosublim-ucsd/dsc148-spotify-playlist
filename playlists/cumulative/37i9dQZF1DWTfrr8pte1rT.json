@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 214758,
       "name": "Fade With Me",
       "url": "https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a"
@@ -6302,6 +6302,24 @@
       "duration_ms": 240000,
       "name": "The Sickness",
       "url": "https://open.spotify.com/track/0ydJxPQlsSTaABAQuYn3q9"
+    },
+    {
+      "album": {
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "The Wild Hunt",
+      "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"
     },
     {
       "album": {

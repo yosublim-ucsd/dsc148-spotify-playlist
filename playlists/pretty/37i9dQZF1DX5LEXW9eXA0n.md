@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Car, the garden\(카더가든\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,918 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,943 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Forget Me Not](https://open.spotify.com/track/79KXSZofyFSDnG4AlRAUVf) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Forget Me Not](https://open.spotify.com/album/1iKsKRRBBXUV2sD3n2kQZm) | 3:48 |
 | 100 | [Flower](https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [talks about blossoms](https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP) | 3:38 |
 
-Snapshot ID: `MCxjOTcxMzUzMDdjM2VkZTNkMzFkZDUyMTY0MmM1Y2Y3ZjU3ZjAxMzJi`
+Snapshot ID: `MCxhYTI5ZGZmMGY3ZGJlY2FlZmVjM2JlNGJlMTE1NTJhOWViZjJmYTVh`

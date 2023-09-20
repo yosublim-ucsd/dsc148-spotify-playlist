@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Paulo Cesar Baruk, Marcela Tais
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,319 likes - 80 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,463 likes - 80 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Se Ele Não For o Primeiro](https://open.spotify.com/track/1MBI2bYuq96Vhj74kNrUbp) | [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1), [Jader Santos](https://open.spotify.com/artist/0LgOPOdCNpAxAkFWiliKpx), [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e) | [Se Ele Não For o Primeiro](https://open.spotify.com/album/1hlJXKLDHrVpSXsBivotcv) | 5:04 |
 | 80 | [Falar Com Deus \- Faixa Bônus](https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [On Tape \(Ao Vivo\)](https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL) | 3:48 |
 
-Snapshot ID: `MCwyMWRiZmM5NTk4MmQ2NzdmNWUzMDdkOGMwOTNlZWMwY2I0MmU5MDk3`
+Snapshot ID: `MCxhMDAxZjY4YTJhMGQ4OTZhZWVlYWFiNWUzMTU0ZmJmYTQ3ZjlhMDY3`

@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 568919,
+  "num_followers": 569043,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmVkMzc1OWE4MGUwYWM0ZjNhNzg5NzFhNjA5NzdmYWRjZGU5OTI5",
+  "snapshot_id": "MCw0MWRjY2NkZDNjMThkNjdiZmIzYjNhMWIzMWI0NGYwNmFlMDg2YmVi",
   "tracks": [
     {
       "added_at": "2023-09-13 06:06:49",
@@ -48,7 +48,7 @@
       },
       "artists": [
         {
-          "name": "Pendarra",
+          "name": "Amigdala",
           "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
         }
       ],
@@ -284,7 +284,7 @@
       },
       "artists": [
         {
-          "name": "Pendarra",
+          "name": "Amigdala",
           "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
         }
       ],
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-09-13 06:06:49",
       "album": {
+        "name": "terima kasih",
+        "url": "https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "terima kasih",
+      "url": "https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu"
+    },
+    {
+      "added_at": "2023-09-13 06:06:49",
+      "album": {
         "name": "Surat Cinta Untuk Starla",
         "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 238879,
       "name": "Apa Mungkin",
       "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
-    },
-    {
-      "added_at": "2023-09-13 06:06:49",
-      "album": {
-        "name": "terima kasih",
-        "url": "https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20"
-      },
-      "artists": [
-        {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "terima kasih",
-      "url": "https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu"
     },
     {
       "added_at": "2023-09-13 06:06:49",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-13 06:06:49",
       "album": {
-        "name": "Tuhan Sebut Sia-Sia",
-        "url": "https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ"
-      },
-      "artists": [
-        {
-          "name": "Pendarra",
-          "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
-        }
-      ],
-      "duration_ms": 317453,
-      "name": "Tuhan Sebut Sia-Sia",
-      "url": "https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP"
-    },
-    {
-      "added_at": "2023-09-13 06:06:49",
-      "album": {
         "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 286313,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
+    },
+    {
+      "added_at": "2023-09-13 06:06:49",
+      "album": {
+        "name": "Tuhan Sebut Sia-Sia",
+        "url": "https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ"
+      },
+      "artists": [
+        {
+          "name": "Amigdala",
+          "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
+        }
+      ],
+      "duration_ms": 317453,
+      "name": "Tuhan Sebut Sia-Sia",
+      "url": "https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP"
     },
     {
       "added_at": "2023-09-13 06:06:49",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-13 06:06:49",
       "album": {
-        "name": "happy",
-        "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
-      },
-      "artists": [
-        {
-          "name": "Skinnyfabs",
-          "url": "https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "happy",
-      "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
-    },
-    {
-      "added_at": "2023-09-13 06:06:49",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/4BrYZTc42JRwe1QuHIPapy"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 229120,
       "name": "Mine",
       "url": "https://open.spotify.com/track/6NkUP6IeLnH6Yaw2wcNHzO"
+    },
+    {
+      "added_at": "2023-09-13 06:06:49",
+      "album": {
+        "name": "happy",
+        "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
+      },
+      "artists": [
+        {
+          "name": "Skinnyfabs",
+          "url": "https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H"
+        }
+      ],
+      "duration_ms": 173217,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD"
     },
     {
       "added_at": "2023-09-13 06:06:49",

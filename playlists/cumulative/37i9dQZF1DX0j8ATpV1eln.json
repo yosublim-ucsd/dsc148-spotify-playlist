@@ -2459,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "THE ORIGIN",
+        "url": "https://open.spotify.com/album/6WJxW7FvMwPXkh27Yus0VB"
+      },
+      "artists": [
+        {
+          "name": "Gero\u00d7\u5929\u6708\u00d7FAKE TYPE.",
+          "url": "https://open.spotify.com/artist/6jD8iEr7TX9hRAQOgcrncM"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "\u6700\u679c\u3066\u306e\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2LFuq0tLY45nizYFHFpeT7"
+    },
+    {
+      "album": {
         "name": "\u672a\u6765\u30ce\u30fc\u30c8",
         "url": "https://open.spotify.com/album/5CaxVa8rlkAi9zQr4RO6lJ"
       },

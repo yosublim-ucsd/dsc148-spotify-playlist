@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,023 likes - 366 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,496 likes - 366 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -375,4 +375,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 365 | [Stargazer](https://open.spotify.com/track/5YLozzNjqUbMKAUCCWZqve) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Stargazer](https://open.spotify.com/album/2uP0396RrVf9489zLAdrNi) | 2:17 |
 | 366 | [Night never ends](https://open.spotify.com/track/3FnRiWUNHfYKnibaQVaLhW) | [Raccoon With a Groovebox](https://open.spotify.com/artist/3cYzpmIsbtgqFqBll2SA5P) | [Night never ends](https://open.spotify.com/album/2oTxE9A3SLOdMWTxIlxUl0) | 2:27 |
 
-Snapshot ID: `MCwyZWYxMDQxOTA0MDMyZDA5OTBjNDE5ZTZhYjMyYjVhMGMyNGM3OWNl`
+Snapshot ID: `MCxlN2M2NWMwM2RjZGQ5M2FhNmVmNTMzODQyYTRjMDgzMDRmZWMwOTBm`

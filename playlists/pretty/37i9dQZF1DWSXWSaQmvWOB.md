@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,527 likes - 77 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,609 likes - 77 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 76 | [Streets of Love](https://open.spotify.com/track/2yi9NHHXXy7T7tkk7rQGgc) | [Malaramu](https://open.spotify.com/artist/1EKii5dqTcJpT4CUYerkII) | [Streets of Love](https://open.spotify.com/album/0mCQMVAYbkxSWcYSPzJ95F) | 3:05 |
 | 77 | [All A Share Together Now](https://open.spotify.com/track/6jfdwBdHyJkxSdgZrPCI8Y) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [All A Share Together Now](https://open.spotify.com/album/4buyOrbqG380Urv8cdCH4i) | 3:46 |
 
-Snapshot ID: `MCwxMTM4MmM3NTljZjI3NmZkZDBkYzI1OTUzYTc5NjRhY2E3Y2E1Yzdl`
+Snapshot ID: `MCw3MDMxMTc5NjBhNjY3ZjQwNWE2ZmYzNWRhYmI5MzYxMmZkY2VhNjJm`

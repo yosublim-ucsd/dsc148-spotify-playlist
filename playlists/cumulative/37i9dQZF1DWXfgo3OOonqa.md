@@ -4,12 +4,13 @@
 
 > HIPHOP 50!
 
-1,214 songs - 2 day 5 hr 36 min
+1,215 songs - 2 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [03:30](https://open.spotify.com/track/0JDnYc55QAbgBH9FMDvksn) | [Solo](https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh) | [03:30](https://open.spotify.com/album/5r7vOF3pjDZrz29Ek0V4zn) | 2:00 | 2023-05-24 | 2023-08-04 |
 | [08 ZOO](https://open.spotify.com/track/59cIFyq3hJRRbEX4yl7QVt) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [08 ZOO](https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM) | 2:04 | 2021-12-16 | 2022-01-28 |
+| [1,2 & Mer](https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [1,2 & Mer](https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF) | 2:37 | 2023-09-19 |  |
 | [1\-2 STEP](https://open.spotify.com/track/0rogcWicjVz9sL1CJMm8tR) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [Jamkid](https://open.spotify.com/artist/1AXqKV1nhx3eMcHzD5pNVx) | [MEDAN VI FALLER](https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I) | 2:40 | 2022-11-04 | 2022-12-02 |
 | [10 Flows](https://open.spotify.com/track/2qPl6sZ9t2pNxpXbwCLRHp) | [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn), [MM](https://open.spotify.com/artist/5eFqWWb4qNXmyd48FPVEff) | [KDVI](https://open.spotify.com/album/1dkwcIBj20ga2ftdm0uARD) | 1:57 | 2022-11-17 | 2022-12-22 |
 | [10/10](https://open.spotify.com/track/35u2Ubwl6nlz3JXrEPMxjW) | [Keya](https://open.spotify.com/artist/6Fzcb6MUQTqnojF8woJsKd) | [Bra är inte tillräckligt](https://open.spotify.com/album/4RB3FzLexzwkptkVbWUoYu) | 3:03 | 2023-03-09 | 2023-05-05 |
@@ -920,7 +921,7 @@
 | [Runt Bordet](https://open.spotify.com/track/5D1vMZ02SPGYU3212jmBBq) | [Lucaz](https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ), [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Runt Bordet](https://open.spotify.com/album/53Rb4cJmKhu4Olebai8TIO) | 2:16 | 2023-05-25 | 2023-07-07 |
 | [Rädda mig](https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Rädda mig](https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu) | 2:23 | 2022-12-08 | 2023-03-18 |
 | [Röd Laser](https://open.spotify.com/track/3hVHWx8UILDq3tSEg5trOZ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Röd Laser](https://open.spotify.com/album/4XQSMJeqCRczYBbhW7pE3P) | 2:11 | 2022-09-12 | 2022-10-28 |
-| [Röda Samtal](https://open.spotify.com/track/5fx4lG4wgbHX0Qp7p88iW9) | [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [Röda Samtal](https://open.spotify.com/album/3VcSIismoBASpN6h91w8TU) | 2:04 | 2023-08-24 |  |
+| [Röda Samtal](https://open.spotify.com/track/5fx4lG4wgbHX0Qp7p88iW9) | [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [Röda Samtal](https://open.spotify.com/album/3VcSIismoBASpN6h91w8TU) | 2:04 | 2023-08-24 | 2023-09-20 |
 | [Rösten](https://open.spotify.com/track/0CosqxAwNE3c9HGwPuGxey) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN), [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d) | [Rösten](https://open.spotify.com/album/5V96peNSzY61RsILw3pu17) | 2:47 | 2023-08-03 | 2023-09-08 |
 | [SAFARI](https://open.spotify.com/track/3TJm53n5DqltPYnn8UYquo) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [SAFARI](https://open.spotify.com/album/7wcI75BwXH6Qw8xSsqOymb) | 2:22 | 2023-07-06 |  |
 | [Sagrada Familia](https://open.spotify.com/track/3ocHxXV8fDZ1R6iMoEIYan) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:49 | 2021-12-16 | 2022-02-11 |

@@ -4,7 +4,7 @@
 
 > The best indie rock right now\. Featuring new music by The Beaches.
 
-1,188 songs - 2 day 16 hr 42 min
+1,189 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,8 @@
 | [Especially You](https://open.spotify.com/track/1prCMVGhgKF805LZJhFIHe) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Especially You](https://open.spotify.com/album/6GdntthLLMwjMcKiv4b70R) | 3:01 | 2022-02-11 | 2022-06-11 |
 | [Eucalyptus](https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Eucalyptus](https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl) | 4:24 | 2023-03-24 | 2023-07-01 |
 | [Even If You're Gone](https://open.spotify.com/track/1g4XxdY1F5vivfgenJ5JVM) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Even If You're Gone](https://open.spotify.com/album/1DtwhpnzId8cjHeMYThyZ3) | 3:40 | 2022-06-25 | 2022-07-16 |
-| [Evening Star Supercharger](https://open.spotify.com/track/5hoYYJeNbcXHU7olx4GY8s) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Evening Star Supercharger](https://open.spotify.com/album/6181JseEP3RrM53y0UASM8) | 3:46 | 2023-09-08 |  |
+| [Evening Star Supercharger](https://open.spotify.com/track/2DfRUDyRZxianclImSBMQy) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Bird Machine](https://open.spotify.com/album/7DUDIoIEw2yGKi1wcLjRuy) | 3:46 | 2023-09-08 |  |
+| [Evening Star Supercharger](https://open.spotify.com/track/5hoYYJeNbcXHU7olx4GY8s) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Evening Star Supercharger](https://open.spotify.com/album/6181JseEP3RrM53y0UASM8) | 3:46 | 2023-09-08 | 2023-09-20 |
 | [Every Time You Come Around](https://open.spotify.com/track/3MH9G7aaOB8F4nSi1zYAwE) | [The Dream Syndicate](https://open.spotify.com/artist/1l0eT7EY5r7U1gMVm2SyoS) | [Every Time You Come Around](https://open.spotify.com/album/01X5wdb4Aiz1OXBZm0X8qb) | 3:45 | 2022-06-10 | 2022-06-25 |
 | [Every Window Is A Mirror](https://open.spotify.com/track/3b2ngmuuJP2XCUUwZvK9WQ) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Every Window Is A Mirror](https://open.spotify.com/album/2MNhICXseCBcuvWYkEv2yy) | 2:53 | 2021-06-07 | 2022-04-07 |
 | [Everybody Just Wants To](https://open.spotify.com/track/4sl5i4kGjSe3lbh3wwmRkr) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Everybody Just Wants To](https://open.spotify.com/album/7HEKGLc2Dopw8lRHbajgKU) | 2:26 | 2023-03-31 | 2023-06-24 |

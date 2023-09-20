@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Mitski, Dan + Shay, Doja Cat, Diddy, Tate McRae, Rod Wave and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,175,304 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,175,416 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 100 | [Coming Down](https://open.spotify.com/track/0N6m7tYA6ebZBybueTQ71h) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Coming Down](https://open.spotify.com/album/1K4sQIi2Ovrhfkngt3xEuK) | 2:42 |
 | 101 | [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 |
 
-Snapshot ID: `MCwyMGVhNDAyZjNmODNmOWI4MTYzMDg2MjMwYTBjZTM1NDJkZDk3MWMz`
+Snapshot ID: `MCw4ZjQ5MGFjZjFiZDA3Yjc4YmVlYmY1MjcwMGEwZjMwNWZjZTg4MTcw`

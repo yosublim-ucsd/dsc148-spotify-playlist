@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Maureen
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,568 likes - 40 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,664 likes - 40 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 5 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 |
 | 6 | [Auto](https://open.spotify.com/track/0pfdyJPdBVImK5uLXYZv9y) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Auto](https://open.spotify.com/album/29M62kf52dwQDFWBgUC6tY) | 2:18 |
 | 7 | [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 |
-| 8 | [GOOD TASTE](https://open.spotify.com/track/4ptipoZmsujkYcISXqfeqK) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Empancipated \(Deluxe\)](https://open.spotify.com/album/4kzAbEHPhMHmRtT7RMAlg3) | 2:45 |
+| 8 | [GOOD TASTE](https://open.spotify.com/track/4ptipoZmsujkYcISXqfeqK) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated \(Deluxe\)](https://open.spotify.com/album/4kzAbEHPhMHmRtT7RMAlg3) | 2:45 |
 | 9 | [Turnup](https://open.spotify.com/track/2uqPERGb5PUiiNQljAW0dz) | [Smitmeister](https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY) | [Turnup](https://open.spotify.com/album/3zl7XCggB15L49E9tiRlpI) | 1:46 |
 | 10 | [Bubble Up !](https://open.spotify.com/track/46ocF46SQZ1W0Nt3b5qnyc) | [DJ Mike One](https://open.spotify.com/artist/6iRCChjWCj187y6iBQVwhd), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm) | [Bubble Up !](https://open.spotify.com/album/7dlETfhOIDydsAnR8QBbfu) | 3:26 |
 | 11 | [Truc de ouf](https://open.spotify.com/track/3cnGh2Tt8I8PvAC2mP0dbM) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Truc de ouf](https://open.spotify.com/album/4d7H74eSI6IO5e0LUEffLh) | 2:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Le roi du Shatta](https://open.spotify.com/track/03NgCpDoLcslt53N88Y3Fp) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Le roi du Shatta](https://open.spotify.com/album/26JI28j9g7WZgdr4eCc48I) | 2:07 |
 | 40 | [Choquer](https://open.spotify.com/track/7y1z1fQtI1akuOk4lMrqEm) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Lya](https://open.spotify.com/artist/36gjO1QUVa9mEXVCzN26o3), [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo) | [Choquer](https://open.spotify.com/album/6uU4LXwHzQhcXEkHipagSX) | 2:22 |
 
-Snapshot ID: `MCw2YjJhNzlmMDVhYTkyNzNmZTA1MmY1MDBkZDcyYTdlOWU2MTFlZDAy`
+Snapshot ID: `MCxjYmM1YzczMzNlZWJhYjZjYTQzY2FjZTU0MjcxODRjOGMwNTQ1N2Q3`

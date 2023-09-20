@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Gildcoustic
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,616 likes - 88 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,861 likes - 88 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 87 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 |
 | 88 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 |
 
-Snapshot ID: `MCw5NjQxZDMyMDgxMDkxOTUxYmM5ZDZkNjU1ZDViODlkZDI1YmE0NjJk`
+Snapshot ID: `MCw4NGUxNjk1MDFlNWVlMjhhYzI5NmVmNzM4ZTkyMzAxNDI0OTk4ZDk4`

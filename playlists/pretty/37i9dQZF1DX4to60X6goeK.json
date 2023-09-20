@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 47823,
+  "num_followers": 47865,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzc1YWIxY2JkYWFmOTdhNGE4Y2UyMTE3OGQ1NmRmNzgzNGJlNTZh",
+  "snapshot_id": "MCxmMjgzMjJjNjlkYTMxN2IzNTE1MTFhOTFkOGE5NTJiYWFhNzJlMjFl",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -711,18 +711,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
+        "name": "Overload / Somebody Else, Pt. 2",
+        "url": "https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        },
+        {
+          "name": "Lydia Plain",
+          "url": "https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs"
         }
       ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"
+      "duration_ms": 197485,
+      "name": "Somebody Else, Pt. 2",
+      "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -759,18 +763,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn"
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
       },
       "artists": [
         {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         }
       ],
-      "duration_ms": 367542,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g"
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -791,38 +795,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Overload / Somebody Else, Pt. 2",
-        "url": "https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl"
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn"
       },
       "artists": [
         {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        },
-        {
-          "name": "Lydia Plain",
-          "url": "https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
         }
       ],
-      "duration_ms": 197485,
-      "name": "Somebody Else, Pt. 2",
-      "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 292117,
-      "name": "Transcend",
-      "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
+      "duration_ms": 367542,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -859,6 +843,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "High Roller",
+        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "High Roller",
+      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Do It Like Me",
         "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 204364,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "High Roller",
-        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "High Roller",
-      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -935,6 +919,38 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 292117,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Kickons",
+        "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Kickons",
+      "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 267586,
       "name": "Operator",
       "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Kickons",
-        "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 235862,
-      "name": "Kickons",
-      "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 327945,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Hazard",
         "url": "https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8"
       },
@@ -1095,30 +1111,6 @@
       "duration_ms": 248239,
       "name": "Hazard",
       "url": "https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Cool Out Son",
-        "url": "https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4"
-      },
-      "artists": [
-        {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
-        },
-        {
-          "name": "Benny Page",
-          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
-        },
-        {
-          "name": "Isaac Maya",
-          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
-        }
-      ],
-      "duration_ms": 208457,
-      "name": "Cool Out Son - Benny Page & Isaac Maya Remix - Edit",
-      "url": "https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL"
     }
   ],
   "unique_name": "Jump Up!",

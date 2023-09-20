@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/6VxFH2xFkDI6cDQJYbKQCv"
+      },
+      "artists": [
+        {
+          "name": "YeonJeong",
+          "url": "https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/2lSUPsWT6vOZQGhu70vdzr"
+    },
+    {
+      "album": {
         "name": "Absence",
         "url": "https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9"
       },
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 210850,
       "name": "Don't be sad",
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
@@ -5978,7 +5996,7 @@
       },
       "artists": [
         {
-          "name": "\uc2e0\ud604\ud76c",
+          "name": "Seen Hyun Hee",
           "url": "https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ"
         }
       ],

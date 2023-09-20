@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,218 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,264 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 149 | [Dormiveglia](https://open.spotify.com/track/59wYGLIGo4rMqIXcteuFd2) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Dormiveglia](https://open.spotify.com/album/6fplqqCFvzrz1fZHgxvS89) | 3:21 |
 | 150 | [Leaving Port](https://open.spotify.com/track/4Qaa8G7prYX6W6XHGq0OIw) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [Leaving Port](https://open.spotify.com/album/0KC8Z2Q9mFlfbx0SgUY6i9) | 2:34 |
 
-Snapshot ID: `MCwzMTgzZjE4ZGI2ZGNlMjk2MmYxNjRkZjY5NzdmOGFlNjI5OTliOTMx`
+Snapshot ID: `MCxjY2I0MzI1MjFkODAzYjMwOGUzNzZiMTRmMTE0Y2VjNzliOGJlYTZk`

@@ -2,7 +2,7 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. الغلاف: اصالة
+> كل شي خليجي جديد\. الغلاف: داليا
 
 266 songs - 18 hr 6 min
 

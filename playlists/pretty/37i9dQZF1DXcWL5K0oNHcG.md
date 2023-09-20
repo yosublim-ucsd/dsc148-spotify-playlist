@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Mohini Dey Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,949 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,008 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Hi Jack!](https://open.spotify.com/track/6hIl0ubhTcYbC2QaeeANgA) | [Digo](https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH), [Eric Escanes](https://open.spotify.com/artist/4OZp27Cc1JZprOvcjuoOb9) | [Hi Jack!](https://open.spotify.com/album/44NrqD8iebqWU9ctYfxBHD) | 4:27 |
 | 75 | [Into the Mirrorball](https://open.spotify.com/track/79SgeJr7ZywlEiPqRbpSOW) | [FIQTIV](https://open.spotify.com/artist/4HKdNpQFevxrH3BqPQcgEt) | [Into the Mirrorball](https://open.spotify.com/album/1djecGAzkm9IkIZSfc21Ne) | 3:02 |
 
-Snapshot ID: `MCw0N2Y4ZmZjZDFjZGZiOWYzYzI5ZGY1OTBlMGY4NjM5NDdhZTVhOTk0`
+Snapshot ID: `MCxlZDU2ODMwMGYzZjIyOGNiOWE4OGUyMWI5ZDBiYjk3Zjc1OWM5ODIy`

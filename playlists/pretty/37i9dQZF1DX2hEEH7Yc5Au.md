@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 詹雯婷 \(Faye\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,953 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,981 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [我沒資格](https://open.spotify.com/track/4tNyEuD1Kr6kak324UcEgx) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [為你的寂寞唱歌](https://open.spotify.com/album/1AqZM8bfxSUIeQKBtO85ix) | 4:08 |
 | 50 | [對的人](https://open.spotify.com/track/0tsEr5a7QUap42Rm55Nief) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [為愛做的傻事](https://open.spotify.com/album/5VY4rWUXPjfM5CvKQpsfVZ) | 4:37 |
 
-Snapshot ID: `MCw2Y2ZkZjAyYjA5ZmQyOWI5MGQxMDZjYTc4MTg5NzY5YzI0NzM5ZDA0`
+Snapshot ID: `MCxmMzUxYzc3NGZkMDE2ZWU1MGY3NDY2ZWIyODhmMTlmYzAzZDg0ODQ5`

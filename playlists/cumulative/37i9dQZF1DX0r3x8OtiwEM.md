@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-605 songs - 2 day 12 hr 29 min
+606 songs - 2 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Same \- Radio Edit](https://open.spotify.com/track/4nilN27xhbhhBk79LTiBAO) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Same](https://open.spotify.com/album/6ch0UCMHhQNKWdf7OS7HLO) | 3:52 | 2019-08-06\* | 2020-10-21 |
 | [Samson](https://open.spotify.com/track/34fx5Qr2oEkQfqRS8FlbJt) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Samson](https://open.spotify.com/album/2HlExpMOAcyS1Wyc5I7F5H) | 7:00 | 2019-08-06\* | 2020-06-12 |
 | [Schlafen](https://open.spotify.com/track/6W9p8YvgzEMJT8ENSaw32S) | [COMPUTER DATA](https://open.spotify.com/artist/5wwnitxvqbrtiGk3QW3BuN) | [Schlafen](https://open.spotify.com/album/5gdAuC2O2YWcU6JtyKqU3U) | 6:52 | 2019-10-24 | 2020-05-14 |
+| [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
 | [Sektor](https://open.spotify.com/track/7ieGiNeMBSoAomdAAuOt6r) | [Marius Drescher](https://open.spotify.com/artist/4oU99ab1DTNIF3a9RHmnhf) | [Sektor](https://open.spotify.com/album/4gdGrl8AllxmdA0fU3p5vG) | 7:15 | 2019-08-29 | 2019-12-22 |
 | [Serenade \- Radio Edit](https://open.spotify.com/track/3WrUwFdVmsQGJ15ytGFNw8) | [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP) | [Serenade](https://open.spotify.com/album/22fyTTuxua996UoZk41lft) | 5:03 | 2019-08-06\* | 2019-09-19 |
 | [Serendipity \- Niconé & Dirty Doering Remix](https://open.spotify.com/track/0YnlF7Vg46KDnhw72U5E1b) | [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs), [Isabel Sesma](https://open.spotify.com/artist/1PuVLpqkfMOATQGiZZrzb6), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [It All Depends Remixes](https://open.spotify.com/album/0fVSt89rZkhirkNEgfoFp2) | 7:18 | 2020-01-16 | 2020-07-25 |
@@ -603,7 +604,7 @@
 | [When Comes the Night](https://open.spotify.com/track/5T5DVG9Ym69motMYiVFgaL) | [Hidden Face](https://open.spotify.com/artist/1Itil4naIwgkm48BNTjZ2A) | [When Comes the Night](https://open.spotify.com/album/57NL4w6BTRqzCKONQ4NRvF) | 3:52 | 2020-05-30 | 2022-02-09 |
 | [When We Meet Again \- Edit](https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/3XJPPvqVjeh7HkbjxbQijw) | 3:57 | 2022-10-07 | 2023-07-01 |
 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 | 2021-03-06 | 2022-10-17 |
-| [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 | 2023-04-05 |  |
+| [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 | 2023-04-05 | 2023-09-20 |
 | [Wildfire](https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Burning Out EP](https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I) | 5:24 | 2021-06-05 | 2023-09-02 |
 | [Wildlands](https://open.spotify.com/track/3hlwSv1rRVguTBGRH813Pw) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Wildlands](https://open.spotify.com/album/3MpQaMH6DFQcBnVSUEA7fn) | 3:24 | 2022-06-24 | 2022-07-29 |
 | [X](https://open.spotify.com/track/0pORLCI6Ep1eyqHJXbUPKG) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 5:33 | 2021-05-07 | 2021-05-28 |

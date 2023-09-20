@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 60491,
+  "num_followers": 60522,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTBkMjg2MDY4YzE1ODRiMGYwZDFmOGU5OGEzOGU3MzkwYzRkYWU4",
+  "snapshot_id": "MCwwNjBjYzMxYzA0NmYzN2IzMDQ4YjIyMjlhMDU1NTBmNzZjOTNhNDI3",
   "tracks": [
     {
       "added_at": "2023-09-01 14:10:27",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Paparanoja",
-        "url": "https://open.spotify.com/album/6qtt0FdpkEMbKO2ZpPs4Be"
-      },
-      "artists": [
-        {
-          "name": "Enej",
-          "url": "https://open.spotify.com/artist/5Dhx2Dt5jkQDTORznqwjo0"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Kamie\u0144 z Napisem Love",
-      "url": "https://open.spotify.com/track/23KqpM3GPAqiNvfZoyMvsU"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Milosc",
         "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 195040,
       "name": "Peron",
       "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Paparanoja",
+        "url": "https://open.spotify.com/album/6qtt0FdpkEMbKO2ZpPs4Be"
+      },
+      "artists": [
+        {
+          "name": "Enej",
+          "url": "https://open.spotify.com/artist/5Dhx2Dt5jkQDTORznqwjo0"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Kamie\u0144 z Napisem Love",
+      "url": "https://open.spotify.com/track/23KqpM3GPAqiNvfZoyMvsU"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
+        "name": "Dla Naiwnych Marzycieli",
+        "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
+      },
+      "artists": [
+        {
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "W Glowie",
+      "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
         "name": "Osobista kolekcja 2",
         "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 202127,
       "name": "Pomimo Burz",
       "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
-        "name": "Dla Naiwnych Marzycieli",
-        "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
-      },
-      "artists": [
-        {
-          "name": "Ania D\u0105browska",
-          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "W Glowie",
-      "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
     },
     {
       "added_at": "2023-09-01 14:10:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bo Staloch \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,939 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,975 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [jane](https://open.spotify.com/track/7jSXAEb7AKi1AZW4tOtFNG) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [jane](https://open.spotify.com/album/0E4Zg3sGwKwB4yBFFH8dIO) | 2:24 |
 | 100 | [The Well](https://open.spotify.com/track/720DXnPFSZgboGcNcovsPP) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [West Of It All](https://open.spotify.com/album/411HEAs67Ulmlen1UlEO9t) | 3:37 |
 
-Snapshot ID: `MCxhMjYyODBjMjcxNmY4ZmRmNTQyOTZjYjg3Yzk2MWM1NGZiZTdmMmZj`
+Snapshot ID: `MCxkMGI0NmRlYzQyN2Y3YTZlNTA5Mjc1NGUxMmE1YjY5MWRkNDYwNWIx`

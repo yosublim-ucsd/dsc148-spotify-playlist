@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 296865,
+  "num_followers": 296899,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2RlYWEyNzRiNGM2MzljNjQ1OGM5MzhiYWI2MTJkZTkxM2IwYjIx",
+  "snapshot_id": "MCxkNTlmZWJmMWVkM2ZiMTgzMGMwY2M0M2U0YWEwMjMwMmY4Nzk1MjYx",
   "tracks": [
     {
       "added_at": "2023-09-08 10:01:20",
@@ -343,30 +343,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Magnolia II",
-        "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        },
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Corey Fonville",
-          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Magnolia II",
-      "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "Temperature High",
         "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
       },
@@ -387,6 +363,30 @@
       "duration_ms": 190259,
       "name": "Temperature High",
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "Magnolia II",
+        "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Corey Fonville",
+          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Magnolia II",
+      "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Calder Shapes",
-        "url": "https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe"
+        "name": "No Good For Me",
+        "url": "https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS"
       },
       "artists": [
         {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
         }
       ],
-      "duration_ms": 428653,
-      "name": "Calder Shapes",
-      "url": "https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt"
+      "duration_ms": 282785,
+      "name": "No Good For Me",
+      "url": "https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -735,34 +735,38 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "No Good For Me",
-        "url": "https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS"
+        "name": "Calder Shapes",
+        "url": "https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe"
       },
       "artists": [
         {
-          "name": "Joseph Lawrence",
-          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
         }
       ],
-      "duration_ms": 282785,
-      "name": "No Good For Me",
-      "url": "https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB"
+      "duration_ms": 428653,
+      "name": "Calder Shapes",
+      "url": "https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt"
     },
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Lean In",
-        "url": "https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR"
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
       },
       "artists": [
         {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 318675,
-      "name": "Lean In",
-      "url": "https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE"
+      "duration_ms": 238786,
+      "name": "Rust (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -807,22 +811,18 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
+        "name": "Lean In",
+        "url": "https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR"
       },
       "artists": [
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
         }
       ],
-      "duration_ms": 238786,
-      "name": "Rust (feat. Tom Misch)",
-      "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
+      "duration_ms": 318675,
+      "name": "Lean In",
+      "url": "https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -847,18 +847,26 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Next Spring",
-        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
       },
       "artists": [
         {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
         }
       ],
-      "duration_ms": 224322,
-      "name": "Next Spring",
-      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
+      "duration_ms": 319040,
+      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+      "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -879,22 +887,18 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
+        "name": "Next Spring",
+        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
       },
       "artists": [
         {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
         }
       ],
-      "duration_ms": 252000,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
+      "duration_ms": 224322,
+      "name": "Next Spring",
+      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -959,6 +963,46 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "duration_ms": 271826,
+      "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "url": "https://open.spotify.com/track/24ZA5a59iToToWe7pPT0A7"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
+      },
+      "artists": [
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
         "name": "Berlin 1",
         "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
       },
@@ -971,30 +1015,6 @@
       "duration_ms": 302160,
       "name": "Berlin 1",
       "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Charlie Stacey",
-          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
-        }
-      ],
-      "duration_ms": 319040,
-      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
-      "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1031,6 +1051,26 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Bahia Dayes",
+          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "The Light (feat. Bahia Dayes)",
+      "url": "https://open.spotify.com/track/1mkzHA0suincRybCyk5fis"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
         "name": "Late Night People",
         "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
       },
@@ -1043,6 +1083,22 @@
       "duration_ms": 334000,
       "name": "Late Night People",
       "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/73sqtnhstOOj2fiqVGCA4X"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1067,22 +1123,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "Age Of Ascent",
-      "url": "https://open.spotify.com/track/73sqtnhstOOj2fiqVGCA4X"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "The Morning Side of Love",
         "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
@@ -1095,26 +1135,6 @@
       "duration_ms": 233120,
       "name": "The Morning Side of Love",
       "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 271826,
-      "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
-      "url": "https://open.spotify.com/track/24ZA5a59iToToWe7pPT0A7"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1155,22 +1175,6 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
         "name": "Annie's Tune",
         "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
       },
@@ -1187,6 +1191,22 @@
       "duration_ms": 263333,
       "name": "Annie's Tune",
       "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
+        "name": "My Voice",
+        "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "duration_ms": 271040,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1215,22 +1235,6 @@
       "duration_ms": 217760,
       "name": "Just The Same",
       "url": "https://open.spotify.com/track/3F2Vqu9r6BvGRZBCwQZVGx"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
-        "name": "My Voice",
-        "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
-      },
-      "artists": [
-        {
-          "name": "Ashley Henry",
-          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
-        }
-      ],
-      "duration_ms": 271040,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1303,22 +1307,18 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
       },
       "artists": [
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Bahia Dayes",
-          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
         }
       ],
-      "duration_ms": 340840,
-      "name": "The Light (feat. Bahia Dayes)",
-      "url": "https://open.spotify.com/track/1mkzHA0suincRybCyk5fis"
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
+        "name": "Stuck Wit U",
+        "url": "https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C"
+      },
+      "artists": [
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Stuck Wit U",
+      "url": "https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA"
+    },
+    {
+      "added_at": "2023-09-08 10:01:20",
+      "album": {
         "name": "STR4TASFEAR Remixes",
         "url": "https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD"
       },
@@ -1383,22 +1403,18 @@
     {
       "added_at": "2023-09-08 10:01:20",
       "album": {
-        "name": "Stuck Wit U",
-        "url": "https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C"
+        "name": "Lovestruck in London",
+        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
       },
       "artists": [
         {
-          "name": "Nao Yoshioka",
-          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Stuck Wit U",
-      "url": "https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA"
+      "duration_ms": 174764,
+      "name": "If You Love The Moon",
+      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
     },
     {
       "added_at": "2023-09-08 10:01:20",
@@ -1415,22 +1431,6 @@
       "duration_ms": 204254,
       "name": "Statue",
       "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
-    },
-    {
-      "added_at": "2023-09-08 10:01:20",
-      "album": {
-        "name": "Lovestruck in London",
-        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
-      },
-      "artists": [
-        {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
-        }
-      ],
-      "duration_ms": 174764,
-      "name": "If You Love The Moon",
-      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
     }
   ],
   "unique_name": "Jazz UK",

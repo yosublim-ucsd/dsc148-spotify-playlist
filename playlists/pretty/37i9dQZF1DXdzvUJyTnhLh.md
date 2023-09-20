@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 
 > Eagles at their best\. Explore their deep catalog as a band and as solo artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,843 likes - 68 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,921 likes - 68 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 | 67 | [The Radio Song](https://open.spotify.com/track/4pOy712tjNNZxIhX5VllU6) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Got Any Gum?](https://open.spotify.com/album/6Is4r41K1zGhe0dOYhoAZV) | 3:31 |
 | 68 | [Ol' 55 \- 2013 Remaster](https://open.spotify.com/track/0pH4QNsSphVLCy9zjPzqiP) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:21 |
 
-Snapshot ID: `MCwwMTFkNDM5NzQzOTc4Nzc1MGQzYjRkZDYyNjgzZTY4M2VmYWRkYzYz`
+Snapshot ID: `MCwyOWJhNTZmYTM5Y2FhZmRlYTFkYzVmMzc0MmE3NjU1Y2FiNzZiZTUz`

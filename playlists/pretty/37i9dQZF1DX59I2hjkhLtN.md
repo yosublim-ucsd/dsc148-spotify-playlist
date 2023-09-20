@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: THE F LIBRA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,981 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,986 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [100 FALHAS](https://open.spotify.com/track/2uCCLGZSppxEMjH936nwbl) | [J Puro](https://open.spotify.com/artist/0YmfUBWWHzOlG92JNsqiFl), [Manuel Bastos](https://open.spotify.com/artist/5JbZvptDWsEWaHgBe6pqhI) | [100 FALHAS](https://open.spotify.com/album/2BcvWxy4TAcXO7gaz8LReh) | 4:50 |
 | 100 | [Parque](https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c) | [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Parque](https://open.spotify.com/album/3z2cKr6G3oX1ssqFjgTsLb) | 2:21 |
 
-Snapshot ID: `MCw0OTI3Njk4MWUzNWI2ZDFmMzQ3MDQxN2ZkZWNiYjk3MzNlZWI1YmYx`
+Snapshot ID: `MCwyMjI4MTIxN2M4Yjc1MDEzNjBhYzc0YTM2MmViM2U4OWVjZDY3YjEz`

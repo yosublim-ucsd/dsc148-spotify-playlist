@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Dead Poet Society
 
-1,796 songs - 3 day 22 hr 21 min
+1,797 songs - 3 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,7 +769,8 @@
 | [I Never Say No](https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [I Never Say No](https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi) | 3:18 | 2023-02-03 | 2023-03-11 |
 | [I Think I](https://open.spotify.com/track/3ubTScTReBYihSnVuRD81D) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [I Think I](https://open.spotify.com/album/2aWox1fQIfpJyzpIN5SsG3) | 3:22 | 2023-03-31 | 2023-05-13 |
 | [I Think I'm in Love](https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [I Think I'm in Love](https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus) | 2:59 | 2023-02-10 | 2023-03-11 |
-| [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-08 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/4Uy1cKq8UPWkwLRZBmSryG) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/7uCaVO8YwOnWXGk7ptVHNR) | 2:51 | 2023-09-15 |  |
+| [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-08 | 2023-09-20 |
 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-07-28 | 2023-09-09 |
 | [I Want It All](https://open.spotify.com/track/58HNyZisRT0WSPnfpXgoFQ) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [I Want It All](https://open.spotify.com/album/6P3k32E1WG3eJElUS17Dfo) | 4:55 | 2023-04-07 | 2023-05-06 |
 | [I Want You \(Fall 2010\)](https://open.spotify.com/track/7din0l3MVxtU5EYRg7CqBf) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [The Window](https://open.spotify.com/album/07h9Qsx40cCp1h0ykxuqU1) | 3:48 | 2023-08-25 |  |
@@ -888,7 +889,7 @@
 | [Let Me Be Normal](https://open.spotify.com/track/4aPd0Ce1cRiE2Yg1fty3HD) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Let Me Be Normal](https://open.spotify.com/album/6RjuNtTTG4MkTaAxxzjZIJ) | 2:22 | 2022-10-07 | 2022-11-12 |
 | [Let Me Out](https://open.spotify.com/track/4IUZViuv8cdwJPw1IdmpIG) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P) | 3:12 | 2022-11-04 | 2023-01-14 |
 | [Let You Down \(feat\. Charlotte Sands\)](https://open.spotify.com/track/0JX13l9ixwzb9BBTG5vaNV) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Let You Down \(feat\. Charlotte Sands\)](https://open.spotify.com/album/6FDZMfAhiOT1vgZ21iupjV) | 3:25 | 2022-08-12 | 2022-10-15 |
-| [Let's Do Drugs](https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Let's Do Drugs](https://open.spotify.com/album/6dFaxMX3QrHLdUO54jID00) | 2:19 | 2023-08-18 |  |
+| [Let's Do Drugs](https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Let's Do Drugs](https://open.spotify.com/album/6dFaxMX3QrHLdUO54jID00) | 2:19 | 2023-08-18 | 2023-09-20 |
 | [Let's Get To Work](https://open.spotify.com/track/456sTgUGjvqvmYr7GqMFnG) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Let's Get To Work](https://open.spotify.com/album/7cnBwqsBiHUPFQZtCJE0uN) | 3:00 | 2023-09-01 |  |
 | [Let's Go Home](https://open.spotify.com/track/35QZ6puf9YLNQIEpKUQ8Ay) | [The Pink Spiders](https://open.spotify.com/artist/0UREuWUT6wPZoL1Gglwmm0) | [Let's Go Home](https://open.spotify.com/album/3Qg4vX2IV4MOYD25au2PKX) | 3:27 | 2023-06-16 | 2023-07-29 |
 | [Liar 2](https://open.spotify.com/track/2ibIsi1vAP7m1LQXgwwA2i) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Perfect Saviors](https://open.spotify.com/album/2QOtRB75B25O7pn6fAd3o9) | 3:00 | 2023-08-25 |  |

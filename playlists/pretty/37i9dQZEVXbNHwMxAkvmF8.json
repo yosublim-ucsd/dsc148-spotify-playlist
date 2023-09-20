@@ -1,35 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 71299,
+  "num_followers": 71303,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ4NDAxNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ4NDg4MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "CARPE DIEM",
-        "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 161025,
-      "name": "Pakiszt\u00e1ni/popo",
-      "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -57,7 +37,27 @@
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "CARPE DIEM",
+        "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 161025,
+      "name": "Pakiszt\u00e1ni/popo",
+      "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/1MiseUuQlh2ktcmD3FonJo"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/6eaaIxWaso3ooRdPDS5PuN"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
@@ -133,23 +133,7 @@
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 169841,
-      "name": "introvert\u00e1lt dal",
-      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -169,7 +153,23 @@
       "url": "https://open.spotify.com/track/1VPU7SKdABCb3gNCNjMFIZ"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 169841,
+      "name": "introvert\u00e1lt dal",
+      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/000n6Lx4yqUAslF1x3JeFY"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -217,23 +217,7 @@
       "url": "https://open.spotify.com/track/3Ccwu3ujS9lyxW9CtTchk8"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "\u00d6rd\u00f6g N\u00f3rika",
-        "url": "https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 123125,
-      "name": "\u00d6rd\u00f6g N\u00f3rika",
-      "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -253,27 +237,39 @@
       "url": "https://open.spotify.com/track/7xdiiqtQPUXrKcd6BoFyYd"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
-        "name": "V\u00e1rn\u00e9k",
-        "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
+        "name": "MENTALITAT",
+        "url": "https://open.spotify.com/album/7jLv7WmSyuS3jVjTMg1H95"
+      },
+      "artists": [
+        {
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+        }
+      ],
+      "duration_ms": 152619,
+      "name": "MENTALITAT",
+      "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
       },
       "artists": [
         {
           "name": "Dzs\u00fadl\u00f3",
           "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 187105,
-      "name": "V\u00e1rn\u00e9k",
-      "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
+      "duration_ms": 172956,
+      "name": "ERN\u0150",
+      "url": "https://open.spotify.com/track/1INwADAW4dAAaCoGFXgcg7"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -293,7 +289,39 @@
       "url": "https://open.spotify.com/track/6bmTNiH8blviXxFDVoAuL7"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "\u00d6rd\u00f6g N\u00f3rika",
+        "url": "https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 123125,
+      "name": "\u00d6rd\u00f6g N\u00f3rika",
+      "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -313,7 +341,27 @@
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "V\u00e1rn\u00e9k",
+        "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "V\u00e1rn\u00e9k",
+      "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -324,28 +372,28 @@
           "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 172956,
-      "name": "ERN\u0150",
-      "url": "https://open.spotify.com/track/1INwADAW4dAAaCoGFXgcg7"
+      "duration_ms": 209491,
+      "name": "NE TAKARD EL",
+      "url": "https://open.spotify.com/track/66st0N9k5A2yw2Le6qnSNM"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 220194,
+      "name": "\u2265 L\u00c1NY",
+      "url": "https://open.spotify.com/track/5cgPPG5JKKAJR49vFMyjGV"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/5SDMdbd64hSpeg1OTCUy7L"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "Meg\u00e1ll Az Id\u0151",
         "url": "https://open.spotify.com/album/44FAquiBnYU5AnSXSsz4No"
@@ -389,71 +437,7 @@
       "url": "https://open.spotify.com/track/1lfErXcHIp6Ail8bFuONMF"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "MENTALITAT",
-        "url": "https://open.spotify.com/album/7jLv7WmSyuS3jVjTMg1H95"
-      },
-      "artists": [
-        {
-          "name": "LMEN PRALA",
-          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
-        }
-      ],
-      "duration_ms": 152619,
-      "name": "MENTALITAT",
-      "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "KINCUGI",
-        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 209491,
-      "name": "NE TAKARD EL",
-      "url": "https://open.spotify.com/track/66st0N9k5A2yw2Le6qnSNM"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "KINCUGI",
-        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 220194,
-      "name": "\u2265 L\u00c1NY",
-      "url": "https://open.spotify.com/track/5cgPPG5JKKAJR49vFMyjGV"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "four moods",
-      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -469,7 +453,7 @@
       "url": "https://open.spotify.com/track/40JheOaLfoH15JoGUemME8"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -485,7 +469,7 @@
       "url": "https://open.spotify.com/track/2FESRN1CsZIuVjunVVEGBV"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -501,23 +485,7 @@
       "url": "https://open.spotify.com/track/2ourGFVWkaH9wLV0lM6hWp"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "Sose Alszok",
-        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
-      },
-      "artists": [
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Smash!",
-      "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -533,39 +501,7 @@
       "url": "https://open.spotify.com/track/6uxearbIqsWnmB0yDjEojB"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "casa de papel",
-      "url": "https://open.spotify.com/track/3UlXaigjBM3sHyOpDbh1RI"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "KINCUGI",
-        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "F\u00dcGG\u0150",
-      "url": "https://open.spotify.com/track/2zzQFIe6kZ53LffgplVLSd"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -581,7 +517,139 @@
       "url": "https://open.spotify.com/track/0uL4P24GkIY7p2Y9Dfgsfk"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "F\u00dcGG\u0150",
+      "url": "https://open.spotify.com/track/2zzQFIe6kZ53LffgplVLSd"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "four moods",
+      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "MOTEL",
+        "url": "https://open.spotify.com/album/2iXtFwc2JiJb15uJEMr9Tm"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "toldyuuso",
+          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "MOTEL",
+      "url": "https://open.spotify.com/track/6AMFzCEWSXvsKw5woE5zj2"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "casa de papel",
+      "url": "https://open.spotify.com/track/3UlXaigjBM3sHyOpDbh1RI"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "Sose Alszok",
+        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Smash!",
+      "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 164290,
+      "name": "figyelj",
+      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "TAVALY T\u00c9LEN",
+      "url": "https://open.spotify.com/track/4ZB7ZsbAOboSMGbWwZSII8"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -601,10 +669,42 @@
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 271351,
+      "name": "GY\u0170L\u00d6LJ",
+      "url": "https://open.spotify.com/track/2LS9XwjaS59AXnKX3FSZXF"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
       },
       "artists": [
         {
@@ -612,12 +712,28 @@
           "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 164290,
-      "name": "figyelj",
-      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
+      "duration_ms": 206037,
+      "name": "szosziazi",
+      "url": "https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 189783,
+      "name": "g\u00e1t",
+      "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "Vill\u00e1m",
         "url": "https://open.spotify.com/album/5nBEJhjzLkpzIl7kM1aRcn"
@@ -637,71 +753,7 @@
       "url": "https://open.spotify.com/track/7AZobwHObSuZQDCGXWYuop"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 206037,
-      "name": "szosziazi",
-      "url": "https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "g\u00e1t",
-      "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "KINCUGI",
-        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "TAVALY T\u00c9LEN",
-      "url": "https://open.spotify.com/track/4ZB7ZsbAOboSMGbWwZSII8"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
@@ -725,23 +777,7 @@
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "Sose Alszok",
-        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
-      },
-      "artists": [
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        }
-      ],
-      "duration_ms": 146013,
-      "name": "Sz\u00e1zszorsz\u00e9p",
-      "url": "https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "KINCUGI",
         "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
@@ -752,12 +788,28 @@
           "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 271351,
-      "name": "GY\u0170L\u00d6LJ",
-      "url": "https://open.spotify.com/track/2LS9XwjaS59AXnKX3FSZXF"
+      "duration_ms": 216610,
+      "name": "SPANOM 2",
+      "url": "https://open.spotify.com/track/5bxUNTzxwinkoyf8sLltka"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "KINCUGI",
+        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "NEM ALSZOM OTTHON",
+      "url": "https://open.spotify.com/track/2Mbg50MyaInQ2vbZ6n6xbi"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -777,87 +829,7 @@
       "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "KINCUGI",
-        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "NEM ALSZOM OTTHON",
-      "url": "https://open.spotify.com/track/2Mbg50MyaInQ2vbZ6n6xbi"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "KINCUGI",
-        "url": "https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 216610,
-      "name": "SPANOM 2",
-      "url": "https://open.spotify.com/track/5bxUNTzxwinkoyf8sLltka"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -885,7 +857,39 @@
       "url": "https://open.spotify.com/track/4Os68ICIOhJVOPfl53TjBP"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "Sose Alszok",
+        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 146013,
+      "name": "Sz\u00e1zszorsz\u00e9p",
+      "url": "https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2023-09-19 08:51:22",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -905,24 +909,20 @@
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
     },
     {
-      "added_at": "2023-09-18 08:55:44",
+      "added_at": "2023-09-19 08:51:22",
       "album": {
-        "name": "MOTEL",
-        "url": "https://open.spotify.com/album/2iXtFwc2JiJb15uJEMr9Tm"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
       "artists": [
         {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "toldyuuso",
-          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 151578,
-      "name": "MOTEL",
-      "url": "https://open.spotify.com/track/6AMFzCEWSXvsKw5woE5zj2"
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     }
   ],
   "unique_name": "Top 50 - Hungary",

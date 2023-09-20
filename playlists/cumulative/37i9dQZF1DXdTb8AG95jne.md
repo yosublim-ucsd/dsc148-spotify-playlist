@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Seen Hyun Hee\(신현희\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-604 songs - 1 day 13 hr 1 min
+605 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [a particular thing 별일 \(feat\. Parc Jae Jung\)](https://open.spotify.com/track/3SfGwHuSbRkawRw7PFI81n) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs), [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Rotary](https://open.spotify.com/album/7CbrplovlgNSO5Qo8X7sVa) | 4:20 | 2022-04-12 | 2022-04-21 |
 | [a song i like to sing](https://open.spotify.com/track/5BDScyCac0wCKu1ZvCpk8K) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [a song i like to sing](https://open.spotify.com/album/4rnDUUhsDdMgFFoeg5DrqT) | 2:40 | 2021-12-21 | 2022-04-20 |
 | [A Trail Of Seasons](https://open.spotify.com/track/6g2xMxNkfTZ1kkyccaHyaD) | [onsu](https://open.spotify.com/artist/0AJ5Vo2rQGlmsiVYYwyQrJ) | [A Trail Of Seasons](https://open.spotify.com/album/6tBEtld4QZaiOkh1V8497y) | 4:08 | 2022-03-31 | 2022-04-05 |
+| [About Time](https://open.spotify.com/track/2lSUPsWT6vOZQGhu70vdzr) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [About Time](https://open.spotify.com/album/6VxFH2xFkDI6cDQJYbKQCv) | 3:34 | 2023-09-19 |  |
 | [Absence](https://open.spotify.com/track/7hE2rSWy9S5tTYwaDUhJZp) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [Absence](https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9) | 3:16 | 2022-07-04 | 2022-08-05 |
 | [Acacia](https://open.spotify.com/track/0joWBqlVxPBSExJ6uTrnYn) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Acacia](https://open.spotify.com/album/46O3IGuI0uokRu4VE7mjte) | 3:41 | 2022-02-18 | 2022-03-03 |
 | [Action Reaction](https://open.spotify.com/track/4pv4srfPim6XwSUoxueLRF) | [syndasizung 신다사이정](https://open.spotify.com/artist/2JVIMqJWk3OVEEr9oaWYub) | [Action Reaction](https://open.spotify.com/album/0APzH8zMzoBbbweo04UqYI) | 4:35 | 2022-07-04 | 2022-07-09 |
@@ -120,7 +121,7 @@
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-31 | 2022-04-19 |
 | [Domino](https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Domino](https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e) | 3:07 | 2023-02-14 | 2023-03-01 |
 | [Don't be Disappointed](https://open.spotify.com/track/5NFUz1lKuetUhaRBPYuC6b) | [from all to human](https://open.spotify.com/artist/70ZE1v0UgSiInAfo8Xqjhj) | [Lief](https://open.spotify.com/album/39bo9FjkRsfe8kT63dAFez) | 3:07 | 2022-01-27 | 2022-06-07 |
-| [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 | 2021-12-12 |  |
+| [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 | 2021-12-12 | 2023-09-20 |
 | [Don't Hide](https://open.spotify.com/track/084FkT1AH865kzRCscjoCI) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [To You](https://open.spotify.com/album/6jxOP0K2d6c64iK9pzKrru) | 3:59 | 2022-03-31 | 2022-04-08 |
 | [Don't Know \(Prod\. CLAZZI\)](https://open.spotify.com/track/7i2G1Vhqgzb7P0qbYkgy7j) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:31 | 2022-02-10 | 2022-04-25 |
 | [Don’t go home](https://open.spotify.com/track/2ROP0upaRoZuU3WZAAv4d3) | [seoseo](https://open.spotify.com/artist/19fpoLzmPBNG4TdMQMSSc8) | [Don’t go home](https://open.spotify.com/album/5Z2DV5deJlPtSIgLPta6Hb) | 3:07 | 2023-01-05 | 2023-01-11 |
@@ -326,7 +327,7 @@
 | [MIMI](https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4) | 3:27 | 2021-12-12 |  |
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2022-08-12 | 2022-09-06 |
 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 | 2022-06-20 | 2022-07-05 |
-| [MISHMASH](https://open.spotify.com/track/7qBdRew80c7Di2CirI6XaO) | [신현희](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [MISHMASH](https://open.spotify.com/album/77CBeZWS4hBgPqPCD6OkkY) | 3:35 | 2023-09-15 |  |
+| [MISHMASH](https://open.spotify.com/track/7qBdRew80c7Di2CirI6XaO) | [Seen Hyun Hee](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [MISHMASH](https://open.spotify.com/album/77CBeZWS4hBgPqPCD6OkkY) | 3:35 | 2023-09-15 |  |
 | [Moment](https://open.spotify.com/track/3jYl9vCYKeVDawBCu5iHK5) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Moment](https://open.spotify.com/album/5UUtfxQNNJknc3HwxZRQTO) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [Money like \(feat\. meenoi\)](https://open.spotify.com/track/5U5QitagofLaXFkoVO1oLF) | [HOSIN](https://open.spotify.com/artist/3XOcDV9I5btpQqBqkEQWuU), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Money like](https://open.spotify.com/album/67YuFY9QZKY3loKA6634Sv) | 4:02 | 2022-07-04 | 2022-07-09 |
 | [monochrome](https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [monochrome](https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx) | 4:21 | 2022-09-05 | 2022-09-21 |

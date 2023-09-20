@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: TSHA, Ellie Goulding, Gregory Porter
 
-1,364 songs - 3 day 3 hr 50 min
+1,365 songs - 3 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Bodymorph](https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Serathrone](https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt) | [Bodymorph](https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3) | 4:03 | 2023-05-18 | 2023-06-23 |
 | [Bolingo](https://open.spotify.com/track/4A14lHqhZBMW61yFSolKM7) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bolingo](https://open.spotify.com/album/7LKKc0yzIytPeiwO8NmJ7b) | 3:47 | 2023-08-17 | 2023-09-01 |
 | [Bone Breaker](https://open.spotify.com/track/6t7QJBcI7xDcjKjRO4mBDf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Bone Breaker](https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx) | 3:22 | 2023-01-26 | 2023-02-17 |
+| [Bop](https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Bop](https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj) | 5:08 | 2023-09-15 |  |
 | [Borderline](https://open.spotify.com/track/0ZubZMXWYS3qUK0zJ68dKn) | [Jakka](https://open.spotify.com/artist/4QsjdD4tkCOSUqRSDoazaM) | [Borderline](https://open.spotify.com/album/6vuUdsB96N2J713lnhW7Pm) | 3:38 | 2023-03-23 | 2023-04-14 |
 | [Borderline \(feat\. EMELINE\)](https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Borderline \(feat\. EMELINE\)](https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz) | 3:17 | 2023-09-07 |  |
 | [boringsnoringcallingmorning](https://open.spotify.com/track/4g6tUh14pLti1zU0ZmOWys) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [boringsnoringcallingmorning](https://open.spotify.com/album/2ANjFsiPKJma69OK5m5BaY) | 1:46 | 2023-08-11 | 2023-09-01 |

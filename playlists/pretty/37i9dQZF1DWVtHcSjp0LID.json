@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 60943,
+  "num_followers": 61020,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2",
+  "snapshot_id": "MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "The Year After",
-        "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
-      },
-      "artists": [
-        {
-          "name": "French 79",
-          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
-        }
-      ],
-      "duration_ms": 428936,
-      "name": "The Year After",
-      "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Kopernikus EP",
         "url": "https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 440118,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "The Year After",
+        "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        }
+      ],
+      "duration_ms": 428936,
+      "name": "The Year After",
+      "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Teira",
-          "url": "https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "The Right Place (feat. Teira)",
-      "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Teira",
+          "url": "https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "The Right Place (feat. Teira)",
+      "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -859,18 +859,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec"
+        "name": "Occasional Magic Remixes EP",
+        "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
       "artists": [
         {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+          "name": "Yppah",
+          "url": "https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U"
+        },
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
         }
       ],
-      "duration_ms": 344166,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb"
+      "duration_ms": 330145,
+      "name": "Occasional Magic - Ulrich Schnauss Remix",
+      "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
     }
   ],
   "unique_name": "Deep Study",

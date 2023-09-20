@@ -1850,10 +1850,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 206706,
       "name": "Message",
       "url": "https://open.spotify.com/track/0KIDpvQMzAAmwtsnSwBUN2"
+    },
+    {
+      "album": {
+        "name": "An Orange Colored Day",
+        "url": "https://open.spotify.com/album/7vSVYdbkNGZfSryuGlr80N"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/4Ugs4gNxnjxdy3SW41QULa"
     },
     {
       "album": {

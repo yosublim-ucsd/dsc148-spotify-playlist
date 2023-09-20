@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Guga entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,120 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,149 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [A Chuva](https://open.spotify.com/track/0BeusjQlyZQEZO45q5Py3U) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s), [Van Sophie](https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG) | [A Chuva](https://open.spotify.com/album/4vgaPBoGEMRS4gtl1Nq5RR) | 4:58 |
 | 75 | [Soube a Pouco](https://open.spotify.com/track/6f6jz2h9wo7QUvowAXUr86) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Mercúrio EP](https://open.spotify.com/album/4lnfV64uRboc0VPKRl6uA8) | 3:56 |
 
-Snapshot ID: `MCxjNGM5ZWE0YzAzYTIwZmE3YzFiYmM0ZDFjYzE0Nzc3MWNkNTVjM2Rl`
+Snapshot ID: `MCwwNTkxMTZiMDAwNjAyNTNjMjJjMzc0MmYzMGIxOWM1NTdlMWIwNTVj`

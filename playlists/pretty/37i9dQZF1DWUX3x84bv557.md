@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: MAKSIM & Emma Heesters
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,302 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,327 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 66 | [Haast](https://open.spotify.com/track/399bjhgodMuQoMkynf8rVM) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Haast](https://open.spotify.com/album/1xXJ4D4MG5CDPqePtylf6T) | 2:44 |
 | 67 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 |
 | 68 | [Zoveel Mooie Dagen](https://open.spotify.com/track/1M6fiGx0cHpGLG08fibQdr) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Zoveel Mooie Dagen](https://open.spotify.com/album/1ksQKLepRaX5VQ7EnklmDm) | 2:29 |
-| 69 | [Wat Ik Met Je Moet](https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM) | [AMBER](https://open.spotify.com/artist/44pmqyq9sUSOoXo0gyrmXe) | [Wat Ik Met Je Moet](https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF) | 3:00 |
+| 69 | [Wat Ik Met Je Moet](https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM) | [Amber Delil](https://open.spotify.com/artist/1vEHJYnp7FQ27RGabDTasf) | [Wat Ik Met Je Moet](https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF) | 3:00 |
 | 70 | [Glaasje of 2](https://open.spotify.com/track/608bP3vB7pwjatfREMItX6) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Glaasje of 2](https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j) | 2:03 |
 
-Snapshot ID: `MCw5OTkyM2I4MjAyM2FkZGY5OGQzOWU3MDA2NTgzNDlhZjQ0NTAzY2M5`
+Snapshot ID: `MCxlM2I2ZmYxNDI1ODhlMTY0YjdkYzlkOTM1OTE3NjYxNWJkNTliYWVm`

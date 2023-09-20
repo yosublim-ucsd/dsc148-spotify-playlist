@@ -588,6 +588,24 @@
     {
       "album": {
         "name": "Medicine Man",
+        "url": "https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273035,
+      "name": "Come Back Down",
+      "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
+    },
+    {
+      "album": {
+        "name": "Medicine Man",
         "url": "https://open.spotify.com/album/6nmGkTVbK3Vcq4GFELHynr"
       },
       "artists": [
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 206733,
       "name": "Mamas Don't Let Your Babies Grow Up to Be Cowboys",
       "url": "https://open.spotify.com/track/2SSHYzoxRsFosKl81KRFz7"

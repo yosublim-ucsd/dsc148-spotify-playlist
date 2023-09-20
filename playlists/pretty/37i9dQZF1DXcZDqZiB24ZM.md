@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,152 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,159 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 59 | [Tangerine](https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Hôtel délices](https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML) | 3:28 |
 | 60 | [Trapstar](https://open.spotify.com/track/2i29UScUVmzuZ4mhWotgLz) | [Kino](https://open.spotify.com/artist/4LuwAd3rQxluIiUcTlfvBe) | [Trapstar](https://open.spotify.com/album/5KveGzyuZCwSROPbHseoAi) | 3:07 |
 | 61 | [Entre toi et moi](https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8) | [Silence de mort](https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU) | 3:09 |
-| 62 | [Basilic](https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8) | [Qualité Motel](https://open.spotify.com/artist/6GZTbbzfV1dP2hCgUcDynC), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Curieux Bégin](https://open.spotify.com/artist/0YBkOnbAd0384Cis3ur3HO), [Vinny Bombay](https://open.spotify.com/artist/1a20rLp5UIw3OOwYrL0jaH), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [C'est pas la qualité qui compte](https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX) | 2:39 |
-| 63 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 |
+| 62 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 |
+| 63 | [Basilic](https://open.spotify.com/track/1yjWkxCO8FVKX9ETBpw3X8) | [Qualité Motel](https://open.spotify.com/artist/6GZTbbzfV1dP2hCgUcDynC), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Curieux Bégin](https://open.spotify.com/artist/0YBkOnbAd0384Cis3ur3HO), [Vinny Bombay](https://open.spotify.com/artist/1a20rLp5UIw3OOwYrL0jaH), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [C'est pas la qualité qui compte](https://open.spotify.com/album/3Xz40mydponIZHMBubJsSX) | 2:39 |
 | 64 | [On Fouette](https://open.spotify.com/track/70MAMZj0aeCAq3duYgngsn) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Soft](https://open.spotify.com/artist/24tG8onRIqNr5bFhVkROUF) | [51tr4p Fr4p50](https://open.spotify.com/album/2F8K3bOEdbX9xh6g9EX5uG) | 3:46 |
 | 65 | [Non Merci](https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC) | [Corops](https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s) | [Non Merci](https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA) | 3:31 |
 | 66 | [Légendaire](https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [ÉlévaZIIION \(Société distincte\)](https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8) | 4:53 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 81 | [Faits d'hiver](https://open.spotify.com/track/6wmeVIUvh2z2jqdWdXJROb) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Faits d'hiver](https://open.spotify.com/album/1EQPa4FED7g3dPTZUzXTaK) | 3:03 |
 | 82 | [Faya](https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Faya](https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87) | 3:56 |
 | 83 | [Univers parallèle](https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Le set up](https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc) | 2:38 |
-| 84 | [Henny](https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Henny](https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z) | 3:47 |
-| 85 | [Otages](https://open.spotify.com/track/60hrnV0JCmsw9CNrMus0Vb) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:45 |
+| 84 | [Otages](https://open.spotify.com/track/60hrnV0JCmsw9CNrMus0Vb) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:45 |
+| 85 | [Henny](https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Henny](https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z) | 3:47 |
 | 86 | [Fanny](https://open.spotify.com/track/0BcSWXxHuNPq7NVmjeNNOU) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Aujourd'hui ou jamais](https://open.spotify.com/album/1Lyct4vAScJYqZIkar3D2J) | 4:21 |
 | 87 | [Gucci](https://open.spotify.com/track/2O0VHBHWmfpp5Qy8CguLQI) | [SB](https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG) | [Gucci](https://open.spotify.com/album/3aSD0RiBSjaKUYcUR45zrs) | 3:31 |
 | 88 | [Paranoia](https://open.spotify.com/track/2jnNLZ4GcmstGoS0d591jD) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Paranoia](https://open.spotify.com/album/0ce1MQn7HJBr1OPyJOoDB3) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Loin](https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:33 |
 | 100 | [J'roule dans la ville](https://open.spotify.com/track/60BJ8gT3S4NU55dck0yhDo) | [JTReal](https://open.spotify.com/artist/3LLK1zSKPj65PCnakZCYy1) | [JSN](https://open.spotify.com/album/1YLzFhrjYlmRXxsQZeHEY6) | 4:53 |
 
-Snapshot ID: `MCwzNmQzZDM5OTQzMzc0Njk1NDA3NDY2NjI1MmMyNDFhMGNlZmJlMTU4`
+Snapshot ID: `MCxlMWFiNTU1NDViNDg3Y2JmNWQ0YmYwNDhjYjQ5YmIzNGUzNGE0MWZk`

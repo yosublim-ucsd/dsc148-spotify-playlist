@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Coogie\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-642 songs - 1 day 10 hr 51 min
+643 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [MAGIC!](https://open.spotify.com/track/7J7zXMRJjA8Xcz02EHLwxJ) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:59 | 2023-02-16 | 2023-06-11 |
 | [Make A Fool](https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [KEYMAKER](https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t) | [Make A Fool](https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0) | 3:39 | 2022-12-13 | 2023-01-22 |
 | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/track/4nEJDV6OOOww5gucLVgmZY) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Make It Up \(Feat\. twlv\)](https://open.spotify.com/album/2jSpSqvYB1Us8C1HYmNG3I) | 2:41 | 2022-04-21 | 2022-07-19 |
-| [Make Love \(Feat\. Zion.T\)](https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 2:34 | 2022-04-01 |  |
+| [Make Love \(Feat\. Zion.T\)](https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 2:34 | 2022-04-01 | 2023-09-20 |
 | [Man in the mirror](https://open.spotify.com/track/58qmDZFkUSf2IiDVJYodgH) | [MALO](https://open.spotify.com/artist/1GpnEcGb1GXE5jD0iyThM1), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [Man in the mirror](https://open.spotify.com/album/4xSDnQ6FdVSe5won1iyv0I) | 3:34 | 2022-04-01 | 2022-04-21 |
 | [Margiela \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3PwWle1uaXwtaxDcXn75ue) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [\[ Rorschach \] Part 1](https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ) | 3:09 | 2023-06-20 | 2023-08-17 |
 | [Mart Invader](https://open.spotify.com/track/0dCKPWSmorx6OEW1PLcTF5) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mart Invader](https://open.spotify.com/album/7pRaiXDCEMFZxJKTL2Mjbj) | 2:42 | 2022-06-13 | 2022-07-11 |
@@ -601,6 +601,7 @@
 | [V](https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:47 | 2022-07-24 |  |
 | [Vacay](https://open.spotify.com/track/3qPp8Dy1KYZdD059R2bVO5) | [Huh Jee](https://open.spotify.com/artist/0ARg9qdulwmEPzlG0KMKEy) | [Vacay](https://open.spotify.com/album/2jffJcDuPmJQphyqO3iGGI) | 2:40 | 2022-07-13 | 2022-07-15 |
 | [Vancouver](https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:36 | 2022-06-18 |  |
+| [Vancouver 2](https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Vancouver 2](https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq) | 3:22 | 2023-09-19 |  |
 | [Venus](https://open.spotify.com/track/2aLH4EiEoZLpbeEQvTBbtH) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:16 | 2022-04-01 | 2022-07-29 |
 | [vicious circle \(Feat\. Rei, Lil Kintexx\)](https://open.spotify.com/track/6AnMuoMXMsaNq6TiWuwip4) | [KANGXIHO](https://open.spotify.com/artist/3llwzHsnLXfNZM2WHBIKSE), [Rei](https://open.spotify.com/artist/3pyrfwmUGt2MIRbhMY8iar), [Lil Kintexx](https://open.spotify.com/artist/05GiFsy2bdPTpl3oyJyZic) | [19LOVed](https://open.spotify.com/album/4T7Z9Do7P0gpf46Uy1AW71) | 3:15 | 2022-10-14 | 2022-10-29 |
 | [Waiting For You \(feat\. Jay Park\)](https://open.spotify.com/track/0nC94WBww2j23UVqWCIq12) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 3:02 | 2023-02-24 | 2023-07-07 |

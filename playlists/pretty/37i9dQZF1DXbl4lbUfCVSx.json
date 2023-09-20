@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 28280,
+  "num_followers": 28296,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDQ5MDEwZjU0YzhiMzU2NTdhYjk2YTAwNTBjN2YzMTMyNjk2MDNk",
+  "snapshot_id": "MCxiMjNjZDA0ZDU1MTY3MDRjZWNmZTQyZDMyYTMyNGZlYWZlNTM4Njc0",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Zouk soir\u00e9e priv\u00e9e (Danse avec moi)",
-        "url": "https://open.spotify.com/album/0Y0PGUE8JK9gE83cy1uNRR"
-      },
-      "artists": [
-        {
-          "name": "Djakout Mizik",
-          "url": "https://open.spotify.com/artist/6V5n3LkJ2sTG6PfvnSjRPe"
-        }
-      ],
-      "duration_ms": 394031,
-      "name": "Biznis pam",
-      "url": "https://open.spotify.com/track/5iMDhnh4tktnIeOCDHHgOH"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "She's a Freak",
         "url": "https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ"
       },
@@ -667,18 +651,38 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "No Dead End",
-        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
+        "name": "Zouk soir\u00e9e priv\u00e9e (Danse avec moi)",
+        "url": "https://open.spotify.com/album/0Y0PGUE8JK9gE83cy1uNRR"
       },
       "artists": [
         {
-          "name": "Zenglen",
-          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
+          "name": "Djakout Mizik",
+          "url": "https://open.spotify.com/artist/6V5n3LkJ2sTG6PfvnSjRPe"
         }
       ],
-      "duration_ms": 316706,
-      "name": "Grev B\u00e8b\u00e8",
-      "url": "https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I"
+      "duration_ms": 394031,
+      "name": "Biznis pam",
+      "url": "https://open.spotify.com/track/5iMDhnh4tktnIeOCDHHgOH"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Ha\u00efti Twoubadou Volume 1",
+        "url": "https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA"
+      },
+      "artists": [
+        {
+          "name": "Jacques Sauveur Jean",
+          "url": "https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e"
+        },
+        {
+          "name": "Fabrice Rouzier",
+          "url": "https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Lanmou Doudou",
+      "url": "https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

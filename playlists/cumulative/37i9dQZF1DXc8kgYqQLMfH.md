@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,040 songs - 1 day 15 hr 14 min
+1,041 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Jazz Boutique](https://open.spotify.com/track/41hMDzsdeWD9lt3N4aXKZb) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Jazz Boutique](https://open.spotify.com/album/02cTbjytd1KkMFlnHqxIqP) | 2:26 | 2023-04-20 |  |
 | [Jazz Notes](https://open.spotify.com/track/1586Yd50L4n7EIp3Mhg8mh) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd) | [Jazz Notes](https://open.spotify.com/album/1Afni32J8Jk4PgeEX0GrJ7) | 2:29 | 2022-11-25 |  |
 | [Jazz Notes](https://open.spotify.com/track/53r5ab959W328twV4P5p9v) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd) | [Jazz Notes](https://open.spotify.com/album/08I5CwGgfg1AlXgTz19mkd) | 2:29 | 2022-06-03 | 2022-11-27 |
+| [Jazzy Whispers](https://open.spotify.com/track/5T5Nn55hw5SMXc0RcJ7C9c) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Jazzy Whispers](https://open.spotify.com/album/2b0t9Qo8OZ6wtUqE5VBaOu) | 2:32 | 2023-09-15 |  |
 | [Jenas](https://open.spotify.com/track/0XkQ0VrK0QGOn9wGiHVwi6) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Jenas](https://open.spotify.com/album/2vFTj0brF8oaVUnRt2qeFD) | 3:25 | 2021-11-10 | 2022-11-12 |
 | [Joy](https://open.spotify.com/track/04mMnql6iLjWKZRMQERc6W) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Joy](https://open.spotify.com/album/5EHuwXPclpQFfGqempcyUO) | 3:00 | 2022-04-15 | 2022-12-10 |
 | [Joy Fever](https://open.spotify.com/track/75qMg1eAv39k3FOwMcaAsJ) | [Blue Motyl](https://open.spotify.com/artist/0xOHCFbX8RDbK6CHogBjfS) | [Joy Fever](https://open.spotify.com/album/34GqgZ2dZ2ewfyK1kIiNpA) | 1:42 | 2021-11-10 | 2022-06-03 |
@@ -943,7 +944,7 @@
 | [Timeless](https://open.spotify.com/track/29fn9cpQP5bXvTOQiJrUfq) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Timeless](https://open.spotify.com/album/3GhCdZi59qYMUNbHTvDdsp) | 2:21 | 2023-05-19 |  |
 | [Timeless](https://open.spotify.com/track/6epDGLTCI0KOpD7HSBzPzu) | [lst drm](https://open.spotify.com/artist/0qH83ejjkT1p7O0uycoATV) | [Timeless](https://open.spotify.com/album/4beFepAnVacM0fjkXfkOMs) | 1:54 | 2022-07-29 | 2023-04-28 |
 | [timelines](https://open.spotify.com/track/2LjJ2TIZe9mz4POiqUyxif) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [timelines](https://open.spotify.com/album/4v2m6YNbwMtzWDPo4uav5N) | 2:04 | 2023-05-19 |  |
-| [Times](https://open.spotify.com/track/5QmxijgbFyibiRg5cIhbU0) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [Boréale beats](https://open.spotify.com/artist/6YB3HSDrQPTcmpr99c1Z7t), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Times](https://open.spotify.com/album/5utbvyCPQMZ9n0yso8gnBy) | 1:40 | 2023-09-15 |  |
+| [Times](https://open.spotify.com/track/5QmxijgbFyibiRg5cIhbU0) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [Boréale beats](https://open.spotify.com/artist/6YB3HSDrQPTcmpr99c1Z7t), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Times](https://open.spotify.com/album/5utbvyCPQMZ9n0yso8gnBy) | 1:40 | 2023-09-15 | 2023-09-20 |
 | [To The Wind](https://open.spotify.com/track/7taHveMP7mwK40qDQhMwzC) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [To The Wind](https://open.spotify.com/album/31JdcI3X2p0mLcponFQWE8) | 2:42 | 2022-11-11 |  |
 | [Together Forever](https://open.spotify.com/track/1mCSKfOZe7cC89WwmE0Vbz) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Together Forever](https://open.spotify.com/album/7kcSXWZwsXZ4f7fz0DmI49) | 3:29 | 2022-12-09 |  |
 | [Tomorrow is Sunday](https://open.spotify.com/track/2zXsYFayncayYEELOLAOhp) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Tomorrow is Sunday](https://open.spotify.com/album/7gglwXbNRMFofr1efCBe3P) | 2:11 | 2022-04-08 | 2022-12-10 |

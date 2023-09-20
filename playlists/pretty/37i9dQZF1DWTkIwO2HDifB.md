@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Let's Go 4 e os funks mais 🔑 do Brasil\. Foto: Mc IG, MC PH, MC Ryan SP, Mc Luki, Mc Davi, Mc Don Juan, Mc Kadu, MC GH do 7, MC GP, TrapLaudo, Dj GBR
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,967,906 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,970,209 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 46 | [Aquecimento Senta Senta Suave](https://open.spotify.com/track/5WsM6qhZzRSD3oKbtorxzD) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [BUARQUE](https://open.spotify.com/artist/20MbZeDJcbXxkcZWumh9rC) | [Tamborzão Raiz](https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW) | 2:32 |
 | 47 | [Boca de Mel](https://open.spotify.com/track/7yYrG1nIPeZdLoA9tfU8LL) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Boca de Mel](https://open.spotify.com/album/58VlvfWrlru69qoGW4GEvz) | 2:04 |
 | 48 | [Let's Go 3 \(feat\. MC Marks, Mc Don Juan, MC PH, Mc Luki, Mc Paiva ZS, MC GP & Makalo\)](https://open.spotify.com/track/6kNZdlmjH4BQnSUfHeJIuc) | [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Makalo](https://open.spotify.com/artist/3UN5sCtgFEyrkxMQ7oFUKk) | [Let's Go 3 \(feat\. MC Marks, Mc Don Juan, MC PH, Mc Luki, Mc Paiva ZS, MC GP & Makalo\)](https://open.spotify.com/album/5fsKZ4LG33vaIiw5Ura5Hd) | 8:28 |
-| 49 | [Maçã Verde](https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Avisa que é o Funk](https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh) | 2:44 |
+| 49 | [Maçã Verde](https://open.spotify.com/track/7lJoRyuNJtuiqTcKtuMuIR) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Avisa que é o Funk](https://open.spotify.com/album/2jsCve1xB2Gi5fag004Wsh) | 2:44 |
 | 50 | [Pagodeiro](https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF) | [Pagodeiro](https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR) | 7:38 |
 
-Snapshot ID: `MCxhOTI3MTdlYzFlM2YzMmIzZTI0ZWYyMzMxYWM5Yzc5NTYxMTAzNDc4`
+Snapshot ID: `MCwxMjA4ZTYwZWZhMDNjNTBhZjg4NzBkOTUwMTI5YWY4MWI1YTVlYWE3`

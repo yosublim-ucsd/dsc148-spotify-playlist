@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Black Star",
-  "num_followers": 428435,
+  "num_followers": 428720,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjI2OTA5YTJlY2E3NTEyNjMxOWU5ODMyNjRiNjVmNDUzOTdiM2Vi",
+  "snapshot_id": "MCxlZDg0NDQ2ZjM0OTM5NjM5NDU1NDljNDAzOThhYmY4MmE4YmQ4YTQ3",
   "tracks": [
     {
       "added_at": "2023-09-01 20:13:37",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-01 20:13:37",
       "album": {
-        "name": "Game Tight",
-        "url": "https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M"
-      },
-      "artists": [
-        {
-          "name": "Bad Meets Evil",
-          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
-        }
-      ],
-      "duration_ms": 225253,
-      "name": "Scary Movies",
-      "url": "https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD"
-    },
-    {
-      "added_at": "2023-09-01 20:13:37",
-      "album": {
         "name": "A Long Hot Summer",
         "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 226866,
       "name": "Good Ol Love",
       "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
+    },
+    {
+      "added_at": "2023-09-01 20:13:37",
+      "album": {
+        "name": "Game Tight",
+        "url": "https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M"
+      },
+      "artists": [
+        {
+          "name": "Bad Meets Evil",
+          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+        }
+      ],
+      "duration_ms": 225253,
+      "name": "Scary Movies",
+      "url": "https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD"
     },
     {
       "added_at": "2023-09-01 20:13:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-01 20:13:37",
       "album": {
-        "name": "Things Fall Apart",
-        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "100% Dundee",
-      "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
-    },
-    {
-      "added_at": "2023-09-01 20:13:37",
-      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 307133,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt"
+    },
+    {
+      "added_at": "2023-09-01 20:13:37",
+      "album": {
+        "name": "Things Fall Apart",
+        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "100% Dundee",
+      "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
     },
     {
       "added_at": "2023-09-01 20:13:37",

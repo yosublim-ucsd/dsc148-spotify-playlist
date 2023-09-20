@@ -2171,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Have 'Twangy' Guitar Will Travel",
+        "url": "https://open.spotify.com/album/3SHjc6o1z9gxpCcqB6OZ6R"
+      },
+      "artists": [
+        {
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143626,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/35ySEC3RyS1w36bkpgj1lT"
+    },
+    {
+      "album": {
         "name": "Twangy Guitar",
         "url": "https://open.spotify.com/album/0mvf51wLOb54DvwStywQHl"
       },
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 152026,
       "name": "Rockabilly Guy",
       "url": "https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl"

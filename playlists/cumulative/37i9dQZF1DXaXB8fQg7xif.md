@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,007 songs - 2 day 6 hr 36 min
+1,008 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [Monday Kind of Tuesday](https://open.spotify.com/track/6V8UEh7aSmuh1qxe1HnNnE) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Monday Kind of Tuesday](https://open.spotify.com/album/3UH4jh4TcxS2Iyk1EAHVgj) | 2:22 | 2022-04-15 | 2022-07-29 |
 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 | 2023-05-26 | 2023-06-06 |
 | [MONEY ON THE DASH \- Diplo Remix](https://open.spotify.com/track/5J8LKvW84WII4ZzOz0zAQf) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [MONEY ON THE DASH \- Diplo Remix](https://open.spotify.com/album/6tQbwu7HWigKSOVuQOa0os) | 3:43 | 2023-06-05 | 2023-07-08 |
+| [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2023-09-15 |  |
 | [More Love](https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [More Love](https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx) | 3:11 | 2022-08-26 | 2023-05-27 |
 | [More Than You Know](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:23 | 2020-05-22\* | 2020-10-13 |
 | [Morenita](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita](https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW) | 2:56 | 2021-08-12 | 2023-02-18 |
@@ -772,7 +773,7 @@
 | [San Frandisco](https://open.spotify.com/track/3T00mhdOYUuM5yiuPs3xhs) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/1yvc0dwbzh1nGEBk6rOZoc) | 3:05 | 2022-07-14 | 2022-09-15 |
 | [San Frandisco](https://open.spotify.com/track/4KrATQEoEbKAAY7j0kMDBl) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/66IfXKLEgsVPqwElkk8aeP) | 3:05 | 2020-05-22\* | 2022-07-29 |
 | [Saturation](https://open.spotify.com/track/1B8mCijpw9ItgJcOqWn2Dq) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Saturation EP](https://open.spotify.com/album/5N07AHUNsDWtPEoVLbFXBb) | 2:53 | 2020-12-27 | 2021-03-23 |
-| [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 | 2023-05-26 |  |
+| [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 | 2023-05-26 | 2023-09-20 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-05-13 | 2022-08-15 |
 | [Save the Rave](https://open.spotify.com/track/0mxjKriHsdi8zKiBTWIOrT) | [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [MureKian](https://open.spotify.com/artist/4UhhnJQyqAsw82qwRNCU7R), [Sabrina Signs](https://open.spotify.com/artist/30XgRdKEsS1c8RkOYYiTbu) | [Save the Rave](https://open.spotify.com/album/5M5Rx6ZeoZgX1jpJ62d6t6) | 3:37 | 2020-05-22\* | 2021-12-21 |
 | [Sax In The City](https://open.spotify.com/track/7hBW4xLLxjcg6cEPFCznD8) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Sax In The City](https://open.spotify.com/album/7x5gVB98UKkoG2hceZL8a9) | 2:52 | 2020-11-03 | 2021-12-03 |

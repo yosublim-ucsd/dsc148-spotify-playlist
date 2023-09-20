@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-184 songs - 8 hr 12 min
+185 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Pretty Bad Blues](https://open.spotify.com/track/52wE6uoCiiMGApFVqKy2JY) | [Ronnie Self](https://open.spotify.com/artist/5uGILxxiSWMniB1B4FpmOS) | [Debut Recordings](https://open.spotify.com/album/1dWl4T3dwulIxTFzJ2xaZO) | 2:09 | 2022-05-06 | 2022-07-17 |
 | [Promised Land](https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Promised Land](https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo) | 3:08 | 2022-05-06 |  |
 | [Really Rockabilly](https://open.spotify.com/track/3VZ59HoBq4xF4yPYJMM770) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [13](https://open.spotify.com/album/3t4DYTSB6VzmmkIpr2gAlj) | 3:07 | 2022-05-06 | 2022-07-29 |
+| [Rebel Rouser](https://open.spotify.com/track/35ySEC3RyS1w36bkpgj1lT) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [Have 'Twangy' Guitar Will Travel](https://open.spotify.com/album/3SHjc6o1z9gxpCcqB6OZ6R) | 2:23 | 2023-09-14 |  |
 | [Rebel Rouser](https://open.spotify.com/track/0Efs1YYiqSm9hDbCEt7tmp) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [Twangy Guitar](https://open.spotify.com/album/0mvf51wLOb54DvwStywQHl) | 2:25 | 2022-05-06 | 2022-07-29 |
 | [Rebel Rouser](https://open.spotify.com/track/7jZwak3w1Sbwkb8aqusUwi) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [Twangin' The Golden Hits](https://open.spotify.com/album/5Q1rt5amRpPHzxAQnJkmd0) | 2:33 | 2022-07-05 | 2023-09-15 |
 | [Red Cadillac And A Black Moustache](https://open.spotify.com/track/3GehJ8OZucZbEYmoB8fFRb) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [Rockabilly Sunset](https://open.spotify.com/album/75Arzpfai83IJjlYWZwGwG) | 2:35 | 2022-05-06 | 2022-07-28 |
@@ -148,7 +149,7 @@
 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 | 2022-05-06 | 2022-11-14 |
 | [Rockabilly Banjo](https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Gotta Have The Rumble](https://open.spotify.com/album/642jWZ7p8JKY7s5biYPK5o) | 3:13 | 2022-05-06 | 2022-07-28 |
 | [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 | 2022-05-06 | 2022-07-29 |
-| [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 | 2022-09-02 |  |
+| [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 | 2022-09-02 | 2023-09-20 |
 | [Rockabilly Music](https://open.spotify.com/track/19BdP6aAgXHPLIciPpp2se) | [Ray Campi](https://open.spotify.com/artist/1dCuGaCG60TlWCLjFJ69N3) | [Hollywood Cats](https://open.spotify.com/album/4p0KnYi1AI7t7VnK3nPptK) | 1:56 | 2022-05-06 | 2022-07-25 |
 | [Rockabilly Music](https://open.spotify.com/track/4xYBy6RwEKICh1uOF4btL1) | [Ray Campi](https://open.spotify.com/artist/1dCuGaCG60TlWCLjFJ69N3) | [The Hollywood Cats](https://open.spotify.com/album/1VdfOWvihZbRkJGy34NXkk) | 1:56 | 2022-09-02 | 2022-11-13 |
 | [Rockabilly Rebel](https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT) | [Hillbilly Hellcats](https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB) | [Our Brand](https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz) | 2:29 | 2022-05-06 |  |

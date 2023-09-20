@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
@@ -3607,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "Can't fight it EP",
+        "url": "https://open.spotify.com/album/2w0pyZWuwKbvMt6eJMWPmL"
+      },
+      "artists": [
+        {
+          "name": "Fehrplay",
+          "url": "https://open.spotify.com/artist/6HcVFayEV6B5xgp59WXKbF"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281500,
+      "name": "Can't fight it",
+      "url": "https://open.spotify.com/track/2qXREy7gASBMGnE6JQctmh"
+    },
+    {
+      "album": {
         "name": "Stj\u00f6rnul\u00edfi\u00f0",
         "url": "https://open.spotify.com/album/0jEfYrVeezQTikNmZTHzQE"
       },
@@ -4674,7 +4692,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "D.N.D.",
       "url": "https://open.spotify.com/track/2VwCWeNBekU08ls7YbxJRL"
@@ -6078,7 +6096,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY"
@@ -8026,7 +8044,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -14294,7 +14312,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 186623,
       "name": "Letters From The Past",
       "url": "https://open.spotify.com/track/1h5ac7iBaSOFknqPf0W4li"
@@ -19784,7 +19802,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
@@ -26494,7 +26512,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 194127,
       "name": "Vinn Vi\u00f0 \u00dea\u00f0",
       "url": "https://open.spotify.com/track/0yecDQdx8NxpvcswRJM6uh"

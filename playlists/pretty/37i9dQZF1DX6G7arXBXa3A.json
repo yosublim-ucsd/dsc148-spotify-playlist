@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 389620,
+  "num_followers": 389672,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRlYjcxZjEyNGVmNmM3MGZkZmFjNTQyNGFmNjNjMDU0MTU4Mzgw",
+  "snapshot_id": "MCxjZjM1MGNhNzgyNGY2NTQyMGExM2Y5NGFjMTk5ODM1MjgyOTVmNWFh",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -429,7 +429,7 @@
         }
       ],
       "duration_ms": 171666,
-      "name": "Lullaby of Broadway (with Harry James & His Orchestra) - Version 2",
+      "name": "Lullaby of Broadway - Version 2",
       "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
     },
     {
@@ -885,24 +885,20 @@
       "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
+      "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Everybody's Talking",
-        "url": "https://open.spotify.com/album/0b9Rn4o1UbsyW3rM4qR8tg"
+        "name": "Exotic Sounds from a Space Age Bachelor Pad",
+        "url": "https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0"
       },
       "artists": [
         {
-          "name": "Dutty Moonshine Big Band",
-          "url": "https://open.spotify.com/artist/2aRD3jAqJXXE6luSkvLp3W"
-        },
-        {
-          "name": "Greg Blackman",
-          "url": "https://open.spotify.com/artist/7r75JahMqaqUitdEipf65c"
+          "name": "Bob Florence Big Band",
+          "url": "https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI"
         }
       ],
-      "duration_ms": 176529,
-      "name": "Everybody's Talking",
-      "url": "https://open.spotify.com/track/40JozCcMFdIbiqwjqu2iCc"
+      "duration_ms": 101882,
+      "name": "Moonlight on the Ganges",
+      "url": "https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO"
     }
   ],
   "unique_name": "Big Band",

@@ -4,7 +4,7 @@
 
 > Kids music from Disney, CoComelon, Nickelodeon, and more! Find new tracks and familiar favorites on this kids music playlist, and check back each week for more!
 
-151 songs - 6 hr 9 min
+152 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Are You Ready To Rock](https://open.spotify.com/track/68uRn5hfyRhOGTdf2qYSLL) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [School of Rock Cast](https://open.spotify.com/artist/4K0OM7fVHVhfMNfMklEwaa) | [School of Rock \(Original Music from the Series\)](https://open.spotify.com/album/3SsHDfRaZOQqsnEYudPV4C) | 1:56 | 2023-01-30 |  |
 | [Baby Animals Dance](https://open.spotify.com/track/2dWIX6bnShOvLds71mxLli) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits Vol\. 12](https://open.spotify.com/album/5v59BIsYXNxBsjIvwVBDRC) | 2:41 | 2023-03-26 | 2023-06-12 |
 | [Baby Shark](https://open.spotify.com/track/7zD97mcPo9fng0aJqUhFvd) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon](https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn) | 2:07 | 2023-08-26 |  |
+| [Bark to the Beat \(with blackbear\) \[From PAW Patrol: The Mighty Movie\]](https://open.spotify.com/track/5k0Vd1kLeUFRozn6GiC8m1) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Bark to the Beat \(with blackbear\) \[From PAW Patrol: The Mighty Movie\]](https://open.spotify.com/album/3hu5KuXIyZSuK02jA80jVI) | 2:03 | 2023-09-19 |  |
 | [Be A Firebud \- From "Disney Junior Music: Firebuds"](https://open.spotify.com/track/11IfD973wh91iYe4AH0lfP) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Be A Firebud \(From "Disney Junior Music: Firebuds"\)](https://open.spotify.com/album/34YGWg1HdUBeTSxgF9vwVe) | 2:30 | 2023-07-24 |  |
 | [Beach Safety Song](https://open.spotify.com/track/3k0zQw6ue4lPiToUbCu9Cz) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue’s Clues & You Nursery Rhymes Vol\. 5](https://open.spotify.com/album/1de75DlGSlGkTZ5fRGNWlu) | 3:20 | 2023-06-25 |  |
 | [Best Dress](https://open.spotify.com/track/3EvUbBdAytE6Cywr1OZGLx) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Best Dress](https://open.spotify.com/album/2mcs399XGsrglhADN0KJ9u) | 3:11 | 2022-05-27 | 2022-10-26 |
@@ -125,7 +126,7 @@
 | [Sunny Day \- Hope](https://open.spotify.com/track/0F2oxMOVBd0gyr7AmW789L) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Sunny Day \(Hope\)](https://open.spotify.com/album/584vzUonyxCAmQwmj9rOpr) | 3:39 | 2023-06-19 |  |
 | [SuperKitty Call](https://open.spotify.com/track/7sNz8djgmg2wkZMN9ozQPv) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI) | 2:04 | 2023-01-16 | 2023-08-22 |
 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 | 2023-09-18 |  |
-| [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-10-25 |  |
+| [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-10-25 | 2023-09-20 |
 | [The Aquathawn](https://open.spotify.com/track/1HPcXGieyMTYa1ZSbpHEWy) | [Star Trek Prodigy](https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7), [Nami Melumad](https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF) | [Star Trek Prodigy \(Original Music from the Series\)](https://open.spotify.com/album/3LMZkP2NFjVzNVqpIr9DlD) | 2:26 | 2022-11-07 | 2022-12-06 |
 | [The Doc Is 10 \- From "Disney Junior Music: Doc McStuffins"](https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [The Doc Is 10 \(From "Disney Junior Music: Doc McStuffins"\)](https://open.spotify.com/album/3fvHg1d4KnYjg6723pPada) | 2:09 | 2022-10-25 | 2023-09-05 |
 | [The Fairly Odd Parents Theme Song](https://open.spotify.com/track/4yghJ7WGLIOMFbV70QRYKE) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65) | [The Fairly Odd Parents](https://open.spotify.com/album/0TNzN5F4lsxUfnvFBcjI2E) | 0:46 | 2023-01-23 | 2023-07-31 |

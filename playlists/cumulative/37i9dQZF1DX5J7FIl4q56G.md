@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Baroness
 
-4,578 songs - 12 day 21 hr 57 min
+4,579 songs - 12 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3932,6 +3932,7 @@
 | [The Other Side of Anger](https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [The Other Side of Anger](https://open.spotify.com/album/51q4WtjPxILy2mxq8IDbCX) | 4:23 | 2023-08-04 | 2023-08-12 |
 | [The Other Son of Odin](https://open.spotify.com/track/3M48mLjTHfMx6ogQfTVE9r) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [The Other Son of Odin](https://open.spotify.com/album/7lmJX2dNeyIUSGS4Mq7P81) | 3:25 | 2022-03-18 | 2022-03-25 |
 | [The Pain You Desire, The Love You Deserve](https://open.spotify.com/track/6iBkFBlr1pkr8KRZfQalgw) | [Tapestry](https://open.spotify.com/artist/7g3RdpMooENMLtJ60oJ91u) | [The Pain You Desire, The Love You Deserve](https://open.spotify.com/album/4QIzP0h8AgBsXH1opyBfrw) | 4:27 | 2023-08-18 | 2023-08-26 |
+| [The Perfect Memory \(Phantasm of Aura\)](https://open.spotify.com/track/3zMrw4riP8Y0iN8tfce9wB) | [Tomb Mold](https://open.spotify.com/artist/1zFGR4NaBbCDBGwifPKGfM) | [The Enduring Spirit](https://open.spotify.com/album/27vpwk5EXUilPRY06umtHv) | 4:14 | 2023-09-19 |  |
 | [The Perfume of Sins](https://open.spotify.com/track/4UXiSPbxKvaJFxapJBhzXX) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [PHALARIS](https://open.spotify.com/album/6UwjEa3d5izqJbyieLVXRj) | 4:18 | 2022-06-17 | 2022-06-24 |
 | [The Phoenix Died \(Remember\)](https://open.spotify.com/track/77nZedwqUW6k0KnbPv5xeM) | [Winterstorm](https://open.spotify.com/artist/61830nPl3j2Nw2R2X72ihn) | [The Phoenix Died \(Remember\)](https://open.spotify.com/album/62bxrmnkhhc2bsADsxJSxE) | 5:47 | 2023-05-05 | 2023-05-13 |
 | [The Place To Be](https://open.spotify.com/track/5UDYXYlHhoRWpAvJrAubtq) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [The Place To Be](https://open.spotify.com/album/1sjnl8bQg2G3VacyJvy2wx) | 3:45 | 2022-04-29 | 2022-05-06 |

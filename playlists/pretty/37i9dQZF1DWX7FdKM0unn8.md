@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,371 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,414 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 3 | [비처럼 음악처럼](https://open.spotify.com/track/6zMH0UAFuLt4JXVuEUIygG) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY) | 4:37 |
 | 4 | [나 항상 그대를](https://open.spotify.com/track/3M0WcSADmchmaHOpTu3E2q) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [4집 사랑이 지는 이 자리](https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln) | 3:36 |
 | 5 | [너의 의미](https://open.spotify.com/track/49uWXkinbydcksyObKqNVH) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [산울림 제10집 \- 너의 의미](https://open.spotify.com/album/5B9oqFQy4vx5k03d8Y7nzl) | 3:44 |
-| 6 | [슬픈 인연 Original Version](https://open.spotify.com/track/0EIaR2py9XXUW4DMLx4BNk) | [나미](https://open.spotify.com/artist/50h2tBXWxIdL1ol9zowwyp) | [A Long Winter](https://open.spotify.com/album/2DdP0Cgsc1hYozWTgB7ajy) | 4:34 |
+| 6 | [슬픈 인연](https://open.spotify.com/track/0EIaR2py9XXUW4DMLx4BNk) | [NAMI](https://open.spotify.com/artist/41UwSuVCpnYFARIqfKoEG5) | [A Long Winter](https://open.spotify.com/album/2DdP0Cgsc1hYozWTgB7ajy) | 4:34 |
 | 7 | [당신은 모르실꺼야](https://open.spotify.com/track/51TasCMfQcoYiRvquIpF1S) | [혜은이](https://open.spotify.com/artist/0wpePehw25BtABst49wTMa) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/2TmEaBdiKg26EcCiAvAYao) | 3:16 |
 | 8 | [사랑일기](https://open.spotify.com/track/5NA0wgvnUinGTFdT3p5tnD) | [Towner & Town Chief](https://open.spotify.com/artist/3Qm5uwdUYz6Bz64XOqsiYD) | [푸른 돛](https://open.spotify.com/album/5ka1jbuOzofnAJUs5p02SQ) | 4:30 |
 | 9 | [텅 빈 마음 Empty Heart](https://open.spotify.com/track/4KiYPYpm4ultIp247ftPlI) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 58 | [보고싶은 마음](https://open.spotify.com/track/320SvnJLfvCnIC5rx0hgZ9) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 4:06 |
 | 59 | [돌아와요 부산항에](https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [돌아와요 부산항에 / 정](https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE) | 2:44 |
 
-Snapshot ID: `MCxjNDg3M2EwNmQ3ZDNiYzhlMzIyNWU5ZTYzNjU3YjIxNjlhYzU3YmY3`
+Snapshot ID: `MCw5M2Y2OTljMzI0YWU1Nzk4NTY5NTU5MjIzNjgzYzMzNzExYzgzOWZi`

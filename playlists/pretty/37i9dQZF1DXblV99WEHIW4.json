@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 209710,
+  "num_followers": 209928,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmU1YWQ4OWIxY2FlYWMzNjc4MTBmZjBjZTBlYzBkODJhYzY0YWMy",
+  "snapshot_id": "MCxkZGZjMDdhMmZhM2IzMDc0MjUyYTEyZmI1YTE0ZTUwNmUxNzRhMTBm",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Californication",
-        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/3CeYdUfGPCjKMDYyI1PpCh"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "A War You Cannot Win",
         "url": "https://open.spotify.com/album/2OhPQMXOtJ00nrffxY9B3W"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 277346,
       "name": "What If I Was Nothing",
       "url": "https://open.spotify.com/track/28urem2KpSOkljclEk8X8G"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Californication",
+        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/3CeYdUfGPCjKMDYyI1PpCh"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "All We Have Is Now",
-      "url": "https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 179756,
       "name": "Pain",
       "url": "https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "All We Have Is Now",
+      "url": "https://open.spotify.com/track/4CUyNgMxAFKFEf1KrbAEbY"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-02-16 19:56:13",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 398026,
-      "name": "Wilt",
-      "url": "https://open.spotify.com/track/6RRz9PNzcc0I9u3zLPXnS8"
-    },
-    {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
         "name": "BUMMER",
         "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 234953,
       "name": "2008",
       "url": "https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 398026,
+      "name": "Wilt",
+      "url": "https://open.spotify.com/track/6RRz9PNzcc0I9u3zLPXnS8"
     },
     {
       "added_at": "2022-08-25 23:00:00",

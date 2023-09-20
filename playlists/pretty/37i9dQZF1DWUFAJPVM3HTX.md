@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2?si=UhHlCfaQTmeXGi\-XvTkm7w">Dayo Bello</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,084 likes - 188 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,165 likes - 188 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 7 | [AMINA](https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [AMINA](https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5) | 2:52 |
 | 8 | [Higher](https://open.spotify.com/track/4hOQL5UxCIBB6IkmgTcrC5) | [Kila G](https://open.spotify.com/artist/2yfTGcoehiKZZnAM6mWU2E) | [Higher](https://open.spotify.com/album/21wQpdYvUS9KML6EqQwH8q) | 4:37 |
 | 9 | [Wink](https://open.spotify.com/track/4GokVaVFSyhO4l1JaTLAdG) | [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Wink](https://open.spotify.com/album/6FDDbNyNlTIP0vuiJqCKfv) | 4:10 |
-| 10 | [Just Breathe](https://open.spotify.com/track/3Ks1XXXAlN36RYbAbFu7ic) | [OURAA](https://open.spotify.com/artist/3bQnpQzxvtefA2xaVzhN0e), [TEE](https://open.spotify.com/artist/46gljNm3xC2Cd14TCOzkyh) | [Just Breathe](https://open.spotify.com/album/7kB0sujUotPyWkE0tVBbJz) | 2:55 |
+| 10 | [Just Breathe](https://open.spotify.com/track/3Ks1XXXAlN36RYbAbFu7ic) | [OURAA](https://open.spotify.com/artist/3bQnpQzxvtefA2xaVzhN0e), [TEE](https://open.spotify.com/artist/43XQwhqV2sklwngvFnJR8Y) | [Just Breathe](https://open.spotify.com/album/7kB0sujUotPyWkE0tVBbJz) | 2:55 |
 | 11 | [Reconnect](https://open.spotify.com/track/5RrKRyu91jJs9l2wFwg7Qp) | [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [Reconnect](https://open.spotify.com/album/3nfVHvD93P3r2sU7tpiZhw) | 3:26 |
 | 12 | [What Do You Do](https://open.spotify.com/track/76To8vko0V30a8PT3q312Z) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [What Do You Do](https://open.spotify.com/album/2kgnbjCeCHMHOsPwxay0ue) | 3:08 |
 | 13 | [Bada Bing!](https://open.spotify.com/track/6btISD6JoVTabNgQgLO13H) | [Miranda Joan](https://open.spotify.com/artist/7AXlH9niNMWttTOT9WX3Xb), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Bada Bing!](https://open.spotify.com/album/3ax3WhIQanR4YrFICiCp00) | 3:03 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 187 | [Love so Sweet](https://open.spotify.com/track/507ZRCsU0kTlDIy6yhud0k) | [Gen Bello](https://open.spotify.com/artist/4ZbEWjblNsCE61flvcbOMs) | [This Again](https://open.spotify.com/album/47Qk48pSUoIIYQNZswyMk8) | 3:48 |
 | 188 | [complicated](https://open.spotify.com/track/4yU9YWG5rNLTfSfGlXMmoO) | [THANKQ](https://open.spotify.com/artist/18V0w2L9TopQYP73r34tE6) | [complicated](https://open.spotify.com/album/144acRFPtkJHcYq8plsV4f) | 2:00 |
 
-Snapshot ID: `MCxkNTU3NGY1MjlmMDJlNDIyZmEwYWM4ZTNiZDc1NDg0YTA4Y2Y4ZDQ3`
+Snapshot ID: `MCxhNWY2YTQ3MWFkM2Y1YWU5ZTBmYjZlNmIwZWYwYTU4ODYwMTc1YWE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes! Cover: KATNUF
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,533 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,558 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 13 | [Birthday](https://open.spotify.com/track/0IsmZ748Rji34ZldN9vPGe) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Birthday](https://open.spotify.com/album/7jH8nFAnYrwAkeDpmdi9vA) | 2:54 |
 | 14 | [Aqua Asia](https://open.spotify.com/track/7oRSL1nhTw5WH3up8D5UFb) | [Romano Santino](https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Aqua Asia](https://open.spotify.com/album/57r6XX5CPmrB4zcYKpbqXM) | 2:50 |
 | 15 | [Temptation](https://open.spotify.com/track/6zGHAuABZTJQwn23m1fgf4) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [New Man](https://open.spotify.com/album/75XStWHKUqPqIRtAYee0Od) | 2:36 |
-| 16 | [EWA EWA](https://open.spotify.com/track/2RLMkYFyNkgABJvNk4nPca) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [EWA EWA](https://open.spotify.com/album/0tFphBLPOSM0o7qtG9KRIV) | 2:15 |
+| 16 | [EWA EWA](https://open.spotify.com/track/70ft08BdXctantaAYo6JEI) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [EWA EWA](https://open.spotify.com/album/4pbXVz5H5Z8fajMzASUtub) | 2:15 |
 | 17 | [Betta Guy](https://open.spotify.com/track/0GoMbFiHdaeI5iHiu2DjaD) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [Betta Guy](https://open.spotify.com/album/1Q5PCsixXRAAof0kGQQemA) | 2:18 |
 | 18 | [Wine](https://open.spotify.com/track/7fkcuw6dSm4qj3qpQDcZBk) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [Wine](https://open.spotify.com/album/086H49iD9n9AmVmH0S3Gns) | 3:17 |
 | 19 | [Domhard](https://open.spotify.com/track/1JLkldM6BAXKPjcnsh3rNT) | [Sick & Nimon](https://open.spotify.com/artist/78oo3JI8z5VDA8voOrA0Tl), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Euro Visie](https://open.spotify.com/album/01nIt5EO52HpWtk3Z7hoYi) | 2:07 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 32 | [Move Ya Body \- Remix](https://open.spotify.com/track/6WJtPnYy2HHhVx6Pb9pU7v) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi) | [Move Ya Body \(Remix\)](https://open.spotify.com/album/1UPwNqmPMBRZEdcxzJC3Nd) | 1:37 |
 | 33 | [Trust Issues](https://open.spotify.com/track/0AHFRN8Cp9qBMFnP7d9LzK) | [Oli Yayo](https://open.spotify.com/artist/4DCi3ihpMPqe9l3D9sGbJI) | [Trust Issues](https://open.spotify.com/album/5Qj2NsWAZ0r6LAsqmQemlV) | 2:14 |
 | 34 | [Tranquilo](https://open.spotify.com/track/31BsqR4z06NKoMnsvsMt5z) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Tranquilo](https://open.spotify.com/album/1fhhzc1jjmeK0n4Nb5I7wL) | 2:56 |
-| 35 | [Mijn alles \- Motafied Beatz Remix](https://open.spotify.com/track/0svAVFM4R1RPguV6u4nux5) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Motafied Beatz](https://open.spotify.com/artist/7Dv61UPzqtzE8zCx34wceI) | [Mijn Alles \(Motafied Beatz Remix\)](https://open.spotify.com/album/5XqcYSSPGlPZPBH5gsyd0U) | 4:20 |
+| 35 | [Mijn Alles \- Motafied Beatz Remix](https://open.spotify.com/track/0svAVFM4R1RPguV6u4nux5) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Motafied Beatz](https://open.spotify.com/artist/7Dv61UPzqtzE8zCx34wceI) | [Mijn Alles \(Motafied Beatz Remix\)](https://open.spotify.com/album/5XqcYSSPGlPZPBH5gsyd0U) | 4:20 |
 | 36 | [Claimen](https://open.spotify.com/track/0vbkHzlC3eSJ2oVaPAR5Kd) | [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Claimen](https://open.spotify.com/album/4A2fPRrxl3ZCxvLPq9VDsD) | 3:45 |
 | 37 | [Lagos](https://open.spotify.com/track/6U4CdtoVCMKf4IWmzuwdJl) | [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V), [Briills](https://open.spotify.com/artist/5IV61MOkv5i5JK0F327AyS) | [Lagos](https://open.spotify.com/album/4pDSiXX8F8BT8zwgWuaaiu) | 2:16 |
 | 38 | [Chérie](https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 3:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 69 | [Love Is Free](https://open.spotify.com/track/4qetc6GDgmlWtGXCclFiD7) | [Smitmeister](https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Love Is Free](https://open.spotify.com/album/7wYYs2EijpabDYlSnC0YwL) | 2:22 |
 | 70 | [Wili](https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Wili](https://open.spotify.com/album/2tPzPwHpkSEEeR2Njo5MQe) | 2:40 |
 
-Snapshot ID: `MCw1NzRjYTc2ZGNkZTVmZTVlNDY1NGI4MjQxZjhmMzE4NzIxNWQzMzMx`
+Snapshot ID: `MCw1NjE0ODEzMDUyZGFiODRjYmNhZDRhYWNjMzQ1NGE1ZjBlMmUyM2Jl`

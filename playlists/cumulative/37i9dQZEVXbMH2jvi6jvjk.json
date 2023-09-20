@@ -914,7 +914,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 351450,
       "name": "Athandwe",
       "url": "https://open.spotify.com/track/7662sEny6elrNILSP7OzQB"
@@ -9532,7 +9532,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 150587,
       "name": "Fuck That",
       "url": "https://open.spotify.com/track/1JMNAsjUFWe24TrGyVdhXa"
@@ -10316,7 +10316,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 429034,
       "name": "Gojasi",
       "url": "https://open.spotify.com/track/0z2QglVOqge7D0Mo7Pqvow"
@@ -13165,6 +13165,32 @@
     },
     {
       "album": {
+        "name": "Permanent Music 3",
+        "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/5EjeN8ChFDW6lRHfrdnW2W"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410847,
+      "name": "IPlan",
+      "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -15010,7 +15036,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 196029,
       "name": "Kill The Noise (feat. Anica & Maglera Doe Boy)",
       "url": "https://open.spotify.com/track/3tP8NGuXar24LPhVAk0ME8"
@@ -15098,7 +15124,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 228936,
       "name": "Know Yourself",
       "url": "https://open.spotify.com/track/6wCbvwag0wNRBbhZuXwVpk"
@@ -15238,7 +15264,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 317176,
       "name": "Kunkra (feat. Xduppy, Shaunmusiq & Ftears)",
       "url": "https://open.spotify.com/track/3js04Z5R4L1ZvtLPopSG8l"
@@ -17944,7 +17970,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -24608,7 +24634,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 157332,
       "name": "See Me Now (feat. Manana)",
       "url": "https://open.spotify.com/track/4pLqwnxv0zY9YrxybidUMh"
@@ -27360,7 +27386,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 185142,
       "name": "Sunset Walks (feat. Tellaman)",
       "url": "https://open.spotify.com/track/7gB8IBw749Jr3ebStCh6ER"
@@ -28080,7 +28106,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -28630,7 +28656,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 189056,
       "name": "This Time (feat. Ami Faku)",
       "url": "https://open.spotify.com/track/1fIXzuAcGq0mZqGkAy5Zs9"
@@ -28944,7 +28970,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 319369,
       "name": "Tjina",
       "url": "https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6"
@@ -31802,7 +31828,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
@@ -32036,7 +32062,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 368620,
       "name": "Wena Dali",
       "url": "https://open.spotify.com/track/4hDjmMljGvNZuYUXw1HWw3"

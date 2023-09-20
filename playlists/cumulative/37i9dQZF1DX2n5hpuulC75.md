@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-137 songs - 8 hr 15 min
+138 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,8 +95,9 @@
 | [Never Meant To Call](https://open.spotify.com/track/5b5wCUEao71E5iME5fPl93) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant To Call](https://open.spotify.com/album/3TZUFqDwQsrmzY5d7cXYdy) | 2:57 | 2019-03-18 | 2022-06-03 |
 | [Never Meant To Call](https://open.spotify.com/track/6EsqBwYeOSZt70H8DAvPNZ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant to Call](https://open.spotify.com/album/6cHSPyCfHzEGfieuGuqFhz) | 2:57 | 2019-03-18 | 2022-10-28 |
 | [Nylon](https://open.spotify.com/track/4PfP4WMGO1ltuffPS27Bll) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Nylon](https://open.spotify.com/album/3F5itcyJtIPXSaMjrY0jao) | 4:14 | 2018-12-11 | 2022-07-29 |
-| [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 | 2018-12-11 |  |
+| [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 | 2018-12-11 | 2023-09-20 |
 | [Our Story](https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1) | 2:25 | 2018-12-11 | 2023-07-06 |
+| [Our Story](https://open.spotify.com/track/3Q2L3ElOwMYki1aEV5kBQw) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/0id4OAtEVPbvZHLuTErrF0) | 2:25 | 2018-12-11 |  |
 | [Our Story](https://open.spotify.com/track/7maiE63ONZi5yNKrOgDM5N) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/4OXuwBr50gwiaYgjBnUiOj) | 2:25 | 2018-12-11 | 2022-07-25 |
 | [Pinch](https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/1p4LNBjRCMqNja3EfvdrwC) | 3:30 | 2019-06-07 |  |
 | [Pinch](https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:30 | 2019-06-07 | 2023-06-19 |

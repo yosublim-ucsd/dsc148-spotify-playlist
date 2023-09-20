@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Acqua Bagnami",
+        "url": "https://open.spotify.com/album/4BJj638K8ZAasjQw8YDEV5"
+      },
+      "artists": [
+        {
+          "name": "Santamarea",
+          "url": "https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308142,
+      "name": "Acqua Bagnami",
+      "url": "https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN"
+    },
+    {
+      "album": {
         "name": "Adieux Au Dancefloor",
         "url": "https://open.spotify.com/album/6mdIs3bkdfUTmRdkFEmQMc"
       },

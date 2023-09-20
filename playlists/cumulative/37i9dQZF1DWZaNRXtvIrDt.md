@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: Overmono
 
-444 songs - 1 day 8 hr 58 min
+445 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Boasting](https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/0cUUfvisfk9yqe1R82KJPr) | 4:01 | 2023-02-02 | 2023-02-10 |
 | [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 | 2023-01-12 | 2023-02-04 |
 | [Body Beat](https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/7JGTe36pDv9qlUAKrII5O6) | 3:01 | 2023-09-14 |  |
+| [Bop](https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Bop](https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj) | 5:08 | 2023-09-15 |  |
 | [Border Control \(Ahora Sí\) \(feat\. Ivy Barkakati & Furious Frank\)](https://open.spotify.com/track/45vT32HMS8lZ0JusBqrgBb) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc), [Ivy Barkakati](https://open.spotify.com/artist/3UBeV2UkTunts46Pok3zQu), [Furious Frank](https://open.spotify.com/artist/00MTkgmKzIAaseVdO9L5KV) | [Border Control \(Ahora Sí\) \(feat\. Ivy Barkakati & Furious Frank\)](https://open.spotify.com/album/01T9hSxTEdRPOsRMMmIe3y) | 6:36 | 2022-12-08 | 2023-01-20 |
 | [boringsnoringcallingmorning](https://open.spotify.com/track/4g6tUh14pLti1zU0ZmOWys) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [boringsnoringcallingmorning](https://open.spotify.com/album/2ANjFsiPKJma69OK5m5BaY) | 1:46 | 2023-08-10 | 2023-09-15 |
 | [Break](https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Break](https://open.spotify.com/album/4um2IcUfWGY746dyXRupZU) | 2:49 | 2022-12-15 | 2023-02-03 |

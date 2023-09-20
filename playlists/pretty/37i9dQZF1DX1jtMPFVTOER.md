@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,497 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,534 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [No Confusion \(feat\. Kojey Radical\) \- Alternate Take](https://open.spotify.com/track/70dmUj66huxSjM5ecN5GXl) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [No Confusion \(feat\. Kojey Radical\)](https://open.spotify.com/album/0gwohmPnCsjChIOpi3Bjn6) | 2:50 |
 | 100 | [Flavour](https://open.spotify.com/track/3hXSpGfT9IUNlgSzwdUdnv) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Final Days](https://open.spotify.com/album/1QRGHHBt7uuWfgt2nknDSD) | 3:14 |
 
-Snapshot ID: `MCw5OTBmNjAwOTRhZmRjZTRmMWU3YjY1NzA3Y2Q0Y2JkYWIxMjhlYTY5`
+Snapshot ID: `MCxlOTE1NjBkZGQwNDEzODExNDI5MWQ1YzQ4YTQ1ZTFiMjgzZGNlNDJj`

@@ -4,11 +4,12 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-348 songs - 19 hr 58 min
+349 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#ImSippinTeaInYoHood](https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:53 | 2022-06-10 | 2022-06-25 |
+| [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 | 2023-09-15 |  |
 | [10 More Commandments \(feat\. Diddy\)](https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:58 | 2022-03-11 | 2022-05-24 |
 | [100 TRACKS](https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [100 TRACKS](https://open.spotify.com/album/6bCWlTPqOKwHRJ20aMPvqI) | 2:44 | 2022-03-09 | 2022-05-24 |
 | [1999](https://open.spotify.com/track/70Y2ZoJssFfGhqIxWfdDeP) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al) | [Rawkus Presents Soundbombing II](https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT) | 4:10 | 2022-01-14 | 2022-07-09 |
@@ -30,7 +31,7 @@
 | [AMERICAN HORROR STORY](https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 5:09 | 2022-07-08 | 2023-03-07 |
 | [ANOTHER ONE](https://open.spotify.com/track/2cO5gELmKXUeqliwT7DDvu) | [Ronny J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [ANOTHER ONE](https://open.spotify.com/album/26y1j3uFW7kmEXT3ODkDCE) | 3:12 | 2022-06-10 | 2022-11-19 |
 | [Another One Of Me \(feat\. The Weeknd, French Montana and 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 | 2023-09-15 |  |
-| [ARE YOU WITH THAT?](https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ARE YOU WITH THAT?](https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd) | 2:18 | 2022-01-14 |  |
+| [ARE YOU WITH THAT?](https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ARE YOU WITH THAT?](https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd) | 2:18 | 2022-01-14 | 2023-09-20 |
 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 | 2022-01-14 |  |
 | [Ay Caramba](https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ay Caramba](https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv) | 2:44 | 2022-07-08 |  |
 | [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/3wJdRtq7bgSvO85aTn4qpq) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:58 | 2023-04-21 |  |

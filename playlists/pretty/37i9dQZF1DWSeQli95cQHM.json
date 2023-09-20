@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 9864,
+  "num_followers": 9870,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjdiMTU4YzRjMDRhOGJjN2JjYmRiOGNiMjM1NzEwMmIzODdkMjA4",
+  "snapshot_id": "MCw3ODhiNjJhNmQ5YTA5ZmNkNmJhMTU2MDBhNzlmY2YyYWUyOGUyNWU3",
   "tracks": [
     {
       "added_at": "2023-08-18 03:03:00",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
-        "name": "Charme",
-        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+        "name": "Benzine EP",
+        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
       },
       "artists": [
         {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
         }
       ],
-      "duration_ms": 247594,
-      "name": "Shibuya",
-      "url": "https://open.spotify.com/track/37a26nmggsuaojxP7TauTH"
+      "duration_ms": 406138,
+      "name": "Benzine",
+      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
-        "name": "Benzine EP",
-        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
       },
       "artists": [
         {
-          "name": "Renato Cohen",
-          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
         }
       ],
-      "duration_ms": 406138,
-      "name": "Benzine",
-      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
+      "duration_ms": 247594,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/37a26nmggsuaojxP7TauTH"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
-        "name": "Charme",
-        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+        "name": "Parente Neon",
+        "url": "https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck"
       },
       "artists": [
         {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+          "name": "Nelson D",
+          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
         }
       ],
-      "duration_ms": 344741,
-      "name": "Charme",
-      "url": "https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo"
+      "duration_ms": 149538,
+      "name": "Moleque Vampiro",
+      "url": "https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
-        "name": "Parente Neon",
-        "url": "https://open.spotify.com/album/6yOcynS1ksL44go3MjSuck"
-      },
-      "artists": [
-        {
-          "name": "Nelson D",
-          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Moleque Vampiro",
-      "url": "https://open.spotify.com/track/0ANjVkNiX2IqVS37GRwRLI"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
         "name": "Movimento Paralelo, Vol.1",
         "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
       },
@@ -379,22 +363,6 @@
       "duration_ms": 248062,
       "name": "Sarrafando Em Voc\u00ea",
       "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
-        "name": "Geleia de Morango",
-        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
-      },
-      "artists": [
-        {
-          "name": "Noporn",
-          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
-        }
-      ],
-      "duration_ms": 349250,
-      "name": "Geleia de Morango",
-      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -415,6 +383,38 @@
       "duration_ms": 257600,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
+        "name": "Charme",
+        "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "duration_ms": 344741,
+      "name": "Charme",
+      "url": "https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
+        "name": "Geleia de Morango",
+        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
+      },
+      "artists": [
+        {
+          "name": "Noporn",
+          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
+        }
+      ],
+      "duration_ms": 349250,
+      "name": "Geleia de Morango",
+      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
+        "name": "TRAVESSIA",
+        "url": "https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI"
+      },
+      "artists": [
+        {
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        }
+      ],
+      "duration_ms": 207517,
+      "name": "SINA",
+      "url": "https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
         "name": "P\u00f3 de Guaran\u00e1 (Caiporas e Armadilhas)",
         "url": "https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ"
       },
@@ -475,38 +491,6 @@
       "duration_ms": 188320,
       "name": "P\u00f3 de Guaran\u00e1 (Caiporas e Armadilhas)",
       "url": "https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Orange Sunlight",
-      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
-        "name": "TRAVESSIA",
-        "url": "https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI"
-      },
-      "artists": [
-        {
-          "name": "CyberKills",
-          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
-        }
-      ],
-      "duration_ms": 207517,
-      "name": "SINA",
-      "url": "https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -595,22 +579,18 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
-        "name": "Kengaral Eletrohits, Vol. 2",
-        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb"
       },
       "artists": [
         {
-          "name": "Cashu",
-          "url": "https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q"
-        },
-        {
-          "name": "Mari Herzer",
-          "url": "https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw"
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
         }
       ],
-      "duration_ms": 665738,
-      "name": "Espinheira Santa",
-      "url": "https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2"
+      "duration_ms": 266133,
+      "name": "Orange Sunlight",
+      "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -631,6 +611,26 @@
       "duration_ms": 382204,
       "name": "Rock The Box - Original",
       "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
+        "name": "Kengaral Eletrohits, Vol. 2",
+        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
+      },
+      "artists": [
+        {
+          "name": "Cashu",
+          "url": "https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q"
+        },
+        {
+          "name": "Mari Herzer",
+          "url": "https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw"
+        }
+      ],
+      "duration_ms": 665738,
+      "name": "Espinheira Santa",
+      "url": "https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2"
     },
     {
       "added_at": "2023-08-18 03:03:00",

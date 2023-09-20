@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgcWoYFXZp.md) - [plain]
 
 > Cruise through Japanese “Neo” City Pop from the ’00s./ 渋谷系の系譜から、ボーダーレスに多様化に向かっていった’00年代。ネオ・シティポップ新時代の波はすぐそこに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,634 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,645 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgcWoYFXZp.md) - [plain]
 | 5 | [海が欲しいのに](https://open.spotify.com/track/3UMuI3Do2J7cLp9D4opEnr) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI) | [WILD AND GENTLE](https://open.spotify.com/album/2pBg1hE7WVqOLri4aQTepx) | 5:15 |
 | 6 | [未確認飛行体](https://open.spotify.com/track/77LMizNt1rTxojfMt9sL7t) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [ロミオ道行](https://open.spotify.com/album/5y0t6zh6FB8FjVZK4ANeBI) | 5:02 |
 | 7 | [夏の魔法](https://open.spotify.com/track/4TSuIRGTLoHeCz1Njv6dpB) | [KUCHIRORO](https://open.spotify.com/artist/13ABeGOEjgDMOp8rAAg1lA) | [TONIGHT](https://open.spotify.com/album/1mYzruTSwymSdYfe5ChiBp) | 4:46 |
-| 8 | [3号線](https://open.spotify.com/track/33X2BynK6JcdImh2S1nH8F) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [シティミュージック \(リマスタリング\)](https://open.spotify.com/album/19bB89Jjgd0xogUWKsOGbI) | 5:10 |
+| 8 | [３号線](https://open.spotify.com/track/33X2BynK6JcdImh2S1nH8F) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [シティミュージック \(リマスタリング）](https://open.spotify.com/album/19bB89Jjgd0xogUWKsOGbI) | 5:10 |
 | 9 | [Doyou no yoru ni](https://open.spotify.com/track/74M5rVQTod4U1hIXBpbZ4C) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [LOVE CITY](https://open.spotify.com/album/7v4AQJ7pGrqqLGrC1XGnbn) | 7:43 |
 | 10 | [真冬物語](https://open.spotify.com/track/0Sufsd6ssifoWXXkrTvaw0) | [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj), [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [真冬物語](https://open.spotify.com/album/03TK4SkQREOHRLEFm1vDKE) | 4:58 |
 | 11 | [sing sing](https://open.spotify.com/track/5su6NPdyWBcCluMcUJvS2x) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [I Got Rhythm?](https://open.spotify.com/album/7nTlXzNcnMlIBLdSrkgSva) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgcWoYFXZp.md) - [plain]
 | 49 | [あれから](https://open.spotify.com/track/2p88nkbBzmJLXpUdsp1BgG) | [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [オアシス](https://open.spotify.com/album/1mDa5GUbu5jNDemBUJubux) | 5:47 |
 | 50 | [罌粟](https://open.spotify.com/track/6x1hT5lHXcraem8FQCPykz) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI) | [WILD AND GENTLE](https://open.spotify.com/album/2pBg1hE7WVqOLri4aQTepx) | 5:37 |
 
-Snapshot ID: `MCxhMTlmMDcyYmYxYTQzZjBmNTQ3MzNmN2QzZGFiODg2OTM0YTBhYWUz`
+Snapshot ID: `MCxhZTNmNDAyYjBmYWYwOTM0YWFhYmNjY2I3MGNjM2ZkYjYzZjliM2Zl`

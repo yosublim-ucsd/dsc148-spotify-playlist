@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "baby don\u2019t go away",
+        "url": "https://open.spotify.com/album/64wme27Q8wjKA0IWqi7JLl"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "baby don\u2019t go away",
+      "url": "https://open.spotify.com/track/3njlQ0PImgOG2tmtYPXHq2"
+    },
+    {
+      "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
       },
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 163255,
       "name": "BEZ TEBE",
       "url": "https://open.spotify.com/track/77OedqonwR6D09NwHAEphs"
@@ -3626,7 +3644,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 315862,
       "name": "b\u00e9ke",
       "url": "https://open.spotify.com/track/000n6Lx4yqUAslF1x3JeFY"
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
@@ -5332,6 +5350,24 @@
       "duration_ms": 144135,
       "name": "Destination",
       "url": "https://open.spotify.com/track/4QQyXwqvTF9oByQlSmWhCc"
+    },
+    {
+      "album": {
+        "name": "destroyer of worlds",
+        "url": "https://open.spotify.com/album/1oiOYiUy30dGgF0lc1YFRU"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "destroyer of worlds",
+      "url": "https://open.spotify.com/track/4l8xoLKkJXhqqfbWdXcs93"
     },
     {
       "album": {
@@ -9691,6 +9727,24 @@
     },
     {
       "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "album": {
         "name": "PARADISE MOOD",
         "url": "https://open.spotify.com/album/51FYVT4iPS4Naqv2FzBBid"
       },
@@ -10324,7 +10378,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
@@ -12028,7 +12082,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 174545,
       "name": "Kniha Na\u0161ich Z\u00e1snub",
       "url": "https://open.spotify.com/track/6a70gT1CXRPkbcjJvewX4s"
@@ -12430,7 +12484,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 187893,
       "name": "LANCEY OR LANCEY",
       "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
@@ -15450,7 +15504,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
@@ -15794,6 +15848,28 @@
       "duration_ms": 184033,
       "name": "Nalej mi - Mixtape",
       "url": "https://open.spotify.com/track/5qDOORaaVKFTfLJzlhOcdb"
+    },
+    {
+      "album": {
+        "name": "Namotan\u00fd",
+        "url": "https://open.spotify.com/album/2PSX7C0FFBlzThgxP9KyHC"
+      },
+      "artists": [
+        {
+          "name": "Alex Choupenitch",
+          "url": "https://open.spotify.com/artist/3ikojR6HBLh89ykZ5kL9Hd"
+        },
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206197,
+      "name": "Namotan\u00fd",
+      "url": "https://open.spotify.com/track/7g96mXmUrgAQ2WrYSE4KTc"
     },
     {
       "album": {
@@ -21422,7 +21498,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 212000,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
@@ -21769,6 +21845,32 @@
     },
     {
       "album": {
+        "name": "so mnou",
+        "url": "https://open.spotify.com/album/7j4MWT5dPMl9bKYIxTsKTZ"
+      },
+      "artists": [
+        {
+          "name": "Hujdy",
+          "url": "https://open.spotify.com/artist/3JndECWCfIy5kryESOcLC8"
+        },
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        },
+        {
+          "name": "Hasan",
+          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190871,
+      "name": "so mnou",
+      "url": "https://open.spotify.com/track/18LzOQpD9rjA8nLI17qEUr"
+    },
+    {
+      "album": {
         "name": "So Much In Love (Sub Focus Remix)",
         "url": "https://open.spotify.com/album/47FtmJz3uPnswg7tTrAvF0"
       },
@@ -21828,6 +21930,28 @@
       "duration_ms": 178800,
       "name": "Soarele si Luna",
       "url": "https://open.spotify.com/track/6SO3p9lb1qiPMN1e7iHAjv"
+    },
+    {
+      "album": {
+        "name": "Social Path",
+        "url": "https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Social Path",
+      "url": "https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d"
     },
     {
       "album": {
@@ -22443,6 +22567,24 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
         "name": "Stra\u0161ideln\u00fd dom",
         "url": "https://open.spotify.com/album/0PQ7MZ1ifWDSfAmNQNFno4"
       },
@@ -22534,7 +22676,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-20",
       "duration_ms": 205166,
       "name": "summer on the inside",
       "url": "https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj"
@@ -27126,6 +27268,28 @@
       "duration_ms": 232571,
       "name": "Zendaya",
       "url": "https://open.spotify.com/track/6OVXMxjbFK5FHR6wpRzjXC"
+    },
+    {
+      "album": {
+        "name": "Zmrzlina",
+        "url": "https://open.spotify.com/album/2TboL1rw8ejgjP7UxS96wj"
+      },
+      "artists": [
+        {
+          "name": "Miro Jaros",
+          "url": "https://open.spotify.com/artist/3aVv8IZcgWybOL6NbkCy3z"
+        },
+        {
+          "name": "Rytmus",
+          "url": "https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172058,
+      "name": "Zmrzlina",
+      "url": "https://open.spotify.com/track/5G9OCfHRyCvd6KSEFe2uKw"
     },
     {
       "album": {

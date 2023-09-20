@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: WANIMA
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: TOTALFAT
 
-620 songs - 1 day 9 hr 30 min
+622 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,14 +199,14 @@
 | [Lady Madonna](https://open.spotify.com/track/7Ek2h9DnXKHdbSkDOuFZej) | [periwinkles](https://open.spotify.com/artist/40iKR3QciuMqwtQyd50Q71) | [Lady Madonna](https://open.spotify.com/album/70YHiSvFrVDZPrQzURx4b0) | 3:23 | 2022-05-19 | 2022-07-24 |
 | [LAST FOREVER](https://open.spotify.com/track/1v8PMncTxjuhu0n6Lr15dX) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/1rWSXluWjnTFoCdLC2WJiu) | 4:16 | 2023-05-16 | 2023-05-18 |
 | [LAST FOREVER](https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4) | 4:16 | 2023-05-16 | 2023-08-05 |
-| [LAST FOREVER](https://open.spotify.com/track/6Tk4jblZ6c6p46RWT3NIWH) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/0eDi7dISTenhez8VO3Ndqp) | 4:17 | 2023-08-03 |  |
+| [LAST FOREVER](https://open.spotify.com/track/6Tk4jblZ6c6p46RWT3NIWH) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/0eDi7dISTenhez8VO3Ndqp) | 4:17 | 2023-08-03 | 2023-09-20 |
 | [Last train](https://open.spotify.com/track/0aqtaUsdAK5GFeVod6s7x6) | [push pull pot](https://open.spotify.com/artist/0777DLWkvCQkjaokIVNOEq) | [Last train](https://open.spotify.com/album/4ew9ArsqjYCPAVapCSULhU) | 1:59 | 2022-12-27 | 2023-02-15 |
 | [Laugh at life](https://open.spotify.com/track/6yvvbqMXxUlcP39fI0oUZA) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [LAUGH AT LIFE](https://open.spotify.com/album/3Z3pABiK1AJkaVtaAV37P7) | 3:16 | 2022-05-17 | 2022-07-28 |
 | [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 | 2023-05-16 | 2023-06-10 |
 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-06-09 | 2023-06-14 |
 | [Let The Beat Carry On](https://open.spotify.com/track/5aIxRbYvjSr5fYco54GbgA) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Four](https://open.spotify.com/album/1A2qh9qzsHSiN4jbRMSL7C) | 3:09 | 2022-05-12 | 2022-07-25 |
 | [Life is](https://open.spotify.com/track/1TWyvuvElJ57xCpsFD9ngs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 3:23 | 2023-07-11 | 2023-07-13 |
-| [Life is](https://open.spotify.com/track/7fwrQ99Av65pJVvpvqaW41) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 3:23 | 2023-07-11 |  |
+| [Life is](https://open.spotify.com/track/7fwrQ99Av65pJVvpvqaW41) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 3:23 | 2023-07-11 | 2023-09-20 |
 | [Life Is A Suspense](https://open.spotify.com/track/72bDB4wY8ztaIG4MJqP5an) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 2:48 | 2022-05-19 | 2022-07-28 |
 | [Light](https://open.spotify.com/track/6Icm9TrCRGE8My2nskUeiD) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [etc.works3](https://open.spotify.com/album/7sCrpXgXyEPQxA6xgebVIv) | 2:45 | 2022-05-17 | 2022-07-17 |
 | [LIGHT AND SHADOW](https://open.spotify.com/track/1s082mgoEEsahrOBoPQSFu) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [SOULS](https://open.spotify.com/album/3uxRIkRdH2sKNoEMqEYK7t) | 2:09 | 2022-05-17 | 2022-07-29 |
@@ -217,6 +217,7 @@
 | [Love song](https://open.spotify.com/track/4gtuaF2M5Lpl5EYSdAA3Th) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/2tHhRVVI82FOCr0nEujtsY) | 2:33 | 2023-04-19 | 2023-06-01 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/5kgoZGkBpXfmOWdfjUA4Tx) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [Lyin' Ass Bitch](https://open.spotify.com/album/6gGMooIW9FGPLa5c5XOxmK) | 4:14 | 2022-07-19 | 2022-09-15 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/2OaRpaOjDXXrExzWADia0L) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [doubt!](https://open.spotify.com/album/2cGhirXNELjlW5NhPBxdSp) | 4:15 | 2022-05-12 | 2022-07-29 |
+| [MAE](https://open.spotify.com/track/0YgGz6kZcMw4QXq2IM6tAE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/0u4T0jMskpSiQO0mrw6TNK) | 4:01 | 2023-09-19 |  |
 | [MAGIC](https://open.spotify.com/track/0xzMBFXtfeE7JnFZ6YTj0P) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [ACROSS THE ENDING](https://open.spotify.com/album/51YAgLPtd8otx1GU4GbP2Z) | 2:52 | 2022-07-21 |  |
 | [MAGIC](https://open.spotify.com/track/6sJRV0exskuwPb00YhNJZZ) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [ACROSS THE ENDING](https://open.spotify.com/album/3zs65c6RG8AQ5FZkwMjod9) | 2:52 | 2022-05-12 | 2022-07-27 |
 | [Magic of night](https://open.spotify.com/track/6vJM7dciZujpaK5KlTuuEw) | [MISTY](https://open.spotify.com/artist/3rqWhJ8OtjUXUYdaEuks6F) | [With Your Buddies](https://open.spotify.com/album/14DEkd0Fea0bcDVhp4eeLI) | 3:58 | 2022-05-12 | 2022-07-25 |
@@ -259,6 +260,7 @@
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-12 |  |
 | [Never Wanna Grow Up](https://open.spotify.com/track/2dtAAMlrZq2wpcqh200B7i) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [EVERLASTING](https://open.spotify.com/album/0hMfzTkueV5pZlXtcMotNk) | 2:51 | 2022-06-30 | 2022-11-02 |
 | [New Coaster](https://open.spotify.com/track/6PvvJiVzgcsOHZ4m026aFI) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [New Coaster](https://open.spotify.com/album/53CyhLs70UnvnqmU87B1Yx) | 2:45 | 2022-05-19 | 2022-07-28 |
+| [New Shit](https://open.spotify.com/track/6YKn5ACbOOiZ1sm6qQoT7O) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [A YEAR OF STRENGTH](https://open.spotify.com/album/1uorBMQ4jsjiHv4sqdSUTp) | 3:02 | 2023-09-19 |  |
 | [NEW\-BALANCE](https://open.spotify.com/track/0wYC6rohHUi8FegZKfDa0s) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [NEW\-BALANCE](https://open.spotify.com/album/3K6jBDtRWrxedqYD25jlr0) | 3:16 | 2022-05-12 | 2022-07-29 |
 | [Nice Day](https://open.spotify.com/track/24PyTTd3CiplNPpmYpJifN) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Our Best Place](https://open.spotify.com/album/0YD5rzXGLNjCslvo8x6igD) | 3:30 | 2023-02-14 |  |
 | [Nice Day](https://open.spotify.com/track/3lSCuTCdb50NAe94qW53LK) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [OUR BEST PLACE](https://open.spotify.com/album/2YAqErK82W8AmlMOFqEOrK) | 3:32 | 2023-02-14 | 2023-02-16 |

@@ -1,49 +1,13 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 61023,
+  "num_followers": 61041,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmExMWUyMTJjYjk0MDlkOGZiZjg5YmI1YzE3NmY0OGE1N2YyOGNj",
+  "snapshot_id": "MCxmNzgyM2FlODkyMzkyMmZiM2JiNTU2MzY1MmMwOTAyYjJlY2IwOGU4",
   "tracks": [
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Picture: Adana Twins",
-        "url": "https://open.spotify.com/album/6EmW2P6OZMqtGyuYXs53X0"
-      },
-      "artists": [
-        {
-          "name": "Adana Twins",
-          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
-        },
-        {
-          "name": "Glowal",
-          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
-        }
-      ],
-      "duration_ms": 515086,
-      "name": "My Computer",
-      "url": "https://open.spotify.com/track/43dypLxBZqo8KlPdsJOmwy"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Divine Reality",
-        "url": "https://open.spotify.com/album/15eAEjJ4qWNLbtTACrb0oK"
-      },
-      "artists": [
-        {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
-        }
-      ],
-      "duration_ms": 459250,
-      "name": "Divine Reality",
-      "url": "https://open.spotify.com/track/45ITwtPzk2n7XBWGD32NZb"
-    },
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
@@ -67,6 +31,42 @@
       "duration_ms": 255858,
       "name": "Deleters - Palms Trax Remix",
       "url": "https://open.spotify.com/track/0oqga82uitzPVW5TR8SKVx"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Divine Reality",
+        "url": "https://open.spotify.com/album/15eAEjJ4qWNLbtTACrb0oK"
+      },
+      "artists": [
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        }
+      ],
+      "duration_ms": 459250,
+      "name": "Divine Reality",
+      "url": "https://open.spotify.com/track/45ITwtPzk2n7XBWGD32NZb"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Picture: Adana Twins",
+        "url": "https://open.spotify.com/album/6EmW2P6OZMqtGyuYXs53X0"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+        }
+      ],
+      "duration_ms": 515086,
+      "name": "My Computer",
+      "url": "https://open.spotify.com/track/43dypLxBZqo8KlPdsJOmwy"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -283,6 +283,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Rhodes Island",
+        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "80s In My Blood",
+      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Mexico (Punctual Remix)",
         "url": "https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 512431,
       "name": "Mexico (Punctual Remix)",
       "url": "https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Rhodes Island",
-        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "80s In My Blood",
-      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -399,18 +399,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "ANIITIME003",
-        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
       },
       "artists": [
         {
-          "name": "ANII",
-          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
         }
       ],
-      "duration_ms": 444150,
-      "name": "Silver Machine",
-      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
+      "duration_ms": 339391,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "ANIITIME003",
+        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
+      },
+      "artists": [
+        {
+          "name": "ANII",
+          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
+        }
+      ],
+      "duration_ms": 444150,
+      "name": "Silver Machine",
+      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Music Made Paradise",
         "url": "https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 339423,
       "name": "Under Control",
       "url": "https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
-      },
-      "artists": [
-        {
-          "name": "Scuba",
-          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
-        }
-      ],
-      "duration_ms": 339391,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
     },
     {
       "added_at": "2021-08-27 15:45:01",

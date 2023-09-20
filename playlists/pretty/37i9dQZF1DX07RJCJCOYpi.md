@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,734,904 likes - 56 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,734,891 likes - 56 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 55 | [Pin Pan](https://open.spotify.com/track/2tWPVMfQH0AvZBu5VMpXf9) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Matta \(COL\)](https://open.spotify.com/artist/5HmfPodhYUR4Js09zzeg2Z), [JUANPORDIOS!](https://open.spotify.com/artist/4DVSIgIIO92h4OdSSBBJlg) | [Pin Pan](https://open.spotify.com/album/7cY7EHWnbjDcphrqnMPF2k) | 3:37 |
 | 56 | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv) | 3:25 |
 
-Snapshot ID: `MCw4NjVkMzUzOTU5NjFiZGZlYjYxMDg0OTBhYjc3M2E0NmYzNmZlZWY2`
+Snapshot ID: `MCxkYjBhYWI4NDkxMDNlZmNkMDFjZmE1MGQ3MTAwNWNkZTUwYTc0NThh`

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 29491,
+  "num_followers": 29518,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz",
+  "snapshot_id": "MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn"
-      },
-      "artists": [
-        {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
-        }
-      ],
-      "duration_ms": 474560,
-      "name": "Zulu - Change Mix",
-      "url": "https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Feel It / Waterfalls",
         "url": "https://open.spotify.com/album/1wVS8Gdyzyzb233I6pdmIl"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 358680,
       "name": "Waterfalls - 3 A.M. Mix",
       "url": "https://open.spotify.com/track/3Lv3bT31Sali9Zk7sFgy5r"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 474560,
+      "name": "Zulu - Change Mix",
+      "url": "https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing - Hard Metro Mix",
-      "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Carnival 93",
         "url": "https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 374946,
       "name": "Carnival 93 - The Mardi Gras Mix",
       "url": "https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
+        }
+      ],
+      "duration_ms": 341200,
+      "name": "Jump & Sing - Hard Metro Mix",
+      "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
-      },
-      "artists": [
-        {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
-        }
-      ],
-      "duration_ms": 472984,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 410973,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 472984,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
       },
       "artists": [
         {
-          "name": "Androgeny",
-          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 494374,
-      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
-      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
+      "duration_ms": 777626,
+      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
+      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 777626,
-      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
-      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 297037,
       "name": "Wanna Be Your Girl - A 'G' Thang Mix",
       "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+      },
+      "artists": [
+        {
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+        }
+      ],
+      "duration_ms": 494374,
+      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
+      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Set My Spirit Free (feat. Sandy Rivera)",
-        "url": "https://open.spotify.com/album/2rFxKv5g2o34oZEYcCpzvN"
-      },
-      "artists": [
-        {
-          "name": "Kings Of Tomorrow",
-          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
-        },
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        }
-      ],
-      "duration_ms": 468520,
-      "name": "Set My Spirit Free (feat. Sandy Rivera)",
-      "url": "https://open.spotify.com/track/1waCufNVr5c5kfOBzUEEPM"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -1127,38 +1107,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Move Your Body (feat. LaVette) [Mixes]",
-        "url": "https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH"
+        "name": "Set My Spirit Free (feat. Sandy Rivera)",
+        "url": "https://open.spotify.com/album/2rFxKv5g2o34oZEYcCpzvN"
       },
       "artists": [
         {
-          "name": "Chicago Syndicate",
-          "url": "https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK"
+          "name": "Kings Of Tomorrow",
+          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
         },
         {
-          "name": "LaVette",
-          "url": "https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY"
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
         }
       ],
-      "duration_ms": 228238,
-      "name": "Move Your Body (feat. LaVette) - Radio Mix",
-      "url": "https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Straight from the Bario EP",
-        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
-      },
-      "artists": [
-        {
-          "name": "R.B.M.",
-          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
-        }
-      ],
-      "duration_ms": 372800,
-      "name": "The Bombero Remix 96",
-      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
+      "duration_ms": 468520,
+      "name": "Set My Spirit Free (feat. Sandy Rivera)",
+      "url": "https://open.spotify.com/track/1waCufNVr5c5kfOBzUEEPM"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1183,18 +1147,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
+        "name": "Move Your Body (feat. LaVette) [Mixes]",
+        "url": "https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH"
       },
       "artists": [
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+          "name": "Chicago Syndicate",
+          "url": "https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK"
+        },
+        {
+          "name": "LaVette",
+          "url": "https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY"
         }
       ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance - M.A.S. Club Vocal",
-      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
+      "duration_ms": 228238,
+      "name": "Move Your Body (feat. LaVette) - Radio Mix",
+      "url": "https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1211,6 +1179,38 @@
       "duration_ms": 337901,
       "name": "Just An Organ - Just An Organ Mix",
       "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 479440,
+      "name": "Everybody Dance - M.A.S. Club Vocal",
+      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
+      },
+      "artists": [
+        {
+          "name": "R.B.M.",
+          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
+        }
+      ],
+      "duration_ms": 372800,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+        "name": "Master Blaster (Turn It Up)",
+        "url": "https://open.spotify.com/album/6MJQYFCImEMyFA8weZ4Jfl"
       },
       "artists": [
         {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+          "name": "Joint Venture",
+          "url": "https://open.spotify.com/artist/3zgNoLwSZuO6ibqfilnnU2"
         }
       ],
-      "duration_ms": 342621,
-      "name": "My People - My People Mix",
-      "url": "https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L"
+      "duration_ms": 938546,
+      "name": "Master Blaster (Turn It Up)",
+      "url": "https://open.spotify.com/track/2J03eGRK7Ns3OpBUFhGXbw"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

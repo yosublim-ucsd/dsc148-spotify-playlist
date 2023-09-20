@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Nahee Kim\(김나희\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-811 songs - 1 day 22 hr 22 min
+812 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [Macho man](https://open.spotify.com/track/4mH9UN981op5GwpPERjJXD) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Na Taeju](https://open.spotify.com/artist/7I9b0wtsZYnGXxGTN92XnP) | [Music source of Mr.Trot LEGEND MISSION BEST](https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO) | 3:37 | 2022-04-22 | 2022-07-22 |
 | [Magic lily](https://open.spotify.com/track/3t18TYRfPJij3Kbs4ZgFOY) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Music source of Mr.Trot LEGEND MISSION BEST](https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO) | 3:47 | 2022-05-03 | 2022-07-24 |
 | [Magnifying glass](https://open.spotify.com/track/2KXrBnVEDw53vxbB4OGJc9) | [Byeol Sarang](https://open.spotify.com/artist/3VrazTKgtuVIWAklWap0KT) | [Music source of <MissTrot2> FINAL Songwriter Mission](https://open.spotify.com/album/55myCPZ3HKzK1yXcw7AGG6) | 3:26 | 2022-04-22 | 2023-03-18 |
-| [Man of harbor](https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW) | [Hong Jameon](https://open.spotify.com/artist/3YSBPOvl1LuFvA2BsuQkJP) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 1:48 | 2022-04-22 |  |
+| [Man of harbor](https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW) | [Hong Jameon](https://open.spotify.com/artist/3YSBPOvl1LuFvA2BsuQkJP) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 1:48 | 2022-04-22 | 2023-09-20 |
 | [Margin](https://open.spotify.com/track/17UMmh0SreHMlUjDlGkQAk) | [Nam Seungmin](https://open.spotify.com/artist/2O51qiz6mXRRkGblIqwyN5) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 4:27 | 2022-05-03 | 2022-06-15 |
 | [Maria](https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:08 | 2022-04-21 |  |
 | [Me to you, you to me](https://open.spotify.com/track/7JJpqBgpqNbN0o0Bul9Hzz) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:42 | 2022-05-03 | 2022-07-23 |
@@ -762,6 +762,7 @@
 | [사랑 그게 뭔데](https://open.spotify.com/track/68J4lQX1gDzuNvYwlckkme) | [Hye Ri Jang](https://open.spotify.com/artist/79WoLuXNEK6BdjaYiJxDIH) | [Love & Sorrow](https://open.spotify.com/album/7h4RemoeFUhIciBd9XwSuA) | 3:12 | 2023-05-02 | 2023-07-05 |
 | [사랑껌](https://open.spotify.com/track/6s9igzxODWxRN63d2Jeze9) | [Kum Jan Di](https://open.spotify.com/artist/4sxm6i0Tbb3Pt5sF58KIMI) | [오라버니/사랑껌](https://open.spotify.com/album/1Dwrhjc1pHDa1Gb36xyOtl) | 3:44 | 2022-04-21 | 2022-07-28 |
 | [사랑의 트위스트](https://open.spotify.com/track/0qshHbEOX6YI1IMp33Dy1L) | [MSG\(알파벳](https://open.spotify.com/artist/2hkrP5MtgzdFoc4fZ7Jk2i), [박예슬\)](https://open.spotify.com/artist/7allxqrA4H7TSgY2YPP0LW) | [Korean Trot Contest PART.5](https://open.spotify.com/album/73AYOATUIFhqWlhWCAR3eF) | 4:19 | 2022-04-22 | 2022-07-29 |
+| [사랑해요](https://open.spotify.com/track/1x0NL2GUqjqTj5rGf8Ven3) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [女子](https://open.spotify.com/album/6COkrhmouIRszPygTwhpGa) | 3:15 | 2023-09-08 |  |
 | [살았소](https://open.spotify.com/track/61cxkZbxONWDilpqDQlAZq) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [살았소](https://open.spotify.com/album/12oUHngv38tTjgGhEXWJgc) | 3:52 | 2022-12-05 | 2023-05-03 |
 | [삼각관계](https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD) | [김용임](https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV) | [김용임 스페셜 베스트 76](https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh) | 2:49 | 2022-04-22 |  |
 | [샤방샤방](https://open.spotify.com/track/0aRhZNpYBCclTh4C63EtAV) | [Park Hyun\-Bin](https://open.spotify.com/artist/4CFPY7gjBXwLIaDhkngkjj) | [샤방샤방](https://open.spotify.com/album/6YLnaecP5lttARu5dlYewv) | 3:24 | 2022-07-22 | 2022-11-06 |

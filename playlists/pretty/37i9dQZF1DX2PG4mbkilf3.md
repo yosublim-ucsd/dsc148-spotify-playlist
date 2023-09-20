@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Amaal Nuux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,130 likes - 101 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,195 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 100 | [MORAL](https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg) | 2:45 |
 | 101 | [Closure](https://open.spotify.com/track/7LtlYlVrSuM54aKxa0FxDZ) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Closure \(Remix\)](https://open.spotify.com/album/0Sg1F7YdSv1ApoTBpzcvSM) | 3:56 |
 
-Snapshot ID: `MCwwMWYzNzNlOTA2NmZiNmUzODFkODk5OTVhYTRiMzU1ZDdhYzNmODU2`
+Snapshot ID: `MCw2YTNiNGQ3ZTdiYjgxNDgwMzc3NTYyY2EyNWRjNDYyYjA0ZjQyM2Zk`

@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 8347,
+  "num_followers": 8380,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWMyOTg1MTY0ZmY5MzEwNWU4OTc5ZjZiYzFjNTI5ZDI2OTBmZjVk",
+  "snapshot_id": "MCwzMTVmYWFiMGUzZTM4NTA3ZDZhZDViNjY2NzFlYmJmZDhhMmU4MTll",
   "tracks": [
     {
       "added_at": "2023-06-19 08:59:16",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Relaxation Makers",
-        "url": "https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl"
+        "name": "The Vast Sea",
+        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
       },
       "artists": [
         {
-          "name": "Relaxation Makers",
-          "url": "https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF"
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
         }
       ],
-      "duration_ms": 237591,
-      "name": "Sea Waves",
-      "url": "https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ"
+      "duration_ms": 160000,
+      "name": "Rocking Waves",
+      "url": "https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "The Vast Sea",
-        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+        "name": "Relaxation Makers",
+        "url": "https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl"
       },
       "artists": [
         {
-          "name": "Seas of Dreams",
-          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+          "name": "Relaxation Makers",
+          "url": "https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Rocking Waves",
-      "url": "https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa"
+      "duration_ms": 237591,
+      "name": "Sea Waves",
+      "url": "https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Epic Waves - vol.1",
-        "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
-      },
-      "artists": [
-        {
-          "name": "Epic Soundscapes",
-          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
-        }
-      ],
-      "duration_ms": 229337,
-      "name": "Relaxing Waves",
-      "url": "https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Soothing Ocean Sound",
         "url": "https://open.spotify.com/album/6YwzxAxdw92YooMgYSLbeq"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 169367,
       "name": "Soothing Ocean Sound",
       "url": "https://open.spotify.com/track/2ACz2tjRaxwK2v7Gsmm5X2"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Epic Waves - vol.1",
+        "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
+      },
+      "artists": [
+        {
+          "name": "Epic Soundscapes",
+          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
+        }
+      ],
+      "duration_ms": 229337,
+      "name": "Relaxing Waves",
+      "url": "https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh"
     },
     {
       "added_at": "2023-06-19 08:59:16",
