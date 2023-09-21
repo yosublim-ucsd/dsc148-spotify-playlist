@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-350 songs - 1 day 2 hr 57 min
+351 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,8 +179,9 @@
 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 | 2020-10-09 |  |
 | [Mulligan](https://open.spotify.com/track/1t8voEpXTk4ZL74poDQ2pp) | [Hip Horns Brass Collective](https://open.spotify.com/artist/7nMM3u8bnwFtQxA2g0uNIv) | [Bram! & Mulligan](https://open.spotify.com/album/2uHl0Qu2xSrrYWC4ngPgeF) | 3:40 | 2023-05-26 |  |
 | [MXC.MMBL](https://open.spotify.com/track/6Sxnxm8dsA7SSNtT1TVtPK) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon Soulful Samurai Poole](https://open.spotify.com/artist/7JDkG25Uyz1ozs0PPcvvoQ) | [MXC.MMBL](https://open.spotify.com/album/6z0B2ceHgNNQ8beB2ZyAVK) | 2:37 | 2022-09-02 | 2023-04-09 |
-| [My Stomping Ground](https://open.spotify.com/track/6TpfO1F0nDR2O6tozhliaC) | [Dwight Trible](https://open.spotify.com/artist/5HzryqCINeBjTh2KnPtWnu) | [Ancient Future](https://open.spotify.com/album/4mBdaTjzZy9INBg1UcJ9J8) | 6:08 | 2023-03-17 |  |
-| [Mysterious Vibes](https://open.spotify.com/track/6lqYjlQyDzNWE0MGc78b4c) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 4:50 | 2020-10-09 | 2023-09-20 |
+| [My Stomping Ground](https://open.spotify.com/track/3EiF9maIQqspIR9oueTbuy) | [Dwight Trible](https://open.spotify.com/artist/5HzryqCINeBjTh2KnPtWnu) | [Ancient Future](https://open.spotify.com/album/3ESkKOvwCWo0MxcMqVjjo1) | 6:08 | 2023-03-17 |  |
+| [My Stomping Ground](https://open.spotify.com/track/6TpfO1F0nDR2O6tozhliaC) | [Dwight Trible](https://open.spotify.com/artist/5HzryqCINeBjTh2KnPtWnu) | [Ancient Future](https://open.spotify.com/album/4mBdaTjzZy9INBg1UcJ9J8) | 6:08 | 2023-03-17 | 2023-09-21 |
+| [Mysterious Vibes](https://open.spotify.com/track/6lqYjlQyDzNWE0MGc78b4c) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 4:50 | 2020-10-09 |  |
 | [Nation Time \- Live, Bremen](https://open.spotify.com/track/18zguJkNprr893299eGoqj) | [Gary Bartz Ntu Troop](https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN) | [Live In Bremen 1975](https://open.spotify.com/album/3y2l0QrN6N9I1D5fivKpqc) | 11:54 | 2021-04-23 | 2022-07-28 |
 | [New York Times \- Remastered 2002](https://open.spotify.com/track/75beUJVji54O01lbMrpVG6) | [Bobbi Humphrey](https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON) | [Satin Doll](https://open.spotify.com/album/7Fil4ZuDB04CjP4GDT1Lxs) | 6:53 | 2020-10-09 |  |
 | [Newcastle Bounce](https://open.spotify.com/track/6lEPZrvUyQQeSxT2GR2FYo) | [EMEFE](https://open.spotify.com/artist/7gsslWrdzzkV3jf7cAws95) | [Good Future \(10th Anniversary Reissue\)](https://open.spotify.com/album/54BqNpKXlJw7sFl6pw0EFV) | 3:19 | 2023-01-20 |  |

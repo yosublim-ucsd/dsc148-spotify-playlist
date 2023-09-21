@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-171 songs - 8 hr 54 min
+172 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Umenikaa](https://open.spotify.com/track/3oIwlyoOs4SOjRntoZlUdS) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Umenikaa](https://open.spotify.com/album/7v45xHHxfssCfbXswZZp8R) | 3:15 | 2021-10-15 | 2022-06-24 |
 | [Undecided](https://open.spotify.com/track/1UqEp3SM2PBTXlgXqURS2V) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ), [Don Gz](https://open.spotify.com/artist/4g6Xas4wNpTp3cA9Tm4ypK) | [Undecided](https://open.spotify.com/album/2pzZkaAv5t0mBpNv84VWjm) | 3:04 | 2022-11-10 | 2022-11-18 |
 | [Utamu](https://open.spotify.com/track/2EjQMKID7FnvokZw4jsrxL) | [Salma Munde](https://open.spotify.com/artist/7lCJm1afLs1UDUnk1GtriQ) | [Utamu](https://open.spotify.com/album/4e4CGnTY9p4BUKUaNMQO3F) | 3:29 | 2021-10-15 | 2022-06-03 |
-| [Vanity](https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq) | 2:32 | 2023-07-20 |  |
+| [Vanity](https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq) | 2:32 | 2023-07-20 | 2023-09-21 |
+| [Vanity](https://open.spotify.com/track/6J2xVnZsEgnXyl2hzQawRd) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/6tc7crU7Bal4sLhy5UIq4B) | 2:32 | 2023-09-01 |  |
 | [Vijana Wanataka Kazi](https://open.spotify.com/track/71QA3QXgNuJcSWcnUIN1qy) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Vijana Wanataka Kazi](https://open.spotify.com/album/4dFU75ysafiICD8lfC6Rvf) | 2:50 | 2023-07-06 |  |
 | [Walk Away](https://open.spotify.com/track/6AkZmquckBmYmMh3bg4yCq) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [Next Phase](https://open.spotify.com/album/6MUDZLoEXVwgZbLW30zVsE) | 3:04 | 2021-11-04 | 2022-05-06 |
 | [Weche \- Radio Edit](https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche](https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29) | 3:37 | 2021-10-15 | 2022-04-28 |

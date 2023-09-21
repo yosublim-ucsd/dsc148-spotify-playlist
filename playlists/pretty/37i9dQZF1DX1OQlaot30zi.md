@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Il Tre, Shiva, Philip e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,204 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,221 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 17 | [Playmaker](https://open.spotify.com/track/7957Ud9GA7uUteFT6VC779) | [Lil Cosse](https://open.spotify.com/artist/75jvCdf9ii6EVSsJtKYOXT) | [Playmaker](https://open.spotify.com/album/6NFyKfiDiCCYb2kJXl8uqE) | 2:17 |
 | 18 | [MALAGA](https://open.spotify.com/track/2wP2hvc5vEG37UPcHLJbDM) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [MALAGA](https://open.spotify.com/album/6k1CQrZESTG1mNk9plWqmK) | 2:28 |
 | 19 | [TECHNO FREESTYLE](https://open.spotify.com/track/0fcyB3U6RFZVpVJc3NPDut) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 2:26 |
-| 20 | [Delinquendo RMX](https://open.spotify.com/track/22eON9q5Iq4WbqmXnovpAu) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ) | [Delinquendo RMX](https://open.spotify.com/album/37sYn9PodK5HerDx2wdbzd) | 3:27 |
+| 20 | [Delinquendo RMX \(feat\. Sapobully & Mingo MH\)](https://open.spotify.com/track/22eON9q5Iq4WbqmXnovpAu) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ) | [Delinquendo RMX \(feat\. Sapobully & Mingo MH\)](https://open.spotify.com/album/37sYn9PodK5HerDx2wdbzd) | 3:27 |
 | 21 | [Lovebars](https://open.spotify.com/track/6O7pAOsUm3d9R37vYdQnG5) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 2:45 |
 | 22 | [TUDOVEVAI?](https://open.spotify.com/track/4hRcNfkl47iItvd3VXOLoi) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [TUDOVEVAI?](https://open.spotify.com/album/0i0G7mMCRtkjOclF2cAZrP) | 2:44 |
 | 23 | [Hollywood](https://open.spotify.com/track/5t1VeoZlf1613iRUWE5YVh) | [DANDY TURNER](https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w) | [Hollywood](https://open.spotify.com/album/7fkMaL5WdhuhigyC6ralGd) | 2:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 59 | [Money Cash \(feat\. Diss Gacha\)](https://open.spotify.com/track/1VxGl8QDtW6MnRBW7bNoSR) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 2:26 |
 | 60 | [BAILEYS](https://open.spotify.com/track/3i45cxmF0k70HsI7VUrMVh) | [Baby Sosa](https://open.spotify.com/artist/7jg5p3qrEEKY7fqNzgoJ9K), [Edo Fendy](https://open.spotify.com/artist/41arBMetHJgurmTgrlOF7J) | [BAILEYS](https://open.spotify.com/album/2PAwVhWREDhFFptsr5AdlT) | 2:37 |
 
-Snapshot ID: `MCxhM2YxZWViYWQ3YTU1OTg4ZTMyM2Q1ZmI1MDE5ZGE0NWNkZDA2ZDQx`
+Snapshot ID: `MCxhMzQ1MGZlYmY3ZWM3NjIwMmI0Y2RiYWVjZGY5Yzc3NzYyNmEyZDJi`

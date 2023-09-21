@@ -2,7 +2,7 @@
 
 ### [EQUAL Argentina](https://open.spotify.com/playlist/37i9dQZF1DX2ArBUudJwM5)
 
-> Estamos listas para un festival único\. <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
+> Estamos listas para un festival único.
 
 803 songs - 1 day 19 hr 12 min
 

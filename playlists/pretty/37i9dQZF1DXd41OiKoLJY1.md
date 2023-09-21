@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Suspiria Pink  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,133 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,140 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [For Keeps](https://open.spotify.com/track/3IUwdeCnZWuGuJI0fsxfLI) | [Shell Tenedero](https://open.spotify.com/artist/1tSGjqENNBtBtaBWHnPSVv) | [For Keeps](https://open.spotify.com/album/0F8VMB8iNhdON5tHLxdxd4) | 3:30 |
 | 75 | [LOVE DIARY \- Page 1: Contentment](https://open.spotify.com/track/2w7iul07zm0KUzT4kZO6ZZ) | [Ron David](https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa), [Jo$h](https://open.spotify.com/artist/2WLHdtgNOvCzFd47N5bkiP) | [LOVE DIARY \(Page 1: Contentment\)](https://open.spotify.com/album/4DcgLE5Vi0gkXwMsTwvMEu) | 4:21 |
 
-Snapshot ID: `MCxmNzQwOTEzODA5NTBmZjVjZGExMDFkNDAyM2M5MTNmMjIyNjhiOWFk`
+Snapshot ID: `MCw3ZDc0MTllODc4MTdjZDUzYjM2MThlNTNlMDM3OTYzYzZiYWNiZWU2`

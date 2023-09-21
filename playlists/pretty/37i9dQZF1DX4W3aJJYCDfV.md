@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Corinne Bailey Rae \(pictured\), Chase & Status, Tate McRae and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,867 likes - 129 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,903 likes - 129 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 65 | [dancing in the dark](https://open.spotify.com/track/5xESyGsqmy527D883n21X5) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [dancing in the dark](https://open.spotify.com/album/18hGX95WbrbCzVfEM4QsqO) | 2:43 |
 | 66 | [War With America](https://open.spotify.com/track/5nHabL7bBWUfPArFMEbHXo) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [War With America](https://open.spotify.com/album/2NB9YdXzfiehLKTFbURkqu) | 3:52 |
 | 67 | [CAN'T LOSE](https://open.spotify.com/track/7BPGvv46iAfIbPpGS0a64x) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [CAN'T LOSE](https://open.spotify.com/album/1jC1yVISTAEQ8DOdVxT3tb) | 2:03 |
-| 68 | [Body Groovin'](https://open.spotify.com/track/2KFZwkak8Co1SMmg4kUKon) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Body Groovin'](https://open.spotify.com/album/5VXjvir3QYAi1lwXf0epRa) | 2:47 |
+| 68 | [Body Groovin'](https://open.spotify.com/track/2KFZwkak8Co1SMmg4kUKon) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Crystxl King](https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt) | [Body Groovin'](https://open.spotify.com/album/5VXjvir3QYAi1lwXf0epRa) | 2:47 |
 | 69 | [Angel](https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Angel](https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl) | 3:19 |
 | 70 | [Boys "R" Us](https://open.spotify.com/track/47EiQ0NtMyrAcV2dRfXrul) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:09 |
 | 71 | [Nemo](https://open.spotify.com/track/2w2L4OOObSNeOEy4biMGqn) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [The South's Got Something To Say](https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I) | 2:21 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 128 | [Dubby](https://open.spotify.com/track/6rPbTqoepgoHoDZrBItweP) | [Play Nice](https://open.spotify.com/artist/1ghxd86r7phiK0vgytiGkh) | [Dubby](https://open.spotify.com/album/5Tgqa6Sze1uf3X4SV8hUqg) | 1:28 |
 | 129 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 |
 
-Snapshot ID: `MCxhNTY2ZGJlY2YzMTVkMDA5M2JjNjJjZDc3OTIwMTZjYWQ5ZDQ3NzJi`
+Snapshot ID: `MCxlMGJlZTE5ODRlMWUzMDA2M2M3NjJmODNiOTU2ODhkZTBkZTUwNWRk`

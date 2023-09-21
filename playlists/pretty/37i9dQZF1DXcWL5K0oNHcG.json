@@ -1,12 +1,12 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Mohini Dey Artwork: Joy Yamusangie",
-  "num_followers": 196008,
+  "num_followers": 196370,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDU2ODMwMGYzZjIyOGNiOWE4OGUyMWI5ZDBiYjk3Zjc1OWM5ODIy",
+  "snapshot_id": "MCw4OTk5N2Y0ZTViNWIwY2U4MmRjMDIzMzUzYWFmOWNhMTZjODg2OTAw",
   "tracks": [
     {
       "added_at": "2023-09-13 04:00:00",
@@ -23,6 +23,118 @@
       "duration_ms": 328850,
       "name": "Introverted Soul",
       "url": "https://open.spotify.com/track/1UtSgVxpPmmTXZSZHLkSG5"
+    },
+    {
+      "added_at": "2023-09-20 04:00:00",
+      "album": {
+        "name": "Cheeks",
+        "url": "https://open.spotify.com/album/4hBJ4yuHlP879Yk01Bdmb3"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        },
+        {
+          "name": "Phoebe Katis",
+          "url": "https://open.spotify.com/artist/0hPB6WmY4JXhcrficlznCx"
+        }
+      ],
+      "duration_ms": 261226,
+      "name": "Cheeks",
+      "url": "https://open.spotify.com/track/6ROXNf5f4tpcezPJKs3LH2"
+    },
+    {
+      "added_at": "2023-09-20 04:00:00",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/6Hnr6DhyIVBZMTKWK4XqDK"
+      },
+      "artists": [
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "duration_ms": 321001,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/1Vt0E7gu9xbya2zfw62RIa"
+    },
+    {
+      "added_at": "2023-09-20 04:00:00",
+      "album": {
+        "name": "The Pearl That Glitters",
+        "url": "https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        }
+      ],
+      "duration_ms": 223256,
+      "name": "The Pearl That Glitters",
+      "url": "https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0"
+    },
+    {
+      "added_at": "2023-09-20 04:00:00",
+      "album": {
+        "name": "Fall into It",
+        "url": "https://open.spotify.com/album/1Dp5NoXeq18LVvY5op0wab"
+      },
+      "artists": [
+        {
+          "name": "Cumulus Frisbee",
+          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Fall into It",
+      "url": "https://open.spotify.com/track/4v16AkCUZ4l2ZWlbXAuP6s"
+    },
+    {
+      "added_at": "2023-09-20 04:00:00",
+      "album": {
+        "name": "Dog Dad",
+        "url": "https://open.spotify.com/album/1NCtxst9iKyHJhz8AaXG9f"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        },
+        {
+          "name": "Zephyr Avalon",
+          "url": "https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Dog Dad",
+      "url": "https://open.spotify.com/track/5oYqFfdwufBro2yGltvXWo"
+    },
+    {
+      "added_at": "2023-09-20 04:00:00",
+      "album": {
+        "name": "Wafloza",
+        "url": "https://open.spotify.com/album/3zTGT2HM42sBJUUqH20QCy"
+      },
+      "artists": [
+        {
+          "name": "USO 9001",
+          "url": "https://open.spotify.com/artist/2LJr5bS4sEPVrtyVycvezD"
+        },
+        {
+          "name": "Generacja JAZZ",
+          "url": "https://open.spotify.com/artist/6GqcwF7WusQH8weRTsNCYx"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Wafloza",
+      "url": "https://open.spotify.com/track/5JUbTRNhIBGiZ1HzZVHFwu"
     },
     {
       "added_at": "2023-09-13 04:00:00",
@@ -517,26 +629,6 @@
       "url": "https://open.spotify.com/track/4ucg669twDqiGSeK3cz0Xv"
     },
     {
-      "added_at": "2023-08-16 04:00:00",
-      "album": {
-        "name": "Fogroller",
-        "url": "https://open.spotify.com/album/7M3zU9XARi5vAoMrDbTWtA"
-      },
-      "artists": [
-        {
-          "name": "Cumulus Frisbee",
-          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
-        },
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "Fogroller",
-      "url": "https://open.spotify.com/track/27SQJ9SjomCECqYONTpzHe"
-    },
-    {
       "added_at": "2023-06-28 04:00:00",
       "album": {
         "name": "Have You Seen This Queen",
@@ -937,46 +1029,6 @@
       "url": "https://open.spotify.com/track/24avbxBHzoXBCoAgNlHIw2"
     },
     {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
-        "name": "kott",
-        "url": "https://open.spotify.com/album/7B56FhrPR5huyNERWUeAzB"
-      },
-      "artists": [
-        {
-          "name": "kott",
-          "url": "https://open.spotify.com/artist/1HUkrxVTqGFRP2KZ1J4cnV"
-        }
-      ],
-      "duration_ms": 286733,
-      "name": "wind sound",
-      "url": "https://open.spotify.com/track/0aDMPHO749L7hLfkwSWjOV"
-    },
-    {
-      "added_at": "2023-06-28 04:00:00",
-      "album": {
-        "name": "Hopes and Dreams",
-        "url": "https://open.spotify.com/album/1Is10Y8DQnb8RIKDfl4hHe"
-      },
-      "artists": [
-        {
-          "name": "Addison Frei",
-          "url": "https://open.spotify.com/artist/4NfMAQV9vkPudAdPGTDKSq"
-        },
-        {
-          "name": "Julia Easterlin",
-          "url": "https://open.spotify.com/artist/4f4k9MkmDmRToDktQomwrX"
-        },
-        {
-          "name": "Mike Brun",
-          "url": "https://open.spotify.com/artist/7aznf5FSlgVx37GziHBNDD"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "Hopes and Dreams",
-      "url": "https://open.spotify.com/track/1Ju7jwZPIMa39lV5DWx4aC"
-    },
-    {
       "added_at": "2023-07-05 04:00:00",
       "album": {
         "name": "The Never Acting Story",
@@ -1081,22 +1133,6 @@
       "url": "https://open.spotify.com/track/7feB9jfrgVCNjJVpwQH3ja"
     },
     {
-      "added_at": "2023-06-28 04:00:00",
-      "album": {
-        "name": "Diagnosis",
-        "url": "https://open.spotify.com/album/3aZsnirge4waNPaR1nvZRE"
-      },
-      "artists": [
-        {
-          "name": "Sen Morimoto",
-          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Diagnosis",
-      "url": "https://open.spotify.com/track/7vlddLsCrx8WdhCHgvHd7b"
-    },
-    {
       "added_at": "2023-07-12 19:57:20",
       "album": {
         "name": "Brundo (Mendo Pt. 2)",
@@ -1111,22 +1147,6 @@
       "duration_ms": 155202,
       "name": "Brundo (Mendo Pt. 2)",
       "url": "https://open.spotify.com/track/7MewgSZ1EUZerZvFBJsNuY"
-    },
-    {
-      "added_at": "2023-06-21 04:00:00",
-      "album": {
-        "name": "On the Other Side",
-        "url": "https://open.spotify.com/album/13hiwu3h80VxxLOuWSABCX"
-      },
-      "artists": [
-        {
-          "name": "Dee Byrne",
-          "url": "https://open.spotify.com/artist/1JbY6VyyZE1qfHp2fXpMVt"
-        }
-      ],
-      "duration_ms": 516853,
-      "name": "On the Other Side",
-      "url": "https://open.spotify.com/track/41uzGdULkfO33YjY5QAe7O"
     },
     {
       "added_at": "2023-07-05 04:00:00",
@@ -1371,26 +1391,6 @@
       "duration_ms": 182778,
       "name": "Storm Rider",
       "url": "https://open.spotify.com/track/4NgYhrMBeuotD2GWDDAbzJ"
-    },
-    {
-      "added_at": "2023-06-14 04:00:00",
-      "album": {
-        "name": "Hi Jack!",
-        "url": "https://open.spotify.com/album/44NrqD8iebqWU9ctYfxBHD"
-      },
-      "artists": [
-        {
-          "name": "Digo",
-          "url": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
-        },
-        {
-          "name": "Eric Escanes",
-          "url": "https://open.spotify.com/artist/4OZp27Cc1JZprOvcjuoOb9"
-        }
-      ],
-      "duration_ms": 267853,
-      "name": "Hi Jack!",
-      "url": "https://open.spotify.com/track/6hIl0ubhTcYbC2QaeeANgA"
     },
     {
       "added_at": "2023-08-09 13:10:04",

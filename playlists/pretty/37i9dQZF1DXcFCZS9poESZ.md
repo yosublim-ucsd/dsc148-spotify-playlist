@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,814 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,862 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 22 | [マクロス](https://open.spotify.com/track/59zFcJwbApXslmiReVTQj6) | [藤原誠](https://open.spotify.com/artist/4qXbRIljCeveb6lxk0zZx2) | [マクロス　SONGコレクション 2002](https://open.spotify.com/album/57NFqW2IxIOqtSBR6uA1Wo) | 3:10 |
 | 23 | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/track/5vuNDp85EOew3Bx63d0SVy) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Mizu no Hoshi e Ai wo Komete](https://open.spotify.com/album/4b09ZEwTUs3uJKXVzKi823) | 3:41 |
 | 24 | [ペガサス幻想 \(21st century ver.\)](https://open.spotify.com/track/61XLSs4TKj8Ac0LFWz0j0L) | [Make\-Up](https://open.spotify.com/artist/0zCouXT81OzO9waNn1PjAh) | [The Voice From Yesterday](https://open.spotify.com/album/1upxJvZfXW9MotDke2YARu) | 3:37 |
-| 25 | [愛よ ファラウェイ](https://open.spotify.com/track/1wIZ1LQw6t2v9HLViT67TX) | [Rie Fujiwara](https://open.spotify.com/artist/61EJNeLSuvuA8n8As8YENc) | [青春したい](https://open.spotify.com/album/0QuyqSiuLLidVAr5sNyLfX) | 3:51 |
+| 25 | [愛よ　ファラウェイ](https://open.spotify.com/track/1wIZ1LQw6t2v9HLViT67TX) | [Rie Fujiwara](https://open.spotify.com/artist/61EJNeLSuvuA8n8As8YENc) | [青春したい](https://open.spotify.com/album/0QuyqSiuLLidVAr5sNyLfX) | 3:51 |
 | 26 | [Kanashimi wa Beat ni Kaete \~ Rise and Shine \~ \(Bonus Track\)](https://open.spotify.com/track/3RhVQ3218s7D8IigCIGWeD) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Lapis Lazuli](https://open.spotify.com/album/0Xt59Se0urYzrnJ0OjdVGD) | 5:00 |
 | 27 | [RUNNING TO HORIZON](https://open.spotify.com/track/2asLNnI5Kz68y83uS5aMav) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [Digitalian is eating breakfast](https://open.spotify.com/album/4ClHbl3AUrQeGH5GEg7QgT) | 4:53 |
 | 28 | [燃えてヒーロー](https://open.spotify.com/track/177W3nNOUxB9eT32Qe6inf) | [Hiroyuki Okita](https://open.spotify.com/artist/2CiTSESk14vAYVy0g8PmUd) | [ゴールデン☆ベスト　沖田浩之](https://open.spotify.com/album/6XhYUm32PBkWZ6usgF5hce) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 49 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
 | 50 | [Meguriai](https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Meguriai](https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt) | 4:23 |
 
-Snapshot ID: `MCxhMTU3NTE1ZDE0MmYwZDAzODhmZDM3NjBlZWUyMjAzY2FiYWQ3Mjdh`
+Snapshot ID: `MCw1NTc5NTdkNmJhZDIxZjgwZWJjNTRmOGU5YTlhZTBhYmM0NDgyYjhh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,735 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,742 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 7 | [Passion \- Tokyonite Remix](https://open.spotify.com/track/2KxImqKfhMcmu3AubQtRVy) | [Lucky Choice](https://open.spotify.com/artist/0q401hK4OVTMci3jNf3zf3), [Tokyonite](https://open.spotify.com/artist/5WttUzDUxd2UC83jyglcBb) | [Passion \(Tokyonite Remix\)](https://open.spotify.com/album/5QqtBAqsayKVECAwUeBaUT) | 2:55 |
 | 8 | [Mwele \- Chalee Remix](https://open.spotify.com/track/07lE4WqD5v3jZgwiYSk5H8) | [Egeme](https://open.spotify.com/artist/2G6oOdpqtQw5y2sb3JHshd), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c) | [Mwele \(Chalee Remix\)](https://open.spotify.com/album/1f5eRNVwmLj7BnteTVfJJs) | 6:59 |
 | 9 | [Down to Me \- Davis B Remix](https://open.spotify.com/track/6qAlulFqO10Bn06eGpa9tB) | [KAMUSHEZ](https://open.spotify.com/artist/45IuInsqovfU1Xg1a5YZdS), [Dattie Capelli](https://open.spotify.com/artist/7n0IL4h59BSGNAwPjAI5E9), [Davis B](https://open.spotify.com/artist/2eE77mWsLL4m0d9w3OWVws) | [Down To Me \(Davis B Remix\)](https://open.spotify.com/album/5ycXRLiOjsA2g8NaeFHesJ) | 6:33 |
-| 10 | [Walking On Water](https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D) | [Obi Sanaa](https://open.spotify.com/artist/6Jwq0DU8WsVYLYyJqzfhEM), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Walking on Water](https://open.spotify.com/album/7ofRbTcpB7C0hYNhBL18p7) | 3:45 |
+| 10 | [Walking On Water](https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D) | [Obi Sanaa](https://open.spotify.com/artist/6Jwq0DU8WsVYLYyJqzfhEM), [Fynite](https://open.spotify.com/artist/2ZuNcbGsaXWwd4BEejFXJD), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Walking on Water](https://open.spotify.com/album/7ofRbTcpB7C0hYNhBL18p7) | 3:45 |
 | 11 | [Umoya](https://open.spotify.com/track/00f6dMrGyyVh0HaCmaNE7F) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [We Live 4 Our Music](https://open.spotify.com/album/0GtP5C0gsYAVubcDHkCpai) | 7:16 |
 | 12 | [Simama](https://open.spotify.com/track/4TqKsQ4KIcjLIRUUHx8izd) | [KLAAN](https://open.spotify.com/artist/3m6BKTRlaOuhaFauW2jRD6), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Simama](https://open.spotify.com/album/1vGGNki1oydOSOLeHYqF0b) | 4:00 |
 | 13 | [Last Summer](https://open.spotify.com/track/6F1oIKnT2vubFelcGsd1OF) | [Da Druma](https://open.spotify.com/artist/4PBDIbJLiIUeIpa16eUHl2), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Last Summer](https://open.spotify.com/album/2heXBgWJgIya6igxO0PeNJ) | 7:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 59 | [We Belong \- Breeze and The Sun & Neil Amarey Remix](https://open.spotify.com/track/0AZY6dQC8KDdTHReXHzeEm) | [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h), [ADJUMA](https://open.spotify.com/artist/5BDQAVSa4c1UsvXlmufpio), [Lyrical Ivy](https://open.spotify.com/artist/00gOWMo5dBzdqNDD4Far5L), [Breeze and The Sun](https://open.spotify.com/artist/6cc71VVfi25FC7OzhblV6q), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [We Belong](https://open.spotify.com/album/0Fnrgyr4rw6oYyrsJMLZO0) | 6:12 |
 | 60 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 |
 
-Snapshot ID: `MCwxNTcwY2EzMGRjZjgxYTNmOWZhYzU5ZGEzNWNiNmJlYTk3YjRhMTFi`
+Snapshot ID: `MCxkZjQ1NTdjNWViOWFiZjE0MTJiYjAyNjYwY2Q4NTFjYTY3MjU5N2Yz`

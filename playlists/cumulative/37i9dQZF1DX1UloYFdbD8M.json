@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 252947,
       "name": "Anthinilavin",
       "url": "https://open.spotify.com/track/3F7J8kh9Eee6groFjPboaQ"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 275733,
       "name": "Athe Nila (From \"I'm Original\") by Job Kurian",
       "url": "https://open.spotify.com/track/6JBA5WfUCN5vyZ30SYdkmk"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 260163,
       "name": "Bloom in Green",
       "url": "https://open.spotify.com/track/6UhEBIm3jqq7l07WP1ckbA"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 206640,
       "name": "Chaaya Makkaani",
       "url": "https://open.spotify.com/track/7uRnNmG9t6vFGv2gdpDPEu"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 128639,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/7eKt7ajY0UA5xsVdL2JWVd"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 151385,
       "name": "Green Bean",
       "url": "https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 295455,
       "name": "Kanne - Namah",
       "url": "https://open.spotify.com/track/3HIY7dBeJVAl8lIkFijDd7"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 281826,
       "name": "Mulla (From Hope Project)",
       "url": "https://open.spotify.com/track/4ITlckASNAmB8JE0u7Fm3T"
@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Nenjin Novu",
+        "url": "https://open.spotify.com/album/0hlAkV5vUDlZeRMTUW0oBp"
+      },
+      "artists": [
+        {
+          "name": "Amrutam Gamay",
+          "url": "https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244506,
+      "name": "Nenjin Novu",
+      "url": "https://open.spotify.com/track/58oiYy0OR9ji3nlhHYSRYz"
+    },
+    {
+      "album": {
         "name": "Nerin Naadu (Live Version)",
         "url": "https://open.spotify.com/album/338A6rW4fqzmxcGcaC4nuO"
       },
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 285428,
       "name": "Nerin Naadu - Live Version",
       "url": "https://open.spotify.com/track/1t5cOvtJI4O3C0uOTEHNYA"
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 353791,
       "name": "Roots - Live",
       "url": "https://open.spotify.com/track/0sPgcRyCrdI2CTdJ35brMM"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 360066,
       "name": "Thaalam - Version 1",
       "url": "https://open.spotify.com/track/0Y2Z5RLw2MPLVC3mQj9EK9"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 560146,
       "name": "Thekkini - Namah",
       "url": "https://open.spotify.com/track/7bRIK5g2gjNhmBDoL9Vvb1"
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 375750,
       "name": "Thoomani Maadathu",
       "url": "https://open.spotify.com/track/7bfxkRgmXbVr81Dv4fwknz"

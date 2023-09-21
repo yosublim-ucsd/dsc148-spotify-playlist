@@ -4,7 +4,7 @@
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-87 songs - 6 hr 55 min
+89 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 | 2019-06-28 |  |
 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 | 2019-06-28 |  |
 | [Boogie Oogie Oogie \- Single Version 2 / Remastered 1999](https://open.spotify.com/track/0y0QpmcF1G3F79rjk3fjUx) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/2WDP1yNTx3cBR9LBE4Ribh) | 5:38 | 2019-06-28 |  |
-| [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 | 2019-06-28 |  |
+| [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 | 2019-06-28 | 2023-09-21 |
 | [Come On Home](https://open.spotify.com/track/7wX5tZpq0G7BGhKfl4Dmlx) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Rough Guide To African Disco](https://open.spotify.com/album/0S10kevURt2TwJ2ZUcKRSM) | 5:16 | 2019-06-28 | 2022-07-29 |
+| [Come on Home](https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt) | 5:18 | 2022-09-26 |  |
 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 | 2019-06-28 |  |
 | [Desires](https://open.spotify.com/track/1BWnAnHrIjRsOb4F9xC0P7) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron All The Way](https://open.spotify.com/album/0h58dYQtgHRiW9GQbBhmKY) | 6:51 | 2019-06-28 |  |
 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 | 2019-06-28 | 2022-07-29 |
@@ -94,6 +95,7 @@
 | [What Do I Do](https://open.spotify.com/track/35VHx3LQugwKPSTEYKa4FM) | [Phil Fearon](https://open.spotify.com/artist/1UXbr4S5dk24DLPoEMxSJF), [Galaxy](https://open.spotify.com/artist/6ZQoOkrCsTU1L1imn5k8Mn) | [All the Hits](https://open.spotify.com/album/2id7AyzgbGuYmGOiYjeqJA) | 3:29 | 2019-06-28 | 2022-07-29 |
 | [What Do I Do](https://open.spotify.com/track/4ZvObq9XNo342rXAwjZZNk) | [Phil Fearon](https://open.spotify.com/artist/1UXbr4S5dk24DLPoEMxSJF), [Galaxy](https://open.spotify.com/artist/6ZQoOkrCsTU1L1imn5k8Mn) | [The Greatest Hits](https://open.spotify.com/album/5lygRO7XrugRMJCwwaJ7Qj) | 3:29 | 2022-09-26 | 2022-11-13 |
 | [What Do I Do](https://open.spotify.com/track/6E9uCbwEGkY4AXDFCiSfSH) | [Phil Fearon](https://open.spotify.com/artist/1UXbr4S5dk24DLPoEMxSJF), [Galaxy](https://open.spotify.com/artist/6ZQoOkrCsTU1L1imn5k8Mn) | [All the Hits](https://open.spotify.com/album/694z31mMGJZ5pdK9cdBzYI) | 3:29 | 2019-06-28 |  |
-| [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2019-06-28 |  |
+| [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 | 2022-09-26 |  |
+| [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2019-06-28 | 2023-09-21 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-118 songs - 7 hr 4 min
+119 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [It's You \- Octo Octa's Slammin' With U Mix](https://open.spotify.com/track/0rvNuB5BXzKsTJpKsxITJx) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Est\. 2003 Remixed](https://open.spotify.com/album/0efP0XrVbf4ibtV2mPyp7s) | 6:15 | 2023-06-01 | 2023-07-01 |
 | [JULIETTE! \(Feat\. UMI\)](https://open.spotify.com/track/1VREVb61J8aSWrT2sMrnfu) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:06 | 2023-06-01 | 2023-07-01 |
 | [K I'm Mortal](https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [K I'm Mortal](https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P) | 3:40 | 2022-05-02 |  |
-| [Kaitlin](https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Kaitlin](https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT) | 4:23 | 2023-06-30 |  |
+| [Kaitlin](https://open.spotify.com/track/0GY8oiVq2iY4lufOmhXPW4) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Kaitlin](https://open.spotify.com/album/4HKc9NdbLgaMnjqZMM2FnY) | 4:23 | 2023-06-30 |  |
+| [Kaitlin](https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Kaitlin](https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT) | 4:23 | 2023-06-30 | 2023-09-21 |
 | [Kanpai](https://open.spotify.com/track/52biEYzkGFPV0LHPpMjhtj) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Kanpai](https://open.spotify.com/album/30AIJOYpHFVANyl0v7moz5) | 2:45 | 2023-06-01 | 2023-07-01 |
 | [Lexicon](https://open.spotify.com/track/5JqjjoSo5SilrNSwzK8MdY) | [Robert Yang](https://open.spotify.com/artist/2dAhuXJAxRY1bWZYLpfkCe) | [Lexicon](https://open.spotify.com/album/0F7fNGUzSf0ouCqCTebDow) | 7:38 | 2023-06-01 | 2023-07-01 |
 | [Live Your Story](https://open.spotify.com/track/6dXkX4y7QWoTkhjAnjRw7h) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Live Your Story](https://open.spotify.com/album/4EZsKG8lQLmphvWsXFaYNx) | 3:26 | 2021-06-04 | 2022-05-03 |

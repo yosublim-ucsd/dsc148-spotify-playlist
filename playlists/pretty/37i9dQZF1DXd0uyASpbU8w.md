@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=vFO09PVvRZ6RZuRt\_FlJNg">Nasty C</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,471 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,535 likes - 65 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 64 | [Too Far Gone? \(Live at MetLife Stadium, East Rutherford, NJ – August 6, 2023\)](https://open.spotify.com/track/4P5M6lFGdjz58JJK6hYW8w) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Too Far Gone? \(Live at MetLife Stadium, East Rutherford, NJ – August 6, 2023\)](https://open.spotify.com/album/4fd8mqhFEDpn8sJitGqS8k) | 4:48 |
 | 65 | [Pounds & Dollars](https://open.spotify.com/track/3AZgT5PLKg2MvDZosiUbtK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Wouter Kellerman](https://open.spotify.com/artist/10Rq3Te2tos6wrd84zWxml) | [Pounds & Dollars](https://open.spotify.com/album/2Qo6netL2LkiOFuQlLCP0I) | 2:55 |
 
-Snapshot ID: `MCwwNjA3ZGVhNGI4YTE4MzQ1ZDNhZDgzZGFkMTE0YWNmODQxYjNhYzQ5`
+Snapshot ID: `MCw2YTkwOWQyMDc1ZGRhZWY4ODNhOTQ2YzNmMTk4NzA5N2JmNzlhZjNh`

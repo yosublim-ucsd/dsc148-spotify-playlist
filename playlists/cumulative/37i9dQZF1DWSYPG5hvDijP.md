@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-150 songs - 8 hr 9 min
+151 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-29 |  |
 | [Oh My God](https://open.spotify.com/track/2a5XIrIFr3jDlxP3xAYIc5) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Oh My God](https://open.spotify.com/album/5KOYQGntgYRosJlKfc5G26) | 2:46 | 2023-03-29 |  |
 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 | 2023-03-29 |  |
+| [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 |  |
 | [Players](https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [Players](https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL) | 2:51 | 2023-03-29 | 2023-04-17 |
 | [Posterize \- From "epbl Pre\-Season Anthem"](https://open.spotify.com/track/3UZtufO3yR0BMrt9RHxw4A) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [ATHRV](https://open.spotify.com/artist/1Qdg9IrqdbU1J2TG7ORCHx) | [Posterize \(From "epbl Pre\-Season Anthem"\)](https://open.spotify.com/album/2J2rR2osjdly1HyJIBo4oO) | 2:51 | 2023-04-16 |  |
 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 | 2023-08-29 |  |

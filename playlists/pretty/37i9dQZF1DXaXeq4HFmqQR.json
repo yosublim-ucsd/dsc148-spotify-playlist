@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Paula Rivas.\nDales PLAY, dales POWER.",
-  "num_followers": 12636,
+  "num_followers": 12659,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjFhMmI5YTA0YTliN2E3MTY5MmE5YzI3YmY5NDNjMzBjZDFkOTIw",
+  "snapshot_id": "MCwzY2U1ZDI5N2FlM2Y1ZmM1NTYyZGIyNWRmMDRhOTU3Njg3NWE4NzM2",
   "tracks": [
     {
       "added_at": "2023-09-06 16:30:16",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "Doncella",
-        "url": "https://open.spotify.com/album/7DRvyobzwi9UOhFAagwe6D"
-      },
-      "artists": [
-        {
-          "name": "Dainesitta",
-          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
-        }
-      ],
-      "duration_ms": 214468,
-      "name": "Doncella",
-      "url": "https://open.spotify.com/track/20HsMGWCEbTCCpqBriaaSK"
-    },
-    {
-      "added_at": "2023-09-06 16:30:16",
-      "album": {
         "name": "La Gran Fonda de Chile",
         "url": "https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 206729,
       "name": "Cartas Marcadas",
       "url": "https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb"
+    },
+    {
+      "added_at": "2023-09-06 16:30:16",
+      "album": {
+        "name": "Doncella",
+        "url": "https://open.spotify.com/album/7DRvyobzwi9UOhFAagwe6D"
+      },
+      "artists": [
+        {
+          "name": "Dainesitta",
+          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
+        }
+      ],
+      "duration_ms": 214468,
+      "name": "Doncella",
+      "url": "https://open.spotify.com/track/20HsMGWCEbTCCpqBriaaSK"
     },
     {
       "added_at": "2023-09-06 16:30:16",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-06 16:30:16",
       "album": {
-        "name": "Todos Vamos a Morir",
-        "url": "https://open.spotify.com/album/3MPk4nmLplRdQgeaFy3hN3"
-      },
-      "artists": [
-        {
-          "name": "La Culebrera",
-          "url": "https://open.spotify.com/artist/6Lq6dDbzgmYt6BUtu8rdhW"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Fiesta de Arreboles",
-      "url": "https://open.spotify.com/track/0uPbXn4yt2KdswEb1ShChO"
-    },
-    {
-      "added_at": "2023-09-06 16:30:16",
-      "album": {
         "name": "Estabas Ah\u00ed",
         "url": "https://open.spotify.com/album/0YU3M1COCndvvYbpWwMoo1"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 207389,
       "name": "Estabas Ah\u00ed",
       "url": "https://open.spotify.com/track/27dh77ARViIpPL0Om53dKU"
+    },
+    {
+      "added_at": "2023-09-06 16:30:16",
+      "album": {
+        "name": "Todos Vamos a Morir",
+        "url": "https://open.spotify.com/album/3MPk4nmLplRdQgeaFy3hN3"
+      },
+      "artists": [
+        {
+          "name": "La Culebrera",
+          "url": "https://open.spotify.com/artist/6Lq6dDbzgmYt6BUtu8rdhW"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Fiesta de Arreboles",
+      "url": "https://open.spotify.com/track/0uPbXn4yt2KdswEb1ShChO"
     },
     {
       "added_at": "2023-09-06 16:30:16",

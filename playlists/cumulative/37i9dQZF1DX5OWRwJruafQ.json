@@ -3707,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Talk Of The Town",
+        "url": "https://open.spotify.com/album/5D5jhPD32tNWbA16EKnpex"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/3i3sEkHQSDHjuWRIBKLGQC"
+    },
+    {
+      "album": {
         "name": "Saroor",
         "url": "https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG"
       },
@@ -3822,6 +3840,24 @@
       "duration_ms": 192000,
       "name": "Tinted Windows",
       "url": "https://open.spotify.com/track/6KLca4Dxyf5ArZoyqgmwhr"
+    },
+    {
+      "album": {
+        "name": "Top Flame",
+        "url": "https://open.spotify.com/album/2DcComXPapapQcGrNSuPkt"
+      },
+      "artists": [
+        {
+          "name": "JERRY",
+          "url": "https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164524,
+      "name": "Top Flame",
+      "url": "https://open.spotify.com/track/3u6jK5KR1ijBCUs4CLzV9c"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjUyYTBhNTEwMmE3YzJlM2FmNWJhNjFlOTM3MTYyZjcxYmUzNTZi",
+  "snapshot_id": "MCw3YjVjYzBlNjVmZmNlMjQxOGRjMDM0NTdjN2E3NWFlNzBlNTJiYTEx",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -907,8 +907,8 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Vagabundos",
-        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
+        "name": "La Petronita",
+        "url": "https://open.spotify.com/album/5DABOax69Bnhi7H89iVM8a"
       },
       "artists": [
         {
@@ -918,11 +918,15 @@
         {
           "name": "Yvvan Back",
           "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
         }
       ],
-      "duration_ms": 157530,
-      "name": "Vagabundos",
-      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
+      "duration_ms": 203016,
+      "name": "La Petronita",
+      "url": "https://open.spotify.com/track/5w0OSwh9MmgIipn79aIz3R"
     },
     {
       "added_at": "2021-10-08 15:53:55",

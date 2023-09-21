@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Out And About",
+        "url": "https://open.spotify.com/album/2bKHMre3gmKDHNtYotUMgi"
+      },
+      "artists": [
+        {
+          "name": "Lewsberg",
+          "url": "https://open.spotify.com/artist/49q3PS0SzgbyvWDwZj7qg5"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179204,
+      "name": "A Different View",
+      "url": "https://open.spotify.com/track/15rMAd95cySgR8jgLgrlXI"
+    },
+    {
+      "album": {
         "name": "A Ghost In The Weed Garden",
         "url": "https://open.spotify.com/album/7ygpAZedWTikPn8PtNJbGU"
       },
@@ -302,6 +320,28 @@
       "duration_ms": 285066,
       "name": "Agreeing For Two",
       "url": "https://open.spotify.com/track/0OaZ3lUufHXFuSd67agjS4"
+    },
+    {
+      "album": {
+        "name": "Bonus Prize",
+        "url": "https://open.spotify.com/album/5RufJjyqqA9Yv5ye1ceLGf"
+      },
+      "artists": [
+        {
+          "name": "Rozi Plain",
+          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
+        },
+        {
+          "name": "sir Was",
+          "url": "https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249677,
+      "name": "Agreeing For Two - sir Was Remix",
+      "url": "https://open.spotify.com/track/0h2YU8fXuPleJjnFf5erim"
     },
     {
       "album": {
@@ -1227,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "Big Hitters",
+        "url": "https://open.spotify.com/album/3fBZenA8oKCZ32iti1NrBG"
+      },
+      "artists": [
+        {
+          "name": "PREGOBLIN",
+          "url": "https://open.spotify.com/artist/06qVD2kbL38EYhHpSOu6jh"
+        },
+        {
+          "name": "Armand Schaubroeck",
+          "url": "https://open.spotify.com/artist/6dqRi1k8fVwdySa7UuCK54"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232626,
+      "name": "Big Hitters",
+      "url": "https://open.spotify.com/track/0CFv2Z6kBVMsX3BntqI9GM"
+    },
+    {
+      "album": {
         "name": "Premonition",
         "url": "https://open.spotify.com/album/2GOtfNmU1wjE1JkTdL7ylu"
       },
@@ -1656,7 +1718,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 242080,
       "name": "Casino Niagara",
       "url": "https://open.spotify.com/track/34X6sen1cw8Vs96nBk79OK"
@@ -5513,6 +5575,28 @@
     },
     {
       "album": {
+        "name": "Parayellowgram",
+        "url": "https://open.spotify.com/album/6NMywaWXkCR8ES6n88MTrt"
+      },
+      "artists": [
+        {
+          "name": "M. Sage",
+          "url": "https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR"
+        },
+        {
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602647,
+      "name": "It Is Isn\u2019t It",
+      "url": "https://open.spotify.com/track/1pb1lrLnCD3R7iR0oi1PF1"
+    },
+    {
+      "album": {
         "name": "it isnt fair",
         "url": "https://open.spotify.com/album/4C3LVzyMPr8DIlmQoMwQtl"
       },
@@ -5974,7 +6058,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 194583,
       "name": "LA Hex",
       "url": "https://open.spotify.com/track/2J40ajaXq2hP9Z1xxwbad0"
@@ -6017,6 +6101,28 @@
     },
     {
       "album": {
+        "name": "Le Temple Volant",
+        "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        },
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125893,
+      "name": "Le Temple Volant",
+      "url": "https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb"
+    },
+    {
+      "album": {
         "name": "Leavin",
         "url": "https://open.spotify.com/album/1RHQm5DPitTEdZgS43L6GJ"
       },
@@ -6050,6 +6156,24 @@
       "duration_ms": 183693,
       "name": "Let The Lights On",
       "url": "https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN"
+    },
+    {
+      "album": {
+        "name": "Letter",
+        "url": "https://open.spotify.com/album/4y0SZAmMV2wtIBhvz5cz1h"
+      },
+      "artists": [
+        {
+          "name": "Shiny Darkly",
+          "url": "https://open.spotify.com/artist/5axBzopsG3UvolS4jSr4vz"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258124,
+      "name": "Letter",
+      "url": "https://open.spotify.com/track/12lBhmDn6WbAucSgzbOOhb"
     },
     {
       "album": {
@@ -6912,7 +7036,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 263990,
       "name": "Mother - George FitzGerald Remix",
       "url": "https://open.spotify.com/track/1vgxVLYzVL4OHbPMie9Ngu"
@@ -7058,6 +7182,24 @@
       "duration_ms": 368146,
       "name": "My Guardian Angel",
       "url": "https://open.spotify.com/track/5f5T1lDkkZov7i0yCI5u7z"
+    },
+    {
+      "album": {
+        "name": "my little tony",
+        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179562,
+      "name": "my little tony",
+      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
     },
     {
       "album": {
@@ -7304,7 +7446,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 347358,
       "name": "No More - Shabaka Remix",
       "url": "https://open.spotify.com/track/1e1yQEPLJmi78EdXuEmjzy"
@@ -8946,7 +9088,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 160933,
       "name": "Short and Round",
       "url": "https://open.spotify.com/track/0fQwcxAWI9dlCQxgzLM6g3"
@@ -9004,6 +9146,24 @@
       "duration_ms": 248586,
       "name": "Sidecar",
       "url": "https://open.spotify.com/track/5vklbIHGsIjPDoMCWxywQ6"
+    },
+    {
+      "album": {
+        "name": "Strange Disciple",
+        "url": "https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259773,
+      "name": "Sightseer",
+      "url": "https://open.spotify.com/track/5ZlMMZJ7dQ8S8iqppKaifH"
     },
     {
       "album": {
@@ -9370,7 +9530,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 344318,
       "name": "Soul Capturer - Single Version",
       "url": "https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3"
@@ -9810,7 +9970,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 247957,
       "name": "Sweet Tea",
       "url": "https://open.spotify.com/track/2cxtkjiJYEiGD4hcZsjBWr"
@@ -10268,7 +10428,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 310874,
       "name": "the slab",
       "url": "https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp"
@@ -11124,7 +11284,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"

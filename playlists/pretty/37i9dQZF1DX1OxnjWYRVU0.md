@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,848 likes - 356 songs - 15 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,116 likes - 356 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -346,7 +346,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 336 | [Goosebumps](https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps](https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS) | 2:43 |
 | 337 | [Forever Young \(feat\. Leona\)](https://open.spotify.com/track/0YQH3I84QZWalxVLf1PskP) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Leona](https://open.spotify.com/artist/0OF6cV70bUjcaeHJXrsd5G) | [Forever Young \(feat\. Leona\)](https://open.spotify.com/album/71jJShfBMuGvm6srHVSAF2) | 2:21 |
 | 338 | [Moonlight Shadow \- The Cleric Remix](https://open.spotify.com/track/13zjOXnLizxUVYpCuELDN6) | [Micast](https://open.spotify.com/artist/78VRzO7r3mTOajbWPDEpv4), [Kya](https://open.spotify.com/artist/5OruM9E4qdgW3vYYQ1ZQ1P), [The Cleric](https://open.spotify.com/artist/2HrglV3sYvbiF070W0PK79) | [Moonlight Shadow \(The Cleric Remix\)](https://open.spotify.com/album/5XisRTr5PQHkx1wPtGhOf6) | 2:49 |
-| 339 | [I Want It That Way](https://open.spotify.com/track/5XWi1A4aPZsK9qeg7VtQHC) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Meqq](https://open.spotify.com/artist/3YKi4d58HjTvTLAhykgr4T) | [I Want It That Way](https://open.spotify.com/album/7DwRV7UC4wCTtWsDvEDa94) | 2:13 |
+| 339 | [I Want It That Way](https://open.spotify.com/track/3aCfUkxaUGOABeTBNyn5Fa) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Meqq](https://open.spotify.com/artist/3YKi4d58HjTvTLAhykgr4T) | [I Want It That Way](https://open.spotify.com/album/4GDK11e0KpkHHGxVMlNyy2) | 2:13 |
 | 340 | [Otherside](https://open.spotify.com/track/5Innyzx90xdnZgbeES7RI8) | [DJ Fluke](https://open.spotify.com/artist/6CnCjQXjKiV9Ro5GGA8ztB) | [Otherside](https://open.spotify.com/album/2MeTHOcbHm0c2j09tWZj3G) | 2:40 |
 | 341 | [La Isla Bonita](https://open.spotify.com/track/3oJYe7NI7juu1HIGyyvwec) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC) | [La Isla Bonita](https://open.spotify.com/album/2wxqivVtX5tvfwUDfitzg8) | 3:26 |
 | 342 | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/track/4LcgJ3e5qbBs9UOGOMdPZ0) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/album/11dnHaT2j4ouA5YGAi9RvP) | 2:42 |
@@ -365,4 +365,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 355 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 356 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCwxMWIwYjVjOGRiZjhlMjE1MWVhMTdjNDcyNGFmY2ExZjJkYWI1Njg4`
+Snapshot ID: `MCw4MDdiYmViMjRjODU1ZjlhMzNlY2JiNzNjMjM1MjlmNWI5OGU3M2Fi`

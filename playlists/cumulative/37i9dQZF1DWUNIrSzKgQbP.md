@@ -4,7 +4,7 @@
 
 > Falling leaves and cozy tunes.
 
-572 songs - 1 day 11 hr 48 min
+573 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,7 +460,8 @@
 | [Sunset Strip](https://open.spotify.com/track/11GJY4xMU7GcHZ2ODYhHqX) | [J.E\. Sunde](https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW) | [Sunset Strip](https://open.spotify.com/album/5wYMHpstmqwu9rmR9bqgym) | 3:33 | 2022-03-21 | 2022-06-08 |
 | [Swallow](https://open.spotify.com/track/3nabP5VT5CKms8pORQTOjx) | [Postcards From Mars](https://open.spotify.com/artist/7IXOXREuu6HjgHbHvNjjFO) | [Swallow](https://open.spotify.com/album/3ilsnJejDhrOuDgbTYTQOj) | 2:16 | 2022-03-21 | 2022-06-08 |
 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 | 2022-02-07 | 2022-03-22 |
-| [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 | 2023-08-30 |  |
+| [Swimming](https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 | 2023-08-30 |  |
+| [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 | 2023-08-30 | 2023-09-21 |
 | [Swimming](https://open.spotify.com/track/69cm7J1zKMbS9z4oYObomm) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Swimming](https://open.spotify.com/album/6ky6l2QBoPeXe3Zrfym3sO) | 4:12 | 2022-09-06 | 2022-12-21 |
 | [Sword from the Stone](https://open.spotify.com/track/2CtJDDZiXVryDNAlsGyK5W) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/0LjVT3fUFE8bBh3gjQdzOo) | 3:21 | 2021-12-20 | 2022-03-22 |
 | [Take Me Home](https://open.spotify.com/track/0nbQvHWnm5Wq25SFXpfQGp) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Slow Tide](https://open.spotify.com/album/1BlAEi3GIMvEU3grYkLq5t) | 3:01 | 2022-03-21 | 2022-06-08 |

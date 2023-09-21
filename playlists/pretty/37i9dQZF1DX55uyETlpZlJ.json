@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 22769,
+  "num_followers": 22775,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGRkYzlhMDFhNGU5YWRkYjg2MmY0ODJkNGRhNzg2Y2E1M2IwOTU1",
+  "snapshot_id": "MCw0NTljMzZjZjc0NjkzODViNzEzMzMxNGQyMTYyYzVmYmM5NmZiNDQz",
   "tracks": [
     {
       "added_at": "2023-07-20 14:31:09",
@@ -23,46 +23,6 @@
       "duration_ms": 228000,
       "name": "Free",
       "url": "https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL"
-    },
-    {
-      "added_at": "2023-08-23 13:30:48",
-      "album": {
-        "name": "Summane (Female)",
-        "url": "https://open.spotify.com/album/5YWKgzbCNTGUcDGXe48sDe"
-      },
-      "artists": [
-        {
-          "name": "Surabhi Bharadwaj",
-          "url": "https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr"
-        },
-        {
-          "name": "Bharath Gundi",
-          "url": "https://open.spotify.com/artist/3iO5DnfZzC2LYxT1vndPxr"
-        },
-        {
-          "name": "Raghav Aio",
-          "url": "https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO"
-        }
-      ],
-      "duration_ms": 213272,
-      "name": "Summane - Female",
-      "url": "https://open.spotify.com/track/44itZZWBw4sd1LsidpPiwx"
-    },
-    {
-      "added_at": "2023-07-15 09:58:39",
-      "album": {
-        "name": "Thirugo Bhoomi",
-        "url": "https://open.spotify.com/album/3x8jU3iLh8wwLf9AX2HpDa"
-      },
-      "artists": [
-        {
-          "name": "Sai Sharan P Hiremath",
-          "url": "https://open.spotify.com/artist/6cenV56xwYF9NLMZetncWP"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Thirugo Bhoomi",
-      "url": "https://open.spotify.com/track/3eRyegkZdRNpIK4YJw8V6p"
     },
     {
       "added_at": "2023-09-13 11:53:53",
@@ -145,6 +105,22 @@
       "url": "https://open.spotify.com/track/7wYCvC8zWp3rcCoj0seOQY"
     },
     {
+      "added_at": "2023-09-20 12:58:41",
+      "album": {
+        "name": "Sahavaasa",
+        "url": "https://open.spotify.com/album/33AjV8NCgBekha704N5DC8"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "duration_ms": 91984,
+      "name": "Sahavaasa",
+      "url": "https://open.spotify.com/track/3rv2dzhrrimcWrEAqb6yMc"
+    },
+    {
       "added_at": "2023-08-31 13:05:24",
       "album": {
         "name": "Stronger",
@@ -163,6 +139,62 @@
       "duration_ms": 62918,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4bOP9QVpv7oFJEgm0xmX25"
+    },
+    {
+      "added_at": "2023-09-20 12:58:41",
+      "album": {
+        "name": "Olave Manasiga",
+        "url": "https://open.spotify.com/album/0jHmdudtk8RXjuFGnVk2fX"
+      },
+      "artists": [
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH"
+        }
+      ],
+      "duration_ms": 250269,
+      "name": "Olave Manasiga",
+      "url": "https://open.spotify.com/track/3IACS9yiWikZUQRt4usjaQ"
+    },
+    {
+      "added_at": "2023-09-20 12:58:41",
+      "album": {
+        "name": "By2Love",
+        "url": "https://open.spotify.com/album/2WHsDQKag50lnPXjQveFcG"
+      },
+      "artists": [
+        {
+          "name": "Prashanth Kankanady",
+          "url": "https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5"
+        },
+        {
+          "name": "Ranjitha Yellur",
+          "url": "https://open.spotify.com/artist/6tkM6pYWcSp6mai0rg8OLI"
+        }
+      ],
+      "duration_ms": 217068,
+      "name": "By2Love",
+      "url": "https://open.spotify.com/track/2FLf8XNpQKxBEUbwPZocHn"
+    },
+    {
+      "added_at": "2023-09-20 12:58:41",
+      "album": {
+        "name": "Dosthi",
+        "url": "https://open.spotify.com/album/4d4tz7uQcWFs5H9G38FiG8"
+      },
+      "artists": [
+        {
+          "name": "Kishore Vishwakarma",
+          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
+        },
+        {
+          "name": "Vishwajeet Deshpande",
+          "url": "https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Dosthi",
+      "url": "https://open.spotify.com/track/6kikzlcHn876UkFBtdYrai"
     },
     {
       "added_at": "2023-09-06 11:44:44",
@@ -205,6 +237,22 @@
       "url": "https://open.spotify.com/track/3AaghYGVFOfmrLui28QIq9"
     },
     {
+      "added_at": "2023-09-20 12:58:41",
+      "album": {
+        "name": "ALAG HAI",
+        "url": "https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "duration_ms": 83076,
+      "name": "ALAG HAI",
+      "url": "https://open.spotify.com/track/5E11KdVG38ylpaI736pJ9I"
+    },
+    {
       "added_at": "2023-08-25 11:40:25",
       "album": {
         "name": "Alladsro",
@@ -243,30 +291,6 @@
       "duration_ms": 162000,
       "name": "Neene",
       "url": "https://open.spotify.com/track/3zSmzrISU59x6c0gwUxvHt"
-    },
-    {
-      "added_at": "2023-08-30 12:19:34",
-      "album": {
-        "name": "Thukaali",
-        "url": "https://open.spotify.com/album/3eE3i02aV4DlfJFXzrY96k"
-      },
-      "artists": [
-        {
-          "name": "Shiv Prasad",
-          "url": "https://open.spotify.com/artist/6Hxm7zNBGOmCFJFFUS0OWO"
-        },
-        {
-          "name": "Arfaz Ullal",
-          "url": "https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq"
-        },
-        {
-          "name": "Mahadeva Swamy",
-          "url": "https://open.spotify.com/artist/6AaB3Ib8emAWvrJADBOn4l"
-        }
-      ],
-      "duration_ms": 237527,
-      "name": "Thukaali",
-      "url": "https://open.spotify.com/track/3fibRdjawJagXWApjATWdg"
     },
     {
       "added_at": "2023-08-31 13:05:24",
@@ -1095,22 +1119,6 @@
       "duration_ms": 47779,
       "name": "Melusire (Remix)",
       "url": "https://open.spotify.com/track/0BpOi8WfgJPoMroHN4eknX"
-    },
-    {
-      "added_at": "2023-06-21 12:33:15",
-      "album": {
-        "name": "Bae",
-        "url": "https://open.spotify.com/album/5qOKwBFn3F00te00jfyN06"
-      },
-      "artists": [
-        {
-          "name": "Pratham Kathare",
-          "url": "https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw"
-        }
-      ],
-      "duration_ms": 153595,
-      "name": "Bae",
-      "url": "https://open.spotify.com/track/67DY60lKpxmESNLKyHoNZN"
     },
     {
       "added_at": "2023-05-26 10:04:33",

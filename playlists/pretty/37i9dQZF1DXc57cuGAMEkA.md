@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Sia, King Gnu, Zara Larsson, Doja Cat, Sam Smith and more! Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,596 likes - 71 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,624 likes - 71 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 70 | [Escape](https://open.spotify.com/track/6qW3tHgwHvvnF18lzvt2Dc) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Rudy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0IfJojEmQFepjNutueqXs9) | 3:04 |
 | 71 | [Reflection \- From "Mulan" / Solo Version](https://open.spotify.com/track/3mjopG49nd3yJ8LnQ7Fu0N) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Disney Book \(Extended Edition\)](https://open.spotify.com/album/6BqPHEBivB6gXzpHQt0SOi) | 4:28 |
 
-Snapshot ID: `MCw2MjgzZWRkODRiMjMzNGY4NDI1ZDJiNGFmOThhMTQ5MjUzMmFlM2Nl`
+Snapshot ID: `MCw2Yjk1ZDZlMzc3YWQwZjdiYWUwNDc5MTYzMGVkNWVkNjhhMWMyMGVk`

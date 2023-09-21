@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Jackson Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,425 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,976 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Boyfriend](https://open.spotify.com/track/5F8MMujEHaI2qqmj4EcwBP) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Boyfriend](https://open.spotify.com/album/56xSwVIp6AcuRrQjbbUeGz) | 2:18 |
 | 100 | [Worst In Me](https://open.spotify.com/track/2jMetr6nF6WLRPzRmGh1Pc) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Worst In Me](https://open.spotify.com/album/2lVxm2kp7BtwXPl1VQElSP) | 2:29 |
 
-Snapshot ID: `MCxkMjc5ZjU0NmJkM2E2M2I4ODVmYzNiOTIzMTIyZDE4MDg1ODc5MjBl`
+Snapshot ID: `MCxiMzMwMGQxN2E0Y2MwYTc2MDA2YmUxYjVjYTIzZmFkNTU4MDYzNTcz`

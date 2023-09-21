@@ -1222,10 +1222,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 272973,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/0GQo5VkiurD6HnVpaCNeMf"
+    },
+    {
+      "album": {
+        "name": "The Miracle (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280480,
+      "name": "I Want It All - Remastered 2011",
+      "url": "https://open.spotify.com/track/2htmMitogin6NMGABye6YG"
     },
     {
       "album": {

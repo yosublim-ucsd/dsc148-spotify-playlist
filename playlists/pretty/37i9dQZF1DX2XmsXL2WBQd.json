@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 372486,
+  "num_followers": 372625,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU1ZmNiN2E5MGEwMDRhMDYzNWM3ZTNhNTMwZDIzOWU5YTg5NDUx",
+  "snapshot_id": "MCxlZmUwYTYxMjBkMGY1MjRlZTI3MjA2OTRkNzMxOGU0NzI4NzBjOWYx",
   "tracks": [
     {
       "added_at": "2023-08-07 11:45:42",
@@ -262,15 +262,11 @@
         {
           "name": "Eric B. & Rakim",
           "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        },
-        {
-          "name": "Marley Marl",
-          "url": "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
         }
       ],
-      "duration_ms": 228666,
-      "name": "Paid In Full",
-      "url": "https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw"
+      "duration_ms": 232760,
+      "name": "I Ain't No Joke",
+      "url": "https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -418,11 +414,15 @@
         {
           "name": "Eric B. & Rakim",
           "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        },
+        {
+          "name": "Marley Marl",
+          "url": "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
         }
       ],
-      "duration_ms": 232760,
-      "name": "I Ain't No Joke",
-      "url": "https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0"
+      "duration_ms": 228666,
+      "name": "Paid In Full",
+      "url": "https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "How Ya Like Me Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI"
-      },
-      "artists": [
-        {
-          "name": "Kool Moe Dee",
-          "url": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
-        }
-      ],
-      "duration_ms": 280840,
-      "name": "Wild Wild West",
-      "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "Unfinished Business",
         "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 297333,
       "name": "So Wat Cha Sayin'",
       "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "How Ya Like Me Now (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI"
+      },
+      "artists": [
+        {
+          "name": "Kool Moe Dee",
+          "url": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "Wild Wild West",
+      "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Schoolly D",
-        "url": "https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU"
-      },
-      "artists": [
-        {
-          "name": "Schoolly D",
-          "url": "https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL"
-        }
-      ],
-      "duration_ms": 388906,
-      "name": "P.S.K. 'What Does It Mean'?",
-      "url": "https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "The Sugar Hill Records Story",
         "url": "https://open.spotify.com/album/27rUdsqReF9tEWcG2Wv04U"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 562066,
       "name": "That's the Joint",
       "url": "https://open.spotify.com/track/1sby5Tqlj9BjJKBl27e7Ie"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "Schoolly D",
+        "url": "https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU"
+      },
+      "artists": [
+        {
+          "name": "Schoolly D",
+          "url": "https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL"
+        }
+      ],
+      "duration_ms": 388906,
+      "name": "P.S.K. 'What Does It Mean'?",
+      "url": "https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW"
     },
     {
       "added_at": "2023-08-07 11:45:42",

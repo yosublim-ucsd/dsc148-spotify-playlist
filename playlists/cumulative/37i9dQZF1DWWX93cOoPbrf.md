@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2023\. Gabito Ballesteros en portada.
 
-760 songs - 1 day 15 hr 2 min
+761 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Allá Por L.A.](https://open.spotify.com/track/2jCHmsJmUml6tqsRECiBJd) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Allá Por L.A.](https://open.spotify.com/album/5JLvw6e14J5iOOq4LXzARd) | 2:48 | 2023-07-28 | 2023-08-12 |
 | [Americano por Que Así Lo Dice el Acta](https://open.spotify.com/track/2227k05wv3lXYPPwSrEsnq) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Corridos De Encargo Vol.2](https://open.spotify.com/album/3AoCiWWq9Q6PaG2I5lipYK) | 3:05 | 2022-11-11 | 2022-11-19 |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2022-11-28 | 2023-04-09 |
-| [Amigo 09](https://open.spotify.com/track/2QcCiRMwIlhPyimEigLGL9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Amigo 09](https://open.spotify.com/album/1ngFPzztcSpF25Pq48aYME) | 2:49 | 2023-06-09 |  |
+| [Amigo 09](https://open.spotify.com/track/6u2zEs6QmaVYbuQFzh8JVQ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:49 | 2023-08-22 |  |
+| [Amigo 09](https://open.spotify.com/track/2QcCiRMwIlhPyimEigLGL9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Amigo 09](https://open.spotify.com/album/1ngFPzztcSpF25Pq48aYME) | 2:49 | 2023-06-09 | 2023-09-21 |
 | [Andamos Generando](https://open.spotify.com/track/6pnprdyuVz1AaszsSv2Hn7) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Andamos Generando](https://open.spotify.com/album/5SZ8u4ubc0QuapKbtaAZ2e) | 2:40 | 2023-02-17 | 2023-03-11 |
 | [Ando en el Caloron](https://open.spotify.com/track/2bu2siQAht5AGdhL2Ey8u2) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Andamos por Todos Lados](https://open.spotify.com/album/1kfxk0qGBxeZcv9qeAx2Rp) | 3:43 | 2022-08-29 | 2022-10-08 |
 | [Ando en la Fea \(En Vivo\)](https://open.spotify.com/track/5ed9exnSCZn7OVxLYcHuRb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Banda La Veintona](https://open.spotify.com/artist/22mUBA7P0AY1inU2zHAicS) | [Ando en la Fea \(En Vivo\)](https://open.spotify.com/album/5wb3Aa6Q3iFieGD9zhSgnd) | 3:26 | 2022-07-15 | 2022-09-03 |

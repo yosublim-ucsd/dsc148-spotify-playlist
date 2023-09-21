@@ -4,7 +4,7 @@
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-108 songs - 6 hr 52 min
+109 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Always A Friend](https://open.spotify.com/track/7136gj6H3nc3ZIKmJmxKRT) | [Alejandro Escovedo](https://open.spotify.com/artist/1Cc79YAHP7xvQAVQSjveP6) | [Real Animal](https://open.spotify.com/album/5xIyoIpTJy9fhNNFHSNk9l) | 3:35 | 2020-10-13 | 2022-07-29 |
 | [Always A Friend](https://open.spotify.com/track/7jks9PIkGKjVTZI1M2Inyt) | [Alejandro Escovedo](https://open.spotify.com/artist/1Cc79YAHP7xvQAVQSjveP6) | [Real Animal](https://open.spotify.com/album/16j325rtPoZToR89ZjEwhK) | 3:35 | 2020-10-13 |  |
 | [Back Against the Wall](https://open.spotify.com/track/1JWqYAwi12yzh2UmoS4BcM) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Notes of Blue](https://open.spotify.com/album/1KH2KuYqXDkFfUhfCLrEbs) | 3:27 | 2020-10-13 |  |
-| [Baltimore Blues No\. 1](https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [War Elephant](https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq) | 3:01 | 2020-10-13 |  |
+| [Baltimore Blues No\. 1](https://open.spotify.com/track/14irPxTJLePlTfUd9U5hWL) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [War Elephant](https://open.spotify.com/album/2jMilAyC3RBmAoWr1JZ7MR) | 3:01 | 2020-10-13 |  |
+| [Baltimore Blues No\. 1](https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [War Elephant](https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq) | 3:01 | 2020-10-13 | 2023-09-21 |
 | [Belgium Or Peru](https://open.spotify.com/track/62uM5acWFIAicP3QlsIGQ0) | [Cuff the Duke](https://open.spotify.com/artist/5WzOiybWm06XimLccSeGS8) | [Cuff The Duke](https://open.spotify.com/album/4pKi9v2mx68ujR1Clpn8Xx) | 3:21 | 2020-10-13 |  |
 | [Better Part Of An Hour](https://open.spotify.com/track/1B0QzgCUsYPKuhXhHZJw2C) | [The Guthries](https://open.spotify.com/artist/6ZFHELARSOousW2f2A0LgJ) | [Off Windmill](https://open.spotify.com/album/3kQBbzLobItJyNSRzxNBGW) | 4:35 | 2020-10-13 | 2022-07-29 |
 | [Better Part of an Hour](https://open.spotify.com/track/3sYIOqRoSvkTrb0l0H9UDc) | [The Guthries](https://open.spotify.com/artist/6ZFHELARSOousW2f2A0LgJ) | [Off Windmill](https://open.spotify.com/album/3yAutAsOHUQgFPQq37qTFf) | 4:35 | 2020-10-13 |  |

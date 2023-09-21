@@ -1,29 +1,13 @@
 {
   "description": "Spa treatment role-play and ASMR massage sounds to give you tingles and help you relax.",
-  "num_followers": 36407,
+  "num_followers": 36448,
   "original_name": "ASMR Massage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGE5MGM5M2EwZjAwMjU5ZjQ4MWRmYTY0NTEzNGY4NTEyZTFkZGI0",
+  "snapshot_id": "MCw1NTUwMmJjMjI1NzJmOTgxZGY1NmZkNDA2NzZjMjE2MWY0M2MzNzJh",
   "tracks": [
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
-        "name": "Asmr Brain Melting Triggers for Sleep",
-        "url": "https://open.spotify.com/album/1r0ldKNVNPp6hvMs8uOWVy"
-      },
-      "artists": [
-        {
-          "name": "Alexa ASMR",
-          "url": "https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF"
-        }
-      ],
-      "duration_ms": 131018,
-      "name": "Intense Brain and Ear Massage to Help You Sleep",
-      "url": "https://open.spotify.com/track/2Wik99PNjLRwWBpMZsb0Si"
-    },
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 376800,
       "name": "Massage",
       "url": "https://open.spotify.com/track/500RDF5FlsyYFMYquQiqH3"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
+        "name": "Asmr Brain Melting Triggers for Sleep",
+        "url": "https://open.spotify.com/album/1r0ldKNVNPp6hvMs8uOWVy"
+      },
+      "artists": [
+        {
+          "name": "Alexa ASMR",
+          "url": "https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF"
+        }
+      ],
+      "duration_ms": 131018,
+      "name": "Intense Brain and Ear Massage to Help You Sleep",
+      "url": "https://open.spotify.com/track/2Wik99PNjLRwWBpMZsb0Si"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "Lotion Ear Massage",
-        "url": "https://open.spotify.com/album/2r5FkTCW4b3gz77UteYh1t"
-      },
-      "artists": [
-        {
-          "name": "fastASMR",
-          "url": "https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v"
-        }
-      ],
-      "duration_ms": 233952,
-      "name": "Lotion Ear Massage Pt. 3",
-      "url": "https://open.spotify.com/track/0nowugrt5Fn1wdX7BjwbTD"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
         "name": "Asmr Ear Mics - Intense Sounds Inside Your Ears",
         "url": "https://open.spotify.com/album/5gB81tDseWjNTu9vCEXvOK"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 134022,
       "name": "Intense Ear Massage with Oil and Latex Gloves",
       "url": "https://open.spotify.com/track/600BBI6u6ZRKdqGrWuyvhB"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
+        "name": "Lotion Ear Massage",
+        "url": "https://open.spotify.com/album/2r5FkTCW4b3gz77UteYh1t"
+      },
+      "artists": [
+        {
+          "name": "fastASMR",
+          "url": "https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v"
+        }
+      ],
+      "duration_ms": 233952,
+      "name": "Lotion Ear Massage Pt. 3",
+      "url": "https://open.spotify.com/track/0nowugrt5Fn1wdX7BjwbTD"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
+        "name": "ASMR Calm",
+        "url": "https://open.spotify.com/album/3P8FCAFIMtxeYPv9Wk4INP"
+      },
+      "artists": [
+        {
+          "name": "Lucy Stella ASMR",
+          "url": "https://open.spotify.com/artist/6HvjU87Hkljkcvgpm2inJS"
+        }
+      ],
+      "duration_ms": 211408,
+      "name": "Brushing Hair",
+      "url": "https://open.spotify.com/track/6sYYyEh9z14wOYwsnrqOAK"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
         "name": "Ear Muff Mic Scratching Pt.2",
         "url": "https://open.spotify.com/album/2ifFLVJpBwip4cSvPBG1Ns"
       },
@@ -251,18 +267,50 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "ASMR Calm",
-        "url": "https://open.spotify.com/album/3P8FCAFIMtxeYPv9Wk4INP"
+        "name": "ASMR Massage - Massage Sounds for Intense Tingles and Relaxation",
+        "url": "https://open.spotify.com/album/7bSZskRAVTpZczU5hNosVC"
       },
       "artists": [
         {
-          "name": "Lucy Stella ASMR",
-          "url": "https://open.spotify.com/artist/6HvjU87Hkljkcvgpm2inJS"
+          "name": "Alexa ASMR",
+          "url": "https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF"
         }
       ],
-      "duration_ms": 211408,
-      "name": "Brushing Hair",
-      "url": "https://open.spotify.com/track/6sYYyEh9z14wOYwsnrqOAK"
+      "duration_ms": 152778,
+      "name": "Hand Massage with Rubber Gloves",
+      "url": "https://open.spotify.com/track/2fa4KMcuDil6GfzIpnpjyO"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
+        "name": "ASMR Brush Massage, Relaxing Brushing Sounds Real Person",
+        "url": "https://open.spotify.com/album/4yZCHZC1WUf1wIsSM5Mds3"
+      },
+      "artists": [
+        {
+          "name": "Relax Academy ASMR",
+          "url": "https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Real Relaxing Brushing Sounds, Pt. 1",
+      "url": "https://open.spotify.com/track/15ZXjwZ7zHME5i1s2Ov2sG"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
+        "name": "7 Tingly Massages",
+        "url": "https://open.spotify.com/album/4rsAtuIMx3RkhaV5Leqx2T"
+      },
+      "artists": [
+        {
+          "name": "ASMR Glow",
+          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
+        }
+      ],
+      "duration_ms": 336875,
+      "name": "7 Tingle Massages Pt.2",
+      "url": "https://open.spotify.com/track/1tvP8rFCsboSjB62yu4mz1"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -299,34 +347,18 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "7 Tingly Massages",
-        "url": "https://open.spotify.com/album/4rsAtuIMx3RkhaV5Leqx2T"
+        "name": "Lotion Massage",
+        "url": "https://open.spotify.com/album/5J8XSFmWNqHdEhi0XJwUMX"
       },
       "artists": [
         {
-          "name": "ASMR Glow",
-          "url": "https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI"
+          "name": "ASMR Cherry Crush",
+          "url": "https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z"
         }
       ],
-      "duration_ms": 336875,
-      "name": "7 Tingle Massages Pt.2",
-      "url": "https://open.spotify.com/track/1tvP8rFCsboSjB62yu4mz1"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
-        "name": "ASMR Massage - Massage Sounds for Intense Tingles and Relaxation",
-        "url": "https://open.spotify.com/album/7bSZskRAVTpZczU5hNosVC"
-      },
-      "artists": [
-        {
-          "name": "Alexa ASMR",
-          "url": "https://open.spotify.com/artist/2EhgjuObTmGoYLqtqoYYRF"
-        }
-      ],
-      "duration_ms": 152778,
-      "name": "Hand Massage with Rubber Gloves",
-      "url": "https://open.spotify.com/track/2fa4KMcuDil6GfzIpnpjyO"
+      "duration_ms": 270000,
+      "name": "Lotion Massage",
+      "url": "https://open.spotify.com/track/7pEOu3sNcSPdBP7XMTQHoh"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -343,38 +375,6 @@
       "duration_ms": 470372,
       "name": "Deep Tissue Massage Pt.1",
       "url": "https://open.spotify.com/track/5gc80AtEjJ49fKoGBNUzxt"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
-        "name": "ASMR Brush Massage, Relaxing Brushing Sounds Real Person",
-        "url": "https://open.spotify.com/album/4yZCHZC1WUf1wIsSM5Mds3"
-      },
-      "artists": [
-        {
-          "name": "Relax Academy ASMR",
-          "url": "https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Real Relaxing Brushing Sounds, Pt. 1",
-      "url": "https://open.spotify.com/track/15ZXjwZ7zHME5i1s2Ov2sG"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
-        "name": "Lotion Massage",
-        "url": "https://open.spotify.com/album/5J8XSFmWNqHdEhi0XJwUMX"
-      },
-      "artists": [
-        {
-          "name": "ASMR Cherry Crush",
-          "url": "https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Lotion Massage",
-      "url": "https://open.spotify.com/track/7pEOu3sNcSPdBP7XMTQHoh"
     },
     {
       "added_at": "2023-09-08 11:48:58",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
+        "name": "ASMR Chiropractor Roleplay | Neck & Back Cracking (Cracking Sounds) Relaxing Doctor Check-Up",
+        "url": "https://open.spotify.com/album/1qfg4vz3VDJRqLzZrl6Vz5"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "duration_ms": 233812,
+      "name": "Muscle Massage",
+      "url": "https://open.spotify.com/track/7AhE5d2ZLVovBK1pAKP3vv"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
         "name": "ASMR Tingly Lice Check with Tweezers",
         "url": "https://open.spotify.com/album/42BBfI4WctzHTlCjEvXv9y"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "ASMR Chiropractor Roleplay | Neck & Back Cracking (Cracking Sounds) Relaxing Doctor Check-Up",
-        "url": "https://open.spotify.com/album/1qfg4vz3VDJRqLzZrl6Vz5"
-      },
-      "artists": [
-        {
-          "name": "The Healing Room ASMR",
-          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
-        }
-      ],
-      "duration_ms": 233812,
-      "name": "Muscle Massage",
-      "url": "https://open.spotify.com/track/7AhE5d2ZLVovBK1pAKP3vv"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
         "name": "3 Clones Ear Exam, Cleaning, & Face Massage",
         "url": "https://open.spotify.com/album/2dDNVUMDlVyQAsr2DtoUMj"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-08 11:48:58",
       "album": {
-        "name": "ASMR Brush Massage, Relaxing Brushing Sounds Real Person",
-        "url": "https://open.spotify.com/album/4yZCHZC1WUf1wIsSM5Mds3"
-      },
-      "artists": [
-        {
-          "name": "Relax Academy ASMR",
-          "url": "https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Real Relaxing Brushing Sounds, Pt. 4",
-      "url": "https://open.spotify.com/track/1kYA2IGzg8FQWm2ISv2BwY"
-    },
-    {
-      "added_at": "2023-09-08 11:48:58",
-      "album": {
         "name": "Oil and Lotion Ear Massage",
         "url": "https://open.spotify.com/album/5dAMrjESOsEnoUBdFFNReX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 566000,
       "name": "Oil and Lotion Ear Massage, Pt. 4",
       "url": "https://open.spotify.com/track/0AqM6cD3BwxuYIl6QXQxUn"
+    },
+    {
+      "added_at": "2023-09-08 11:48:58",
+      "album": {
+        "name": "ASMR Brush Massage, Relaxing Brushing Sounds Real Person",
+        "url": "https://open.spotify.com/album/4yZCHZC1WUf1wIsSM5Mds3"
+      },
+      "artists": [
+        {
+          "name": "Relax Academy ASMR",
+          "url": "https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Real Relaxing Brushing Sounds, Pt. 4",
+      "url": "https://open.spotify.com/track/1kYA2IGzg8FQWm2ISv2BwY"
     },
     {
       "added_at": "2023-09-08 11:48:58",

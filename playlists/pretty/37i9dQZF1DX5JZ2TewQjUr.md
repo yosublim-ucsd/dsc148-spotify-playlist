@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: quentinn®
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,102 likes - 103 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,107 likes - 103 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 32 | [太陽與雪](https://open.spotify.com/track/7sAKdzqpm6Yhsyf1uo3AGd) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [太陽與雪](https://open.spotify.com/album/2H83wUzzUVk7YIkPjbAksE) | 3:40 |
 | 33 | [I Think I'll Love Again](https://open.spotify.com/track/6FhwiLFBAGKmLMzlUID4bt) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [I Think I'll Love Again](https://open.spotify.com/album/2d0UY2bGQ0jnXG78cH39Ww) | 3:22 |
 | 34 | [好想瞓](https://open.spotify.com/track/5J55R1aAfqteDIqeuK5x65) | [Theo Chu Chun Yin](https://open.spotify.com/artist/6gRhpwFLDsVOo0VzrplL9A) | [好想瞓](https://open.spotify.com/album/3eadryqIELwgawYpj0nhtl) | 2:44 |
-| 35 | [Every Summertime](https://open.spotify.com/track/1UoBxIqQHgoDmMyelylgqR) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Every Summertime](https://open.spotify.com/album/4HlObXWsrNkRfYEFhFCVOP) | 4:04 |
+| 35 | [Every Summertime](https://open.spotify.com/track/5GChRzepsXBuSX1iB6vb6t) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [Be](https://open.spotify.com/album/6bos201IEKrZfXlRfXgOW1) | 4:04 |
 | 36 | [Witch](https://open.spotify.com/track/1DAlrq5j3Y6eVburtC4K1I) | [milos](https://open.spotify.com/artist/6SqVZR2beS3E0tzj6LTSn6) | [Witch](https://open.spotify.com/album/0VAsugkwDAl2fs8spQLdoY) | 4:07 |
 | 37 | [Independent Artist](https://open.spotify.com/track/02Dtp1urMF9P3Lv0zQlEal) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [Independent Artist](https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC) | 3:14 |
 | 38 | [轉個身擁抱](https://open.spotify.com/track/4Lr6oJWXDw4dH9j6Gx9DKr) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [轉個身擁抱](https://open.spotify.com/album/4Bxi1DFRqMZ4ZgZup60baS) | 3:57 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 102 | [Last Summer](https://open.spotify.com/track/3X9pggRCXEN57mhhbQj0Tt) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj), [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T), [Cho Lewis](https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa) | [Last Summer](https://open.spotify.com/album/1sRtwQC7tPZAmyRvVB0cFq) | 4:18 |
 | 103 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCw2YzVmZmNiNDE4YzRlYjJkZWNjNjcxYWM5ZGI1NGIzZTNjY2ZkM2M0`
+Snapshot ID: `MCxhMWZiNzZhNzUwZjYwNzNiZjRmYWZjNzMyNGRiYTRmOGQwZjgzYjhh`

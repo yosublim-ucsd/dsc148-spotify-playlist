@@ -1014,10 +1014,28 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 274964,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/2BtSxVVjTmmuAMwuCy3U1Z"
+    },
+    {
+      "album": {
+        "name": "New Year, Same Crank V.2",
+        "url": "https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274964,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/5NBEj5D44lgnNJyKHzAA6K"
     },
     {
       "album": {
@@ -1400,10 +1418,28 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 233195,
       "name": "Whoo Lawd",
       "url": "https://open.spotify.com/track/3ZocWuhl1XQ9S6e1XugOwJ"
+    },
+    {
+      "album": {
+        "name": "New Year, Same Crank V.2",
+        "url": "https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233195,
+      "name": "Whoo Lawd",
+      "url": "https://open.spotify.com/track/3otN6Lkxw5LeCeu4BR0WcM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcLNIxmtGu8N"

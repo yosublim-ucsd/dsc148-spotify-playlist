@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQCnEFpmHYW.md) - [plain]
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,713 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,772 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQCnEFpmHYW.md) - [plain]
 | 74 | [Window Siesta](https://open.spotify.com/track/3HGocuIF3wICVSbN3WC0NM) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Peaceful Weekend](https://open.spotify.com/album/4FGn0wRLgoqt4OXPkvMywa) | 2:42 |
 | 75 | [Simple Rain](https://open.spotify.com/track/2TZRsA59xle0Sn2TBFuGAp) | [Natural Sound Escapes](https://open.spotify.com/artist/14BvO4zkMab4WlRfbqv5cM) | [Simple Rain](https://open.spotify.com/album/6zBGIhm0328cDh5anlD82g) | 3:35 |
 
-Snapshot ID: `MCxlNjYxYWRiMmM2YjBhNGUxODQyMTcwNmRmYmRlZDI2ZGY4ZGVjNGZl`
+Snapshot ID: `MCw0NjFlODkxNTc3ODYxMTJjODVlN2M0NTU3Yzg5NjJhOWU0MzRhMGU0`

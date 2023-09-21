@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: GIMS, Maluma
 
-2,047 songs - 4 day 13 hr 23 min
+2,048 songs - 4 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,7 +889,7 @@
 | [Jet à 2 places](https://open.spotify.com/track/3cV4TKqeoI57WtZ73WWlix) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Jet à 2 places](https://open.spotify.com/album/5Rg1yqZhCHKBmOuPcoXkQk) | 2:27 | 2022-12-16 | 2023-01-14 |
 | [Jeudredi](https://open.spotify.com/track/62aHISvX2eYqpZO6VAWMCC) | [David Pineau](https://open.spotify.com/artist/3n53aGeDfq4Vc3q7OpstmY), [Anthony Gaudet](https://open.spotify.com/artist/2Acgfke9DIf3ZLRwiVMqCi) | [Jeudredi](https://open.spotify.com/album/5rgxPhxSqa6tFoyK8BduGW) | 2:24 | 2023-01-13 | 2023-01-21 |
 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 | 2022-10-28 | 2022-11-12 |
-| [Jn'attendrai plus](https://open.spotify.com/track/6UOGItOYXOpnqCORE9VP9t) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Par Fierté](https://open.spotify.com/album/3joknrlbS386Npao4I4p49) | 3:52 | 2023-09-15 |  |
+| [Jn'attendrai plus](https://open.spotify.com/track/6UOGItOYXOpnqCORE9VP9t) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Par Fierté](https://open.spotify.com/album/3joknrlbS386Npao4I4p49) | 3:52 | 2023-09-15 | 2023-09-21 |
 | [Joli cœur](https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Evidence](https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII) | 2:53 | 2023-04-07 | 2023-05-13 |
 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-03-03 | 2023-03-18 |
 | [Jolie poupée](https://open.spotify.com/track/1Qafc5IMJQVIzBiEoZLa2S) | [AM La Scampia](https://open.spotify.com/artist/0WzzOQ8n065ISKclSusFzY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Jolie poupée](https://open.spotify.com/album/55onUtLec5yGHqActDK79r) | 2:50 | 2022-03-11 | 2022-03-18 |
@@ -1478,6 +1478,7 @@
 | [PLUS FORT](https://open.spotify.com/track/5WjCSLizeYIRcfkClIZwWJ) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [PLUS FORT](https://open.spotify.com/album/68N37Y1WWxgs9Px37a9Xuq) | 3:05 | 2022-04-22 | 2022-04-29 |
 | [Plus fort que le coeur \(acoustic version\)](https://open.spotify.com/track/597IPyHiTwYi9fRl12GfqX) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Plus fort que le coeur \(acoustic version\)](https://open.spotify.com/album/6hdko08ga2L0QIObTzumPP) | 2:08 | 2022-10-14 | 2022-10-29 |
 | [Plus fort que le cœur](https://open.spotify.com/track/4GdMU1f51JKvpLQky8S2jj) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Plus fort que le cœur](https://open.spotify.com/album/052EvmGp30g21DHOw0T9JQ) | 2:14 | 2022-06-17 | 2022-06-25 |
+| [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 | 2023-09-15 |  |
 | [Plus on change, plus on se ressemble](https://open.spotify.com/track/0FkWwbLTL0mpDuYZ2czTdS) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [Plus on change, plus on se ressemble](https://open.spotify.com/album/4lLe43rzy59HYgrJu2dmHJ) | 3:52 | 2022-03-04 | 2022-03-12 |
 | [Plus qu'assez](https://open.spotify.com/track/5TvGIuBUdc53iD6NrYfjK7) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Plus qu'assez](https://open.spotify.com/album/74eMYBI9D5AtWcVBogXz9o) | 3:23 | 2022-10-21 | 2022-10-29 |
 | [Plus que](https://open.spotify.com/track/4jYENrEA31fBzgCsEVc6x7) | [Lhéfé](https://open.spotify.com/artist/3bzQSOFEd6Zgzxi8nyhxOY) | [Mentir mon plaisir](https://open.spotify.com/album/5kG61u4EiSpCZhPw6QrSC0) | 3:41 | 2023-01-13 | 2023-01-21 |

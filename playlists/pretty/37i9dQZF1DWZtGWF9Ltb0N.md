@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,187 likes - 150 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,354 likes - 150 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 85 | [Mage](https://open.spotify.com/track/1sVeutIp3sh1eePjz7ONnH) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Mage](https://open.spotify.com/album/087mD9L26LtrVXcEDcTe2H) | 3:18 |
 | 86 | [Rude Gyal](https://open.spotify.com/track/1oBhvIDddwBZ9LfaySy7Zl) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Rude Gyal](https://open.spotify.com/album/3umlnsUaYmv4moxipAq3LX) | 3:10 |
 | 87 | [Bussin](https://open.spotify.com/track/4RBA9yaG5qpxcS8ZIXRDza) | [MIRR.IMG](https://open.spotify.com/artist/4oLpXAfGMBkks9xfcLKCGM), [Corey Divine](https://open.spotify.com/artist/3i8QaYMWgXwJO6FKxXcYeh) | [Bussin](https://open.spotify.com/album/2WeSo01aagmULmvqHBWCEF) | 3:56 |
-| 88 | [Crystals](https://open.spotify.com/track/7mmElHLJIXL42Z3FE511xs) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj), [Dank Frank](https://open.spotify.com/artist/3aHIls4WqKcj1qxEjThqd2) | [Crystals / Quiet Violence](https://open.spotify.com/album/5jYkfkbg55RuaKrP9Jzfij) | 3:01 |
-| 89 | [Psychotherapy](https://open.spotify.com/track/32RVEL94lelYvfcLOKl1Gh) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Blood Money EP](https://open.spotify.com/album/6qM4HawzP3zIvArvApLctM) | 3:46 |
+| 88 | [Psychotherapy](https://open.spotify.com/track/32RVEL94lelYvfcLOKl1Gh) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Blood Money EP](https://open.spotify.com/album/6qM4HawzP3zIvArvApLctM) | 3:46 |
+| 89 | [Crystals](https://open.spotify.com/track/7mmElHLJIXL42Z3FE511xs) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj), [Dank Frank](https://open.spotify.com/artist/3aHIls4WqKcj1qxEjThqd2) | [Crystals / Quiet Violence](https://open.spotify.com/album/5jYkfkbg55RuaKrP9Jzfij) | 3:01 |
 | 90 | [Reflection](https://open.spotify.com/track/6ZR6ZDHBsCOcLdshPANYTl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:58 |
-| 91 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 |
-| 92 | [Vacant](https://open.spotify.com/track/4KtEedfcRM9VycSED3sWnF) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/30v5J4ieBtoICdxv0ss6Qc) | 5:03 |
+| 91 | [Vacant](https://open.spotify.com/track/4KtEedfcRM9VycSED3sWnF) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/30v5J4ieBtoICdxv0ss6Qc) | 5:03 |
+| 92 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 |
 | 93 | [Dark Wing](https://open.spotify.com/track/6pBqdX2uWt9fZOLZ5tnz6w) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Dark Wing](https://open.spotify.com/album/52RrqDeEPeiA5JWrnLWIb8) | 3:37 |
 | 94 | [Power Outage](https://open.spotify.com/track/7IxQnOdr8vxk0tWS9aPwK9) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Weightless Compilation](https://open.spotify.com/album/4MHIeAvGxasLDdQFWyusqD) | 4:10 |
 | 95 | [Pon na' Dub](https://open.spotify.com/track/4Ae1SrLqXkPLfKyz0RTjLN) | [Elefant Doc](https://open.spotify.com/artist/7dvRx0LWsfGk57yBQP2jrP) | [Pressed Records \- Dub Compilation EP Vol 1](https://open.spotify.com/album/6CzRqZIgwX9nRgZ2uz6nEn) | 4:51 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 124 | [Fools Gold](https://open.spotify.com/track/1H8U2t2JrjbGld8YPmjX0w) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Fools Gold](https://open.spotify.com/album/1m98Qvc7u0GokYDawomNgN) | 4:00 |
 | 125 | [Bass Drama](https://open.spotify.com/track/02xFanXMNa1oVWdDZicssi) | [Hubwar](https://open.spotify.com/artist/5nR6SzYpEXdbRHRAJIO4aZ) | [Creatures](https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n) | 4:20 |
 | 126 | [Hard Work](https://open.spotify.com/track/4B8JJAaugpoJhs3fS2Hk1T) | [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Genetic Code EP](https://open.spotify.com/album/3UNbi43Cm5RyH8BfXTgOXw) | 3:15 |
-| 127 | [Black Katana](https://open.spotify.com/track/0VkTGJd96nGTz88GxGm5Wm) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Black Katana](https://open.spotify.com/album/2qonXE6UdEz3l0kjPS74Qt) | 4:30 |
-| 128 | [Claggy](https://open.spotify.com/track/28jWwQDYMwVKDOxfwyfiyA) | [A:Grade](https://open.spotify.com/artist/6f4K6vBWAVSMfpPfUSwGuE) | [Flavours, Pt\. 1](https://open.spotify.com/album/6XPUSCFCMMSRd0NtrftxIl) | 4:10 |
+| 127 | [Claggy](https://open.spotify.com/track/28jWwQDYMwVKDOxfwyfiyA) | [A:Grade](https://open.spotify.com/artist/6f4K6vBWAVSMfpPfUSwGuE) | [Flavours, Pt\. 1](https://open.spotify.com/album/6XPUSCFCMMSRd0NtrftxIl) | 4:10 |
+| 128 | [Black Katana](https://open.spotify.com/track/0VkTGJd96nGTz88GxGm5Wm) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Black Katana](https://open.spotify.com/album/2qonXE6UdEz3l0kjPS74Qt) | 4:30 |
 | 129 | [Migi](https://open.spotify.com/track/1cu75Tzz7YQZBSscNGz0Xc) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Migi](https://open.spotify.com/album/4LaGABi1dNkNc44mh3R3uv) | 4:00 |
 | 130 | [Wisdom](https://open.spotify.com/track/3F9yTY87haeNOoPZzNRHN9) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Wisdom](https://open.spotify.com/album/3OU2VNhplpTYkcFdX8YcxH) | 5:48 |
 | 131 | [Rush Hour](https://open.spotify.com/track/1pV7JC2ClVZP4hQIuzM8wN) | [Black Carl!](https://open.spotify.com/artist/07oZEFDySnjPl7vqqD8XSq), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Rush Hour](https://open.spotify.com/album/4yzJhjAl7SAtvl2TLmCwPd) | 4:06 |
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 143 | [Back Once](https://open.spotify.com/track/1Gp13Xovwsy9de6qZDynOv) | [Stillhead](https://open.spotify.com/artist/6kAJ3c9QA35wGowhDQeaya) | [Back Once](https://open.spotify.com/album/5B8QqeBqkTb9EUYk50p8zg) | 4:52 |
 | 144 | [Boi](https://open.spotify.com/track/7aCc1Qi6GLpzR3yOzgGJnl) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR) | [Boi](https://open.spotify.com/album/2EpK3T7VOSuuJeFWGsdqof) | 3:38 |
 | 145 | [The 14th](https://open.spotify.com/track/7CHsUpayQRImko52ncm6nX) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Far North Dubs EP](https://open.spotify.com/album/25iJRCx5VAdSDFFWCWlIjy) | 6:29 |
-| 146 | [Stardust](https://open.spotify.com/track/1JQAAHYcoeVsUDIhqa4FxV) | [Dayzero](https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd) | [VSD001](https://open.spotify.com/album/6ObtZlZgvDQGqBPE30yxou) | 5:42 |
+| 146 | [Real Murder](https://open.spotify.com/track/1DcINY8ATp67RkpDr7VAZR) | [Leo Cap](https://open.spotify.com/artist/3WZOoHL2HQi26O6M3W3f7x), [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [Real Murder](https://open.spotify.com/album/5GXeqdWUnExCBx0J0cc98T) | 3:54 |
 | 147 | [NASDAQ](https://open.spotify.com/track/3X2jge8YW8hjqpPediTuHs) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/1P2CbeSXqi0JNmIex5NdDe) | 3:17 |
-| 148 | [Real Murder](https://open.spotify.com/track/1DcINY8ATp67RkpDr7VAZR) | [Leo Cap](https://open.spotify.com/artist/3WZOoHL2HQi26O6M3W3f7x), [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [Real Murder](https://open.spotify.com/album/5GXeqdWUnExCBx0J0cc98T) | 3:54 |
+| 148 | [Stardust](https://open.spotify.com/track/1JQAAHYcoeVsUDIhqa4FxV) | [Dayzero](https://open.spotify.com/artist/2gDHofVNQ4gpU815TrOiDd) | [VSD001](https://open.spotify.com/album/6ObtZlZgvDQGqBPE30yxou) | 5:42 |
 | 149 | [Cross Polarity](https://open.spotify.com/track/2XRCWJ4ETKWRaWTTb9C3XH) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Cross Polarity](https://open.spotify.com/album/7bOMUf3vohmdiwxC6NkKwJ) | 5:35 |
 | 150 | [Tech Foul \- Peekaboo Remix](https://open.spotify.com/track/01tb1I347g12xuR8FbJtOd) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Tech Foul \(Peekaboo Remix\)](https://open.spotify.com/album/5pEaspa2x6s7jFpRbcB1uZ) | 4:06 |
 
-Snapshot ID: `MCxiOWMyMjMwNzIyODk2NDcyMjI5NzQyYTZjNDFiNTc3YjJjN2U5YWI0`
+Snapshot ID: `MCw5MWQxOTkwNDA0ZDk4NGNlZWU1NTIxZjgxOWUzNjFmNzAxM2RhY2Zi`

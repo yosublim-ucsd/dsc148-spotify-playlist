@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,839 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,854 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Super funk market](https://open.spotify.com/track/3HnMGHU13H5oeNYjbKw8Eb) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Super funk market](https://open.spotify.com/album/28VOgfZgmEysQj9UdgjoNP) | 3:49 |
 | 100 | [Pink sky \- feat\. テークエム](https://open.spotify.com/track/2WIm3OUeb4vMSxnpj4r1fm) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL) | [Pink sky \(feat\. テークエム\)](https://open.spotify.com/album/3PDJbAGuJYVb63fhwWOocu) | 3:17 |
 
-Snapshot ID: `MCxiMDBiMWIyMzFmY2VhMDBhNmVlNDE4YzA1MTEzYWYwN2U1YjRlYmRl`
+Snapshot ID: `MCw0OTE4MWFmOWZhYjUyYTJlOTcwZDdhOWFkM2RmMTI5OThhNjk2ZjIx`

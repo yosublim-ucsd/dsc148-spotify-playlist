@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,235 likes - 95 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,273 likes - 95 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 13 | [Blue Threads](https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY) | [Whit Dickey](https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo), [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5), [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r) | [Morph](https://open.spotify.com/album/2CntvAcghtXnF36M3dmwKe) | 3:30 |
 | 14 | [Joe Btfsplk](https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM) | [Don Byron](https://open.spotify.com/artist/2xJ2HMpwwLY36bkjT6sJkD), [Aruan Ortiz](https://open.spotify.com/artist/7hUIvu0Ug9wqqjtaoCtv1o) | [Random Dances and \(A\)tonalities](https://open.spotify.com/album/3v6dasC9ywop1Kc9oPajzW) | 5:44 |
 | 15 | [it say, no sé](https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Nothing Unspoken Under The Sun](https://open.spotify.com/album/76TaVfdJHRwxj33pGlvf6u) | 4:38 |
-| 16 | [Active\-Multiple\-Fetish\-Overlord](https://open.spotify.com/track/7a7dP4fURwyN3iMnjft2km) | [Binker and Moses](https://open.spotify.com/artist/7mKZJ0SITREZQovQF6Qeb4), [Max Luthert](https://open.spotify.com/artist/0SY44UCwBAxIo3mrKixXRB) | [Feeding the Machine](https://open.spotify.com/album/03CWEGnnMN2Xlfgkb6QZ0C) | 3:33 |
+| 16 | [Active\-Multiple\-Fetish\-Overlord](https://open.spotify.com/track/33zPcLxJskorIH1fENf81I) | [Binker and Moses](https://open.spotify.com/artist/7mKZJ0SITREZQovQF6Qeb4), [Max Luthert](https://open.spotify.com/artist/0SY44UCwBAxIo3mrKixXRB) | [Feeding the Machine](https://open.spotify.com/album/5ea09DMYFAHgWj88zLYuNm) | 3:33 |
 | 17 | [Straight Horns of Plenty](https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY) | [Sam Newsome](https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke) | [Sopranoville: Works for Prepared and Non\-Prepared Soprano](https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs) | 2:31 |
 | 18 | [Fiasco : In the Moment](https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG) | [Rope](https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO) | [In The Moment \(The Music of Charlie Haden\)](https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs) | 3:34 |
 | 19 | [Playing Retention](https://open.spotify.com/track/3B7x4nNGP3BLOTXPMBtVg8) | [Daniel Carter](https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4), [Jim Clouse](https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp) | [Playing Retention](https://open.spotify.com/album/7yOSuZzNbBVAtyvyiq4QDp) | 7:38 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 94 | [Breaking Point](https://open.spotify.com/track/08didpMJM0vsICBS3uu2Xd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Essential Blue Note Collection](https://open.spotify.com/album/7dDZGuJMNFpIHa2J2jSdJT) | 10:19 |
 | 95 | [Conduction No.186 \- Live](https://open.spotify.com/track/10oUh9vQB9J36UmsGuWxRl) | [Nublu Orchestra](https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9), [Butch Morris](https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK) | [Live in Lisbon](https://open.spotify.com/album/5WnPY79tkeyhrRcInkUjMp) | 43:14 |
 
-Snapshot ID: `MCw1YzIxM2JiMDExNjA5OWI3MTdhZjc5YzcwNTE1NDk0MDAwNTk3MDk1`
+Snapshot ID: `MCw2OTQ2YmFiOGVjZWQyMTc1N2I2YmU0MGUxM2IyYzI0Y2M5OTZlZmI4`

@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-189 songs - 11 hr 12 min
+190 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Siren 042](https://open.spotify.com/track/5v8tUdBAn13V2yKlICWZ61) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE), [WHY?](https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH) | [Siren 042](https://open.spotify.com/album/73hNleCY7XE2yPhdgoSPnP) | 2:41 | 2023-06-08 |  |
 | [Sixteen \- Oceans1985 Remix](https://open.spotify.com/track/2MdwMGda2q4E6pWsZZBd6H) | [Kayslee Don Collins](https://open.spotify.com/artist/3GBM7HxzkACZVPM9APdDZH), [Oceans1985](https://open.spotify.com/artist/6xndba1pQRu5pQxQ6TsZfP) | [Sixteen Remix](https://open.spotify.com/album/31EScwSWH1LsNLqtULfdNB) | 3:45 | 2023-06-08 |  |
 | [Slicked](https://open.spotify.com/track/7ALnc66rHvMHWN8dS1rVFA) | [Weaves](https://open.spotify.com/artist/3F44NFkOhpksx7b2JXMo3G) | [Wide Open](https://open.spotify.com/album/0xdgYOoiXe1sV3CrSpAK5y) | 4:10 | 2023-06-08 |  |
-| [Slow Love](https://open.spotify.com/track/5bOBc05OJjuCusiPiq90Cm) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/04psVVPNcK8SHuwBWe7eL7) | 4:12 | 2023-06-08 |  |
+| [Slow Love](https://open.spotify.com/track/41dOblAV4rjQZEYHGQUbmQ) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 4:12 | 2023-06-08 |  |
+| [Slow Love](https://open.spotify.com/track/5bOBc05OJjuCusiPiq90Cm) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/04psVVPNcK8SHuwBWe7eL7) | 4:12 | 2023-06-08 | 2023-09-21 |
 | [So Long to Red Lights](https://open.spotify.com/track/11GoKm942lzI7q8i9xKf0b) | [Leon Rockmore](https://open.spotify.com/artist/0cFOfuSKwo5BuElfJfp147), [Keyvous](https://open.spotify.com/artist/5TPGVi2uAGJ4ro8pvtyCjT), [Nice](https://open.spotify.com/artist/6WehArXRRZEGgV3OhHFrQu) | [So Long to Red Lights](https://open.spotify.com/album/3ZStnqY0hQFDH9Qz1VEG06) | 3:30 | 2023-06-08 |  |
 | [So Strange](https://open.spotify.com/track/4ZqjUGXGFvq2rv3c5qPAWZ) | [Superhumanoids](https://open.spotify.com/artist/1Kq3QgOwTlgBo76HDA4TMH) | [Exhibitionists](https://open.spotify.com/album/5uuHYiydXBOTU3MFSsP8As) | 3:13 | 2023-06-08 |  |
 | [Steel Birds](https://open.spotify.com/track/2En9hPrl1Z2raU3CeYleUI) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Steel Birds](https://open.spotify.com/album/2gSm64JocQqESwqWSdEnjA) | 3:23 | 2023-06-08 |  |

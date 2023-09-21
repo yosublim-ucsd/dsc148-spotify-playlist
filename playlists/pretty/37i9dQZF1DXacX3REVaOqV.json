@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 174536,
+  "num_followers": 174641,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjYzYTJhZjE5ZDA2ZmQyMmViYzVmMmMyOWNjYmFkYzRjYjExNDdi",
+  "snapshot_id": "MCxmMTc0YWVjNGYyZjM3OGFjMzM5NGUyNjM5YWQ2Yzg5YjA3MmYwZjY3",
   "tracks": [
     {
       "added_at": "2023-09-07 18:18:20",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
-    },
-    {
-      "added_at": "2023-09-07 18:18:20",
-      "album": {
         "name": "In The Yuma (feat. Aatig)",
         "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 156215,
       "name": "In The Yuma (feat. Aatig)",
       "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
+    },
+    {
+      "added_at": "2023-09-07 18:18:20",
+      "album": {
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -879,22 +879,18 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
-        "name": "Hold U (feat. James Tone)",
-        "url": "https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB"
+        "name": "Fort Bellefleur",
+        "url": "https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF"
       },
       "artists": [
         {
-          "name": "Lenno",
-          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
-        },
-        {
-          "name": "James Tone",
-          "url": "https://open.spotify.com/artist/5s5zRZUXDZnNcqVdWlHDkC"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 208355,
-      "name": "Hold U (feat. James Tone)",
-      "url": "https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw"
+      "duration_ms": 487752,
+      "name": "When U Came Into My Life",
+      "url": "https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -919,18 +915,22 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
-        "name": "Fort Bellefleur",
-        "url": "https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF"
+        "name": "Hold U (feat. James Tone)",
+        "url": "https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        },
+        {
+          "name": "James Tone",
+          "url": "https://open.spotify.com/artist/5s5zRZUXDZnNcqVdWlHDkC"
         }
       ],
-      "duration_ms": 487752,
-      "name": "When U Came Into My Life",
-      "url": "https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ"
+      "duration_ms": 208355,
+      "name": "Hold U (feat. James Tone)",
+      "url": "https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
-    },
-    {
-      "added_at": "2023-09-07 18:18:20",
-      "album": {
         "name": "Freeze (John Summit Remix)",
         "url": "https://open.spotify.com/album/1y9vtFEaefqwQUioWsaOsw"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 192000,
       "name": "Freeze - John Summit Remix",
       "url": "https://open.spotify.com/track/6N1UWEnnka2kl5g39UnoqI"
+    },
+    {
+      "added_at": "2023-09-07 18:18:20",
+      "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
-        "name": "Pearls (SILK Remix)",
-        "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        },
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
-        }
-      ],
-      "duration_ms": 246718,
-      "name": "Pearls - SILK Remix",
-      "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
-    },
-    {
-      "added_at": "2023-09-07 18:18:20",
-      "album": {
         "name": "Chance To Dance",
         "url": "https://open.spotify.com/album/1QCVx1swTG0R5K2RpQY0oN"
       },
@@ -1871,22 +1851,22 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
-        "name": "Assumptions (Jengi Remix)",
-        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
+        "name": "Pearls (SILK Remix)",
+        "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         },
         {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
         }
       ],
-      "duration_ms": 186222,
-      "name": "Assumptions - Jengi Remix",
-      "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
+      "duration_ms": 246718,
+      "name": "Pearls - SILK Remix",
+      "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -1911,6 +1891,26 @@
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
+    },
+    {
+      "added_at": "2023-09-07 18:18:20",
+      "album": {
+        "name": "Assumptions (Jengi Remix)",
+        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        },
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 186222,
+      "name": "Assumptions - Jengi Remix",
+      "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -2307,6 +2307,26 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
+        "name": "Shed My Skin (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/29TzXw43pdAixdNKFHiwFG"
+      },
+      "artists": [
+        {
+          "name": "D*Note",
+          "url": "https://open.spotify.com/artist/1ho1S1LB2oNr73efwKHLaw"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Shed My Skin - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/0wUF06v3UukgpxMQxti6cA"
+    },
+    {
+      "added_at": "2023-09-07 18:18:20",
+      "album": {
         "name": "Back To Love",
         "url": "https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN"
       },
@@ -2343,46 +2363,6 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
-        "name": "Never Seen You Dance (Demi Riqu\u00edsimo Remix)",
-        "url": "https://open.spotify.com/album/7DUxxi3K83DylaxT9jqCC3"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        },
-        {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
-        }
-      ],
-      "duration_ms": 328356,
-      "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
-      "url": "https://open.spotify.com/track/64kBKl5m9YXX2l8KCn9rVP"
-    },
-    {
-      "added_at": "2023-09-07 18:18:20",
-      "album": {
-        "name": "Shed My Skin (Franky Rizardo Remix)",
-        "url": "https://open.spotify.com/album/29TzXw43pdAixdNKFHiwFG"
-      },
-      "artists": [
-        {
-          "name": "D*Note",
-          "url": "https://open.spotify.com/artist/1ho1S1LB2oNr73efwKHLaw"
-        },
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Shed My Skin - Franky Rizardo Remix",
-      "url": "https://open.spotify.com/track/0wUF06v3UukgpxMQxti6cA"
-    },
-    {
-      "added_at": "2023-09-07 18:18:20",
-      "album": {
         "name": "EXPO Series 001",
         "url": "https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW"
       },
@@ -2415,18 +2395,22 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
+        "name": "Never Seen You Dance (Demi Riqu\u00edsimo Remix)",
+        "url": "https://open.spotify.com/album/7DUxxi3K83DylaxT9jqCC3"
       },
       "artists": [
         {
-          "name": "Marcus Cito",
-          "url": "https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC"
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
+      "duration_ms": 328356,
+      "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
+      "url": "https://open.spotify.com/track/64kBKl5m9YXX2l8KCn9rVP"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -2451,6 +2435,22 @@
       "duration_ms": 238376,
       "name": "Drop The Pressure - Sonny Fodera Remix",
       "url": "https://open.spotify.com/track/0W3QlGq4NUOZvUnYjiJa6u"
+    },
+    {
+      "added_at": "2023-09-07 18:18:20",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
+      },
+      "artists": [
+        {
+          "name": "Marcus Cito",
+          "url": "https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -2559,6 +2559,22 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
+        "name": "Sunset Jam",
+        "url": "https://open.spotify.com/album/70laYWlNtjTmkZjdZ4A3uM"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        }
+      ],
+      "duration_ms": 281824,
+      "name": "Sunset Jam",
+      "url": "https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM"
+    },
+    {
+      "added_at": "2023-09-07 18:18:20",
+      "album": {
         "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
         "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
       },
@@ -2575,22 +2591,6 @@
       "duration_ms": 215648,
       "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
       "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
-    },
-    {
-      "added_at": "2023-09-07 18:18:20",
-      "album": {
-        "name": "Sunset Jam",
-        "url": "https://open.spotify.com/album/70laYWlNtjTmkZjdZ4A3uM"
-      },
-      "artists": [
-        {
-          "name": "Baltra",
-          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
-        }
-      ],
-      "duration_ms": 281824,
-      "name": "Sunset Jam",
-      "url": "https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -2659,6 +2659,26 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
+        "name": "Hear The Voices",
+        "url": "https://open.spotify.com/album/7KHlAoSZAnsxN9wH9l0iXO"
+      },
+      "artists": [
+        {
+          "name": "Greg Van Bueren",
+          "url": "https://open.spotify.com/artist/4XaX11VVNHfq7Rbbn1E5Gk"
+        },
+        {
+          "name": "Dutchican Soul",
+          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+        }
+      ],
+      "duration_ms": 212086,
+      "name": "Hear The Voices - Edit",
+      "url": "https://open.spotify.com/track/1KrNQ6NSSIGVN1O9laLnye"
+    },
+    {
+      "added_at": "2023-09-07 18:18:20",
+      "album": {
         "name": "Release Me (feat. Rationale) [Jess Bays Remix]",
         "url": "https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1"
       },
@@ -2683,22 +2703,18 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
-        "name": "Hear The Voices",
-        "url": "https://open.spotify.com/album/7KHlAoSZAnsxN9wH9l0iXO"
+        "name": "Benin",
+        "url": "https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK"
       },
       "artists": [
         {
-          "name": "Greg Van Bueren",
-          "url": "https://open.spotify.com/artist/4XaX11VVNHfq7Rbbn1E5Gk"
-        },
-        {
-          "name": "Dutchican Soul",
-          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+          "name": "Elliot Fitch",
+          "url": "https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB"
         }
       ],
-      "duration_ms": 212086,
-      "name": "Hear The Voices - Edit",
-      "url": "https://open.spotify.com/track/1KrNQ6NSSIGVN1O9laLnye"
+      "duration_ms": 178346,
+      "name": "Benin",
+      "url": "https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -2767,22 +2783,6 @@
     {
       "added_at": "2023-09-07 18:18:20",
       "album": {
-        "name": "In My Soul",
-        "url": "https://open.spotify.com/album/5qGTRXeMm43C7brMe0TdNl"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 282580,
-      "name": "In My Soul",
-      "url": "https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6"
-    },
-    {
-      "added_at": "2023-09-07 18:18:20",
-      "album": {
         "name": "You Are My Life (Chambray Remix)",
         "url": "https://open.spotify.com/album/5g14VNWqQx9cGbghTzVurk"
       },
@@ -2803,6 +2803,22 @@
       "duration_ms": 158685,
       "name": "You Are My Life - Chambray Remix",
       "url": "https://open.spotify.com/track/4FBYJVSbojmT5wbC1EQA0F"
+    },
+    {
+      "added_at": "2023-09-07 18:18:20",
+      "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/5qGTRXeMm43C7brMe0TdNl"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 282580,
+      "name": "In My Soul",
+      "url": "https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6"
     },
     {
       "added_at": "2023-09-07 18:18:20",
@@ -2839,30 +2855,6 @@
       "duration_ms": 312000,
       "name": "On Da Groove",
       "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
-    },
-    {
-      "added_at": "2023-09-07 18:18:20",
-      "album": {
-        "name": "Love Somebody Else",
-        "url": "https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn"
-      },
-      "artists": [
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        },
-        {
-          "name": "Aruhtra",
-          "url": "https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv"
-        },
-        {
-          "name": "April Morgan",
-          "url": "https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz"
-        }
-      ],
-      "duration_ms": 160437,
-      "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
-      "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
     },
     {
       "added_at": "2023-09-07 18:18:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,137 likes - 120 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,296 likes - 120 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 119 | [Antiche Danze Ed Arie Per Liuto \(Ancient Airs And Dances\), P\. 114: IV\. Italiana](https://open.spotify.com/track/73p40DaAebttScQi46SEow) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Konstantin Scherbakov](https://open.spotify.com/artist/6f4LXqcGifD364sFBKFfoN) | [Respighi: Piano Music](https://open.spotify.com/album/2Nm7vx01wJA7fNH6askGry) | 2:47 |
 | 120 | [Shroud of Night](https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Shroud of Night](https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp) | 3:19 |
 
-Snapshot ID: `MCxkZjNmNGQ4NDA4NjE3NDBjMDI0ZmM0MTg2NDBkNDcxMTJhODAyYzVh`
+Snapshot ID: `MCxmOTY5ZDc5MTUzZWNlMGI2OWU1Y2M0NjllM2YyYmE4N2NlODJjNDVk`

@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-876 songs - 2 day 7 hr 19 min
+877 songs - 2 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [1,000,000,000,000,000,000,000,000 LOVE](https://open.spotify.com/track/7r7AFeFqZHVxa85ffesTAY) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [ユーレイ探偵団](https://open.spotify.com/artist/64bplJQVI6XnlmX7wK2aQ1) | [1,000,000,000,000,000,000,000,000 LOVE](https://open.spotify.com/album/2RPTDrLncqitqAaLegaEGw) | 3:08 | 2022-07-05 | 2022-07-29 |
 | [1/2 \- From CrosSing](https://open.spotify.com/track/55hGpzoNjvOiwnvrSnOkSA) | [nakajima megumi](https://open.spotify.com/artist/2aM6C9kVle6RU6iV2Eb91N) | [1/2 \- From CrosSing](https://open.spotify.com/album/5j5nln0FTomoMiYzTeKKND) | 5:09 | 2022-12-06 | 2022-12-21 |
 | [1/2 \- from CrosSing](https://open.spotify.com/track/4oW0Ujo4RqoAW962Z93bEV) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [1/2 \- from CrosSing](https://open.spotify.com/album/4ujjgXODtPokt16sMMtnsH) | 5:09 | 2022-12-06 | 2022-12-08 |
-| [1000年愛](https://open.spotify.com/track/1Lo6vGRaUV5ZIMgZk8xSFx) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [1000年愛](https://open.spotify.com/album/5nqpf4XFM9KhU8EYhW2I7n) | 5:18 | 2023-09-19 |  |
+| [1000 Nen Ai](https://open.spotify.com/track/7kL3uCeXIukUkX7c7zZpMr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [1000 Nen Ai](https://open.spotify.com/album/15Ou8v4P4vzddeH1mJ1uYa) | 5:18 | 2023-09-19 |  |
+| [1000年愛](https://open.spotify.com/track/1Lo6vGRaUV5ZIMgZk8xSFx) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [1000年愛](https://open.spotify.com/album/5nqpf4XFM9KhU8EYhW2I7n) | 5:18 | 2023-09-19 | 2023-09-21 |
 | [A lonely night ～ひとりぼっちのGet Wild～](https://open.spotify.com/track/2HqmDb5HE9W9bh15VRZCHw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [アイニー](https://open.spotify.com/artist/1PqSi9Rgp6H0LhdCefCyPi), [RED](https://open.spotify.com/artist/5bVJRJd9mUtOh6b1sxM9gb) | [A lonely night ～ひとりぼっちのGet Wild～](https://open.spotify.com/album/7Av4wZIVDisfPaIzarh3UC) | 3:59 | 2023-09-19 |  |
 | [A NEW DAY](https://open.spotify.com/track/6MLjkhdkMiC3IVpS9205Xf) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [A NEW DAY](https://open.spotify.com/album/2Ng7IKU01WIZL0NkjYbr5q) | 3:35 | 2023-07-13 | 2023-07-26 |
 | [A piece of cake](https://open.spotify.com/track/4pae88hho7DMgeCKukQXet) | [Kiyono Yasuno](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [A PIECE OF CAKE](https://open.spotify.com/album/4o9TQA0PoS0iea2MmA8ofx) | 2:41 | 2022-07-28 | 2022-09-21 |

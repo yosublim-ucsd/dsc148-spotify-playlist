@@ -1700,6 +1700,24 @@
     {
       "album": {
         "name": "Change up",
+        "url": "https://open.spotify.com/album/05FD1CfFwHbKMaVqBJabUq"
+      },
+      "artists": [
+        {
+          "name": "bane",
+          "url": "https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193689,
+      "name": "Change up",
+      "url": "https://open.spotify.com/track/2OT45l4smxaerkUUjAuNEz"
+    },
+    {
+      "album": {
+        "name": "Change up",
         "url": "https://open.spotify.com/album/3NWqnAWvO941qvMgRWASMP"
       },
       "artists": [
@@ -1710,7 +1728,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 193689,
       "name": "Change up",
       "url": "https://open.spotify.com/track/6BoQKZocgUQKdHhrv3WCC2"
@@ -3855,6 +3873,24 @@
     },
     {
       "album": {
+        "name": "Good bye-bye",
+        "url": "https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201137,
+      "name": "Good bye-bye",
+      "url": "https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3"
+    },
+    {
+      "album": {
         "name": "Good luck ga kikoenai",
         "url": "https://open.spotify.com/album/73C2HGiOsmEmgnYeZLQwAT"
       },
@@ -5023,6 +5059,28 @@
     },
     {
       "album": {
+        "name": "Kaka feat. punipunidenki",
+        "url": "https://open.spotify.com/album/6V4s8g2PPSNOBuNT8g517t"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        },
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "Kaka feat. punipunidenki",
+      "url": "https://open.spotify.com/track/7ad6IlRnchYtUIBGC8BUdf"
+    },
+    {
+      "album": {
         "name": "Kanashikunaiyo",
         "url": "https://open.spotify.com/album/4cBwOU9R10k9wlYJRmoMBY"
       },
@@ -5554,6 +5612,24 @@
       "duration_ms": 192294,
       "name": "Legit Soul",
       "url": "https://open.spotify.com/track/2iCz8FwmzC6BZlt2FHqFrc"
+    },
+    {
+      "album": {
+        "name": "89.7 Growl FM",
+        "url": "https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162546,
+      "name": "Let It Go As If You Wander",
+      "url": "https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k"
     },
     {
       "album": {
@@ -7018,10 +7094,28 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 203863,
       "name": "Noidleap",
       "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
+    },
+    {
+      "album": {
+        "name": "noidleap",
+        "url": "https://open.spotify.com/album/5KYaSgNi77IKgGkxuqrp7R"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203863,
+      "name": "Noidleap",
+      "url": "https://open.spotify.com/track/6Frb0urydHcSQB8qGkp731"
     },
     {
       "album": {
@@ -9054,6 +9148,24 @@
       "duration_ms": 218952,
       "name": "Silent Cry",
       "url": "https://open.spotify.com/track/02XMPanqyG0PsRpNHTJQdG"
+    },
+    {
+      "album": {
+        "name": "innovation",
+        "url": "https://open.spotify.com/album/5bdAKMVRR7xgucjsH21VxF"
+      },
+      "artists": [
+        {
+          "name": "Blooming Bungei",
+          "url": "https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281288,
+      "name": "silver halide",
+      "url": "https://open.spotify.com/track/6mr15INPDsvJvF88KnJGek"
     },
     {
       "album": {
@@ -13726,7 +13838,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 201137,
       "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
       "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
@@ -14782,7 +14894,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 281288,
       "name": "\u30d5\u30a3\u30eb\u30e0\u30ab\u30e1\u30e9",
       "url": "https://open.spotify.com/track/1hYutnGc0XBiUoMlzipK1p"
@@ -16066,7 +16178,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 245666,
       "name": "\u53ef\u53ef feat. \u3077\u306b\u3077\u306b\u96fb\u6a5f",
       "url": "https://open.spotify.com/track/1rcljy3U53XvlXFgh7BsSs"

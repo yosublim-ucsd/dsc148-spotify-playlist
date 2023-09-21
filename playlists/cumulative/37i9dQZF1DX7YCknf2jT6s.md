@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Joey Alexander
 
-1,084 songs - 3 day 15 hr 23 min
+1,085 songs - 3 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Bagel Boy](https://open.spotify.com/track/2vtqbwWjj6DzHf01ydaqLz) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Bagel Boy](https://open.spotify.com/album/2PIRUZmvvhT3sIlWkgMYn7) | 3:56 | 2022-12-02 | 2022-12-17 |
 | [Bajrangbali](https://open.spotify.com/track/1iDDTc4gBmnciyfcbauam7) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo](https://open.spotify.com/album/3IH9cgAWVxj50l31B7vNF9) | 3:32 | 2022-04-29 | 2022-11-12 |
 | [Balm](https://open.spotify.com/track/22h4bg05XHk550N5HIEs35) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal EP](https://open.spotify.com/album/1r2Yh46iOWNS6fnoc1qPhW) | 4:21 | 2021-12-23 | 2022-02-19 |
-| [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 | 2023-08-04 |  |
+| [Baltimore](https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:37 | 2023-08-04 |  |
+| [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 | 2023-08-04 | 2023-09-21 |
 | [Baptismal Font \- from The Elements \- Water](https://open.spotify.com/track/2Dldyd6yl6rkQqZdsImPKu) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn), [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I), [Cecil McBee](https://open.spotify.com/artist/4ubqlM8o4mDUo33CnxRFqM) | [The Elements: Water](https://open.spotify.com/album/55xWd3VrF0th9SdoCLyZwn) | 4:13 | 2022-10-14 | 2022-10-29 |
 | [Bark Out Thunder Roar Out Lightning](https://open.spotify.com/track/0f32CcNYyYuoLtl83BXWPL) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1) | [Bark Out Thunder Roar Out Lightning](https://open.spotify.com/album/4hDXyL2ja7MKltRAUqo40g) | 15:22 | 2023-07-28 |  |
 | [Bass solo](https://open.spotify.com/track/5wRO3D0QDF9xcdLC6I4vlP) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Dario Chiazzolino](https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k) | [Bass solo](https://open.spotify.com/album/2w7FHQsqxYEDL6lE8WhXQs) | 2:35 | 2023-08-18 | 2023-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,800 likes - 49 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,873 likes - 49 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 4 | [Malunguinho](https://open.spotify.com/track/6s15msjreg2553uO47iWz2) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil\- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2) | 7:37 |
 | 5 | [Mr\. Foolish \(feat\. Seun Kuti\)](https://open.spotify.com/track/7r6PFG9FX6LrpPI1IcfpbI) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 4:02 |
 | 6 | [Montego Sunset](https://open.spotify.com/track/46g7hr6VAtl08So3KkvLc8) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC) | 3:18 |
-| 7 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
+| 7 | [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 |
 | 8 | [Africa Will Be Great Again](https://open.spotify.com/track/3tByzh69xblgCQMxbCE2ZM) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [One People One World](https://open.spotify.com/album/4D4pbycsZl6eUNIeudPJON) | 4:47 |
 | 9 | [Pulsos \(feat\. Antibalas Horns\)](https://open.spotify.com/track/3kp6IvmEaFGQZE1uvtK8n4) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU), [Antibalas Horns](https://open.spotify.com/artist/0VMmjlR5yE56cl2YYmDgE2) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:28 |
 | 10 | [Cumbia Africana](https://open.spotify.com/track/0NKgWh7y8wHhlbYE2NvJAN) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Afro\-Colombian Sound Modernizers](https://open.spotify.com/album/64jRR8ogyHRWsu4ifrc06o) | 3:26 |
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 12 | [Budos Theme](https://open.spotify.com/track/5sF287sBRhHMDJqO8gMbSp) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 3:09 |
 | 13 | [The Traitor](https://open.spotify.com/track/4hVGW01fTaqMbYXJyA8YWn) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC) | 2:42 |
 | 14 | [Afrofunk Revolution](https://open.spotify.com/track/4rlp9tyP0TSx0wvTaK92dv) | [IFÁ](https://open.spotify.com/artist/0fHVExoTqJ6HFt3p4l10R8), [Okwei V\. Odili](https://open.spotify.com/artist/7eAsGkJpYRgpHVXzW64YLn) | [IFÁ Afrobeat + Okwei V\. Odili](https://open.spotify.com/album/2MV4gX4pZ0KSl8zOE5WKVQ) | 5:12 |
-| 15 | [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 |
+| 15 | [Expensive Shit](https://open.spotify.com/track/2yBjFF19OmukrC7deP7LfZ) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Expensive Shit](https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw) | 13:13 |
 | 16 | [Grito de Paz](https://open.spotify.com/track/7iXUWrP4u5N9S038vzMCWL) | [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Bixiga 70 \(2011\)](https://open.spotify.com/album/7Bf5GJVyFVzhx304JsXJCh) | 4:26 |
 | 17 | [La Weá](https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 5:56 |
 | 18 | [Crache La Douleur](https://open.spotify.com/track/6K4mkIv9jq5khtrDLXRhI4) | [Fanga](https://open.spotify.com/artist/7u17cR6KuOndz03h16dCmG) | [Contemporary Afro Beat](https://open.spotify.com/album/33lFnjJDTWmpTq8aoySfDE) | 5:05 |
 | 19 | [Talking Bush](https://open.spotify.com/track/1pD52RIAJeW8pd75WRBSSx) | [Chicago Afrobeat Project](https://open.spotify.com/artist/5vGu21AjbS8AR9A1Ivgl5j) | [Chicago Afrobeat Project](https://open.spotify.com/album/04zWkNRPOYwP5Hbknd7L7J) | 6:06 |
 | 20 | [Kaifa Part 1 & 2](https://open.spotify.com/track/7ErGzwdIsKOdIWZ77VDGox) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Unstraight Ahead](https://open.spotify.com/album/31fhuTb40I2XOlzpqmf9hY) | 6:07 |
 | 21 | [Propaganda](https://open.spotify.com/track/3aP419cmsEU91W7gRY6Bci) | [Afrodizz](https://open.spotify.com/artist/3cum16PhiPE2GOka9ka7tF) | [Kif Kif](https://open.spotify.com/album/4EjmWDQ7xZvAJgw6AIAVuE) | 8:40 |
-| 22 | [Lady](https://open.spotify.com/track/6fsLjItlUmbpl16SGi2COD) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 13:48 |
+| 22 | [Lady](https://open.spotify.com/track/43QdCFyYJ0ei4v13wqZdxH) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Shakara](https://open.spotify.com/album/48tH1irGFVGF4mXBp3LFvt) | 13:48 |
 | 23 | [Nobody's Bulletproof](https://open.spotify.com/track/0UHrUsw3yg6hUDHMw2E6yL) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/5qxaJ3jAYq68bRSL8OwsDq) | 3:10 |
 | 24 | [Atomic Bomb \- William Onyeabor vs\. Hot Chip](https://open.spotify.com/track/6G2M6vvToPz12ghZpeJSGe) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [What?!](https://open.spotify.com/album/5K9nDeTEcoMBakMd7KvtCZ) | 7:16 |
 | 25 | [Kilimanjaro](https://open.spotify.com/track/6k6JSwl4Xs9goFC8VZ098l) | [The Shaolin Afronauts](https://open.spotify.com/artist/5zcJp5jvssOgZXcxI1wuWe) | [Flight of The Ancients](https://open.spotify.com/album/5XGRiFmZOsCy6ZqRFG5d6t) | 6:26 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 48 | [Enwan](https://open.spotify.com/track/616eSjwX3yd5HhtPNCsjCI) | [The Anansa Professionals](https://open.spotify.com/artist/1qvjh1IbEqCRvjkXrd6vgr) | [Enwan](https://open.spotify.com/album/1ZsHa3jQnKwGZOnHHmw70L) | 5:31 |
 | 49 | [No Wrong Show](https://open.spotify.com/track/1lnHRzrx8GLtkPWEQRebWW) | [Thony Shorby Nyenwi](https://open.spotify.com/artist/3HcwWpnDRCp1zhnPRPDQhd) | [Afro Baby: The Evolution of the Afro\-Sound in Nigeria 1970\-79](https://open.spotify.com/album/3MRCjf7Np4Jn3K4bnNv10a) | 5:43 |
 
-Snapshot ID: `MCxkNzkxMjliY2JmYjg2NDBkODM3ZjlhMmJhMzBmNDhmYzY5MTQyM2Zh`
+Snapshot ID: `MCw4MWQ2ZTJmYzEyNGYwMjhiMTgyMjgyMDQ4OTdjMjllNGM5MjJkZTQw`

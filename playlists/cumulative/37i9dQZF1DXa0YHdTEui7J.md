@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-131 songs - 13 hr 58 min
+132 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Feeling For You \(Reveries Digitales Dreamix / Short Remix\)](https://open.spotify.com/track/3kgtewrqex2QtE4rSicyMt) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Reveries Digitales](https://open.spotify.com/artist/0pLFmlFBx1gw9UdmoeTaNT) | [1999 \(Deluxe Edition\)](https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43) | 5:15 | 2021-08-12 |  |
 | [For Those Who Know \- Davide Squillace Remix](https://open.spotify.com/track/09ZVKyYkjpJxrhRmEa191x) | [Ray Okpara](https://open.spotify.com/artist/6EhZghoXSCh77ZwpkKwnfn), [Davide Squillace](https://open.spotify.com/artist/1wQoXZDTq0UCJhXffsm7Nh) | [For Those Who Know EP](https://open.spotify.com/album/0y0jvcH8Dnff5GLZp38TlM) | 3:46 | 2021-08-12 |  |
 | [Forever Pimpin'](https://open.spotify.com/track/6QlyZML7jHHPZJpSoUOSuo) | [Joss Moog](https://open.spotify.com/artist/0H4BQjtU2ChZdr48fgZALZ) | [Best of Joss Moog](https://open.spotify.com/album/5Cw8y8rd0uiJLaPRlODZWo) | 5:33 | 2021-08-12 |  |
-| [Fresh](https://open.spotify.com/track/03MPDq8THNtAfi5h7quHlV) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [Get Up and Boogie \(Incl\. DJ Mix\)](https://open.spotify.com/album/4LTh974nPod5Q50ANvCNya) | 6:56 | 2021-08-12 |  |
+| [Fresh](https://open.spotify.com/track/03MPDq8THNtAfi5h7quHlV) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [Get Up and Boogie \(Incl\. DJ Mix\)](https://open.spotify.com/album/4LTh974nPod5Q50ANvCNya) | 6:56 | 2021-08-12 | 2023-09-21 |
+| [Fresh](https://open.spotify.com/track/2dbo8WYWJuxjGTKWy9YYBq) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [Fresh](https://open.spotify.com/album/51OSYaL9SzBWOBSPe1wmVs) | 6:56 | 2023-03-07 |  |
 | [Fresh](https://open.spotify.com/track/4H2WZu9uvKb0hHl3YisWIc) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [The Best Of](https://open.spotify.com/album/1PEYFDbpGAOH0jUUeqlFOS) | 6:56 | 2021-08-12 | 2022-11-14 |
 | [Für die Liebe](https://open.spotify.com/track/2Fkp4OEW7BrWlaWJShaVrK) | [Matthew Dekay](https://open.spotify.com/artist/1ehDqG6bFGAurxlAJeQgNT), [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [XOXOXO 10](https://open.spotify.com/album/5SqDKbe7q9X6fYBHmm1r3s) | 8:51 | 2021-08-12 | 2022-11-13 |
 | [Für die Liebe](https://open.spotify.com/track/3r8tDBdCl4WgDVcnNbubKR) | [Matthew Dekay](https://open.spotify.com/artist/1ehDqG6bFGAurxlAJeQgNT), [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Kehakuma \(Mixed & Selected By Nick Curly\)](https://open.spotify.com/album/5n7aBkEjF23GCSSfVzNt2O) | 8:51 | 2021-08-12 |  |

@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> Groove to the rhythm of OPM's R&B tunes\. Cover: DENȲ
+> vibe out with artists from the 🇵🇭 Cover: Denise Julia, HAVEN
 
-150 songs - 8 hr 50 min
+151 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Heartbeat On Me](https://open.spotify.com/track/0kyuk5MF2udrcsOeP9d2fg) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Heartbeat On Me](https://open.spotify.com/album/5kqfzUcpIUSo01sYC76CIs) | 3:43 | 2022-10-12 | 2023-07-29 |
 | [Hello](https://open.spotify.com/track/4DBVnpKVcwbrX1EhGZpNfG) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Hello](https://open.spotify.com/album/1G7uyJNMDBiuc4U1s12oXY) | 3:27 | 2022-10-12 | 2023-07-29 |
 | [Hello 2.0 \(Legends Only\) \[feat\. ØZI\]](https://open.spotify.com/track/2RKSmt3Dv1d4JFDr55LbWg) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [Transparent Arts](https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Hello 2.0 \(Legends Only\) \[feat\. ØZI\]](https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ) | 3:50 | 2022-10-12 | 2023-07-29 |
-| [Hey, Fave!](https://open.spotify.com/track/1jmrd7hdHC5cxEYMpeFO43) | [GIE](https://open.spotify.com/artist/3hkmwAxiJdfpmX8H98T92m), [Rycess](https://open.spotify.com/artist/0YyWewAYP0lImXtNMUloWk) | [Hey, Fave!](https://open.spotify.com/album/6lhpW51l05qyB6TtW4UAZ6) | 3:10 | 2023-06-26 |  |
+| [Hey, Fave!](https://open.spotify.com/track/1jmrd7hdHC5cxEYMpeFO43) | [GIE](https://open.spotify.com/artist/3hkmwAxiJdfpmX8H98T92m), [Rycess](https://open.spotify.com/artist/0YyWewAYP0lImXtNMUloWk) | [Hey, Fave!](https://open.spotify.com/album/6lhpW51l05qyB6TtW4UAZ6) | 3:10 | 2023-06-26 | 2023-09-21 |
 | [homebdy](https://open.spotify.com/track/2bFabpKKu22phRjaQPkYV8) | [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy](https://open.spotify.com/album/3im6kBTOa0nG74iwgvuNXl) | 2:21 | 2023-07-28 |  |
 | [Hotel Room](https://open.spotify.com/track/1JW5BE9E5cy9enRzyX9h1J) | [Markus](https://open.spotify.com/artist/2TX325jFbZFpe2OGZNo4Lx), [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1) | [Hotel Room](https://open.spotify.com/album/0QxYtEiFoPvLnhI4JZ6Odm) | 2:38 | 2022-10-12 | 2023-07-29 |
 | [I KNOW](https://open.spotify.com/track/0w1q4OHgs8DDTkxdtu8DEM) | [Mikee Misalucha](https://open.spotify.com/artist/6pijxhedsL0Rb5y542cjix), [Hamin](https://open.spotify.com/artist/3NXegtbD27Rqa1GLte8XaC) | [I KNOW](https://open.spotify.com/album/0ddEA0jRvZ6loXGKlf5tjW) | 3:18 | 2022-10-12 | 2022-12-15 |
@@ -148,6 +148,7 @@
 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 | 2022-10-12 | 2023-07-29 |
 | [syf](https://open.spotify.com/track/65BmvLsQxNwcIlWyIDuHFe) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [syf](https://open.spotify.com/album/1DQFkQPkf9cLxiIA7fnYAl) | 3:30 | 2023-04-06 |  |
 | [Takaw Tingin](https://open.spotify.com/track/4N8ScJCglGFgpTnD39KFQF) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Takaw Tingin](https://open.spotify.com/album/2AAnmzyeMl25pWn3SHElA9) | 3:09 | 2023-06-13 |  |
+| [TALK](https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb) | [dulai](https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1), [leeza](https://open.spotify.com/artist/7KmrzNyuaqGPAVVXd9A0Nx) | [TALK](https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44) | 2:24 | 2023-09-20 |  |
 | [This Time](https://open.spotify.com/track/388tsCjEc8Qd8zfDdkXMB6) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [a.v.d.i](https://open.spotify.com/artist/5PWqgLVse2O4ANi7UDk3nV) | [This Time](https://open.spotify.com/album/4N57PO4kgbTw8ndDQ2bf1L) | 3:33 | 2022-10-12 | 2023-07-29 |
 | [Thought Of U \- slowed & reverb](https://open.spotify.com/track/5fLQYQqxU84ZYuCz7h66vr) | [ApMontyy](https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E), [joey roque](https://open.spotify.com/artist/11MBKb57L3HI0dQneBD4In) | [Thought Of U \(slowed & reverb\)](https://open.spotify.com/album/2VTDr7UcQc1Xm0e2dXkohN) | 3:20 | 2022-10-12 | 2023-07-29 |
 | [u & i](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 | 2022-10-12 | 2023-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 55115,
+  "num_followers": 55141,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjA1ZGIyZDlmMTkwMTM1YjA1MTg2MWNjZWFmZGI3MjlmMzI5MzJh",
+  "snapshot_id": "MCxlOTdjMjFjZWMxNTliMTZmZjQzZGQ4NmMxZmYzNjdkODk0MTJmYjc4",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Raices y Cultura",
         "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 281920,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Desenvaina",
-        "url": "https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt"
-        }
-      ],
-      "duration_ms": 182471,
-      "name": "Desenvaina",
-      "url": "https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Radiante",
         "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
       },
@@ -1039,18 +1019,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Aguas Frescas De Jamaica",
-        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
+        "name": "Desenvaina",
+        "url": "https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY"
       },
       "artists": [
         {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt"
         }
       ],
-      "duration_ms": 278626,
-      "name": "Tan Distante",
-      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
+      "duration_ms": 182471,
+      "name": "Desenvaina",
+      "url": "https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Aguas Frescas De Jamaica",
+        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Tan Distante",
+      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "Amor De Barrio",
         "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
@@ -1087,18 +1087,30 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Neigborhood Rules",
-        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
+        "name": "Rockin'",
+        "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
       },
       "artists": [
         {
           "name": "Hugo Lobo",
           "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        },
+        {
+          "name": "Rotman",
+          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
+        },
+        {
+          "name": "Kevin Fingier",
+          "url": "https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz"
         }
       ],
-      "duration_ms": 232342,
-      "name": "Laba Laba Craven",
-      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
+      "duration_ms": 208563,
+      "name": "Revolution Rock",
+      "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1207,30 +1219,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Rockin'",
-        "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
+        "name": "Neigborhood Rules",
+        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
       },
       "artists": [
         {
           "name": "Hugo Lobo",
           "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        },
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        },
-        {
-          "name": "Rotman",
-          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
-        },
-        {
-          "name": "Kevin Fingier",
-          "url": "https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz"
         }
       ],
-      "duration_ms": 208563,
-      "name": "Revolution Rock",
-      "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
+      "duration_ms": 232342,
+      "name": "Laba Laba Craven",
+      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Mr. Selector",
-        "url": "https://open.spotify.com/album/5mmeQAuCj0HnfEAybnpbAM"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/00s60ym6SjjbgRG3pMle4L"
-        }
-      ],
-      "duration_ms": 228565,
-      "name": "Mr. Selector",
-      "url": "https://open.spotify.com/track/0J4FbI5kcd037ZRvkbtXhB"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Let it Be",
         "url": "https://open.spotify.com/album/502c2vbyXTzFFzIa4QSccC"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 212470,
       "name": "Let it Be",
       "url": "https://open.spotify.com/track/1sd0Y0rWsV3Y7RH0UnoZ5M"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Mr. Selector",
+        "url": "https://open.spotify.com/album/5mmeQAuCj0HnfEAybnpbAM"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/00s60ym6SjjbgRG3pMle4L"
+        }
+      ],
+      "duration_ms": 228565,
+      "name": "Mr. Selector",
+      "url": "https://open.spotify.com/track/0J4FbI5kcd037ZRvkbtXhB"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Sergio Colombo Presenta el Natty Combo",
-        "url": "https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 349280,
-      "name": "La Pipa",
-      "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Runfla Calavera",
         "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
@@ -1435,22 +1419,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "La Naturaleza",
         "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
       },
@@ -1467,6 +1435,38 @@
       "duration_ms": 254058,
       "name": "La Naturaleza",
       "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Sergio Colombo Presenta el Natty Combo",
+        "url": "https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 349280,
+      "name": "La Pipa",
+      "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1567,26 +1567,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Groove Me",
-        "url": "https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw"
+        "name": "Va Salir",
+        "url": "https://open.spotify.com/album/4YxwFWxeTj9cqJej7q40Vy"
       },
       "artists": [
         {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
         },
         {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        },
-        {
-          "name": "Rotman",
-          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
+          "name": "Cuatro Pesos de Propina",
+          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
+      "duration_ms": 253170,
+      "name": "Va Salir",
+      "url": "https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0"
     }
   ],
   "unique_name": "Reggae al Sur",

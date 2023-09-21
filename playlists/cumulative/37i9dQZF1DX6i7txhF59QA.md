@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Nahee Kim\(김나희\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-812 songs - 1 day 22 hr 25 min
+813 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,6 +746,7 @@
 | [마셔라](https://open.spotify.com/track/7M7dVVgNr0VaLq6B2aqw5E) | [Mr.Boombox](https://open.spotify.com/artist/47feRgmsZDfJs3AOY68xPp) | [마셔라](https://open.spotify.com/album/5HcjCPrfrpBgkGYJUTwRYr) | 3:48 | 2022-04-07 | 2022-07-29 |
 | [만개 \(prod\. 신지후\)](https://open.spotify.com/track/2hXsVNMyojuFYcTiF8nhGa) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:11 | 2022-12-05 |  |
 | [만약 혹시나 만약에](https://open.spotify.com/track/0MBll3MNAunvI1k4EqRDXZ) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [만약 혹시나 만약에](https://open.spotify.com/album/1DJtekGwGeFiEWUkaYslNZ) | 2:36 | 2022-05-03 | 2022-07-20 |
+| [맥문동 오빠](https://open.spotify.com/track/5aesrqtaUIJf4lzYaFWrX4) | [김응수](https://open.spotify.com/artist/6pEnT6S3D4AD0vGgDlOub2) | [맥문동 오빠](https://open.spotify.com/album/5qyGLEgWqmqZ3K8IB2hTH9) | 3:03 | 2023-09-20 |  |
 | [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 | 2022-04-22 |  |
 | [목포행 완행열차](https://open.spotify.com/track/1tb1vddvrGHwE1wSRwGB6V) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [préparation\(쁘레빠라씨용\)](https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20) | 3:31 | 2023-07-24 |  |
 | [무명배우](https://open.spotify.com/track/3rYKL4GEjt2R91ww7wNxeT) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [미스트롯 FINAL STAGE](https://open.spotify.com/album/1M7ZC5LiictivsP80SG886) | 4:15 | 2022-04-07 | 2022-07-29 |
@@ -762,7 +763,7 @@
 | [사랑 그게 뭔데](https://open.spotify.com/track/68J4lQX1gDzuNvYwlckkme) | [Hye Ri Jang](https://open.spotify.com/artist/79WoLuXNEK6BdjaYiJxDIH) | [Love & Sorrow](https://open.spotify.com/album/7h4RemoeFUhIciBd9XwSuA) | 3:12 | 2023-05-02 | 2023-07-05 |
 | [사랑껌](https://open.spotify.com/track/6s9igzxODWxRN63d2Jeze9) | [Kum Jan Di](https://open.spotify.com/artist/4sxm6i0Tbb3Pt5sF58KIMI) | [오라버니/사랑껌](https://open.spotify.com/album/1Dwrhjc1pHDa1Gb36xyOtl) | 3:44 | 2022-04-21 | 2022-07-28 |
 | [사랑의 트위스트](https://open.spotify.com/track/0qshHbEOX6YI1IMp33Dy1L) | [MSG\(알파벳](https://open.spotify.com/artist/2hkrP5MtgzdFoc4fZ7Jk2i), [박예슬\)](https://open.spotify.com/artist/7allxqrA4H7TSgY2YPP0LW) | [Korean Trot Contest PART.5](https://open.spotify.com/album/73AYOATUIFhqWlhWCAR3eF) | 4:19 | 2022-04-22 | 2022-07-29 |
-| [사랑해요](https://open.spotify.com/track/1x0NL2GUqjqTj5rGf8Ven3) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [女子](https://open.spotify.com/album/6COkrhmouIRszPygTwhpGa) | 3:15 | 2023-09-08 |  |
+| [사랑해요](https://open.spotify.com/track/1x0NL2GUqjqTj5rGf8Ven3) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [女子](https://open.spotify.com/album/6COkrhmouIRszPygTwhpGa) | 3:15 | 2023-09-08 | 2023-09-21 |
 | [살았소](https://open.spotify.com/track/61cxkZbxONWDilpqDQlAZq) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [살았소](https://open.spotify.com/album/12oUHngv38tTjgGhEXWJgc) | 3:52 | 2022-12-05 | 2023-05-03 |
 | [삼각관계](https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD) | [김용임](https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV) | [김용임 스페셜 베스트 76](https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh) | 2:49 | 2022-04-22 |  |
 | [샤방샤방](https://open.spotify.com/track/0aRhZNpYBCclTh4C63EtAV) | [Park Hyun\-Bin](https://open.spotify.com/artist/4CFPY7gjBXwLIaDhkngkjj) | [샤방샤방](https://open.spotify.com/album/6YLnaecP5lttARu5dlYewv) | 3:24 | 2022-07-22 | 2022-11-06 |

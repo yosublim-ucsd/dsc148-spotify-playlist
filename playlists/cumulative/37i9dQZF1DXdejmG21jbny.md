@@ -4,7 +4,7 @@
 
 > Chill instrumental ambient for slow, focused movement.
 
-478 songs - 23 hr 22 min
+479 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Aligne](https://open.spotify.com/track/09Y2QXKWb5cTg8GeHNK3L2) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Aligne](https://open.spotify.com/album/6AyW1mzv9XkoucZtDSdlxw) | 3:06 | 2023-08-11 |  |
 | [All Along](https://open.spotify.com/track/4I4fBBEhpLAHvnLhacIwdg) | [Tegan Riley](https://open.spotify.com/artist/545YowgDW1BqD0OUeoNP9L) | [All Along](https://open.spotify.com/album/7CRo25Q6dFAeZDTJ4Bgfgq) | 2:27 | 2023-06-21 |  |
 | [Already Missing Summer](https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Already Missing Summer](https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq) | 2:46 | 2022-09-22 |  |
-| [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 | 2023-08-11 |  |
+| [Altaria](https://open.spotify.com/track/6U0VDBci8VNH2vOl9ABfxe) | [Lisa de Permen](https://open.spotify.com/artist/1H0Dzd2Z3BdF0I53KpNx1R) | [Altaria](https://open.spotify.com/album/5u42VT6iwtReZsCN2ijWr6) | 3:28 | 2023-08-29 |  |
+| [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 | 2023-08-11 | 2023-09-21 |
 | [Alternatives](https://open.spotify.com/track/4Ztau0Zq5wxFdqumGyIp9c) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Alternatives](https://open.spotify.com/album/5VPVnonNWHMwTQCgQN0aAk) | 3:05 | 2022-10-25 | 2023-01-14 |
 | [Altitude](https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Altitude](https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf) | 3:45 | 2023-01-13 |  |
 | [Alvajaras](https://open.spotify.com/track/2Ehyt6aG3pExeEXHIEFALg) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Alvajaras](https://open.spotify.com/album/4CtHVon8wb0urnmTJAa6JF) | 2:52 | 2021-12-22 | 2022-11-26 |

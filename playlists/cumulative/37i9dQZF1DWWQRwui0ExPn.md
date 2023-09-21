@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-5,930 songs - 9 day 8 hr 52 min
+5,931 songs - 9 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Alarm Clock](https://open.spotify.com/track/6MGrnDawb4Aoo0BBZT81Bb) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Alarm Clock](https://open.spotify.com/album/2BsHKr8DPBPaQ0f7JsvtQa) | 3:06 | 2022-01-14 | 2022-07-08 |
 | [Alba](https://open.spotify.com/track/4DyV4eucckNTnOwydsyrlx) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [Ander Draw](https://open.spotify.com/artist/73KztGyNr8IXxWgKoVB3Z3), [Díbora Matos](https://open.spotify.com/artist/2D1QRIiceUZ6lQrtA9LLUL) | [Alba](https://open.spotify.com/album/1tgJKzzaiktXTnfLpAMuz5) | 5:47 | 2022-05-27 | 2022-08-27 |
 | [alba](https://open.spotify.com/track/3XMxPaD6U6mkwuakwnPaKZ) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [alba](https://open.spotify.com/album/3k82QE9JAaiNSNdh07QrEk) | 3:38 | 2021-12-17 | 2022-08-27 |
+| [aldo](https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [Aldo](https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1) | 2:11 | 2023-09-19 |  |
 | [Aldorande](https://open.spotify.com/track/05m1FEZRZWmC9ZiTFs9b3Y) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Tone Down](https://open.spotify.com/album/3n4bc3ZLDhQBMx2Zp9CwaU) | 2:34 | 2023-01-20 | 2023-05-19 |
 | [Algud](https://open.spotify.com/track/25HieURiGAzYHS2m4A2NRk) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Algud](https://open.spotify.com/album/7bKRlQGgleIbmuX9Sw2WTg) | 2:30 | 2022-04-08 | 2022-09-02 |
 | [Algún Día](https://open.spotify.com/track/24ec27kQZwotfP3Z0BuTT3) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5) | [Algún Día](https://open.spotify.com/album/5ahrSZGXHLHmji0OMSzzyM) | 2:13 | 2022-07-15 | 2022-10-28 |
@@ -388,7 +389,7 @@
 | [Avocado Day](https://open.spotify.com/track/2DLpsh43lYE1IDdXT7ZchE) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Avocado Day](https://open.spotify.com/album/2fekwLF3p1G3BmVG3CZ4SF) | 1:03 | 2023-06-14 | 2023-08-11 |
 | [Awake](https://open.spotify.com/track/3tRzqJdt8IJGFyVJac26cj) | [Rosehip](https://open.spotify.com/artist/3FEUxHWFYivuxwd4tjIPoT) | [Awake](https://open.spotify.com/album/7wOp0FV5sQy2sdOckuzlPC) | 3:06 | 2020-06-16 | 2021-10-02 |
 | [Awakening](https://open.spotify.com/track/5CkdiuIyUWD9qFHIGHGGzl) | [gsky.](https://open.spotify.com/artist/2eOqRtl9EiC51P6KiUtIV3), [løift.](https://open.spotify.com/artist/0XWohQFTLp3lPtlgekLfui) | [Awakening](https://open.spotify.com/album/5U5qhiDdZTSAN4jcZNuTOZ) | 2:54 | 2021-06-11 | 2022-01-14 |
-| [Awakening](https://open.spotify.com/track/4BWWjTzEZ5A4uZIMbv0Mbb) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Awakening](https://open.spotify.com/album/37FAGVUIcayWIk1DJcxmSB) | 2:24 | 2022-11-25 |  |
+| [Awakening](https://open.spotify.com/track/4BWWjTzEZ5A4uZIMbv0Mbb) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Awakening](https://open.spotify.com/album/37FAGVUIcayWIk1DJcxmSB) | 2:24 | 2022-11-25 | 2023-09-21 |
 | [Aware](https://open.spotify.com/track/2Chh97EQ50NBQneZ2BLaIw) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Aware](https://open.spotify.com/album/2kL0nBxuAzK2woY4gtsWGq) | 1:55 | 2022-03-11 | 2022-08-05 |
 | [Awareness](https://open.spotify.com/track/72tjpx2aQwxWmJKikZZmxy) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2) | [Awareness](https://open.spotify.com/album/5nwqd0TDCgmZbrAoX24k4J) | 1:54 | 2023-07-06 |  |
 | [Away with the Fairies](https://open.spotify.com/track/6Yp6bCLd4IWur1yL2Xirrk) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Away with the Fairies](https://open.spotify.com/album/1zfbxCBx19QGZoGsiivrcA) | 2:46 | 2019-05-26\* | 2020-10-21 |

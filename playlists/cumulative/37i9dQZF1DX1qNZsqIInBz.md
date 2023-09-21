@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-175 songs - 7 hr 53 min
+176 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [AUTUMN SLEEP \- Slowed & Reverb](https://open.spotify.com/track/7pmw88lKWUHx00WHK4RqsM) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [eyfect](https://open.spotify.com/artist/2k4XvivwTpFDQhgN34RYcn) | [ETERNAL IN MEMORIUM \(Slowed & Reverb\)](https://open.spotify.com/album/4Pae9lPOsqOttCwzchxIWi) | 1:52 | 2022-10-10 | 2023-01-21 |
 | [BEAT EM DOWN](https://open.spotify.com/track/6WPu5r9lYZvZqMAIvPQrTs) | [DJ VIOLENCE](https://open.spotify.com/artist/6lJ7jDXDZF5bhkRTNFk00m) | [BEAT EM DOWN](https://open.spotify.com/album/0sHkjvCz8MMYOElNjt2Nq1) | 3:12 | 2022-10-10 | 2023-03-11 |
 | [Beat Mágico Que Mexe Com a Sua Mente](https://open.spotify.com/track/13fBl5rmFLuEeIdYlpq5kR) | [SX69NINE](https://open.spotify.com/artist/1lgF7NWWqnVY6U76lCEDKF) | [Beat Mágico Que Mexe Com a Sua Mente](https://open.spotify.com/album/2UHvLyiO7eKqKyXoHKUv11) | 3:02 | 2023-06-16 | 2023-09-14 |
-| [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL) | [KMJ](https://open.spotify.com/artist/0yuBErKkIfxbvwd7eXaBEI) | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V) | 3:02 | 2023-06-16 |  |
+| [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL) | [KMJ](https://open.spotify.com/artist/0yuBErKkIfxbvwd7eXaBEI) | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V) | 3:02 | 2023-06-16 | 2023-09-21 |
+| [Beat Mágico Que Mexe Com a Sua Mente \- slowed](https://open.spotify.com/track/1aKCVnfuMaTNrj7bOekKb6) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj) | [Beat Mágico Que Mexe Com a Sua Mente](https://open.spotify.com/album/27E8DD2NOZkriuPUwVxpPg) | 3:01 | 2023-06-16 |  |
 | [Beat Mágico Que Mexe Com a Sua Mente \- Slowed](https://open.spotify.com/track/2gUNdKtSKZF4JlYvPkwW9Q) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS) | [Beat Mágico Que Mexe Com a Sua Mente](https://open.spotify.com/album/43zFYKD9jD4bcrPx5NaaBp) | 3:01 | 2023-06-16 | 2023-08-11 |
 | [Beat Mágico Que Mexe Com a Sua Mente \- Slowed](https://open.spotify.com/track/0P9QYHt9rMj7fLgYPC7til) | [KlaizeeXD](https://open.spotify.com/artist/0TLjMY8T4eHJ2HB7rc38e0), [uruz](https://open.spotify.com/artist/6SDPgl2EpwuZ1teHe7mTpH) | [Beat Mágico Que Mexe Com a Sua Mente \- Slowed](https://open.spotify.com/album/0BGWDHOJbbUsJbwNIjxzXG) | 3:02 | 2023-06-16 | 2023-08-17 |
 | [Before End](https://open.spotify.com/track/2IYDMilyoTEDXMiz2Uxb1P) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Before End](https://open.spotify.com/album/0FLuJwdZPZ5wbUbYzyfJvj) | 2:30 | 2023-01-20 | 2023-06-10 |

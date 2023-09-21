@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,252 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,313 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 75 | [Sushi](https://open.spotify.com/track/5OGIJnhky1kQVQJz33QR2W) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [The Hype](https://open.spotify.com/album/2Tf6okz3AKF5NrhaTaoUPM) | 2:58 |
 | 76 | [The Swamp](https://open.spotify.com/track/1W9R3gcmOw3R2DiL2KLxPp) | [Backdrifter](https://open.spotify.com/artist/51IvajBFHTEEYI3DsnuQuQ) | [The Swamp Ep](https://open.spotify.com/album/2RJuOOON0TSbUqzDmGkAsr) | 4:12 |
 | 77 | [Take It On the Run](https://open.spotify.com/track/5gys5nzVQIYhgHIfiOJYva) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:59 |
-| 78 | [I Want It All](https://open.spotify.com/track/0GQo5VkiurD6HnVpaCNeMf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9) | 4:32 |
+| 78 | [I Want It All \- Remastered 2011](https://open.spotify.com/track/2htmMitogin6NMGABye6YG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Deluxe Remastered Version\)](https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs) | 4:40 |
 | 79 | [Slither](https://open.spotify.com/track/6YE7OXQA1kCQvZwfRlGhlN) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 1 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF) | 1:53 |
 | 80 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 81 | [Back In the Game](https://open.spotify.com/track/2XjeZEdPK7Qo66Z7ONp854) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Black Dog Barking \(Special Edition\)](https://open.spotify.com/album/2ByV33s2Y1uJRAooa8ivrn) | 3:25 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
 | 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MCxkNTBkYzAwMDdkNTdlZThkNzhkZWZkZWI2YjhmMmY2MTZkNDFlMTc0`
+Snapshot ID: `MCwxMDRkNjJlMzY4MjQ0NjNkNGZiNmM5NmQ1YTZjMjhkOWU3YjVmMmFl`

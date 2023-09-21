@@ -1661,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Pai, Moon, Everything",
+        "url": "https://open.spotify.com/album/3rBbFBtehaeGhceikBkTFk"
+      },
+      "artists": [
+        {
+          "name": "Mandong",
+          "url": "https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410496,
+      "name": "Pai, Moon, Everything",
+      "url": "https://open.spotify.com/track/35o3FZ22ftwNTfbAGSflYZ"
+    },
+    {
+      "album": {
         "name": "Panama City",
         "url": "https://open.spotify.com/album/68t8T2g4qPYt3cF3W2cLSg"
       },
@@ -2276,6 +2294,24 @@
       "duration_ms": 383715,
       "name": "Take Courage, Take Heart - Shake It Off",
       "url": "https://open.spotify.com/track/2iP9edjDEFjmpT4t6BuPRO"
+    },
+    {
+      "album": {
+        "name": "That Old Feeling",
+        "url": "https://open.spotify.com/album/0qNLMNIGc6OYQam4d354yb"
+      },
+      "artists": [
+        {
+          "name": "KIM JU-HWAN",
+          "url": "https://open.spotify.com/artist/6spyeEyZ3axemAvGhzWoVI"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/681vOa2Z5I1UkGCJ5MVqcQ"
     },
     {
       "album": {
@@ -2948,6 +2984,24 @@
       "duration_ms": 197982,
       "name": "\uc2dc\uc791",
       "url": "https://open.spotify.com/track/0LsATRvvj43sSh4lvCWsQc"
+    },
+    {
+      "album": {
+        "name": "\uc790\uc131 Intrinsic nature",
+        "url": "https://open.spotify.com/album/2FqyeQskEMcMdRBfxsTugo"
+      },
+      "artists": [
+        {
+          "name": "Jung Sumin",
+          "url": "https://open.spotify.com/artist/7mJe9MyvwEVccLfQODmRN1"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498340,
+      "name": "\uc790\uc131 Intrinsic nature",
+      "url": "https://open.spotify.com/track/44tjiiJlKXxqX9hSyRe4Z5"
     },
     {
       "album": {

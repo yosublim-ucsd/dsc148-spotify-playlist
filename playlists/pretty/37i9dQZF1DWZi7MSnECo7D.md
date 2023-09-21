@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Uyara Torrente
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,082 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,077 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Camará Station](https://open.spotify.com/track/20WqfPX5U5kBIo3uMQRtVR) | [mellina](https://open.spotify.com/artist/7nGtXBuI7PJa8Rcy4aL9SY), [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh) | [Camará Station](https://open.spotify.com/album/6GvEAAEut6TqOuzZtIVkSU) | 2:19 |
 | 70 | [Infinita](https://open.spotify.com/track/4yv4dVvcP0ldZxjck7sQAF) | [Cidrais](https://open.spotify.com/artist/5QYAoZeTdLdRkiECvhZ5VE) | [Infinita](https://open.spotify.com/album/2Sni0Wz8fACtUr8Q96FgI2) | 3:58 |
 
-Snapshot ID: `MCwxZWI3OGRiZDU2ZGRiYjBiZTNmNDQ1Njg3MTk0Nzc5M2M3MjE4ZWY2`
+Snapshot ID: `MCxmMGI2NjJlOWY0YTQzMGUzYTcyMWExZmEwZDE1NjIwNDFhZmRiZTdj`

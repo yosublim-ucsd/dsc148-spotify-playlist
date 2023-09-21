@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,518 likes - 75 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,545 likes - 75 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Generate Power \(feat\. Paula Brion\) \- Radio Mix](https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP), [Paula Brion](https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4) | [Generate Power \(Mixes\)](https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl) | 3:40 |
 | 75 | [Master Blaster \(Turn It Up\)](https://open.spotify.com/track/2J03eGRK7Ns3OpBUFhGXbw) | [Joint Venture](https://open.spotify.com/artist/3zgNoLwSZuO6ibqfilnnU2) | [Master Blaster \(Turn It Up\)](https://open.spotify.com/album/6MJQYFCImEMyFA8weZ4Jfl) | 15:38 |
 
-Snapshot ID: `MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji`
+Snapshot ID: `MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz`

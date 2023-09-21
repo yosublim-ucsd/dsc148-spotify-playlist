@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: SIX LOUNGE
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,961 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,007 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Meiteika](https://open.spotify.com/track/4Jfy4KEi4H0YX0dyvaQDk5) | [あすくーる](https://open.spotify.com/artist/4mtzJEsnw8kOF6zmxYatok), [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [あらの](https://open.spotify.com/artist/1lbHbxaaPWLNcAfYaxyVZy) | [Meiteika](https://open.spotify.com/album/1Bg08HJ6DV7pyJPRk9OWXS) | 3:07 |
 | 50 | [Darling](https://open.spotify.com/track/77kkbmAwPI1KuUrIMYb2nY) | [arban](https://open.spotify.com/artist/52ci5W8O4sJ3Xf3X5xitke) | [Darling](https://open.spotify.com/album/6YhmUOXk5zh2g8DJG908a1) | 3:04 |
 
-Snapshot ID: `MCwwODUwZmY4NzI1YjkzYTk1NGRkNGM3MTIwYWUwYTQ5MDcyOTNjNjAy`
+Snapshot ID: `MCw3NDY3OTMxMGE4ZmE3YTk5NzdkZjk3MjgzZGI1MTFiNGU0NGE4ZTNi`

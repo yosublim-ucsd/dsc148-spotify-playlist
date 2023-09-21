@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,403 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,411 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 21 | [Fakin Like](https://open.spotify.com/track/5fYhqJfayNcdIXKkOCMQjA) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 2:07 |
 | 22 | [Clap for Me](https://open.spotify.com/track/3KWoxBedjAynqgB7K6GCGI) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [Lock Down the Streets](https://open.spotify.com/album/61JjQOiq3MkHDzCqpuU1C7) | 3:20 |
 | 23 | [Clappin Song \- Live](https://open.spotify.com/track/49rD206zawYK1k8C55Z7yI) | [TOB](https://open.spotify.com/artist/7COfOGDggDYrMbgI7rEcmk) | [TOB LIVE \(7\-29\-2021\) Hangars Club](https://open.spotify.com/album/1jkom7muvHCaKRXaj39lJL) | 3:51 |
-| 24 | [Whoo Lawd](https://open.spotify.com/track/3ZocWuhl1XQ9S6e1XugOwJ) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 3:53 |
+| 24 | [Whoo Lawd](https://open.spotify.com/track/3otN6Lkxw5LeCeu4BR0WcM) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI) | 3:53 |
 | 25 | [Fight Anthem](https://open.spotify.com/track/1QuwWo8LwESDhHoFGfkhld) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 3:56 |
 | 26 | [Whip Whop](https://open.spotify.com/track/7vwMWvd6Mp2eu5I6LJK9hf) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 6:03 |
 | 27 | [Keep It Gangsta](https://open.spotify.com/track/0gQxAFk2tBuJPMiP39VCnU) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [DJ Flexx Presents \- GO GO 95](https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5) | 7:50 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 43 | [Don't Say You Will \- Live](https://open.spotify.com/track/42yIi2KXKd5fL2ITdcV3Pr) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [The Gift](https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok) | 2:42 |
 | 44 | [Takes My Breath Away \- Live](https://open.spotify.com/track/1g8soFqOrBfamriJLVSjig) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [The Gift](https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok) | 3:34 |
 | 45 | [09 Slowbounce Time](https://open.spotify.com/track/18iNm9mtfdNZKvKMd5W0io) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [The Gift & the Curse](https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G) | 2:29 |
-| 46 | [Roxanne](https://open.spotify.com/track/2BtSxVVjTmmuAMwuCy3U1Z) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 4:34 |
+| 46 | [Roxanne](https://open.spotify.com/track/5NBEj5D44lgnNJyKHzAA6K) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI) | 4:34 |
 | 47 | [Bay Bay](https://open.spotify.com/track/20U5607alwSWGjXsVLItfd) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [The Gift & the Curse](https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G) | 3:37 |
 | 48 | [Tambourina Go Go Bounce](https://open.spotify.com/track/0ahcKcp9NEfIPfkoa966Ce) | [Marcy Mane](https://open.spotify.com/artist/7u9z6yLFvWVEJcnDJnd7sw) | [FLEXICO](https://open.spotify.com/album/2JBBtkjaL8peNpXrkk6rcI) | 2:15 |
 | 49 | [Phatty](https://open.spotify.com/track/2OQNCinNyjZXcsBQq2R3TR) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Diversity!](https://open.spotify.com/album/4EjHp2MA2Os0SVpYcDXhei) | 4:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 69 | [Da Butt](https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [Lost R&B Hits Of The 80S](https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk) | 5:14 |
 | 70 | [96 Dope Jam](https://open.spotify.com/track/3UzNKOAkbXimKt9hzGKwfc) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 6:31 |
 
-Snapshot ID: `MCw4N2U1MGJlMTc4YjVkYjQwOGEyNTI2MDIxMzUwOTgwMWFhMDk1NDNk`
+Snapshot ID: `MCw4MzgzYWRhNWFhN2Y5OTg4OGUzNWI1ZDEyYTE2ZGRkOWMxZWZkZmY0`

@@ -4,7 +4,7 @@
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-75 songs - 5 hr 58 min
+77 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Pressure\. \- Live](https://open.spotify.com/track/0HyX4CfHrqB8faZtNDAdvD) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Pressure\. \(Live\)](https://open.spotify.com/album/0S4WiHEFxuVa011cE4PjT7) | 4:36 | 2022-04-22 |  |
 | [Pretty Girls](https://open.spotify.com/track/5IIu5JtVdXYaqvpCAz9Dis) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Weensey Of Backyard Band](https://open.spotify.com/artist/48d8y1vS0Ly0R93ReZuDf3) | [Attention Deficit](https://open.spotify.com/album/05hgYBx67XFjqWL8on4ugu) | 4:11 | 2022-01-29 |  |
 | [Roll Call](https://open.spotify.com/track/1N6tzEqcWfHCmUyBzkhGYo) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 4:00 | 2022-01-29 |  |
-| [Roxanne](https://open.spotify.com/track/2BtSxVVjTmmuAMwuCy3U1Z) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 4:34 | 2022-01-29 |  |
+| [Roxanne](https://open.spotify.com/track/2BtSxVVjTmmuAMwuCy3U1Z) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 4:34 | 2022-01-29 | 2023-09-21 |
+| [Roxanne](https://open.spotify.com/track/5NBEj5D44lgnNJyKHzAA6K) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI) | 4:34 | 2022-01-29 |  |
 | [Run Joe](https://open.spotify.com/track/70S1dQ6TVPHz6zdX2xdTc5) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [By Special Request the Very Best of Chuck Brown](https://open.spotify.com/album/3eioORbCjAPxRk2buvwkqE) | 8:54 | 2022-01-29 |  |
 | [Sardines](https://open.spotify.com/track/6GvQGFGF4MBE6dMYIqL6um) | [Junkyard Band](https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm) | [Reunion \(Live at Martin's Crosswinds Ballroom\)](https://open.spotify.com/album/0IvE2YB8k0tRSThj643rlR) | 2:29 | 2022-01-29 |  |
 | [Shawty Clap It \(Remix\)](https://open.spotify.com/track/2uY5H6YteSeH80cn1kUTSg) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Shawty Clap It \(Remix\)](https://open.spotify.com/album/6KGiNio1FGRY1HcQv2yo38) | 4:45 | 2022-01-29 |  |
@@ -82,6 +83,7 @@
 | [Unthinkable](https://open.spotify.com/track/3p6pPa10cok7rFffLux60R) | [Tru Expressionz](https://open.spotify.com/artist/1MaOfxXN7HEoXz5cus0IOx) | [Tru Expressionz Greatest Hits](https://open.spotify.com/album/0b4AQ1LPfKyDd5WSGTkdLb) | 4:50 | 2022-02-04 |  |
 | [Unwritten \(Gogo Groove\)](https://open.spotify.com/track/1djCn8ditilkgapdHzVLxu) | [Drew Keys](https://open.spotify.com/artist/2W0dNRlFKyqlESIr4ZXNLm), [Johnny Bomb](https://open.spotify.com/artist/62N3y3zYdyt1Q67pzFh9xW) | [Unwritten \(Gogo Groove\)](https://open.spotify.com/album/0H8nd4EJnCzSaOxSwrd31N) | 4:01 | 2022-01-30 |  |
 | [Whip Whop](https://open.spotify.com/track/7vwMWvd6Mp2eu5I6LJK9hf) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 6:03 | 2022-01-29 |  |
-| [Whoo Lawd](https://open.spotify.com/track/3ZocWuhl1XQ9S6e1XugOwJ) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 3:53 | 2022-01-29 |  |
+| [Whoo Lawd](https://open.spotify.com/track/3ZocWuhl1XQ9S6e1XugOwJ) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3) | 3:53 | 2022-01-29 | 2023-09-21 |
+| [Whoo Lawd](https://open.spotify.com/track/3otN6Lkxw5LeCeu4BR0WcM) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI) | 3:53 | 2022-01-29 |  |
 
 \*This playlist was first scraped on 2022-02-25. Prior content cannot be recovered.

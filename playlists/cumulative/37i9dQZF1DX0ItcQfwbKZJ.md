@@ -4,7 +4,7 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-80 songs - 7 hr 15 min
+83 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Ephra](https://open.spotify.com/track/3ALHP8Zlt4eDfUdqUKCxbW) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/5qxaJ3jAYq68bRSL8OwsDq) | 3:05 | 2022-09-26 |  |
 | [Ephra](https://open.spotify.com/track/791wSIhPaz4gvcxeIG0mHh) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/7i1uRaDZbc53bpjdTmJEBr) | 3:05 | 2019-08-09 | 2022-07-29 |
 | [Ephra](https://open.spotify.com/track/7q4gcbF890tSkGjRexc0Jg) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/7BBgP62XXdQL3SoFcMPqWO) | 3:05 | 2019-08-09 | 2023-04-30 |
-| [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 | 2019-08-09 |  |
+| [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 | 2019-08-09 | 2023-09-21 |
+| [Expensive Shit](https://open.spotify.com/track/2yBjFF19OmukrC7deP7LfZ) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Expensive Shit](https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw) | 13:13 | 2022-09-26 |  |
 | [Feso Jaiye](https://open.spotify.com/track/1uIy2y0qJlC5ftcf2DjQjr) | [The Sahara All Stars Of Jos](https://open.spotify.com/artist/2neyZmrTXU4BiQhxl3P2MA) | [Nigeria Special: Modern Highlife, Afro\-Sounds & Nigerian Blues 1970\-6](https://open.spotify.com/album/02anNBQ72TFiWjpTcyvkuW) | 4:09 | 2019-08-09 |  |
 | [Go Je Je](https://open.spotify.com/track/1dDFysERIfgY3zxVpkCTLI) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Government Magic](https://open.spotify.com/album/5EEsbpPgWsbdYbZg3AxtsO) | 6:38 | 2019-08-09 |  |
 | [Grito de Paz](https://open.spotify.com/track/0Q8nj1pDDC23xvz6H3reHR) | [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Bixiga70](https://open.spotify.com/album/35xSBiC2JXZUDUlvtbRf18) | 4:26 | 2019-08-09 | 2022-07-29 |
@@ -55,7 +56,8 @@
 | [Kana Sarakabö](https://open.spotify.com/track/3QOllXZu7hOPu3Vv29XVZG) | [Bembeya Jazz National](https://open.spotify.com/artist/1OGuNbASgvINcHfDtrDnj3) | [Discothèque 76](https://open.spotify.com/album/67OQuCcp8yfLRKa49asN8i) | 6:01 | 2019-08-09 |  |
 | [Kilimanjaro](https://open.spotify.com/track/6k6JSwl4Xs9goFC8VZ098l) | [The Shaolin Afronauts](https://open.spotify.com/artist/5zcJp5jvssOgZXcxI1wuWe) | [Flight of The Ancients](https://open.spotify.com/album/5XGRiFmZOsCy6ZqRFG5d6t) | 6:26 | 2019-08-09 |  |
 | [La Weá](https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 5:56 | 2019-08-09 |  |
-| [Lady](https://open.spotify.com/track/6fsLjItlUmbpl16SGi2COD) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 13:48 | 2019-08-09 |  |
+| [Lady](https://open.spotify.com/track/43QdCFyYJ0ei4v13wqZdxH) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Shakara](https://open.spotify.com/album/48tH1irGFVGF4mXBp3LFvt) | 13:48 | 2022-09-26 |  |
+| [Lady](https://open.spotify.com/track/6fsLjItlUmbpl16SGi2COD) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 13:48 | 2019-08-09 | 2023-09-21 |
 | [Lagos Sisi](https://open.spotify.com/track/6yM82PxMywRHehdoQgQT8p) | [Bola Johnson](https://open.spotify.com/artist/7CfyXrIeIEd05s0nEPvjW1) | [Man No Die](https://open.spotify.com/album/0oQKeXlY2O4QAP83DUn2n5) | 3:23 | 2019-08-09 |  |
 | [Malunguinho](https://open.spotify.com/track/1vwPVpvlspzanOmd1Lbo8n) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil \- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/2OCkXFlU5DFmvmEzeLGXWI) | 7:37 | 2019-08-09 | 2022-07-29 |
 | [Malunguinho](https://open.spotify.com/track/6OEj7Y9qW87GB17GBx7Y3b) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil\- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/7KiyicpzKkhs7BUxg4fqz2) | 7:37 | 2019-08-09 | 2023-05-06 |
@@ -87,6 +89,7 @@
 | [Truth Don Die](https://open.spotify.com/track/0LcSuLxn3abxhGh0zRnfnP) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Shoki Shoki](https://open.spotify.com/album/3H963ogFzj0Zxin7NYcZhI) | 6:20 | 2019-08-09 | 2023-02-04 |
 | [Ugali](https://open.spotify.com/track/2559TZcRM848q9t1kbTm02) | [The Tony Benson Sextet](https://open.spotify.com/artist/0KAihIxZASpqsWUSwaasOJ) | [Ugali](https://open.spotify.com/album/65tZYpJZUmIiWePyRlSV9M) | 5:23 | 2019-08-09 |  |
 | [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 | 2019-08-09 |  |
-| [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2019-08-09 |  |
+| [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 | 2022-09-26 |  |
+| [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2019-08-09 | 2023-09-21 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

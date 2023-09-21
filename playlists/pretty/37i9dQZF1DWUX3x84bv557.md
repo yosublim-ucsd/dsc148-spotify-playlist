@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: MAKSIM & Emma Heesters
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,327 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,362 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dat Hadden Wij Moeten Zijn](https://open.spotify.com/track/1YdavvpHweXYPkKuxg40Ha) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Dat Hadden Wij Moeten Zijn](https://open.spotify.com/album/5WxgeokG4RNocDTb4uQ1cE) | 3:04 |
-| 2 | [Niet Naar Huis](https://open.spotify.com/track/4ouO2G1LVrl7auDWbrI89h) | [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Niet Naar Huis](https://open.spotify.com/album/5aRqWwUO68r33MD812weKs) | 2:15 |
+| 2 | [Onderweg](https://open.spotify.com/track/2q0ZsFK74e4eZskq758hE8) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [NIELS](https://open.spotify.com/album/55kSSo7UN20j1iM7uW80yO) | 2:55 |
 | 3 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 |
-| 4 | [Onderweg](https://open.spotify.com/track/2q0ZsFK74e4eZskq758hE8) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [NIELS](https://open.spotify.com/album/55kSSo7UN20j1iM7uW80yO) | 2:55 |
+| 4 | [Niet Naar Huis](https://open.spotify.com/track/4ouO2G1LVrl7auDWbrI89h) | [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Niet Naar Huis](https://open.spotify.com/album/5aRqWwUO68r33MD812weKs) | 2:15 |
 | 5 | [100K Tranen](https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP) | [100K Tranen](https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm) | 2:34 |
 | 6 | [Morgen Gaan We Praten](https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS), [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Morgen Gaan We Praten](https://open.spotify.com/album/4LGsHcf4ciNkjFNwWe03Nx) | 2:48 |
 | 7 | [Boeie](https://open.spotify.com/track/2w5QvIqfDjg09RAe56WbiO) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Boeie](https://open.spotify.com/album/5Tl0c5B3lHjw0v5IQsDlBw) | 2:33 |
-| 8 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/2p8EJUT61FPH3cax0UdSnK) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1OuwGZMLpotXelAT54hv4C) | 3:07 |
+| 8 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7nyjc67qu7HJm24mjSspcb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/6SY21zr7uf71GLBZxXsITj) | 3:07 |
 | 9 | [Altijd Onderweg](https://open.spotify.com/track/2510MF3xvG8LgOC1RVxF5U) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Altijd Onderweg](https://open.spotify.com/album/7K7CynIwvLxVkzLCmjxDbJ) | 2:57 |
 | 10 | [Kapitein](https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Kapitein](https://open.spotify.com/album/5Dz5CfH58kYE9nAwNwiFH3) | 3:14 |
 | 11 | [Leugenaar II](https://open.spotify.com/track/2YLTNvko2SBU4j0qX4iaQT) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Leugenaar II](https://open.spotify.com/album/7MCmumqUFWvcUfkUSPljxG) | 3:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Wat Ik Met Je Moet](https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM) | [Amber Delil](https://open.spotify.com/artist/1vEHJYnp7FQ27RGabDTasf) | [Wat Ik Met Je Moet](https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF) | 3:00 |
 | 70 | [Glaasje of 2](https://open.spotify.com/track/608bP3vB7pwjatfREMItX6) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Glaasje of 2](https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j) | 2:03 |
 
-Snapshot ID: `MCxlM2I2ZmYxNDI1ODhlMTY0YjdkYzlkOTM1OTE3NjYxNWJkNTliYWVm`
+Snapshot ID: `MCwyODgzYTk4OWM4ODRiNTYyNDQ2OGEzMTdhYjUyYWEzN2ViNjU0NDhk`

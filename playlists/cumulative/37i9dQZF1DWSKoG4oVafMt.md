@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-780 songs - 1 day 18 hr 21 min
+782 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Attitude](https://open.spotify.com/track/1c69J5zh7bFdzuCskQ1nDM) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Attitude \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/album/3pcfgQjmTD9v9z2uq4Zoj4) | 2:49 | 2022-09-30 | 2022-10-02 |
 | [Attitude](https://open.spotify.com/track/1doASRJQuXt97FMqJgn4aK) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Babe Bhangra Paunde Ne \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63zguPGRWX1sxdCc4Jl2MF) | 2:49 | 2022-11-11 | 2022-11-14 |
 | [Attitude \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/track/5pcPJPmlRG4L1yqPJd2g3o) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG) | [Attitude \(From "Babe Bhangra Paunde Ne"\) \- Single](https://open.spotify.com/album/72JdGkMg4jhAaooXKIYmah) | 2:49 | 2022-09-30 | 2023-02-04 |
+| [Ayee](https://open.spotify.com/track/3s6bB02odIXvM3OpnqgzNN) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Ayee](https://open.spotify.com/album/0kk2Nm0O28gQLXVhaznomg) | 2:26 | 2023-09-20 |  |
 | [Baah Fadke](https://open.spotify.com/track/1f9j80w1LF874X4kH0E3Yb) | [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X), [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB) | [Baah Fadke](https://open.spotify.com/album/22ErOFK02WfmSwsThMD1CA) | 2:29 | 2022-05-23 | 2022-07-06 |
 | [Baariyan](https://open.spotify.com/track/68RUO1BnU4QEaTdDtoeh8h) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Baariyan](https://open.spotify.com/album/4onKWqYKdOvsI3n52VsnFf) | 1:20 | 2023-09-01 |  |
 | [Bachalo](https://open.spotify.com/track/1v8NfOckFEnck9gp7iyetm) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Bachalo](https://open.spotify.com/album/3KSE24dHweGL1Ent5wkmYZ) | 2:45 | 2021-12-02 | 2022-04-06 |
@@ -200,6 +201,7 @@
 | [Feel Safe](https://open.spotify.com/track/6tAxhowakXIqZ1nxgsz9YX) | [Harpinder Gill](https://open.spotify.com/artist/5PxQ3JnQJ8mKv8lqU48B4U) | [Feel Safe](https://open.spotify.com/album/0rU0CrrpYCBovRgdxfPGf0) | 3:10 | 2022-10-11 | 2023-02-02 |
 | [Feelinga](https://open.spotify.com/track/3Z3LWu6W9E64D1PuyNqlWD) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Kamal Longwal](https://open.spotify.com/artist/3oZRmK1lNVPMjKck5cdOgR) | [Feelinga](https://open.spotify.com/album/1Dg0h9qaMvlQd9CrWqOhve) | 2:30 | 2022-07-15 | 2022-09-23 |
 | [Ferozi Koka](https://open.spotify.com/track/3nBT3djv8UdFtlM7hqfnit) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Ferozi Koka](https://open.spotify.com/album/58CBHd8bAudqjM2ySjMaqt) | 2:52 | 2022-10-06 | 2023-02-04 |
+| [Fikar](https://open.spotify.com/track/70BgJ8MYMyF3zURCqUd8FP) | [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8), [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Fikar](https://open.spotify.com/album/3PeCg4DIogrEPkyds3rFnp) | 3:28 | 2023-09-20 |  |
 | [Firozi](https://open.spotify.com/track/3C1CI7A7stRCh6gpBWCEQS) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:36 | 2022-02-02 | 2022-04-06 |
 | [Five Flower](https://open.spotify.com/track/74wcCZYO6yofhiahlJqkKk) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Five Flower](https://open.spotify.com/album/463xWGyBZ2PjYCLIVAIxU5) | 2:38 | 2022-09-09 | 2022-12-16 |
 | [Flat](https://open.spotify.com/track/2yeklSP8NLY1INR6GOzVgd) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat](https://open.spotify.com/album/0VPaB19nfI80AE71iO22zN) | 2:33 | 2022-07-21 | 2022-07-29 |

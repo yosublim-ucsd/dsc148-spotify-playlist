@@ -727,6 +727,32 @@
     },
     {
       "album": {
+        "name": "Ayee",
+        "url": "https://open.spotify.com/album/0kk2Nm0O28gQLXVhaznomg"
+      },
+      "artists": [
+        {
+          "name": "Harnoor",
+          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
+        },
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "Ilam",
+          "url": "https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Ayee",
+      "url": "https://open.spotify.com/track/3s6bB02odIXvM3OpnqgzNN"
+    },
+    {
+      "album": {
         "name": "Baah Fadke",
         "url": "https://open.spotify.com/album/22ErOFK02WfmSwsThMD1CA"
       },
@@ -3926,6 +3952,32 @@
       "duration_ms": 172687,
       "name": "Ferozi Koka",
       "url": "https://open.spotify.com/track/3nBT3djv8UdFtlM7hqfnit"
+    },
+    {
+      "album": {
+        "name": "Fikar",
+        "url": "https://open.spotify.com/album/3PeCg4DIogrEPkyds3rFnp"
+      },
+      "artists": [
+        {
+          "name": "Jashan Inder",
+          "url": "https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8"
+        },
+        {
+          "name": "Sofia Inder",
+          "url": "https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Fikar",
+      "url": "https://open.spotify.com/track/70BgJ8MYMyF3zURCqUd8FP"
     },
     {
       "album": {

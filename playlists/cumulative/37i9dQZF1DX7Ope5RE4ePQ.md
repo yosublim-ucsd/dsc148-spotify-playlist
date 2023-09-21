@@ -4,7 +4,7 @@
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-90 songs - 6 hr 47 min
+91 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [The Night We Met](https://open.spotify.com/track/6nXGCf8abcRrRhLrUEFlD8) | [Asiancellodude](https://open.spotify.com/artist/3YJJSktrvGW0GYbbZwyGsY) | [The Night We Met](https://open.spotify.com/album/40z8uHIyl3cLTiMIZxquq6) | 3:08 | 2022-04-01 |  |
 | [The Phantom of the Opera: Overture](https://open.spotify.com/track/7mZFYTDSIvDPBY8w0EJMUc) | [Prague Cello Quartet](https://open.spotify.com/artist/5GeMh4YY04Q71E55hL6D9A) | [Broadway](https://open.spotify.com/album/5WjFyMbVOxXY8cHOfFOqdF) | 3:17 | 2022-04-01 |  |
 | [The Phantom of the Opera: Overture](https://open.spotify.com/track/3vLa18ko8VtiSh32m6ceP5) | [Prague Cello Quartet](https://open.spotify.com/artist/5GeMh4YY04Q71E55hL6D9A) | [The Phantom of the Opera: Overture](https://open.spotify.com/album/0oMltgMweWTGOBQPhuDU9j) | 3:19 | 2022-08-05 | 2022-12-11 |
+| [The Village: Morning](https://open.spotify.com/track/0nyDhaZfQN7uw071Fpq8pg) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [The Village: Morning](https://open.spotify.com/album/2DWJtnvhMCL49fvWBfyt27) | 4:38 | 2023-09-20 |  |
 | [this is what love is](https://open.spotify.com/track/2lVIRDMd7dgwMAwzM824Dz) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [James Southall](https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc), [Thomas Gould](https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk), [David O’Leary](https://open.spotify.com/artist/3kuJnjb3NR5NO0iptFuchB), [Rachel Roberts](https://open.spotify.com/artist/1kO1prL8GSAOJYecFt0pzw), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9) | [this is what love is](https://open.spotify.com/album/5KAMiXABUYhHcV15pfJ4w4) | 3:00 | 2022-08-05 |  |
 | [Traitor \- arr\. String Quartet \(inspired by Bridgerton\)](https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Traitor \[arr\. String Quartet \(inspired by Bridgerton\)\]](https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga) | 3:42 | 2022-04-01 |  |
 | [Una fantasia \- String Orchestra Version](https://open.spotify.com/track/7e19iixIbdGGYuJmz5SyxX) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Sebastian Knauer](https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM) | [This Is \(Not\) Beethoven](https://open.spotify.com/album/2GV1ljxc2JbgX4RCLu89mb) | 3:38 | 2023-02-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,333 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,377 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 88 | [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 |
 | 89 | [Bubblegum](https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Liquid](https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps) | 2:46 |
 | 90 | [Boxes](https://open.spotify.com/track/761bRfbulbqga0Sm60GGhG) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/2TQASXqfYqFMTsrWBVhWWl) | 2:50 |
-| 91 | [Slow Love](https://open.spotify.com/track/5bOBc05OJjuCusiPiq90Cm) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/04psVVPNcK8SHuwBWe7eL7) | 4:12 |
+| 91 | [Slow Love](https://open.spotify.com/track/41dOblAV4rjQZEYHGQUbmQ) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 4:12 |
 | 92 | [Out There](https://open.spotify.com/track/5QqKzAuEzh9D2HYxEUvq7T) | [Froyo](https://open.spotify.com/artist/7bu1W48UCjVSIyy3qxZ0gW) | [Blue](https://open.spotify.com/album/4Juo69Ey1SGYgN0JIQfAvs) | 3:03 |
 | 93 | [You Never Leave Me](https://open.spotify.com/track/5y4Dg2q6aZAc38LWD80ryh) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:58 |
 | 94 | [Do U Know What I Mean](https://open.spotify.com/track/2BQ2zD7l6vm7TMwjP1gFwC) | [marsfade](https://open.spotify.com/artist/7M3FasmCh6IGCbclVAkoy0) | [Do U Know What I Mean](https://open.spotify.com/album/4QxLd4ab1axpMyYr5ytT3a) | 3:27 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCwyNjRkMjI4NjE4Nzg0MjQ1ZDNhN2IwZjIyMzE3NjE3N2Y1YmM5ZjRj`
+Snapshot ID: `MCwxYWY5MDM1M2VmYjg1ZGVkOGM4NDdmZTAyNWMzNTkyYWUzYjczOGVk`

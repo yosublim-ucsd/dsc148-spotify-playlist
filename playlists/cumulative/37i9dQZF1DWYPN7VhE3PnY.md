@@ -2,7 +2,7 @@
 
 ### [bitter/sweet](https://open.spotify.com/playlist/37i9dQZF1DWYPN7VhE3PnY)
 
-> remember when we were dark and brooding\. Cover: Chvrches
+> remember when we were dark and brooding\. Cover: CHVRCHES
 
 56 songs - 3 hr 26 min
 

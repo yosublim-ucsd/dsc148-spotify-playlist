@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Pind Dilli",
+        "url": "https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt"
+      },
+      "artists": [
+        {
+          "name": "Kuwar Virk",
+          "url": "https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127448,
+      "name": "Pind Dilli",
+      "url": "https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA"
+    },
+    {
+      "album": {
         "name": "PO",
         "url": "https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD"
       },

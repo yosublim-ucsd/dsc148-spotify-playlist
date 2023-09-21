@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 480000,
       "name": "Blue Noise",
       "url": "https://open.spotify.com/track/1g7bwkWKsyQB2CIOKUh8Xv"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 177446,
       "name": "Blue Noise",
       "url": "https://open.spotify.com/track/3BEXo9GmU3JfaVTify7ir5"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 142221,
       "name": "Blue Noise (Loopable No Fade)",
       "url": "https://open.spotify.com/track/39OO7h9wpBR0TPTw3v8Bsz"
@@ -656,6 +656,24 @@
       "duration_ms": 118414,
       "name": "Blue Noise Ambiance",
       "url": "https://open.spotify.com/track/5XcF9xRYEVIZiKtKkViaNC"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Architecture",
+        "url": "https://open.spotify.com/album/2g0bySzL5EHwQwFZmyIvY4"
+      },
+      "artists": [
+        {
+          "name": "The Frequency Shifters",
+          "url": "https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "Blue Noise Architecture",
+      "url": "https://open.spotify.com/track/7u3GWc7xnXci5PV5PLyihN"
     },
     {
       "album": {
@@ -783,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Blue Noise Focus Supply",
+        "url": "https://open.spotify.com/album/00N3bHNahZq6CD9onJynKz"
+      },
+      "artists": [
+        {
+          "name": "The Tone-Gens",
+          "url": "https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221281,
+      "name": "Blue Noise Focus Supply",
+      "url": "https://open.spotify.com/track/0zrWgPuXiyiXN3PEPQxWS5"
+    },
+    {
+      "album": {
         "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
         "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
       },
@@ -802,7 +838,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 142221,
       "name": "Blue Noise For ADHD (Loopable No Fade)",
       "url": "https://open.spotify.com/track/5zHseiNJMitditpUoQmpEC"
@@ -932,7 +968,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 231112,
       "name": "Blue Noise for Tinnitus Relief",
       "url": "https://open.spotify.com/track/5B4RJ9MuNBMoxS1oo5MwiZ"
@@ -1156,7 +1192,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 300000,
       "name": "Blue Noise Notched at 2500 Hertz for Tinnitus Therapy",
       "url": "https://open.spotify.com/track/1Dy8XVCG0Zv8gLbNRe25wN"
@@ -1758,7 +1794,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 132000,
       "name": "Blue Noise Spread",
       "url": "https://open.spotify.com/track/6W4rMj9qOUKPh7ESX2K3lS"
@@ -2585,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "Kinda Blue Noise",
+        "url": "https://open.spotify.com/album/60pWRZgnfnQvZze6Xu8dhT"
+      },
+      "artists": [
+        {
+          "name": "Sweet Sol",
+          "url": "https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211993,
+      "name": "Kinda Blue Noise",
+      "url": "https://open.spotify.com/track/6JjN36d3743SQZZ9nlhySt"
+    },
+    {
+      "album": {
         "name": "Loopable Sleep Noise for Charity",
         "url": "https://open.spotify.com/album/3AgWfNRRW9wiRA3FvMqoFM"
       },
@@ -2600,6 +2654,24 @@
       "duration_ms": 122000,
       "name": "Loopable Blue Noise for Charity",
       "url": "https://open.spotify.com/track/4RfBZvmR6TSivWC3olxa6F"
+    },
+    {
+      "album": {
+        "name": "Masking Blue Noise Winds",
+        "url": "https://open.spotify.com/album/0h8Fy3W44tgC0jx9MaS5z0"
+      },
+      "artists": [
+        {
+          "name": "ULXI",
+          "url": "https://open.spotify.com/artist/4BEynIaDkgnXy4tS0v0DQU"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206048,
+      "name": "Masking Blue Noise Winds",
+      "url": "https://open.spotify.com/track/0ykKnJnS8xLDAUL22n67k8"
     },
     {
       "album": {
@@ -2954,7 +3026,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 145421,
       "name": "Softened Blue Noise",
       "url": "https://open.spotify.com/track/4JBDaNYB7caQUwL8FD8uHg"
@@ -2972,7 +3044,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 137377,
       "name": "Soothing Blue Noise",
       "url": "https://open.spotify.com/track/0yHTk671w4Y3V7PBk5jIZ8"
@@ -3088,7 +3160,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 180000,
       "name": "Super Light Blue Noise Loop (No Fade)",
       "url": "https://open.spotify.com/track/4dZvkOdXXcpbdnLyJBcmZN"

@@ -4,7 +4,7 @@
 
 > Teen Jesus and the Jean Teasers are our new RADAR artist to watch!
 
-253 songs - 13 hr 13 min
+254 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,8 @@
 | [Vicious Love](https://open.spotify.com/track/0BQ6xllqXR18Wv9eGJZlnE) | [Niko Walters](https://open.spotify.com/artist/0iWMmFScSBxj1z3IisnGkB) | [Vicious Love](https://open.spotify.com/album/27rv7NZ9NKmlmt6VECV277) | 2:53 | 2021-10-15 | 2022-08-16 |
 | [vodka orange juice](https://open.spotify.com/track/2yx7j2SdTCDYcDGPRFdSBz) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [vodka orange juice](https://open.spotify.com/album/1WyIXN8s7H1sE4aZDOAhU9) | 3:59 | 2021-10-15 | 2022-08-16 |
 | [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 3:37 | 2021-10-15 | 2022-08-16 |
-| [Wasted You](https://open.spotify.com/track/28L2LpII3fEre94t6RtHic) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Wasted You](https://open.spotify.com/album/2emrhAuOMSvfs7i9nqhfJP) | 2:44 | 2023-03-02 |  |
+| [Wasted You](https://open.spotify.com/track/28L2LpII3fEre94t6RtHic) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Wasted You](https://open.spotify.com/album/2emrhAuOMSvfs7i9nqhfJP) | 2:44 | 2023-03-02 | 2023-09-21 |
+| [Wasted You](https://open.spotify.com/track/4cxEhWVeCI5Y37vNjCVIlx) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Wasted You](https://open.spotify.com/album/1SZ4Pxkt81jWO3AuY5GskN) | 2:44 | 2023-08-17 |  |
 | [What If He Put His Hands on You](https://open.spotify.com/track/3QJFUk14nTZEqQcMxTVGiW) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Mine / What If He Put His Hands on You](https://open.spotify.com/album/1aYhrhdTX6bo60T1tAsoxw) | 3:07 | 2021-10-15 | 2022-08-16 |
 | [When Skies Were Always Blue](https://open.spotify.com/track/1cxfKJMjgB4OY0mm3QVB6n) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [When Skies Were Always Blue](https://open.spotify.com/album/6ONL60dY4YafW6hPNEsFiN) | 4:15 | 2021-10-15 | 2022-08-16 |
 | [Whirinaki Mai](https://open.spotify.com/track/22UVBLb7Gwq5futagSgqJi) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Whirinaki Mai](https://open.spotify.com/album/0NqWzlJqAeDmJ38FMm6Xv6) | 2:34 | 2022-11-10 | 2023-03-02 |

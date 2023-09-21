@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,051 songs - 2 day 9 hr 31 min
+1,052 songs - 2 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 | 2022-03-12 | 2022-03-18 |
 | [GALAPIN](https://open.spotify.com/track/2DcrDCSo13ilebRPyq3wNI) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 3:16 | 2022-04-09 | 2022-05-08 |
 | [GALAPIN](https://open.spotify.com/track/29EmyYlu6tRW51iY7AvGNT) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [GALAPIN](https://open.spotify.com/album/34EGyXtxsJbIL5gAFVzcZa) | 3:16 | 2022-03-20 | 2022-04-10 |
+| [Gaming and chill](https://open.spotify.com/track/0F2xORrS26LJ7z3T6wVeJ7) | [Djloborojo](https://open.spotify.com/artist/6CVUOemvWEpgQBzexKdY1e) | [Gaming and chill](https://open.spotify.com/album/4zmPErOAXWUMKBl7GROKrn) | 2:42 | 2023-09-20 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-11 |
 | [Gass Pure](https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Gass Pure](https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW) | 2:17 | 2023-01-02 | 2023-02-23 |
 | [Gasso](https://open.spotify.com/track/2hd4xbo6AnIxzHtUuQipb7) | [AC music Promotions](https://open.spotify.com/artist/29qku6aKvUatEpXLSEkxh2) | [Gasso](https://open.spotify.com/album/7z0Querg99S8y127RTllkx) | 2:53 | 2023-06-12 | 2023-06-22 |
@@ -755,7 +756,7 @@
 | [PortoBello](https://open.spotify.com/track/4HXcnBfKuqGC2fIYXquurs) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:46 | 2022-12-03 | 2022-12-06 |
 | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n) | 2:50 | 2021-11-25 | 2021-11-26 |
 | [Prepotente](https://open.spotify.com/track/3a5oq7iRY1kLKTwojU7Qfa) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Prepotente](https://open.spotify.com/album/641RNNuxJx1wbSDgPn6pcP) | 2:05 | 2023-07-23 |  |
-| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-09-05 |  |
+| [Primera Cita](https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:06 | 2023-09-05 | 2023-09-21 |
 | [Primera Vez](https://open.spotify.com/track/0jRnQ0qTi3BRei6p0AunAH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:09 | 2021-12-05 | 2021-12-06 |
 | [Princesa De Otro](https://open.spotify.com/track/1FcLVdE8zzLY1olRQYUgsb) | [Pescy la Ley](https://open.spotify.com/artist/4KEsGu4CXTPHy7ZvDGnqub) | [Princesa De Otro](https://open.spotify.com/album/5B1CNEHH3HobzDFlidyIgm) | 3:27 | 2022-10-25 | 2022-10-30 |
 | [Probadita](https://open.spotify.com/track/43XGVPv2cXGIoVxXMDbvRL) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:50 | 2022-04-09 | 2022-04-12 |

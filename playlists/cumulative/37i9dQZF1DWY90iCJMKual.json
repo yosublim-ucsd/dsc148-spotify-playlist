@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Groove to the rhythm of OPM's R&B tunes. Cover: DEN\u0232 ",
+  "description": "vibe out with artists from the \ud83c\uddf5\ud83c\udded Cover: Denise Julia, HAVEN ",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -988,7 +988,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 190509,
       "name": "Hey, Fave!",
       "url": "https://open.spotify.com/track/1jmrd7hdHC5cxEYMpeFO43"
@@ -2826,6 +2826,28 @@
       "duration_ms": 189717,
       "name": "Takaw Tingin",
       "url": "https://open.spotify.com/track/4N8ScJCglGFgpTnD39KFQF"
+    },
+    {
+      "album": {
+        "name": "TALK",
+        "url": "https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44"
+      },
+      "artists": [
+        {
+          "name": "dulai",
+          "url": "https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1"
+        },
+        {
+          "name": "leeza",
+          "url": "https://open.spotify.com/artist/7KmrzNyuaqGPAVVXd9A0Nx"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144807,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb"
     },
     {
       "album": {

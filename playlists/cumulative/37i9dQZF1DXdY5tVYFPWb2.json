@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "KYOUWA NANDAKA/DOWN TOWN",
+        "url": "https://open.spotify.com/album/5giD1r7qGSvC0YVkGoBzI8"
+      },
+      "artists": [
+        {
+          "name": "flex life",
+          "url": "https://open.spotify.com/artist/66zHgvxzqfIjBiyAUhZRU1"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298166,
+      "name": "DOWN TOWN",
+      "url": "https://open.spotify.com/track/2RYM6u7SdYQOoZRzTrHOx8"
+    },
+    {
+      "album": {
         "name": "\u4eca\u65e5\u306f\u306a\u3093\u3060\u304b/DOWN TOWN",
         "url": "https://open.spotify.com/album/1FDOX3sjlYWF2xynxUzWiS"
       },
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 298166,
       "name": "DOWN TOWN",
       "url": "https://open.spotify.com/track/6AvFi2BAozKdtQnY4akfVs"
@@ -2686,7 +2704,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 197500,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
@@ -4779,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229088,
+      "name": "nestling",
+      "url": "https://open.spotify.com/track/1Ox30wrAfvowGChbGc2y6p"
+    },
+    {
+      "album": {
         "name": "New Place, New Life",
         "url": "https://open.spotify.com/album/15QZRuqfRxjJ5lkvuXx1wS"
       },
@@ -4994,10 +5030,28 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 203863,
       "name": "Noidleap",
       "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
+    },
+    {
+      "album": {
+        "name": "noidleap",
+        "url": "https://open.spotify.com/album/5KYaSgNi77IKgGkxuqrp7R"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203863,
+      "name": "Noidleap",
+      "url": "https://open.spotify.com/track/6Frb0urydHcSQB8qGkp731"
     },
     {
       "album": {
@@ -5838,7 +5892,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 219033,
       "name": "Ravel",
       "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
@@ -6330,7 +6384,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Shampoo (feat. Yu Hayami)",
       "url": "https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a"
@@ -8843,6 +8897,24 @@
     },
     {
       "album": {
+        "name": "YUNAGI TSUSHIN (2023 Remix)",
+        "url": "https://open.spotify.com/album/4WJNklO9X7jm0vZD8HxtNg"
+      },
+      "artists": [
+        {
+          "name": "S. Kiyotaka & Omega Tribe",
+          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279887,
+      "name": "YUNAGI TSUSHIN - 2023 Remix",
+      "url": "https://open.spotify.com/track/65BCJwQDPJad1ujeB6o8cz"
+    },
+    {
+      "album": {
         "name": "Zurukunai?",
         "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
       },
@@ -11094,7 +11166,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 279887,
       "name": "\u5915\u51ea\u901a\u4fe1 - 2023 Remix",
       "url": "https://open.spotify.com/track/7ArA09LFsVi9Mcfs43XJQW"

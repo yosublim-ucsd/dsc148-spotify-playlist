@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Nana Fofie
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,440 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,463 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Desire](https://open.spotify.com/track/6NNrSujGlcgGV5442TcT7m) | [Donson](https://open.spotify.com/artist/5BWlGj95oqmytrojTyBBvo), [Lino](https://open.spotify.com/artist/50XQMobXASNNGho6iHHpFH), [Genice](https://open.spotify.com/artist/2cm6H9yyGNoM9Q8C7bQtVt), [Bensco](https://open.spotify.com/artist/5skgghkUo49r7un9w8lqGH) | [Desire](https://open.spotify.com/album/3ACSvdyJ9fYqOhlVM0VSVq) | 2:19 |
 | 50 | [Belle Carte](https://open.spotify.com/track/2gKsBw5M0U3HXF0fUPo2Lt) | [CDG](https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL) | [Belle Carte](https://open.spotify.com/album/3Yin1NWzb34xLjIh0bN3cJ) | 2:48 |
 
-Snapshot ID: `MCwxMDdhYWQ2NTc5NTRhODU5MjFkMzgzM2NlNGJhYzI1N2RjNDczOTc0`
+Snapshot ID: `MCxmMGQxZTAxNDkxNGY4ODk3ZDYxZTdhNDlmMDAxMTkzMDcwOTdmNmVm`

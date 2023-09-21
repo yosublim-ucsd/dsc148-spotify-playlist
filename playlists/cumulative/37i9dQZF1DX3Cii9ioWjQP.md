@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-161 songs - 11 hr 32 min
+164 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Orange Sky Highway](https://open.spotify.com/track/5ObPWJEwM5W1wVqHwtgy9f) | [Rofesta Gipsyband](https://open.spotify.com/artist/4ZLcFGWaJ1BqEixadAD6Kp) | [Orange Sky Highway](https://open.spotify.com/album/5Zw6e3qXRwdNfsQ6Nb3a97) | 5:51 | 2022-05-03 | 2022-05-19 |
 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-22 |  |
 | [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 | 2022-05-03 | 2022-06-21 |
+| [Pai, Moon, Everything](https://open.spotify.com/track/35o3FZ22ftwNTfbAGSflYZ) | [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [Pai, Moon, Everything](https://open.spotify.com/album/3rBbFBtehaeGhceikBkTFk) | 6:50 | 2023-09-20 |  |
 | [Panama City](https://open.spotify.com/track/0VMAEcSHxnQdMedvh0DmDg) | [신영주](https://open.spotify.com/artist/1RYbei4j2dxJS0hGwPCU7Q) | [Panama City](https://open.spotify.com/album/68t8T2g4qPYt3cF3W2cLSg) | 3:19 | 2022-05-18 |  |
 | [Paradise](https://open.spotify.com/track/69zIdA5t7hSbg84oBqMGN2) | [Duck Street](https://open.spotify.com/artist/3gwtQID1nUIazz3OOtA3Xj) | [Paradise](https://open.spotify.com/album/0FIfipUXodzW7yXdNZPrZk) | 4:29 | 2023-02-07 |  |
 | [Perfume](https://open.spotify.com/track/02xYtlVTLBZXxXIP2kec41) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Perfume](https://open.spotify.com/album/2HwZWaK4Sp3fnrbgfIz5Vq) | 3:12 | 2022-05-03 | 2023-02-08 |
@@ -129,6 +130,7 @@
 | [Sunny after the rain](https://open.spotify.com/track/5EYXCX3C33oyz7EGyBUoo4) | [Ohhwapyoung](https://open.spotify.com/artist/5Ld0vZxZXB0C467fp1bJ7U) | [Weekly Ohhwapyoung Season 4 Vol.39](https://open.spotify.com/album/4R4vkv6lrO0cSjH0jSGTss) | 2:24 | 2022-05-03 | 2023-02-08 |
 | [Swing Slam](https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Swing Slam](https://open.spotify.com/album/3q6KvvIzC0r1k8bT4DGErv) | 3:48 | 2023-02-14 |  |
 | [Take Courage, Take Heart \- Shake It Off](https://open.spotify.com/track/2iP9edjDEFjmpT4t6BuPRO) | [yesun](https://open.spotify.com/artist/3XUw63l5EYScAl395My20X) | [Take Courage, Take Heart \- Shake It Off](https://open.spotify.com/album/6zsh1oqFy6bexb9uXPc9Rc) | 6:23 | 2023-02-07 |  |
+| [That Old Feeling](https://open.spotify.com/track/681vOa2Z5I1UkGCJ5MVqcQ) | [KIM JU\-HWAN](https://open.spotify.com/artist/6spyeEyZ3axemAvGhzWoVI) | [That Old Feeling](https://open.spotify.com/album/0qNLMNIGc6OYQam4d354yb) | 4:51 | 2023-09-20 |  |
 | [That's why you're spring](https://open.spotify.com/track/3yTjvrfLQa1WXAXqBXKEKu) | [Jigu27](https://open.spotify.com/artist/5j4gPonhwCuAiiCVYz9P0O) | [That's why you're spring](https://open.spotify.com/album/0i8EGoHiEdbh09CclUC4Td) | 3:22 | 2022-05-03 |  |
 | [The Day Of My Naughty Cat](https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1) | [Jeong Sook In](https://open.spotify.com/artist/3Pbw4Y5kqj3hs6NJEPMBrf) | [My Story](https://open.spotify.com/album/6IAtYMlWW8ngSNuXFOpeSZ) | 5:12 | 2022-05-18 |  |
 | [The thirsty rose is happy](https://open.spotify.com/track/75IaMRnu0oFGmEruNK4xcB) | [Kevinology](https://open.spotify.com/artist/1oZXLWkvfPyzt9fMVaDxgp) | [Kevinology 2022 Lieder Ohne Worte: May](https://open.spotify.com/album/0eMvcpbAxbTmACwHvJgnti) | 3:19 | 2022-05-18 | 2023-02-08 |
@@ -165,6 +167,7 @@
 | [새+일회용품 Bird+Disposable \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202](https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf) | 4:51 | 2023-07-24 |  |
 | [수암로](https://open.spotify.com/track/1agp7haerf4CHKUOix59bO) | [Uri](https://open.spotify.com/artist/2tG5Ksvgakzg0AxoMutgwE) | [Diary 11 의정부](https://open.spotify.com/album/70xNNxytzLqRmn4X2XvvLf) | 2:58 | 2022-11-11 |  |
 | [시작](https://open.spotify.com/track/0LsATRvvj43sSh4lvCWsQc) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [시작](https://open.spotify.com/album/1j9Bz1EoymRjq4ZF3oUdx1) | 3:17 | 2023-07-24 |  |
+| [자성 Intrinsic nature](https://open.spotify.com/track/44tjiiJlKXxqX9hSyRe4Z5) | [Jung Sumin](https://open.spotify.com/artist/7mJe9MyvwEVccLfQODmRN1) | [자성 Intrinsic nature](https://open.spotify.com/album/2FqyeQskEMcMdRBfxsTugo) | 8:18 | 2023-09-20 |  |
 | [카페인](https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme) | [정승수 밴드](https://open.spotify.com/artist/2CUrF1ofFe2Fg7tgQQH7Sr) | [카페인](https://open.spotify.com/album/3s8QEeQGLT6y6isxaa4ZjN) | 4:37 | 2022-05-03 |  |
 | [퇴사하는 날 The Last Day of Work\(Dobby is Free\)](https://open.spotify.com/track/1cLGyPRsyMZzX23TbG9LdA) | [조영훈 Younghoon Cho](https://open.spotify.com/artist/7KOFCJ3yZTiPDj215mxq3G) | [퇴사하는 날 The Last Day of Work](https://open.spotify.com/album/2GwqgiOoFdm4lYEE5dztHW) | 2:25 | 2022-05-03 | 2022-05-19 |
 | [풀빛푸른](https://open.spotify.com/track/6SNqL7uzSSESJ3IMKLFCdN) | [Q\-Han](https://open.spotify.com/artist/0Ahq4s8aRjMtjuui5iwxFp) | [풀빛푸른](https://open.spotify.com/album/3dPkZo53nbzFqMory6otX1) | 2:30 | 2022-11-11 |  |

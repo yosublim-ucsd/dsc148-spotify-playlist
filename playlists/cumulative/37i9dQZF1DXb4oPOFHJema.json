@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Nighttime Brown Noise",
+        "url": "https://open.spotify.com/album/7bOwzgHmf9neP2ApwS6xEO"
+      },
+      "artists": [
+        {
+          "name": "Noise Gravity",
+          "url": "https://open.spotify.com/artist/5Qd5aYgxNuzurvHmSbHRa5"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160697,
+      "name": "Atmosphere Brown Noise",
+      "url": "https://open.spotify.com/track/4Bq6IdY33YoyM2OWogdywx"
+    },
+    {
+      "album": {
         "name": "Baby Sleep Brown Noise",
         "url": "https://open.spotify.com/album/72oELCMIURf5TwCP1tC7RE"
       },
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 143667,
       "name": "Brown Noise LP 850",
       "url": "https://open.spotify.com/track/6VAu4qYnQ5rrsR5WzepHpk"
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 226000,
       "name": "Clouds (Brown Noise)",
       "url": "https://open.spotify.com/track/2g5t61FK81Fg05dLT6jZ5j"
@@ -3116,6 +3134,24 @@
       "duration_ms": 198000,
       "name": "Peaceful Mind Noise",
       "url": "https://open.spotify.com/track/3Itfj9OAXvpTF8IVOFRMHW"
+    },
+    {
+      "album": {
+        "name": "Brown Noise 4 Insomniacs",
+        "url": "https://open.spotify.com/album/23QI60SFiz4fJjbxLJk01Q"
+      },
+      "artists": [
+        {
+          "name": "Pinkage",
+          "url": "https://open.spotify.com/artist/4wFbCRYOgiYItOMGZM5HgJ"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161199,
+      "name": "Phat Brown Noise",
+      "url": "https://open.spotify.com/track/2kEcUZ6E9hj4ZPebHXl0bu"
     },
     {
       "album": {

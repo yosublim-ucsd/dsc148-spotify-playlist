@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,438 likes - 90 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,471 likes - 90 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 55 | [Un simbronazo](https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO) | [Los Cate](https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:03 |
 | 56 | [Ah Mi Corrientes Porá](https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s), [Domingo Rodriguez](https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:22 |
 | 57 | [Baile de Campo](https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn) | [Los Taitas del Chamame](https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u) | [Baile de Campo](https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g) | 2:45 |
-| 58 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto \(En Vivo en el Teatro Colón\)](https://open.spotify.com/album/502Tc6vY1fm9WQ9ceBhsZg) | 4:48 |
-| 59 | [Camino a Tres Cruces](https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T) | [La Barra Chamamecera](https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d) | [Los Enganchados del Chamamé](https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK) | 2:11 |
+| 58 | [Camino a Tres Cruces](https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T) | [La Barra Chamamecera](https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d) | [Los Enganchados del Chamamé](https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK) | 2:11 |
+| 59 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto \(En Vivo en el Teatro Colón\)](https://open.spotify.com/album/502Tc6vY1fm9WQ9ceBhsZg) | 4:48 |
 | 60 | [A villa Guillermina](https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg) | [Paquito Aranda](https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:50 |
 | 61 | [Esclavo de Tus Besos](https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp) | [Los Chaque\-Che](https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx), [Los Hermanos Aquino](https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs) | [Chamamé](https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi) | 3:09 |
 | 62 | [La Calandria](https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ) | [Cuarteto Santa Ana](https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu) | [20 Superexitos Originales](https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx) | 2:55 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 78 | [Por Tus Besos](https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr) | [Hermanos Barrios](https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X) | [Las Nuevas Estrellas del Chamamé](https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW) | 2:47 |
 | 79 | [Te amare eternamente](https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo) | [Los Hermanos Barrios](https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:12 |
 | 80 | [Las Penas del Provinciano](https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ) | [Emiliano Cardozo](https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:06 |
-| 81 | [La Ofelia](https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM) | [Abelardo Dimotta](https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:38 |
-| 82 | [Flor del Litoral](https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:51 |
+| 81 | [Flor del Litoral](https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:51 |
+| 82 | [La Ofelia](https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM) | [Abelardo Dimotta](https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:38 |
 | 83 | [Tiempo](https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG) | [Hernán Crespo](https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR), [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tiempo](https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL) | 4:30 |
 | 84 | [Refugio de soñadores](https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km) | [Rudi y Nini Flores](https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt) | [Refugio de soñadores](https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2) | 3:22 |
 | 85 | [No Hay Mal Que por Bien No Venga](https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV) | [La Nueva Fuerza del Chamamé](https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji) | [Sencillito Nomás](https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL) | 3:02 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 89 | [Palomita Mensajera](https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:02 |
 | 90 | [Bien Correntino / Lágrima de Cocodrilo / Masticando / Conocerte a Ti](https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4) | [Los Criollitos del Chamamé](https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r) | [Con Estilo Mbareté](https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C) | 7:54 |
 
-Snapshot ID: `MCw4YWU2MWU5YTJiNWYwY2FiMWYwYjg0MmM3ZDY4OWI0MmFjOTkyZjM4`
+Snapshot ID: `MCw1NjZjZTBlNmNlMWM4MTdmMTFjYjU2MjAzNDE5OTBhY2QzNDJjNDBi`

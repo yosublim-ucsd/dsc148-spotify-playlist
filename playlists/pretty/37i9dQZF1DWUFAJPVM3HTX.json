@@ -1,13 +1,541 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2?si=UhHlCfaQTmeXGi-XvTkm7w\">Dayo Bello</a>. Updates every Wednesday.",
-  "num_followers": 211165,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU?si=VTlAs-66TP6SDKypzYnC3A\">Ana\u00efs Cardot</a>. Updates every Wednesday.",
+  "num_followers": 211443,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWY2YTQ3MWFkM2Y1YWU5ZTBmYjZlNmIwZWYwYTU4ODYwMTc1YWE2",
+  "snapshot_id": "MCw3Y2IwNWUyYjI5MGFlNDFlMjIyYjk0YjZmZTU5MDk5YzVmNWRkYTE0",
   "tracks": [
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Pink Magnolia",
+        "url": "https://open.spotify.com/album/5IMmIvFq2CChk3Fuz4FHf8"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Purple Room",
+      "url": "https://open.spotify.com/track/67eYQpO7xtAcKlPu0oDDhe"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Spend My Days",
+        "url": "https://open.spotify.com/album/1i6kNaAWplITA9Q9cUwj7A"
+      },
+      "artists": [
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Spend My Days",
+      "url": "https://open.spotify.com/track/03qshjNjaZJ9YmuyX9malT"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Wasting Time",
+        "url": "https://open.spotify.com/album/6iOd2SCeSVgV7wjHuqywgq"
+      },
+      "artists": [
+        {
+          "name": "Nia Chennai",
+          "url": "https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR"
+        }
+      ],
+      "duration_ms": 145227,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/40Wc4TCv8Z0IiSX4UV3bwL"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "From You",
+        "url": "https://open.spotify.com/album/0WEBDFGiPBFoDx55iNQU7M"
+      },
+      "artists": [
+        {
+          "name": "Tash",
+          "url": "https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR"
+        }
+      ],
+      "duration_ms": 175534,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/52cMqFjKP9O7fwyTS0uAQQ"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2leTPsqoiGVvk61RfG15me"
+      },
+      "artists": [
+        {
+          "name": "SHRETA",
+          "url": "https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/7LtALDdCgKr8rAI0Hww2fV"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Forever & A Day",
+        "url": "https://open.spotify.com/album/5kc8fel1fPNOGmoDgRtRhz"
+      },
+      "artists": [
+        {
+          "name": "HENNESSY",
+          "url": "https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Forever & A Day",
+      "url": "https://open.spotify.com/track/1nwfMW5zWjfjTqYCHJ8xKg"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "heal yourself first",
+        "url": "https://open.spotify.com/album/2IwiSeljDZi9pxOWpvhzKU"
+      },
+      "artists": [
+        {
+          "name": "IX WULF",
+          "url": "https://open.spotify.com/artist/4YJ3Jfbf78CW0WCNPVNNa2"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "act v: sage",
+      "url": "https://open.spotify.com/track/6C2aerMqlBa6ZOPxFo9ZAv"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Drop In",
+        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Chasing Dreams",
+        "url": "https://open.spotify.com/album/3qqkvEzOFR0Qbrx5V1R7No"
+      },
+      "artists": [
+        {
+          "name": "IYAMAH",
+          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
+        }
+      ],
+      "duration_ms": 224070,
+      "name": "Chasing Dreams",
+      "url": "https://open.spotify.com/track/6gNlkt43XJJPr24ozyP7NW"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Sexy Lady (Remix)",
+        "url": "https://open.spotify.com/album/1SxKnUKEoooT5gRfnxMFBE"
+      },
+      "artists": [
+        {
+          "name": "Cedric Brazle",
+          "url": "https://open.spotify.com/artist/537DG59uwJsVL3RKA6YNW6"
+        },
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 222935,
+      "name": "Sexy Lady - Remix",
+      "url": "https://open.spotify.com/track/6NvlMkDs7m6ZNIf1ioVDbT"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Oxytocin",
+        "url": "https://open.spotify.com/album/5yIWWZjhqAM5TzrwSD3IVb"
+      },
+      "artists": [
+        {
+          "name": "Leo Pastel",
+          "url": "https://open.spotify.com/artist/7vQGIpk5D46TsDuZbVDaZH"
+        },
+        {
+          "name": "Glasstempo",
+          "url": "https://open.spotify.com/artist/733W9KTiraPrq2Ukfz5UJs"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Oxytocin",
+      "url": "https://open.spotify.com/track/3ZfF8HBkofbil0ttU5mFGa"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "WhiskeY",
+        "url": "https://open.spotify.com/album/7DD1Kl38Z8wvEMav79Kn9C"
+      },
+      "artists": [
+        {
+          "name": "Saeku",
+          "url": "https://open.spotify.com/artist/1Q6esqI8NxePB4bbW3Cmn8"
+        }
+      ],
+      "duration_ms": 106444,
+      "name": "WhiskeY",
+      "url": "https://open.spotify.com/track/1jT2OJlY4Y4MRzMdEI4Me9"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Bad Situation",
+        "url": "https://open.spotify.com/album/2uy2toRBO5ErRypti0ZK5O"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/1B40NJiFLj76HWGwuIqD82"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "Bad Situation",
+      "url": "https://open.spotify.com/track/1uFPHsmIe5aI3iA73py8Kx"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Captive",
+        "url": "https://open.spotify.com/album/7BUpm2GUQCmZm5lUqjVKAT"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        },
+        {
+          "name": "Sonic Major",
+          "url": "https://open.spotify.com/artist/4rnHC0hGrS23ObIu3CeRIT"
+        }
+      ],
+      "duration_ms": 147153,
+      "name": "Captive",
+      "url": "https://open.spotify.com/track/3B6ep1AYi04qGBNcIOZ7Fn"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Close To You (Ain't Close Enough)",
+        "url": "https://open.spotify.com/album/3g8hr4wrnsEhtQqQqspBWu"
+      },
+      "artists": [
+        {
+          "name": "Tamara",
+          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
+        }
+      ],
+      "duration_ms": 212998,
+      "name": "Close to You (Ain't Close Enough)",
+      "url": "https://open.spotify.com/track/1lhTXr81P3mg13OTMmu2fO"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "U On U",
+        "url": "https://open.spotify.com/album/0pip5uNIsRNkzdiUPMQzyu"
+      },
+      "artists": [
+        {
+          "name": "Chastity",
+          "url": "https://open.spotify.com/artist/6pByYy45UB6gJyheYSrPBE"
+        }
+      ],
+      "duration_ms": 188748,
+      "name": "U On U",
+      "url": "https://open.spotify.com/track/6o9GwPzoIdECkCNjhPzDdK"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Not My Concern / Different",
+        "url": "https://open.spotify.com/album/6sgnWlAAGZI5p1FHoWTXFE"
+      },
+      "artists": [
+        {
+          "name": "ginius",
+          "url": "https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw"
+        }
+      ],
+      "duration_ms": 131525,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7BaPu3b5wbBtQ6Z09XL05O"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Idc",
+        "url": "https://open.spotify.com/album/63uVI06T5QlE4Oxj0oFHYe"
+      },
+      "artists": [
+        {
+          "name": "CAMP",
+          "url": "https://open.spotify.com/artist/5WlBS3np27mk4KGGU0mONt"
+        },
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Idc",
+      "url": "https://open.spotify.com/track/1NOm0iagppoeoQxNXtunY5"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/0JW5f1VLjHnaMUxVOZKPM1"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9e Celine",
+          "url": "https://open.spotify.com/artist/08RglYeTgvNEtSnR3YmDj5"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/09etTRAWQ4Rg3LWsUAwJe4"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "TESTDRIVE'",
+        "url": "https://open.spotify.com/album/7bOkto9kBeWwf69cquXIZL"
+      },
+      "artists": [
+        {
+          "name": "Reg Mason",
+          "url": "https://open.spotify.com/artist/7gXtktcRCIGU7xy0dIOI1b"
+        },
+        {
+          "name": "JTT",
+          "url": "https://open.spotify.com/artist/2qFYC6IIfP7dO27Z0sG6Wd"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "st\u00e9",
+      "url": "https://open.spotify.com/track/4y1j7No8BlOermjHMgC4P2"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "FOR LOVE",
+        "url": "https://open.spotify.com/album/1bwPdNLE5g7pEOfZ8tbzZd"
+      },
+      "artists": [
+        {
+          "name": "LORD$OFDOGTOWN",
+          "url": "https://open.spotify.com/artist/3MR1RYx6wS8n93uSVpYoQ5"
+        }
+      ],
+      "duration_ms": 117303,
+      "name": "FOR LOVE",
+      "url": "https://open.spotify.com/track/6SPYYyGUIe3t0eLf4N2W82"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "MAYBE",
+        "url": "https://open.spotify.com/album/06UcomZHwc9BVjvan0LjE4"
+      },
+      "artists": [
+        {
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+        }
+      ],
+      "duration_ms": 250909,
+      "name": "MAYBE",
+      "url": "https://open.spotify.com/track/70ziIbsLPmCPv16zLyxTD9"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "RAINON",
+        "url": "https://open.spotify.com/album/6YDHIeOXmiKBQuLGmfaRAr"
+      },
+      "artists": [
+        {
+          "name": "DCMBR",
+          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
+        },
+        {
+          "name": "Bizness Boi",
+          "url": "https://open.spotify.com/artist/6C6Q9qXILDoSIegeGf6gId"
+        }
+      ],
+      "duration_ms": 199481,
+      "name": "RAINON",
+      "url": "https://open.spotify.com/track/3DDkmwgK1tvj39qYpZUolo"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Guarded",
+        "url": "https://open.spotify.com/album/4bebFS6h4quF5egkn2r5JZ"
+      },
+      "artists": [
+        {
+          "name": "FEYZAL",
+          "url": "https://open.spotify.com/artist/1udeJj2JuE1SCjqrxYakvB"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Guarded",
+      "url": "https://open.spotify.com/track/0Hw8tT2bJrY3hu8ENVyDTk"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/4oucUvOiDts1asLD9MpG0C"
+      },
+      "artists": [
+        {
+          "name": "D'GORD",
+          "url": "https://open.spotify.com/artist/0F41K3Rqw4LJII3BGd8Pet"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6D4aYo7BMCMCJOvrpbJX34"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "You Want It",
+        "url": "https://open.spotify.com/album/76D168NgpaYoPGDIzcr76n"
+      },
+      "artists": [
+        {
+          "name": "Hilton Wright II",
+          "url": "https://open.spotify.com/artist/04pLkxVOW44l0Mr3N3zV15"
+        },
+        {
+          "name": "JaVont\u00e9",
+          "url": "https://open.spotify.com/artist/2PMP4OQ9NlNV6eVxGPRH01"
+        }
+      ],
+      "duration_ms": 209971,
+      "name": "You Want It",
+      "url": "https://open.spotify.com/track/7L0sv8y0QzgOgdvWhMcNGK"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/09l49iZetajq0q71gjrhMv"
+      },
+      "artists": [
+        {
+          "name": "Keithian",
+          "url": "https://open.spotify.com/artist/7hoU07f3UrItBlYeEty3md"
+        }
+      ],
+      "duration_ms": 155890,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/5v1Whxcvk1jLhCK6BMhtq7"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Feenin'",
+        "url": "https://open.spotify.com/album/67cHgi1U2U5tzrAJQ8Wtmd"
+      },
+      "artists": [
+        {
+          "name": "Annisya",
+          "url": "https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA"
+        },
+        {
+          "name": "Teza Sumendra",
+          "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Feenin'",
+      "url": "https://open.spotify.com/track/1zGP95aBst0pHPM8zJzaB0"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "A Whole Mood",
+        "url": "https://open.spotify.com/album/0eKSkKQ3kN2wlZonNoqPZX"
+      },
+      "artists": [
+        {
+          "name": "Torica",
+          "url": "https://open.spotify.com/artist/36iCQgXgx8iYY1WqHHQmyh"
+        }
+      ],
+      "duration_ms": 173064,
+      "name": "A Whole Mood",
+      "url": "https://open.spotify.com/track/2gj59vQtJIcz90mCylpBcX"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7oXMcJDA5RlQvUbpPW5UPE"
+      },
+      "artists": [
+        {
+          "name": "O'Mai",
+          "url": "https://open.spotify.com/artist/6HFA13T7873K3ZqXIMbKpI"
+        }
+      ],
+      "duration_ms": 138605,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5idvIfQtWuiywglAhsAVuB"
+    },
+    {
+      "added_at": "2023-09-20 14:07:21",
+      "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/0aA2aL2ZccMsVpuLMSK9TC"
+      },
+      "artists": [
+        {
+          "name": "Tristan Kenneth",
+          "url": "https://open.spotify.com/artist/7sYzJi68qjQfh63TBg8VTX"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/37GpifAqLPkOkOTO1mHFy9"
+    },
     {
       "added_at": "2023-09-08 07:15:06",
       "album": {

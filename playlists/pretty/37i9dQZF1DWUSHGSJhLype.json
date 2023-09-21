@@ -1,12 +1,12 @@
 {
   "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: DENNIS, Mc Poze do Rodo",
-  "num_followers": 402955,
+  "num_followers": 403335,
   "original_name": "Puro SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTk3YzE3Mzg3ZjUwM2Q4Mzc5ODFlOGQxMDQ1NDhkYzIwMDY4Y2Jh",
+  "snapshot_id": "MCw2MDExZGQyZTg0ZDhiYzhlNjFmNThhNDRmMGI1NGVlZmE3OTBhN2E4",
   "tracks": [
     {
       "added_at": "2023-09-18 21:53:54",
@@ -435,6 +435,26 @@
     {
       "added_at": "2023-09-18 21:53:54",
       "album": {
+        "name": "Eu Gosto Assim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Eu Gosto Assim - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
+    },
+    {
+      "added_at": "2023-09-18 21:53:54",
+      "album": {
         "name": "Ela Voltou de Perna Bamba",
         "url": "https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs"
       },
@@ -463,26 +483,6 @@
     {
       "added_at": "2023-09-18 21:53:54",
       "album": {
-        "name": "Eu Gosto Assim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Eu Gosto Assim - Ao Vivo",
-      "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
-    },
-    {
-      "added_at": "2023-09-18 21:53:54",
-      "album": {
         "name": "Pode Cr\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-18 21:53:54",
       "album": {
-        "name": "Another One",
-        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 187562,
-      "name": "Posturado E Calmo",
-      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
-    },
-    {
-      "added_at": "2023-09-18 21:53:54",
-      "album": {
         "name": "DONA DE MIM",
         "url": "https://open.spotify.com/album/6gUUHKk5qcIHyffnbfApNO"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 145091,
       "name": "DONA DE MIM",
       "url": "https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT"
+    },
+    {
+      "added_at": "2023-09-18 21:53:54",
+      "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 187562,
+      "name": "Posturado E Calmo",
+      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
     },
     {
       "added_at": "2023-09-18 21:53:54",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-09-18 21:53:54",
       "album": {
-        "name": "Bombonzinho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs"
-      },
-      "artists": [
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 154701,
-      "name": "Bombonzinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
-    },
-    {
-      "added_at": "2023-09-18 21:53:54",
-      "album": {
         "name": "Anota A\u00ed (Ao Vivo)",
         "url": "https://open.spotify.com/album/5md8rYv1JhgQEsBMS5WREE"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 200723,
       "name": "Anota A\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/5a2CIQaMW3Keqtx4BdXbEY"
+    },
+    {
+      "added_at": "2023-09-18 21:53:54",
+      "album": {
+        "name": "Bombonzinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 154701,
+      "name": "Bombonzinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
     },
     {
       "added_at": "2023-09-18 21:53:54",
@@ -611,18 +611,26 @@
     {
       "added_at": "2023-09-18 21:53:54",
       "album": {
-        "name": "Marrento",
-        "url": "https://open.spotify.com/album/1XJEF1mvKoaXzrm57YiQ7D"
+        "name": "Ro\u00e7a Em Mim",
+        "url": "https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl"
       },
       "artists": [
         {
           "name": "Z\u00e9 Felipe",
           "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
         }
       ],
-      "duration_ms": 129146,
-      "name": "Marrento",
-      "url": "https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0"
+      "duration_ms": 158171,
+      "name": "Ro\u00e7a Em Mim",
+      "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
     },
     {
       "added_at": "2023-09-18 21:53:54",
@@ -791,26 +799,18 @@
     {
       "added_at": "2023-09-18 21:53:54",
       "album": {
-        "name": "Ro\u00e7a Em Mim",
-        "url": "https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl"
+        "name": "Marrento",
+        "url": "https://open.spotify.com/album/1XJEF1mvKoaXzrm57YiQ7D"
       },
       "artists": [
         {
           "name": "Z\u00e9 Felipe",
           "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
         }
       ],
-      "duration_ms": 158171,
-      "name": "Ro\u00e7a Em Mim",
-      "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
+      "duration_ms": 129146,
+      "name": "Marrento",
+      "url": "https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0"
     },
     {
       "added_at": "2023-09-18 21:53:54",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-09-18 21:53:54",
       "album": {
+        "name": "\u00d4 L\u00e1 na Ro\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ"
+      },
+      "artists": [
+        {
+          "name": "Felipe & Murillo",
+          "url": "https://open.spotify.com/artist/7Dz1HatpprkP9lmZIezKiE"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "\u00d4 L\u00e1 na Ro\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB"
+    },
+    {
+      "added_at": "2023-09-18 21:53:54",
+      "album": {
         "name": "Love Absurdo",
         "url": "https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 184153,
       "name": "Love Absurdo",
       "url": "https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO"
-    },
-    {
-      "added_at": "2023-09-18 21:53:54",
-      "album": {
-        "name": "\u00d4 L\u00e1 na Ro\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ"
-      },
-      "artists": [
-        {
-          "name": "Felipe & Murillo",
-          "url": "https://open.spotify.com/artist/7Dz1HatpprkP9lmZIezKiE"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "\u00d4 L\u00e1 na Ro\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB"
     },
     {
       "added_at": "2023-09-18 21:53:54",
@@ -1159,6 +1159,34 @@
     {
       "added_at": "2023-09-18 21:53:54",
       "album": {
+        "name": "Eu Vou Cair na Noite",
+        "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
+      },
+      "artists": [
+        {
+          "name": "DJ RENAN DA BL",
+          "url": "https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "Dj Jl Do Tp",
+          "url": "https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "duration_ms": 125422,
+      "name": "Eu Vou Cair na Noite",
+      "url": "https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO"
+    },
+    {
+      "added_at": "2023-09-18 21:53:54",
+      "album": {
         "name": "Perdoou Nada (Ao Vivo)",
         "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
       },
@@ -1211,34 +1239,6 @@
       "duration_ms": 194090,
       "name": "N\u00e3o Manda \u00c1udio",
       "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
-    },
-    {
-      "added_at": "2023-09-18 21:53:54",
-      "album": {
-        "name": "Eu Vou Cair na Noite",
-        "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
-      },
-      "artists": [
-        {
-          "name": "DJ RENAN DA BL",
-          "url": "https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc"
-        },
-        {
-          "name": "Mc Pretchako",
-          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
-        },
-        {
-          "name": "Dj Jl Do Tp",
-          "url": "https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW"
-        },
-        {
-          "name": "Mc Menor Thalis",
-          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
-        }
-      ],
-      "duration_ms": 125422,
-      "name": "Eu Vou Cair na Noite",
-      "url": "https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO"
     },
     {
       "added_at": "2023-09-18 21:53:54",

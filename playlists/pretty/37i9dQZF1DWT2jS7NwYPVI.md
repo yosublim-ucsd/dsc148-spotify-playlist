@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Dead Poet Society
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,646 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,689 likes - 126 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,15 +123,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 113 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 |
 | 114 | [t!mezone](https://open.spotify.com/track/4O8j9RMURUEsdFBtxGKaSZ) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [t!mezone](https://open.spotify.com/album/7LyemIrA9Xf7ZiiJTDiMvX) | 2:53 |
 | 115 | [Games](https://open.spotify.com/track/7HA1olc168EV5By8K7kWq5) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Games](https://open.spotify.com/album/1MkvXneCkP1Aki2PsIQ0Fm) | 3:38 |
-| 116 | [Generation Psycho](https://open.spotify.com/track/77UBXLVoE90TpVmUKsgjGx) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Generation Psycho](https://open.spotify.com/album/6env54gj95TlpdQEMDXRKk) | 3:49 |
-| 117 | [home](https://open.spotify.com/track/51J5iUgWJgiwUUfS2TM9dB) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [home](https://open.spotify.com/album/5NTC5PEF3bLYApl6Ch7ccx) | 3:41 |
-| 118 | [All Lined Up](https://open.spotify.com/track/1pw2fkhwUwXy3zkVxBfVo1) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [All Lined Up](https://open.spotify.com/album/02tiU6mPTYJNlB2Jk5HXBM) | 3:39 |
-| 119 | [Johnny's Dead](https://open.spotify.com/track/6qh5yE6FEk0n6hsCufMIX6) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Johnny's Dead](https://open.spotify.com/album/5y8pk29U5u1ZF2Woi7jqgn) | 2:37 |
-| 120 | [Preppers](https://open.spotify.com/track/448p5kZA0Lh7NMhEsMf8dX) | [Shoe](https://open.spotify.com/artist/7zPM2TtfM5n6zFLdKiVpx6) | [Preppers](https://open.spotify.com/album/2NXh0905l0qBb2enlnx9Uv) | 4:28 |
-| 121 | [Changing](https://open.spotify.com/track/1q82CyiOZzBOyXZUnH7MNA) | [Finish Ticket](https://open.spotify.com/artist/3RthMq3xfDQZl80cMEg1JQ) | [Changing](https://open.spotify.com/album/1ua9vRYID9ginNkC2qxSwe) | 3:48 |
-| 122 | [The Implication](https://open.spotify.com/track/5KUK7rDJuv28K10lb1gM7r) | [Parrotfish](https://open.spotify.com/artist/3sXsp1NdreMl6Pa5Lf20qz) | [The Implication](https://open.spotify.com/album/1VClvNAguEbfccrbmcJwtf) | 3:45 |
-| 123 | [If Only You Knew](https://open.spotify.com/track/7qOmxHqPGd1tPEI9CbGlnA) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA), [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [If Only You Knew](https://open.spotify.com/album/5A4eMP13R4xBxuSH69L54e) | 2:20 |
-| 124 | [Riot](https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:17 |
-| 125 | [Burn The Way](https://open.spotify.com/track/0TTby1f21gEo00neP83WEy) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Burn The Way](https://open.spotify.com/album/0jbrgIEJ1S1XC9Wc0ZuwPf) | 3:46 |
+| 116 | [Let's Do Drugs](https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Let's Do Drugs](https://open.spotify.com/album/6dFaxMX3QrHLdUO54jID00) | 2:19 |
+| 117 | [Generation Psycho](https://open.spotify.com/track/77UBXLVoE90TpVmUKsgjGx) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Generation Psycho](https://open.spotify.com/album/6env54gj95TlpdQEMDXRKk) | 3:49 |
+| 118 | [home](https://open.spotify.com/track/51J5iUgWJgiwUUfS2TM9dB) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [home](https://open.spotify.com/album/5NTC5PEF3bLYApl6Ch7ccx) | 3:41 |
+| 119 | [All Lined Up](https://open.spotify.com/track/1pw2fkhwUwXy3zkVxBfVo1) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [All Lined Up](https://open.spotify.com/album/02tiU6mPTYJNlB2Jk5HXBM) | 3:39 |
+| 120 | [Johnny's Dead](https://open.spotify.com/track/6qh5yE6FEk0n6hsCufMIX6) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Johnny's Dead](https://open.spotify.com/album/5y8pk29U5u1ZF2Woi7jqgn) | 2:37 |
+| 121 | [Preppers](https://open.spotify.com/track/448p5kZA0Lh7NMhEsMf8dX) | [Shoe](https://open.spotify.com/artist/7zPM2TtfM5n6zFLdKiVpx6) | [Preppers](https://open.spotify.com/album/2NXh0905l0qBb2enlnx9Uv) | 4:28 |
+| 122 | [Changing](https://open.spotify.com/track/1q82CyiOZzBOyXZUnH7MNA) | [Finish Ticket](https://open.spotify.com/artist/3RthMq3xfDQZl80cMEg1JQ) | [Changing](https://open.spotify.com/album/1ua9vRYID9ginNkC2qxSwe) | 3:48 |
+| 123 | [The Implication](https://open.spotify.com/track/5KUK7rDJuv28K10lb1gM7r) | [Parrotfish](https://open.spotify.com/artist/3sXsp1NdreMl6Pa5Lf20qz) | [The Implication](https://open.spotify.com/album/1VClvNAguEbfccrbmcJwtf) | 3:45 |
+| 124 | [If Only You Knew](https://open.spotify.com/track/7qOmxHqPGd1tPEI9CbGlnA) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA), [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [If Only You Knew](https://open.spotify.com/album/5A4eMP13R4xBxuSH69L54e) | 2:20 |
+| 125 | [Riot](https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:17 |
+| 126 | [Burn The Way](https://open.spotify.com/track/0TTby1f21gEo00neP83WEy) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Burn The Way](https://open.spotify.com/album/0jbrgIEJ1S1XC9Wc0ZuwPf) | 3:46 |
 
-Snapshot ID: `MCwwODY1M2M4MDhlN2NjNWQ2YTA5ZDAxMzEwNWQ4ZmY2MmFhOTdmOTNl`
+Snapshot ID: `MCw0ODFiNGE0MzZhZjMzMDkzYzM3ZmYyODg5ODI2M2MzZDljMDc2NjE1`

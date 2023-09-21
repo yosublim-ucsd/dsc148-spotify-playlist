@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Clara Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,525 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,533 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 3 | [40°.40, Pt\. I](https://open.spotify.com/track/2WmSlxpP3pauTMuWyQVd6C) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [40˚.40](https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2) | 3:16 |
 | 4 | [Direção](https://open.spotify.com/track/4hecOYH9nKVShk5gKu8OAC) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Top Boy Face, Vol\. 1](https://open.spotify.com/album/3NfBoZkmkSrABQ18BtghlM) | 2:43 |
 | 5 | [Cachorrinho Branco e Preto \(feat\. Coruja Bc1\)](https://open.spotify.com/track/7Fq25d1uMgqMaIevy7jZ8J) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [OFF MODE](https://open.spotify.com/album/1FL0l7ijOWtgCFGOIC9sev) | 2:22 |
-| 6 | [Retrato \#6 \- Astro](https://open.spotify.com/track/1bgjgBhjaCe8YKbdexhQFJ) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Retrato \#6 \- Astro](https://open.spotify.com/album/53y6Pk5lZr59jBGxEE0IHH) | 2:21 |
+| 6 | [Retrato \#6 \- Astro](https://open.spotify.com/track/1bgjgBhjaCe8YKbdexhQFJ) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [AZN Studio](https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h) | [Retrato \#6 \- Astro](https://open.spotify.com/album/53y6Pk5lZr59jBGxEE0IHH) | 2:21 |
 | 7 | [Bebeto & Romário](https://open.spotify.com/track/3BsDJHBfY8nh2zHOkTuKse) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:25 |
 | 8 | [BALLA \(feat\. Kyan\)](https://open.spotify.com/track/3yqJ0o9Ve6BVjAbeNJ055D) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [JOVEM OG](https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ) | 2:18 |
 | 9 | [Midio](https://open.spotify.com/track/48x2oAieb2KwWhab3vhifB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Midio](https://open.spotify.com/album/0XiqFoJpqkH0DOHbq5bBlY) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Revolta](https://open.spotify.com/track/1338yPBS9EvfuPW5wgKwrs) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Revolta](https://open.spotify.com/album/67kCjJrSahL0q8BpfGZmHC) | 3:16 |
 | 75 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 |
 
-Snapshot ID: `MCwyYWZkMGViM2FkMWJkZDY4YzJkNGNiYmM5OWQ0MDNhNzE5ZGY0YjZl`
+Snapshot ID: `MCxlZDU2YmU4MDUzMTk5M2MzZjE5ZmQ1NTg1N2Y4OWE3OWVkZjRjNzhk`

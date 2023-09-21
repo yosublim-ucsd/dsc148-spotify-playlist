@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Tell us Dana and Alden, why is everyone at TJ's so attractive?",
+  "description": "my mantra is grateful all the time & sexy & kind & pretty when i cry & also first lady tube girl. Cover: Dana & Alden",
   "name": "Lorem",
   "tracks": [
     {
@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 168828,
       "name": "Archetype",
       "url": "https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN"
@@ -16129,6 +16129,24 @@
     },
     {
       "album": {
+        "name": "Got Me Started",
+        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+    },
+    {
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -22656,6 +22674,24 @@
       "duration_ms": 140455,
       "name": "Let's Stay Inside",
       "url": "https://open.spotify.com/track/1UActoM8Vnkm9gWpyQ3B1q"
+    },
+    {
+      "album": {
+        "name": "Lethal",
+        "url": "https://open.spotify.com/album/5zkwlC9Kh1XyBIpXPNYsyV"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250136,
+      "name": "Lethal",
+      "url": "https://open.spotify.com/track/5m1fdy2KdBEqpPCAZQZ2fX"
     },
     {
       "album": {

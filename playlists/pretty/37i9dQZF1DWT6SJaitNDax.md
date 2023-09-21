@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\.  Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,181 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,376 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 99 | [Kilimanjaro \(feat\. Justin99, Mema\_Percent & Mr JazziQ\)](https://open.spotify.com/track/4aAxUQUNTtBhDgDcyCfXUu) | [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Sgija'Disciples](https://open.spotify.com/artist/1ko3CeWzNE9SRQ865Sf5lQ), [Zan'Ten](https://open.spotify.com/artist/5F9w142UJBH5ZkFXWUJVsL), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Mema\_Percent](https://open.spotify.com/artist/3WqFnvVwrS29DWjMSqZJx4), [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E) | [Kilimanjaro \(feat\. Justin99, Mema\_Percent & Mr JazziQ\)](https://open.spotify.com/album/2ySAO7p9iD47x5fNWKeet3) | 5:29 |
 | 100 | [Beamer \(Bad Boys\)](https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Beamer \(Bad Boys\)](https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh) | 3:15 |
 
-Snapshot ID: `MCwwOTE1NjExZTUxNzQzODExZTE5OGI0NmI4ZGZiMmVhNjE0ZDE5OTg0`
+Snapshot ID: `MCw3NGU5OGZmOTU3YTcxZmUwMjAwMDYyNTI5MmJiYTA1NWQyNzgwMDA4`

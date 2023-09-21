@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: BE:FIRST
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,881 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,929 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 54 | [うぉ](https://open.spotify.com/track/7iRoB3hjM7FQm3teSMSpBu) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [弐](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) | 2:47 |
 | 55 | [泣き地蔵](https://open.spotify.com/track/7BR3rgpYgFnEeZJdseK2YA) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [泣き地蔵](https://open.spotify.com/album/13WzXZKbsJJeWbJ8bfeKhT) | 2:29 |
 
-Snapshot ID: `MCwxNmUwZGRjMGYyMGVkMzFkOGFmNjcxYzQxNWQ5MzVlMjIwMTg4ZmQ3`
+Snapshot ID: `MCxhNmM4YWQxM2I3N2FkYWRmYjJlZDI2NWZiMjdlMWRkY2YwZmRlMmQ2`

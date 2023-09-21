@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=TohXHTvwSMGhjedgd0jbIw"> Black Sherif </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,927 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,973 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 |
 | 80 | [We Goofed](https://open.spotify.com/track/1yN9EQOrLJlcAuBx6fCakL) | [Appietus](https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN), [Asenke](https://open.spotify.com/artist/2xroUocjdynbenU8vVWwer), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [We Goofed](https://open.spotify.com/album/0kxiSbstlxUDwPdOVGnwxO) | 3:02 |
 
-Snapshot ID: `MCwxZGVjYTlhODRjZjJiNDNmMGMzZDk4NWIyZjg2YWM2NzE5ZWQ3ZmQ1`
+Snapshot ID: `MCxhMjg1YzFjNTBiYTAxN2I4NDMyMDAzNzVlNmQzZmMzYTAzZGJmMjc5`

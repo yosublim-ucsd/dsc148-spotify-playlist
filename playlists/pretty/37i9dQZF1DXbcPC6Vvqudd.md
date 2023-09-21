@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,316,778 likes - 360 songs - 16 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,317,654 likes - 360 songs - 16 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 16 | [Βροχερές μέρες](https://open.spotify.com/track/6l9VlJgElboeOE5A9P2rBc) | [Ο Ήχος της Βροχής](https://open.spotify.com/artist/52egGkXfWR0PlZgldvrw6X) | [Ήρεμη ελληνική καλοκαιρινή βροχή](https://open.spotify.com/album/3VUFMU3lq4eVQmMiuAYasG) | 2:23 |
 | 17 | [Downpours](https://open.spotify.com/track/3o58QNxRLJpIPB1plXLqbS) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [Downpours](https://open.spotify.com/album/7kDKBp4JoWrM3Rkc37s1dK) | 2:28 |
 | 18 | [Rain Dancing](https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Deep Sleep Drops](https://open.spotify.com/album/5EhMdHcVj4sRsTZCqNYDEM) | 2:38 |
-| 19 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 |
-| 20 | [Vivid Storm](https://open.spotify.com/track/183KrZyFBARuQtJfs8Wfxt) | [Isuru](https://open.spotify.com/artist/2GFoeeuNSEfp8GcoZ0lV6C) | [Roaring Storm](https://open.spotify.com/album/75HwpSNKdJzEZ7YRfkP2PK) | 3:28 |
+| 19 | [Vivid Storm](https://open.spotify.com/track/183KrZyFBARuQtJfs8Wfxt) | [Isuru](https://open.spotify.com/artist/2GFoeeuNSEfp8GcoZ0lV6C) | [Roaring Storm](https://open.spotify.com/album/75HwpSNKdJzEZ7YRfkP2PK) | 3:28 |
+| 20 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 |
 | 21 | [Under The Clouds](https://open.spotify.com/track/4PHRttQK5SWtPDBVEPnbhu) | [High Voltage](https://open.spotify.com/artist/5EPNlMKDjvTsmvvoCjZcnl) | [Incubus Storm](https://open.spotify.com/album/2JlgRwStmcRAmZ6nw3EbC1) | 2:38 |
 | 22 | [Under the rain](https://open.spotify.com/track/11xruOZ75TACfdzIk7PzbD) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [Downpours](https://open.spotify.com/album/7kDKBp4JoWrM3Rkc37s1dK) | 2:30 |
 | 23 | [Drops Of Skies](https://open.spotify.com/track/7b2LGKVoG029pfEgI0Jnmk) | [Tailormade Rain](https://open.spotify.com/artist/136WJmw5lkgh37HAthTB1p) | [Drops Of Skies](https://open.spotify.com/album/4wopG570SslotxhJVt1WC8) | 2:53 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 359 | [Porch Cleanse](https://open.spotify.com/track/20djsX0GYVMsGjRVTeuOVP) | [Aquamoon](https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA) | [Waterworlds](https://open.spotify.com/album/3UO36j9PRWy5ORvJbuJ5zM) | 2:18 |
 | 360 | [Let's stay inside](https://open.spotify.com/track/2mJj6OBy8njbz6zEp4RjX6) | [Pluviatica](https://open.spotify.com/artist/3WuGmxUJ4IiTnutgB97JLp) | [Soft Rain & Thunder](https://open.spotify.com/album/6XgW0DgBCLIEXE05EBDaqb) | 2:12 |
 
-Snapshot ID: `MCxmZWIxZjZmMjhlMDE0NWNlODBkMDBlNWM1MzA0MmFkNWNjMzE0ZmE1`
+Snapshot ID: `MCxlZTc5YjU1ODgzYzhiMmU0NTc3ZDhlMDkzM2JlODAwYzdiMTAwMTU4`

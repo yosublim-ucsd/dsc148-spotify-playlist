@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,890 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,940 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [O Leão \(Pisadinha Remix\)](https://open.spotify.com/track/69b0eKEVGbMILaYDBOkxYg) | [Victor Rodrigues](https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ), [BTX Gospel](https://open.spotify.com/artist/27cBvLlKGKmRdDMNO7A9s9) | [O Leão \(Pisadinha Remix\)](https://open.spotify.com/album/1lQddJCph1dIadc4XRcpDA) | 3:44 |
 | 50 | [Josué 1](https://open.spotify.com/track/5UPWUAHu24wG5PWREDLfsr) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Bruno Jovita](https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL) | [Josué 1](https://open.spotify.com/album/2rQHaHs78K1y6CBrl59MSn) | 2:32 |
 
-Snapshot ID: `MCw1NjFiYWIwY2FmMWUxMTE3YTU3OGVkYjJiMzg4OWRmNWUyZGQ2NGEx`
+Snapshot ID: `MCwyOGUzYWEwZWFiNWI0NjljYjZlNGNhZTg5Mjk2MTQyYjkxYTAxMTkz`

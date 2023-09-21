@@ -5612,6 +5612,28 @@
     {
       "album": {
         "name": "Solita",
+        "url": "https://open.spotify.com/album/009mTdnGfMQGaPYZq3UFfl"
+      },
+      "artists": [
+        {
+          "name": "Abdi",
+          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
+        },
+        {
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/5OMj7i9Eeuh2kolJAvlZLQ"
+    },
+    {
+      "album": {
+        "name": "Solita",
         "url": "https://open.spotify.com/album/5vFysXTDefXh5osKvlOHxi"
       },
       "artists": [
@@ -6790,7 +6812,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 179310,
       "name": "VIVO X TI",
       "url": "https://open.spotify.com/track/0leo6B5c1gGxpQamP3xoOg"

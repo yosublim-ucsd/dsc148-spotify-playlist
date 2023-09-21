@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 345504,
+  "num_followers": 345588,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2IyZWNmMTg3Y2VkN2YyNTVkZGY0OTE1MWQ3ZjZlMzlmNWIzZmE2",
+  "snapshot_id": "MCxhYjBkNDI0NjgxMWNkNzQzYmEzNDA5NTllNzEwMjU0ZTZlNjg0ZjJl",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -235,8 +235,8 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Honey Understand",
-        "url": "https://open.spotify.com/album/5RltgL786Wbbtt2TT4rWsR"
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc"
       },
       "artists": [
         {
@@ -246,7 +246,7 @@
       ],
       "duration_ms": 241920,
       "name": "Honey Understand",
-      "url": "https://open.spotify.com/track/1FnqKOwkmTClK22zr3kWuH"
+      "url": "https://open.spotify.com/track/7siMZ3gD1KWKxakHJcKYCU"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 227841,
+      "name": "Be Careful With Yourself",
+      "url": "https://open.spotify.com/track/0c8dhGhpolT4ByZ28RgIti"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Hospital (One Man Down)",
         "url": "https://open.spotify.com/album/25iq2f67q6Je815D44cXPu"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 207016,
       "name": "Hospital (One Man Down) (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "PRE PLEASURE",
-        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 227841,
-      "name": "Be Careful With Yourself",
-      "url": "https://open.spotify.com/track/0c8dhGhpolT4ByZ28RgIti"
     },
     {
       "added_at": "2023-09-15 04:00:00",

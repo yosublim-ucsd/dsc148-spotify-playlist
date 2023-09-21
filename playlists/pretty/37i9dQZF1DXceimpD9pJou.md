@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db?si=FtwW6NTFRWONZlSI\-\-5snw">Sion Nación Santa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,859 likes - 99 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,915 likes - 99 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 63 | [La Mentira](https://open.spotify.com/track/6HZbHWzIF7cMiVcxr4IDXf) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx) | [La Mentira](https://open.spotify.com/album/4cLMzabLN4UBjv1amjMuUC) | 3:41 |
 | 64 | [Par De Llaves](https://open.spotify.com/track/1H1aqYw7xvFpPf2tdrQZrK) | [Grupo Hesed](https://open.spotify.com/artist/5AqVKdIUY9LUfSAE9sV5DA), [Octavio Vizcarra Recio](https://open.spotify.com/artist/1BcrhMa98HYhlb5NTiMrKS) | [Par De Llaves](https://open.spotify.com/album/367YtUg9SZIfvYnppYRFCZ) | 4:18 |
 | 65 | [Vulnerable](https://open.spotify.com/track/4gSQ7q16rALqE0bBayUGWV) | [La Catedral](https://open.spotify.com/artist/028xpD94ojZ0WraOcCTkEe) | [Vulnerable](https://open.spotify.com/album/5WsUuzx8Yy3strOchA0ISg) | 3:13 |
-| 66 | [Tú Conmigo Vas](https://open.spotify.com/track/1zeeGZHvRofqtyb2scZ2pT) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu), [Halogena](https://open.spotify.com/artist/7bqTWeLqeSjt40EisJxzac) | [Tú Conmigo Vas](https://open.spotify.com/album/2s09iXD44UVVWZlIIgmob5) | 4:49 |
+| 66 | [Tú Conmigo Vas](https://open.spotify.com/track/5nVxwYdtqS2dMfqFx8riN5) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu), [Halogena](https://open.spotify.com/artist/7bqTWeLqeSjt40EisJxzac) | [Vencer](https://open.spotify.com/album/2kI2WWigOFhFEYucSNA0au) | 4:49 |
 | 67 | [Amor](https://open.spotify.com/track/6AewqC1XvyRbsd1BZVcN5m) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Amor](https://open.spotify.com/album/5RMqljB3mFscZPrily5VnA) | 3:14 |
 | 68 | [For Kanye](https://open.spotify.com/track/1tZl3gUVPmR8APqBrQn7i6) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [For Kanye](https://open.spotify.com/album/65VugZKk4WpMv1QnIkenOQ) | 2:17 |
 | 69 | [Fuego](https://open.spotify.com/track/6zbgq7VRSPRzOnLDww8kRb) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Eva Nova 316](https://open.spotify.com/artist/5CbDz8EWLDk7P8xgYBtOD3) | [Fuego](https://open.spotify.com/album/0IaWMrGjs1xll03VvlcROx) | 2:55 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Extraterrestre](https://open.spotify.com/track/4w3XNPj5NklCz4F2Fzmaiv) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [Extraterreste](https://open.spotify.com/album/6qs5RSabPwxs9xOeeSlPof) | 3:56 |
 | 99 | [AMARILLO](https://open.spotify.com/track/6hU4Ee2ttvDY3ZAWImWsyv) | [PLATANOS](https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB) | [AMARILLO](https://open.spotify.com/album/5m6LsBxIA5dfAyTkYwTgsS) | 2:47 |
 
-Snapshot ID: `MCxhOGUyYjk3NDA1OGEyMzNiNGU1MWQ4OTU5NWMyNDFlZWJhYThjZTJh`
+Snapshot ID: `MCw4M2E1MzM3MmUwNWNmOWIyZmQ0ZDgzMjE5ZjdiMDQzYjQ3OTUyMTdh`

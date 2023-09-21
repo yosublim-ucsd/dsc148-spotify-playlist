@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: a子
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,202 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,229 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Crystal Halo](https://open.spotify.com/track/1tLHYPzxOewrRSH4RtKsGO) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Rainbowtime](https://open.spotify.com/album/1YouKxHqFDqFV1MqadLB8G) | 2:38 |
 | 80 | [硝子窓](https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [硝子窓](https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG) | 3:37 |
 
-Snapshot ID: `MCw4N2ZiOWVjYWQ4MTQ1NjE3NmQwODU0NDNmMDQ4NDkwODE0ZDZjYzM3`
+Snapshot ID: `MCxlMzBlOGZiMjM0OGVmM2E3MWJlMDJmNTgyN2Q5NDA3YmQ4M2ExZDA4`

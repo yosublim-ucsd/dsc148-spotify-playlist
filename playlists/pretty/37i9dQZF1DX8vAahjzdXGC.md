@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ghea Indrawari
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,859 likes - 102 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,909 likes - 102 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 101 | [LIGHT ONLY \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/3GBtth3plMGZNSjHDmDCIk) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [EXISTENTIAL DANCE MUSIC](https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz) | 4:01 |
 | 102 | [Waterfall](https://open.spotify.com/track/5XsNOHjFwJ3d0AYWLX69nr) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Waterfall](https://open.spotify.com/album/62QpeoF9Go7z0aG334JjcA) | 2:55 |
 
-Snapshot ID: `MCw4NDcwMTFlYWM4ODE2OWEzZmYzYjdmZWVjZjRlY2Q5NjU1NmUxYzY4`
+Snapshot ID: `MCw5MTQ3ODIwNGJiNzIzY2U2MWUyMjUzZGRjODFjODRhNWVlZDZmMWM5`

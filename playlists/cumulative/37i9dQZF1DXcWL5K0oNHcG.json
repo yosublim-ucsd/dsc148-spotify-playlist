@@ -4003,6 +4003,28 @@
     },
     {
       "album": {
+        "name": "Cheeks",
+        "url": "https://open.spotify.com/album/4hBJ4yuHlP879Yk01Bdmb3"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        },
+        {
+          "name": "Phoebe Katis",
+          "url": "https://open.spotify.com/artist/0hPB6WmY4JXhcrficlznCx"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261226,
+      "name": "Cheeks",
+      "url": "https://open.spotify.com/track/6ROXNf5f4tpcezPJKs3LH2"
+    },
+    {
+      "album": {
         "name": "Chroma",
         "url": "https://open.spotify.com/album/3cyrdno79RmveN0wOTdhPd"
       },
@@ -4318,6 +4340,24 @@
       "duration_ms": 333506,
       "name": "Closing",
       "url": "https://open.spotify.com/track/0TeIzuogJKEB2oc98BsZUK"
+    },
+    {
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/6Hnr6DhyIVBZMTKWK4XqDK"
+      },
+      "artists": [
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321001,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/1Vt0E7gu9xbya2zfw62RIa"
     },
     {
       "album": {
@@ -5510,7 +5550,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 189946,
       "name": "Diagnosis",
       "url": "https://open.spotify.com/track/7vlddLsCrx8WdhCHgvHd7b"
@@ -5776,6 +5816,32 @@
       "duration_ms": 221920,
       "name": "Do It Baby - Single ver.",
       "url": "https://open.spotify.com/track/2b3q7ga3wdlzukVzc8Bx73"
+    },
+    {
+      "album": {
+        "name": "Dog Dad",
+        "url": "https://open.spotify.com/album/1NCtxst9iKyHJhz8AaXG9f"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        },
+        {
+          "name": "Zephyr Avalon",
+          "url": "https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Dog Dad",
+      "url": "https://open.spotify.com/track/5oYqFfdwufBro2yGltvXWo"
     },
     {
       "album": {
@@ -6987,6 +7053,24 @@
     },
     {
       "album": {
+        "name": "Fall into It",
+        "url": "https://open.spotify.com/album/1Dp5NoXeq18LVvY5op0wab"
+      },
+      "artists": [
+        {
+          "name": "Cumulus Frisbee",
+          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Fall into It",
+      "url": "https://open.spotify.com/track/4v16AkCUZ4l2ZWlbXAuP6s"
+    },
+    {
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/0DQLse0vtdYU2xzeaqhJMa"
       },
@@ -7696,7 +7780,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 215251,
       "name": "Fogroller",
       "url": "https://open.spotify.com/track/27SQJ9SjomCECqYONTpzHe"
@@ -8922,7 +9006,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 267853,
       "name": "Hi Jack!",
       "url": "https://open.spotify.com/track/6hIl0ubhTcYbC2QaeeANgA"
@@ -9136,7 +9220,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 286986,
       "name": "Hopes and Dreams",
       "url": "https://open.spotify.com/track/1Ju7jwZPIMa39lV5DWx4aC"
@@ -15430,7 +15514,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 516853,
       "name": "On the Other Side",
       "url": "https://open.spotify.com/track/41uzGdULkfO33YjY5QAe7O"
@@ -21749,6 +21833,24 @@
     },
     {
       "album": {
+        "name": "The Pearl That Glitters",
+        "url": "https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223256,
+      "name": "The Pearl That Glitters",
+      "url": "https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0"
+    },
+    {
+      "album": {
         "name": "The Pilot",
         "url": "https://open.spotify.com/album/4WrzOyPrCEE9s9FVzWYhUL"
       },
@@ -23833,6 +23935,28 @@
     },
     {
       "album": {
+        "name": "Wafloza",
+        "url": "https://open.spotify.com/album/3zTGT2HM42sBJUUqH20QCy"
+      },
+      "artists": [
+        {
+          "name": "USO 9001",
+          "url": "https://open.spotify.com/artist/2LJr5bS4sEPVrtyVycvezD"
+        },
+        {
+          "name": "Generacja JAZZ",
+          "url": "https://open.spotify.com/artist/6GqcwF7WusQH8weRTsNCYx"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Wafloza",
+      "url": "https://open.spotify.com/track/5JUbTRNhIBGiZ1HzZVHFwu"
+    },
+    {
+      "album": {
         "name": "Astral Trip",
         "url": "https://open.spotify.com/album/1g61faHNMeM3RQYsnWii9e"
       },
@@ -24712,7 +24836,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 286733,
       "name": "wind sound",
       "url": "https://open.spotify.com/track/0aDMPHO749L7hLfkwSWjOV"

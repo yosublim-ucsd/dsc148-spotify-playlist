@@ -882,7 +882,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 161333,
       "name": "Come prima",
       "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
@@ -2350,6 +2350,24 @@
       "duration_ms": 137066,
       "name": "Love Letters In The Sand",
       "url": "https://open.spotify.com/track/6I3bK0tihjv6EzeLhzBKbn"
+    },
+    {
+      "album": {
+        "name": "Greatest Love Songs",
+        "url": "https://open.spotify.com/album/2QrI3TGnuVXj6iwf5X7VoI"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130973,
+      "name": "Love Letters In The Sand - Re-Recorded In Stereo",
+      "url": "https://open.spotify.com/track/1LqqyL3TJOqGhxFXnJOMJ6"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 70971,
+  "num_followers": 71073,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2VlMzhlNWYxZTg0YjFlMDVjZDAzNDViNTc4YzA2MjU4OWM1YTAw",
+  "snapshot_id": "MCwxNTBiODJmZjdiMDdjNjA2YmUyMTFiMjFlZGQ3ZmY1NzUzOTNlZmIz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Hoople",
-        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
+        "name": "Never A Dull Moment",
+        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
       },
       "artists": [
         {
-          "name": "Mott The Hoople",
-          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 204093,
-      "name": "The Golden Age of Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
+      "duration_ms": 211933,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Never A Dull Moment",
-        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
+        "name": "The Hoople",
+        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Mott The Hoople",
+          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
         }
       ],
-      "duration_ms": 211933,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
+      "duration_ms": 204093,
+      "name": "The Golden Age of Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Blues Band - Ready (Remastered)",
-        "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
-      },
-      "artists": [
-        {
-          "name": "The Blues Band",
-          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
-        }
-      ],
-      "duration_ms": 155914,
-      "name": "Find Yourself Another Fool - Remastered",
-      "url": "https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Gasoline Alley",
         "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Side 3",
-        "url": "https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc"
+        "name": "The Blues Band - Ready (Remastered)",
+        "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
       },
       "artists": [
         {
-          "name": "Raspberries",
-          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
+          "name": "The Blues Band",
+          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
         }
       ],
-      "duration_ms": 310533,
-      "name": "I'm A Rocker",
-      "url": "https://open.spotify.com/track/1HDnpYpxx5QksiWFs7DGzv"
+      "duration_ms": 155914,
+      "name": "Find Yourself Another Fool - Remastered",
+      "url": "https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -699,6 +683,22 @@
       "duration_ms": 185093,
       "name": "Tars Of India",
       "url": "https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Side 3",
+        "url": "https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc"
+      },
+      "artists": [
+        {
+          "name": "Raspberries",
+          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
+        }
+      ],
+      "duration_ms": 310533,
+      "name": "I'm A Rocker",
+      "url": "https://open.spotify.com/track/1HDnpYpxx5QksiWFs7DGzv"
     },
     {
       "added_at": "2020-12-01 05:01:00",

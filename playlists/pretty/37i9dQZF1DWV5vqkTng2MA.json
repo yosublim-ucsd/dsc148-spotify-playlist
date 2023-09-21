@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 373366,
+  "num_followers": 373440,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2VlNjM3YzA5N2YwZWU1N2U4YTFmZGI0NzZjYTIyMjliOWNmMTI1",
+  "snapshot_id": "MCwzYjRkYTBjMWI3OTgxMGVjNjAwNzY3NjE2NjZkZTIxNjYyYzYxYTE4",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Never Twice",
-        "url": "https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4"
-      },
-      "artists": [
-        {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Katchi",
-      "url": "https://open.spotify.com/track/09uXepY9uC1cUlvZ6kbOy6"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "For the Time Being",
         "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 245333,
       "name": "For the Time Being",
       "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Never Twice",
+        "url": "https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Katchi",
+      "url": "https://open.spotify.com/track/09uXepY9uC1cUlvZ6kbOy6"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/1YrapTceavDda547u6Z9yg"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Party City",
+      "url": "https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Promenade Blue",
         "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 209466,
       "name": "Bad Bad Love",
       "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Sir Woman",
-        "url": "https://open.spotify.com/album/1YrapTceavDda547u6Z9yg"
-      },
-      "artists": [
-        {
-          "name": "Sir Woman",
-          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Party City",
-      "url": "https://open.spotify.com/track/0aQuBy6wRLPE3Al7Eqv3Fa"
     },
     {
       "added_at": "2023-09-15 04:00:00",

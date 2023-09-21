@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDA1ZDUzYTZjMDE4MjNhMGZlNmRhYTQwNGNlM2M2NTgxZA==",
+  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDA5MDQ4NTkwMTZhMGFmY2FhZjBhNGM1Mzk1ODRhMzRiMA==",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Ram",
-        "url": "https://open.spotify.com/album/3o88dhnm1Bn9EH8vweXsnM"
+        "name": "Fingerblast",
+        "url": "https://open.spotify.com/album/1rt0e7RP4a3PMHcQuzkUjq"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 172653,
       "name": "Fingerblast",
-      "url": "https://open.spotify.com/track/7pZffCI5RzP8ThC8mNhyxx"
+      "url": "https://open.spotify.com/track/2EJQGBhREOhahAghqchmKt"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -44,9 +44,9 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 118436,
-      "name": "Rebuke - Instrumental",
-      "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
+      "duration_ms": 188851,
+      "name": "4EVA - Instrumental",
+      "url": "https://open.spotify.com/track/6Lg6MTVkZ4KqSeXaI2JX4F"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -119,26 +119,6 @@
       "duration_ms": 269907,
       "name": "should sleep",
       "url": "https://open.spotify.com/track/0oixdxR51PVtYYnkd09G0Q"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 218794,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -239,22 +219,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "End",
-        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 370653,
-      "name": "Loved Ones",
-      "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Bigger Houses",
         "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
       },
@@ -271,8 +235,8 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Love Album: Off The Grid",
-        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
+        "name": "Another One Of Me",
+        "url": "https://open.spotify.com/album/2xnqikpcvH2vBYc89VnwwL"
       },
       "artists": [
         {
@@ -293,8 +257,8 @@
         }
       ],
       "duration_ms": 220408,
-      "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
-      "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
+      "name": "Another One Of Me",
+      "url": "https://open.spotify.com/track/3vAdBZvbr3bFBiSLT4iVap"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -311,26 +275,6 @@
       "duration_ms": 193760,
       "name": "25 Tequilas",
       "url": "https://open.spotify.com/track/6QPO10pkQL0rS3XvU650m8"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Asleep",
-        "url": "https://open.spotify.com/album/6klnSZdiedtwMpbIdwVrGn"
-      },
-      "artists": [
-        {
-          "name": "Dream",
-          "url": "https://open.spotify.com/artist/0PAljb1bunnr2Zdzt7zn5Q"
-        },
-        {
-          "name": "Cortex",
-          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Asleep",
-      "url": "https://open.spotify.com/track/3U4CpnJrvtVacXGhVhY32y"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -399,6 +343,62 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "americana, but lofi",
+        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
+      },
+      "artists": [
+        {
+          "name": "lonelyboy",
+          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "the kids aren't alright - lofi",
+      "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Australia Stops",
+        "url": "https://open.spotify.com/album/6GtcJTPQEKWoFDtXLrgWbh"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "Keep It Dark",
+      "url": "https://open.spotify.com/track/6p3Kgt3SwEMajZmjnJFjAx"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Bowling For Sleep - Lullaby covers of Bowling For Soup songs",
+        "url": "https://open.spotify.com/album/0d6QkChwFDYRah6JwByLN2"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        },
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 307408,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/2EDAP6kj1U5UQudx6x5Ao1"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Dookie (30th Anniversary Outtakes)",
         "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
       },
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 224800,
-      "name": "Christie Rd. - Outtake",
-      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
+      "duration_ms": 169773,
+      "name": "Walking the Dog (demo) - Outtake",
+      "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 482744,
+      "name": "Denardirn",
+      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Good Brother",
         "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
       },
@@ -467,26 +483,6 @@
       "duration_ms": 193390,
       "name": "Good Brother",
       "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Le d\u00e9part",
-        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "Le d\u00e9part",
-      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -511,38 +507,34 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/7g09Qn1ZsVdk4V8KusjWUn"
+        "name": "Superb Superb Name Poop Songs Songs",
+        "url": "https://open.spotify.com/album/3zcTAjURGQsqqtGx8YvdVM"
       },
       "artists": [
         {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+          "name": "The Odd Man Who Sings About Poop, Puke and Pee",
+          "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
         }
       ],
-      "duration_ms": 226203,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
+      "duration_ms": 176840,
+      "name": "The Romi Poop Song",
+      "url": "https://open.spotify.com/track/03wPWydpPuUv28DrRpXV9I"
     },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Origin Story",
-        "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
+        "name": "Rustin' In The Rain",
+        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
       },
       "artists": [
         {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        },
-        {
-          "name": "The Future Kingz",
-          "url": "https://open.spotify.com/artist/4sw5s8BqMsNkOSZtNgACKv"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 297624,
-      "name": "Origin Story",
-      "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
+      "duration_ms": 216226,
+      "name": "Rustin' In The Rain",
+      "url": "https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9"
     },
     {
       "added_at": "2023-09-15 04:00:00",

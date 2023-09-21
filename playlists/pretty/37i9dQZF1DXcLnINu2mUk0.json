@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Julinho Ksd.",
-  "num_followers": 38236,
+  "num_followers": 38275,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGRkZDk1ZTVjM2QwYjJmNTk5YjkyYjZjNjcxOWJjZmUwMTRiMjYw",
+  "snapshot_id": "MCxiYTFiZmVhNGYyYzc3ZDAzNDczY2RjMWU1NjM3NTEzNDQyOGMzN2E2",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Just Trynna Eat",
-        "url": "https://open.spotify.com/album/4zZmZ5l2bdEHikQYm7ulYN"
-      },
-      "artists": [
-        {
-          "name": "Bala G",
-          "url": "https://open.spotify.com/artist/3tJwY2voapChSVTQ5exFCh"
-        }
-      ],
-      "duration_ms": 224125,
-      "name": "Just Trynna Eat",
-      "url": "https://open.spotify.com/track/0Gen7g1boKyiAvxcKkzFC0"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Jony Driver",
         "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 254400,
       "name": "Sons de Amor",
       "url": "https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Just Trynna Eat",
+        "url": "https://open.spotify.com/album/4zZmZ5l2bdEHikQYm7ulYN"
+      },
+      "artists": [
+        {
+          "name": "Bala G",
+          "url": "https://open.spotify.com/artist/3tJwY2voapChSVTQ5exFCh"
+        }
+      ],
+      "duration_ms": 224125,
+      "name": "Just Trynna Eat",
+      "url": "https://open.spotify.com/track/0Gen7g1boKyiAvxcKkzFC0"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Tequila (Studio Version)",
-        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
+        "name": "Por Aqui",
+        "url": "https://open.spotify.com/album/6GvAx2uva7eI6ir7KOp1CJ"
       },
       "artists": [
         {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
         }
       ],
-      "duration_ms": 199376,
-      "name": "Tequila - Studio Version",
-      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
+      "duration_ms": 139506,
+      "name": "Por Aqui",
+      "url": "https://open.spotify.com/track/6Pre7MaAvhrV8VgiwTX7KP"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Por Aqui",
-        "url": "https://open.spotify.com/album/6GvAx2uva7eI6ir7KOp1CJ"
+        "name": "Tequila (Studio Version)",
+        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
       },
       "artists": [
         {
-          "name": "Jimmy P",
-          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
         }
       ],
-      "duration_ms": 139506,
-      "name": "Por Aqui",
-      "url": "https://open.spotify.com/track/6Pre7MaAvhrV8VgiwTX7KP"
+      "duration_ms": 199376,
+      "name": "Tequila - Studio Version",
+      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Vem S\u00f3",
+        "url": "https://open.spotify.com/album/6n6Wocb8xJMU2i1T2EKgGd"
+      },
+      "artists": [
+        {
+          "name": "Maudito",
+          "url": "https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR"
+        }
+      ],
+      "duration_ms": 199322,
+      "name": "Vem S\u00f3",
+      "url": "https://open.spotify.com/track/2rpA0HiRKG8bV132SiopRU"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "Saudades",
         "url": "https://open.spotify.com/album/25aQvTGMXD64EsjTSZDHS7"
       },
@@ -1107,38 +1123,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Confuso",
-        "url": "https://open.spotify.com/album/6pVY3jn7fL6yGfHk24e8uv"
-      },
-      "artists": [
-        {
-          "name": "DIGGA",
-          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Confuso",
-      "url": "https://open.spotify.com/track/61hLjlVfhtDFt8k2qZpsfD"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Vem S\u00f3",
-        "url": "https://open.spotify.com/album/6n6Wocb8xJMU2i1T2EKgGd"
-      },
-      "artists": [
-        {
-          "name": "Maudito",
-          "url": "https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR"
-        }
-      ],
-      "duration_ms": 199322,
-      "name": "Vem S\u00f3",
-      "url": "https://open.spotify.com/track/2rpA0HiRKG8bV132SiopRU"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "FAZ ME FICAR",
         "url": "https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 236099,
       "name": "FAZ ME FICAR",
       "url": "https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Confuso",
+        "url": "https://open.spotify.com/album/6pVY3jn7fL6yGfHk24e8uv"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Confuso",
+      "url": "https://open.spotify.com/track/61hLjlVfhtDFt8k2qZpsfD"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "TRIAGEM",
-        "url": "https://open.spotify.com/album/3i1DXVUJpTTBnxbRD8fB0K"
-      },
-      "artists": [
-        {
-          "name": "Dinis Mota",
-          "url": "https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "TUDO OU NADA",
-      "url": "https://open.spotify.com/track/3FzM5fHg2Wu87fuLxBstDY"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "FLEX",
         "url": "https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 164571,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "TRIAGEM",
+        "url": "https://open.spotify.com/album/3i1DXVUJpTTBnxbRD8fB0K"
+      },
+      "artists": [
+        {
+          "name": "Dinis Mota",
+          "url": "https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "TUDO OU NADA",
+      "url": "https://open.spotify.com/track/3FzM5fHg2Wu87fuLxBstDY"
     },
     {
       "added_at": "2023-09-14 23:00:00",

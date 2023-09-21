@@ -2,7 +2,7 @@
 
 ### [Stress Relief](https://open.spotify.com/playlist/37i9dQZF1DWXe9gFZP0gtP)
 
-> Calm your mind with gentle piano and ambient music.
+> Calm your mind from anxiety with gentle piano and ambient music.
 
 369 songs - 18 hr 12 min
 

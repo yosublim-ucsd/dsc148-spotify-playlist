@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 202000,
       "name": "Ahenawada Gahena Hadawatha Mage",
       "url": "https://open.spotify.com/track/4TufAvSFh8OoD6kwC6L5nD"
@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Dase Durin",
+        "url": "https://open.spotify.com/album/1lx0sB4sQemiqjO2x5P13N"
+      },
+      "artists": [
+        {
+          "name": "DILU Beats",
+          "url": "https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159855,
+      "name": "Dase Durin",
+      "url": "https://open.spotify.com/track/2RLLzsU7ijGYg0xTW42Q0G"
+    },
+    {
+      "album": {
         "name": "Datha Dara",
         "url": "https://open.spotify.com/album/5ACrismOfjk5EW5n9oz4t6"
       },
@@ -992,6 +1010,24 @@
       "duration_ms": 190458,
       "name": "Datha Dara",
       "url": "https://open.spotify.com/track/7Dl4H08P6ZsuQnN3rl3X5Q"
+    },
+    {
+      "album": {
+        "name": "Dathin Allan",
+        "url": "https://open.spotify.com/album/0SSVG7pg9ojBWkYV0GzyC5"
+      },
+      "artists": [
+        {
+          "name": "Lashan Herath",
+          "url": "https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Dathin Allan",
+      "url": "https://open.spotify.com/track/70lg79zjqjMZq1TrFPHt2n"
     },
     {
       "album": {
@@ -2816,7 +2852,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 212826,
       "name": "Mal Mitak",
       "url": "https://open.spotify.com/track/3soObrLZGSt1oFCb9plfcO"
@@ -4085,6 +4121,24 @@
     },
     {
       "album": {
+        "name": "Numba Hata Man",
+        "url": "https://open.spotify.com/album/6gCss0LC57MOW22n3DgyrM"
+      },
+      "artists": [
+        {
+          "name": "SANUKA",
+          "url": "https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203205,
+      "name": "Numba Hata Man",
+      "url": "https://open.spotify.com/track/3xv8aALbKoIx8BBleGgBWO"
+    },
+    {
+      "album": {
         "name": "Numba Langa Nathi da",
         "url": "https://open.spotify.com/album/1UAEkNz5bPwirXkdvuNLQx"
       },
@@ -4118,7 +4172,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 250285,
       "name": "Numbata Mathakada",
       "url": "https://open.spotify.com/track/45VOLZmSHFEv6d0GUgcl0J"
@@ -4586,6 +4640,28 @@
       "duration_ms": 203407,
       "name": "Peradaa",
       "url": "https://open.spotify.com/track/4OJnLf2MPlo1SbaLPAeoCq"
+    },
+    {
+      "album": {
+        "name": "Pihatuwak Se",
+        "url": "https://open.spotify.com/album/2kRwJFHCzVFxi6i1Q5ZIFZ"
+      },
+      "artists": [
+        {
+          "name": "Ramidu",
+          "url": "https://open.spotify.com/artist/79N9HpBbkLyan8X1jTYe6d"
+        },
+        {
+          "name": "Themiya Thejan",
+          "url": "https://open.spotify.com/artist/7KOQwe1vcolnuIBhMmvZo9"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186949,
+      "name": "Pihatuwak Se",
+      "url": "https://open.spotify.com/track/4nu9jFGxqTbGmcgeYDLku5"
     },
     {
       "album": {
@@ -5874,7 +5950,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 261150,
       "name": "SuckDevi Vanuma",
       "url": "https://open.spotify.com/track/3QAjjstd3c2h3wXUGRhluT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,862 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,894 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 40 | [Doing Time](https://open.spotify.com/track/46U6Q6qD71twELCau5AKMr) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Doing Time](https://open.spotify.com/album/1342PPedHNr7saPwjTQcIy) | 2:22 |
 | 41 | [Play for Keeps](https://open.spotify.com/track/1aD6KGgZ6duNKQJQVulwmT) | [FMB](https://open.spotify.com/artist/1Kk4fSEcYeC4Z02ie8ZntE), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [Play for Keeps](https://open.spotify.com/album/1NQn3XcLiZNFwC5pqsYdgl) | 3:02 |
 | 42 | [Hush](https://open.spotify.com/track/7MQOvLC0lr33ie3QvzxZ77) | [So Below](https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi) | [Hush](https://open.spotify.com/album/3beyQvCg0R1KkVXtK72irx) | 3:56 |
-| 43 | [Ghost](https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/6k6wmEOV5gKazj2lJEfgiy) | 4:33 |
+| 43 | [Ghost](https://open.spotify.com/track/6V7srdT0Mu63F4XN97buVZ) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/1CQNzjeDFVKqUeveRH9Tar) | 4:33 |
 | 44 | [In The Rain](https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [In The Rain](https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha) | 3:59 |
 | 45 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 |
 | 46 | [AI, E KŌ](https://open.spotify.com/track/5U6SC9XsJ4Jr6Ht68i1o3l) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH), [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [AI, E KŌ](https://open.spotify.com/album/04IIWq1rvAhSZGQK11ABDN) | 2:28 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 98 | [Waking Dream](https://open.spotify.com/track/6wuX11M0gbpmdjtMJ0O98c) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [JULIA](https://open.spotify.com/album/6kSnkFQGSNserpUB78IE4m) | 3:06 |
 | 99 | [Body Beat](https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/7JGTe36pDv9qlUAKrII5O6) | 3:01 |
 
-Snapshot ID: `MCwxN2YyNmUzNTMyMzNmZDI4Y2YwNjk5ZThhZDliOTA2YTY1NjQ0YzY4`
+Snapshot ID: `MCxhOGY5ZjQ4YWU0NzBkNGQwYmMyNzIzYzA3NzRlZTM0ZjMyZjc5OTVj`

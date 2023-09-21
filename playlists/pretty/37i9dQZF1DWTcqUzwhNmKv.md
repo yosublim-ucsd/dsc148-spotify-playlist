@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Corey Taylor on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,451,702 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,451,897 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Fence](https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Fence](https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD) | 3:37 |
 | 75 | [Blusher](https://open.spotify.com/track/29yo56Jmb3m4yUzJfEgFp6) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Rivers Of Heresy](https://open.spotify.com/album/6ro94rJ539uMG9hDwDtICk) | 2:44 |
 
-Snapshot ID: `MCw0MjhkY2EyYzIzNjk4ZTNmMTY2ZTdhNmExOWQ2MDJhMjg1YmQ3OTVj`
+Snapshot ID: `MCw3YTU0NmU2ZGVhYzI3MzYxNTliY2NhNWRlMjU5YmY1Y2MzZDAwYTg4`

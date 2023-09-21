@@ -4,7 +4,7 @@
 
 > In cerca di energie? Prova con la nostra playlist!
 
-216 songs - 10 hr 52 min
+217 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/album/2Cla1wK4qkDCdrVaZgeTFk) | 2:49 | 2022-05-06 | 2022-07-29 |
 | [Need U \- Spotify Singles](https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Need U \- Spotify Singles](https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF) | 2:34 | 2022-05-06 | 2022-07-27 |
 | [Need Your Love](https://open.spotify.com/track/0oe2fBE0ElSk7sIAz6bnOZ) | [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Need Your Love](https://open.spotify.com/album/6FdS3GmxGKdjowELfC2Jfp) | 2:48 | 2022-05-06 | 2022-07-29 |
-| [Never Dance Again](https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38) | 3:12 | 2023-05-12 |  |
+| [Never Dance Again](https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38) | 3:12 | 2023-05-12 | 2023-09-21 |
+| [Never Dance Again](https://open.spotify.com/track/3EcT70jEwuYlpKIFbncIoR) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3KcKrqVnhRUsdN1EVt1BNh) | 3:12 | 2023-07-07 |  |
 | [Never Let You Go](https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Never Let You Go](https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0) | 2:58 | 2022-12-16 |  |
 | [Never Love You Again](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 | 2022-05-06 | 2023-09-12 |
 | [New Chic](https://open.spotify.com/track/2Kxm9OKOunznvGkZrNGgL0) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [New Chic](https://open.spotify.com/album/3l1YR5cD2Ng2zsrQM3ZNAO) | 2:59 | 2022-05-30 | 2022-07-29 |

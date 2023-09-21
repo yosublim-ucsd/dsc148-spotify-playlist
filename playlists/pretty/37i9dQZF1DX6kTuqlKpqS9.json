@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 69970,
+  "num_followers": 70068,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDA0OTIyOTdhMWExMmNlMmRhNTZmMjExNzc5Yzk2M2ZjNTJjMzEy",
+  "snapshot_id": "MCxhNDE1N2RjODRlNjYzNTExZWQ1YzMyYjVkMDMxYjZhNjk0YWNlNTYz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 217532,
-      "name": "La Diferencia - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
-      "url": "https://open.spotify.com/track/5qjWsZ8kudvaVKG2g0cRvz"
+      "duration_ms": 218572,
+      "name": "Tu A Mi No Me Hundes - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
+      "url": "https://open.spotify.com/track/6fl2z7exv5Y8NybcTtYpkJ"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 218572,
-      "name": "Tu A Mi No Me Hundes - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
-      "url": "https://open.spotify.com/track/6fl2z7exv5Y8NybcTtYpkJ"
+      "duration_ms": 217532,
+      "name": "La Diferencia - En Vivo Desde Bellas Artes, M\u00e9xico/ 2013",
+      "url": "https://open.spotify.com/track/5qjWsZ8kudvaVKG2g0cRvz"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
-        "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "Porqu\u00e9 No Le Calas - Live",
-      "url": "https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Mariachi Hit Parade",
         "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 191733,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
+        "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Porqu\u00e9 No Le Calas - Live",
+      "url": "https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El \u00daltimo Jaripeo (En Vivo)",
-        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "Eso Y M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/5pyDbFYIStAPuJ94QSliVc"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Con Ustedes... Car10s Rivera en Vivo",
         "url": "https://open.spotify.com/album/249ZBjtCsCYklCPuQDqyo2"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "La Familia Aguilar En Vivo (Live At The Plaza De Toro / Mexico City, MX / July 1998)",
-        "url": "https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh"
+        "name": "El \u00daltimo Jaripeo (En Vivo)",
+        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 248200,
-      "name": "Por Mujeres Como T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/0LnyfUMO40rj29KE1Sg5jr"
+      "duration_ms": 157426,
+      "name": "Eso Y M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/5pyDbFYIStAPuJ94QSliVc"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -683,6 +667,22 @@
       "duration_ms": 195253,
       "name": "Ac\u00e1 Entre Nos - En Vivo",
       "url": "https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "La Familia Aguilar En Vivo (Live At The Plaza De Toro / Mexico City, MX / July 1998)",
+        "url": "https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Por Mujeres Como T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/0LnyfUMO40rj29KE1Sg5jr"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 163120,
-      "name": "El Rey - En Vivo",
-      "url": "https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "El \u00daltimo Jaripeo (En Vivo)",
         "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 223546,
       "name": "Secreto De Amor - En Vivo",
       "url": "https://open.spotify.com/track/4dmRntbw2COWNacQzUWt6q"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "El Rey - En Vivo",
+      "url": "https://open.spotify.com/track/2tJH8dxiDkTAeHWjHzKsH9"
     },
     {
       "added_at": "2021-12-29 23:15:19",

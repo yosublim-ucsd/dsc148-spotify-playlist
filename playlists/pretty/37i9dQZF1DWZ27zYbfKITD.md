@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,584 likes - 78 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,756 likes - 78 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 37 | [One Day: Piano Suite](https://open.spotify.com/track/7yjawyAnSGGV6ScksB6v0g) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [One Day: Piano Suite](https://open.spotify.com/album/7F2phIIa9WNbzL9Iy4MYuC) | 3:53 |
 | 38 | [My Sanctuary](https://open.spotify.com/track/6d1NPNNXtUPmqdwg8bEGSo) | [Amelia Warner](https://open.spotify.com/artist/1SSl5N7XDvbNT88DomuDmW) | [Mary Shelley \(Original Motion Picture Score\)](https://open.spotify.com/album/4Bu9CTxnEx079i37tGHlXi) | 3:01 |
 | 39 | [Ocarina of Time](https://open.spotify.com/track/7jgu0nvuW4Xp7e0zQqUKeW) | [Super Piano 64](https://open.spotify.com/artist/7M1OtLgGeX29Ivo1llzubY), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Unplugged](https://open.spotify.com/artist/3ifS6o130ZA25mztvyRq4M) | [Zelda & Piano II – Ocarina of Time](https://open.spotify.com/album/7s7EhzRQESMrsIrq7nJLDI) | 2:27 |
-| 40 | [Ad Arcana](https://open.spotify.com/track/7bFZy83vdfjCHl5tEwE36o) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Da Vinci Code](https://open.spotify.com/album/4GuLx38y1727p45spIvslr) | 6:07 |
+| 40 | [Ad Arcana](https://open.spotify.com/track/7bFZy83vdfjCHl5tEwE36o) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Richard Harvey](https://open.spotify.com/artist/3J8wY38gX35pp2soOa4vje) | [The Da Vinci Code](https://open.spotify.com/album/4GuLx38y1727p45spIvslr) | 6:07 |
 | 41 | [Nascence](https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [Journey \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn) | 1:46 |
 | 42 | [The Cider House Rules: Piano Suite](https://open.spotify.com/track/0T7aVa8RpGJxDfth5Yve9x) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Beyond the Screen \- Film Works on Piano](https://open.spotify.com/album/63mhNGE2RR3GATpOgQvHKi) | 2:16 |
 | 43 | [A World Destroyed](https://open.spotify.com/track/1alF5shMmBhSteCPlZpuU8) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [A Monster Calls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1cQHbrCsJXugmk5Ki8Ub0B) | 1:06 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 77 | [Bella's Lullaby \(From "Twilight"\)](https://open.spotify.com/track/5djt2IiLLsQMeBiLWJQlGB) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [See Siang Wong](https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271) | [Bella's Lullaby \(From "Twilight"\)](https://open.spotify.com/album/4ud7m0XCRNhXjnRGfli0LE) | 2:13 |
 | 78 | [Song of Healing](https://open.spotify.com/track/1BjgY1mNtSRniRqrYbP8i1) | [Laurence Manning](https://open.spotify.com/artist/4pS3AwZi3Nd0klW5yEE1Le), [Daphnée Sincennes Richard](https://open.spotify.com/artist/4NCw6JwOxucMAXdCQJATQ0), [Lou Dunand\-Vincent](https://open.spotify.com/artist/3vwfNOzpHeV0s5R4owSQ3E) | [Trio of the Goddesses](https://open.spotify.com/album/6rls52uHTGGcbYRIXcUnfv) | 4:32 |
 
-Snapshot ID: `MCxhY2FkMjk2NmQxODIzZDcwNzU3OGIzMzAxYTU2ZGVjYzgxOGViYzE2`
+Snapshot ID: `MCwxY2I0YjAwODAxZDEzOGFiYTZjYjQwMDY4NTE2N2VjODhkNmI3ZjEx`

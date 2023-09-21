@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,116 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,197 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 70 | [Mouse Me Cat You](https://open.spotify.com/track/75WlJmJCkwsbgwrLEle4mp) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Mouse Me Cat You](https://open.spotify.com/album/10US8WPvdKCwAjGyU1HLVS) | 3:37 |
 | 71 | [a moment in the sun](https://open.spotify.com/track/4iOMjNtR3qXzXmjmznqL9Q) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [a moment in the sun](https://open.spotify.com/album/57Hjcj3G2BIuJvKxuBL8IP) | 3:19 |
 | 72 | [Even On The Darkest Days](https://open.spotify.com/track/3NpuqPtTtB6dPp1JKcTIKW) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Handsome Ghost](https://open.spotify.com/album/7Fq5h7UYcogQfuFFuPkcqA) | 3:46 |
-| 73 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 |
+| 73 | [So You Are Tired](https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:49 |
 | 74 | [Free](https://open.spotify.com/track/6I3Ns61Hy5xBwlakoVodA8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Free](https://open.spotify.com/album/2DK8qUZem6LDFCcr7vrJLk) | 3:13 |
 | 75 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
 | 76 | [Missionary Feelings](https://open.spotify.com/track/4pqcPscDHP2pBg5wiYxIQ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Missionary Feelings](https://open.spotify.com/album/4SdXC03JUEmupXnL0yKRjH) | 3:32 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Brother](https://open.spotify.com/track/2a5Qw8eu4Ger7FPpcP61fd) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Brother](https://open.spotify.com/album/13kWGYpAMspF5I3CMa1q9P) | 3:39 |
 | 150 | [Swim](https://open.spotify.com/track/6ePVM7eOWsgpJmKRaHVqqa) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Swim](https://open.spotify.com/album/3OAs5OVp8T5wE0XPlmXLyM) | 4:13 |
 
-Snapshot ID: `MCwxMDE4MjMzMjE5OWMyMDI4ZDJhMmNiZDgwOWMxN2YzNTAzYjg2ODBk`
+Snapshot ID: `MCw2NDZlY2MxMWI2ZDU1ODE2NzUwNzY1MjBjNDVlOTEwMDFjNDk3NTE1`

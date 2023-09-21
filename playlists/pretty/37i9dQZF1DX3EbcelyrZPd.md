@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Alikiba & Tommy Flavour
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,171 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,214 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Pwi Pwi](https://open.spotify.com/track/2mLo2SWYWjzXfC2mqvJoVY) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Pwi Pwi](https://open.spotify.com/album/3Pbtdd5ArfOYHr73MIChnX) | 3:09 |
 | 70 | [Madness](https://open.spotify.com/track/3yCiJlTtHFEnAknMyBsFCi) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Most People Want This](https://open.spotify.com/album/1lc1Yrp51pUXHlO95vArpx) | 2:35 |
 
-Snapshot ID: `MCw4ZTcyNWE0NDgxMjZlZTRjYmYzOTFmMThjOGQ2NDM4OWM5NTU1OGMy`
+Snapshot ID: `MCw4MWU5MGQ1YTZmZDM1MmVmMTlmODRhYjVmZTM4OWY5MGFhMTYxOGQ1`

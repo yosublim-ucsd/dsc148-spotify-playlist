@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-127 songs - 7 hr 45 min
+130 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [stay with me \(With Choi Yu Ree\)](https://open.spotify.com/track/3P2w5AkWcX08bNZTc6EWqP) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6iHKlPIButEGe8ckLpjgbM) | 2:50 | 2022-07-04 |  |
 | [Story of night fall](https://open.spotify.com/track/6E2eYYvCV8znuzYlhudAJY) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 4:14 | 2022-07-04 |  |
 | [Stupid](https://open.spotify.com/track/3sGYUtkUI0ampaZvbjSrkp) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr) | [Not a fairytale](https://open.spotify.com/album/6bYLR9Zkhc6p9YWWnjxtip) | 2:58 | 2022-07-04 |  |
+| [Stupid Day \(feat\. HYUN SEO\)](https://open.spotify.com/track/3Qh3Pr6IJYb3Aj1qvILr4B) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Stupid Day \(feat\. HYUN SEO\)](https://open.spotify.com/album/4WRxDU0q82GFtTPFKcUPlR) | 2:44 | 2023-09-20 |  |
 | [Sunday Night](https://open.spotify.com/track/1XvZJO24bVGFcoTjUdwDyi) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U), [JURIN](https://open.spotify.com/artist/7ltLMdhCWprT0dbggchc6e) | [Sunday Night](https://open.spotify.com/album/6U9cqG0pcELOONAmqMTVsd) | 3:45 | 2022-07-04 |  |
 | [Sunshine of June](https://open.spotify.com/track/6BVY60lo3QaL6TSgBwKzgM) | [Dailylab](https://open.spotify.com/artist/4by96utXSeGTsQSfR16Olh) | [Sunshine of June](https://open.spotify.com/album/4ziHz60Ut95gknIzloSxhf) | 4:12 | 2022-07-04 |  |
 | [SUPERCAR](https://open.spotify.com/track/49OWLslwYgeMZlTflhmgzR) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:42 | 2022-07-04 |  |
@@ -112,9 +113,11 @@
 | [Think About You \(Prod\. by 'Lee Chanhyuk\)](https://open.spotify.com/track/2sYcXLI2dtHvHTYKTjpccl) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Think About You](https://open.spotify.com/album/4657RzDqZ0HX96GbkmkWs8) | 4:04 | 2022-11-01 |  |
 | [Time And Fallen Leaves](https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Time And Fallen Leaves](https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC) | 4:07 | 2022-11-01 |  |
 | [Too Much Regret](https://open.spotify.com/track/1InF7ads6F8QSsJzOwG52n) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 2nd](https://open.spotify.com/album/3CAAJzd9d3rvMhHY16dI18) | 4:16 | 2022-11-01 |  |
+| [Trouble \(Feat\. Ahn Byeong Woong\)](https://open.spotify.com/track/6UMrmpf4OjwHzz8vYNXoFG) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe) | [Trouble & I'll be with u](https://open.spotify.com/album/3Iw7qUjvEfF5haZTLWo8oA) | 2:57 | 2023-09-20 |  |
 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 | 2022-07-04 |  |
 | [Us during that moment](https://open.spotify.com/track/6z9b1gvsiokokjakZ9jDNK) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Us during that moment](https://open.spotify.com/album/3K5qthudFQy4Oc09NH7Nf9) | 5:31 | 2022-07-04 |  |
 | [Vague Hope](https://open.spotify.com/track/4aGsNc3T9qlk1y9MFBnJs8) | [DALIE](https://open.spotify.com/artist/2l6ZqfOMnjK1q6B5DGxjhn) | [Vague Hope](https://open.spotify.com/album/6DDSlFpCeZyn0Zam7OFE0k) | 3:21 | 2022-07-04 |  |
+| [Wait A Minute ! \(Feat\. 황세현\(h3hyeon\)\)](https://open.spotify.com/track/30kEjqFheQPomQcf2kZM7H) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Wait A Minute !](https://open.spotify.com/album/59Vc3Ij1sz6fQmgfv5ANtD) | 3:14 | 2023-09-20 |  |
 | [Water](https://open.spotify.com/track/2l26SisqsxD0MCZoarxlL3) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [22522](https://open.spotify.com/album/52uiwubDec4Tmm5B2sQu1w) | 3:41 | 2022-07-04 |  |
 | [What day do you live?](https://open.spotify.com/track/2rccS92aHoL4TfGR9wK8B5) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [What day do you live?](https://open.spotify.com/album/6E9VOi0CYUduyLiIzuiMnY) | 5:14 | 2022-07-04 |  |
 | [Whatever for u](https://open.spotify.com/track/2SPimOLQV6DBRiCA3IQ1sY) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Fake Red](https://open.spotify.com/album/2c3TcGj1cwJHDtdFwyz0jW) | 2:56 | 2022-11-03 |  |

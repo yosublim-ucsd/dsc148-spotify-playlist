@@ -4,7 +4,7 @@
 
 > cool music ft\. Riovaz
 
-295 songs - 12 hr 57 min
+298 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Burning Angel](https://open.spotify.com/track/0y3yMEAlP3S11L4oSuR3uq) | [Damazein](https://open.spotify.com/artist/4Vr5ULgjQOQQRZS0FVvQMi), [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw) | [Burning Angel](https://open.spotify.com/album/07mBF3CloQiwm9RItifrcG) | 1:58 | 2023-06-23 |  |
 | [Butterfly](https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp) | [nomu.](https://open.spotify.com/artist/2NSBzBPu05xNzAUv10mdTc) | [Butterfly](https://open.spotify.com/album/0slkV34l718fubBPy4GzOB) | 2:28 | 2023-02-17 |  |
 | [bystander](https://open.spotify.com/track/4KqKxfuQs2UhRgJXOidGWR) | [Bhertuy](https://open.spotify.com/artist/1D308M2j4qFABeJSQst91l) | [bystander](https://open.spotify.com/album/3eYKcWGRuvOU4TGawx7bYD) | 2:13 | 2023-08-04 |  |
+| [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 | 2023-09-20 |  |
 | [can we change the subject?](https://open.spotify.com/track/2Ogq99MVLM7DaxzIymjE26) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [can we change the subject?](https://open.spotify.com/album/3nunKtSZya6RJ1uuaozqYr) | 2:40 | 2023-04-21 |  |
 | [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 | 2023-09-08 |  |
 | [care](https://open.spotify.com/track/7idSFgXU9XQt31br2PF45w) | [memorex](https://open.spotify.com/artist/3u2aoxF8pOGqWEM5bWHM5k), [Maki Adams](https://open.spotify.com/artist/0KAO4SIZLFTQ7wEcZ3DET8), [mykel online](https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [memorex](https://open.spotify.com/album/5t632OgcIt7nXaxC6FaeOS) | 3:10 | 2023-06-23 |  |
@@ -50,6 +51,7 @@
 | [catherine never broke again](https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s) | [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [catherine never broke again](https://open.spotify.com/album/0SS7QRTl0W0CBbUCPkmmaM) | 1:54 | 2023-02-24 |  |
 | [cautionary tale](https://open.spotify.com/track/6ax64goKOuFHjIHPwK2zh8) | [biteki](https://open.spotify.com/artist/0pd6Sz8WXHG3txxWo0tr5K), [Love Jai](https://open.spotify.com/artist/7L3NGwYlrFSB9eLQrJDEkx) | [cautionary tale](https://open.spotify.com/album/0OssSph0nFsfudPMZCd7nk) | 2:05 | 2023-08-04 |  |
 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-12-04 | 2023-09-19 |
+| [Census Designated](https://open.spotify.com/track/5IhT2qYheXI0O2dHMmAb6B) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0TsaSQLM21To1HMz2ou5yI) | 6:00 | 2023-09-20 |  |
 | [cherry](https://open.spotify.com/track/45MvVAvEVHeIh5eReP2m6o) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [cherry](https://open.spotify.com/album/32bC46BdtyzmMkNlKPlfGA) | 3:06 | 2023-08-04 |  |
 | [chewing on my tongue](https://open.spotify.com/track/7AvoOqTRdH6hafhZKVBLwA) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 1:58 | 2023-08-04 |  |
 | [chronically online bitch](https://open.spotify.com/track/4p25lyI6HiIdLrjaBVdJoU) | [Stevyn](https://open.spotify.com/artist/72xvR0gA7IoOaPP5pX5nGQ), [CThruRio](https://open.spotify.com/artist/0zQSlXfHpiKFcQNf9izlvA) | [chronically online bitch](https://open.spotify.com/album/1BjkuSizpVWZuZqNtYcbFM) | 2:09 | 2023-06-23 | 2023-08-16 |
@@ -75,6 +77,7 @@
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-02-17 | 2023-04-09 |
 | [difficult](https://open.spotify.com/track/3uWiz4o4sFeLcjFiELuDa1) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [difficult](https://open.spotify.com/album/4wFsQRPPnYc2k73yUldWEh) | 2:04 | 2023-06-23 |  |
 | [Diphylla](https://open.spotify.com/track/24bACmCVA5MWILNvFqqwaz) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [Riley Nuala](https://open.spotify.com/artist/2jrvAHUR5iHtkAD0YSuByG) | [Diphylla](https://open.spotify.com/album/1GrMptCLzEl2OJgciomdZH) | 3:33 | 2023-08-04 |  |
+| [distant](https://open.spotify.com/track/0KJVPtDDxAJxXKvHE3MC9v) | [bronclair](https://open.spotify.com/artist/5FTkkcSCHksqiJqQMPYoH6), [FearDorian](https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn) | [EVEN IF](https://open.spotify.com/album/1rFxsnEzfqRYzm9LNcgouz) | 1:45 | 2023-09-20 |  |
 | [Do U Wanna Stay?](https://open.spotify.com/track/1uyNFMBOQXx6laYMtiZG61) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Do U Wanna Stay?](https://open.spotify.com/album/1p1l2zqAcZXdW4sKyktF2N) | 2:30 | 2022-12-04 | 2023-02-18 |
 | [don't bother me!!!](https://open.spotify.com/track/5aToRhEcNYAZbUt99vSDCL) | [Atlas in Motion](https://open.spotify.com/artist/1N9JxmOPJqhMCw219uoEi8), [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [don't bother me!!!](https://open.spotify.com/album/1UK4uh5DuMuXvnnuXuTVUN) | 3:08 | 2023-03-17 |  |
 | [Dont Let Me Go](https://open.spotify.com/track/5QphdQKKWbU78UmvW4GlTH) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [Dont Let Me Go](https://open.spotify.com/album/3FtD4mDTc9vcnsLMyOBKVO) | 2:39 | 2023-01-20 | 2023-06-27 |

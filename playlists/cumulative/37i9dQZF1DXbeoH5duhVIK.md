@@ -4,7 +4,7 @@
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-103 songs - 6 hr 20 min
+104 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Native Tongue](https://open.spotify.com/track/0xN1i1FbjpdUqsNoUxl78T) | [Spunsugar](https://open.spotify.com/artist/2NDWJvRwXGTFBngWiSNLu9) | [Native Tongue](https://open.spotify.com/album/5M9CiEd9IfSRfVplYj4PMc) | 1:59 | 2023-03-07 |  |
 | [Never Let You Go](https://open.spotify.com/track/1rDBcksBApWqECgPGwI5It) | [People On People](https://open.spotify.com/artist/71mOU281352We1iANampDV) | [Only Heaven](https://open.spotify.com/album/1tXd2npzRkjEAWzvNRLUFA) | 3:35 | 2023-03-02 |  |
 | [Notes](https://open.spotify.com/track/042UcI95xTMzE5gu8Ow9zX) | [Rose Cologne](https://open.spotify.com/artist/4f0Xdf4DakeOXzGRnILimE) | [Dark Alarm](https://open.spotify.com/album/0X86MyQMsOGOzGqRZYt44k) | 3:31 | 2023-03-02 |  |
-| [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT) | 4:46 | 2023-03-02 |  |
+| [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT) | 4:46 | 2023-03-02 | 2023-09-21 |
+| [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 | 2023-03-10 |  |
 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 | 2023-03-02 |  |
 | [Out of Control](https://open.spotify.com/track/2lWiS97zDwSv0L8eCWffDt) | [lia](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Out of Control](https://open.spotify.com/album/5Hhqb13WkCzudxTsK0O2At) | 4:10 | 2023-03-02 |  |
 | [Poppin' Champagne](https://open.spotify.com/track/7ifTNKe9EUcvFZbW7pi3Tr) | [Showtime Showtime](https://open.spotify.com/artist/088T8F1N8sJlnPiUtHUzRG), [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM), [DJ Marc B](https://open.spotify.com/artist/35zOGL2jF8cLvmxCq87E9q) | [Poppin' Champagne](https://open.spotify.com/album/1eoaDIQdGDz82HiLE7gezu) | 3:26 | 2023-03-02 |  |

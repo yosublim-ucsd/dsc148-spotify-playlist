@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,126 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,273 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/1Pgmihwxrgcm4UOqN8Mzom) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 |
 | 100 | [Better Than Your Memory](https://open.spotify.com/track/7cwFLQokUMwJUQUD9hbRxd) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Better Than Your Memory](https://open.spotify.com/album/1K3iUoIoymF8cmm1hrpsga) | 3:05 |
 
-Snapshot ID: `MCw1NzZhZTUwMTRiMTI3NjhmMDFmMDJjNjE4MmY0NDY1OGNjNWI0ZTQ5`
+Snapshot ID: `MCw0MjM1YThlMDBhYmQ2MTA5NTllZTViYzBjYWIyMDc0NTY2NThiNTc3`

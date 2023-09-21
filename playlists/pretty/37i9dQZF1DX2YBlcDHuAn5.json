@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 4243,
+  "num_followers": 4255,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzc0NTUyOWU1ODI3YzBkYzNkOTk3MTM4M2RlZjAzODJkNjQ3MjY4",
+  "snapshot_id": "MCxiOWRmYmQ5ZjRkZjUzNWQ1NTAxZjZlODFlZGVmYzk4ZDhiNGFiN2Yy",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Things Happen That Way",
-        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Gonna Shine",
         "url": "https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 241906,
       "name": "Gonna Shine",
       "url": "https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Things Happen That Way",
+        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Priest From Terre Haute",
-        "url": "https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH"
+        "name": "A Beautiful Time",
+        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
       },
       "artists": [
         {
-          "name": "Marcos Cabanas",
-          "url": "https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 703561,
-      "name": "Priest From Terre Haute",
-      "url": "https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt"
+      "duration_ms": 299306,
+      "name": "Tower Of Song",
+      "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "A Beautiful Time",
-        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
+        "name": "Priest From Terre Haute",
+        "url": "https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Marcos Cabanas",
+          "url": "https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402"
         }
       ],
-      "duration_ms": 299306,
-      "name": "Tower Of Song",
-      "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
+      "duration_ms": 703561,
+      "name": "Priest From Terre Haute",
+      "url": "https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt"
     },
     {
       "added_at": "2023-09-14 22:00:00",

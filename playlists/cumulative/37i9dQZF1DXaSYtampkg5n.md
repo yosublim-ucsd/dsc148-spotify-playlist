@@ -4,12 +4,13 @@
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-113 songs - 10 hr 13 min
+115 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [African Soldier](https://open.spotify.com/track/1sg7f2j7kMmeUrT2lf4I6w) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [From Africa With Fury: Rise](https://open.spotify.com/album/7bm0xSYvg2T9YMSHH0ULpT) | 5:16 | 2018-07-02 | 2022-07-29 |
-| [African Soldier](https://open.spotify.com/track/1tbUmCysCajR0ATiaZ4jpO) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [From Africa With Fury: Rise](https://open.spotify.com/album/3LNtsr41dMcpDEBoSq7sux) | 5:16 | 2018-07-02 |  |
+| [African Soldier](https://open.spotify.com/track/1tbUmCysCajR0ATiaZ4jpO) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [From Africa With Fury: Rise](https://open.spotify.com/album/3LNtsr41dMcpDEBoSq7sux) | 5:16 | 2018-07-02 | 2023-09-21 |
+| [African Soldier](https://open.spotify.com/track/5mTmOuw9eqvNMJZjlzpv2L) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [From Africa With Fury: Rise](https://open.spotify.com/album/2ifJESGupde7BuXW8U1aZV) | 5:15 | 2018-07-02 |  |
 | [Akoko Ba](https://open.spotify.com/track/29OXLtT3c3r7gJhLqT6YgL) | [Gyedu\-Blay Ambolley and His Creations](https://open.spotify.com/artist/2sNHRUX6XU5Bnfnh8JOdZI) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/6Q7IHMtwm5rvoTuPL8lUkz) | 5:26 | 2018-07-02 | 2023-04-30 |
 | [Akoko Ba](https://open.spotify.com/track/67jYMnAQsCPM0CGtNTr8NM) | [Gyedu\-Blay Ambolley and His Creations](https://open.spotify.com/artist/2sNHRUX6XU5Bnfnh8JOdZI) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/7JxOC157mJOWGQmIpCv6YL) | 5:26 | 2018-07-02 |  |
 | [Akoko Ba](https://open.spotify.com/track/6WnEqnaH6d8iUbbguKCxsN) | [Gyedu\-Blay Ambolley and His Creations](https://open.spotify.com/artist/2sNHRUX6XU5Bnfnh8JOdZI) | [Soundway presents Ghana Special \(Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81\)](https://open.spotify.com/album/5DKrMCbixQ2EjIvSBcLM28) | 5:26 | 2018-07-02 | 2022-07-29 |
@@ -93,7 +94,8 @@
 | [Ne Te Fache Pas](https://open.spotify.com/track/5HcTELjbUpb51pxN4RUodP) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb) | [Cotonou Club](https://open.spotify.com/album/46SaHGfX201NN00geCtBZY) | 4:38 | 2018-07-02 | 2022-07-29 |
 | [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 | 2018-07-02 |  |
 | [Nijaay](https://open.spotify.com/track/2R3cAh0hgAGDE4XTFZGBwC) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/7xrvWXcKHm7TxJcen0kfaV) | 7:14 | 2018-07-02 | 2022-07-29 |
-| [O.D.O.O\. \- Edit](https://open.spotify.com/track/7yEPnFUTRWmfrLGLu24DRz) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 6:54 | 2018-07-02 |  |
+| [O.D.O.O\. \- Edit](https://open.spotify.com/track/7yEPnFUTRWmfrLGLu24DRz) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 6:54 | 2018-07-02 | 2023-09-21 |
+| [O.D.O.O\. \- Edit Version](https://open.spotify.com/track/2WS1GEWDQ7oN3sBjC0IIWI) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 6:55 | 2018-07-02 |  |
 | [O.D.O.O\. \- Edit Version](https://open.spotify.com/track/4Db2j0IH9ZfsQoryddUSG7) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/5KsZEYcRsGrJFzBkubfNGb) | 6:55 | 2018-07-02 | 2022-07-29 |
 | [Obaa Sima](https://open.spotify.com/track/0RleEAKmcUbJ3R7AK0dSfV) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/5rWdCCXgUf8Ptz1goEmLKC) | 5:38 | 2018-07-02 | 2022-07-29 |
 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 | 2018-07-02 |  |

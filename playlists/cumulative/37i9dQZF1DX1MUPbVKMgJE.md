@@ -2,9 +2,9 @@
 
 ### [Disco Forever](https://open.spotify.com/playlist/37i9dQZF1DX1MUPbVKMgJE)
 
-> All your Disco favorites\. Cover: Donna Summer
+> All your Disco favorites\. Cover: Earth Wind & Fire
 
-151 songs - 13 hr 9 min
+152 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Let's All Chant](https://open.spotify.com/track/4HVFGYoXHYvL9HRRiqfHeK) | [The Michael Zager Band](https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd) | [Tellement proches \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oJhIFpBsHPBqemgGPiuYA) | 3:04 | 2019-05-26\* | 2021-09-22 |
 | [Let's Groove](https://open.spotify.com/track/4ZXxmmsp1Nd7ejbHs2BNBG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire\-Vol\. II](https://open.spotify.com/album/6rxdEnk6m2P66BxcXsQbNs) | 5:34 | 2019-05-26\* | 2021-09-22 |
 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 | 2022-02-18 |  |
-| [Love To Love You Baby](https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Love To Love You Baby](https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy) | 16:48 | 2021-09-22 |  |
+| [Love To Love You Baby](https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Love To Love You Baby](https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy) | 16:48 | 2021-09-22 | 2023-09-21 |
 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 | 2021-09-21 |  |
 | [Macho Man](https://open.spotify.com/track/22kv2NoeaD7qhTgShfZjIv) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Macho Man](https://open.spotify.com/album/5b49qO8YiAfXVaWG1uDAYS) | 5:14 | 2021-09-21 | 2022-03-10 |
 | [Macho Man](https://open.spotify.com/track/6HfFoHoJyCrhUj4rQmShXj) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [San Francisco](https://open.spotify.com/album/7jXauikV2cWYm1LWuM6945) | 5:20 | 2019-05-26\* | 2021-09-22 |
@@ -113,6 +113,7 @@
 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 | 2021-09-21 |  |
 | [Rock Your Baby \(Album Version\)](https://open.spotify.com/track/5MCpdJawYOuGRVui6zP8qx) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [Rock Your Baby](https://open.spotify.com/album/2jEg9aLrYl9ojrBsajmlkX) | 6:24 | 2019-05-26\* | 2021-09-22 |
 | [Rough Diamond](https://open.spotify.com/track/0xeHrqvJVonxLfhhklFSsp) | [Madleen Kane](https://open.spotify.com/artist/2nCH7NlCpkfhzJMS4opstC) | [Rough Diamond](https://open.spotify.com/album/5ENQf6cVALR7MGWP50D7xY) | 6:20 | 2019-05-26\* | 2021-09-22 |
+| [September](https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:35 | 2023-09-20 |  |
 | [September](https://open.spotify.com/track/6IWkdrBY2O0vfQdfEKGUdF) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol.1](https://open.spotify.com/album/3IdGf5JgMYUrO9gBaD0Oqw) | 3:35 | 2019-05-26\* | 2021-09-22 |
 | [Shake Your Body \(Down to the Ground\)](https://open.spotify.com/track/3uPNgO5ASB2CAyfGvvzJhG) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Jacksons](https://open.spotify.com/album/56P85b0u2ND6dJL9AgOB95) | 7:57 | 2019-05-26\* | 2021-09-22 |
 | [Shake Your Groove Thing](https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [2 Hot!](https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw) | 5:46 | 2021-09-21 |  |

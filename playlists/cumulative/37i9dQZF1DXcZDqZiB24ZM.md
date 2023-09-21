@@ -4,7 +4,7 @@
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-191 songs - 11 hr 24 min
+192 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Dollaz](https://open.spotify.com/track/4ONsmdb2GIWjZ667tiD7HT) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [II](https://open.spotify.com/album/6bAD8hkcYj2bCFZg6CzhmC) | 3:13 | 2022-03-11 | 2023-02-02 |
 | [Doo Wop](https://open.spotify.com/track/17RcMFZHPrjusBlklhSKou) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [DEAD.](https://open.spotify.com/album/3LKroOov310fASJk3twjmP) | 4:39 | 2022-03-11 |  |
 | [Décoller](https://open.spotify.com/track/0IUDInE3pmD0oGr5KcRi2A) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Jungle Music](https://open.spotify.com/album/0KsLYPXIW6Ky6rT2yrlcXZ) | 4:25 | 2022-03-11 |  |
+| [Désirée](https://open.spotify.com/track/4Q34wMSncMUGQ8VI7tB7E5) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS), [Cape Tula](https://open.spotify.com/artist/7tZSgCNyyOgOdu6RvF0yAf), [Yen Dough](https://open.spotify.com/artist/3RNcfewLEd1Y5n8WtcoJXG) | [OUI \(tout tout tout toutttte\)](https://open.spotify.com/album/1BuX0kIaenhckd7qbX5htS) | 4:14 | 2022-03-11 |  |
 | [Désirée \(feat\. Cape Tula & Yen Dough\)](https://open.spotify.com/track/6xOBm3J2uftXOZNzkI3vEf) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS), [Cape Tula](https://open.spotify.com/artist/7tZSgCNyyOgOdu6RvF0yAf), [Yen Dough](https://open.spotify.com/artist/3RNcfewLEd1Y5n8WtcoJXG) | [OUI \(tout, tout, tout, toutttte\)](https://open.spotify.com/album/7bRU8bH8jcOYzSA5NKd1QK) | 4:14 | 2022-03-11 | 2023-09-04 |
 | [EN AMOUR](https://open.spotify.com/track/00pdSmUu44xXsnzRc26a5m) | [Charlie Shulz](https://open.spotify.com/artist/6x27JqHjIcFUHDKkOgtZUI), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Ice](https://open.spotify.com/artist/2TjsnTvwbHGfrB0Fhk4YRf), [Rayray](https://open.spotify.com/artist/6JFbcERZ5ZUBWt4TelEZ9f) | [EN AMOUR](https://open.spotify.com/album/1470ctSffrQPJJqgpCp34C) | 2:45 | 2022-03-11 | 2022-07-28 |
 | [Enfant de la terre](https://open.spotify.com/track/1OdYUeS4T3MikOdxJ7fd4S) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6), [H'Sao](https://open.spotify.com/artist/6b1eE6BGH3FUsZotfOgPnk) | [Enfant de la terre](https://open.spotify.com/album/5iu4zik2q2VM8Lk6WEmAaq) | 4:23 | 2022-03-11 | 2022-07-28 |
@@ -96,7 +97,7 @@
 | [Iceberg](https://open.spotify.com/track/044v4qhD8IiFN8opFOygJq) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Bonhomme Pendu \(Chapitre 3\)](https://open.spotify.com/album/590NTKVPSghzSqjd7QX5fn) | 3:41 | 2022-03-11 |  |
 | [Impatiente](https://open.spotify.com/track/7Gef1hGUmAnwZJ4S3wRpVT) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Règle d'or](https://open.spotify.com/album/6cy0v4N8BVpU00AjFGYSBf) | 3:35 | 2022-03-11 | 2022-07-28 |
 | [Invisible](https://open.spotify.com/track/7tS8pETnFbdRElpCePcvpg) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [L'album noir](https://open.spotify.com/album/24ELiFOvFYXOESU0ovA28B) | 3:29 | 2022-03-11 |  |
-| [J'roule dans la ville](https://open.spotify.com/track/60BJ8gT3S4NU55dck0yhDo) | [JTReal](https://open.spotify.com/artist/3LLK1zSKPj65PCnakZCYy1) | [JSN](https://open.spotify.com/album/1YLzFhrjYlmRXxsQZeHEY6) | 4:53 | 2022-03-11 |  |
+| [J'roule dans la ville](https://open.spotify.com/track/60BJ8gT3S4NU55dck0yhDo) | [JTReal](https://open.spotify.com/artist/3LLK1zSKPj65PCnakZCYy1) | [JSN](https://open.spotify.com/album/1YLzFhrjYlmRXxsQZeHEY6) | 4:53 | 2022-03-11 | 2023-09-21 |
 | [Jack Sparrow](https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Sourire kabyle](https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9) | 3:16 | 2022-03-11 |  |
 | [Jacques Plante](https://open.spotify.com/track/3bY2sZgUy3pOZwroyTqm7j) | [Robert Nelson](https://open.spotify.com/artist/6VLu05X4scUzOlbo5TAaOn) | [Nul n'est roé en son royaume](https://open.spotify.com/album/2cBg34qQhVUh0oqFsWCxZu) | 2:59 | 2022-03-11 | 2022-07-25 |
 | [Jalousie](https://open.spotify.com/track/1bypDBJ7EReMNW6Rz1C2kc) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [On Frap](https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k) | 3:17 | 2022-03-11 |  |

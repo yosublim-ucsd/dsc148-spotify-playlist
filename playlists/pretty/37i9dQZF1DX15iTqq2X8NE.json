@@ -1,12 +1,12 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\n",
-  "num_followers": 16977,
+  "num_followers": 16983,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTdmN2Y3OGY5ZmY2OGUxZGJmNDU4Y2E5MDFiZTE1Mzg5ZWIwMDY2",
+  "snapshot_id": "MCwxMWVkOTY0MzA0NWJlNzg1YjEzMzMwNjc3ZWMyNGIyZjQzOTNiZGFi",
   "tracks": [
     {
       "added_at": "2023-09-07 18:34:42",
@@ -171,26 +171,6 @@
     {
       "added_at": "2023-09-07 18:34:42",
       "album": {
-        "name": "\u0623\u0647\u0644 \u0627\u0644\u0639\u0645\u0627\u0631 (feat. Ali Naseraldeen)",
-        "url": "https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS"
-      },
-      "artists": [
-        {
-          "name": "Esaam Satti",
-          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
-        },
-        {
-          "name": "Ali Naseraldeen",
-          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
-        }
-      ],
-      "duration_ms": 227842,
-      "name": "\u0623\u0647\u0644 \u0627\u0644\u0639\u0645\u0627\u0631 (feat. Ali Naseraldeen)",
-      "url": "https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv"
-    },
-    {
-      "added_at": "2023-09-07 18:34:42",
-      "album": {
         "name": "A 249 Experience, Vol. 1",
         "url": "https://open.spotify.com/album/5aPoFtmnkmYctV1f1vlVfI"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 207278,
       "name": "Dead Body",
       "url": "https://open.spotify.com/track/3uoCwqVCa7AjnHZHHliRxp"
+    },
+    {
+      "added_at": "2023-09-07 18:34:42",
+      "album": {
+        "name": "\u0623\u0647\u0644 \u0627\u0644\u0639\u0645\u0627\u0631 (feat. Ali Naseraldeen)",
+        "url": "https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS"
+      },
+      "artists": [
+        {
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
+        {
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
+        }
+      ],
+      "duration_ms": 227842,
+      "name": "\u0623\u0647\u0644 \u0627\u0644\u0639\u0645\u0627\u0631 (feat. Ali Naseraldeen)",
+      "url": "https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv"
     },
     {
       "added_at": "2023-09-07 18:34:42",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-09-07 18:34:42",
       "album": {
-        "name": "The King Of Sudanese Jazz (Habibi Funk 013)",
-        "url": "https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG"
+        "name": "MaMuhim",
+        "url": "https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1"
       },
       "artists": [
         {
-          "name": "Sharhabil Ahmed",
-          "url": "https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq"
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Argos Farfish",
-      "url": "https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5"
+      "duration_ms": 223266,
+      "name": "MaMuhim",
+      "url": "https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM"
     },
     {
       "added_at": "2023-09-07 18:34:42",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-09-07 18:34:42",
       "album": {
-        "name": "MaMuhim",
-        "url": "https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1"
+        "name": "The King Of Sudanese Jazz (Habibi Funk 013)",
+        "url": "https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG"
       },
       "artists": [
         {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+          "name": "Sharhabil Ahmed",
+          "url": "https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq"
         }
       ],
-      "duration_ms": 223266,
-      "name": "MaMuhim",
-      "url": "https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM"
+      "duration_ms": 278000,
+      "name": "Argos Farfish",
+      "url": "https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5"
     },
     {
       "added_at": "2023-09-07 18:34:42",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-09-07 18:34:42",
       "album": {
-        "name": "Sudaniyat",
-        "url": "https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5"
-      },
-      "artists": [
-        {
-          "name": "Rasha",
-          "url": "https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls"
-        }
-      ],
-      "duration_ms": 387902,
-      "name": "Azara Alhai",
-      "url": "https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3"
-    },
-    {
-      "added_at": "2023-09-07 18:34:42",
-      "album": {
         "name": "Kandaka",
         "url": "https://open.spotify.com/album/3HWMN3fMzjLCmHlbJYybdH"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 181160,
       "name": "Kandaka",
       "url": "https://open.spotify.com/track/7GiLIZ1JNiq2EAzlI5pNXM"
+    },
+    {
+      "added_at": "2023-09-07 18:34:42",
+      "album": {
+        "name": "Sudaniyat",
+        "url": "https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5"
+      },
+      "artists": [
+        {
+          "name": "Rasha",
+          "url": "https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls"
+        }
+      ],
+      "duration_ms": 387902,
+      "name": "Azara Alhai",
+      "url": "https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3"
     },
     {
       "added_at": "2023-09-07 18:34:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-07 18:34:42",
       "album": {
-        "name": "Ghadara",
-        "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
-      },
-      "artists": [
-        {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
-        }
-      ],
-      "duration_ms": 182970,
-      "name": "Ghadara",
-      "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
-    },
-    {
-      "added_at": "2023-09-07 18:34:42",
-      "album": {
         "name": "Muslims and Christians (Habibi Funk 008)",
         "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 391000,
       "name": "Taban Ahwak",
       "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
+    },
+    {
+      "added_at": "2023-09-07 18:34:42",
+      "album": {
+        "name": "Ghadara",
+        "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "Ghadara",
+      "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
     },
     {
       "added_at": "2023-09-07 18:34:42",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-09-07 18:34:42",
       "album": {
-        "name": "Sit Al Banat (feat. Sheme)",
-        "url": "https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz"
-      },
-      "artists": [
-        {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
-        },
-        {
-          "name": "Sheme",
-          "url": "https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD"
-        }
-      ],
-      "duration_ms": 206424,
-      "name": "Sit Al Banat (feat. Sheme)",
-      "url": "https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw"
-    },
-    {
-      "added_at": "2023-09-07 18:34:42",
-      "album": {
         "name": "TARAT ALTAYARA",
         "url": "https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 225436,
       "name": "Silsila",
       "url": "https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5"
+    },
+    {
+      "added_at": "2023-09-07 18:34:42",
+      "album": {
+        "name": "Sit Al Banat (feat. Sheme)",
+        "url": "https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        },
+        {
+          "name": "Sheme",
+          "url": "https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD"
+        }
+      ],
+      "duration_ms": 206424,
+      "name": "Sit Al Banat (feat. Sheme)",
+      "url": "https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw"
     },
     {
       "added_at": "2023-09-07 18:34:42",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-09-07 18:34:42",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/6HOywAUSITHmBdCSOIFjga"
-      },
-      "artists": [
-        {
-          "name": "Tageel",
-          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/15y6KCjCHdmOsgAdVgXEk9"
-    },
-    {
-      "added_at": "2023-09-07 18:34:42",
-      "album": {
         "name": "Blue - COLORS Sudan",
         "url": "https://open.spotify.com/album/654DDiRWyseI6jGG3Wq7k1"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 166838,
       "name": "Blue - COLORS Sudan",
       "url": "https://open.spotify.com/track/1OdkisCZUpGjqRIEOCVF5X"
+    },
+    {
+      "added_at": "2023-09-07 18:34:42",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/6HOywAUSITHmBdCSOIFjga"
+      },
+      "artists": [
+        {
+          "name": "Tageel",
+          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/15y6KCjCHdmOsgAdVgXEk9"
     },
     {
       "added_at": "2023-09-07 18:34:42",

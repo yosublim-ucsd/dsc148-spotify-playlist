@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,241 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,284 likes - 174 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 5 | [23 Minutes in Brussels](https://open.spotify.com/track/2ArusOBCO5xbJV6QlreriJ) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [Penthouse](https://open.spotify.com/album/4zTve3KmaKstuT61AyoGjV) | 6:40 |
 | 6 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 |
 | 7 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 |
-| 8 | [Televised Mind](https://open.spotify.com/track/3SUNHWszXHmCx0J668tqq1) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3) | 4:10 |
+| 8 | [Televised Mind](https://open.spotify.com/track/3rq8wrt867MobyQuum2TBp) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/5uvoX0fFiT1QFpZXntsI3j) | 4:10 |
 | 9 | [Psyche](https://open.spotify.com/track/5a4YKJhPJcb5dz9V3Fq4Hc) | [The Jimmy Castor Bunch](https://open.spotify.com/artist/7E5taE9LniGvMzEHpiOupV) | [It's Just Begun](https://open.spotify.com/album/1Zcz8zvX1SbUh7S99ezRgq) | 4:27 |
 | 10 | [Rated X](https://open.spotify.com/track/6blZRNsvbgmYyIWioPwh4b) | [Psychic Mirrors](https://open.spotify.com/artist/7wTTRevwI9A3odMw7MWnmh) | [Nature of Evil](https://open.spotify.com/album/7l4awFKY9Zd2lPzNfPiRt9) | 4:19 |
 | 11 | [Cheated Hearts](https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:58 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MCw0YzU5MDliOWVjNGM2MDQzMThjYjc2YmE5MGZjNTRkMGMxN2IxMWQz`
+Snapshot ID: `MCw5MDRmYTM5NGNhYWM2NWQ3NjNkYWVlMzJlMDkyZmI3Mzk0MTcyYTZj`

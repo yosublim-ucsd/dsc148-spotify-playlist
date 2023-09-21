@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 
 > Gentle Ambient piano to help you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,080,055 likes - 242 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,081,065 likes - 276 songs - 13 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,5 +250,39 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 | 240 | [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 |
 | 241 | [Reappearance](https://open.spotify.com/track/381txcpzL73JjcdV2690sm) | [Spacetactular](https://open.spotify.com/artist/7FQhluCKlC5UBRvkodPl8m) | [Reappearance](https://open.spotify.com/album/0O2ZiFlvME9d031RNbZJqp) | 2:02 |
 | 242 | [Northern Sirenes](https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011) | [Malie Aolani](https://open.spotify.com/artist/0MHLh3lEKY42exyifjlDbf) | [Northern Sirenes](https://open.spotify.com/album/02yNGBTR9KMkk6iBlbsuxZ) | 2:09 |
+| 243 | [Chimaera](https://open.spotify.com/track/1zgPNzEnadYfnpkFnRYlvF) | [Obie Moody](https://open.spotify.com/artist/0hUb5NGZsfOekZxvBvySRS) | [Chimaera](https://open.spotify.com/album/5c0CFUAJszNFo5PrwXnQB3) | 2:54 |
+| 244 | [It Peaks in the Night](https://open.spotify.com/track/3ReHDdJNQvX8uHvN2RiUlk) | [Castorum](https://open.spotify.com/artist/04RsbMw3XjQupVwFm8i18f) | [It Peaks in the Night](https://open.spotify.com/album/1CfWwkTaL3FhHMD6Sm3J2o) | 3:10 |
+| 245 | [One Drope On World](https://open.spotify.com/track/14lFQ2ennhUQyDvS7LIxB8) | [SWAMP&STAR](https://open.spotify.com/artist/3l9cGKVRvyJHWSNDOb6fd5) | [One Drope On World](https://open.spotify.com/album/1zQSTded6rxRs9eTj42mml) | 3:22 |
+| 246 | [Ambrosial](https://open.spotify.com/track/5mvgkAgmAy5BflBiGv369w) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Ambrosial](https://open.spotify.com/album/4ZH0LEwHhSJ6HsolpBRehY) | 2:42 |
+| 247 | [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 |
+| 248 | [Bliss](https://open.spotify.com/track/6CyhyoyReIuVataudR0uv8) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Elegance](https://open.spotify.com/album/3Jnn48sROmjLQe0hKqIa2P) | 3:02 |
+| 249 | [Indolent](https://open.spotify.com/track/0Cu89U3uhysu1FzAQut8Ei) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Indolent](https://open.spotify.com/album/3XN2fQiWT3TNGHVwuqNPXp) | 2:49 |
+| 250 | [Nachtelijk](https://open.spotify.com/track/1b4GQmXQ0b0zpRleotjK4M) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Nachtelijk](https://open.spotify.com/album/3oQJezv3zlpRW0tbO0epQ5) | 2:36 |
+| 251 | [Joey Tribbiant](https://open.spotify.com/track/73ndEqAclCX2fBtBLDh2oy) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Falling Star](https://open.spotify.com/album/5LkNTGn3zEhvr1F1m2QIyy) | 3:10 |
+| 252 | [Collectively](https://open.spotify.com/track/5sUoXvIj0QKfsGRAtU8NAk) | [Haraldur Bergljót](https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO) | [Collectively](https://open.spotify.com/album/4AYdn5PDrvAi9E4Qe3HIij) | 3:17 |
+| 253 | [Desear](https://open.spotify.com/track/4a20vranOH3ic2txQ463jc) | [Julia Alvarez](https://open.spotify.com/artist/1G10mtuBoefYi1F0aNfa6G) | [In Dreams](https://open.spotify.com/album/3dbqdpVgDrnCWuqHD2KRXm) | 3:07 |
+| 254 | [Demure](https://open.spotify.com/track/1uMNi0Sg9Sq0qrHS5kJWcy) | [Caleb Huber](https://open.spotify.com/artist/3gEu2oKuCuCY3HcbVLHlNW) | [Demure](https://open.spotify.com/album/48Uw5LB9ItbGl2poSXzq5q) | 2:02 |
+| 255 | [Saunter](https://open.spotify.com/track/5ksw8mq1wr8CuqvNRcKzuL) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Saunter](https://open.spotify.com/album/0UjFIOWVDjCvnPirmYiw4E) | 2:51 |
+| 256 | [Nocturnal](https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL) | [Zamphire](https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl) | [Nocturnal](https://open.spotify.com/album/0JuOM1FiY5sNZCpgetmPSH) | 2:52 |
+| 257 | [Sovande](https://open.spotify.com/track/1dJJWFg94Ogmq3aiILfwv8) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Sovande](https://open.spotify.com/album/1mnQAVjKz6Tjh001npCgKw) | 2:27 |
+| 258 | [Valour](https://open.spotify.com/track/0CWQ7BSvB1LRY1CGZGQahh) | [Amara Issawi](https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r) | [Valour](https://open.spotify.com/album/39jXvyGezU2tSWgQc6VTao) | 3:03 |
+| 259 | [Crimson Skies](https://open.spotify.com/track/4RDswM1o8ulgXwj4zh1qVb) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Crimson Skies](https://open.spotify.com/album/0I0iTRLRdj9uU8I8TKUIKh) | 3:11 |
+| 260 | [Remedial](https://open.spotify.com/track/5bQQyxb1iyBtWQMauCWPj5) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Remedial](https://open.spotify.com/album/2v3z3P2GckZOwEyNzt5YvG) | 2:15 |
+| 261 | [Virtigo](https://open.spotify.com/track/2aBV08ttf3ku43AQ2KWsgO) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [Virtigos](https://open.spotify.com/album/2UYwyV3DjoyWFguscBHtTa) | 3:10 |
+| 262 | [Especial](https://open.spotify.com/track/6l7WoPzesqiAO6MV4s1Xsc) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Especial](https://open.spotify.com/album/0CEmX2gNW0VYv6gjgC11kD) | 2:37 |
+| 263 | [Feelstora](https://open.spotify.com/track/03XAiZp5HVuwqxafhc2LCC) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Feelstora](https://open.spotify.com/album/7aHse6DPzmFYPAe4Om6MFW) | 3:26 |
+| 264 | [Falling Slowly](https://open.spotify.com/track/24V8enhnywr1fyy2msnQfu) | [Xiliah Roth](https://open.spotify.com/artist/47PP7w0Qi4HaeIQgWPEW25) | [Yiello](https://open.spotify.com/album/2KpkJdTYL35sdjvEPnasY4) | 4:12 |
+| 265 | [Arid Dream](https://open.spotify.com/track/4QStzOnmEl00iAnWuhlqXM) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Arid Dream](https://open.spotify.com/album/0MOK1Wxkbd4MTD86Uwb2zF) | 2:51 |
+| 266 | [Goa Nova](https://open.spotify.com/track/5wOcMlOLztxvP8EtoUIgqj) | [magic air\_](https://open.spotify.com/artist/4RgUVFZKgZjBTLoEr4nVhC) | [Time To See](https://open.spotify.com/album/23NMoQoPwXeQlGpB1q2zM2) | 3:18 |
+| 267 | [Colors Of Tomorrow](https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b) | [Camilento](https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR) | [Tranquilidad](https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG) | 3:30 |
+| 268 | [juu](https://open.spotify.com/track/55nogKh6Ns5mO0PaEpZPrv) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [juu](https://open.spotify.com/album/5pmfLhKpvk8KmNqA5ayiUq) | 3:21 |
+| 269 | [Colour Me](https://open.spotify.com/track/0uy2agXCETXM1UVxAwNAhl) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [My Armour](https://open.spotify.com/album/6cAAs8PhZKCoR8CplwW8HG) | 3:10 |
+| 270 | [A Peaceful Place](https://open.spotify.com/track/2a0W014tci7C4cZTOnD1Xc) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [A Peaceful Place](https://open.spotify.com/album/5lmAvBlenIM7MOOhIuj035) | 2:09 |
+| 271 | [Amber](https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Into The Dawn](https://open.spotify.com/album/2kxRac2duA4h9OyKbBckn1) | 3:22 |
+| 272 | [Cloudless](https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS) | [Devi Rubio](https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG) | [Cloudless](https://open.spotify.com/album/6VN9f0B6nSqzvulxsupGWV) | 3:44 |
+| 273 | [Evolving Dreams](https://open.spotify.com/track/6uFpwigsKJ1gDTaDjeabIN) | [Ty Davies](https://open.spotify.com/artist/49dSIJwjDHzmOfx4io0R49) | [Evolving Dreams](https://open.spotify.com/album/0LaiKUH0fPko6Rg84ZMAbt) | 3:07 |
+| 274 | [Distant Dreams](https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Distant Dreams](https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB) | 3:59 |
+| 275 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 |
+| 276 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 |
 
-Snapshot ID: `MCw5MzFlMjBjOTRmNzc2YjM0YmFlNDk5Mjk5NmE2MjIwY2M3MWZjNmUz`
+Snapshot ID: `MCwxMjEwZmViODVjY2M1NzNmZDJjYjU3OWUyMzk2MzBhMDM2ZDRlYTcz`

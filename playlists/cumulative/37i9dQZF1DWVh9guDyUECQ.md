@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-331 songs - 19 hr 30 min
+332 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Sin Ti](https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [On \(Deluxe\)](https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H) | 3:26 | 2022-08-27 |  |
 | [Sin Ti](https://open.spotify.com/track/7eREmZANh3c3m873ZvwdsA) | [Rammy Dread](https://open.spotify.com/artist/3S73tueP56VuafcnCEdJQW), [Baby Tone](https://open.spotify.com/artist/5GNlWMKgNoYVf8JKscKW3C) | [Sin Ti](https://open.spotify.com/album/5VUYp8OD0IBYftJI4vruyx) | 3:19 | 2022-04-29 | 2022-07-29 |
 | [Socórreme](https://open.spotify.com/track/08GjhkTcXOE7PElOfglIRO) | [Soly](https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ) | [Uno Más](https://open.spotify.com/album/0pjWvwnqnS7N2Zx8L0bAwp) | 3:14 | 2021-11-05 | 2022-04-18 |
+| [Solita](https://open.spotify.com/track/5OMj7i9Eeuh2kolJAvlZLQ) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6), [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Solita](https://open.spotify.com/album/009mTdnGfMQGaPYZq3UFfl) | 3:38 | 2022-08-27 |  |
 | [Solita](https://open.spotify.com/track/7iAeBmzxRne7jjkefsHhdb) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6), [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Solita](https://open.spotify.com/album/5vFysXTDefXh5osKvlOHxi) | 3:38 | 2022-04-17 | 2022-07-28 |
 | [Solo](https://open.spotify.com/track/3srIgvXsZNWEVFuuFk1l1i) | [Jay Kàel](https://open.spotify.com/artist/2ZDdY9iyIBnJrdwrUq6JaP) | [Solo](https://open.spotify.com/album/3ovRV1v332dmwu1Wuw6faV) | 4:02 | 2021-11-05 | 2022-03-13 |
 | [Solo Dime](https://open.spotify.com/track/0cmYtq6ZHJ3F1GSundhS6u) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Solo Dime](https://open.spotify.com/album/1r3TlL89jgezoodXVyUbql) | 3:58 | 2021-11-05 | 2022-03-13 |
@@ -329,7 +330,7 @@
 | [Vida](https://open.spotify.com/track/52JxQo33h5RyHbrx8Iymzo) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Hope](https://open.spotify.com/album/5NcGfTjTPr24Cg8pA6MTdr) | 4:00 | 2021-11-05 | 2022-04-18 |
 | [Vine a Salvarte](https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vine a Salvarte](https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu) | 3:29 | 2022-04-17 |  |
 | [Vives en Mi](https://open.spotify.com/track/72t6yOxquHYl650CyUcFgg) | [Mr\. Fonsy](https://open.spotify.com/artist/2bt2ykTXwoOHfg8pQo5FSh), [Nativill](https://open.spotify.com/artist/4p4VojA3Mr4d6vFBqIkc4j) | [Vives en Mi](https://open.spotify.com/album/40KwN0OaizIoyiiyzzFaoH) | 2:52 | 2021-11-05 | 2022-04-18 |
-| [VIVO X TI](https://open.spotify.com/track/0leo6B5c1gGxpQamP3xoOg) | [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [VIVO X TI](https://open.spotify.com/album/4Yf25gm9RZcRuBsAvhRdWa) | 2:59 | 2022-08-27 |  |
+| [VIVO X TI](https://open.spotify.com/track/0leo6B5c1gGxpQamP3xoOg) | [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [VIVO X TI](https://open.spotify.com/album/4Yf25gm9RZcRuBsAvhRdWa) | 2:59 | 2022-08-27 | 2023-09-21 |
 | [VIVO X TI](https://open.spotify.com/track/3dEo4rRlfd4dN621weMh5j) | [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [VIVO X TI](https://open.spotify.com/album/59qDobCB7MIjEjdt2brrBL) | 2:59 | 2022-08-27 | 2022-09-24 |
 | [Vuelo](https://open.spotify.com/track/5Fkqabb3R8drUNbWRZ0zep) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Vuelo](https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV) | 2:05 | 2022-08-27 | 2023-02-01 |
 | [Wow](https://open.spotify.com/track/4GTFHPZKqpp5DcnHEtw4au) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Philippe](https://open.spotify.com/artist/6nvcn8veM0fjx3XnJGNKsk) | [Wow](https://open.spotify.com/album/0aQipxjM76FzcKVtOIF0HZ) | 3:38 | 2021-11-05 | 2022-03-19 |

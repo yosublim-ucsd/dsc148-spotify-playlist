@@ -132,7 +132,7 @@
     {
       "album": {
         "name": "War Elephant",
-        "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
+        "url": "https://open.spotify.com/album/2jMilAyC3RBmAoWr1JZ7MR"
       },
       "artists": [
         {
@@ -143,6 +143,24 @@
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 181186,
+      "name": "Baltimore Blues No. 1",
+      "url": "https://open.spotify.com/track/14irPxTJLePlTfUd9U5hWL"
+    },
+    {
+      "album": {
+        "name": "War Elephant",
+        "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
+      },
+      "artists": [
+        {
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
       "duration_ms": 181466,
       "name": "Baltimore Blues No. 1",
       "url": "https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0"

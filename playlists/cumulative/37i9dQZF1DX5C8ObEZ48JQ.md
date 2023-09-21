@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-507 songs - 1 day 1 hr 54 min
+508 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,8 @@
 | [Undercover](https://open.spotify.com/track/5Uy3sc1qolZIq16vURqlH7) | [HSKE](https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [Polaris](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [Undercover](https://open.spotify.com/album/72JE0lfLPQLzA0wVkJqU6B) | 4:02 | 2023-06-27 | 2023-07-27 |
 | [Used To You](https://open.spotify.com/track/10ijm7q9TyoUgHcL9pSQo3) | [Epic\_SA\_kid](https://open.spotify.com/artist/2keK4PtvEnJPbkbnsB7Y5p) | [Used To You](https://open.spotify.com/album/1CTBO7MbgAHSGQnELbwakR) | 3:37 | 2023-03-29 | 2023-06-06 |
 | [Vaccine \(Second Dose\)](https://open.spotify.com/track/0b8b6BaClh8MFC6VdBfjAV) | [Molazzi](https://open.spotify.com/artist/4bzbJTrjsMHZX2ScfRMtfB), [Smeezbeat](https://open.spotify.com/artist/5BZA1Md7HZnTq60rH5pwix), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ) | [Vaccine \(Second Dose\)](https://open.spotify.com/album/3PZjhJmjwLcw3DGaAv41Zz) | 5:30 | 2022-09-30 | 2022-10-29 |
-| [Vanity](https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq) | 2:32 | 2023-07-26 |  |
+| [Vanity](https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq) | 2:32 | 2023-07-26 | 2023-09-21 |
+| [Vanity](https://open.spotify.com/track/6J2xVnZsEgnXyl2hzQawRd) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/6tc7crU7Bal4sLhy5UIq4B) | 2:32 | 2023-08-18 |  |
 | [Vibrate](https://open.spotify.com/track/4HThzBtkiSPncs7d3kEnTp) | [Lynx](https://open.spotify.com/artist/2CRAIABBJmFohN8CgSyWp2), [DSL](https://open.spotify.com/artist/0VmssGpE5BEED12qn6DJt5), [Maya Blu](https://open.spotify.com/artist/3CppyKARAo3Uldd5ZA04ye) | [Coming Soon](https://open.spotify.com/album/3F2XTxYypkPziaKfYcL0he) | 2:21 | 2023-01-25 | 2023-02-23 |
 | [Vibration](https://open.spotify.com/track/69N20fDZagMeAx5dWi4zRE) | [Basiil](https://open.spotify.com/artist/1KOeTyRjoGl0MPu4NRklMV) | [Vibration](https://open.spotify.com/album/6JYkMYw3zNBTuNHsBnlVA8) | 2:50 | 2023-06-27 | 2023-07-27 |
 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 | 2023-02-22 | 2023-03-30 |

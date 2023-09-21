@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,010 likes - 120 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,173 likes - 120 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 39 | [Journey \(feat\. Kronos Quartet\)](https://open.spotify.com/track/5P68xT9dqkleXVVtdIJPXo) | [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X), [Skye Lewin](https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1), [C Paul Johnson](https://open.spotify.com/artist/1IMQj6EtlmfuEDQI1Mh7HK), [Rotem Moav](https://open.spotify.com/artist/5EzR3mljAoKai6zZePlqpC), [Pieter Schlosser](https://open.spotify.com/artist/7E6yVUVRGff9KfjPGkpMc4), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Destiny 2 \(Original Soundtrack\)](https://open.spotify.com/album/6EuwzfvfcEA1X8fODjFhhJ) | 7:17 |
 | 40 | [Super Mario Bros: Theme](https://open.spotify.com/track/5sDx7tlKik6y6k2wfCnrxL) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 4:12 |
 | 41 | [Start a Cult](https://open.spotify.com/track/1ISexq6FLytZxcEqvn7LOk) | [River Boy](https://open.spotify.com/artist/0jyJkJaH4nFWPopjeIYRlA) | [Cult of the Lamb \(Original Soundtrack\)](https://open.spotify.com/album/6uFdRK2clKYng68ThOFDIE) | 4:59 |
-| 42 | [Monkey Island Theme](https://open.spotify.com/track/6xgicG9zxRtZnauyqurAuW) | [Michael Land](https://open.spotify.com/artist/1nKFEqMCm9vlJXNFn5ruS8) | [Return to Monkey Island \(Original Video Game Soundtrack\)](https://open.spotify.com/album/4XB1SVZfzNnMCybZQbC3aR) | 1:44 |
+| 42 | [Monkey Island Theme](https://open.spotify.com/track/6xgicG9zxRtZnauyqurAuW) | [Michael Z\. Land](https://open.spotify.com/artist/5vlxfbCfKvnlesc4rE3w2S) | [Return to Monkey Island \(Original Video Game Soundtrack\)](https://open.spotify.com/album/4XB1SVZfzNnMCybZQbC3aR) | 1:44 |
 | 43 | [Quiet Water](https://open.spotify.com/track/0gt76DuMx7F3UZJPg7jcC5) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:32 |
 | 44 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 |
 | 45 | [Super Mario Galaxy: Gusty Garden Galaxy](https://open.spotify.com/track/05XPxcgHp4I4CFlOhMnskS) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Mahito Yokota](https://open.spotify.com/artist/3s9zTij1nIF3KY1G6BG1WZ), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 3:49 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 119 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 120 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `MCw1ZTQ5ZTcyMzdhODJlNjNmZDlkMDc0MTBkZWIyZDUyZTYwZWQ5OTBi`
+Snapshot ID: `MCw1ZDdmYTJkMmU1YWVmNzcwOTc0ZDVlMjA4MWZmYzA0OTZlNmFiZTFi`

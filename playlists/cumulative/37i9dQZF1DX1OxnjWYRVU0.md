@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-440 songs - 19 hr 27 min
+441 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [I Wanna Dance With Somebody \- UK Edit](https://open.spotify.com/track/4NxxwRPkNOgwRk6ACKrGs9) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [I Wanna Dance With Somebody](https://open.spotify.com/album/4VKYCdBi64IdV1rLck9mLS) | 2:14 | 2022-03-17 |  |
 | [I Wanna Go](https://open.spotify.com/track/17ijhkx4lfVk4fxJJssRQn) | [Sam Giancana](https://open.spotify.com/artist/6jJ3jEaGTuUHfBI6ndwAnI), [Milan Gavris](https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ), [Frank Moody](https://open.spotify.com/artist/0ZL2OZFfHk4BiwnnPKsD3e) | [I Wanna Go](https://open.spotify.com/album/6j1jtymMGSUQVNnbi05FeW) | 2:37 | 2022-09-01 |  |
 | [I Wanna Know What Love Is](https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD) | [I Wanna Know What Love Is](https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X) | 2:51 | 2022-01-13 |  |
-| [I Want It That Way](https://open.spotify.com/track/5XWi1A4aPZsK9qeg7VtQHC) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Meqq](https://open.spotify.com/artist/3YKi4d58HjTvTLAhykgr4T) | [I Want It That Way](https://open.spotify.com/album/7DwRV7UC4wCTtWsDvEDa94) | 2:13 | 2022-01-13 |  |
+| [I Want It That Way](https://open.spotify.com/track/3aCfUkxaUGOABeTBNyn5Fa) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Meqq](https://open.spotify.com/artist/3YKi4d58HjTvTLAhykgr4T) | [I Want It That Way](https://open.spotify.com/album/4GDK11e0KpkHHGxVMlNyy2) | 2:13 | 2023-06-29 |  |
+| [I Want It That Way](https://open.spotify.com/track/5XWi1A4aPZsK9qeg7VtQHC) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Meqq](https://open.spotify.com/artist/3YKi4d58HjTvTLAhykgr4T) | [I Want It That Way](https://open.spotify.com/album/7DwRV7UC4wCTtWsDvEDa94) | 2:13 | 2022-01-13 | 2023-09-21 |
 | [I Want You](https://open.spotify.com/track/5jmfOzBoKcvqWIDLkwBFoX) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [I Want You](https://open.spotify.com/album/5KbNJqjMgIc7PstTuFrkcE) | 3:00 | 2022-03-17 |  |
 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 | 2022-01-13 |  |
 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 | 2022-05-13 |  |

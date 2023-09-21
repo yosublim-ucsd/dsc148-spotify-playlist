@@ -155,6 +155,28 @@
     },
     {
       "album": {
+        "name": "Bowling For Sleep - Lullaby covers of Bowling For Soup songs",
+        "url": "https://open.spotify.com/album/0d6QkChwFDYRah6JwByLN2"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        },
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307408,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/2EDAP6kj1U5UQudx6x5Ao1"
+    },
+    {
+      "album": {
         "name": "2002",
         "url": "https://open.spotify.com/album/1zAVgTm4FHv0QYhrgtqHBy"
       },
@@ -318,6 +340,32 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "album": {
+        "name": "KAYTRAMIN\u00c9 (Instrumentals)",
+        "url": "https://open.spotify.com/album/6qYJO4dmiWCqILHweWVmUf"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188851,
+      "name": "4EVA - Instrumental",
+      "url": "https://open.spotify.com/track/6Lg6MTVkZ4KqSeXaI2JX4F"
     },
     {
       "album": {
@@ -812,9 +860,9 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 220408,
-      "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
+      "name": "Another One Of Me",
       "url": "https://open.spotify.com/track/3vAdBZvbr3bFBiSLT4iVap"
     },
     {
@@ -842,7 +890,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. The Weeknd, French Montana and 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
@@ -970,7 +1018,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 150000,
       "name": "Asleep",
       "url": "https://open.spotify.com/track/3U4CpnJrvtVacXGhVhY32y"
@@ -2304,7 +2352,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 224800,
       "name": "Christie Rd. - Outtake",
       "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
@@ -2884,7 +2932,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 482744,
       "name": "Denardirn",
       "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
@@ -4292,7 +4340,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 172653,
       "name": "Fingerblast",
       "url": "https://open.spotify.com/track/2EJQGBhREOhahAghqchmKt"
@@ -4310,7 +4358,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 172653,
       "name": "Fingerblast",
       "url": "https://open.spotify.com/track/7pZffCI5RzP8ThC8mNhyxx"
@@ -6789,6 +6837,24 @@
     },
     {
       "album": {
+        "name": "Australia Stops",
+        "url": "https://open.spotify.com/album/6GtcJTPQEKWoFDtXLrgWbh"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204080,
+      "name": "Keep It Dark",
+      "url": "https://open.spotify.com/track/6p3Kgt3SwEMajZmjnJFjAx"
+    },
+    {
+      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -7074,7 +7140,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 175020,
       "name": "Le d\u00e9part",
       "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
@@ -7450,7 +7516,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 370653,
       "name": "Loved Ones",
       "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
@@ -9174,7 +9240,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 297624,
       "name": "Origin Story",
       "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
@@ -9240,7 +9306,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 218794,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
@@ -9994,7 +10060,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 118436,
       "name": "Rebuke - Instrumental",
       "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
@@ -10300,7 +10366,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 216226,
       "name": "Rustin' In The Rain",
       "url": "https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9"
@@ -11252,7 +11318,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 226203,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
@@ -12452,7 +12518,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "the kids aren't alright - lofi",
       "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
@@ -12558,7 +12624,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 176840,
       "name": "The Romi Poop Song",
       "url": "https://open.spotify.com/track/03wPWydpPuUv28DrRpXV9I"
@@ -13724,7 +13790,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 169773,
       "name": "Walking the Dog (demo) - Outtake",
       "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"

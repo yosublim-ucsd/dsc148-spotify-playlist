@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Nicholas Craven
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,767 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,803 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Switch Up](https://open.spotify.com/track/0qebBuycxYSVCtVbt94HMe) | [Will Ryte](https://open.spotify.com/artist/5kyrkoHcYHl2Hf74KB4fVw), [Lil Bobby](https://open.spotify.com/artist/4pf1mHN4rc9gfM5XlURlAk) | [Switch Up](https://open.spotify.com/album/2BibC3AZQSPJhSZQ2U7IJl) | 1:50 |
 | 50 | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/album/0kFq7Bvlr9eiE3Za6kx1Ub) | 2:52 |
 
-Snapshot ID: `MCxiMjI0YWQ3YmQyY2NkZGVjZGZkODk3YjlmZmE1NGYyODlkNzA5MTI4`
+Snapshot ID: `MCwyNTdlOGViMTM5MWQ3NDIyZTY5NDUzOTY5ODU2N2U3NTYyYmM1ZWE3`

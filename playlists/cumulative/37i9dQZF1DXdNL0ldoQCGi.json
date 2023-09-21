@@ -582,6 +582,32 @@
     {
       "album": {
         "name": "Ai Que Delicia o Ver\u00e3o",
+        "url": "https://open.spotify.com/album/3bRgZIbKDiHwzl7RWg4PuJ"
+      },
+      "artists": [
+        {
+          "name": "Mts No Beat",
+          "url": "https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7"
+        },
+        {
+          "name": "Roni Bruno",
+          "url": "https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1"
+        },
+        {
+          "name": "Chic\u00e3o do Piseiro",
+          "url": "https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115992,
+      "name": "Ai Que Delicia o Ver\u00e3o",
+      "url": "https://open.spotify.com/track/4Tf8I1nZMEwpu2G5UuPJvF"
+    },
+    {
+      "album": {
+        "name": "Ai Que Delicia o Ver\u00e3o",
         "url": "https://open.spotify.com/album/3deh2ncfGFYC8CKzpbQFCd"
       },
       "artists": [
@@ -604,7 +630,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 115992,
       "name": "Ai Que Delicia o Ver\u00e3o",
       "url": "https://open.spotify.com/track/0clo2HfL2gpiEpiE5mA3q5"

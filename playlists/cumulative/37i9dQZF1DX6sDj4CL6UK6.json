@@ -4338,7 +4338,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 151531,
       "name": "Unicorn and the Sheep",
       "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
@@ -4726,6 +4726,28 @@
       "duration_ms": 232400,
       "name": "X Marks The Spot",
       "url": "https://open.spotify.com/track/5Uaq6e7RCXzL2WKI6VCGdz"
+    },
+    {
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/47iSjOJuZ5eiW4KoQyWEgx"
+      },
+      "artists": [
+        {
+          "name": "Chirag Todi",
+          "url": "https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE"
+        },
+        {
+          "name": "Anubha Kaul",
+          "url": "https://open.spotify.com/artist/6Uc6gvNu6F0FOnnwU8M0pS"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208617,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/0B8P0iWpmpbOB8BuUagGZZ"
     },
     {
       "album": {

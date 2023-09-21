@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. De Parranda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,984 likes - 125 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,100 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [Mi Persona Favorita](https://open.spotify.com/track/0SxuYEU9W9gmiQfSacWg7X) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mi Persona Favorita](https://open.spotify.com/album/4pF5NjEqkWXMPSbhNZWuPZ) | 2:49 |
 | 125 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 |
 
-Snapshot ID: `MCw2ZmRmZDJkMDU3NWQxOGU5ODc1MjU1NjQ1MmVlMjlmYmNkY2Y4NjI2`
+Snapshot ID: `MCxkYTIzNmViZjg3NmYwZDM4NGRkNTc3ZDE2ZjRiNmE1ZjdiZGY3ZTQz`

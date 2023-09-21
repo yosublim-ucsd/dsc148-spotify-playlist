@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Fresno
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,760 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,762 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 21 | [Simplifica](https://open.spotify.com/track/0XZYEobMACkaODDYZnuU3k) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Cuidado Você](https://open.spotify.com/album/1pjWYLqFoKnkenPkvpM6pK) | 3:04 |
 | 22 | [NÃO VAMOS DESISTIR](https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [NÃO VAMOS DESISTIR](https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc) | 4:05 |
 | 23 | [Pode Crer \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/1HVRQk7cVPqS0YZ8WjCklH) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Tianastácia \(Sonas Sessions\)](https://open.spotify.com/album/4o5FcO4auHxVjHbMPfBzns) | 2:26 |
-| 24 | [Só uma Canção \- Ao Vivo](https://open.spotify.com/track/7oAfauLSS67jWrpQ6ZA48y) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Acústico 20 Anos \- O Amor Não Tem Inimigos, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0KXyi1j3tcgzDeNZwGlQ9I) | 2:45 |
+| 24 | [Só uma Canção \- Ao Vivo](https://open.spotify.com/track/7oAfauLSS67jWrpQ6ZA48y) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Acústico 20 Anos \- O Amor Não Tem Inimigos, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0KXyi1j3tcgzDeNZwGlQ9I) | 2:46 |
 | 25 | [NINGUÉM SEGURA A GENTE](https://open.spotify.com/track/1IY7R5UlUoBnntviHe1Iyx) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [NINGUÉM SEGURA A GENTE](https://open.spotify.com/album/2rhWYBZjwNNftb8BXJ1ExP) | 1:21 |
 | 26 | [FIM DO FIM](https://open.spotify.com/track/6Pk8lHNRHkuD1o0Say0o4l) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [JARDINEIROS](https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD) | 2:15 |
 | 27 | [EU NÃO TÔ LEGAL](https://open.spotify.com/track/27iTXxl8tuMNdK7zolwemN) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [SUCESSO A QUALQUER CUSTO](https://open.spotify.com/album/6iVwmn3dr07JEPqNXtVwPr) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Berrini](https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV) | [Molho Negro](https://open.spotify.com/artist/51aX6xmdT0iMI1FNCONTzR) | [Berrini](https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N) | 3:09 |
 | 75 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 
-Snapshot ID: `MCw4Y2I3MjI2NDk4NjE1OTFkODhmMzI2ZjJmZGMzZDQ4ZGUwNWYxMjU1`
+Snapshot ID: `MCw3YTM4ZGQ3MWRhYmQ0NzYxMGU1NzNjYjMyODg4NGEzNTQyM2ZjNDE3`

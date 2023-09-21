@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,351 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,370 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Legend \- Instrumental](https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh) | 3:38 |
 | 100 | [Crushing](https://open.spotify.com/track/7FHelgV9xeITVJjKwGUzOm) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Crushing](https://open.spotify.com/album/1Dge2M4uqmtw9v2z3Yy10S) | 3:34 |
 
-Snapshot ID: `MCw2NjFlZGFjMDI1YjlkNmM3NTViZjY3MTEwN2VmN2Y2M2E1YzNhNWJh`
+Snapshot ID: `MCw2NDk2NDlkNDExZjA3YWRjMTIxODc3MWJiYzBmNjczNDgwNTIzOGYw`

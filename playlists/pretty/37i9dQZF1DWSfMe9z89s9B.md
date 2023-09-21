@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > Leaders of the new school...Alternative R&B\. Cover: Jamila Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,296 likes - 150 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,311 likes - 150 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 149 | [See You](https://open.spotify.com/track/1laov0eTmYzYLbP01ChrGe) | [Erin Kaith](https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG) | [See You](https://open.spotify.com/album/2hIkmuhxnh4q3sBr45kohd) | 2:17 |
 | 150 | [lost and found](https://open.spotify.com/track/0bcmVu5QWuGSFPXKGTsMrM) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [3 Typa Nights](https://open.spotify.com/album/2Na7pVtwC8nSmU3lBkizub) | 2:24 |
 
-Snapshot ID: `MCw3OGRjZDJiYjc3YmJkYzQwMmFjMDNhMGNmZmI5ZjdhZDUyZDI2MWVl`
+Snapshot ID: `MCw0ZGEzZTZjNWEyNzBiMTQ1MjI4NDQ4YmY4NjdjMmU2MTNhMzI3MzZl`

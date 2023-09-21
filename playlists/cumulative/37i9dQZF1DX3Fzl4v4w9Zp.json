@@ -6194,10 +6194,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 303836,
       "name": "Parted Ways (Acoustic Version)",
       "url": "https://open.spotify.com/track/4Xt5uvZALmrSKxcKNySPag"
+    },
+    {
+      "album": {
+        "name": "Arrow (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ur0y0jEG0KuqshNyju035"
+      },
+      "artists": [
+        {
+          "name": "Heartless Bastards",
+          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303836,
+      "name": "Parted Ways - Acoustic Version",
+      "url": "https://open.spotify.com/track/6xySuu99uUYsziFbBxSLYQ"
     },
     {
       "album": {

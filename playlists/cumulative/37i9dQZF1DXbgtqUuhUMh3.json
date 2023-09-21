@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 162000,
       "name": "El Raasha",
       "url": "https://open.spotify.com/track/1hnrSD9KAY06hOrpJbylAe"
@@ -7486,6 +7486,24 @@
       "duration_ms": 232191,
       "name": "Welaane",
       "url": "https://open.spotify.com/track/3yI0oj88v89SblbqDJyCvK"
+    },
+    {
+      "album": {
+        "name": "Wesh El Sobh",
+        "url": "https://open.spotify.com/album/3k7yZzYzPcQltnsWnbh8JW"
+      },
+      "artists": [
+        {
+          "name": "Lamia Jamel",
+          "url": "https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207058,
+      "name": "Wesh El Sobh",
+      "url": "https://open.spotify.com/track/07XdJBtcMX89IbRmVyMQ7Q"
     },
     {
       "album": {

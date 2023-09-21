@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17242,
+  "num_followers": 17249,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmU3OTFkMTkzYWQ0NmQ2MDA3M2IxOTNjNDJmN2ZhNmQ1NWZiMjk2",
+  "snapshot_id": "MCxhNGQ1ZWEyNDM5ZDJiNzgyYjVhZmJiNmYwYTQwZTY1ZDk3MWZkYzlm",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -555,30 +555,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Teto Baixo",
-        "url": "https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q"
-      },
-      "artists": [
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Jonas Bento",
-          "url": "https://open.spotify.com/artist/48Oxa6B9euthfl9VTQsArN"
-        }
-      ],
-      "duration_ms": 263078,
-      "name": "Raplord",
-      "url": "https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Nao Sei Mais",
         "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 145185,
       "name": "Nao Sei Mais",
       "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Teto Baixo",
+        "url": "https://open.spotify.com/album/2sYBOWYCJlcYoFpbpXnr5Q"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Jonas Bento",
+          "url": "https://open.spotify.com/artist/48Oxa6B9euthfl9VTQsArN"
+        }
+      ],
+      "duration_ms": 263078,
+      "name": "Raplord",
+      "url": "https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL"
     },
     {
       "added_at": "2023-03-10 03:01:00",

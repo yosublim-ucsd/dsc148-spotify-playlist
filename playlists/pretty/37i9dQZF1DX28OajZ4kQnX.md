@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,401 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,416 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 53 | [Genderera](https://open.spotify.com/track/2Doy5uupIp7I3bnDygeM6g) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX) | [Genderera](https://open.spotify.com/album/14qDGe4Lr8EROJmzTJ0nnx) | 2:51 |
 | 54 | [Blow Up](https://open.spotify.com/track/1vNfNoQklN2A7Qn4h7mJKO) | [Triggah](https://open.spotify.com/artist/0X3KWKamiMstCtGBljaikR) | [Blow Up](https://open.spotify.com/album/58n7ELafEIhHUCMSYeRnJe) | 3:47 |
 | 55 | [Ndolelele](https://open.spotify.com/track/644cjZFzNtNz5dNYwvSuH9) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH), [Sharon Sento](https://open.spotify.com/artist/0HQs6VxGr3meRHHTkvObxy) | [NDURA EP](https://open.spotify.com/album/4DWD8hAqgT9nzglxp1dVSG) | 3:23 |
-| 56 | [TEMPTED!](https://open.spotify.com/track/0IJysriTxT9Bp5iJceAVHh) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [XENONYEO](https://open.spotify.com/artist/2LWgTr7tjg9VfnLh3ZLsNk) | [I'M DONE, NEVER AGAIN!](https://open.spotify.com/album/3eBpH7vwfpP3nhCdRNIXtP) | 2:54 |
+| 56 | [TEMPTED!](https://open.spotify.com/track/5WEqt1UFhpdZaSdrnjp5I4) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [XENONYEO](https://open.spotify.com/artist/2LWgTr7tjg9VfnLh3ZLsNk) | [T3MPTED!](https://open.spotify.com/album/2AHQ2LYxqLi3OOPzqMGG81) | 2:54 |
 | 57 | [Nobody](https://open.spotify.com/track/6krUogRWd9GJTqmLX4qiGH) | [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp), [J\-Wats](https://open.spotify.com/artist/5SICeSfCoS3DTaNhNnZj94) | [Nobody](https://open.spotify.com/album/6jLFWGaIVgdgKXBIJZKkNn) | 3:43 |
 | 58 | [I Give Her Love](https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Herbert Ssensamba](https://open.spotify.com/artist/551y4ECPYt7eD0EIlew8sg) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 4:38 |
 | 59 | [Tough Timez](https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/3ml6m4oXvFut3cwmH9yrYO) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCwwMzY1ODM4ZThhMmNmMjY3YWNhZjdlYmMwMTY5N2NlNzhmNmZlZDlk`
+Snapshot ID: `MCwzOTE3MGQ3MjA4MDZlZWZiOTAyMjU4NmZiMzUxOWUwYjdlODJhZDg5`

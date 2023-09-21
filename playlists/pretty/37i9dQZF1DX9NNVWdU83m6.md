@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,885 likes - 121 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,965 likes - 121 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 107 | [Gotu Lust](https://open.spotify.com/track/5plUsigCBARJIUOU0rXO0S) | [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [Self\-Titled.](https://open.spotify.com/album/5zjTdXe19FOs1xfb30GQ2v) | 3:51 |
 | 108 | [Ornithophobia](https://open.spotify.com/track/7ltIEsCk076HtkZRJaoA9g) | [Troyka](https://open.spotify.com/artist/0BxmFQFbzdxyrUlumvE7zz) | [Ornithophobia](https://open.spotify.com/album/71i59tB4Mw5xifmg0RRIoq) | 4:56 |
 | 109 | [Kid](https://open.spotify.com/track/2u4TriIit5b2lO5S96Tenf) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big](https://open.spotify.com/album/5grWR2kxfIZorVA7y73KVR) | 7:21 |
-| 110 | [Cygnus \- Edit](https://open.spotify.com/track/3GmaX8Rq12cmCbckxSYdOO) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Cygnus](https://open.spotify.com/album/1D3iPGr8efICqZvw0iGDzX) | 4:17 |
+| 110 | [Cygnus \- Edit](https://open.spotify.com/track/1s5lu50Sv82NsKfS2iY2YF) | [Graham Costello](https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd) | [Cygnus](https://open.spotify.com/album/63FraZzI2PuLEms20LPQTB) | 4:17 |
 | 111 | [Fear Not](https://open.spotify.com/track/7FDaEE1FwngGOXeqza7mOS) | [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK), [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm) | [Fear Not](https://open.spotify.com/album/5cmOcVOWS6fJBI9jMirRlL) | 7:55 |
 | 112 | [Grains of Sand](https://open.spotify.com/track/0GeJYLm23sAnTOMKSY1JCh) | [Alberto Rigoni](https://open.spotify.com/artist/5YPN5P1LS2tcQZAPEpo0ZM), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR), [Billy Sheehan](https://open.spotify.com/artist/0GXvIHZC6fUFoclPbf7Lbm) | [Grains of Sand](https://open.spotify.com/album/0lHwf78LBAwPMDoeX8EZil) | 5:05 |
 | 113 | [Tea Champ](https://open.spotify.com/track/6AuELUc2doFfw6dG3ywwZf) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Tea Champ](https://open.spotify.com/album/58JMPYe89BGfMzJEB7KlHh) | 4:49 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 120 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 | 121 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
 
-Snapshot ID: `MCwzMzM4YjMwN2Q0ZjAyMTJlZGE5NTFiNTc0Y2I3ZWQ5YjQ3M2FlMTQ5`
+Snapshot ID: `MCxiZjkyMmY5YjAzYTlmZjlmNWJmNzIyMjYzNmQzOTQ0NjdjNWQ3YzFm`

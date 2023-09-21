@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-134 songs - 8 hr 41 min
+135 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4ch0ejqrSwJrotLroa9mXn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Daddy Waku](https://open.spotify.com/artist/19DWkWsLdFRuzN8naS8cUH), [Chantal Kashala](https://open.spotify.com/artist/5wlcoAg1EcZWqHkqo2RaTD) | [Second Nature](https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh) | 3:20 | 2023-08-25 |  |
 | [Eyes Closed](https://open.spotify.com/track/13xDNcUNMt4L9y6ckxeQJ1) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Eyes Closed](https://open.spotify.com/album/2veUMliI1AoMvBHxygyYIl) | 6:19 | 2022-08-05 |  |
 | [Eyes on Fire](https://open.spotify.com/track/5yqfGzzZ3Qk6VIarH3R6D3) | [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Eyes on Fire](https://open.spotify.com/album/3xVljo5XeygaCFRzaCbdvn) | 2:25 | 2022-08-05 |  |
+| [Feel Alive](https://open.spotify.com/track/0rA4Qzu2P7gOhnbdxUngNh) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Half Life](https://open.spotify.com/album/2TZeYGKoylpXTkHQo0BTAd) | 4:08 | 2023-09-11 |  |
 | [Feel Alive](https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Feel Alive](https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3) | 4:08 | 2022-08-05 | 2023-09-09 |
 | [Feeling High \(Lenzman Remix\)](https://open.spotify.com/track/6gs7Dy6ayB5PXEHpQxzaaZ) | [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2), [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Feeling High \(Lenzman Remix\)](https://open.spotify.com/album/3W0HtxZIUVjn04YaW4T5x0) | 4:48 | 2022-08-05 | 2023-08-12 |
 | [Feelings](https://open.spotify.com/track/6ubaO4iPmPCrtSsMkfmw9v) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [T\. Power](https://open.spotify.com/artist/6RWwgz4MtFCHzptyShPC1c) | [Diary of a Digital Soundboy](https://open.spotify.com/album/2AQvEaTftBRkdPm631O1rZ) | 4:47 | 2022-08-05 |  |
@@ -61,7 +62,7 @@
 | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/track/4L0T3usCoeUO85dJeuxbBf) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/album/2uDherRYol1u5bCpwwyklG) | 2:53 | 2023-08-25 |  |
 | [Good Times Bad Times](https://open.spotify.com/track/44nRLXNwTmTIV7Zk7lRol5) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Mosaik](https://open.spotify.com/album/1miPtr5WVeMoYFvu0RZ6Mc) | 3:52 | 2023-05-19 |  |
 | [Good to Me](https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Good to Me](https://open.spotify.com/album/46yPP8LYBsQ399RMPl39Ws) | 3:01 | 2022-08-05 |  |
-| [Got You There](https://open.spotify.com/track/2rY8KKXTr9XOMn0IdpBBXm) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [ZELAH](https://open.spotify.com/artist/3mjEt1VwTLCcCwtRQBrTTD) | [Got You There](https://open.spotify.com/album/6gCWLrdqmVVSMIC39c58l7) | 3:10 | 2023-05-19 |  |
+| [Got You There](https://open.spotify.com/track/2rY8KKXTr9XOMn0IdpBBXm) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [ZELAH](https://open.spotify.com/artist/3mjEt1VwTLCcCwtRQBrTTD) | [Got You There](https://open.spotify.com/album/6gCWLrdqmVVSMIC39c58l7) | 3:10 | 2023-05-19 | 2023-09-21 |
 | [head](https://open.spotify.com/track/4rGZy1pDm0UGOYnZCI9nbb) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [head](https://open.spotify.com/album/3gWgeoCR8SjrLj714KSx6p) | 2:17 | 2023-08-25 |  |
 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 | 2022-08-05 |  |
 | [Heater](https://open.spotify.com/track/7joCfNdhgBuBYVquBQPHLq) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [RTRN II JUNGLE](https://open.spotify.com/album/5TL5mPJjOPiQCcZzEpfuaU) | 3:15 | 2022-08-05 |  |

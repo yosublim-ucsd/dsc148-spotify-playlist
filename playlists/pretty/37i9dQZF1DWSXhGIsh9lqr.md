@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXhGIsh9lqr.md) - [plain]
 
 > Brazilian DJ and Producer <a href="spotify:artist:3wkaDi2HJV3eCaBJ4iH6om">ANNA</a> delivers a high\-energy Techno mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,212 likes - 14 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,238 likes - 14 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXhGIsh9lqr.md) - [plain]
 | 13 | [Future Dust \- Original Mix \- Mixed](https://open.spotify.com/track/0Ex80abikpbot0Mp6tsQjm) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Future Dust \- Original Mix \(Mixed\)](https://open.spotify.com/album/0ECUwhDidljdNR3yCM60AH) | 5:07 |
 | 14 | [Deep In The Glowing Heart \- Night Version \- Mixed](https://open.spotify.com/track/5EOQWJcL9PrrAyEV2jjacK) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Deep In The Glowing Heart \- Night Version \(Mixed\)](https://open.spotify.com/album/1Y0wOI8u1XHEyxgE3oV8TD) | 6:03 |
 
-Snapshot ID: `MCw0YjMxMTUwMzBlMzliYWZlM2U2ZmI1YmJmNGU4ZDliMGM2MTVmYzE4`
+Snapshot ID: `MCwyM2NmMWNkNmYzYmYwNjY3MmVlZWU0ZjA0ZGM1MmRmYjQ0MWYwMjU0`

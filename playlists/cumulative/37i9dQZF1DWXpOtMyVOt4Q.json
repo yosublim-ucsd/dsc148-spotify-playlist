@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "comfortable silence",
+        "url": "https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x"
+      },
+      "artists": [
+        {
+          "name": "tomcbumpz",
+          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59999,
+      "name": "braincells",
+      "url": "https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS"
+    },
+    {
+      "album": {
         "name": "Chasing After Shadows...Living with the Ghosts (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3unaqYHP341UgXm5OvITDS"
       },
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 118976,
       "name": "mirage",
       "url": "https://open.spotify.com/track/7gy6sob5awFll0Pc5zPP1w"

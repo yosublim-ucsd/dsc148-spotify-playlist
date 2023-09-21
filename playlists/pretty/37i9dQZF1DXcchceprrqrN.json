@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 56554,
+  "num_followers": 56730,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWU0N2NlNDhhOTNmZGUyMTVkY2U5MTdmMWY0NTc2NWU3ODZkYmUw",
+  "snapshot_id": "MCwxMmYyNjkzNmFkN2ViZDJkMmI3MDE1OWM3YjI1YTIxMGY2OGU1YWI1",
   "tracks": [
     {
       "added_at": "2023-09-08 17:11:19",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-09-08 17:11:19",
       "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
+    },
+    {
+      "added_at": "2023-09-08 17:11:19",
+      "album": {
         "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/4KTenQpTycVovYaJmCcrMa"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 130478,
       "name": "Dream Song",
       "url": "https://open.spotify.com/track/0jTKmPYBGiEZsQtRNlWM1L"
-    },
-    {
-      "added_at": "2023-09-08 17:11:19",
-      "album": {
-        "name": "Two of Me",
-        "url": "https://open.spotify.com/album/1dP6KuODHn23imSP4lYN4M"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Biohazard",
-      "url": "https://open.spotify.com/track/1Dn8r3rLECHNSGCbajr9HX"
     }
   ],
   "unique_name": "hair dye",

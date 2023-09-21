@@ -4,7 +4,7 @@
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-109 songs - 5 hr 29 min
+110 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Ambición](https://open.spotify.com/track/2cBeCJBqMNcnRDLxjBqZ5s) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [Ambición](https://open.spotify.com/album/1T6TMQx5PXd4TaMtShzCBx) | 3:05 | 2023-06-09 |  |
 | [Anda Sola](https://open.spotify.com/track/5TTK8WMXJOwvgXgexMxlCc) | [Yannick](https://open.spotify.com/artist/6sS7188uJ5srzBOE8MnZZd), [Garotihnio](https://open.spotify.com/artist/1RJLHuc4Gpbsm8fLhTUz33), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Anda Sola](https://open.spotify.com/album/7DtLZineSoRw24eCiqSczB) | 4:13 | 2021-09-10 |  |
 | [Aturdido](https://open.spotify.com/track/2D7z2aQ5m29sz7O4atGKrf) | [Zanto](https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60) | [Aturdido](https://open.spotify.com/album/4v6M2FKVF4mh3fmcITcx2j) | 2:07 | 2021-09-10 |  |
-| [B\. O\. B](https://open.spotify.com/track/4cXjkpjYYu0V4UC4FOgwko) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk), [Rxdri](https://open.spotify.com/artist/2Ih4Ih8PVFoAZmXFChOwAR), [Tokio Kid](https://open.spotify.com/artist/7LbAa0SzZBV93ZBEAfbybU), [Fiaka](https://open.spotify.com/artist/4WnQ5jwWJqzFPWIY4ehuGk) | [B\. O\. B](https://open.spotify.com/album/1VbDvnmTijKQOgu9diqVHd) | 3:29 | 2021-09-10 |  |
+| [B\. O\. B](https://open.spotify.com/track/4DIX5OwnuWmGhJqJdJXMSM) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk), [Rxdri](https://open.spotify.com/artist/2Ih4Ih8PVFoAZmXFChOwAR), [Tokio Kid](https://open.spotify.com/artist/7LbAa0SzZBV93ZBEAfbybU), [Fiaka](https://open.spotify.com/artist/4WnQ5jwWJqzFPWIY4ehuGk) | [B\. O\. B](https://open.spotify.com/album/0fPgf6rRiN0p6iR5bTc3u7) | 3:29 | 2023-06-09 |  |
+| [B\. O\. B](https://open.spotify.com/track/4cXjkpjYYu0V4UC4FOgwko) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk), [Rxdri](https://open.spotify.com/artist/2Ih4Ih8PVFoAZmXFChOwAR), [Tokio Kid](https://open.spotify.com/artist/7LbAa0SzZBV93ZBEAfbybU), [Fiaka](https://open.spotify.com/artist/4WnQ5jwWJqzFPWIY4ehuGk) | [B\. O\. B](https://open.spotify.com/album/1VbDvnmTijKQOgu9diqVHd) | 3:29 | 2021-09-10 | 2023-09-21 |
 | [Bandido](https://open.spotify.com/track/5NhSniT8ieLXObGDt0gvik) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Kloudy Koon](https://open.spotify.com/artist/5b1CYOC0HvTPzWSawMATPv), [Chiki Wanted](https://open.spotify.com/artist/33jFO9W9LzOFYLwdPcs97O) | [Bandido](https://open.spotify.com/album/3arTGfiVrKUBAr14CSFD1f) | 3:00 | 2021-09-10 | 2022-09-10 |
 | [Bandido](https://open.spotify.com/track/7lrQHJALQdGhjvoeYAqwj7) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Kloudy Koon](https://open.spotify.com/artist/5b1CYOC0HvTPzWSawMATPv), [Chiki Wanted](https://open.spotify.com/artist/33jFO9W9LzOFYLwdPcs97O) | [Bandido](https://open.spotify.com/album/399hcbeQG2iJ4rkMpEwNnM) | 3:00 | 2022-02-04 |  |
 | [Billy & Mandy](https://open.spotify.com/track/6Wzbvmcn2nVS4d2Cn94UaB) | [Frankee M](https://open.spotify.com/artist/4KyVsdUsXayts4oE0lMFPR) | [Billy & Mandy](https://open.spotify.com/album/6gikQexyfjFJwTIbqSV1oS) | 3:41 | 2021-09-10 |  |

@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 262584,
       "name": "Dosthi",
       "url": "https://open.spotify.com/track/4ds6oPJGfWaDcTuEAvjAWZ"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 229588,
       "name": "Pedavi Pilichina",
       "url": "https://open.spotify.com/track/2zXqqPBkjIlDvPUgPqCSPN"
@@ -2218,6 +2218,24 @@
       "duration_ms": 145597,
       "name": "People",
       "url": "https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP"
+    },
+    {
+      "album": {
+        "name": "Po Ve Po Ve",
+        "url": "https://open.spotify.com/album/5Eg6NDwFXJ4NjnnWMjlorN"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bheemathati",
+          "url": "https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198372,
+      "name": "Po Ve Po Ve",
+      "url": "https://open.spotify.com/track/2ULcLS1AhtAvTwSPEw2VHu"
     },
     {
       "album": {

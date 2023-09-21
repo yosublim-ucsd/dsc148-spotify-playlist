@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Sia
 
-1,309 songs - 2 day 22 hr 37 min
+1,310 songs - 2 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [Get Up Kid](https://open.spotify.com/track/6HQpMGnMQ1mVbTv0WA0u7r) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Get Up Kid](https://open.spotify.com/album/2R7PVrfhfVcGPTXI8nDVGL) | 2:58 | 2023-07-13 | 2023-07-21 |
 | [Get Up!!!](https://open.spotify.com/track/2EeVQXBjpbAU1Jv8jUeX7t) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [Spite Will Save Me](https://open.spotify.com/album/35hLhQt688HkGZe9OwZD7m) | 3:24 | 2023-06-23 | 2023-06-30 |
 | [GETTN OVA U](https://open.spotify.com/track/0jXAREDtFuaLt8k6sMm0xh) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [GETTN OVA U](https://open.spotify.com/album/5IvrGvYLGSOnWGaLFAIze8) | 2:40 | 2023-08-17 | 2023-08-25 |
-| [Ghost](https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/6k6wmEOV5gKazj2lJEfgiy) | 4:33 | 2023-09-14 |  |
+| [Ghost](https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/6k6wmEOV5gKazj2lJEfgiy) | 4:33 | 2023-09-14 | 2023-09-21 |
+| [Ghost](https://open.spotify.com/track/6V7srdT0Mu63F4XN97buVZ) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/1CQNzjeDFVKqUeveRH9Tar) | 4:33 | 2023-09-15 |  |
 | [Ghostwriter](https://open.spotify.com/track/1pzLrPEyGRU7uSMOVVOPoh) | [Selve](https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL) | [Ghostwriter](https://open.spotify.com/album/3Bi1yG9Hv5COk8RbWw1vjd) | 3:11 | 2023-06-15 | 2023-06-23 |
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-14 |  |
 | [Girl's feat\. Michael Kime](https://open.spotify.com/track/0csM0X6f3SXTroeTnQvhCx) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB), [Michael Kime](https://open.spotify.com/artist/2Rt6j2PIHTzRbtwD2S69F8) | [Girl's feat\. Michael Kime](https://open.spotify.com/album/2IQOiAgFT4wiboIB29DK6U) | 4:32 | 2023-07-20 | 2023-07-28 |

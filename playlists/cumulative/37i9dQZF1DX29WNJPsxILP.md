@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Panther
 
-93 songs - 4 hr 57 min
+94 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [No ID \- Tunnel Vision](https://open.spotify.com/track/7EHRSYq5H4yJrhnOND4V4O) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [No ID \(Tunnel Vision\)](https://open.spotify.com/album/0sOz3qB67vifJ7xChlGXWQ) | 2:39 | 2023-08-28 |  |
 | [No Mercy](https://open.spotify.com/track/6fZxZf9m01EPeBDjCEdtKm) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [No Mercy](https://open.spotify.com/album/2aBu3zCR9Z69Xy2fZuhQv0) | 3:10 | 2023-03-10 |  |
 | [PEW PEW!](https://open.spotify.com/track/7zpmshT8nkJEgPnR8XfUdW) | [Rawal](https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [PEW PEW!](https://open.spotify.com/album/1jTyUrUnZexu0WPbx1tmi0) | 2:21 | 2023-03-10 |  |
+| [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 |  |
 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 | 2023-09-01 |  |
 | [Punja Daab](https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Punja Daab](https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s) | 3:34 | 2023-04-12 |  |
 | [RAASHAH](https://open.spotify.com/track/7sAb2f62IJ28DvEP6x3FRw) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:40 | 2023-03-10 |  |

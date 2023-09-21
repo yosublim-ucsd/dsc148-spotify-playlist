@@ -208,7 +208,7 @@
     {
       "album": {
         "name": "All the best to you",
-        "url": "https://open.spotify.com/album/3M97FptKdqBzgXtzg64ALJ"
+        "url": "https://open.spotify.com/album/712xvsOZfCsT6WqU3Uo0y7"
       },
       "artists": [
         {
@@ -219,6 +219,24 @@
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 276666,
+      "name": "All the best to you",
+      "url": "https://open.spotify.com/track/041iQwe6neBn6VXVSQ1yV2"
+    },
+    {
+      "album": {
+        "name": "All the best to you",
+        "url": "https://open.spotify.com/album/3M97FptKdqBzgXtzg64ALJ"
+      },
+      "artists": [
+        {
+          "name": "LOVE PSYCHEDELICO",
+          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
       "duration_ms": 276666,
       "name": "All the best to you",
       "url": "https://open.spotify.com/track/11mjDfy7LLfPCKw8HH1NwA"
@@ -2568,6 +2586,24 @@
       "duration_ms": 174800,
       "name": "ghosted",
       "url": "https://open.spotify.com/track/0X53TLIHdotP2JeUYq4NbW"
+    },
+    {
+      "album": {
+        "name": "Gift (alt ver.)",
+        "url": "https://open.spotify.com/album/4e0NQvgBanO1WXGg3PieA6"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Gift (alt ver.)",
+      "url": "https://open.spotify.com/track/51u4vuTh5g43isSIHLwXl3"
     },
     {
       "album": {
@@ -6230,6 +6266,24 @@
       "duration_ms": 242791,
       "name": "S.O.S. [Share One Sorrow] - feat.Tokyo Tanaka & Jean-Ken Johnny",
       "url": "https://open.spotify.com/track/0WiJhz5KOuIjtXkjo5Ckt2"
+    },
+    {
+      "album": {
+        "name": "saigoni nokorumono",
+        "url": "https://open.spotify.com/album/51w7oMSykYxQKNjxQhtwlN"
+      },
+      "artists": [
+        {
+          "name": "THE BACK HORN",
+          "url": "https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240173,
+      "name": "saigoni nokorumono",
+      "url": "https://open.spotify.com/track/32b0pBnvuH0z0NY9YeXNx5"
     },
     {
       "album": {
@@ -10208,7 +10262,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 259000,
       "name": "\u30ae\u30d5\u30c8 (alt ver.)",
       "url": "https://open.spotify.com/track/2RCZLGGtKIJl59Jy5eYd2o"
@@ -13050,7 +13104,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 240173,
       "name": "\u6700\u5f8c\u306b\u6b8b\u308b\u3082\u306e",
       "url": "https://open.spotify.com/track/4UI79sU0p8oGRn7dFmJCx5"

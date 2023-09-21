@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Adrian L Santos & Oscar Maydon",
-  "num_followers": 101123,
+  "num_followers": 101206,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODczZmFmYzQ5ZjE4MzAwYjAxMTJkYTI0NzgyNzU4NzMyYzEzMmM5",
+  "snapshot_id": "MCxmN2MwZTJiOTdiZjQ1YTMxZTgzNTY0MWZjNDI0ZjZmMWVjYjE0OGYy",
   "tracks": [
     {
       "added_at": "2023-09-15 05:05:54",
@@ -63,6 +63,22 @@
       "duration_ms": 200061,
       "name": "No Es Mentira (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
+    },
+    {
+      "added_at": "2023-09-15 05:05:54",
+      "album": {
+        "name": "Tres Rayas",
+        "url": "https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 184168,
+      "name": "Tres Rayas",
+      "url": "https://open.spotify.com/track/7HvBcWRqhjRco6if0FfRb7"
     },
     {
       "added_at": "2023-09-15 05:05:54",
@@ -171,6 +187,22 @@
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
+    },
+    {
+      "added_at": "2023-09-15 05:05:54",
+      "album": {
+        "name": "A Mi Modo",
+        "url": "https://open.spotify.com/album/61PVjWCpIPWCCEep36r5wd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Castro Y Su Delta",
+          "url": "https://open.spotify.com/artist/2bOWu0lD8g08ZUeMYWrcVb"
+        }
+      ],
+      "duration_ms": 230875,
+      "name": "A Mi Modo",
+      "url": "https://open.spotify.com/track/4crRxXlL3JViRXFHLBurQp"
     },
     {
       "added_at": "2023-09-15 05:05:54",
@@ -376,12 +408,12 @@
           "url": "https://open.spotify.com/artist/04pqalX0SdiyyQWp4LXb8C"
         },
         {
-          "name": "Jr Heguertty",
-          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
         },
         {
-          "name": "llusion Eterno",
-          "url": "https://open.spotify.com/artist/4vbi8OkSeXBShHbvBm3Kol"
+          "name": "Jr Heguertty",
+          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
         }
       ],
       "duration_ms": 143749,
@@ -1011,38 +1043,6 @@
       "duration_ms": 140500,
       "name": "D\u00edas De Rose",
       "url": "https://open.spotify.com/track/3rof58ZLsWXv8qfu9HZy9i"
-    },
-    {
-      "added_at": "2023-09-15 05:05:54",
-      "album": {
-        "name": "Tres Rayas",
-        "url": "https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 184168,
-      "name": "Tres Rayas",
-      "url": "https://open.spotify.com/track/7HvBcWRqhjRco6if0FfRb7"
-    },
-    {
-      "added_at": "2023-09-15 05:05:54",
-      "album": {
-        "name": "A Mi Modo",
-        "url": "https://open.spotify.com/album/61PVjWCpIPWCCEep36r5wd"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Castro Y Su Delta",
-          "url": "https://open.spotify.com/artist/2bOWu0lD8g08ZUeMYWrcVb"
-        }
-      ],
-      "duration_ms": 230875,
-      "name": "A Mi Modo",
-      "url": "https://open.spotify.com/track/4crRxXlL3JViRXFHLBurQp"
     },
     {
       "added_at": "2023-09-15 05:05:54",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01BMYuRJG8i.md) - [plain]
 
 > Music from "SHADOWS HOUSE"! /アニメ「シャドーハウス」の楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,999 likes - 30 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,010 likes - 30 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/0rBTz8QXqqKSoNGvv1kVf4) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?\(Special Edition\)](https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9) | 4:31 |
+| 1 | [シャル・ウィ・ダンス？](https://open.spotify.com/track/0rBTz8QXqqKSoNGvv1kVf4) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス？\(Special Edition\)](https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9) | 4:31 |
 | 2 | [Masquerade](https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Masquerade](https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG) | 3:57 |
 | 3 | [a hollow shadow](https://open.spotify.com/track/6qg86i2yfgPhmMdhz8K32c) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 2:15 |
 | 4 | [ないない](https://open.spotify.com/track/2lD8rPegYoYC1WucU3vU1W) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 4:14 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01BMYuRJG8i.md) - [plain]
 | 29 | [お披露目](https://open.spotify.com/track/5eoZ1f0hIRagC9F8mndbMv) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 2:36 |
 | 30 | [絆](https://open.spotify.com/track/1IgwadWZVzEuxIeEKltLW0) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [シャドーハウス Original Soundtrack](https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC) | 3:45 |
 
-Snapshot ID: `MCxlYzlmNWQzYTZkNGU0NmExYTE4MGY1Njk0OTQyYWZjYWRkYzM2ZWU4`
+Snapshot ID: `MCxiYzhjNDIxMmUzMDBjNWYwYzhlMGVjMjg1NDVmZmQ0MTQ1ODM2OTBl`

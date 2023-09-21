@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,544 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,553 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 13 | [Retro Love](https://open.spotify.com/track/4UvYiq1HSksWgAjTvl7eiA) | [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Retro Love](https://open.spotify.com/album/07etk4i2uQzIyk6YI9Zsei) | 2:53 |
 | 14 | [BILLING = CHILLING](https://open.spotify.com/track/0whm71yydiyeu8W2WnKAD4) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [BILLING = CHILLING](https://open.spotify.com/album/7IUFcafS1yVSCcnI6xpYq3) | 2:50 |
 | 15 | [Bayeke](https://open.spotify.com/track/1RToS6SXQxvpd04Oa4wfNK) | [LIINDOR](https://open.spotify.com/artist/5e90k29ru9oRYYYIVfbWOw) | [IS'QALO: THE BEGINNING](https://open.spotify.com/album/3zBdYBnWZUoXvgtjhzVNIp) | 2:35 |
-| 16 | [Vanity](https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq) | 2:32 |
+| 16 | [Vanity](https://open.spotify.com/track/6J2xVnZsEgnXyl2hzQawRd) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/6tc7crU7Bal4sLhy5UIq4B) | 2:32 |
 | 17 | [Cigarette](https://open.spotify.com/track/6n4737EUxzjGOJOgX6L29c) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 4:12 |
 | 18 | [Paris](https://open.spotify.com/track/4KXrGlcqv6Wsg1j27oWv8Z) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Paris](https://open.spotify.com/album/5zg23M7QICp4I70v7r1ErY) | 3:18 |
 | 19 | [Jo](https://open.spotify.com/track/1IPiMWs3g5UezRGUUwiXWz) | [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [Jo](https://open.spotify.com/album/6I9D91lUwbSI1MHsqi0JbA) | 2:18 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 51 | [Falling in Love](https://open.spotify.com/track/0Tnzjifkv9W8xm0wXy7gOh) | [Choccy Chox](https://open.spotify.com/artist/1Il8vHCOT51z2KfQXPJNJv) | [Falling in Love](https://open.spotify.com/album/1awIuzfs8WL23tLUeBnEf1) | 3:09 |
 | 52 | [half day](https://open.spotify.com/track/1M3TkNfhGSGnox2Xbh5GQk) | [ETB](https://open.spotify.com/artist/7ycml9pvXVpp2GYLr4l672) | [Road To PsychaHomies I](https://open.spotify.com/album/2iZgbDtVOW7MgWPwzfj31f) | 2:25 |
 
-Snapshot ID: `MCxhNTYxMWI0ZWUyYzhlYTFmODIxYWU0ZmIxODJmMmM4N2Y4ZGQxNGYx`
+Snapshot ID: `MCxlZWIxNmVkNDZmY2M5YzQwMWFmODEwZGM2YTk3M2VkMDQ0NTM2Y2Yy`

@@ -882,7 +882,7 @@
     {
       "album": {
         "name": "Kaitlin",
-        "url": "https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT"
+        "url": "https://open.spotify.com/album/4HKc9NdbLgaMnjqZMM2FnY"
       },
       "artists": [
         {
@@ -893,6 +893,24 @@
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 263400,
+      "name": "Kaitlin",
+      "url": "https://open.spotify.com/track/0GY8oiVq2iY4lufOmhXPW4"
+    },
+    {
+      "album": {
+        "name": "Kaitlin",
+        "url": "https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
       "duration_ms": 263400,
       "name": "Kaitlin",
       "url": "https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC"

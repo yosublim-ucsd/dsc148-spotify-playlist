@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,294,518 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294,665 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 14 | [PLAIN JANE](https://open.spotify.com/track/0jNQCknhKG95C7aVx6YOTR) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [SAMSON: THE ALBUM](https://open.spotify.com/album/75MxgYHn8C4PeA5J8ToWti) | 3:17 |
 | 15 | [Save Yours](https://open.spotify.com/track/20ONgMrt1QKEo1xRvyv8Jx) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Save Yours](https://open.spotify.com/album/3aNFCwqjk0FUqTC9ycTxZv) | 3:09 |
 | 16 | [Bliss](https://open.spotify.com/track/5TLeG3t4ZPLJ6rsjltvRDY) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Bliss](https://open.spotify.com/album/1xgHi3qOIa25dlJwdA0pxl) | 2:31 |
-| 17 | [Til My Heart Stops \(feat\. Alessandra Salinas\)](https://open.spotify.com/track/2oitlpDllAtMHSJXP7pur6) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Alessandra Salinas](https://open.spotify.com/artist/3hHADK91Vpmkg6BNF7NYXW) | [Til My Heart Stops \(feat\. Alessandra Salinas\)](https://open.spotify.com/album/3DdBWAttQoSX1FFcJ5y36z) | 3:02 |
+| 17 | [Til My Heart Stops \(feat\. Alessandra Salinas\)](https://open.spotify.com/track/2oitlpDllAtMHSJXP7pur6) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Alessandra Salinas](https://open.spotify.com/artist/75yUCGnQnc6K7fg7qptCkO) | [Til My Heart Stops \(feat\. Alessandra Salinas\)](https://open.spotify.com/album/3DdBWAttQoSX1FFcJ5y36z) | 3:02 |
 | 18 | [I Love You Boy](https://open.spotify.com/track/67nxFsoVMZF4GvaapcnUlC) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SANTIAGO](https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY) | 4:13 |
 | 19 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 |
 | 20 | [Doomsday \(with Juice WRLD & Cordae\)](https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Doomsday](https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [The Basement](https://open.spotify.com/track/5AiS9AoF7ONfTcNdXjWPNi) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [The Basement](https://open.spotify.com/album/3vBiOLOfxBGyxc6rhVsjK2) | 3:22 |
 | 100 | [FLAWS](https://open.spotify.com/track/0EnlvUZO6N6TadHIwbRkRQ) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FLAWS](https://open.spotify.com/album/2HeQ8J78llo9ltuobnqS1F) | 4:07 |
 
-Snapshot ID: `MCxlMjcxZDNlYjc4OGY1YjlhY2Y0ZGY1ZmFiNDliM2Q5YzAwOWU3NTQ5`
+Snapshot ID: `MCxlNzE1NWI3MTBiMzY5ODc5YzAxYTUwNjdmNTRjZGZlNWY0MjlmNDZh`

@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-421 songs - 1 day 6 hr 29 min
+426 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Go! Go! Maniac \(From "K\-On!!\)](https://open.spotify.com/track/2RrbTYtbCTdUhTNak4HN9h) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Go! Go! Maniac \(From "K\-ON!!\)](https://open.spotify.com/album/2y7Bktloeww6fRNdXQz0iL) | 4:11 | 2022-07-19 | 2023-01-12 |
 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 | 2023-01-28 | 2023-07-12 |
 | [GO!!!\(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/2xviYduF3PGpFsxyGp4f0B) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GO!!!\(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/3XMc4oQZGmdkKRznV1TTMf) | 3:59 | 2023-07-11 |  |
+| [God only knows](https://open.spotify.com/track/02izMBB3juA5FGjFv4kayT) | [Oratorio The World God Only Knows](https://open.spotify.com/artist/0Om5cIhCAlJXzKwTndCsQp) | [God only knows～集積回路の夢旅人](https://open.spotify.com/album/4rc0w15da2hcfOOKhN5DRl) | 8:08 | 2023-09-20 |  |
 | [GOLD](https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GOLD](https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4) | 3:35 | 2023-01-11 | 2023-07-12 |
 | [Good mood](https://open.spotify.com/track/2nB5UUWUMqHLRrsOR42KA8) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Good mood](https://open.spotify.com/album/6zvFWzaDQzIr7cQVOOBhTW) | 4:18 | 2022-06-22 | 2023-01-12 |
 | [Good Morning World!](https://open.spotify.com/track/5p0T8499UG6lKHzXjLnckz) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Good Morning World!](https://open.spotify.com/album/7hjNB1sfkmCqiCHMhCGXEZ) | 4:09 | 2022-06-07 | 2022-06-23 |
@@ -168,7 +169,7 @@
 | [Prism](https://open.spotify.com/track/5ggbyc7gxcHGfD3HW21A99) | [Wataru Ikusabe & Toraou \(Mayumi Tanaka & Kazue Ikura\)](https://open.spotify.com/artist/1MhpunzE2OuLSTMD68M17O) | [Prism](https://open.spotify.com/album/1eYCE4Uf7E6FEoxnxz2Ptn) | 3:58 | 2022-10-12 | 2023-01-12 |
 | [Q&A リサイタル!](https://open.spotify.com/track/1COAlDjRh3XW8yAB8UN929) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj) | 4:49 | 2022-06-22 | 2023-01-12 |
 | [Q\-vism](https://open.spotify.com/track/7MuOSVDTgILDaWQmR4iLWo) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [wyxt.](https://open.spotify.com/album/62uq5JHze5hCeXhlWkBY1h) | 3:00 | 2023-01-29 | 2023-07-12 |
-| [Re\-sublimity](https://open.spotify.com/track/5ZBVGPIBgqjfJmzsd0IyP7) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [Re\-sublimity](https://open.spotify.com/album/2kLMoZ0wM01Xwn7tToW4JR) | 5:19 | 2022-06-07 | 2023-01-12 |
+| [Re\-sublimity](https://open.spotify.com/track/5ZBVGPIBgqjfJmzsd0IyP7) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [Re\-sublimity](https://open.spotify.com/album/2kLMoZ0wM01Xwn7tToW4JR) | 5:19 | 2022-06-07 |  |
 | [Real Dawn](https://open.spotify.com/track/59R8fdA1xxNgnSLdSm9bES) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Real Dawn](https://open.spotify.com/album/3OPoxNYBVO2idFWeyzO8bv) | 3:46 | 2023-01-24 | 2023-07-12 |
 | [Reason](https://open.spotify.com/track/6NHwaWtSIQTZKP4ki1riR1) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Make Progress](https://open.spotify.com/album/2MxDcdAxU2FkEJoHNEmPw9) | 4:50 | 2022-07-19 | 2023-01-12 |
 | [RECONNECTION](https://open.spotify.com/track/443HQtfWncB04hs3wuKD01) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/7I1WR1fKmdIFkykMVDGTpA) | 3:42 | 2023-01-24 | 2023-07-12 |
@@ -188,6 +189,7 @@
 | [Shiko](https://open.spotify.com/track/5qTaggBR1pyo4YJTltv1RT) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 4:02 | 2023-05-16 | 2023-07-12 |
 | [Shine](https://open.spotify.com/track/7hzfrKYkRfPUIiagwhBtZS) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:42 | 2022-08-30 | 2023-01-12 |
 | [Shining stars bless☆](https://open.spotify.com/track/0fIMkhGURGjJDrUExfeeu2) | [Kaori Utatsuki](https://open.spotify.com/artist/05rQduN9R080VjzIiUOX2b) | [Shining stars bless☆](https://open.spotify.com/album/6W4HmkRFSJWO3GNBQ9PWqs) | 4:35 | 2023-05-30 |  |
+| [Shinzo wo Sasageyo!](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 | 2023-09-20 |  |
 | [Shocking Blue](https://open.spotify.com/track/145OU4a7G4LDxXHdFgYihs) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [水彩 〜aquaveil〜](https://open.spotify.com/album/3mZyjIzuaf2jygCr1CXzKc) | 3:57 | 2023-01-28 | 2023-07-12 |
 | [SHOOT!](https://open.spotify.com/track/6elO5EQOutntcr1jvo9fAf) | [RO\-KYU\-BU!](https://open.spotify.com/artist/4wYkcNvXaicy52BVx4zWXS) | [SHOOT!](https://open.spotify.com/album/49DiKQqQHNqVtc9nAXd0ws) | 4:46 | 2022-10-27 | 2023-01-28 |
 | [sign](https://open.spotify.com/track/5w1L7Bj14oC7II12HdZP1k) | [Ray](https://open.spotify.com/artist/7cN69jaR3jtYeBaNsiVFoN) | [sign](https://open.spotify.com/album/5tuOGEA8zB2GxrUgtkzP2e) | 4:47 | 2022-08-02 | 2023-01-12 |
@@ -276,6 +278,7 @@
 | [キラキラしちゃって My True Love!](https://open.spotify.com/track/3R7GmHmuDA1hPfmZ5nPrAy) | [Kanako Miyamoto](https://open.spotify.com/artist/0bJzcs8fztcxmrDfVAK1Sc) | [Yes!プリキュア５　オープニング＆エンディングテーマ　プリキュア5、スマイル go go! / キラキラしちゃって My True Love!](https://open.spotify.com/album/0Rfwpd6mpxLyrtY6ZPGda5) | 3:08 | 2023-07-14 |  |
 | [キングゲイナー・オーバー!](https://open.spotify.com/track/2ys79nYrXeyJ7Q8kdHftUY) | [福山芳樹](https://open.spotify.com/artist/5prZMLWMrc5TwTJ1dGylBM) | [「オーバーマン キングゲイナー」オープニングテーマ キングゲイナー・オーバー!/エンディングテーマ Can you feel my soul](https://open.spotify.com/album/5TrrFoMK3XB1Y3wkfcwzGV) | 4:55 | 2022-06-07 | 2022-07-29 |
 | [クラクトリトルプライド](https://open.spotify.com/track/7vLhWWw6MnDKN8qe9WNMp9) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [コンポジット](https://open.spotify.com/album/7c13AoYp8d1co832E46kqU) | 4:41 | 2022-06-22 | 2023-01-12 |
+| [グッドサイン](https://open.spotify.com/track/1eDTlTErUq2z9CVHp8qvLE) | [765 MILLION ALLSTARS](https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU) | [THE IDOLM@STER MILLION LIVE!「グッドサイン」](https://open.spotify.com/album/1BdIXtzGm09jkFXhNixBBu) | 4:01 | 2023-09-20 |  |
 | [グー](https://open.spotify.com/track/6xbdtONN9tdcEAOswndsxH) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [コンセプトミニアルバム「off」](https://open.spotify.com/album/5g8kGiT7VBY9YS629YqyNO) | 3:33 | 2022-06-07 | 2022-06-23 |
 | [コネクト \-2017\-](https://open.spotify.com/track/0Yvh6rUn42qYGxNBHeQXo6) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:30 | 2023-01-29 | 2023-07-12 |
 | [サイハテ](https://open.spotify.com/track/395GmXt2qT0ZMB2eceX5U1) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [サイハテ](https://open.spotify.com/album/64aECmXWRJDITmYwpsp0xn) | 4:58 | 2022-06-07 | 2022-06-23 |
@@ -321,6 +324,7 @@
 | [ヘミソフィア](https://open.spotify.com/track/0Zo3N0mkrux2vHfwCRVeOJ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ヘミソフィア](https://open.spotify.com/album/4Rf67sDCf4sh6ptdMliuls) | 4:09 | 2022-12-07 | 2023-01-12 |
 | [ペタルズ](https://open.spotify.com/track/5haga6r620YjsPrSvGEpxA) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ペタルズ](https://open.spotify.com/album/2SkT0uHQuGEGjwweAt6JMk) | 4:24 | 2022-06-07 | 2022-06-23 |
 | [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 | 2022-12-21 | 2023-01-12 |
+| [マメシバ](https://open.spotify.com/track/6k4dbuGMvdA6OqS4ndLXII) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 6:07 | 2023-09-20 |  |
 | [ミスター・ダーリン](https://open.spotify.com/track/6FZJ2QrFr1yY1NtcGbQexA) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [ミスター・ダーリン / ギミギミコール \(Complete Edition\)](https://open.spotify.com/album/5AIDbavUjnXZPQk4VZ6AeL) | 4:07 | 2022-06-07 | 2022-06-23 |
 | [ミラクルっと♥Link Ring!](https://open.spotify.com/track/7oTZJP8WeEdfrDDeR7bJWU) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [ヒーリングっど♥プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/59ZcL0K687oiqDcORJ2LO2) | 4:07 | 2022-06-07 | 2022-06-23 |
 | [ミラー](https://open.spotify.com/track/5WRjo26QC6RJNaP5PtAVV9) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [BLOOMING](https://open.spotify.com/album/3VKwasBzLGIlOWoBVAhtQD) | 2:59 | 2022-08-30 | 2023-01-12 |
@@ -339,6 +343,7 @@
 | [世界を変える夢を見て](https://open.spotify.com/track/3i4jrCfpyIWAEdTS8mzIsZ) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [星をあつめて](https://open.spotify.com/album/1nTSBkYfzNyJFGQ75OtBgw) | 4:34 | 2022-06-07 | 2022-06-23 |
 | [僕の宝物](https://open.spotify.com/track/1XgG4R5uLwUjV7vJXJuRGl) | [ぽかぽかイオン](https://open.spotify.com/artist/6zKJblakB7LUnUtmo29gtf) | [TVアニメーション「スローループ」オープニングテーマ やじるし→\(イオン盤\)](https://open.spotify.com/album/5z2xF0EIG5ZyeHSYn4l8ul) | 4:20 | 2022-06-07 | 2022-06-23 |
 | [光のない街](https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA) | [nano.RIPE](https://open.spotify.com/artist/1GQptL2kOEsfMXerW4OjMT) | [光のない街](https://open.spotify.com/album/6p4k2Cw0pgfk2BuYGmQUkK) | 4:13 | 2023-08-22 |  |
+| [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 | 2023-09-20 |  |
 | [全力!絶対!!カウントダウン!!!](https://open.spotify.com/track/7FUq1cKdjJ1XyP6mHoio7J) | [サニーピース](https://open.spotify.com/artist/1FkWBu03NKQiM8mQxNomGU) | [全力!絶対!!カウントダウン!!!](https://open.spotify.com/album/3KJOjyyE3zpSPCO9UAc4AC) | 4:25 | 2022-06-07 | 2022-06-23 |
 | [全力☆Summer!](https://open.spotify.com/track/53Uy2m8yielFV4bkGBybhZ) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Beyond](https://open.spotify.com/album/7J912LJZvfnljtxFnHHo8f) | 3:53 | 2023-01-29 |  |
 | [凛](https://open.spotify.com/track/5KeZzt4mImRvIo4TCRQxqm) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 4:04 | 2023-01-29 | 2023-07-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 444544,
+  "num_followers": 444700,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDYwZTRkZWY1M2IxNWI5MGI3NzFiZTcwN2JkYzhlZWExZGJhYjJk",
+  "snapshot_id": "MCwxY2NiODdkMzI1NWNhZWViMzA5MzFmOTQwOWY1MGRkZjg2ZThiODc1",
   "tracks": [
     {
       "added_at": "2023-09-08 11:24:38",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-09-08 11:24:38",
       "album": {
-        "name": "10Min JAM_V2",
-        "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
+        "name": "Passeggiata",
+        "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
       },
       "artists": [
         {
-          "name": "Berus",
-          "url": "https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa"
+          "name": "Vera Fernandez",
+          "url": "https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw"
         }
       ],
-      "duration_ms": 99495,
-      "name": "10Min JAM_V2",
-      "url": "https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj"
+      "duration_ms": 135529,
+      "name": "Tavolo",
+      "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
     },
     {
       "added_at": "2023-09-08 11:24:38",
@@ -567,38 +567,6 @@
     {
       "added_at": "2023-09-08 11:24:38",
       "album": {
-        "name": "Indepanties day",
-        "url": "https://open.spotify.com/album/48vkyleNJElgkXrHr79f27"
-      },
-      "artists": [
-        {
-          "name": "Hosiannah",
-          "url": "https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Indepanties day",
-      "url": "https://open.spotify.com/track/0FwPSxriJhjWU4TTfzvNuh"
-    },
-    {
-      "added_at": "2023-09-08 11:24:38",
-      "album": {
-        "name": "Passeggiata",
-        "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
-      },
-      "artists": [
-        {
-          "name": "Vera Fernandez",
-          "url": "https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Tavolo",
-      "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
-    },
-    {
-      "added_at": "2023-09-08 11:24:38",
-      "album": {
         "name": "Closer To The Essence",
         "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
@@ -611,6 +579,38 @@
       "duration_ms": 161152,
       "name": "Closer To The Essence",
       "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2023-09-08 11:24:38",
+      "album": {
+        "name": "10Min JAM_V2",
+        "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
+      },
+      "artists": [
+        {
+          "name": "Berus",
+          "url": "https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa"
+        }
+      ],
+      "duration_ms": 99495,
+      "name": "10Min JAM_V2",
+      "url": "https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj"
+    },
+    {
+      "added_at": "2023-09-08 11:24:38",
+      "album": {
+        "name": "Indepanties day",
+        "url": "https://open.spotify.com/album/48vkyleNJElgkXrHr79f27"
+      },
+      "artists": [
+        {
+          "name": "Hosiannah",
+          "url": "https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Indepanties day",
+      "url": "https://open.spotify.com/track/0FwPSxriJhjWU4TTfzvNuh"
     },
     {
       "added_at": "2023-09-08 11:24:38",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-08 11:24:38",
       "album": {
-        "name": "Pup Slushy",
-        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 329462,
-      "name": "Pup Slushy",
-      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
-    },
-    {
-      "added_at": "2023-09-08 11:24:38",
-      "album": {
         "name": "Polar Circle",
         "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 117660,
       "name": "Polar Circle",
       "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
+    },
+    {
+      "added_at": "2023-09-08 11:24:38",
+      "album": {
+        "name": "Pup Slushy",
+        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 329462,
+      "name": "Pup Slushy",
+      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
     },
     {
       "added_at": "2023-09-08 11:24:38",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-09-08 11:24:38",
       "album": {
-        "name": "Brasileira (ddp Remix)",
-        "url": "https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr"
+        "name": "Longing For U",
+        "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
       },
       "artists": [
         {
-          "name": "9iusi",
-          "url": "https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF"
-        },
-        {
-          "name": "ddp",
-          "url": "https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY"
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
         }
       ],
-      "duration_ms": 116190,
-      "name": "Brasileira - ddp Remix",
-      "url": "https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo"
+      "duration_ms": 349857,
+      "name": "Longing For U",
+      "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
     },
     {
       "added_at": "2023-09-08 11:24:38",
@@ -859,34 +855,22 @@
     {
       "added_at": "2023-09-08 11:24:38",
       "album": {
-        "name": "Longing For U",
-        "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
+        "name": "Brasileira (ddp Remix)",
+        "url": "https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr"
       },
       "artists": [
         {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 349857,
-      "name": "Longing For U",
-      "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
-    },
-    {
-      "added_at": "2023-09-08 11:24:38",
-      "album": {
-        "name": "Milkyway",
-        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
-      },
-      "artists": [
+          "name": "9iusi",
+          "url": "https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF"
+        },
         {
-          "name": "Worldtraveller",
-          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+          "name": "ddp",
+          "url": "https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Milkyway",
-      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
+      "duration_ms": 116190,
+      "name": "Brasileira - ddp Remix",
+      "url": "https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo"
     },
     {
       "added_at": "2023-09-08 11:24:38",
@@ -903,6 +887,22 @@
       "duration_ms": 150545,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE"
+    },
+    {
+      "added_at": "2023-09-08 11:24:38",
+      "album": {
+        "name": "Milkyway",
+        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Milkyway",
+      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
     },
     {
       "added_at": "2023-09-08 11:24:38",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-09-08 11:24:38",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 373974,
-      "name": "008A1",
-      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
-    },
-    {
-      "added_at": "2023-09-08 11:24:38",
-      "album": {
         "name": "199X",
         "url": "https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-09-08 11:24:38",
       "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
+        "name": "8",
+        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
       },
       "artists": [
         {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
         }
       ],
-      "duration_ms": 230748,
-      "name": "True Romance (Maja Edit)",
-      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
+      "duration_ms": 373974,
+      "name": "008A1",
+      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
     },
     {
       "added_at": "2023-09-08 11:24:38",
@@ -987,6 +971,22 @@
       "duration_ms": 138000,
       "name": "Holy",
       "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
+    },
+    {
+      "added_at": "2023-09-08 11:24:38",
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "duration_ms": 230748,
+      "name": "True Romance (Maja Edit)",
+      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
     },
     {
       "added_at": "2023-09-08 11:24:38",

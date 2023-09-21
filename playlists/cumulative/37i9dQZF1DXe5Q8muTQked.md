@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-656 songs - 1 day 16 hr 13 min
+657 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,8 @@
 | [My Happiness \(feat\. Fiona Prine\)](https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Fiona Prine](https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI) | [For Better, Or Worse](https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT) | 2:55 | 2021-10-20 | 2022-07-29 |
 | [My Neck, My Back \- Live](https://open.spotify.com/track/5sgNtgSoWoglhcKPOiIY6j) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [The Elle King EP](https://open.spotify.com/album/60B0fwwkQk379YrJ8r0J1r) | 2:40 | 2022-06-10 |  |
 | [My Sweet Lord](https://open.spotify.com/track/6k1clpTZEaUIdpt7yVupFs) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Tribute To](https://open.spotify.com/album/1H1QYhdGTnG7SDtc9ZO7ho) | 3:33 | 2022-06-10 | 2022-07-23 |
-| [Neon Moon](https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm) | 3:45 | 2022-06-10 |  |
+| [Neon Moon](https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm) | 3:45 | 2022-06-10 | 2023-09-21 |
+| [Neon Moon](https://open.spotify.com/track/7nbAMKGkPMjc4EuNNsjXqZ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Neon Moon](https://open.spotify.com/album/6FK5W4oYErMLFvHejmezpL) | 3:45 | 2023-09-15 |  |
 | [Never Surrender](https://open.spotify.com/track/7G3OpJf9H8QMQ4xjQn8bvm) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Never Surrender](https://open.spotify.com/album/6MQJgZUzgaUyihM4yWx2la) | 3:59 | 2021-10-20 | 2022-07-29 |
 | [New Slang](https://open.spotify.com/track/7lCzEKcxTwvRlAT2hOwBIp) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Film Songs](https://open.spotify.com/album/2QF2nWpC2y5Gy8uNrUz4sg) | 3:18 | 2021-10-20 | 2022-07-07 |
 | [Next to Me](https://open.spotify.com/track/797CLA4YDOQc4ksp11r95o) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb), [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Next to Me](https://open.spotify.com/album/00t7CXQkp8jk5E8hmmukpk) | 3:23 | 2021-10-20 | 2022-06-19 |

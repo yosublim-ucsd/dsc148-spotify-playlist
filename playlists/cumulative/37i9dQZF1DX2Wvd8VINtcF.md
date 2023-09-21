@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-836 songs - 1 day 22 hr 25 min
+837 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Muse](https://open.spotify.com/track/0QfEh5cwlwKVrO9gACNhc7) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 2:55 | 2023-08-10 | 2023-09-15 |
 | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8) | 3:21 | 2023-08-03 |  |
 | [My Friends](https://open.spotify.com/track/2fi8WhqDakWNi1PNyeCzxB) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [My Friends](https://open.spotify.com/album/4PjKKci0rniDrcyaCLF4nS) | 2:06 | 2023-08-17 |  |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-20 |  |
 | [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/2MKMdhHQeRujdPrEaZp8aa) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/3c8YyFMZ6gn4orPAMbu3DL) | 2:34 | 2023-01-26 | 2023-03-18 |
 | [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/6sgly9yTIbjFyUW5k2a7pc) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/2T1FpiNGqka6RSpMgtd3Ao) | 2:34 | 2023-01-19 | 2023-02-02 |
 | [Need 4 Speed](https://open.spotify.com/track/01F51oF3JauljiAek7Dp8O) | [jahanam](https://open.spotify.com/artist/0dFS2JcZHhNxg3bxjvHXXa), [DJ HAYDN](https://open.spotify.com/artist/4XC4oNp1V0YjK1Z4ryzaf2) | [Need 4 Speed](https://open.spotify.com/album/0cK3MaoFjVRkGk8Ej8WxVh) | 4:54 | 2023-06-22 | 2023-07-14 |

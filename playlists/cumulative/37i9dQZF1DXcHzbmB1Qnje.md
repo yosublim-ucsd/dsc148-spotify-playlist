@@ -4,7 +4,7 @@
 
 > Continuous white noise to sleep longer.
 
-300 songs - 13 hr 16 min
+301 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Light Noises](https://open.spotify.com/track/2t3BUtYNYGoPcCeHamofRy) | [Doctor Sleep](https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5) | [A Waterfall of Noise](https://open.spotify.com/album/0Zwsr67zu7UodgvugtKzex) | 2:15 | 2023-05-25 |  |
 | [Light White Noise](https://open.spotify.com/track/3qBMFORCRUKzBPiftvwaJn) | [Evomin](https://open.spotify.com/artist/377XEfaskiPevvTMYzJvUb) | [White Noise Comfort](https://open.spotify.com/album/714mJftPiiqG2gcVQgrbjU) | 2:34 | 2023-05-25 |  |
 | [Lost In Noise](https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:13 | 2023-06-28 |  |
+| [Lost In Noise](https://open.spotify.com/track/3koQV9TtQq5XTYf0Cw0zUq) | [Sleepness Orchestra](https://open.spotify.com/artist/0sW4js5qCxePw9lLfKdRTv) | [Lost In Noise](https://open.spotify.com/album/3fkXmI6THO7Cv1OWvq1byg) | 3:04 | 2023-09-20 |  |
 | [Loud Noise Sound](https://open.spotify.com/track/3WEhUtfxXaoRrpSIZ1XzQY) | [Misa Bee](https://open.spotify.com/artist/5JSgVFubDnbqYDUWPzl4tj) | [Noise Waterfalls](https://open.spotify.com/album/7By7Jo2T4WuFDwzW7MRc02) | 2:25 | 2023-05-25 |  |
 | [Low Earth Orbit](https://open.spotify.com/track/6iFY0bfr83RB6oq8V6MkSG) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 | 2023-05-25 |  |
 | [Low Filter Noise](https://open.spotify.com/track/6o6cQEzpYvMqLHyakdy3Uf) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [True White Noise](https://open.spotify.com/album/6q5sgYxYHndEskoCOY5HP1) | 2:38 | 2023-05-25 |  |
@@ -208,7 +209,7 @@
 | [Spaceful White](https://open.spotify.com/track/1n4kT38WJy4bLKajINLIbi) | [Dark Momentum](https://open.spotify.com/artist/6Nscg2zwVwV3RmM1C0iZnC) | [Spaceful White](https://open.spotify.com/album/515zYmtJFsXmp6TGYQUTE2) | 2:55 | 2023-06-28 |  |
 | [Steady White Noise](https://open.spotify.com/track/3KUrzypSgfa0TViYS27VMU) | [Chen Pa](https://open.spotify.com/artist/6tBqsxZQcS6IjIwzZ3axD9) | [Steady White Noise](https://open.spotify.com/album/14hlWan4DFAHTypwMU1jwJ) | 1:59 | 2023-05-25 | 2023-06-28 |
 | [Stormy Ocean Pink Noise](https://open.spotify.com/track/3VQ13NVz6w98nsg3YWJ8XG) | [Dream Birds](https://open.spotify.com/artist/6exdDygZZLI2xuOyLPCNnn) | [Oceans of Noise](https://open.spotify.com/album/2O3z9vxbbjBl1KmTJnFews) | 3:12 | 2023-05-25 |  |
-| [stream noise](https://open.spotify.com/track/0TuxsiscJFhlbOkKuFBQVQ) | [noisenoisenoise](https://open.spotify.com/artist/520IgJZ2NunNadFVU1JCDq) | [stream noise](https://open.spotify.com/album/23Ja108aPkElHkZsgjlduA) | 2:56 | 2023-05-25 |  |
+| [stream noise](https://open.spotify.com/track/0TuxsiscJFhlbOkKuFBQVQ) | [noisenoisenoise](https://open.spotify.com/artist/520IgJZ2NunNadFVU1JCDq) | [stream noise](https://open.spotify.com/album/23Ja108aPkElHkZsgjlduA) | 2:56 | 2023-05-25 | 2023-09-21 |
 | [Streams Of White Noise](https://open.spotify.com/track/431o4ppINAaETCjpsGkGDv) | [Noise Factory](https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe) | [The Rhythm Of Noise](https://open.spotify.com/album/5A2FT4FE0UZU06spwKPqox) | 2:11 | 2023-05-25 |  |
 | [Suoni Del Cielo](https://open.spotify.com/track/1OnPfzm1vpln863WmYMgt6) | [Molecualar Binary](https://open.spotify.com/artist/4jtz7FSoYdL5pUWD6jk6av) | [Fuori Zona](https://open.spotify.com/album/3lTDHYbUaQxWlYrmKaNOM0) | 2:28 | 2023-05-25 |  |
 | [System Shutdown](https://open.spotify.com/track/4SJTFnmmfxotIdw2psMeDp) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Digitalion](https://open.spotify.com/album/2rHCzAuZnw7DcH7R0Nv2fM) | 3:00 | 2023-05-25 |  |

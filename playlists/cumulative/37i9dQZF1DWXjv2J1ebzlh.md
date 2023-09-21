@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,118 songs - 5 day 22 hr 46 min
+2,119 songs - 5 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,7 +806,8 @@
 | [Geninha](https://open.spotify.com/track/6QR9FB8xvjtxLknolyTnnQ) | [Bango](https://open.spotify.com/artist/0A7ykdqXt8umX4eqzaEmp3) | [Bango](https://open.spotify.com/album/4Mi5L2ArvAdfFUSs8TeXqL) | 3:26 | 2023-05-17 |  |
 | [Gente Aberta](https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 2:20 | 2022-06-09 |  |
 | [Gentleman](https://open.spotify.com/track/0KWbwjUg9cTfbWIhU2IVC7) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/4WFl8lIveUuiqycITGQjEJ) | 14:41 | 2022-07-12 | 2022-07-29 |
-| [Gentleman](https://open.spotify.com/track/1HC6o3lTQvNmtH3ejYG4hs) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/56UAK81XOvDgAcTsI0Olpk) | 14:41 | 2022-07-27 |  |
+| [Gentleman](https://open.spotify.com/track/1HC6o3lTQvNmtH3ejYG4hs) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/56UAK81XOvDgAcTsI0Olpk) | 14:41 | 2022-07-27 | 2023-09-21 |
+| [Gentleman](https://open.spotify.com/track/6D8455OOJF0eCFmFq8E4Qi) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/532y6THMUtDYbRQAvzP1bL) | 14:41 | 2023-08-31 |  |
 | [Gençlik Başımda Duman](https://open.spotify.com/track/3u0PEuQ9mHq7C2pTCQyIq3) | [Güzin İle Baha](https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo) | [En İyileriyle Güzin ile Baha](https://open.spotify.com/album/7tRVL3En2czrsDnPR8aGbK) | 2:46 | 2022-06-09 | 2022-07-29 |
 | [Gençlik Başımda Duman](https://open.spotify.com/track/1mjSuSYr9vZiSjtb7DrK9F) | [Güzin İle Baha](https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo) | [45'Lik](https://open.spotify.com/album/3C6KMCCBm4jsPZeRYDPTfs) | 2:53 | 2022-10-31 | 2022-11-13 |
 | [Gençlik Başımda Duman](https://open.spotify.com/track/5Ox8yqAfQvNwaDoGlkU2al) | [Güzin İle Baha](https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo) | [En İyileriyle Güzin ile Baha](https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9) | 2:53 | 2022-07-27 |  |

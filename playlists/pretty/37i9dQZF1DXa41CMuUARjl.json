@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Skream.",
-  "num_followers": 452409,
+  "num_followers": 452441,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmU0M2VkNzQ1ZjcyZmYwNWFiNTU4NzhhMDkzOTNlNjI4NDdkMjVi",
+  "snapshot_id": "MCw5ZWRkNTExMzYzNTc3OTRlMjBhODQwMGIyOTZmNGNlODQ4MDlkYmYx",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/3zO2PYueI0npVFlxEyl9R0"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/2ZK2PfpK0iri6UduhsblBM"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Speed Drive",
         "url": "https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 269907,
       "name": "should sleep",
       "url": "https://open.spotify.com/track/0oixdxR51PVtYYnkd09G0Q"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Who You Are",
-        "url": "https://open.spotify.com/album/3zO2PYueI0npVFlxEyl9R0"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/2ZK2PfpK0iri6UduhsblBM"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Foxes",
-        "url": "https://open.spotify.com/album/06KpNKpi3MlQwkwSgqdWGD"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 255882,
-      "name": "Foxes",
-      "url": "https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Tell It To My Heart",
         "url": "https://open.spotify.com/album/1KxlM9HIGOgM7SOMko1W9m"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 175327,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/5tkVC8EcUXEZNwmD45e7tq"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Foxes",
+        "url": "https://open.spotify.com/album/06KpNKpi3MlQwkwSgqdWGD"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 255882,
+      "name": "Foxes",
+      "url": "https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Too Soon",
+        "url": "https://open.spotify.com/album/1K7lklhhIIcBW5vPUKTdfK"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 176367,
+      "name": "Too Soon",
+      "url": "https://open.spotify.com/track/0F9ouRFOFjmVNbU2CTEwrq"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "I Want Your Soul",
         "url": "https://open.spotify.com/album/4MDFDohTmJMuuZzgVp8SnY"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 218220,
       "name": "I Want Your Soul - Prospa Remix",
       "url": "https://open.spotify.com/track/2ZPiyBKaaV2UNmA4JIMW6O"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Too Soon",
-        "url": "https://open.spotify.com/album/1K7lklhhIIcBW5vPUKTdfK"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 176367,
-      "name": "Too Soon",
-      "url": "https://open.spotify.com/track/0F9ouRFOFjmVNbU2CTEwrq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "For The Love",
-        "url": "https://open.spotify.com/album/5I56tN8N4w5Xz70F0pssxO"
-      },
-      "artists": [
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "Dead Rose",
-          "url": "https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM"
-        },
-        {
-          "name": "Meggie York",
-          "url": "https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ"
-        }
-      ],
-      "duration_ms": 229558,
-      "name": "For The Love",
-      "url": "https://open.spotify.com/track/1LFooC64Ibh6SaFs9Nf8f9"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/5kszkoAaJSeVdHEP7EKRRX"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 243387,
       "name": "Unity",
       "url": "https://open.spotify.com/track/5Oz2DaOr6YNBYo1VXJUhFf"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "For The Love",
+        "url": "https://open.spotify.com/album/5I56tN8N4w5Xz70F0pssxO"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Dead Rose",
+          "url": "https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM"
+        },
+        {
+          "name": "Meggie York",
+          "url": "https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ"
+        }
+      ],
+      "duration_ms": 229558,
+      "name": "For The Love",
+      "url": "https://open.spotify.com/track/1LFooC64Ibh6SaFs9Nf8f9"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1127,42 +1127,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "SOOTHSAYER (Jon Casey Remix)",
-        "url": "https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/5MuRcJoSFMoCqXOtAK6Fh9"
       },
       "artists": [
         {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
         },
         {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
         }
       ],
-      "duration_ms": 191250,
-      "name": "SOOTHSAYER (Jon Casey Remix)",
-      "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/2WrV55xmaRHQNBioCOZc3z"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 258847,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/6mnrpyQvZ6NnmK28BGJHZ8"
+      "duration_ms": 152662,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6XJztU6tcpxFekSH98chJb"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1187,42 +1167,42 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/5MuRcJoSFMoCqXOtAK6Fh9"
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/2WrV55xmaRHQNBioCOZc3z"
       },
       "artists": [
         {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
         },
         {
-          "name": "Quarterhead",
-          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
         }
       ],
-      "duration_ms": 152662,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6XJztU6tcpxFekSH98chJb"
+      "duration_ms": 258847,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/6mnrpyQvZ6NnmK28BGJHZ8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Waiting / Paradise",
-        "url": "https://open.spotify.com/album/24aWSkyPzUBq8RCJ2Kprdf"
+        "name": "SOOTHSAYER (Jon Casey Remix)",
+        "url": "https://open.spotify.com/album/5DK8df3mkpoHP6zOn25zP8"
       },
       "artists": [
         {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
         },
         {
-          "name": "Crystal Skies",
-          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
         }
       ],
-      "duration_ms": 301200,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/3l5bgBsTb7lx6p72oJ9BWD"
+      "duration_ms": 191250,
+      "name": "SOOTHSAYER (Jon Casey Remix)",
+      "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1247,18 +1227,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Colors Of The Rainbow",
-        "url": "https://open.spotify.com/album/56eBLLYR7bsWWS0eKg678G"
+        "name": "Waiting / Paradise",
+        "url": "https://open.spotify.com/album/24aWSkyPzUBq8RCJ2Kprdf"
       },
       "artists": [
         {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
         }
       ],
-      "duration_ms": 131274,
-      "name": "Colors Of The Rainbow",
-      "url": "https://open.spotify.com/track/5ALzFD9BNabZAQrzN9rCYU"
+      "duration_ms": 301200,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/3l5bgBsTb7lx6p72oJ9BWD"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 192780,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/4AwgEsYuFsdAYM8Tj6NxeE"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Colors Of The Rainbow",
+        "url": "https://open.spotify.com/album/56eBLLYR7bsWWS0eKg678G"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        }
+      ],
+      "duration_ms": 131274,
+      "name": "Colors Of The Rainbow",
+      "url": "https://open.spotify.com/track/5ALzFD9BNabZAQrzN9rCYU"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/7KnyGK3HpU2pN9XKXw9he0"
-      },
-      "artists": [
-        {
-          "name": "Kiimi",
-          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
-        }
-      ],
-      "duration_ms": 197282,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/7CR35H2vSr3ly23iqFEpIC"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/15psK1WC7rarUC9vChkzWR"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 162341,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5lrFY7L0ftHfu6BaSQY1Lb"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/7KnyGK3HpU2pN9XKXw9he0"
+      },
+      "artists": [
+        {
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
+        }
+      ],
+      "duration_ms": 197282,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/7CR35H2vSr3ly23iqFEpIC"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Dreams Of A Dancefloor EP",
-        "url": "https://open.spotify.com/album/5nQWnGTyv8hPti6XkHKdZ4"
-      },
-      "artists": [
-        {
-          "name": "Octo Octa",
-          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
-        }
-      ],
-      "duration_ms": 283620,
-      "name": "Let Yourself Go!",
-      "url": "https://open.spotify.com/track/7f2cK2TS5SL2yqsJgqMwV1"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/0BINonSEu5AmCiLrhhfAMm"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 146086,
       "name": "always",
       "url": "https://open.spotify.com/track/4x18rLsHPvkWkBPCULknfd"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Dreams Of A Dancefloor EP",
+        "url": "https://open.spotify.com/album/5nQWnGTyv8hPti6XkHKdZ4"
+      },
+      "artists": [
+        {
+          "name": "Octo Octa",
+          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
+        }
+      ],
+      "duration_ms": 283620,
+      "name": "Let Yourself Go!",
+      "url": "https://open.spotify.com/track/7f2cK2TS5SL2yqsJgqMwV1"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Beach Album",
-        "url": "https://open.spotify.com/album/0fUJqNtddOzz1QdNwzoRJB"
-      },
-      "artists": [
-        {
-          "name": "Eli Escobar",
-          "url": "https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93"
-        }
-      ],
-      "duration_ms": 137872,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/1H5oGIm6CD5APg7NLfgqI5"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/2qbo4NvPhgqvyhde3Jre74"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 216610,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/4K7exElbpdWoWRP46p8mqW"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Beach Album",
+        "url": "https://open.spotify.com/album/0fUJqNtddOzz1QdNwzoRJB"
+      },
+      "artists": [
+        {
+          "name": "Eli Escobar",
+          "url": "https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/1H5oGIm6CD5APg7NLfgqI5"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Unique EP",
-        "url": "https://open.spotify.com/album/1p5cdny6T3dcuF0vFlkpjF"
-      },
-      "artists": [
-        {
-          "name": "Fleur Shore",
-          "url": "https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil"
-        }
-      ],
-      "duration_ms": 243720,
-      "name": "Unique",
-      "url": "https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "\u00c9 COMO?",
         "url": "https://open.spotify.com/album/4yBD2bHzoTZW6547TtlR0J"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 252935,
       "name": "\u00c9 COMO?",
       "url": "https://open.spotify.com/track/3woKxzNqkwuYQXDooNL1oB"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Unique EP",
+        "url": "https://open.spotify.com/album/1p5cdny6T3dcuF0vFlkpjF"
+      },
+      "artists": [
+        {
+          "name": "Fleur Shore",
+          "url": "https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/7chDllCV1g3mIf27gjOJnl"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTMzYzMyOTFmMTQ4MWRiY2FiMjI5MTY2MjZkZmY4ZTVjNThlOGIw",
+  "snapshot_id": "MCxhYTdlOGZjYmJkY2NlNDRhZTUzYzZlYWM1ZTJjMzg0ZmZhMDQ5OGNl",
   "tracks": [
     {
       "added_at": "2018-07-02 16:46:30",
@@ -515,8 +515,8 @@
     {
       "added_at": "2018-07-02 16:46:30",
       "album": {
-        "name": "Best of The Black President",
-        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+        "name": "The Best of the Black President",
+        "url": "https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 414933,
-      "name": "O.D.O.O. - Edit",
-      "url": "https://open.spotify.com/track/7yEPnFUTRWmfrLGLu24DRz"
+      "duration_ms": 415066,
+      "name": "O.D.O.O. - Edit Version",
+      "url": "https://open.spotify.com/track/2WS1GEWDQ7oN3sBjC0IIWI"
     },
     {
       "added_at": "2018-07-02 16:46:30",
@@ -744,17 +744,21 @@
       "added_at": "2018-07-02 16:46:30",
       "album": {
         "name": "From Africa With Fury: Rise",
-        "url": "https://open.spotify.com/album/3LNtsr41dMcpDEBoSq7sux"
+        "url": "https://open.spotify.com/album/2ifJESGupde7BuXW8U1aZV"
       },
       "artists": [
         {
           "name": "Seun Kuti",
           "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
         }
       ],
-      "duration_ms": 316973,
+      "duration_ms": 315973,
       "name": "African Soldier",
-      "url": "https://open.spotify.com/track/1tbUmCysCajR0ATiaZ4jpO"
+      "url": "https://open.spotify.com/track/5mTmOuw9eqvNMJZjlzpv2L"
     },
     {
       "added_at": "2018-07-02 16:46:30",

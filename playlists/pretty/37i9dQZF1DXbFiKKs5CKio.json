@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 50046,
+  "num_followers": 50113,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjgxOWQ2MjY2ZWQ2OWZkYmZhOTVjMmE2NzhhNDNiYTRkMDhlYzY0",
+  "snapshot_id": "MCxkM2FkZjk0MTZkMGI2ZTZhM2E1ZmIyYmVlNWU2NTNjMWZiMzQ5OTU1",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -259,26 +259,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
-      },
-      "artists": [
-        {
-          "name": "Victor Franco",
-          "url": "https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv"
-        },
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 142909,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 249333,
       "name": "Eu Tava Em Casa",
       "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
+      },
+      "artists": [
+        {
+          "name": "Victor Franco",
+          "url": "https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 142909,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -671,6 +671,30 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Me Faz Sentir",
+        "url": "https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2"
+      },
+      "artists": [
+        {
+          "name": "Aya",
+          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
+        },
+        {
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+        },
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+        }
+      ],
+      "duration_ms": 231402,
+      "name": "Me Faz Sentir",
+      "url": "https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Pulando",
         "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
       },
@@ -703,30 +727,6 @@
       "duration_ms": 152706,
       "name": "Doses",
       "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Me Faz Sentir",
-        "url": "https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2"
-      },
-      "artists": [
-        {
-          "name": "Aya",
-          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
-        },
-        {
-          "name": "Dj Will",
-          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
-        },
-        {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
-        }
-      ],
-      "duration_ms": 231402,
-      "name": "Me Faz Sentir",
-      "url": "https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Aeroporto",
+        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 209537,
+      "name": "Aeroporto",
+      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Ponte para Terapia",
         "url": "https://open.spotify.com/album/5yTc6JsARqGCX6mjUnXRq6"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 199000,
       "name": "Ponte para Terapia",
       "url": "https://open.spotify.com/track/0QiPpYaOqbq8a5uY2TK7P4"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Aeroporto",
-        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 209537,
-      "name": "Aeroporto",
-      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
     },
     {
       "added_at": "2023-09-15 03:01:00",

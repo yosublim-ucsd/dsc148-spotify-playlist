@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,524 likes - 125 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,566 likes - 125 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 124 | [Rain](https://open.spotify.com/track/0U070HY5rBmCyh4SIWHrgN) | [Kenny Barron & Dave Holland](https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP) | [The Art Of Conversation](https://open.spotify.com/album/7Blwoot1kZX3VuiIfHI0jT) | 7:33 |
 | 125 | [Blue In Green](https://open.spotify.com/track/0xze9SRrm4Ul5LA4N1MtcE) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Take This](https://open.spotify.com/album/4RI8UIrsKK3pODBLuYJo9r) | 2:59 |
 
-Snapshot ID: `MCw3MWYyNTI0MzI2MTJmYmM1ZTNiMjI0YmZjYmU5MTUzOTg1NDM3ZWQx`
+Snapshot ID: `MCw0YTllNzE0MDQ4MTQyYTc0YmQxNTc0YmUyZmIxNDBmYjM4YjVkYjZk`

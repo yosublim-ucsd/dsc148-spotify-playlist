@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Ala Vaikunthapurramuloo
 
-219 songs - 14 hr 31 min
+220 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Arerey Manasa](https://open.spotify.com/track/3XwpSZtT3clAjJqVW0Cgoi) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Falaknuma Das \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1cBufU0U56Pcm7WIKNKtHE) | 5:01 | 2022-07-24 | 2023-08-08 |
 | [Asha Pasham](https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Care Of Kancharapalem](https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p) | 4:20 | 2022-07-24 |  |
 | [Athiloka Sundari](https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:14 | 2023-08-07 |  |
+| [Aww Tuzo](https://open.spotify.com/track/6OKfxoZ4qW4ZHJs0RglVRr) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [No 1 Nenokkadine](https://open.spotify.com/album/5XWceT6xr2lvQJwoCJrU2G) | 4:22 | 2023-08-07 |  |
 | [Ay Pilla \- Telugu](https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK) | [Love Story](https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E) | 4:13 | 2022-07-24 | 2023-05-05 |
 | [Bad Boy \(From "Saaho"\)](https://open.spotify.com/track/07CVvNMGywbXhQRs6E7fbx) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bad Boy \(From "Saaho"\)](https://open.spotify.com/album/4WIWlZagMox8DDoAYCNmhV) | 2:57 | 2021-12-16 | 2022-07-25 |
 | [Baitikochi Chuste](https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 3:26 | 2022-07-24 |  |
@@ -206,7 +207,7 @@
 | [Sweety](https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW) | [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Rabbit M C](https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:25 | 2023-08-07 |  |
 | [Telisiney Na Nuvvey](https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 4:12 | 2021-12-16 |  |
 | [Telusaa Telusaa](https://open.spotify.com/track/1jz0PUb4rChtZUk4Itn1Co) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:24 | 2021-12-16 |  |
-| [Tharagathi Gadhi](https://open.spotify.com/track/7h8pQvwKxRYTt3oRGjNT93) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14) | [Colour Photo](https://open.spotify.com/album/04ryisWEHXSoU3l5K3J6k9) | 3:33 | 2021-12-16 |  |
+| [Tharagathi Gadhi](https://open.spotify.com/track/7h8pQvwKxRYTt3oRGjNT93) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14) | [Colour Photo](https://open.spotify.com/album/04ryisWEHXSoU3l5K3J6k9) | 3:33 | 2021-12-16 | 2023-09-21 |
 | [The Karma Theme \- Telugu \(From "U Turn"\)](https://open.spotify.com/track/0K2CU7TTmFBSbFm1Lt50Sx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [The Karma Theme \[Telugu \(From "U Turn"\)\]](https://open.spotify.com/album/7JzWYvbRsMEBBbufyXnkcL) | 3:34 | 2021-12-16 | 2022-07-25 |
 | [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 | 2022-02-09 |  |
 | [Top Lesi Poddi](https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5) | [Sagar, Geetha Madhuri](https://open.spotify.com/artist/4cjneCieMET25rMaFXwudS) | [Idharammayilatho](https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq) | 4:17 | 2023-08-07 |  |

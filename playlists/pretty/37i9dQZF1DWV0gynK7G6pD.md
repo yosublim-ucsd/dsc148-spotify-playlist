@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: María Dueñas
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,299 likes - 93 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,389 likes - 93 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 92 | [String Quartet No\. 1 in E\-Flat Major, Op\. 12, MWV R 25: III\. Andante Espressivo](https://open.spotify.com/track/40pJ8caesMRilOWyXdqbQU) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Quarteto Carlos Gomes](https://open.spotify.com/artist/413KX7N54qYOVXRSFjJNMN) | [Mendelssohn: String Quartets No\. 1, 2 & 3](https://open.spotify.com/album/3y8ccBdKmDLxgeRHvL6q3O) | 4:07 |
 | 93 | [Ruins of Athens\. Op\. 113 \(Arr\. Solo Piano by Busoni\): Fantasie \- Welte\-Mignon 1322](https://open.spotify.com/track/0MSzLxAsRsvgVvPOsssVJy) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Peter Phillips](https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp), [Ferruccio Busoni](https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1) | [Great Piano Transcriptions from the Golden Age, Vol\. 4](https://open.spotify.com/album/3JhNlojgLIY8vPYMUMnfBr) | 11:35 |
 
-Snapshot ID: `MCw3OWI5ZTRiMDgyNGMxMDNjMmM2MjA2NzQ1YzVkNmVhM2Q5MTZkYTI5`
+Snapshot ID: `MCwyODY3Y2MwYjNmZTQyYjE2MDM4YmM4ODQ3ZWEwNDI0NTg1M2FjNzVh`

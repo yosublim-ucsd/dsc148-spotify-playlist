@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Overmono
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,567 likes - 85 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,616 likes - 85 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 15 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 |
 | 16 | [Orlando](https://open.spotify.com/track/0rkwsDBRGsK8Qrr6xGQJzQ) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Orlando](https://open.spotify.com/album/43gDrPnCoCL2W0F8Sonrng) | 6:25 |
 | 17 | [Out There](https://open.spotify.com/track/72FDwBVy3bw7o9qf8S9Ghq) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Out There](https://open.spotify.com/album/5ICjtBnkNj6qaNI2gp72e0) | 4:21 |
-| 18 | [PsyPilled \- Vocal Rework](https://open.spotify.com/track/3iCbeFDVW51dM33CUt7DZS) | [Mittens](https://open.spotify.com/artist/6XQVVD3qhvoRUMTqz71go5) | [Groove Bait](https://open.spotify.com/album/4LBGYRn8VxCQRodNVeV64V) | 5:50 |
+| 18 | [PsyPilled \- Vocal Rework](https://open.spotify.com/track/3iCbeFDVW51dM33CUt7DZS) | [Mittens](https://open.spotify.com/artist/2oJviFhUidYxVydzwNKrwM) | [Groove Bait](https://open.spotify.com/album/4LBGYRn8VxCQRodNVeV64V) | 5:50 |
 | 19 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 |
 | 20 | [Carey Street](https://open.spotify.com/track/6c6gG7RCWf7aphY9tClCEr) | [Subjoi](https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p) | [Rotary](https://open.spotify.com/album/14sZpdLiHwctdgJDE8dOuz) | 4:18 |
 | 21 | [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 84 | [Mother \- Pretty Girl Remix](https://open.spotify.com/track/2rGOL5VgjeJUjQEoRVSQ8o) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Mother \(Remixes\)](https://open.spotify.com/album/4dkxdBbALMtQCORM3vne8u) | 5:50 |
 | 85 | [With U](https://open.spotify.com/track/7EnwSEceUcWFCEstHjAaXO) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [With U](https://open.spotify.com/album/2efHZKxHn5CVuLltB5g1PU) | 4:24 |
 
-Snapshot ID: `MCxlMzczNWJmOTllYjdmMzgyYjliZjk2YzRmZGM0ZGUyY2MzNzNiZjRi`
+Snapshot ID: `MCxiYzAwYzg4NDQ2MjcwYjk3YzkyMjM2ZjZiNThhNWJiMmFiN2M3MmI5`

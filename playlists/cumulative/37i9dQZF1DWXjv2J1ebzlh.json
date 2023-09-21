@@ -15020,10 +15020,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 881240,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/1HC6o3lTQvNmtH3ejYG4hs"
+    },
+    {
+      "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/532y6THMUtDYbRQAvzP1bL"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 881240,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/6D8455OOJF0eCFmFq8E4Qi"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New rock classics and essential cuts. Cover: System Of A Down",
+  "description": "New rock classics and essential cuts. Cover: Nirvana",
   "name": "Rock Solid",
   "tracks": [
     {
@@ -993,7 +993,7 @@
     },
     {
       "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "name": "In Utero (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
       "artists": [
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 281160,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 363800,
       "name": "Take A Picture",
       "url": "https://open.spotify.com/track/3LMk2ERkd46UY3SM7wNfiU"

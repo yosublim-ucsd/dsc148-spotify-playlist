@@ -6859,6 +6859,24 @@
     },
     {
       "album": {
+        "name": "89.7 Growl FM",
+        "url": "https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162546,
+      "name": "Let It Go As If You Wander",
+      "url": "https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k"
+    },
+    {
+      "album": {
         "name": "Chase After",
         "url": "https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS"
       },
@@ -8916,10 +8934,28 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 203863,
       "name": "Noidleap",
       "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
+    },
+    {
+      "album": {
+        "name": "noidleap",
+        "url": "https://open.spotify.com/album/5KYaSgNi77IKgGkxuqrp7R"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203863,
+      "name": "Noidleap",
+      "url": "https://open.spotify.com/track/6Frb0urydHcSQB8qGkp731"
     },
     {
       "album": {
@@ -10928,7 +10964,7 @@
     {
       "album": {
         "name": "Neo Standard",
-        "url": "https://open.spotify.com/album/1QkEKQCEKG2FwOJSoU39G0"
+        "url": "https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV"
       },
       "artists": [
         {
@@ -10943,6 +10979,28 @@
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Run Or Hide (feat. Marina Watanabe)",
+      "url": "https://open.spotify.com/track/6yg50Iimr1S1uSo3bJB6ZV"
+    },
+    {
+      "album": {
+        "name": "Neo Standard",
+        "url": "https://open.spotify.com/album/1QkEKQCEKG2FwOJSoU39G0"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Marina Watanabe",
+          "url": "https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
       "duration_ms": 193000,
       "name": "Run Or Hide (feat. Marina Watanabe)",
       "url": "https://open.spotify.com/track/79ppbtQoUyfYPuUvZWwQyX"
@@ -16546,7 +16604,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 150903,
       "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"

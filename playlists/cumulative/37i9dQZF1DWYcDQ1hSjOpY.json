@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Tranquilidad",
+        "url": "https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG"
+      },
+      "artists": [
+        {
+          "name": "Camilento",
+          "url": "https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Colors Of Tomorrow",
+      "url": "https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b"
+    },
+    {
+      "album": {
         "name": "Comfort Zone",
         "url": "https://open.spotify.com/album/1svkSAU7m4SXST5rh8a7xw"
       },
@@ -3898,6 +3916,42 @@
       "duration_ms": 205000,
       "name": "Jupiter 285",
       "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
+    },
+    {
+      "album": {
+        "name": "juu",
+        "url": "https://open.spotify.com/album/5pmfLhKpvk8KmNqA5ayiUq"
+      },
+      "artists": [
+        {
+          "name": "Echoes and Frequencies",
+          "url": "https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "juu",
+      "url": "https://open.spotify.com/track/55nogKh6Ns5mO0PaEpZPrv"
+    },
+    {
+      "album": {
+        "name": "Kujtimet",
+        "url": "https://open.spotify.com/album/0XDfEjLWDo0Sv1KsQnROmp"
+      },
+      "artists": [
+        {
+          "name": "Qetesia",
+          "url": "https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Kujtimet",
+      "url": "https://open.spotify.com/track/283VpOIFxubROj0o6mHD83"
     },
     {
       "album": {

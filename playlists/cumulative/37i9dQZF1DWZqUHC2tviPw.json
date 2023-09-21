@@ -3378,10 +3378,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 320000,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/6sDk75o8Fm7a4YCVbyfWHF"
+    },
+    {
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/3EM6GP0ILKdquo32nFj00V"
+      },
+      "artists": [
+        {
+          "name": "RICE / DJ Bucket",
+          "url": "https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/71SIbEj7UzajdjJ2NFAxD0"
     },
     {
       "album": {

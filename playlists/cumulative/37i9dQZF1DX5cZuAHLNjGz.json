@@ -403,6 +403,32 @@
     },
     {
       "album": {
+        "name": "Ayee",
+        "url": "https://open.spotify.com/album/0kk2Nm0O28gQLXVhaznomg"
+      },
+      "artists": [
+        {
+          "name": "Harnoor",
+          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
+        },
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "Ilam",
+          "url": "https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Ayee",
+      "url": "https://open.spotify.com/track/3s6bB02odIXvM3OpnqgzNN"
+    },
+    {
+      "album": {
         "name": "Snitches Get Stitches",
         "url": "https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E"
       },
@@ -2649,6 +2675,24 @@
     },
     {
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/3YuBvx1udZbelLA1idJMk5"
+      },
+      "artists": [
+        {
+          "name": "Hunar Sidhu",
+          "url": "https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156426,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/0mNxYkKtXVY9HcFTuTmSPP"
+    },
+    {
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2"
       },
@@ -3210,7 +3254,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 147200,
       "name": "Oouuu",
       "url": "https://open.spotify.com/track/4hAmLeBT1Ryk2oxSMMiJ7z"
@@ -3732,7 +3776,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 163245,
       "name": "Scars",
       "url": "https://open.spotify.com/track/2WzcdOr9IGIWjGQLEtV90Y"
@@ -4069,6 +4113,28 @@
     },
     {
       "album": {
+        "name": "Making Memories",
+        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155161,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
+    },
+    {
+      "album": {
         "name": "Sohne Lagde",
         "url": "https://open.spotify.com/album/7CewDXnhuGm4zkEcmKZQvy"
       },
@@ -4296,6 +4362,28 @@
       "duration_ms": 192500,
       "name": "Talja",
       "url": "https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj"
+    },
+    {
+      "album": {
+        "name": "Tareefan",
+        "url": "https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Mehar Vaani",
+          "url": "https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Tareefan",
+      "url": "https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp"
     },
     {
       "album": {
@@ -5030,7 +5118,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 200816,
       "name": "Wytb",
       "url": "https://open.spotify.com/track/0mitUgVDvaKFw4EuXZ8nLx"
@@ -5096,7 +5184,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 140752,
       "name": "You Talking To Me?",
       "url": "https://open.spotify.com/track/668vJMj83AqV0E2oMFKsiQ"

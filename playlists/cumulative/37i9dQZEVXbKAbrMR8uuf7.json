@@ -7235,6 +7235,24 @@
     },
     {
       "album": {
+        "name": "Gaming and chill",
+        "url": "https://open.spotify.com/album/4zmPErOAXWUMKBl7GROKrn"
+      },
+      "artists": [
+        {
+          "name": "Djloborojo",
+          "url": "https://open.spotify.com/artist/6CVUOemvWEpgQBzexKdY1e"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162516,
+      "name": "Gaming and chill",
+      "url": "https://open.spotify.com/track/0F2xORrS26LJ7z3T6wVeJ7"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -15758,7 +15776,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"

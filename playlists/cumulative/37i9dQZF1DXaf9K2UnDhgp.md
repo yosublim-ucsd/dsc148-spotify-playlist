@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-216 songs - 11 hr 48 min
+217 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [This Holiday](https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:34 | 2021-11-26 |  |
 | [Threadbare](https://open.spotify.com/track/4JrYtPByIks9p7h9FYhgeS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Threadbare](https://open.spotify.com/album/7n9A3XL9AprUZ4UhMRWCja) | 3:30 | 2021-11-26 |  |
 | [Turn off All the Christmas Songs](https://open.spotify.com/track/2GPUnkrAWoJ2YkzLBsaXwl) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Turn off All the Christmas Songs](https://open.spotify.com/album/65mYBztp2MM9ozVljKjePj) | 3:10 | 2022-12-20 |  |
-| [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/0U9gvmhKLcCMimMjz00qxp) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Chubby and the Gang Presents: A Christmas Extravaganza](https://open.spotify.com/album/7LnLkjFzqLUpONVoOVbpwH) | 3:30 | 2022-12-20 |  |
+| [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/0U9gvmhKLcCMimMjz00qxp) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Chubby and the Gang Presents: A Christmas Extravaganza](https://open.spotify.com/album/7LnLkjFzqLUpONVoOVbpwH) | 3:30 | 2022-12-20 | 2023-09-21 |
+| [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/1gaeICtm5jZet0IF8khcdP) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Chubby and the Gang presents: A Christmas Extravaganza](https://open.spotify.com/album/2haNprGHaH0xhari2p1ri6) | 3:30 | 2022-12-20 |  |
 | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/7bKiUJ2re9OTNkB8sjYEdm) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/album/13rqjPtmNSnmvBBO6tZyZg) | 3:30 | 2022-12-02 | 2023-01-06 |
 | [We All Need Christmas](https://open.spotify.com/track/0cGgN5pGXfECL8OLZEeIf2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [We All Need Christmas](https://open.spotify.com/album/7nXguxttjtF1IkupVfms5q) | 3:57 | 2021-11-26 |  |
 | [We Three Kings](https://open.spotify.com/track/2XwPpAAZVnakNYw6S9qPJC) | [Bang Bang Romeo](https://open.spotify.com/artist/0pYrJEBQD23sHMvxsBM3fO) | [We Three Kings](https://open.spotify.com/album/1TO6QSqIhdI5plWSHDi31p) | 1:58 | 2021-11-26 | 2022-11-09 |

@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Car, the garden\(카더가든\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Zia\(지아\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,007 songs - 2 day 17 hr 19 min
+1,008 songs - 2 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,7 +695,7 @@
 | [Sad farewell](https://open.spotify.com/track/730T7Z3S1jZQA3MeNs3VW1) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Sad farewell](https://open.spotify.com/album/64vB9es0rMYiWA1qPC9Z9d) | 4:20 | 2022-09-05 | 2022-11-04 |
 | [Same as Your Ex](https://open.spotify.com/track/4ofRVjFZ7PWdFxwp2RmyiZ) | [이화명](https://open.spotify.com/artist/6gkwLpOhRKekMHrlThg9Y5) | [Same as Your Ex \(Marriage Or Death X Leehwamyeong\)](https://open.spotify.com/album/3vjIEUPuHBfWmp7CBXPSzq) | 3:41 | 2022-07-07 | 2022-10-15 |
 | [Save Me](https://open.spotify.com/track/76KSPDz7KSs1DKchBCW3ys) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Save Me](https://open.spotify.com/album/3NuWeE7Zroxt50f1c3Z45g) | 3:45 | 2022-11-07 | 2023-01-21 |
-| [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-07-18 |  |
+| [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-07-18 | 2023-09-21 |
 | [Say hello](https://open.spotify.com/track/5VkWxt21vUAkhShLYLZ2Kb) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:25 | 2022-03-24 | 2022-04-20 |
 | [Say Yes \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:24 | 2021-12-20 | 2022-07-08 |
 | [Say You Love Me, Please](https://open.spotify.com/track/2j4wvCivrFmYCJdCVXnAeI) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Say You Love Me, Please](https://open.spotify.com/album/2OmpCFrEM7MlskEEBbrOA2) | 4:34 | 2023-02-24 | 2023-04-27 |
@@ -727,6 +727,7 @@
 | [So to speak,Love](https://open.spotify.com/track/0kjUOLyLACpGsZP8V26nNS) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Neighborhood enemy](https://open.spotify.com/album/67B6cE29Q7bTaTkJnEVFTJ) | 4:55 | 2023-05-05 | 2023-05-16 |
 | [softie inside](https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [softie inside](https://open.spotify.com/album/3NQOhmt0X1jJYdZO5KXtve) | 3:15 | 2022-09-29 | 2022-11-17 |
 | [Some days](https://open.spotify.com/track/6slhQbJyE06M4zcswqaLB9) | [Kim Chan Ho](https://open.spotify.com/artist/2iL5pnX0kNkBHvRUoEuj0l) | [Some days](https://open.spotify.com/album/3aOkWcnuxgdrNPp218EPu3) | 4:09 | 2022-07-07 | 2022-08-19 |
+| [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 | 2023-09-20 |  |
 | [Someday](https://open.spotify.com/track/2NDq5NUvCItdPkczFLguj3) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Someday](https://open.spotify.com/album/35bPymZ8g5lxGljWDL888d) | 4:38 | 2023-02-08 | 2023-06-23 |
 | [Someday, The Boy](https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc) | [Kim Feel](https://open.spotify.com/artist/6oR7m22sIO1t7o8h7bnwNW) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ) | 4:47 | 2021-12-20 | 2022-07-08 |
 | [Somehow](https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF) | [란\(RAN\)](https://open.spotify.com/artist/5JCsBzT5iTN0rGLMLfb2EF) | [The Crush Of Spring OST Part.11](https://open.spotify.com/album/23J6KpkSpALFrMGcXd2VZw) | 3:45 | 2022-07-07 | 2022-09-06 |

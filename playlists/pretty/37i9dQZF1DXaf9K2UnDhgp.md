@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,329 likes - 111 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,330 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 48 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/0jLZ1tlE3wcXljZdePwHJz) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/3lNJSpgqxurPSSt6hWTNgv) | 2:18 |
 | 49 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:19 |
 | 50 | [12 Days of Christmas](https://open.spotify.com/track/02SAP5qoj5GWubcKJDgXX9) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 3:33 |
-| 51 | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/0U9gvmhKLcCMimMjz00qxp) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Chubby and the Gang Presents: A Christmas Extravaganza](https://open.spotify.com/album/7LnLkjFzqLUpONVoOVbpwH) | 3:30 |
+| 51 | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/1gaeICtm5jZet0IF8khcdP) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Chubby and the Gang presents: A Christmas Extravaganza](https://open.spotify.com/album/2haNprGHaH0xhari2p1ri6) | 3:30 |
 | 52 | [Sleigh Ride](https://open.spotify.com/track/0WR3Y6l751tKYI1fRsn8ac) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [A Walk Off the Earth Christmas](https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM) | 3:28 |
 | 53 | [The Magic of Christmas Day](https://open.spotify.com/track/2P0qhpjz6lnGENOood6QtN) | [Dee Snider](https://open.spotify.com/artist/2pD123sZTm8brthWviUKlQ), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [The Magic of Christmas Day](https://open.spotify.com/album/3AK6MFv0oQIxhnJreOXoY7) | 5:05 |
 | 54 | [Blue Christmas](https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR) | 1:42 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 110 | [Happy Holidays, You Bastard](https://open.spotify.com/track/5lE1g5Qsi1stIjYh8O5FC1) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 0:42 |
 | 111 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
 
-Snapshot ID: `MCwzZWViOTg5YmE0ZTExYmVkMzJkZDM2MzAyYTgyMzU5NTYwMGM2MmUw`
+Snapshot ID: `MCxlY2MzZDAwYTVmYWJkYjM0N2U0ODQ2M2FkNWI0Nzk5MTg3OGZhZjU1`

@@ -1882,10 +1882,28 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 244673,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/1UoBxIqQHgoDmMyelylgqR"
+    },
+    {
+      "album": {
+        "name": "Be",
+        "url": "https://open.spotify.com/album/6bos201IEKrZfXlRfXgOW1"
+      },
+      "artists": [
+        {
+          "name": "Walter Kwan",
+          "url": "https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244673,
+      "name": "Every Summertime",
+      "url": "https://open.spotify.com/track/5GChRzepsXBuSX1iB6vb6t"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,488 likes - 120 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,753 likes - 120 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Portões Celestiais \- Ao Vivo](https://open.spotify.com/track/5b3OazQ41nLo3CNeuLyMPA) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [Matheus Trindade](https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL) | [Portões Celestiais \(Ao Vivo\)](https://open.spotify.com/album/574eXP5AevEROvGHuUdGSv) | 5:50 |
 | 120 | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/track/6ZxiEkmFOQGA5xrLiV3yTS) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/album/3iALD5FS2raKNCjouli13t) | 5:01 |
 
-Snapshot ID: `MCw2MmQ4ODNkYTdiOWM3ODcyZThkNDMxMTMwNjFhMWFhZjdiNjllNjgz`
+Snapshot ID: `MCwzNDlkZjM3OTZjNDBkYjJlNzEzYmFjMmIyYjM3MDUzYWE0ZGFlZmJm`

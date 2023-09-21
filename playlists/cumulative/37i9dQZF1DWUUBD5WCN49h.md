@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP?si=58Qc9PanQNitwXKmdSXXFg"> Khaid </a>
 
-560 songs - 1 day 3 hr 23 min
+561 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Beside You](https://open.spotify.com/track/2yyi0FijxXpUqNoO7Q6m8j) | [Black Girls Glow](https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK), [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg), [Lor](https://open.spotify.com/artist/0qB2kln0DEhQW99YeSgVPK), [Lily Asia](https://open.spotify.com/artist/5UzCUtrwz4xfsQYoA9toYu) | [Tapestry](https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u) | 3:47 | 2022-10-13 | 2022-11-26 |
 | [Bestie](https://open.spotify.com/track/0brRHW86zUOI6LI0ONCuT5) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ) | [Bestie](https://open.spotify.com/album/7mIiPZxkjNWyLVrWBttoFU) | 2:46 | 2023-07-28 | 2023-08-04 |
 | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE) | [Select Play](https://open.spotify.com/artist/5bJTdzjq8dZRcVjJ8FkAiU), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/album/4gXWlYFDwStgusk7cnXv0A) | 3:54 | 2023-06-22 |  |
-| [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 | 2023-08-10 |  |
+| [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 | 2023-08-10 | 2023-09-21 |
 | [BILLING = CHILLING](https://open.spotify.com/track/0whm71yydiyeu8W2WnKAD4) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [BILLING = CHILLING](https://open.spotify.com/album/7IUFcafS1yVSCcnI6xpYq3) | 2:50 | 2023-07-20 | 2023-08-04 |
 | [BIO BIO](https://open.spotify.com/track/4FdqMkSkh3OFoVXdHOOufu) | [Imole](https://open.spotify.com/artist/7hMY68ne4wp5iEzEOeRuAe) | [BIO BIO](https://open.spotify.com/album/09VOTuDWx2DiNAgS6XQpHX) | 2:23 | 2023-03-10 | 2023-03-18 |
 | [Bird](https://open.spotify.com/track/014HTC0i178dC8vOoYuUqA) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k) | [Bird](https://open.spotify.com/album/7iIbb8X14YRGEJMH1Ff8uK) | 3:01 | 2022-08-05 | 2022-10-22 |
@@ -373,6 +373,7 @@
 | [Ogbono](https://open.spotify.com/track/7G16KcvbjNrrfyJ7u1Zovd) | [JaySynths](https://open.spotify.com/artist/5Dw7QRpfWxXgx5GIKbu8zZ), [Toby K](https://open.spotify.com/artist/1owWez0tl8etTsWajrnIXZ), [Sel](https://open.spotify.com/artist/3x5BNVdaDxbzqEQOxPoQ5F) | [Eargasm](https://open.spotify.com/album/6tziP8LQRzLE2eFl5nEWrA) | 2:43 | 2023-05-25 | 2023-06-16 |
 | [OH OH](https://open.spotify.com/track/3IKNLvjbfXmr9xaZQmBqPz) | [Gillian Baci](https://open.spotify.com/artist/2wVzSBbiE5VqVrfD2h4IWc) | [OH OH](https://open.spotify.com/album/4qa907HswR0PYRpclwrzs5) | 3:23 | 2023-02-03 | 2023-02-11 |
 | [Oha](https://open.spotify.com/track/2PZlJEj06ZZZAe13OdHM22) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [Crave](https://open.spotify.com/album/15OKHri5NUgFB11KpzmfW3) | 3:12 | 2022-06-30 | 2022-11-04 |
+| [Old](https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Old](https://open.spotify.com/album/7m8teznwhjVGEHlHQPhBGW) | 4:11 | 2023-09-20 |  |
 | [Old Wineskins](https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Old Wineskins](https://open.spotify.com/album/1wHbVtTz7SLQi50QI4stdV) | 3:44 | 2022-10-21 | 2023-04-01 |
 | [Oluwa](https://open.spotify.com/track/0rWjze81rTIMxvGvZ1ZYVr) | [Sixfour](https://open.spotify.com/artist/1xNLra4AMOKN22iBjfy2u9) | [Oluwa](https://open.spotify.com/album/2UdTzDod1mP9ueD9PiUiHa) | 2:57 | 2023-02-03 | 2023-02-11 |
 | [Omalicha](https://open.spotify.com/track/5f8X74uHDBh0eFOL7g4CWt) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [Omalicha](https://open.spotify.com/album/6SlEjoDoVojyRAkQuZhTxJ) | 3:45 | 2022-06-30 | 2022-12-02 |

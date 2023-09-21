@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,048 likes - 150 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,084 likes - 150 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [Had It Happened](https://open.spotify.com/track/5Pnj7upUtbxav0LNu4v5lX) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:55 |
 | 150 | [Like in Love](https://open.spotify.com/track/4MUP0AOSKzwsum43ZwifQW) | [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Like in Love](https://open.spotify.com/album/23WrIHXp4jqOUDqkpCfcxp) | 6:06 |
 
-Snapshot ID: `MCwyOWI0ODZhNGVhZWE3MTBiZDQyZjIwMDMwNGZmNjViMWNiYTExZGY5`
+Snapshot ID: `MCw2Njk5ZGIwYmNiNTRkY2MwNjY1ZDFlYWNmMTM4YTJmY2E4YzI1MzQy`

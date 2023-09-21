@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Aku Cinta Padamu",
+        "url": "https://open.spotify.com/album/3bI3UZUV4u3lDtFdH5lfwu"
+      },
+      "artists": [
+        {
+          "name": "Agatha Suci",
+          "url": "https://open.spotify.com/artist/7lyZRTtQBfJMHzOBlkEb4y"
+        },
+        {
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213283,
+      "name": "Aku Cinta Padamu",
+      "url": "https://open.spotify.com/track/2d65X8EZVwbPtPEijn7K1j"
+    },
+    {
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/79OlXi99SqRKLTrZXedCfq"
       },
@@ -252,6 +274,24 @@
       "duration_ms": 199737,
       "name": "Biar Mantan Tau",
       "url": "https://open.spotify.com/track/6E6OhmmXOkklCcbqq7XF88"
+    },
+    {
+      "album": {
+        "name": "semua, semua.",
+        "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
+      },
+      "artists": [
+        {
+          "name": "Teddy Adhitya",
+          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219540,
+      "name": "Caraku, Caramu",
+      "url": "https://open.spotify.com/track/5VvU0BRvnOvnedAjZodsKQ"
     },
     {
       "album": {

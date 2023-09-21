@@ -4,7 +4,7 @@
 
 > Please stand for your personal anthems\. Cover: Fall Out Boy
 
-369 songs - 20 hr 19 min
+370 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 | 2022-04-08 | 2022-11-13 |
 | [Above Me](https://open.spotify.com/track/45ZjRrEFgHJhCQ72qKDeem) | [Rufio](https://open.spotify.com/artist/0HjoyITAvSVktTCjXUa40Q) | [Perhaps, I Suppose](https://open.spotify.com/album/0mKXj9hXclmhvassTP0LCw) | 3:11 | 2022-04-08 | 2022-04-19 |
 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:11 | 2021-09-02 | 2023-04-10 |
-| [Addicted](https://open.spotify.com/track/1B8MHa0NveCF1ViBEOZWO5) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:52 | 2023-02-10 |  |
+| [Addicted](https://open.spotify.com/track/1B8MHa0NveCF1ViBEOZWO5) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:52 | 2023-02-10 | 2023-09-21 |
 | [Adrenaline](https://open.spotify.com/track/5vxX2POnp7NBbaCAIVQix7) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 3:21 | 2021-09-02 | 2022-07-26 |
 | [Afloat](https://open.spotify.com/track/3eI3DS4MyOBMwJ40NmccM7) | [The Gospel Youth](https://open.spotify.com/artist/5EWAtvRDy8I6sSYlMjD6g0) | [Thoughtless](https://open.spotify.com/album/1Xix18mrxKexVrOhEyfsU5) | 4:02 | 2022-04-08 | 2022-04-21 |
 | [After Midnight](https://open.spotify.com/track/6Gl8JpiZrZMuUQf0GEgO2q) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Explicit Version\)](https://open.spotify.com/album/6MCx7ReBDhywHOUgmCLpwd) | 3:25 | 2022-04-08 | 2022-06-17 |
@@ -337,6 +337,7 @@
 | [Thnks fr th Mmrs](https://open.spotify.com/track/18GC3F8YPGB8CePXcTUizQ) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High \(Deluxe Edition\)](https://open.spotify.com/album/03Og8YvbFYbe3hmr9MfZHT) | 3:23 | 2021-09-02 | 2022-07-29 |
 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2022-06-16 |  |
 | [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2023-02-10 | 2023-08-25 |
+| [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 | 2023-02-10 |  |
 | [Tiny Voices](https://open.spotify.com/track/1uvVbFloadrUU6Bq70O9fR) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/5bJQXNxXTwvVh5250agH7p) | 3:27 | 2022-04-08 | 2022-04-18 |
 | [Torn](https://open.spotify.com/track/1NqH3H7CX9ffRcCc7bnKvS) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Torn](https://open.spotify.com/album/65MvFmasFUusRifkaL24b4) | 4:04 | 2021-09-02 | 2022-07-29 |
 | [Torn](https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Torn](https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL) | 4:04 | 2022-06-16 | 2022-11-13 |

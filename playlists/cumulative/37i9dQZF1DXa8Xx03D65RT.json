@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "A Te",
+        "url": "https://open.spotify.com/album/5A7PwvWXXWtY9qI9tEHslK"
+      },
+      "artists": [
+        {
+          "name": "Agatha Messina",
+          "url": "https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "A Te",
+      "url": "https://open.spotify.com/track/4h6HLXd9COTiaOhWBmzY2R"
+    },
+    {
+      "album": {
         "name": "A Thought Evoked",
         "url": "https://open.spotify.com/album/5tbZrlYXjQCuPYF9IwjI7w"
       },
@@ -600,7 +618,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 156996,
       "name": "Amble",
       "url": "https://open.spotify.com/track/5gvjOIFPr6moYBmWSV7B0V"
@@ -2484,6 +2502,24 @@
       "duration_ms": 174891,
       "name": "Dordogne Peace",
       "url": "https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv"
+    },
+    {
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/2h3Tc8dhSNA7KvhsCd5UKd"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9rie Beaumont",
+          "url": "https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151262,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/1SEtinSAD1mmbYW90xeFPM"
     },
     {
       "album": {
@@ -10356,7 +10392,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 144615,
       "name": "Tempo dell\u2019Oceano",
       "url": "https://open.spotify.com/track/0ruAGzEvwR2YZOzqoXI0Hk"

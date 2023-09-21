@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-789 songs - 1 day 19 hr 44 min
+790 songs - 1 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [OverTime](https://open.spotify.com/track/1MYnP8CpcgHCEBb1ZHjIdV) | [Ayo Breeze](https://open.spotify.com/artist/18lFxMB5HWY1gULAFKZ06Q) | [OverTime](https://open.spotify.com/album/3pK0S9EkgVvPOpfHO6er5E) | 2:47 | 2021-04-10 | 2021-04-15 |
 | [OVERTIME](https://open.spotify.com/track/7uykq0zhD7mvKaphE3mBtv) | [Edo 100](https://open.spotify.com/artist/2wxf0SeX6CPsu41EiVYvJS), [Tee Media](https://open.spotify.com/artist/6H8sZHTVF43gWvqOhQdLc5) | [OVERTIME](https://open.spotify.com/album/6ARysWjmXtcrSXOmG8B8TQ) | 2:48 | 2021-04-15 | 2021-04-16 |
 | [Ozone](https://open.spotify.com/track/6mOHAShVtqwJIBRAd7Xa4l) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle) | [Ozone](https://open.spotify.com/album/4x9Nh0dyy93tsBOQylu5pM) | 3:17 | 2021-05-25 | 2021-08-08 |
+| [Pacer](https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Pacer](https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm) | 2:56 | 2023-09-20 |  |
 | [Paint It, Black](https://open.spotify.com/track/1Vkk2yuOnFWjNWELQl81AN) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Selections from the HBO® Series\)](https://open.spotify.com/album/5UaeboVyWPWEdFB1TUEIc0) | 5:44 | 2019-09-29\* | 2021-03-14 |
 | [Palm Trees](https://open.spotify.com/track/7JEzvkKvp7McI192wWnd8L) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [We Loved Her Dearly](https://open.spotify.com/album/7InCoxx0uOLDvfkPKWsjhW) | 4:29 | 2021-03-16 | 2021-10-22 |
 | [Party Freaks \(feat\. Anna Yvette\)](https://open.spotify.com/track/3vSaO9kPmgBvdxrEQ1TBv4) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Rocket League x Monstercat Vol\. 2](https://open.spotify.com/album/7ignramjANJpFbUZuXHHso) | 3:33 | 2021-03-14 | 2021-05-26 |

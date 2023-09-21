@@ -1,12 +1,12 @@
 {
   "description": "Knees go down and the prayers go up",
-  "num_followers": 12043,
+  "num_followers": 12139,
   "original_name": "On Bended Knees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmY4Njk1ZjU2MDFlNTJiYTY4ZDE2ZGY2YTE2ZjAwZDI2MDA5M2U4",
+  "snapshot_id": "MCwwYTIxMWY3MTNmNTIzNTU3ODFjZWUxZGI4NzkyNDc4ZjRlNjVlMDE2",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "There's an Overflow",
-        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "David G",
+          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
         }
       ],
-      "duration_ms": 490000,
-      "name": "There's an Overflow",
-      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
+      "duration_ms": 324154,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -407,46 +407,34 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Yahweh",
-        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
+        "name": "There's an Overflow",
+        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
       },
       "artists": [
         {
-          "name": "David G",
-          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 324154,
-      "name": "Yahweh",
-      "url": "https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ"
+      "duration_ms": 490000,
+      "name": "There's an Overflow",
+      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
     },
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "A Sound from Heaven",
-        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
+        "name": "Lara George",
+        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
       },
       "artists": [
         {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
-        },
-        {
-          "name": "Danny Nettey",
-          "url": "https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK"
-        },
-        {
-          "name": "Emmit Jim Konadu",
-          "url": "https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx"
-        },
-        {
-          "name": "Negar Wujanji",
-          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
+          "name": "Lara George",
+          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
         }
       ],
-      "duration_ms": 402782,
-      "name": "Yes You Are the Lord",
-      "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
+      "duration_ms": 269113,
+      "name": "Ko Ma Si/ Nobody Like You",
+      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -483,18 +471,30 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Lara George",
-        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
+        "name": "A Sound from Heaven",
+        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
       "artists": [
         {
-          "name": "Lara George",
-          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+        },
+        {
+          "name": "Danny Nettey",
+          "url": "https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK"
+        },
+        {
+          "name": "Emmit Jim Konadu",
+          "url": "https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx"
+        },
+        {
+          "name": "Negar Wujanji",
+          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
         }
       ],
-      "duration_ms": 269113,
-      "name": "Ko Ma Si/ Nobody Like You",
-      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
+      "duration_ms": 402782,
+      "name": "Yes You Are the Lord",
+      "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "The Name of Jesus: Sinach Live in Concert",
-        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 444630,
-      "name": "I Stand Amazed (Live)",
-      "url": "https://open.spotify.com/track/0544EK1JJF4rBb2DREyn26"
+      "duration_ms": 369037,
+      "name": "Ogya",
+      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+        "name": "The Name of Jesus: Sinach Live in Concert",
+        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 369037,
-      "name": "Ogya",
-      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
+      "duration_ms": 444630,
+      "name": "I Stand Amazed (Live)",
+      "url": "https://open.spotify.com/track/0544EK1JJF4rBb2DREyn26"
     },
     {
       "added_at": "2023-09-14 23:00:00",

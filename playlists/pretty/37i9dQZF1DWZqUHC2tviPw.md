@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,600 likes - 155 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,688 likes - 155 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 72 | [JOYFUL VS HAPPINESS](https://open.spotify.com/track/5guZOtwuwy2eIJoKOKwK0D) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [JOYFUL VS HAPPINESS](https://open.spotify.com/album/6XSdGUawSNRkrOmkKh4Tzy) | 3:16 |
 | 73 | [Sahara \- Onderkoffer & Basshoven Remix](https://open.spotify.com/track/0Qmzdnm8vz72x3TOgCZYKn) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H), [Onderkoffer](https://open.spotify.com/artist/6gce3osfgmB2RCMqoKfwFe), [Basshoven](https://open.spotify.com/artist/3yc1IuXu7iTYuQFDTrIEZ1) | [Sahara \(Onderkoffer & Basshoven Remix\)](https://open.spotify.com/album/5Bkdd89SaxesvN0ZlYpelT) | 2:47 |
 | 74 | [Camelot](https://open.spotify.com/track/59kFsvZ4jPYS7zyOkuFJUy) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:11 |
-| 75 | [Twisted](https://open.spotify.com/track/6sDk75o8Fm7a4YCVbyfWHF) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Twisted](https://open.spotify.com/album/5l9PPNh220r3rE0PJIDAhG) | 5:20 |
+| 75 | [Twisted](https://open.spotify.com/track/71SIbEj7UzajdjJ2NFAxD0) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Twisted](https://open.spotify.com/album/3EM6GP0ILKdquo32nFj00V) | 5:20 |
 | 76 | [Catch](https://open.spotify.com/track/2YbpsxiihiN7yiIf1TQ9vn) | [Redrum](https://open.spotify.com/artist/4gDzEX3EAlLlDOxNl52DTK) | [Catch](https://open.spotify.com/album/6EHikGB1Z5hXACJinPWqBT) | 4:16 |
 | 77 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 |
 | 78 | [Bunny Mafia](https://open.spotify.com/track/5lTmF6RDdyd45RIrDgfV22) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Bunny Mafia](https://open.spotify.com/album/2ZmJCjus4JrcC10CqvG0a5) | 1:44 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 154 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 155 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MCw5NmQ5MzY5YjM1YzQ2YTkwMDEzYjMwNDUwMmJkZTE0NmEyNGM1NTJm`
+Snapshot ID: `MCxhNDEwY2M3ZWMyOGYwYWM0MWY1YWMzOTMxMDMxY2IwYWI2ZjUxNDg0`

@@ -139,6 +139,44 @@
     },
     {
       "album": {
+        "name": "Ali Baba",
+        "url": "https://open.spotify.com/album/4uOypUiRUVXAAoFVkhwx4K"
+      },
+      "artists": [
+        {
+          "name": "Benzooloo",
+          "url": "https://open.spotify.com/artist/1XoYv8r7rCgzBSgMWCsnzR"
+        },
+        {
+          "name": "Kmy Kmo",
+          "url": "https://open.spotify.com/artist/43ZXvAH7c6jRsqNIRWft4P"
+        },
+        {
+          "name": "B-Heart",
+          "url": "https://open.spotify.com/artist/3wkgUQe1MTMFJp6bv3YGcK"
+        },
+        {
+          "name": "YAPH",
+          "url": "https://open.spotify.com/artist/0gYAuzp0aYbrjkpsO7Yf2t"
+        },
+        {
+          "name": "Sabbala",
+          "url": "https://open.spotify.com/artist/3Aj4eWZ7Q7iNoNB2TaaETV"
+        },
+        {
+          "name": "Ayien Rahman",
+          "url": "https://open.spotify.com/artist/09MHO8uINT8wFvZV5cYfhh"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Ali Baba",
+      "url": "https://open.spotify.com/track/599l10xqI1HMzoEP7gNoWZ"
+    },
+    {
+      "album": {
         "name": "Andaikan Kau Datang (From \"Miracle in Cell No. 7\")",
         "url": "https://open.spotify.com/album/3iA7DH0b2IUs9tqGSOh3uP"
       },
@@ -925,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Cukup",
+        "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220230,
+      "name": "Cukup",
+      "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
+    },
+    {
+      "album": {
         "name": "damai",
         "url": "https://open.spotify.com/album/33HANwlr58QfWVi771AUSk"
       },
@@ -1238,7 +1294,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 242000,
       "name": "Gagal Bersembunyi",
       "url": "https://open.spotify.com/track/3uVXx4FZU0TawfkyQznFBr"
@@ -1629,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/21Za9kIL7PUvXUAQy9nV13"
+      },
+      "artists": [
+        {
+          "name": "ALYPH",
+          "url": "https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188502,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/2luqp05fNA4CbzzgWR9cuS"
+    },
+    {
+      "album": {
         "name": "Hidup Tanpamu",
         "url": "https://open.spotify.com/album/1AR9UN1saEOhIb5MVhM8GN"
       },
@@ -1676,7 +1750,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 238995,
       "name": "Hilang Kendali",
       "url": "https://open.spotify.com/track/6g731vMn1AKOPkVS4V3Wx7"
@@ -1716,7 +1790,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 255419,
       "name": "Hingga Hujung Hayati (feat. Zainal Abidin)",
       "url": "https://open.spotify.com/track/1lQHK9zbLnOTtaNcEDotVJ"
@@ -1774,7 +1848,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 222000,
       "name": "IGAU",
       "url": "https://open.spotify.com/track/0Znif19DuUdJyhk3o1L1eC"
@@ -2553,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "Kuat",
+        "url": "https://open.spotify.com/album/28aQUEM8ke0PFwmu44cTgC"
+      },
+      "artists": [
+        {
+          "name": "Ki Misri",
+          "url": "https://open.spotify.com/artist/38RILhWi7VGAMgDoAg9Ied"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Kuat",
+      "url": "https://open.spotify.com/track/4OqbiABu5jE9Ei57BxkGMZ"
+    },
+    {
+      "album": {
         "name": "KUDRAT",
         "url": "https://open.spotify.com/album/1ooRJcpC7LJ67yvcXTXN1v"
       },
@@ -2784,7 +2876,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 214500,
       "name": "Luarbiasa",
       "url": "https://open.spotify.com/track/35gZphaBnnB6DuEtpKVK5g"
@@ -2907,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Masa Mudaku Habis",
+        "url": "https://open.spotify.com/album/3XntILaq6yQVrdUk0kVRwZ"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254659,
+      "name": "Masa Mudaku Habis",
+      "url": "https://open.spotify.com/track/7016fRgPW6LoYsuBIjgfVr"
+    },
+    {
+      "album": {
         "name": "Masih Yuna",
         "url": "https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm"
       },
@@ -2998,6 +3108,24 @@
       "duration_ms": 247721,
       "name": "Mengejar Matahari",
       "url": "https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v"
+    },
+    {
+      "album": {
+        "name": "Mengertilah",
+        "url": "https://open.spotify.com/album/5v9wJQMjbPpYbz7IXTjsk5"
+      },
+      "artists": [
+        {
+          "name": "Liza Hanim",
+          "url": "https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222048,
+      "name": "Mengertilah",
+      "url": "https://open.spotify.com/track/73JqpCVLn8eCSvmKr7oZYq"
     },
     {
       "album": {
@@ -3404,7 +3532,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 192159,
       "name": "OK",
       "url": "https://open.spotify.com/track/3RzM4wq71b3zHQCQCQQq9m"
@@ -5016,7 +5144,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 209712,
       "name": "Tak Pantas Untukmu",
       "url": "https://open.spotify.com/track/7iCXcIe76NzITmgYoFf3Kv"
@@ -5262,6 +5390,24 @@
       "duration_ms": 264644,
       "name": "Terus Hidup",
       "url": "https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu"
+    },
+    {
+      "album": {
+        "name": "Terus Menunggu",
+        "url": "https://open.spotify.com/album/7pv7AHF92fZicH93EaBgAC"
+      },
+      "artists": [
+        {
+          "name": "gonebloom",
+          "url": "https://open.spotify.com/artist/50ic5Z28Rbu8He7HZMdAOf"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Terus Menunggu",
+      "url": "https://open.spotify.com/track/3Sw1AuJxpwJEmfqDcGO9Zv"
     },
     {
       "album": {

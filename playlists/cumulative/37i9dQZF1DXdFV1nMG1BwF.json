@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 121132,
       "name": "Cabin Noise Melody",
       "url": "https://open.spotify.com/track/4TVbi0QfkzKCvLeIIPfKqb"
@@ -1118,6 +1118,24 @@
       "duration_ms": 187081,
       "name": "Hemelse Witte Ruis",
       "url": "https://open.spotify.com/track/3nRv6eO0ZxOnwr8n62QTvH"
+    },
+    {
+      "album": {
+        "name": "White Noizu",
+        "url": "https://open.spotify.com/album/4f7NGXGk8LEF0XZLHyWrYU"
+      },
+      "artists": [
+        {
+          "name": "Noizu Deluxe",
+          "url": "https://open.spotify.com/artist/11OG3LRKgXcTxtDxqkYbH0"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Hontoni White Noise",
+      "url": "https://open.spotify.com/track/742apIRA23YNnENap1s4xV"
     },
     {
       "album": {
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 123826,
       "name": "Recovery Noise",
       "url": "https://open.spotify.com/track/5vogIOKSlchnU9RTcwC8FV"
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 206000,
       "name": "Relaxing Noise Aid",
       "url": "https://open.spotify.com/track/6mI0WuRBmcH7ZgHpgxloMP"
@@ -2504,6 +2522,24 @@
       "duration_ms": 123180,
       "name": "Sequencialidade",
       "url": "https://open.spotify.com/track/3yooJ67GPIoD8ntFvMfZ3g"
+    },
+    {
+      "album": {
+        "name": "Serene Motions",
+        "url": "https://open.spotify.com/album/2E4ifSwtkI07EoFbMPPLJV"
+      },
+      "artists": [
+        {
+          "name": "Ambinima",
+          "url": "https://open.spotify.com/artist/1DtkBjA8TFpAlXxOHxCqta"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Serene Motions",
+      "url": "https://open.spotify.com/track/1jkgUFiIzXmWwPDdunSEU3"
     },
     {
       "album": {
@@ -3040,7 +3076,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 176000,
       "name": "stream noise",
       "url": "https://open.spotify.com/track/0TuxsiscJFhlbOkKuFBQVQ"
@@ -3184,7 +3220,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 175217,
       "name": "the silence of white noise",
       "url": "https://open.spotify.com/track/3QZRlPhvWGolHTWxGwx4IC"
@@ -3228,6 +3264,24 @@
       "duration_ms": 63000,
       "name": "Toddler Deep Dreaming Brown Noise [Loop]",
       "url": "https://open.spotify.com/track/6WYd7VsbdbdojAH9LKcxgc"
+    },
+    {
+      "album": {
+        "name": "Tranquil Streams of White Noise",
+        "url": "https://open.spotify.com/album/5sou8WgHMNENQcK0Kn3Y81"
+      },
+      "artists": [
+        {
+          "name": "Noise Nuance",
+          "url": "https://open.spotify.com/artist/2UnfTYtP7exZ2He2RZSBd5"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154354,
+      "name": "Tranquil Stream",
+      "url": "https://open.spotify.com/track/446XpTtrRALDIKVSBA3YjJ"
     },
     {
       "album": {
@@ -3465,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Stream",
+        "url": "https://open.spotify.com/album/3Tph9JVGBEKSQ46sTBRglJ"
+      },
+      "artists": [
+        {
+          "name": "Turquoise Turmoil",
+          "url": "https://open.spotify.com/artist/5W19VR9TpHPvtmH3lfR6vt"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174903,
+      "name": "White Haze",
+      "url": "https://open.spotify.com/track/2FL3hIfryGKeLJkykSlyhZ"
+    },
+    {
+      "album": {
         "name": "Placid Noise",
         "url": "https://open.spotify.com/album/2BOzypucqC7iyUbofB6gWn"
       },
@@ -3498,6 +3570,24 @@
       "duration_ms": 130639,
       "name": "White Home Noise",
       "url": "https://open.spotify.com/track/6jdH1T167abmhAvIz0M3CR"
+    },
+    {
+      "album": {
+        "name": "White Evening Noise",
+        "url": "https://open.spotify.com/album/5m9azpx3Mqj4tOLA2kM7F6"
+      },
+      "artists": [
+        {
+          "name": "Ambientics",
+          "url": "https://open.spotify.com/artist/5P4WyIscm91rNDa8lZuW6a"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "White Night Noise",
+      "url": "https://open.spotify.com/track/1EUTUbuBNWwyVNMr1Jxp9w"
     },
     {
       "album": {
@@ -3746,7 +3836,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 214000,
       "name": "White Noise asleep on my feet",
       "url": "https://open.spotify.com/track/5RbVq0wsb6uAwFBYNzqHuD"
@@ -3858,6 +3948,24 @@
       "duration_ms": 164583,
       "name": "White Noise for Baby Sleep",
       "url": "https://open.spotify.com/track/16Vewnjl60wKkzZb8bz0Hp"
+    },
+    {
+      "album": {
+        "name": "White Noise Meditation Realm",
+        "url": "https://open.spotify.com/album/1BOyXnbTBY0FbrAUGTncIS"
+      },
+      "artists": [
+        {
+          "name": "Noise Makers",
+          "url": "https://open.spotify.com/artist/53wxoSkjgilHcCqng9HK1y"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158968,
+      "name": "White Noise for Productivity",
+      "url": "https://open.spotify.com/track/5c2gzZ7ZjePKD9jq2Fw3im"
     },
     {
       "album": {
@@ -4146,6 +4254,24 @@
       "duration_ms": 173871,
       "name": "White Noise Rauschen",
       "url": "https://open.spotify.com/track/4HbdRcLLnUHgBVBDVRD14M"
+    },
+    {
+      "album": {
+        "name": "White Noise Dream State",
+        "url": "https://open.spotify.com/album/4MVN2QQAwJJY6gliY1N7Ya"
+      },
+      "artists": [
+        {
+          "name": "Dreamy White Noise",
+          "url": "https://open.spotify.com/artist/3fphHcubpPIVJ80z5uBgyA"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152281,
+      "name": "White Noise Relaxation Haven",
+      "url": "https://open.spotify.com/track/6lthCEvodT1v7NR0b3qXOk"
     },
     {
       "album": {
@@ -4466,7 +4592,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 146737,
       "name": "Your White Noise",
       "url": "https://open.spotify.com/track/1fgeb3eEwjdFDOa5OmeEUH"

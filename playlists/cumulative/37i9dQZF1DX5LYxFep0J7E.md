@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-154 songs - 13 hr 0 min
+155 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Trinity](https://open.spotify.com/track/1mO6jUnWeWtVYRXGoGFI70) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 7:54 | 2022-11-30 |  |
 | [Ultraviolet](https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 5:12 | 2021-12-01 | 2022-12-01 |
 | [Unrest II](https://open.spotify.com/track/5n2ungarkfmrpDS5VhKja6) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Unrest](https://open.spotify.com/album/6QaENtltIJqJg14EvwvtfO) | 4:08 | 2022-11-30 |  |
-| [Victory Dance](https://open.spotify.com/track/7y4FhiHBPKB6EqFQV66CDR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 4:55 | 2022-11-30 |  |
+| [Victory Dance](https://open.spotify.com/track/5Nu4AvrNgIx42nWGbteHLh) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux) | 4:55 | 2022-11-30 |  |
+| [Victory Dance](https://open.spotify.com/track/7y4FhiHBPKB6EqFQV66CDR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 4:55 | 2022-11-30 | 2023-09-21 |
 | [Vila Bela](https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Sankofa](https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf) | 4:44 | 2021-12-01 | 2022-12-01 |
 | [Walk Cycle](https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2) | 3:12 | 2022-11-30 |  |
 | [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 | 2022-11-30 | 2023-06-22 |

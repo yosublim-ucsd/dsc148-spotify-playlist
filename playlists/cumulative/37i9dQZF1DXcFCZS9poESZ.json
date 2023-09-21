@@ -1330,24 +1330,6 @@
     {
       "album": {
         "name": "\u9752\u6625\u3057\u305f\u3044",
-        "url": "https://open.spotify.com/album/0QuyqSiuLLidVAr5sNyLfX"
-      },
-      "artists": [
-        {
-          "name": "Rie Fujiwara",
-          "url": "https://open.spotify.com/artist/61EJNeLSuvuA8n8As8YENc"
-        }
-      ],
-      "date_added": "2022-06-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231653,
-      "name": "\u611b\u3088 \u30d5\u30a1\u30e9\u30a6\u30a7\u30a4",
-      "url": "https://open.spotify.com/track/1wIZ1LQw6t2v9HLViT67TX"
-    },
-    {
-      "album": {
-        "name": "\u9752\u6625\u3057\u305f\u3044",
         "url": "https://open.spotify.com/album/2Bvzzo7LW4efdBu9UhdAik"
       },
       "artists": [
@@ -1380,6 +1362,24 @@
       "duration_ms": 233493,
       "name": "\u611b\u3088 \u30d5\u30a1\u30e9\u30a6\u30a7\u30a4",
       "url": "https://open.spotify.com/track/0v3JsfnNpx8ikSKU7mP6SI"
+    },
+    {
+      "album": {
+        "name": "\u9752\u6625\u3057\u305f\u3044",
+        "url": "https://open.spotify.com/album/0QuyqSiuLLidVAr5sNyLfX"
+      },
+      "artists": [
+        {
+          "name": "Rie Fujiwara",
+          "url": "https://open.spotify.com/artist/61EJNeLSuvuA8n8As8YENc"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "\u611b\u3088\u3000\u30d5\u30a1\u30e9\u30a6\u30a7\u30a4",
+      "url": "https://open.spotify.com/track/1wIZ1LQw6t2v9HLViT67TX"
     },
     {
       "album": {

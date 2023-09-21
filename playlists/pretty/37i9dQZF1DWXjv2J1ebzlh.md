@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,728 likes - 1,175 songs - 3 day 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,779 likes - 1,175 songs - 3 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -522,7 +522,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 512 | [Jakhana Jakhana](https://open.spotify.com/track/0nqj8x8f1PKJIl1DvQ1oHC) | [Dikanda](https://open.spotify.com/artist/0If4SE5YvyD62bvDKIKE3w) | [Jakhana Jakhana](https://open.spotify.com/album/4yyeEF5jrAqw9rOd1XaQsY) | 3:49 |
 | 513 | [Onsta la Yerbita](https://open.spotify.com/track/1kSijKTC3QmM9OPQYKIbLk) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Sicodélicos](https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12) | 6:16 |
 | 514 | [Let's Boogaloo](https://open.spotify.com/track/73heg6N1M8OUS5dK8D5aEv) | [Willie Rosario and His Orchestra](https://open.spotify.com/artist/5U4gdbrQsvQldFcpHr8KT9), [Frank Figueroa](https://open.spotify.com/artist/7hOYYQC7BXAKzZAO8omlAP) | [Two Too Much!](https://open.spotify.com/album/0TAlHXQHBUGrF9DJJsuZYT) | 3:36 |
-| 515 | [Gentleman](https://open.spotify.com/track/1HC6o3lTQvNmtH3ejYG4hs) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/56UAK81XOvDgAcTsI0Olpk) | 14:41 |
+| 515 | [Gentleman](https://open.spotify.com/track/6D8455OOJF0eCFmFq8E4Qi) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/532y6THMUtDYbRQAvzP1bL) | 14:41 |
 | 516 | [Black but Sweet](https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw) | [Wilmoth Houdini](https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S) | [The Cooks in Trinidad](https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M) | 2:33 |
 | 517 | [Bucabu](https://open.spotify.com/track/6qmGk1FXKvAfrYqy327yJZ) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Feliz Dia Del nombre Teresa](https://open.spotify.com/album/75152bkDiq0YhA614CdJ8L) | 4:48 |
 | 518 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
@@ -1184,4 +1184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1174 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1175 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCwzMzg2MWUxMTU1ODI2ODk5NzYwMTAwY2YzMTA2MjhmMzljYjQ3ZTlj`
+Snapshot ID: `MCxkODIwYzA5MTMyNzU2M2MwODg0MDUwYWFiNzhiMmJhNTJmOTM0ZThj`

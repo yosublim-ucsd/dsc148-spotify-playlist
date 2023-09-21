@@ -1,12 +1,12 @@
 {
   "description": "El sonido experimental del Caribe \ud83c\udf34\ud83e\udd80\u269b\ufe0f",
-  "num_followers": 387,
+  "num_followers": 388,
   "original_name": "Caribe At\u00f3mico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi",
+  "snapshot_id": "MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm",
   "tracks": [
     {
       "added_at": "2022-08-13 03:00:56",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "0000+0000",
+        "url": "https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp"
+      },
+      "artists": [
+        {
+          "name": "\u00ccF\u00c9",
+          "url": "https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF"
+        }
+      ],
+      "duration_ms": 250846,
+      "name": "Heart Full of Love",
+      "url": "https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "El Juidero",
         "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 299533,
       "name": "Bajito a selva",
       "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "0000+0000",
-        "url": "https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp"
-      },
-      "artists": [
-        {
-          "name": "\u00ccF\u00c9",
-          "url": "https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF"
-        }
-      ],
-      "duration_ms": 250846,
-      "name": "Heart Full of Love",
-      "url": "https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0"
     },
     {
       "added_at": "2022-08-13 03:00:56",

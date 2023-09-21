@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db?si=FtwW6NTFRWONZlSI\-\-5snw">Sion Nación Santa</a>
 
-1,216 songs - 3 day 15 hr 25 min
+1,217 songs - 3 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1111,7 +1111,8 @@
 | [Tuyo \- Remix](https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Tuyo \(Remix\)](https://open.spotify.com/album/3GVhKm1yGltRwaOflbaRl3) | 4:04 | 2022-06-17 | 2022-08-20 |
 | [Tuyo Soy](https://open.spotify.com/track/7jvyXMQbCOa8dRBoB2Xmjt) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8) | [Tuyo Soy](https://open.spotify.com/album/2pup0ILRokspy6lSerGxJx) | 7:12 | 2022-10-07 | 2022-12-10 |
 | [Tú Conmigo Vas](https://open.spotify.com/track/313A4zg9rwsPgsaXobdnIe) | [Cuarteto Vocal Sabbath](https://open.spotify.com/artist/7stUAI6LTmGJWKaea2TOJo) | [Tú Conmigo Vas](https://open.spotify.com/album/05HbQc2a0FCms1KIzmb4sL) | 3:17 | 2023-03-17 | 2023-04-15 |
-| [Tú Conmigo Vas](https://open.spotify.com/track/1zeeGZHvRofqtyb2scZ2pT) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu), [Halogena](https://open.spotify.com/artist/7bqTWeLqeSjt40EisJxzac) | [Tú Conmigo Vas](https://open.spotify.com/album/2s09iXD44UVVWZlIIgmob5) | 4:49 | 2023-08-25 |  |
+| [Tú Conmigo Vas](https://open.spotify.com/track/1zeeGZHvRofqtyb2scZ2pT) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu), [Halogena](https://open.spotify.com/artist/7bqTWeLqeSjt40EisJxzac) | [Tú Conmigo Vas](https://open.spotify.com/album/2s09iXD44UVVWZlIIgmob5) | 4:49 | 2023-08-25 | 2023-09-21 |
+| [Tú Conmigo Vas](https://open.spotify.com/track/5nVxwYdtqS2dMfqFx8riN5) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu), [Halogena](https://open.spotify.com/artist/7bqTWeLqeSjt40EisJxzac) | [Vencer](https://open.spotify.com/album/2kI2WWigOFhFEYucSNA0au) | 4:49 | 2023-09-15 |  |
 | [Tú Eres Mi Lugar](https://open.spotify.com/track/3l5HRtAg1alGWZKhyOrGFQ) | [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Tú Eres Mi Lugar](https://open.spotify.com/album/2we1MKPjCeV2U182IIoeZu) | 3:29 | 2023-05-19 | 2023-07-15 |
 | [Tú Eres Rey \(Aleluya\)](https://open.spotify.com/track/6s9Oy3qwYVG4AAlgpkcJje) | [Omar Oropesa](https://open.spotify.com/artist/4sBl73S8GoWdWH0ORiZCno) | [Tú Eres Rey \(Aleluya\)](https://open.spotify.com/album/4Ubai9xWxsgUZ5vbIijy6g) | 5:15 | 2022-10-28 | 2023-01-06 |
 | [Tú Estás](https://open.spotify.com/track/59DwOvFPSZZn1JPUYEGBCK) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Tú Estás](https://open.spotify.com/album/3X2pnjvVHF0rntxuO5PyyE) | 2:42 | 2022-02-25 | 2022-04-09 |

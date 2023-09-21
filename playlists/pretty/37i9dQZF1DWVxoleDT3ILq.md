@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Simón Campusano
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,403 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,412 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 |
 | 100 | [despacito](https://open.spotify.com/track/2LPnCqJb4Impa4hOvU0qjK) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [despacito](https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC) | 3:13 |
 
-Snapshot ID: `MCw0YWNlOTlmOTkzNTQ4OGVmNDA3ZmIxMjI1MjI5NGZmMWEzNWY0Njlm`
+Snapshot ID: `MCwxNjliMTE3OGRjNWJlM2I0ZTRhMjA3OTJlYjlkZDlmYmFjYjVlMDI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,316,218 likes - 60 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,316,817 likes - 60 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Come Closer](https://open.spotify.com/track/6WK7TJ53QPNZnpQBjToHBi) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Come Closer](https://open.spotify.com/album/1BMEA1hy55rRBIjRZ4TokC) | 4:07 |
 | 60 | [El Medano](https://open.spotify.com/track/7uTLJJ0mb3LCsICzSlKrlR) | [Thomas Lizzara](https://open.spotify.com/artist/6WqAx7kpPz11g54zvpcOuU) | [El Medano](https://open.spotify.com/album/39n9hXab7m4eYvS64UN0Vz) | 8:29 |
 
-Snapshot ID: `MCxkMjNhMGJhMmM4ZjZkOWYyN2I1ZDhmNjllMDAzMzQyYjk4MjBiYTNh`
+Snapshot ID: `MCw5NjQzMGI3YjM1Yjc3OWYyZTBjMzkzY2YzMmM1NzQ1NTk0NzliMTc3`

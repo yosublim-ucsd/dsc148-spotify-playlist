@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-338 songs - 1 day 3 hr 13 min
+340 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [Up From the South](https://open.spotify.com/track/7GS4WQCPUQuZW6ZSvfZXvA) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 3:26 | 2021-12-24 |  |
 | [Vamos Farrear](https://open.spotify.com/track/0UGGKOyYjbgFJMJRLrEbKX) | [Pinduca](https://open.spotify.com/artist/5FKexvtYHfpvf17ZnGWulN) | [Jambú e Os Míticos Sons Da Amazônia \(Analog Africa No\. 28\)](https://open.spotify.com/album/4ErWK0ZDfBPCJLCY9pby9h) | 3:07 | 2021-12-24 |  |
 | [Voodoo](https://open.spotify.com/track/3eZO3wY1Rznlbc66eksNAU) | [Cyril Diaz and His Orchestra](https://open.spotify.com/artist/77p751SfcDc5hkECYWyzzF) | [Caribbean Carnival, Vol\. 2](https://open.spotify.com/album/3UJ0dh25sAd2rhpCS8K50Z) | 3:51 | 2021-12-24 |  |
-| [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 | 2021-12-24 |  |
+| [Water No Get Enemy](https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 9:51 | 2021-12-24 |  |
+| [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 | 2021-12-24 | 2023-09-21 |
 | [We Live In Peace](https://open.spotify.com/track/4l8N1IPZW1NpL4RnWbCiAj) | [Marijata](https://open.spotify.com/artist/1zlDVq7isxuxMGTueub0K3) | [This Is Marijata](https://open.spotify.com/album/5NgqwPu0hiNGTzltEHUTC0) | 4:09 | 2021-12-24 |  |
 | [Who Say Me Dun](https://open.spotify.com/track/6J4LaUyNqxJtnTxKMKmTdd) | [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Reggae Anthology: Cutty Ranks \- Limb By Limb](https://open.spotify.com/album/5fx1oluMs5XqW8MowK9svd) | 3:29 | 2021-12-24 |  |
 | [Willy's Merengue](https://open.spotify.com/track/5MdRRuDIx1CInz8s1FgqYs) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:08 | 2021-12-24 |  |
@@ -343,7 +344,8 @@
 | [Zangalewa](https://open.spotify.com/track/0SRANulkRghboNh80WLOde) | [Zangalewa](https://open.spotify.com/artist/4rtFg7cEsAF8HWz52p1vs7) | [Caporal Grille](https://open.spotify.com/album/4ad2Y2z3aXndemIsd4IrGb) | 11:36 | 2021-12-24 |  |
 | [Zenaba](https://open.spotify.com/track/54NeuzRN7VapLWL3zJKrjN) | [Théo Blaise Kounkou](https://open.spotify.com/artist/4HH0fRn6aUN8b52OaCEVLC) | [Nadia Soleil, Vol\. 2](https://open.spotify.com/album/3KwgpN4aI2IBuoYdz5yHGR) | 9:38 | 2021-12-24 |  |
 | [Ziglibithiens](https://open.spotify.com/track/2utg3uOfXSdzHT12elDODQ) | [Ernesto Djédjé](https://open.spotify.com/artist/1kx4uuCLwvOUQNyXPEbmSb) | [Roi du Ziglibithy](https://open.spotify.com/album/6IJdeTURFyIDLlXzSKvar1) | 8:49 | 2021-12-24 |  |
-| [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2021-12-24 |  |
+| [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 | 2021-12-24 |  |
+| [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2021-12-24 | 2023-09-21 |
 | [Zouke \- Zouke](https://open.spotify.com/track/2rSpplVdLGYTmPtQPbuGeJ) | [Pepe Kalle](https://open.spotify.com/artist/6zK5u6YhHezhkI3QY485yV), [Nyboma](https://open.spotify.com/artist/4HT4UQebFlfxyaDLWkCHPT) | [Empire Bakuba](https://open.spotify.com/album/3GThyAdS6BOUm3L0jz5dkB) | 5:55 | 2021-12-24 |  |
 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 | 2021-12-24 |  |
 

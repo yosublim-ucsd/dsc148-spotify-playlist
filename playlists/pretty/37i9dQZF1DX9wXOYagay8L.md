@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8?si=nLk6HTtgR\-mSPl4BZ5jJ7g">Vusi Nova</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,321 likes - 55 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,384 likes - 55 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 54 | [Noma Kanjani](https://open.spotify.com/track/7ra81phD6VfKgcBJolmaP4) | [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Noma Kanjani](https://open.spotify.com/album/0hdWi8fYhFfc8XrD4Ifrmp) | 5:00 |
 | 55 | [I Can't Give Up Now](https://open.spotify.com/track/3GiST92C7I4mfc1jkVNebP) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7), [Dj 8 Milli](https://open.spotify.com/artist/40Au2AtBYDr6uYKqzV5Ryz) | [I Cant Give Up Now](https://open.spotify.com/album/5GbAhxDtsxMeeoEMNJHpuT) | 7:46 |
 
-Snapshot ID: `MCxlNjRlMDhkNTI0Mzg5YTQyMGQxMDIwNmQ1NWVhMTA4ZTY1MGE5ZWI2`
+Snapshot ID: `MCw1ZDhiMWRhMmYyNzBlM2IyMzE2M2IzMGJjNDc1MmY2ZjRjZDBmNThm`

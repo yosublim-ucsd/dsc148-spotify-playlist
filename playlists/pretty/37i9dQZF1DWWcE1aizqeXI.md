@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,529 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,555 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 36 | [Bongos \(feat\. Megan Thee Stallion\) \- DJ SpinKing & DJ Taj Jersey Club Mix](https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [Bongos \(feat\. Megan Thee Stallion\) \[DJ SpinKing & DJ Taj Jersey Club Mix\]](https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc) | 1:37 |
 | 37 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
 | 38 | [On Bro](https://open.spotify.com/track/3a0Z4hgH8p4TKY7I9CI4Q0) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65) | [Bricks to the 6](https://open.spotify.com/album/0A7ysybrltD9LWB6zPTLWQ) | 2:12 |
-| 39 | [Freak You](https://open.spotify.com/track/74JW8w5UPKzRPLcNatdeSI) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Freak You](https://open.spotify.com/album/25r1j0BMSlROBkubbzd86I) | 1:48 |
+| 39 | [You](https://open.spotify.com/track/74JW8w5UPKzRPLcNatdeSI) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [You](https://open.spotify.com/album/25r1j0BMSlROBkubbzd86I) | 1:48 |
 | 40 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
 | 41 | [Freak In My Text](https://open.spotify.com/track/2vZZisoNv6wQPLEFSTFU3m) | [Noah Ashton](https://open.spotify.com/artist/3LXTW2hGHDoSJnp6Pc1hoQ) | [Freak In My Text](https://open.spotify.com/album/0mLZuSI6w4zuL2jDefZ6Ws) | 1:57 |
 | 42 | [Get Off The Wall](https://open.spotify.com/track/1ttdCC6nZ0M1Bq2zkuf73W) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U) | [Get Off The Wall](https://open.spotify.com/album/3bb2VTq1MT3JrMF0S5XU93) | 2:58 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 50 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 |
 | 51 | [Rise & grind](https://open.spotify.com/track/0EGw0mrH8bFttseRYAuAFp) | [MoneyBoy YB](https://open.spotify.com/artist/6eN3WIWcCLAQhYWLfWH8JN) | [Rise & grind](https://open.spotify.com/album/3NJUgcooxOfa7WPX0yHTGn) | 3:08 |
 
-Snapshot ID: `MCw1Yjg3Yzg5NzcxYTY4NWExZGMyNDFhYTg1MThhNzEzY2EyNTdlMTJi`
+Snapshot ID: `MCwwM2I1NzE4OGFkNTY5ZTEzYjE3NjliNjYyNjk0ZGI3NDU0NmI0MGU3`

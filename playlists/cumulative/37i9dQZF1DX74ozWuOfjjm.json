@@ -1380,10 +1380,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 184240,
       "name": "Come Apart",
       "url": "https://open.spotify.com/track/3P0i4DS9lKw5kO5z3fUB79"
+    },
+    {
+      "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184240,
+      "name": "Come Apart",
+      "url": "https://open.spotify.com/track/3yJqlmzdenTmQeb3bdRJfO"
     },
     {
       "album": {
@@ -2704,10 +2722,28 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 273619,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV"
+    },
+    {
+      "album": {
+        "name": "The Pink Chapter",
+        "url": "https://open.spotify.com/album/1CQNzjeDFVKqUeveRH9Tar"
+      },
+      "artists": [
+        {
+          "name": "Cassie Henderson",
+          "url": "https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273619,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6V7srdT0Mu63F4XN97buVZ"
     },
     {
       "album": {

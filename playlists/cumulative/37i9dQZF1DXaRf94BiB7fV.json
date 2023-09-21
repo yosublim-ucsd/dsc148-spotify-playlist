@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Nikita Ahuja, Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Rishabh Srivastava, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Aaye Kayi Sawan",
+        "url": "https://open.spotify.com/album/3fMXBENyZRrbQKZOpkMVYH"
+      },
+      "artists": [
+        {
+          "name": "Rishabh Srivastava",
+          "url": "https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Aaye Kayi Sawan",
+      "url": "https://open.spotify.com/track/4mvCymMNMwwhZ3azoSd066"
+    },
+    {
+      "album": {
         "name": "aazma",
         "url": "https://open.spotify.com/album/7xpw1WNDCkamGbru1syJ12"
       },
@@ -746,6 +764,24 @@
       "duration_ms": 266882,
       "name": "Ajnabi",
       "url": "https://open.spotify.com/track/3gzey6CSvu3wDZ1m29eywX"
+    },
+    {
+      "album": {
+        "name": "Akela",
+        "url": "https://open.spotify.com/album/16Ivj4UmpCb5rXNWoaNR3J"
+      },
+      "artists": [
+        {
+          "name": "That God Rio",
+          "url": "https://open.spotify.com/artist/5qyUgFrLRc6hGNM03Hz8bj"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149055,
+      "name": "Akela",
+      "url": "https://open.spotify.com/track/0rPhYhj6Ai48pfs88MjFHB"
     },
     {
       "album": {
@@ -2722,6 +2758,24 @@
       "duration_ms": 210960,
       "name": "Chale Bhi Jao",
       "url": "https://open.spotify.com/track/37fbtdjzCUvmoPgnkmCIO1"
+    },
+    {
+      "album": {
+        "name": "Chale Gaye",
+        "url": "https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Chale Gaye",
+      "url": "https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ"
     },
     {
       "album": {
@@ -5890,7 +5944,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 162285,
       "name": "Hum Chalein",
       "url": "https://open.spotify.com/track/1t6Y3WoCpSHkkV6XlBzuJZ"
@@ -7570,6 +7624,24 @@
       "duration_ms": 222073,
       "name": "Kaafi Hai",
       "url": "https://open.spotify.com/track/48AckMCK2gvNYohFsJA7WO"
+    },
+    {
+      "album": {
+        "name": "Kaagazi",
+        "url": "https://open.spotify.com/album/3jyO37uOdyBw0GBjHlEzDP"
+      },
+      "artists": [
+        {
+          "name": "Kartik Sachdeva",
+          "url": "https://open.spotify.com/artist/2rTtNkwWNAdHbfPhmCzCFx"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162038,
+      "name": "Kaagazi",
+      "url": "https://open.spotify.com/track/0vFWIYE0Jtb66949qHB4uL"
     },
     {
       "album": {
@@ -10304,7 +10376,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 228658,
       "name": "Meri Raaton Mein",
       "url": "https://open.spotify.com/track/1xvwt7jwUoW2J2lQpoFMtZ"
@@ -17322,7 +17394,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 181668,
       "name": "when it goes",
       "url": "https://open.spotify.com/track/0Ci3XINuvCJiE8ZspwrBwT"
@@ -17938,7 +18010,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 177272,
       "name": "You Didn't Have To Go",
       "url": "https://open.spotify.com/track/35zEyVTKGiO5JtMwyA6oAk"

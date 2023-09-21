@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Huh\(허성현\)\)
 
-994 songs - 2 day 6 hr 37 min
+995 songs - 2 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [DANG](https://open.spotify.com/track/3pjzW2jhWHNZVb5BWlPxRr) | [Viann](https://open.spotify.com/artist/1vOcA0bD2xtLC80xRaFmOb), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [DANG](https://open.spotify.com/album/1fGSblYXzbzoEFjvJQtbFZ) | 3:02 | 2022-10-13 | 2022-10-30 |
 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 | 2023-06-01 |  |
 | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU) | 3:35 | 2021-12-18 | 2022-07-08 |
+| [DAY OFF](https://open.spotify.com/track/0dbwg8PpOML96BwB7VjM7W) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [DAY OFF](https://open.spotify.com/album/7tu4q0JJgKWOjjlFeT28Xd) | 3:03 | 2023-09-20 |  |
 | [dbdbd \(Feat\. EK, GV, Make A Movie\) \(Prod.Santa Paine\)](https://open.spotify.com/track/7gkq22AEouulz1JYpKOTSO) | [MBA](https://open.spotify.com/artist/0c6EF9zv5mQX7pkyrPawKS), [GV](https://open.spotify.com/artist/4DUksJmuVcqb3qc8dAQj3a), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [Make a movie](https://open.spotify.com/artist/4X5QY4yEZOxOQvldk6sugy) | [dbdbd \(Feat\. GV, EK, Make A Movie\)](https://open.spotify.com/album/1zdSytjBQS59WytkO2WJdy) | 2:31 | 2022-02-17 | 2022-06-01 |
 | [DDKD \(Feat\. JUSTHIS, Dynamicduo\)](https://open.spotify.com/track/1v48PanV5fux8FH5RYxaj4) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [DDKD](https://open.spotify.com/album/4oQwIsUmLQZrlWSWaMyFHU) | 3:31 | 2022-06-29 | 2022-12-20 |
 | [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2023-01-19 | 2023-03-28 |

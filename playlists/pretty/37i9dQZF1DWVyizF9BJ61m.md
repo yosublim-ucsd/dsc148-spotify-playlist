@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,579 likes - 46 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,842 likes - 46 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 31 | [Funky Lady](https://open.spotify.com/track/2NQF9buClFG8eImtyKajAI) | [Teddy Chisi](https://open.spotify.com/artist/50iEISE8vvc4JChPJhx72u) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 6:09 |
 | 32 | [Onye Mmanya](https://open.spotify.com/track/1D872r9knWbJ7KOZxG7Jr0) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/3qvdUGpEoOjOrbtZpWApYm) | 5:52 |
 | 33 | [Hi Babe](https://open.spotify.com/track/3btLTcvS1uOk5IVGTn7Gh4) | [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 4:02 |
-| 34 | [Fefe Naa Efe](https://open.spotify.com/track/01M4pDUAFpAiuvtNSDRSlE) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/56UAK81XOvDgAcTsI0Olpk) | 8:12 |
+| 34 | [Fefe Naa Efe](https://open.spotify.com/track/2aix579UvviwgledQnNadv) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/532y6THMUtDYbRQAvzP1bL) | 8:12 |
 | 35 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 |
 | 36 | [Fast](https://open.spotify.com/track/39ebdsdmxmnX8NmL6ya2es) | [Salty Dog](https://open.spotify.com/artist/4uREfx5iqmCCxLSIQwDyd4) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 4:49 |
 | 37 | [She's A Dropout](https://open.spotify.com/track/3SOSAvBON7ZfpxPvNm3KJ1) | [The Apostles](https://open.spotify.com/artist/0yAP23o7hl2gwDjXxKdjki) | [Ivory Music Classics, Vol\. 1](https://open.spotify.com/album/3frHNk2EAU3GqMPYeHWpWk) | 3:11 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 45 | [In The Jungle \(Instrumental\)](https://open.spotify.com/track/4Maj54gxqVxtDkV7NVhuGA) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [Keep On Moving](https://open.spotify.com/album/5FdJf2mAyJnQ6h7eoC8alN) | 3:08 |
 | 46 | [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 |
 
-Snapshot ID: `MCwzYWY5YmNkM2FiOTdhM2VhYWQ2NWQyNTZjNjgzYTAwOTMyNjU0YzE5`
+Snapshot ID: `MCwwNDJmNjA1NDQyYjkxYjQ1ODNiYjViYmJlMmQyOGI1ZmU1ZTllMzFk`

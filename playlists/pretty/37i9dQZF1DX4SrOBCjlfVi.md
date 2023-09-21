@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Rod Wave and more\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,062 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,251 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 44 | [Smooth](https://open.spotify.com/track/7fT5oRGPyTQVoR56GLM57W) | [Kountry50K](https://open.spotify.com/artist/1nAk4f03QT0MjFLLTY4PbH), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Smooth](https://open.spotify.com/album/5CiZTOCNU2PVQQjsAGz1WP) | 2:39 |
 | 45 | [Ain't Original \(feat\. BLP Kosher\)](https://open.spotify.com/track/4LzFEoCf9DIdV5bIcEBhkZ) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT), [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Ain't Original \(feat\. BLP Kosher\)](https://open.spotify.com/album/0j99VVsMbU9MxVkrPLxMEk) | 2:45 |
 | 46 | [Dolla](https://open.spotify.com/track/1cPxRQBuK95LzxvPNpGcwZ) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Dolla](https://open.spotify.com/album/66laOS5NMDyarXO7t9f4Mh) | 3:52 |
-| 47 | [Til My Heart Stops \(feat\. Alessandra Salinas\)](https://open.spotify.com/track/2oitlpDllAtMHSJXP7pur6) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Alessandra Salinas](https://open.spotify.com/artist/3hHADK91Vpmkg6BNF7NYXW) | [Til My Heart Stops \(feat\. Alessandra Salinas\)](https://open.spotify.com/album/3DdBWAttQoSX1FFcJ5y36z) | 3:02 |
+| 47 | [Til My Heart Stops \(feat\. Alessandra Salinas\)](https://open.spotify.com/track/2oitlpDllAtMHSJXP7pur6) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Alessandra Salinas](https://open.spotify.com/artist/75yUCGnQnc6K7fg7qptCkO) | [Til My Heart Stops \(feat\. Alessandra Salinas\)](https://open.spotify.com/album/3DdBWAttQoSX1FFcJ5y36z) | 3:02 |
 | 48 | [For My City](https://open.spotify.com/track/6YVr9PZYHNkoU61fqeBKVX) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb) | [For My City](https://open.spotify.com/album/4B0VSibPATYqKChFnGOGgg) | 3:29 |
 | 49 | [FOLD](https://open.spotify.com/track/2ShT0ovaAWIReCxm7RPeBm) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [FOLD](https://open.spotify.com/album/0PpsCaf0NOyhpYRAVZrMHl) | 2:37 |
 | 50 | [FRIED](https://open.spotify.com/track/3Ni3aIyhb653KodcYFae0L) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [FRIED](https://open.spotify.com/album/0yvrH8FMw4q4rJulnhRs5K) | 1:48 |
 | 51 | [Day I Got Shot](https://open.spotify.com/track/5tSNezeNAkfObxNhlTqhXd) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Day I Got Shot](https://open.spotify.com/album/0lz246QSLrOp5EAE7wfbNG) | 2:48 |
 
-Snapshot ID: `MCxkMTRkNGMzMjc2NzA4OTI5NTA3N2I5YWZlOTBiMDllNjZlMDg3Yzc5`
+Snapshot ID: `MCw5ZjEzNDgzZDA1NjhlZGZmYzYwNzVkODYyNGExNzk5MTlkYTFmOTlm`

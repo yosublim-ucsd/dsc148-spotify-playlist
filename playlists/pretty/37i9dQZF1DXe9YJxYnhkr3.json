@@ -1,12 +1,12 @@
 {
   "description": "The best tracks for Prom 2023.",
-  "num_followers": 35143,
+  "num_followers": 35141,
   "original_name": "Prom Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjIyNmZmNGIwNzJjYmNmNDQ3ZjQ1NTkxM2E0ZWY1NmU3OTdiNGU2",
+  "snapshot_id": "MCxmZGI4ZmU3MGIzNGIwNTQ3MWQ4NmYwZmExNDgyYjdhNDQ2MGQ0Zjk2",
   "tracks": [
     {
       "added_at": "2023-05-17 17:53:45",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-17 17:53:45",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
-      "added_at": "2023-05-17 17:53:45",
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+    },
+    {
+      "added_at": "2023-05-17 17:53:45",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
     },
     {
       "added_at": "2023-05-17 17:53:45",

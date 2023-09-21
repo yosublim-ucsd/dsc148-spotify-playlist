@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0Ys2AuB4wwgGpHxZSSKvZB">pablo murphy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,344 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,350 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Ultima Volta](https://open.spotify.com/track/2JmznHCl5H3yxPy0djtb7L) | [Sunken](https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm), [K beezy 28](https://open.spotify.com/artist/5SbWJnRRbZQU024VlOPWly) | [Ultima Volta](https://open.spotify.com/album/48bb7vDwxbvadcnpR5gRt2) | 3:29 |
 | 50 | [quando ci sarà il sole](https://open.spotify.com/track/4Cyo9YFjvKOpfM14gw1GEY) | [Amdrea\(\-.\-\)](https://open.spotify.com/artist/1mPh5zrftjcjmBE3RYvRZ6), [Jiri](https://open.spotify.com/artist/5i5K0P6QOlVp04wgku2ve7) | [quando ci sarà il sole](https://open.spotify.com/album/4uI0dbZa6S6Ag63vaKgO7K) | 2:30 |
 
-Snapshot ID: `MCwzY2Q1YTk3NmI1YjU1OTk3YTZlNTcyMWM0ZjA4OTQ4ZmQzZGVlZWY3`
+Snapshot ID: `MCw3YmM4MDkzMzg0ZjRlYmE5NTc1NGNmZGVhOTkwOWE3ZTA4NDg2MTIw`

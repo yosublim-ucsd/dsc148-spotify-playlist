@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 
 > The official playlist for House of the Dragon \(and House Targaryen\)\. Watch the entire first season on HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,913 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,952 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 | 50 | [Battle for the Skies](https://open.spotify.com/track/3DNXVnQRr4HCCuTyTj0vJa) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 4:13 |
 | 51 | [The Bells](https://open.spotify.com/track/09oEC9b2VasoCbeAruESjF) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 3:44 |
 | 52 | [Break the Wheel](https://open.spotify.com/track/5DAb4aqsRXqjelTTJ4dlem) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 4:29 |
-| 53 | [Love In The Eyes \- From The "Game Of Thrones" Soundtrack](https://open.spotify.com/track/19kA9MB5gD4xX27NFmBTVs) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 4:00 |
-| 54 | [A Golden Crown \- From The "Game Of Thrones" Soundtrack](https://open.spotify.com/track/5xrrSZVaQTtktyBux70TKn) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:38 |
-| 55 | [To Vaes Dothrak \- From The "Game Of Thrones" Soundtrack](https://open.spotify.com/track/6hJA1KQ8AK2r1mazUOQWGM) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:28 |
-| 56 | [When The Sun Rises In The West \- From The "Game Of Thrones" Soundtrack](https://open.spotify.com/track/791hJyQ1Z3U9BmmFryEKPQ) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 2:40 |
-| 57 | [Fire And Blood \- From The "Game Of Thrones" Soundtrack](https://open.spotify.com/track/6TYzaO31pog2PwBm4O7OOM) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 4:30 |
+| 53 | [Love In The Eyes](https://open.spotify.com/track/19kA9MB5gD4xX27NFmBTVs) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 4:00 |
+| 54 | [A Golden Crown](https://open.spotify.com/track/5xrrSZVaQTtktyBux70TKn) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:38 |
+| 55 | [To Vaes Dothrak](https://open.spotify.com/track/6hJA1KQ8AK2r1mazUOQWGM) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:28 |
+| 56 | [When The Sun Rises In The West](https://open.spotify.com/track/791hJyQ1Z3U9BmmFryEKPQ) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 2:40 |
+| 57 | [Fire And Blood](https://open.spotify.com/track/6TYzaO31pog2PwBm4O7OOM) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 4:30 |
 | 58 | [Finale](https://open.spotify.com/track/2sQeSZry0jbKY5kRtufdL2) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5wkNrYYE4iWJ8ipiGXouYo) | 2:31 |
 | 59 | [Qarth \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/519U1CWS12Yvfh9NttvBW8) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:12 |
 | 60 | [Pyat Pree \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/1GQAc1rnIjtLBKLv55yoOy) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:13 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 | 84 | [See You for What You Are](https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:09 |
 | 85 | [Truth](https://open.spotify.com/track/5QKK7785dSYrutocW7lGub) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 3:31 |
 
-Snapshot ID: `MCxmNDYzYzI4MTE1OGUxYjc1YTY5YjE5NTRlNDUwNWQwY2JjZmUwOGNj`
+Snapshot ID: `MCw3M2M5MjgxOGZhNzA2MzZmOWI5ZjY2NjgzNmI0ZGM4NTEzNzk3NDYx`

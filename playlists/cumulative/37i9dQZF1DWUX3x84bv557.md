@@ -4,7 +4,7 @@
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: MAKSIM & Emma Heesters
 
-336 songs - 16 hr 14 min
+337 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,8 @@
 | [Zeg Hem Dat Het Goed Gaat](https://open.spotify.com/track/291F9nIoCvpnDLjXCpOXbk) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Zeg Hem Dat Het Goed Gaat](https://open.spotify.com/album/4g1R7DADArViw4J1ZERU7f) | 3:42 | 2023-07-13 | 2023-08-30 |
 | [Zie Haar Gaan](https://open.spotify.com/track/1Y04IOxtfXx9J3vyy1dEGo) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Zie Haar Gaan](https://open.spotify.com/album/46QGaDM02l1OOJptgLFZ1P) | 2:29 | 2023-08-10 | 2023-09-01 |
 | [Zij Heeft Alles](https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Zij Heeft Alles](https://open.spotify.com/album/69jSlMa042sypmsAS7rORE) | 3:03 | 2023-03-16 | 2023-07-11 |
-| [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/2p8EJUT61FPH3cax0UdSnK) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1OuwGZMLpotXelAT54hv4C) | 3:07 | 2023-09-04 |  |
+| [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/2p8EJUT61FPH3cax0UdSnK) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1OuwGZMLpotXelAT54hv4C) | 3:07 | 2023-09-04 | 2023-09-21 |
+| [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7nyjc67qu7HJm24mjSspcb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/6SY21zr7uf71GLBZxXsITj) | 3:07 | 2023-09-14 |  |
 | [Zoals Jij](https://open.spotify.com/track/3NjCVq7Mi6RsrG2yzY74Hl) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Zoals Jij](https://open.spotify.com/album/5a85ABmKZ9AcTG05umi7FL) | 2:32 | 2023-08-31 |  |
 | [Zolang Dit Liedje Duurt](https://open.spotify.com/track/4yzvrn5hlJBTbLvOrjGSvv) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Zolang Dit Liedje Duurt](https://open.spotify.com/album/06dgQlNUalqNxkOC2t73bl) | 2:43 | 2023-05-04 | 2023-08-25 |
 | [Zolang Het Nog Kan](https://open.spotify.com/track/2kEEscbP2aJrhpzjXCDafF) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Zolang Het Nog Kan](https://open.spotify.com/album/2lgD74bxM5UBblLbOdmbRE) | 3:12 | 2023-07-07 |  |

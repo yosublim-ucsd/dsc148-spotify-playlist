@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Corinne Bailey Rae (pictured), Chase & Status, Tate McRae and more!",
-  "num_followers": 838867,
+  "num_followers": 838903,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTY2ZGJlY2YzMTVkMDA5M2JjNjJjZDc3OTIwMTZjYWQ5ZDQ3NzJi",
+  "snapshot_id": "MCxlMGJlZTE5ODRlMWUzMDA2M2M3NjJmODNiOTU2ODhkZTBkZTUwNWRk",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -1238,6 +1238,14 @@
         {
           "name": "Gardna",
           "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        },
+        {
+          "name": "Architechs",
+          "url": "https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G"
+        },
+        {
+          "name": "Crystxl King",
+          "url": "https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt"
         }
       ],
       "duration_ms": 167271,

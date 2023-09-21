@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Bringing in the heat every Thursday\. 🔥 Listen to all the mixtapes <a href="https://open.spotify.com/genre/0JQ5DAqbMKFNhzOQgaEZ0b">here</a>\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,911,796 likes - 26 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,911,976 likes - 26 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 25 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
 | 26 | [Calor](https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manolo Ramos](https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW), [Ghetto](https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5) | [Calor](https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m) | 3:32 |
 
-Snapshot ID: `MCw3MTI1MWZjOWI2M2Q0NGVjMzAxYTc2ZjQyMzM0NTQxZTUzMDNhOTgy`
+Snapshot ID: `MCw2YTgxZGQxMjBmZDljMDE2ZGIwZjExNzc1MzJiZjgzODE0ZjllZjE2`

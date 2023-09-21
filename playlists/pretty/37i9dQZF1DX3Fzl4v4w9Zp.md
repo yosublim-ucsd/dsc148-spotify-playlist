@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,534 likes - 149 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,554 likes - 149 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 128 | [Joy Train](https://open.spotify.com/track/4w5iyFl701rTcsw8VFenfe) | [Amy Ray](https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF) | [If It All Goes South](https://open.spotify.com/album/0A1HQVfnJ3vOQkZrCMm9Z9) | 3:53 |
 | 129 | [Night After Night](https://open.spotify.com/track/5CL6QLlz3pLtZg5T0EeNbS) | [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Night After Night](https://open.spotify.com/album/0tZTBQyG5GILL8wfv3BseE) | 2:41 |
 | 130 | [Paranoid Heart](https://open.spotify.com/track/3ZUsOcc2xcgSXDMWx1zned) | [John Fullbright](https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA) | [Paranoid Heart](https://open.spotify.com/album/4nVAHT3ACZ5wgk6lzpLRzK) | 3:12 |
-| 131 | [Parted Ways \(Acoustic Version\)](https://open.spotify.com/track/4Xt5uvZALmrSKxcKNySPag) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [Parted Ways \(Acoustic Version\)](https://open.spotify.com/album/7gKmiv8ycRmJMpgSGv9Ye4) | 5:03 |
+| 131 | [Parted Ways \- Acoustic Version](https://open.spotify.com/track/6xySuu99uUYsziFbBxSLYQ) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [Arrow \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5ur0y0jEG0KuqshNyju035) | 5:03 |
 | 132 | [Hands To Myself](https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Hands To Myself](https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB) | 3:17 |
 | 133 | [Gold](https://open.spotify.com/track/4FhJPRWj8OB36Jk4CDlSY4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Unicorn](https://open.spotify.com/album/3tb5q9GynOzJaq0lIy9pvR) | 3:22 |
 | 134 | [Miles And Miles \- Single Version](https://open.spotify.com/track/6xG16hC00oaRLRIY28PnGr) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:40 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
 | 149 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 |
 
-Snapshot ID: `MCwxN2JhNWFmMzhlNzQ5ODc4NzJlNjg0MzJhZGQxYmZhNDI4MjI0ZWJl`
+Snapshot ID: `MCwyNTY0ZTBhODMwMDUyZDNhNGIzMTkzODE4MTI1OTZiMDQwMWU1OTE4`

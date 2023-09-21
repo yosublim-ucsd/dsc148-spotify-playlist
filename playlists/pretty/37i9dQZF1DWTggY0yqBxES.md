@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ben Reilly
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,937 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,007 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ble$$ings ft\. Ant Clemons and D Smoke](https://open.spotify.com/track/0h2hfAz8J0NhTb7eTzErsT) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd), [D' Smoke](https://open.spotify.com/artist/1kJprGylN8EorLLhCisiIP) | [Victor](https://open.spotify.com/album/5f6ffbksy06LKlWIfTc45g) | 3:23 |
+| 1 | [Ble$$ings ft\. Ant Clemons and D Smoke](https://open.spotify.com/track/0h2hfAz8J0NhTb7eTzErsT) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Victor](https://open.spotify.com/album/5f6ffbksy06LKlWIfTc45g) | 3:23 |
 | 2 | [Cobra](https://open.spotify.com/track/7yL38bdlWp8dqcpgcZ4hcL) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drop The Album](https://open.spotify.com/album/4NlIxzOHUgMxabX8xfXWEe) | 5:09 |
 | 3 | [Fuck Em Up Moses](https://open.spotify.com/track/4tH1p1TYEtXkLNtPDPHnvI) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Fuck Em Up Moses](https://open.spotify.com/album/5LxED8zuZ1X7XUMdQS60E6) | 3:39 |
 | 4 | [CRUEL WORLD](https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [CRUEL WORLD](https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [THINK OF ME](https://open.spotify.com/track/0965uWewv2fb21pL7dt3oR) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 3:12 |
 | 100 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 
-Snapshot ID: `MCxiMDVkZWEzOWVlZTM2OTg3OThkNDgxNzgxMWMxMTdmMDQ5ZGJjMjNk`
+Snapshot ID: `MCw4NjI5ZmZkMzViYWNlZmQ2NWNhM2EyYzYxZWRhNTRlNDIzYzNjY2Y1`

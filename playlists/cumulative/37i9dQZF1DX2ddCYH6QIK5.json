@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Uche Yara, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: *maliiik, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -800,7 +800,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 190742,
       "name": "Always With Me",
       "url": "https://open.spotify.com/track/5hojGljXdFw2aGuKXZYbBS"
@@ -2055,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "Blunts Rolled",
+        "url": "https://open.spotify.com/album/4HP2yvRRSp8Recvoq8XiBt"
+      },
+      "artists": [
+        {
+          "name": "Guzy",
+          "url": "https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267813,
+      "name": "Blunts Rolled",
+      "url": "https://open.spotify.com/track/3vm1jM6fXaWPXoNaLq8tH6"
+    },
+    {
+      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6xvmwqrO4iKVQ26IBeYPN7"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 148387,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/4voW9PvdPMb9rdbMCycnrb"
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 189442,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/65unoQYVXozpWh4x3A3JGE"
@@ -2804,6 +2822,24 @@
       "duration_ms": 187000,
       "name": "Click On It",
       "url": "https://open.spotify.com/track/1YQBSstf3y6GMI9ojqgolg"
+    },
+    {
+      "album": {
+        "name": "Closer Closer Closer",
+        "url": "https://open.spotify.com/album/0O3gw2mZICiib9dvFy4LIS"
+      },
+      "artists": [
+        {
+          "name": "Tobias Jensen",
+          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141919,
+      "name": "Closer Closer Closer",
+      "url": "https://open.spotify.com/track/258TMOnq8gRv15NVK0kxAt"
     },
     {
       "album": {
@@ -4803,6 +4839,24 @@
     },
     {
       "album": {
+        "name": "Ewig",
+        "url": "https://open.spotify.com/album/3PdHxepLih2oKLZv5Gjm7m"
+      },
+      "artists": [
+        {
+          "name": "oddchapters",
+          "url": "https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229849,
+      "name": "Ewig",
+      "url": "https://open.spotify.com/track/5Pm3jG82QgY278W4OcScKi"
+    },
+    {
+      "album": {
         "name": "Ex Me",
         "url": "https://open.spotify.com/album/0SMTej9FaOnNgZZmaRBnU3"
       },
@@ -4890,7 +4944,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 182181,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/1ujWKKFcIgKiVpGQCcwMpO"
@@ -5172,6 +5226,24 @@
       "duration_ms": 186535,
       "name": "Fine",
       "url": "https://open.spotify.com/track/0EnCciz3RqzRsO2KPVSMeT"
+    },
+    {
+      "album": {
+        "name": "Five Finger EP",
+        "url": "https://open.spotify.com/album/6xT3RXrNuV1p8rzmjDPe0o"
+      },
+      "artists": [
+        {
+          "name": "Mila Stern",
+          "url": "https://open.spotify.com/artist/7AAbM74rIYowTxlxRJfWVQ"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429290,
+      "name": "Five Finger Discount",
+      "url": "https://open.spotify.com/track/4euOAVYIMxWAvx1yHkTHmE"
     },
     {
       "album": {
@@ -6610,7 +6682,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 194624,
       "name": "Her",
       "url": "https://open.spotify.com/track/3rQZPfmwx9aQXjqWZW6Kzk"
@@ -7703,6 +7775,24 @@
     },
     {
       "album": {
+        "name": "Incendio",
+        "url": "https://open.spotify.com/album/1tNN81G4UTH5T2JCkEiXTp"
+      },
+      "artists": [
+        {
+          "name": "Nnoa",
+          "url": "https://open.spotify.com/artist/3Z7Krgq3i3qzMf6aaXb2Ft"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143322,
+      "name": "Incendio",
+      "url": "https://open.spotify.com/track/7neP1B0gGOBbdZn6FIOhzf"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/7dJnfT48sFWh3S3svNaIkj"
       },
@@ -7804,7 +7894,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 194638,
       "name": "Is It Me",
       "url": "https://open.spotify.com/track/3HoWMvZthFR2Ymbm1YaSgh"
@@ -8764,6 +8854,24 @@
       "duration_ms": 254153,
       "name": "Liebesbriefe",
       "url": "https://open.spotify.com/track/6lVRDNNb4omegvDYORrAet"
+    },
+    {
+      "album": {
+        "name": "lights on",
+        "url": "https://open.spotify.com/album/6KfvkXIlE3bdcbD2slpZVM"
+      },
+      "artists": [
+        {
+          "name": "h3nce",
+          "url": "https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165901,
+      "name": "lights on",
+      "url": "https://open.spotify.com/track/1n3RYcH8gK88jRYSFhQqzP"
     },
     {
       "album": {
@@ -11370,7 +11478,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 114973,
       "name": "powerpuff girl",
       "url": "https://open.spotify.com/track/5YF9p1smYRawOJ0377rqpI"
@@ -12084,7 +12192,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 298931,
       "name": "Romanze",
       "url": "https://open.spotify.com/track/29FU9XiU1bA1WDm7noy9O1"
@@ -12412,7 +12520,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 197538,
       "name": "Say!",
       "url": "https://open.spotify.com/track/0uLtK2oYlZ1Lhvbe8JuEeB"
@@ -12452,6 +12560,24 @@
       "duration_ms": 132168,
       "name": "schwarze tinte",
       "url": "https://open.spotify.com/track/4IKf2OrL9xVm0Bg5FuOmC7"
+    },
+    {
+      "album": {
+        "name": "Schwarzweiss",
+        "url": "https://open.spotify.com/album/6ldcJPjIUazTfURZg651Dh"
+      },
+      "artists": [
+        {
+          "name": "mandarina",
+          "url": "https://open.spotify.com/artist/5YtY8eUD4zLqecipRTr51j"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164670,
+      "name": "Schwarzweiss",
+      "url": "https://open.spotify.com/track/4mxUbUTBeL2zaZOb4A3DcS"
     },
     {
       "album": {
@@ -13126,6 +13252,24 @@
       "duration_ms": 223500,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/4kiTRXw20EkyxoAMb2fCeY"
+    },
+    {
+      "album": {
+        "name": "Sonne",
+        "url": "https://open.spotify.com/album/3v7Vdy4qx5ZfBCt02iJL4q"
+      },
+      "artists": [
+        {
+          "name": "Kerker",
+          "url": "https://open.spotify.com/artist/1WJcvUFwnFVqBLZqbrmd94"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208025,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/7KbfjdioCBl72AMCxqJ86l"
     },
     {
       "album": {
@@ -14350,6 +14494,32 @@
       "duration_ms": 269428,
       "name": "Timeshift",
       "url": "https://open.spotify.com/track/0FKXPAV9mtvWDwdkEbuqOW"
+    },
+    {
+      "album": {
+        "name": "tiramisu",
+        "url": "https://open.spotify.com/album/62IzfYYzeDpXwM3lUzcazq"
+      },
+      "artists": [
+        {
+          "name": "*maliiik",
+          "url": "https://open.spotify.com/artist/63Oa7FWYtfPylgzUEWhZWd"
+        },
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/5vsCApsbreJsvZTe9ig2jM"
+        },
+        {
+          "name": "Arion Sinagra",
+          "url": "https://open.spotify.com/artist/49VuA5NXSEaVAPo7b4Mxej"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192693,
+      "name": "tiramisu",
+      "url": "https://open.spotify.com/track/6XrJtVLKuLXp48TIp0F6N4"
     },
     {
       "album": {

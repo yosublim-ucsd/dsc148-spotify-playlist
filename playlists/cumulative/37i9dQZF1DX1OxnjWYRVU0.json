@@ -4548,6 +4548,36 @@
     {
       "album": {
         "name": "I Want It That Way",
+        "url": "https://open.spotify.com/album/4GDK11e0KpkHHGxVMlNyy2"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        },
+        {
+          "name": "New Beat Order",
+          "url": "https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea"
+        },
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        },
+        {
+          "name": "Meqq",
+          "url": "https://open.spotify.com/artist/3YKi4d58HjTvTLAhykgr4T"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133563,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/3aCfUkxaUGOABeTBNyn5Fa"
+    },
+    {
+      "album": {
+        "name": "I Want It That Way",
         "url": "https://open.spotify.com/album/7DwRV7UC4wCTtWsDvEDa94"
       },
       "artists": [
@@ -4570,7 +4600,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 133563,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/5XWi1A4aPZsK9qeg7VtQHC"

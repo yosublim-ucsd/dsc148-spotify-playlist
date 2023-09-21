@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,738 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,796 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 | 56 | [Swelling](https://open.spotify.com/track/03gByEaNjKN9Ij74ugGX5p) | [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Suburban Nature](https://open.spotify.com/album/0RAHfGJIlvTKsenIKEagJ3) | 4:16 |
 | 57 | [The Way Out](https://open.spotify.com/track/4ekOEI0XLh8aIHaPMMAkwU) | [Breanna Barbara](https://open.spotify.com/artist/2p5zh0v6BIDwVSY3Q6pgwn) | [The Way Out](https://open.spotify.com/album/65i4pMwHDaaRecBItUHkOe) | 5:22 |
 | 58 | [Your Love Is Like Petrol](https://open.spotify.com/track/3ecvSopt2pVANLVjp89Gul) | [Client](https://open.spotify.com/artist/1IjPJum5sJ6iSr3mBsSYJk) | [Command](https://open.spotify.com/album/7sBjk70CRR4VuIdIri30nl) | 3:14 |
-| 59 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT) | 4:46 |
+| 59 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 |
 | 60 | [Never Let You Go](https://open.spotify.com/track/1rDBcksBApWqECgPGwI5It) | [People On People](https://open.spotify.com/artist/71mOU281352We1iANampDV) | [Only Heaven](https://open.spotify.com/album/1tXd2npzRkjEAWzvNRLUFA) | 3:35 |
 | 61 | [Blood](https://open.spotify.com/track/06oCBGPFJEDftgKnGSzKuE) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/4lIHrAdqOfKTlIYIMcanJy) | 4:14 |
 | 62 | [Stay Happy](https://open.spotify.com/track/2TZ0bxLxshJ5ZEx2vUIpQ6) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Hug Of Thunder](https://open.spotify.com/album/6oPAq3tPMGIvlpjoscQP4g) | 4:10 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 | 101 | [A Bit like Todayz](https://open.spotify.com/track/2YIHgWe4yVg47gw78GxokQ) | [DJ Destroyer](https://open.spotify.com/artist/3D60ZYCpmUW1j9tog4jKJT) | [A Bit like Todayz](https://open.spotify.com/album/4SnginvNQ6ojUT2UESpVDn) | 4:15 |
 | 102 | [Beautiful Gold](https://open.spotify.com/track/5U7aqUHeCSiMsL5iC0m1OL) | [Hillgate County](https://open.spotify.com/artist/6IMAiDdDghtLoMSr2XZXCO) | [Beautiful Gold](https://open.spotify.com/album/0qugubB1MGTC9z5t5BpjYT) | 3:11 |
 
-Snapshot ID: `MCw5YjMzNTY0MTJlMWVlZjc1YmZiOTUxMjNhMGZiMmFmOTY4MTQ3NzA4`
+Snapshot ID: `MCwzMmM1Nzk4MzQ1MjRmM2Y1MGI0ODg0MWM4YTQxYWYzMWZmMDE0MGRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,063 likes - 99 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,362 likes - 99 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 93 | [Portals](https://open.spotify.com/track/0v6uuAzlwd7TytQ7QgkYk3) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Portals](https://open.spotify.com/album/6iEPmzzAvno0Zqi41nvYwR) | 2:41 |
 | 94 | [Serenity's Illumination](https://open.spotify.com/track/28gdOAMvTLUKrIZnGXRll9) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Serenity's Illumination](https://open.spotify.com/album/355jh4TUAGKpm4U0WeQkL3) | 2:02 |
 | 95 | [Coral Way](https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:39 |
-| 96 | [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 |
+| 96 | [Baltimore](https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:37 |
 | 97 | [Yuca y Magnoca](https://open.spotify.com/track/3gOgwB3kgXvEDIrDo1mAOs) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX) | [Food](https://open.spotify.com/album/4yoRYk48b4Xg3nx4UBhO9u) | 3:45 |
 | 98 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 | 99 | [You Don't Have To](https://open.spotify.com/track/6Q4CTfhsXqM38qygqtSuv3) | [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc), [The Estuary 21](https://open.spotify.com/artist/3AvaTJVo7L7mvvw7JpFAjo) | [You Don't Have To](https://open.spotify.com/album/2JkXV0X85ENDw9EvL5myJZ) | 4:15 |
 
-Snapshot ID: `MCxhZjg0MTcyMDkyMGE0N2E5NjFmOWEwMzNhZDQ4Y2JiNzA4NTdhNzli`
+Snapshot ID: `MCxhMWVlNGJhODY3OTJkN2VmOTcxN2VlYzkwNzNlNmQ5YjMwZWNiYjY2`

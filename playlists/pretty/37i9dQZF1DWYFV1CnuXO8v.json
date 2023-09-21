@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n \u0643\u0648\u0641\u0631: <a href=\"https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg?si=SaDgQlWvTb2aXAi94J-UOA\"> \u0627\u0646\u063a\u0627\u0645 </a>",
-  "num_followers": 86648,
+  "num_followers": 86880,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWFhNTI1N2Y0OTkxOTk0YWVmYjkxYmQ2NzhmYWFjMDc4OTU5MzZh",
+  "snapshot_id": "MCw3ZDU4NDFkM2I4NDNiZjA2NWVjMzYyNmRlNjAwMTZkMTY1MTUzYzQy",
   "tracks": [
     {
       "added_at": "2023-09-19 10:46:42",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-09-19 10:46:42",
       "album": {
-        "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
-        "url": "https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1"
-      },
-      "artists": [
-        {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
-        }
-      ],
-      "duration_ms": 194116,
-      "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
-      "url": "https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT"
-    },
-    {
-      "added_at": "2023-09-19 10:46:42",
-      "album": {
         "name": "Piece Of My Heart",
         "url": "https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 189176,
       "name": "Piece Of My Heart",
       "url": "https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM"
+    },
+    {
+      "added_at": "2023-09-19 10:46:42",
+      "album": {
+        "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
+        "url": "https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "duration_ms": 194116,
+      "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
+      "url": "https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT"
     },
     {
       "added_at": "2023-09-19 10:46:42",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-19 10:46:42",
       "album": {
-        "name": "Ana Kteer",
-        "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
-      },
-      "artists": [
-        {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        }
-      ],
-      "duration_ms": 289123,
-      "name": "Kolly Melkak",
-      "url": "https://open.spotify.com/track/4hu2slKFhep9tzQTTfIXrK"
-    },
-    {
-      "added_at": "2023-09-19 10:46:42",
-      "album": {
         "name": "Habiby Ya Liel",
         "url": "https://open.spotify.com/album/1yfx8JfLQlKxtfLViybWSW"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 272618,
       "name": "Habiby Ya Liel",
       "url": "https://open.spotify.com/track/3oAjimiDDbMUYU7DZHuORV"
+    },
+    {
+      "added_at": "2023-09-19 10:46:42",
+      "album": {
+        "name": "Ana Kteer",
+        "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 289123,
+      "name": "Kolly Melkak",
+      "url": "https://open.spotify.com/track/4hu2slKFhep9tzQTTfIXrK"
     },
     {
       "added_at": "2023-09-19 10:46:42",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-19 10:46:42",
       "album": {
-        "name": "Adeit",
-        "url": "https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv"
-      },
-      "artists": [
-        {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
-        }
-      ],
-      "duration_ms": 170136,
-      "name": "Adeit",
-      "url": "https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30"
-    },
-    {
-      "added_at": "2023-09-19 10:46:42",
-      "album": {
         "name": "Khaleke Fe Hodny el Leila",
         "url": "https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 224113,
       "name": "Lela",
       "url": "https://open.spotify.com/track/2QAi4scKA8gb5QdbFPHpa6"
+    },
+    {
+      "added_at": "2023-09-19 10:46:42",
+      "album": {
+        "name": "Adeit",
+        "url": "https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "duration_ms": 170136,
+      "name": "Adeit",
+      "url": "https://open.spotify.com/track/2sBtfs5txlAsXwCyMvWs30"
     },
     {
       "added_at": "2023-09-19 10:46:42",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-19 10:46:42",
       "album": {
-        "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
-        "url": "https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB"
-      },
-      "artists": [
-        {
-          "name": "Mohamed El Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
-        }
-      ],
-      "duration_ms": 174912,
-      "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
-      "url": "https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY"
-    },
-    {
-      "added_at": "2023-09-19 10:46:42",
-      "album": {
         "name": "Bi Saraha",
         "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 205333,
       "name": "Aamel Nasini",
       "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
+    },
+    {
+      "added_at": "2023-09-19 10:46:42",
+      "album": {
+        "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB"
+      },
+      "artists": [
+        {
+          "name": "Mohamed El Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+        }
+      ],
+      "duration_ms": 174912,
+      "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY"
     },
     {
       "added_at": "2023-09-19 10:46:42",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2023-09-19 10:46:42",
       "album": {
-        "name": "Bashouf Oyounak",
-        "url": "https://open.spotify.com/album/69MWOMSRXY9PFSFbvaH9T6"
-      },
-      "artists": [
-        {
-          "name": "Haytham Shaker",
-          "url": "https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2"
-        }
-      ],
-      "duration_ms": 275298,
-      "name": "Bashouf Oyounak",
-      "url": "https://open.spotify.com/track/3SM8mzJiLccBnX6gbVvMzS"
-    },
-    {
-      "added_at": "2023-09-19 10:46:42",
-      "album": {
-        "name": "Zay El Wara2",
-        "url": "https://open.spotify.com/album/0ySeeh7VlH8uItqVKroo34"
-      },
-      "artists": [
-        {
-          "name": "\u0645\u064a\u0645\u0632",
-          "url": "https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Zay El Wara2",
-      "url": "https://open.spotify.com/track/2J1NzFZ91MgX6Mexv2K6Si"
-    },
-    {
-      "added_at": "2023-09-19 10:46:42",
-      "album": {
         "name": "Kol El Hob Da",
         "url": "https://open.spotify.com/album/65YLbC1rTXfXnkHisk86JD"
       },
@@ -1083,6 +1051,22 @@
     {
       "added_at": "2023-09-19 10:46:42",
       "album": {
+        "name": "Bashouf Oyounak",
+        "url": "https://open.spotify.com/album/69MWOMSRXY9PFSFbvaH9T6"
+      },
+      "artists": [
+        {
+          "name": "Haytham Shaker",
+          "url": "https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2"
+        }
+      ],
+      "duration_ms": 275298,
+      "name": "Bashouf Oyounak",
+      "url": "https://open.spotify.com/track/3SM8mzJiLccBnX6gbVvMzS"
+    },
+    {
+      "added_at": "2023-09-19 10:46:42",
+      "album": {
         "name": "Agmal Layaly Omry",
         "url": "https://open.spotify.com/album/7DFycaqMjOZVNMjfW7pC8V"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 267093,
       "name": "Agmal Layaly",
       "url": "https://open.spotify.com/track/5Mb9tcayKWB6Ar9IcMzGID"
+    },
+    {
+      "added_at": "2023-09-19 10:46:42",
+      "album": {
+        "name": "Zay El Wara2",
+        "url": "https://open.spotify.com/album/0ySeeh7VlH8uItqVKroo34"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u064a\u0645\u0632",
+          "url": "https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Zay El Wara2",
+      "url": "https://open.spotify.com/track/2J1NzFZ91MgX6Mexv2K6Si"
     },
     {
       "added_at": "2023-09-19 10:46:42",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-09-19 10:46:42",
       "album": {
+        "name": "\u0639\u064a\u0646\u064a\u0643 \u062d\u0644\u0648\u064a\u0646",
+        "url": "https://open.spotify.com/album/4rnF7HdCbGwH8L6FgSUXHY"
+      },
+      "artists": [
+        {
+          "name": "Sola Omar",
+          "url": "https://open.spotify.com/artist/5f4fUKsYW1NtyCjgwTVI6k"
+        }
+      ],
+      "duration_ms": 149166,
+      "name": "\u0639\u064a\u0646\u064a\u0643 \u062d\u0644\u0648\u064a\u0646",
+      "url": "https://open.spotify.com/track/4iPPxLSqGIsGFVeTMs6SG3"
+    },
+    {
+      "added_at": "2023-09-19 10:46:42",
+      "album": {
         "name": "\u0634\u0627\u064a\u0641\u0647 \u0641\u064a\u0643",
         "url": "https://open.spotify.com/album/6ylllDswM090TsaEqRXsci"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 230783,
       "name": "Aal Makshof",
       "url": "https://open.spotify.com/track/6hiR1fqJAyQYiTtNNUmuWw"
-    },
-    {
-      "added_at": "2023-09-19 10:46:42",
-      "album": {
-        "name": "\u0639\u064a\u0646\u064a\u0643 \u062d\u0644\u0648\u064a\u0646",
-        "url": "https://open.spotify.com/album/4rnF7HdCbGwH8L6FgSUXHY"
-      },
-      "artists": [
-        {
-          "name": "Sola Omar",
-          "url": "https://open.spotify.com/artist/5f4fUKsYW1NtyCjgwTVI6k"
-        }
-      ],
-      "duration_ms": 149166,
-      "name": "\u0639\u064a\u0646\u064a\u0643 \u062d\u0644\u0648\u064a\u0646",
-      "url": "https://open.spotify.com/track/4iPPxLSqGIsGFVeTMs6SG3"
     },
     {
       "added_at": "2023-09-19 10:46:42",

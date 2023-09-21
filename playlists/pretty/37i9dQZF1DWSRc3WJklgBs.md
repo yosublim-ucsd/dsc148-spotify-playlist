@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,437 likes - 230 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,589 likes - 230 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,10 +189,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 179 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 |
 | 180 | [I Love You](https://open.spotify.com/track/6DRq67fCgg5nkKE5ruckW8) | [FOREVER ‘99](https://open.spotify.com/artist/0OmOnAqGKnT8ivoaqn7bMM) | [I Love You](https://open.spotify.com/album/2afpP9IbYOUR4CidGiWHp9) | 3:45 |
 | 181 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA) | 2:54 |
-| 182 | [Back To You](https://open.spotify.com/track/47jk6lI3sXV4hDtJiTFucQ) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Back To You](https://open.spotify.com/album/41xXvfoMC5FwlE7IJRyQrv) | 3:03 |
-| 183 | [Paul Oakenfold X Lizzy Land \- “Get to You” \(Felix Cartal Remix\)](https://open.spotify.com/track/7d8p8TXJnFcu1Mtd11t13t) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Paul Oakenfold X Lizzy Land \- “Get to You” \(Felix Cartal Remix\)](https://open.spotify.com/album/0ERL2LODP5ufNIr99tWWh6) | 2:34 |
-| 184 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
-| 185 | [Center of the World](https://open.spotify.com/track/36XWkGgDGY8rm3GFPChJZj) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Center of the World](https://open.spotify.com/album/6ySVT6WO73DZzPGOZ3Zi8t) | 4:00 |
+| 182 | [Paul Oakenfold X Lizzy Land \- “Get to You” \(Felix Cartal Remix\)](https://open.spotify.com/track/7d8p8TXJnFcu1Mtd11t13t) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Paul Oakenfold X Lizzy Land \- “Get to You” \(Felix Cartal Remix\)](https://open.spotify.com/album/0ERL2LODP5ufNIr99tWWh6) | 2:34 |
+| 183 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
+| 184 | [Center of the World](https://open.spotify.com/track/36XWkGgDGY8rm3GFPChJZj) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Center of the World](https://open.spotify.com/album/6ySVT6WO73DZzPGOZ3Zi8t) | 4:00 |
+| 185 | [Back To You](https://open.spotify.com/track/47jk6lI3sXV4hDtJiTFucQ) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Back To You](https://open.spotify.com/album/41xXvfoMC5FwlE7IJRyQrv) | 3:03 |
 | 186 | [Will You Be Mine](https://open.spotify.com/track/15H467gdxSmq8IMl1TC46u) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Will You Be Mine](https://open.spotify.com/album/3XIaFrOS8IXOTe0LfjLrEN) | 3:52 |
 | 187 | [Watercolor](https://open.spotify.com/track/0lsrtWc4kEYkLs9Nr0xu3s) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Watercolor](https://open.spotify.com/album/3DkCczN0suDVGt6TAM9oGi) | 3:45 |
 | 188 | [2 High](https://open.spotify.com/track/5ceI7bBnsYKHgel9YbBwAX) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [2 High](https://open.spotify.com/album/7tk9qtKqlM7FwiLSt0Bjvy) | 3:26 |
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Landslide](https://open.spotify.com/track/2rDSJjx16QVPyPaOH9qEHU) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Landslide](https://open.spotify.com/album/5iCfYZ2LTaMVICV1qJnrQW) | 3:01 |
 | 230 | [Magnets](https://open.spotify.com/track/2VSPDYhB0070TTuL0ySE7b) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Magnets](https://open.spotify.com/album/4NH32nwjRYSWACBV95Pm7j) | 3:39 |
 
-Snapshot ID: `MCw3ZjUyNDk1NWJlMGEwOWExYmE0OGNiYmM3NTkyODVhNDY1NGNiYTc0`
+Snapshot ID: `MCw5MDIyNDY2YWMyMTE1YWVhNzMyMGNjOTc2YjJkZjYxY2Q4NTFkYjM5`

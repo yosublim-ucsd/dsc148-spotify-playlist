@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-21",
       "duration_ms": 184432,
       "name": "Dilbar (From \"Satyameva Jayate\")",
       "url": "https://open.spotify.com/track/4tjLYTXFqZhkUDga4bQ0yl"
@@ -3142,6 +3142,28 @@
       "duration_ms": 213049,
       "name": "Nasha (From \"Sukhee\")",
       "url": "https://open.spotify.com/track/4toBFhkIjRvPcAJIk98d58"
+    },
+    {
+      "album": {
+        "name": "Nazar Na Lage",
+        "url": "https://open.spotify.com/album/28GlsjpSTySBgdqZhOagrt"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Manisha Rani",
+          "url": "https://open.spotify.com/artist/0FUk91fuR7n3XMjRHHqMcJ"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151176,
+      "name": "Nazar Na Lage",
+      "url": "https://open.spotify.com/track/0AQmKOQ3efDoyXRqsIXYRH"
     },
     {
       "album": {

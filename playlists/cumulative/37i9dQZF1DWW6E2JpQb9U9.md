@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-286 songs - 21 hr 13 min
+287 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Eres \- Live At The Roxy](https://open.spotify.com/track/6OxvFmNg8S0h3YDxdTjP8z) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [La Guzmán Live At The Roxy](https://open.spotify.com/album/1ACoUEUChNALtgDkdK7gTc) | 4:03 | 2022-06-24 | 2022-07-19 |
 | [Eres \- MTV Unplugged](https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:05 | 2022-04-01 |  |
 | [Espadas y Serpientes \- Acústico en Vivo](https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 4:48 | 2022-04-01 |  |
+| [Espejismo \- En Vivo](https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Los Fundamentalistas del Aire Acondicionado en Huracán \(En Vivo\)](https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL) | 6:23 | 2023-09-14 |  |
 | [Estoy Completamente Nervioso \- En Vivo \- Remasterizado](https://open.spotify.com/track/0XwsU1FkJ96PBYoAiS8Oev) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [En Concierto \(Remasterizado\)](https://open.spotify.com/album/5R1Xd9BBV8i9fX4MsmQ2Nb) | 3:37 | 2022-04-01 | 2022-07-09 |
 | [Facil \(En Vivo \- Sala Nini Marshall\)](https://open.spotify.com/track/3pE1nVUEIjKgB8H7uheBtq) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Vozenoff \(En Vivo Desde Ushuaia\)](https://open.spotify.com/album/2IQn8dtrVIXly0qHkLTnFs) | 3:10 | 2022-06-24 | 2022-07-15 |
 | [Fantasma \- En Vivo](https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 4:58 | 2022-04-01 |  |
@@ -121,7 +122,7 @@
 | [Flores \- En Vivo en el Estadio Único](https://open.spotify.com/track/3zLOiFlFq5Wh8qckWyRNqy) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [En Vivo en el Estadio Único](https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp) | 7:36 | 2022-04-01 | 2023-02-05 |
 | [Frágil \- En Vivo](https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Frágil \(En Vivo\)](https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq) | 3:20 | 2022-04-01 | 2023-07-10 |
 | [Fuego \- En Vivo](https://open.spotify.com/track/4QCaZtY4jteAcLnGDzdWqJ) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Pepsi Music 2005](https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N) | 4:22 | 2022-04-01 | 2022-07-29 |
-| [Fuego \- En Vivo Luna Park](https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Fuego \(En Vivo Luna Park\)](https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA) | 4:46 | 2022-04-01 |  |
+| [Fuego \- En Vivo Luna Park](https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Fuego \(En Vivo Luna Park\)](https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA) | 4:46 | 2022-04-01 | 2023-09-21 |
 | [Fuera De Control \(En Vivo\)](https://open.spotify.com/track/6YNstobWK0Pio4NAumJkRH) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Tan \(En Vivo\)](https://open.spotify.com/album/1H5MsrfzzoiznKp4jj8WWz) | 3:32 | 2022-04-01 |  |
 | [Fumar de Día \- En Vivo](https://open.spotify.com/track/0n1UrWMX0Njj3kVMc24tOE) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sesión Saldias \(En Vivo\)](https://open.spotify.com/album/206rMmryQBWqNoIMNsOS8q) | 3:01 | 2022-04-01 | 2022-07-14 |
 | [Guadalupe \- En Vivo](https://open.spotify.com/track/08umrOL0yYBjKmbcLPucff) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 4:44 | 2022-04-01 | 2022-06-08 |

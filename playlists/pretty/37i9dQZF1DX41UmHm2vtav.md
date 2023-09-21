@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,033 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,201 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 50 | [Blind](https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9) | 2:59 |
 | 51 | [Descobridor dos Sete Mares: Remix](https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Descobridor dos Sete Mares: Remix](https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX) | 3:11 |
 | 52 | [A Tal Canção Pra Lua \- Madism Remix](https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0) | 3:26 |
-| 53 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
+| 53 | [In The End \- Remix](https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI), [Maffei](https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF), [Bill Sandre](https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC) | [In The End \(Remix\)](https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3) | 2:44 |
 | 54 | [I Do \- with Zeeba](https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [I Do \(with Zeeba\)](https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso) | 2:53 |
-| 55 | [In The End \- Remix](https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI), [Maffei](https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF), [Bill Sandre](https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC) | [In The End \(Remix\)](https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3) | 2:44 |
+| 55 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
 | 56 | [Monalisa \(KVSH Remix\)](https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Monalisa \(KVSH Remix\)](https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz) | 2:55 |
 | 57 | [Se Você Quiser](https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Se Você Quiser](https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK) | 2:54 |
 | 58 | [Evoluiu \- Rakka & Onabeat Remix](https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Rakka](https://open.spotify.com/artist/2GNfI7g7glAR1JBuvU0vL5), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu \(Rakka & Onabeat Remix\)](https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr) | 2:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 | 70 | [Foreplay \- Radio Edit](https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA) | [Flowavez](https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi) | [Foreplay \(Radio Edit\)](https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra) | 2:57 |
 
-Snapshot ID: `MCxhZmEyNjg4NDQwODZlZjAxNzU4ODkzMzhiMjY4NzdmODAxMzYyMWM5`
+Snapshot ID: `MCwyOWI3YTMzNDUxOTBhNzEyMWNkZjBlNWRkNmZhOTdkMjdhZjE4YzI1`

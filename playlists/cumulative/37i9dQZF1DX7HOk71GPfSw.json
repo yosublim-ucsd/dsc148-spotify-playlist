@@ -33919,6 +33919,24 @@
     },
     {
       "album": {
+        "name": "Under my Bed",
+        "url": "https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124745,
+      "name": "Under my Bed",
+      "url": "https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj"
+    },
+    {
+      "album": {
         "name": "undercover",
         "url": "https://open.spotify.com/album/4SEZDLBAZu8mXLMc4kD3QI"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Curated by Bun B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,589 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,614 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 62 | [On My Block](https://open.spotify.com/track/5qPkEnq2wSbnLJTK31mZy4) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Fix](https://open.spotify.com/album/0Kahsu5SG9FX1mBhLuiA8L) | 3:34 |
 | 63 | [Mo City Don](https://open.spotify.com/track/338VhnERUjSnXmIFGuxonu) | [Z\-Ro](https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq) | [Let the Truth Be Told](https://open.spotify.com/album/0YJtfOfTc4RgKSTI3QS46S) | 4:25 |
 | 64 | [DWYCK](https://open.spotify.com/track/7vcepKD1pjulQvPOkiQmUe) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Nice & Smooth](https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 4:03 |
-| 65 | [In Da Club](https://open.spotify.com/track/3deUegCTzY5SH15lFlTbUP) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj) | 3:13 |
-| 66 | [Ain't No Future In Yo' Frontin'](https://open.spotify.com/track/00ReeHCY0FQUyuAUyPJdnk) | [MC Breed](https://open.spotify.com/artist/63727CmmJ8oWFh8eAHvDYq), [DFC](https://open.spotify.com/artist/7MwTRMdXjyKSrMIyv3UY8Z) | [MC Breed & DFC](https://open.spotify.com/album/7mLks5uEIPmT0056mb5oV3) | 4:04 |
+| 65 | [Ain't No Future In Yo' Frontin'](https://open.spotify.com/track/00ReeHCY0FQUyuAUyPJdnk) | [MC Breed](https://open.spotify.com/artist/63727CmmJ8oWFh8eAHvDYq), [DFC](https://open.spotify.com/artist/7MwTRMdXjyKSrMIyv3UY8Z) | [MC Breed & DFC](https://open.spotify.com/album/7mLks5uEIPmT0056mb5oV3) | 4:04 |
+| 66 | [In Da Club](https://open.spotify.com/track/3deUegCTzY5SH15lFlTbUP) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj) | 3:13 |
 | 67 | [Down For My Niggaz](https://open.spotify.com/track/6SSJcmQgBEvHqqCivyVfqG) | [C\-Murder](https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x), [Magic](https://open.spotify.com/artist/5RszwcBlHzry6slQ9LRcSw), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Trapped In Crime](https://open.spotify.com/album/7MDd3o71CPSVTi3F58gWVu) | 3:45 |
 | 68 | [Apache](https://open.spotify.com/track/51ml2bJs9zDLv1PbzNQzPP) | [Incredible Bongo Band](https://open.spotify.com/artist/6tw3wmGmRXSWP9GqsnvY7B) | [40 Years of the Incredible Bongo Band](https://open.spotify.com/album/2dtnXYyS4Qx7CvgpWOO8Na) | 4:53 |
 | 69 | [Treat 'Em Right](https://open.spotify.com/track/2QHmGfplU3ypWOGgJM46in) | [Chubb Rock](https://open.spotify.com/artist/4dVRITwfej74WkmNpgYVPb) | [The One](https://open.spotify.com/album/2SRmJGHAMj3Bi8AqvHEJAo) | 4:43 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 93 | [Top Billin'](https://open.spotify.com/track/0ctyMxVlNs8oE7k0ZMcrKn) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [Old School Hip Hop Beats](https://open.spotify.com/album/2KDLQ8ypKKudHoO49Ttpi0) | 2:55 |
 | 94 | [Could This Be Love](https://open.spotify.com/track/0W9DTUYHHGLl62f4ETnTWI) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love \(Deluxe\)](https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk) | 5:13 |
 
-Snapshot ID: `MCwyZGZjMmE3ZWFlNWM3YWFhOWNlZTFlYzFjZTk0ZDlkYjhiYmRlNjAw`
+Snapshot ID: `MCw0ZmQ2NTVlZGQ0ZmIyYjgwZDExNjljMDZiZDhmMGE5MjFhYzRlNWMw`

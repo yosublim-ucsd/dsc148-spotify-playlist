@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-593 songs - 1 day 12 hr 30 min
+594 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,8 @@
 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 | 2022-07-22 | 2022-10-01 |
 | [Stole The Night](https://open.spotify.com/track/2Ar0ZIQ4drZLxP9ojg4jsD) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Sacred Ground](https://open.spotify.com/album/18N57Dml4yz9hVjzr4mV5S) | 4:21 | 2023-05-25 | 2023-05-27 |
 | [Stop Selling Her Drugs \(feat\. Dominic Fike\)](https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 2:53 | 2020-12-21 | 2022-07-12 |
-| [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 | 2023-08-18 |  |
+| [Stop Waiting](https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 6:02 | 2023-08-18 |  |
+| [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 | 2023-08-18 | 2023-09-21 |
 | [Strange Darling](https://open.spotify.com/track/3pGTGFLKTGFOLArMq3H9jE) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Strange Darling](https://open.spotify.com/album/6JvrwcEWOwBDRR9MgqD35Z) | 3:42 | 2020-12-21 | 2022-04-21 |
 | [Strange Darling](https://open.spotify.com/track/6wzbsVJ4qH3pdzYqm8hVXk) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Strange Darling \- EP](https://open.spotify.com/album/1olv4rODurd0yqk8qMh091) | 3:42 | 2023-05-25 | 2023-08-19 |
 | [Stranger Still \(Daniel T Remix\)](https://open.spotify.com/track/6wZnVO1mipek72VQfS36tY) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Stranger Still \(Daniel T Remix\) \- Single](https://open.spotify.com/album/12OCK0NAh1NIWGB5LyodAH) | 6:06 | 2020-12-21 | 2023-08-19 |
