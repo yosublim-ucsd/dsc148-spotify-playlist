@@ -5928,10 +5928,28 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 170281,
       "name": "On the Rocks",
       "url": "https://open.spotify.com/track/3BfGE5n0uyYr2tv2upKuUF"
+    },
+    {
+      "album": {
+        "name": "Crowd Pleaser",
+        "url": "https://open.spotify.com/album/60vWUnWhnEsAyJfcEp8C1u"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170281,
+      "name": "On the Rocks",
+      "url": "https://open.spotify.com/track/68qevxiwR8ypuZz05Pes9h"
     },
     {
       "album": {

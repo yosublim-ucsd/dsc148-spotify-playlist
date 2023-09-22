@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "15 Minuter",
+        "url": "https://open.spotify.com/album/0UnhWI9Gb9SQcZT2I49Cz9"
+      },
+      "artists": [
+        {
+          "name": "M9",
+          "url": "https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158623,
+      "name": "15 Minuter",
+      "url": "https://open.spotify.com/track/65lGNpSIL1Sq34XWryc8Zt"
+    },
+    {
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/6oGhSS3fgBmqjpd0yuO9fi"
       },
@@ -1986,6 +2004,24 @@
       "duration_ms": 173509,
       "name": "Aurinho",
       "url": "https://open.spotify.com/track/07ULdTS8i7EmTv6235EVfK"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
     },
     {
       "album": {
@@ -4352,7 +4388,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 100000,
       "name": "canis majoris",
       "url": "https://open.spotify.com/track/53NegCMXpUKa7PtCox7L6S"
@@ -4540,7 +4576,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 121846,
       "name": "CATWALK",
       "url": "https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y"
@@ -5382,6 +5418,32 @@
       "duration_ms": 142978,
       "name": "Daniel Ek",
       "url": "https://open.spotify.com/track/2zoBSITldDcnI0z4Akjfrr"
+    },
+    {
+      "album": {
+        "name": "Dans fr\u00e5n dig",
+        "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        },
+        {
+          "name": "Sara Kurt",
+          "url": "https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh"
+        },
+        {
+          "name": "Le Winter",
+          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Dans fr\u00e5n dig",
+      "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
     },
     {
       "album": {
@@ -6536,7 +6598,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 127298,
       "name": "EASTCOAST",
       "url": "https://open.spotify.com/track/1JIrDKkqbxPt3LTkKklPPq"
@@ -7284,7 +7346,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 138085,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy"
@@ -12163,6 +12225,24 @@
     },
     {
       "album": {
+        "name": "K\u00e4nslokall",
+        "url": "https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123169,
+      "name": "K\u00e4nslokall",
+      "url": "https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w"
+    },
+    {
+      "album": {
         "name": "The Only Wan (Deluxe)",
         "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
       },
@@ -12294,6 +12374,24 @@
       "duration_ms": 153884,
       "name": "La Vida Loca",
       "url": "https://open.spotify.com/track/4xoL4Gwg6miOuBJYejgdfC"
+    },
+    {
+      "album": {
+        "name": "Lacoste",
+        "url": "https://open.spotify.com/album/01CmDZ7jfaCWBnLPmuhkEP"
+      },
+      "artists": [
+        {
+          "name": "Aybe",
+          "url": "https://open.spotify.com/artist/3yG6CR4mQZD2clhwnyr778"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "Lacoste",
+      "url": "https://open.spotify.com/track/3QSmaXG8LJBJSjxb1XTcDf"
     },
     {
       "album": {
@@ -12856,7 +12954,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 162666,
       "name": "Lita inte p\u00e5 n\u00e5n",
       "url": "https://open.spotify.com/track/5Ukt9yBxzWzbtyj2mDleEA"
@@ -13872,6 +13970,24 @@
       "duration_ms": 130769,
       "name": "Makine",
       "url": "https://open.spotify.com/track/2p5aqtJ05qtjlnEflc12h9"
+    },
+    {
+      "album": {
+        "name": "Malad\u00e8",
+        "url": "https://open.spotify.com/album/6gU1iRkv19UzP2ceEQUr0m"
+      },
+      "artists": [
+        {
+          "name": "LaStreet",
+          "url": "https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Malad\u00e8",
+      "url": "https://open.spotify.com/track/6h1dWzBV5GuGjKc3s0AbjE"
     },
     {
       "album": {
@@ -16396,7 +16512,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 138556,
       "name": "Ollie Dovin",
       "url": "https://open.spotify.com/track/1snyenKHSJqWEEFFVlxfB6"
@@ -16877,6 +16993,24 @@
     },
     {
       "album": {
+        "name": "Palmerna",
+        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147013,
+      "name": "Palmerna",
+      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
+    },
+    {
+      "album": {
         "name": "PANGPANG",
         "url": "https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H"
       },
@@ -16888,7 +17022,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 149606,
       "name": "PANGPANG",
       "url": "https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf"
@@ -17802,6 +17936,24 @@
       "duration_ms": 134138,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/3gySkr0JdSdU41WKDBWPn5"
+    },
+    {
+      "album": {
+        "name": "Psykopat",
+        "url": "https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d"
+      },
+      "artists": [
+        {
+          "name": "Steph K",
+          "url": "https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129714,
+      "name": "Psykopat",
+      "url": "https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn"
     },
     {
       "album": {
@@ -19928,7 +20080,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 164000,
       "name": "SOSA",
       "url": "https://open.spotify.com/track/1LwQ8dJLLxnamr0EhKROax"
@@ -21886,7 +22038,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 150857,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/7rfeJISPi9ooiYXd3ixF5x"
@@ -22195,6 +22347,28 @@
     },
     {
       "album": {
+        "name": "Tugga med demoner",
+        "url": "https://open.spotify.com/album/21oA2KidqX5yvAW4oNy9Lw"
+      },
+      "artists": [
+        {
+          "name": "CENTI",
+          "url": "https://open.spotify.com/artist/0nlla7bZRxb965OBsAmPEq"
+        },
+        {
+          "name": "ayolenn",
+          "url": "https://open.spotify.com/artist/5lJbKcq55stGE6PbXe5SK9"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Tugga med demoner",
+      "url": "https://open.spotify.com/track/68mX4diVsOZvhHOsZnco8u"
+    },
+    {
+      "album": {
         "name": "PISTOLER POESI OCH SEX",
         "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
       },
@@ -22380,7 +22554,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 128399,
       "name": "Umrah (feat. 1.Cuz)",
       "url": "https://open.spotify.com/track/3ZMfn0zMNMgLZmhrKFCAdw"

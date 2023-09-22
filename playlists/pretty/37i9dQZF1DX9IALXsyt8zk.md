@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: LE SSERAFIM \(르세라핌\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,261 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,317 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Our Night is more beautiful than your Day](https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq) | 3:19 |
 | 50 | [HDYF \(Feat\. Hash Swan\)](https://open.spotify.com/track/32dRFUzFQND2iuWeCnWdx8) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Midnight law](https://open.spotify.com/album/0AoUsMZkciETOGsxubJX77) | 3:05 |
 
-Snapshot ID: `MCxhMDZkZTAzZTllMDMwZTk3MmI4MzRmOGQ1NDBkYTliNWU1OWE5ZmEz`
+Snapshot ID: `MCw2ODY3YzQ1MDRjYzUyYmY4NmY4MTUyZmFkYWUxNThlYjVkMjAwMWM5`

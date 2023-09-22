@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-229 songs - 13 hr 39 min
+230 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Boys Don't Cry](https://open.spotify.com/track/6HsPGQVhKRgWlLXt9Z3kkJ) | [Jamie Lancaster](https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 3:13 | 2021-12-09 | 2023-05-13 |
 | [Burn Rubber on Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/track/0TyDl7iD1aj2D78xv4UZ1K) | [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [Burn Rubber on Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/album/4Sw1zXyim0qRy7R19FaO1Y) | 2:48 | 2021-12-09 | 2023-05-13 |
 | [Cake By The Ocean](https://open.spotify.com/track/5Rr1dkY556PBAKf1c83clx) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Cake By The Ocean](https://open.spotify.com/album/0nbjySxfBgmAR0o8wUNnoI) | 3:43 | 2021-12-09 | 2023-04-21 |
+| [Call Me Maybe](https://open.spotify.com/track/5HwjQ63UtHURR9Dn0JuLtw) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Call Me Maybe](https://open.spotify.com/album/3NZtAzx3ncvX0WVNQdqFaJ) | 3:24 | 2023-09-22 |  |
 | [Call Me Maybe \(Bossa Nova Version\) \[Originally Performed By Carly Rae Jepsen\]](https://open.spotify.com/track/52gkD0XbLxHRaIvXGOVkPu) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 3:48 | 2021-12-09 | 2023-05-13 |
 | [Caminhos Cruzados](https://open.spotify.com/track/6hJ3NAOT0bcyVc71mxIwzH) | [Levitação](https://open.spotify.com/artist/3UN99pD6bZtalFMfjSBBTJ), [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Caminhos Cruzados](https://open.spotify.com/album/19pmYlgZ2tfT3PFrEAilsH) | 4:21 | 2021-12-09 | 2023-05-13 |
 | [Capital Letters \- Bossa Nova](https://open.spotify.com/track/1eNJTz948RfGSC2gIPqhbo) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Capital Letters \(Bossa Nova\)](https://open.spotify.com/album/6QiMiX7Rtxj0HmPXih3ski) | 3:45 | 2021-12-09 |  |

@@ -2609,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/5uvoX0fFiT1QFpZXntsI3j"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271106,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/4xCA8KYdeVe3AmTTEYJtVp"
+    },
+    {
+      "album": {
         "name": "I Don't Belong",
         "url": "https://open.spotify.com/album/4No1gKG4RlwBZEShVdOwUW"
       },
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 271106,
       "name": "I Don't Belong",
       "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"

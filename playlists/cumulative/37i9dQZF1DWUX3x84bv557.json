@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: MAKSIM & Emma Heesters",
+  "description": "De nieuwste Nederlandse liedjes! Cover: Suzan & Freek",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Alleen",
+        "url": "https://open.spotify.com/album/3xbBtizQWbEZtmQrgK3jpA"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199549,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/1SMbXa6Ri7Rg2lxsBbKvBB"
+    },
+    {
+      "album": {
         "name": "Alles Al",
         "url": "https://open.spotify.com/album/3QxGactgkMfFmkUaqvr0mP"
       },
@@ -472,7 +490,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 240310,
       "name": "Als Je Me Kwijt Bent",
       "url": "https://open.spotify.com/track/3b4x1jEdKCLioVPZbphndQ"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 148333,
       "name": "Buitenspel",
       "url": "https://open.spotify.com/track/7fgNzQkswlJDjQZQPUoeRt"
@@ -1351,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "De Bloemen Die Je Stuurde",
+        "url": "https://open.spotify.com/album/1YS93womgDgRHgIXIapToF"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168700,
+      "name": "De Bloemen Die Je Stuurde",
+      "url": "https://open.spotify.com/track/1Wmj2gkXgEm0xLpvO5hT4s"
+    },
+    {
+      "album": {
         "name": "Als Je Voor Me Staat",
         "url": "https://open.spotify.com/album/2P6oEIpeCgngnghCvzO4T3"
       },
@@ -1366,6 +1402,24 @@
       "duration_ms": 212091,
       "name": "De Helft Van Je Hart",
       "url": "https://open.spotify.com/track/6ci2soUdoTPdn0ytw99LjN"
+    },
+    {
+      "album": {
+        "name": "Iemand Van Vroeger",
+        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "De Helft Van Mij",
+      "url": "https://open.spotify.com/track/1b4EY1iGSNPRIW2fulM8Lj"
     },
     {
       "album": {
@@ -1862,7 +1916,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 166000,
       "name": "Een Chick Als (Jade)",
       "url": "https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm"
@@ -2206,7 +2260,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 123281,
       "name": "Glaasje of 2",
       "url": "https://open.spotify.com/track/608bP3vB7pwjatfREMItX6"
@@ -2300,7 +2354,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 164471,
       "name": "Haast",
       "url": "https://open.spotify.com/track/399bjhgodMuQoMkynf8rVM"
@@ -2742,7 +2796,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 191700,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9"
@@ -2760,7 +2814,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 158400,
       "name": "Houden Van Mij",
       "url": "https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS"
@@ -2778,7 +2832,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 152827,
       "name": "Hypnose",
       "url": "https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT"
@@ -2796,7 +2850,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 226751,
       "name": "Ik Ben Jij",
       "url": "https://open.spotify.com/track/1nfbxZYGqSmHhi8PDE7X0Y"
@@ -3256,6 +3310,24 @@
       "duration_ms": 164480,
       "name": "Koning Liefde",
       "url": "https://open.spotify.com/track/4y8Lwn9OwGxUf7fTJtlPXl"
+    },
+    {
+      "album": {
+        "name": "Kop In The Sand",
+        "url": "https://open.spotify.com/album/3lRqcRvlYbaqK65LTnUZno"
+      },
+      "artists": [
+        {
+          "name": "The Dean",
+          "url": "https://open.spotify.com/artist/6ado6OQHT11e73WVhbAo4c"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Kop In The Sand",
+      "url": "https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk"
     },
     {
       "album": {
@@ -4442,7 +4514,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 149538,
       "name": "Ongezien",
       "url": "https://open.spotify.com/track/2PJyGfXFYv6XzBvrO1szhQ"
@@ -4540,7 +4612,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 152307,
       "name": "OVERSCHAT",
       "url": "https://open.spotify.com/track/4kwQiaBoC8lRtOAtoegKto"
@@ -4634,7 +4706,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 152324,
       "name": "Plaatje",
       "url": "https://open.spotify.com/track/1RCxak1HohZMPlZMFaeg63"
@@ -4728,6 +4800,24 @@
       "duration_ms": 156470,
       "name": "Reden",
       "url": "https://open.spotify.com/track/27C4hWKoHD15w2UjiOGxdq"
+    },
+    {
+      "album": {
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/3XSu9f5Zau6MN01ZCxQz0F"
+      },
+      "artists": [
+        {
+          "name": "Mick Spek",
+          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145218,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/7pmmCC7wOuG38rZeUCtPpa"
     },
     {
       "album": {
@@ -5378,7 +5468,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 140931,
       "name": "Toverdrank",
       "url": "https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5"
@@ -5472,6 +5562,24 @@
       "duration_ms": 139155,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/2yEgte8dgqwF38TMT7Qxyw"
+    },
+    {
+      "album": {
+        "name": "Tussendoor",
+        "url": "https://open.spotify.com/album/1uiD722Lty54S0hMv6DAXS"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185438,
+      "name": "Tussendoor",
+      "url": "https://open.spotify.com/track/5ejOlSH4f8M5Tqrisvjpsz"
     },
     {
       "album": {
@@ -5808,7 +5916,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 147648,
       "name": "volgens mij ben ik verliefd",
       "url": "https://open.spotify.com/track/3v7jPB2LvWc0WA9cRHqYHS"
@@ -5848,6 +5956,24 @@
       "duration_ms": 184340,
       "name": "Voor Mijn Hart",
       "url": "https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs"
+    },
+    {
+      "album": {
+        "name": "Vrouw Van De Wereld",
+        "url": "https://open.spotify.com/album/303su5NnOpJDJzlO9YNrGT"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158618,
+      "name": "Vrouw Van De Wereld",
+      "url": "https://open.spotify.com/track/3ssFHRmjHtu6ZwSd8mCjCj"
     },
     {
       "album": {
@@ -5956,7 +6082,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 180000,
       "name": "Wat Ik Met Je Moet",
       "url": "https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM"
@@ -6094,7 +6220,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 251140,
       "name": "Ze Is Pas Net Begonnen (Leerstage / Werkstage)",
       "url": "https://open.spotify.com/track/05MA2ZgaV5d1AGMs0LpJ0O"
@@ -6191,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "ZO BEN JIJ",
+        "url": "https://open.spotify.com/album/4LY7izKbtV5aoHaQfDbmtn"
+      },
+      "artists": [
+        {
+          "name": "Gianski",
+          "url": "https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "ZO BEN JIJ",
+      "url": "https://open.spotify.com/track/4DzdniulQXcwnnjUabxHLb"
+    },
+    {
+      "album": {
         "name": "Beste Zangers 2023 (MEAU)",
         "url": "https://open.spotify.com/album/1OuwGZMLpotXelAT54hv4C"
       },
@@ -6238,7 +6382,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 152990,
       "name": "Zoals Jij",
       "url": "https://open.spotify.com/track/3NjCVq7Mi6RsrG2yzY74Hl"
@@ -6274,7 +6418,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 192000,
       "name": "Zolang Het Nog Kan",
       "url": "https://open.spotify.com/track/2kEEscbP2aJrhpzjXCDafF"

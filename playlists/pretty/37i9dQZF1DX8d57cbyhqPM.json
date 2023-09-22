@@ -1,15 +1,15 @@
 {
   "description": "Du Congo, au monde. \ud83c\udf0d Photo: KeBlack",
-  "num_followers": 25434,
+  "num_followers": 25492,
   "original_name": "Biso Na Biso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTE2YzMyNDE1NzMyZGYwYTNjYWQxZGFhZGI5ZTdlY2YwZWIwZTU2",
+  "snapshot_id": "MCw3ZTZjODc3OGRhMThhMTM4MzM2YTE1M2U2NzFkZmFmYmNhYzZkMjcz",
   "tracks": [
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "LAISSE MOI",
         "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Meridian",
         "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "\u00c7a va !",
         "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "\u00c7ava",
         "url": "https://open.spotify.com/album/06C3kwzKTthzgogsGkdrGQ"
@@ -81,7 +81,59 @@
       "url": "https://open.spotify.com/track/3fXrGNa9JmqlgGMcSINIpo"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "\u00c7a va",
+        "url": "https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "\u00c7a va",
+      "url": "https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Mwinda",
+        "url": "https://open.spotify.com/album/1oBCQkbNReIySY06NBdHgs"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "duration_ms": 300094,
+      "name": "Mwinda",
+      "url": "https://open.spotify.com/track/3qSfVR5ujV1SaomRSARWim"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 190245,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Danger (RMX)",
         "url": "https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc"
@@ -109,59 +161,7 @@
       "url": "https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "\u00c7a va",
-        "url": "https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 171853,
-      "name": "\u00c7a va",
-      "url": "https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Mwinda",
-        "url": "https://open.spotify.com/album/1oBCQkbNReIySY06NBdHgs"
-      },
-      "artists": [
-        {
-          "name": "Koffi Olomide",
-          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
-        }
-      ],
-      "duration_ms": 300094,
-      "name": "Mwinda",
-      "url": "https://open.spotify.com/track/3qSfVR5ujV1SaomRSARWim"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl"
-      },
-      "artists": [
-        {
-          "name": "Serge Ibaka",
-          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 190245,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Na Lola",
         "url": "https://open.spotify.com/album/7GOZ2FqO0vmcifO5j4DMZk"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/3RLq8Pf4D4Yd8wdNXMUQkF"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Danse",
         "url": "https://open.spotify.com/album/1im21Oi225yO8IponkdVxi"
@@ -197,23 +197,7 @@
       "url": "https://open.spotify.com/track/6QJotPdXRCSuHLdyD3QKZd"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Lushi Up",
-        "url": "https://open.spotify.com/album/4FgJviqPxdsCwzTFpzQKEC"
-      },
-      "artists": [
-        {
-          "name": "Hugo Kafumbi",
-          "url": "https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Lushi Up",
-      "url": "https://open.spotify.com/track/6NtOLttMbER6yE4mxsNYsr"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79"
@@ -233,7 +217,7 @@
       "url": "https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Coup\u00e9 D\u00e9cal\u00e9 Zone (Sushiraw)",
         "url": "https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ"
@@ -249,7 +233,7 @@
       "url": "https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Bokoko (Extra Musica)",
         "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
@@ -269,7 +253,7 @@
       "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Posa na bina",
         "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
@@ -285,7 +269,7 @@
       "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Dendisa",
         "url": "https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L"
@@ -305,7 +289,7 @@
       "url": "https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Half 5",
         "url": "https://open.spotify.com/album/1cpB7QtgfL5NSTQZppLuYG"
@@ -321,7 +305,7 @@
       "url": "https://open.spotify.com/track/7dw9D4o2oRFrTBQI4NiXEA"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Pole Pole",
         "url": "https://open.spotify.com/album/1PfUsfBkYFoB2DaNAd516S"
@@ -341,7 +325,7 @@
       "url": "https://open.spotify.com/track/6j9Zkg0EM7Z8kGBqTgxCh9"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Francophonie",
         "url": "https://open.spotify.com/album/1fUTxzNduGKzq0sYo9CZN1"
@@ -357,7 +341,7 @@
       "url": "https://open.spotify.com/track/3Cx4vtFSEVLtzs8fODoGBA"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Soldat",
         "url": "https://open.spotify.com/album/6B8xFNUP5v5zneQMo6eENp"
@@ -377,7 +361,7 @@
       "url": "https://open.spotify.com/track/0mMlg9IjOqcDYFIkWiJUnC"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Linga Nga",
         "url": "https://open.spotify.com/album/7bpFRNNu19pJM5WKarDQjD"
@@ -397,7 +381,7 @@
       "url": "https://open.spotify.com/track/7IK4uieP9QrhMvlWF2drR4"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Plus jamais",
         "url": "https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X"
@@ -417,7 +401,7 @@
       "url": "https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "LMDB",
         "url": "https://open.spotify.com/album/7ywkrR5rlJ0Lj4jbsHVfU3"
@@ -437,7 +421,7 @@
       "url": "https://open.spotify.com/track/7AVgv2DjAjyybEEJLAnd29"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Bloqu\u00e9",
         "url": "https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8"
@@ -453,7 +437,7 @@
       "url": "https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Ba zoba",
         "url": "https://open.spotify.com/album/48irBPBUAgsGiWByUeQ504"
@@ -473,7 +457,7 @@
       "url": "https://open.spotify.com/track/6Gu4tDlGVj9FSWCbPcwLo3"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Indess",
         "url": "https://open.spotify.com/album/4A4yPkRSHMDr0DMvehKUgR"
@@ -493,7 +477,7 @@
       "url": "https://open.spotify.com/track/6niNPp6rdlIQS61n95OQwo"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "El mayalove",
         "url": "https://open.spotify.com/album/7ohx2s4LEDhFSlieYpVBLy"
@@ -509,7 +493,7 @@
       "url": "https://open.spotify.com/track/6nB2jTxdEasmji0SqlU77Q"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Bizorbi",
         "url": "https://open.spotify.com/album/6kVeYVPbvQ4WjmtzROIxXY"
@@ -525,7 +509,7 @@
       "url": "https://open.spotify.com/track/6IDHonEuHfYzjB3GqQDut5"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -545,7 +529,7 @@
       "url": "https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "TOUCHE MOI (Tindidi)",
         "url": "https://open.spotify.com/album/557ibuoURcCgf5uONft8el"
@@ -569,7 +553,7 @@
       "url": "https://open.spotify.com/track/104G7WYYF0YcrkzL6xMEz5"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Afro Mbokalisation",
         "url": "https://open.spotify.com/album/5lv3btQPZawglTewcn1Y1h"
@@ -585,7 +569,31 @@
       "url": "https://open.spotify.com/track/3P5wVufq5aP1hDMl1W1qvO"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Gentleman 2.0",
+        "url": "https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Trouvez-la moi",
+      "url": "https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Diamant",
         "url": "https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W"
@@ -605,7 +613,7 @@
       "url": "https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Puzzle",
         "url": "https://open.spotify.com/album/3D0OJtFqBqjgfbsangQU2L"
@@ -625,7 +633,7 @@
       "url": "https://open.spotify.com/track/1YieXGaS4c81P4x02oUl61"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Maziwa",
         "url": "https://open.spotify.com/album/7wqLvH7cLXKw0YnVUoNyfz"
@@ -653,7 +661,7 @@
       "url": "https://open.spotify.com/track/09IfxlKqPL33hhPTfO6wfO"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Pretty Girl Pack",
         "url": "https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N"
@@ -669,7 +677,7 @@
       "url": "https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Ta Pr\u00e9sence",
         "url": "https://open.spotify.com/album/7mrRTvQ2OCI3XOZkmvSpgy"
@@ -685,7 +693,7 @@
       "url": "https://open.spotify.com/track/4GLxG7EniRu9Py6soT2vBf"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "C'EST MA VIE",
         "url": "https://open.spotify.com/album/3gY9b5ikga7dt1mS5OfhA2"
@@ -701,7 +709,7 @@
       "url": "https://open.spotify.com/track/4B2MFDkxTyCV3ek5hBIfZd"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Caresse",
         "url": "https://open.spotify.com/album/3aZ3XICAdX8kD7lVOuxaYU"
@@ -717,7 +725,7 @@
       "url": "https://open.spotify.com/track/5gbz2cNy6onybV68m96GFD"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Sans nouvelle",
         "url": "https://open.spotify.com/album/6B5ks4O0TDE0LP8PBBilhM"
@@ -733,7 +741,7 @@
       "url": "https://open.spotify.com/track/1wlksYa0f0F5IXEt4DOXHC"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Formule 7",
         "url": "https://open.spotify.com/album/4wIVgSLd2xKHdp3Bs6iVsf"
@@ -749,7 +757,7 @@
       "url": "https://open.spotify.com/track/2oswXAs7dpgNyJbjqUOZKB"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Nostalgie",
         "url": "https://open.spotify.com/album/6VPoJ7iW330fKJ1mJsg2pt"
@@ -765,27 +773,7 @@
       "url": "https://open.spotify.com/track/5Y6rAybIKWexRGx2DoLnmA"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Bisous Bye (feat. Innoss'B)",
-        "url": "https://open.spotify.com/album/2tAJFRySi9nyZHv32Kt3kX"
-      },
-      "artists": [
-        {
-          "name": "Diesel Gucci",
-          "url": "https://open.spotify.com/artist/3ZTd2WDHj0fn67xpiQ9DEi"
-        },
-        {
-          "name": "Innoss'B",
-          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
-        }
-      ],
-      "duration_ms": 272872,
-      "name": "Bisous Bye (feat. Innoss'B)",
-      "url": "https://open.spotify.com/track/6L9MRZLxr5k04Y9TyWNxVI"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Carr\u00e9 (feat. Fally Ipupa)",
         "url": "https://open.spotify.com/album/4oG5nKIyQXVKVozGUbOlnA"
@@ -805,51 +793,7 @@
       "url": "https://open.spotify.com/track/558wwMmRlaCXruzBg7s1QG"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Gentleman 2.0",
-        "url": "https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Trouvez-la moi",
-      "url": "https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "PISTOLET",
-        "url": "https://open.spotify.com/album/2zodhhPsfim9tEDfpOzjai"
-      },
-      "artists": [
-        {
-          "name": "Stephane Legar",
-          "url": "https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk"
-        },
-        {
-          "name": "Innoss'B",
-          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
-        }
-      ],
-      "duration_ms": 160273,
-      "name": "PISTOLET",
-      "url": "https://open.spotify.com/track/794xlzZPneUnPEdosfCjxp"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Jos\u00e9 Louis And The Paradox of Love (Deluxe)",
         "url": "https://open.spotify.com/album/5XPNisbGcTvrjvQ0jnKyxD"
@@ -865,543 +809,7 @@
       "url": "https://open.spotify.com/track/4Gur4FdxkmXH8x3DCmYmz0"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "DNK",
-        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Cadeau (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Femme Africaine",
-        "url": "https://open.spotify.com/album/2vNXcv6Pa0IBvs70onbDqr"
-      },
-      "artists": [
-        {
-          "name": "Ntaba 2 London",
-          "url": "https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy"
-        }
-      ],
-      "duration_ms": 157496,
-      "name": "Femme Africaine",
-      "url": "https://open.spotify.com/track/3SMheBG25pe8icrKQOPZbY"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Mopacho Panama",
-        "url": "https://open.spotify.com/album/5PmflLOf1xJZt1P7fAbA4D"
-      },
-      "artists": [
-        {
-          "name": "Stone Warley",
-          "url": "https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01"
-        },
-        {
-          "name": "Afara Tsena",
-          "url": "https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP"
-        }
-      ],
-      "duration_ms": 179873,
-      "name": "Mopacho Panama",
-      "url": "https://open.spotify.com/track/7wbMzPQrM8HF5z5ouQNiZT"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Mondongo",
-        "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
-      },
-      "artists": [
-        {
-          "name": "Awilo Longomba",
-          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "Karolina",
-      "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Eloko",
-        "url": "https://open.spotify.com/album/5BclOVLIHYhchoiRfRzA9A"
-      },
-      "artists": [
-        {
-          "name": "Extra Musica Nouvel Horizon",
-          "url": "https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98"
-        }
-      ],
-      "duration_ms": 243278,
-      "name": "Eloko",
-      "url": "https://open.spotify.com/track/0bnOKQk43FZdLaCku0zSiR"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Brakata (Remix)",
-        "url": "https://open.spotify.com/album/6AFW8ZjnaZYGecazh9hEld"
-      },
-      "artists": [
-        {
-          "name": "JD LSK",
-          "url": "https://open.spotify.com/artist/6sYvVtA9vuxirfgrRZZxgJ"
-        },
-        {
-          "name": "Shinestone",
-          "url": "https://open.spotify.com/artist/156idiGxU2Q0ZEqaejQFS8"
-        }
-      ],
-      "duration_ms": 174184,
-      "name": "Brakata (Remix)",
-      "url": "https://open.spotify.com/track/6SmG3na48UBkXIGr7N1cUT"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Maboko Milayi",
-        "url": "https://open.spotify.com/album/5BwHaXF0mtcqxBjSHyIwvw"
-      },
-      "artists": [
-        {
-          "name": "Innoss'B",
-          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
-        },
-        {
-          "name": "Awilo Longomba",
-          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
-        }
-      ],
-      "duration_ms": 244615,
-      "name": "Maboko Milayi",
-      "url": "https://open.spotify.com/track/3oa2Af68PY4x3tvNaqhptZ"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "DIAMANT DU BLED",
-        "url": "https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "COEUR DE ICE (feat. Damso)",
-      "url": "https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Eloko",
-        "url": "https://open.spotify.com/album/21U2ZROxX0JQiR91RQjt67"
-      },
-      "artists": [
-        {
-          "name": "Robinio Mundibu",
-          "url": "https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz"
-        },
-        {
-          "name": "Gaz Mawete",
-          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
-        }
-      ],
-      "duration_ms": 204454,
-      "name": "Eloko",
-      "url": "https://open.spotify.com/track/4OXLcfffBxIt4uqwjFVI9N"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "MRTHN",
-        "url": "https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g"
-      },
-      "artists": [
-        {
-          "name": "Gianni",
-          "url": "https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 169986,
-      "name": "Acolyte (feat. Dadju & Ninho)",
-      "url": "https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Amour & moi",
-        "url": "https://open.spotify.com/album/2NAkbN7FQw4yTukP3NOvpb"
-      },
-      "artists": [
-        {
-          "name": "Gally",
-          "url": "https://open.spotify.com/artist/77leAzJhNtGmrB9EzWxBv7"
-        }
-      ],
-      "duration_ms": 177017,
-      "name": "Je t'aime",
-      "url": "https://open.spotify.com/track/5J9dOEHLNPwfbFlWPTkm8S"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Nous deux",
-        "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Nous deux",
-      "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Y'a pas ton 2",
-        "url": "https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD"
-      },
-      "artists": [
-        {
-          "name": "Hiro",
-          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
-        }
-      ],
-      "duration_ms": 191671,
-      "name": "Y'a pas ton 2",
-      "url": "https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Ya Jean",
-        "url": "https://open.spotify.com/album/06Mr2L6kIAbYyvdqAhWmF8"
-      },
-      "artists": [
-        {
-          "name": "Ziks",
-          "url": "https://open.spotify.com/artist/6C0evp0gulOb6fpt9oD1w4"
-        }
-      ],
-      "duration_ms": 217887,
-      "name": "Ya Jean",
-      "url": "https://open.spotify.com/track/0pezTTL2fjRJUdAzfoQmTm"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Nakota",
-        "url": "https://open.spotify.com/album/0Mj36qxlMSXwtOCBxqY6sU"
-      },
-      "artists": [
-        {
-          "name": "Leaux Reese",
-          "url": "https://open.spotify.com/artist/07QiVx7zAb0JwxrVkZSi2O"
-        }
-      ],
-      "duration_ms": 79058,
-      "name": "Nakota",
-      "url": "https://open.spotify.com/track/5S0sBrAs70KBPHo7UyO2Fv"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "One Leg (Kiki Ewing)",
-        "url": "https://open.spotify.com/album/35LxfEK4UZIrJgoW12Toro"
-      },
-      "artists": [
-        {
-          "name": "Ryan De La Cruz",
-          "url": "https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T"
-        }
-      ],
-      "duration_ms": 188830,
-      "name": "One Leg (Kiki Ewing)",
-      "url": "https://open.spotify.com/track/0UsRg4DH2peJJe01aL7Dza"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Quand j'y repense",
-        "url": "https://open.spotify.com/album/6UajBxdtW2cxG1Do4hzhpF"
-      },
-      "artists": [
-        {
-          "name": "Mig",
-          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Quand j'y repense",
-      "url": "https://open.spotify.com/track/0sWCXDsedhClISQuKKMJcf"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "17%",
-        "url": "https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 168513,
-      "name": "Mapessa (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Genkidama",
-        "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 184120,
-      "name": "Genkidama",
-      "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Yo Pe (Remix)",
-        "url": "https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV"
-      },
-      "artists": [
-        {
-          "name": "Innoss'B",
-          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Yo Pe - Remix",
-      "url": "https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Dodo (Remix)",
-        "url": "https://open.spotify.com/album/7E3aU7OQ0sWpAY46h3TRfh"
-      },
-      "artists": [
-        {
-          "name": "Gino J",
-          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
-        },
-        {
-          "name": "Gaz Mawete",
-          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
-        }
-      ],
-      "duration_ms": 156051,
-      "name": "Dodo - Remix",
-      "url": "https://open.spotify.com/track/0xX55NB90iv1LGAosfkmqO"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Paka",
-        "url": "https://open.spotify.com/album/5MkA3ZHGmPmfeUlZLjNM9F"
-      },
-      "artists": [
-        {
-          "name": "Marechal Abd",
-          "url": "https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY"
-        }
-      ],
-      "duration_ms": 194612,
-      "name": "Paka",
-      "url": "https://open.spotify.com/track/1KbEjbFZlGJv37Lm6XCfbl"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Jolie (feat. Ninho)",
-        "url": "https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2"
-      },
-      "artists": [
-        {
-          "name": "GAULOIS",
-          "url": "https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Jolie (feat. Ninho)",
-      "url": "https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Fimbu",
-        "url": "https://open.spotify.com/album/22BBi4bgCd0fPzkijhCmMa"
-      },
-      "artists": [
-        {
-          "name": "Felix Wazekwa",
-          "url": "https://open.spotify.com/artist/0pzeKLviAxrnJTAUQzaUs3"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Fimbu",
-      "url": "https://open.spotify.com/track/44Lba4g6bftsoPiDnM1BJt"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Waah! (feat. Koffi Olomide)",
-        "url": "https://open.spotify.com/album/4Jk9lFqW5Jubq6RblSowLj"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Koffi Olomide",
-          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Waah! (feat. Koffi Olomide)",
-      "url": "https://open.spotify.com/track/0ceJAvjokFWwhh0nsOM9QD"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Sakwado",
-        "url": "https://open.spotify.com/album/1lXZ9T2DUQuxUnqtbiSL3W"
-      },
-      "artists": [
-        {
-          "name": "George Kipa",
-          "url": "https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR"
-        },
-        {
-          "name": "Gbandz",
-          "url": "https://open.spotify.com/artist/3dq9mDztwPneAJs5bZkgWw"
-        },
-        {
-          "name": "Mwizz",
-          "url": "https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU"
-        }
-      ],
-      "duration_ms": 160105,
-      "name": "Sakwado",
-      "url": "https://open.spotify.com/track/6wQzmZREyVEFT2LTWoK3jE"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Caler Son",
-        "url": "https://open.spotify.com/album/0rOrnuEczPPCGMDM6fSToX"
-      },
-      "artists": [
-        {
-          "name": "GAZ FABILOUSS",
-          "url": "https://open.spotify.com/artist/6oM8IaVeHCW8MeUkACNo3z"
-        },
-        {
-          "name": "Innoss'B",
-          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
-        }
-      ],
-      "duration_ms": 272519,
-      "name": "Caler Son",
-      "url": "https://open.spotify.com/track/6O8ZZH9r6QRobAbf8xy3rN"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Licolo",
-        "url": "https://open.spotify.com/album/5VOIqfnUgpMQTITYb51d7T"
-      },
-      "artists": [
-        {
-          "name": "LUVANGA",
-          "url": "https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy"
-        },
-        {
-          "name": "Sekzy",
-          "url": "https://open.spotify.com/artist/3JfKYqGySja1gL67kxe99V"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "Licolo",
-      "url": "https://open.spotify.com/track/4sxulmCPiTVmFuvRfTbMij"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
-      "album": {
-        "name": "Maison m\u00e8re",
-        "url": "https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU"
-      },
-      "artists": [
-        {
-          "name": "Wenge Musica Maison M\u00e8re",
-          "url": "https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp"
-        }
-      ],
-      "duration_ms": 422973,
-      "name": "Solola bien",
-      "url": "https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ"
-    },
-    {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "Feux de l'amour",
         "url": "https://open.spotify.com/album/2R1EfXW4P5627Q6qZqxPtF"
@@ -1425,7 +833,427 @@
       "url": "https://open.spotify.com/track/2DzhQ5UXu8fDQaQ0WaMYHK"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Cadeau (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Femme Africaine",
+        "url": "https://open.spotify.com/album/2vNXcv6Pa0IBvs70onbDqr"
+      },
+      "artists": [
+        {
+          "name": "Ntaba 2 London",
+          "url": "https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy"
+        }
+      ],
+      "duration_ms": 157496,
+      "name": "Femme Africaine",
+      "url": "https://open.spotify.com/track/3SMheBG25pe8icrKQOPZbY"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Mopacho Panama",
+        "url": "https://open.spotify.com/album/5PmflLOf1xJZt1P7fAbA4D"
+      },
+      "artists": [
+        {
+          "name": "Stone Warley",
+          "url": "https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01"
+        },
+        {
+          "name": "Afara Tsena",
+          "url": "https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP"
+        }
+      ],
+      "duration_ms": 179873,
+      "name": "Mopacho Panama",
+      "url": "https://open.spotify.com/track/7wbMzPQrM8HF5z5ouQNiZT"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Mondongo",
+        "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
+      },
+      "artists": [
+        {
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "Karolina",
+      "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Eloko",
+        "url": "https://open.spotify.com/album/5BclOVLIHYhchoiRfRzA9A"
+      },
+      "artists": [
+        {
+          "name": "Extra Musica Nouvel Horizon",
+          "url": "https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98"
+        }
+      ],
+      "duration_ms": 243278,
+      "name": "Eloko",
+      "url": "https://open.spotify.com/track/0bnOKQk43FZdLaCku0zSiR"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Maboko Milayi",
+        "url": "https://open.spotify.com/album/5BwHaXF0mtcqxBjSHyIwvw"
+      },
+      "artists": [
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        },
+        {
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+        }
+      ],
+      "duration_ms": 244615,
+      "name": "Maboko Milayi",
+      "url": "https://open.spotify.com/track/3oa2Af68PY4x3tvNaqhptZ"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "COEUR DE ICE (feat. Damso)",
+      "url": "https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "MRTHN",
+        "url": "https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 169986,
+      "name": "Acolyte (feat. Dadju & Ninho)",
+      "url": "https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Amour & moi",
+        "url": "https://open.spotify.com/album/2NAkbN7FQw4yTukP3NOvpb"
+      },
+      "artists": [
+        {
+          "name": "Gally",
+          "url": "https://open.spotify.com/artist/77leAzJhNtGmrB9EzWxBv7"
+        }
+      ],
+      "duration_ms": 177017,
+      "name": "Je t'aime",
+      "url": "https://open.spotify.com/track/5J9dOEHLNPwfbFlWPTkm8S"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Nous deux",
+        "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Nous deux",
+      "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Y'a pas ton 2",
+        "url": "https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        }
+      ],
+      "duration_ms": 191671,
+      "name": "Y'a pas ton 2",
+      "url": "https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "One Leg (Kiki Ewing)",
+        "url": "https://open.spotify.com/album/35LxfEK4UZIrJgoW12Toro"
+      },
+      "artists": [
+        {
+          "name": "Ryan De La Cruz",
+          "url": "https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T"
+        }
+      ],
+      "duration_ms": 188830,
+      "name": "One Leg (Kiki Ewing)",
+      "url": "https://open.spotify.com/track/0UsRg4DH2peJJe01aL7Dza"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Quand j'y repense",
+        "url": "https://open.spotify.com/album/6UajBxdtW2cxG1Do4hzhpF"
+      },
+      "artists": [
+        {
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Quand j'y repense",
+      "url": "https://open.spotify.com/track/0sWCXDsedhClISQuKKMJcf"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "17%",
+        "url": "https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 168513,
+      "name": "Mapessa (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Genkidama",
+        "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 184120,
+      "name": "Genkidama",
+      "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Dodo (Remix)",
+        "url": "https://open.spotify.com/album/7E3aU7OQ0sWpAY46h3TRfh"
+      },
+      "artists": [
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        },
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        }
+      ],
+      "duration_ms": 156051,
+      "name": "Dodo - Remix",
+      "url": "https://open.spotify.com/track/0xX55NB90iv1LGAosfkmqO"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Paka",
+        "url": "https://open.spotify.com/album/5MkA3ZHGmPmfeUlZLjNM9F"
+      },
+      "artists": [
+        {
+          "name": "Marechal Abd",
+          "url": "https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY"
+        }
+      ],
+      "duration_ms": 194612,
+      "name": "Paka",
+      "url": "https://open.spotify.com/track/1KbEjbFZlGJv37Lm6XCfbl"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Jolie (feat. Ninho)",
+        "url": "https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2"
+      },
+      "artists": [
+        {
+          "name": "GAULOIS",
+          "url": "https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "Jolie (feat. Ninho)",
+      "url": "https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Fimbu",
+        "url": "https://open.spotify.com/album/22BBi4bgCd0fPzkijhCmMa"
+      },
+      "artists": [
+        {
+          "name": "Felix Wazekwa",
+          "url": "https://open.spotify.com/artist/0pzeKLviAxrnJTAUQzaUs3"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Fimbu",
+      "url": "https://open.spotify.com/track/44Lba4g6bftsoPiDnM1BJt"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Waah! (feat. Koffi Olomide)",
+        "url": "https://open.spotify.com/album/4Jk9lFqW5Jubq6RblSowLj"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Waah! (feat. Koffi Olomide)",
+      "url": "https://open.spotify.com/track/0ceJAvjokFWwhh0nsOM9QD"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Nakota",
+        "url": "https://open.spotify.com/album/0Mj36qxlMSXwtOCBxqY6sU"
+      },
+      "artists": [
+        {
+          "name": "Leaux Reese",
+          "url": "https://open.spotify.com/artist/07QiVx7zAb0JwxrVkZSi2O"
+        }
+      ],
+      "duration_ms": 79058,
+      "name": "Nakota",
+      "url": "https://open.spotify.com/track/5S0sBrAs70KBPHo7UyO2Fv"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Sakwado",
+        "url": "https://open.spotify.com/album/1lXZ9T2DUQuxUnqtbiSL3W"
+      },
+      "artists": [
+        {
+          "name": "George Kipa",
+          "url": "https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR"
+        },
+        {
+          "name": "Gbandz",
+          "url": "https://open.spotify.com/artist/3dq9mDztwPneAJs5bZkgWw"
+        },
+        {
+          "name": "Mwizz",
+          "url": "https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU"
+        }
+      ],
+      "duration_ms": 160105,
+      "name": "Sakwado",
+      "url": "https://open.spotify.com/track/6wQzmZREyVEFT2LTWoK3jE"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Ips\u00e9it\u00e9",
+        "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 200866,
+      "name": "\u039a. Kin la belle",
+      "url": "https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "ART",
         "url": "https://open.spotify.com/album/2UGjMioVdRsPg1lvm6dQnW"
@@ -1453,7 +1281,7 @@
       "url": "https://open.spotify.com/track/58v78PuisC6mzn7SUnEAjw"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "C'est dos\u00e9",
         "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
@@ -1469,7 +1297,79 @@
       "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Caler Son",
+        "url": "https://open.spotify.com/album/0rOrnuEczPPCGMDM6fSToX"
+      },
+      "artists": [
+        {
+          "name": "GAZ FABILOUSS",
+          "url": "https://open.spotify.com/artist/6oM8IaVeHCW8MeUkACNo3z"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "duration_ms": 272519,
+      "name": "Caler Son",
+      "url": "https://open.spotify.com/track/6O8ZZH9r6QRobAbf8xy3rN"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Ya Jean",
+        "url": "https://open.spotify.com/album/06Mr2L6kIAbYyvdqAhWmF8"
+      },
+      "artists": [
+        {
+          "name": "Ziks",
+          "url": "https://open.spotify.com/artist/6C0evp0gulOb6fpt9oD1w4"
+        }
+      ],
+      "duration_ms": 217887,
+      "name": "Ya Jean",
+      "url": "https://open.spotify.com/track/0pezTTL2fjRJUdAzfoQmTm"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Eloko",
+        "url": "https://open.spotify.com/album/21U2ZROxX0JQiR91RQjt67"
+      },
+      "artists": [
+        {
+          "name": "Robinio Mundibu",
+          "url": "https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz"
+        },
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        }
+      ],
+      "duration_ms": 204454,
+      "name": "Eloko",
+      "url": "https://open.spotify.com/track/4OXLcfffBxIt4uqwjFVI9N"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Maison m\u00e8re",
+        "url": "https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU"
+      },
+      "artists": [
+        {
+          "name": "Wenge Musica Maison M\u00e8re",
+          "url": "https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp"
+        }
+      ],
+      "duration_ms": 422973,
+      "name": "Solola bien",
+      "url": "https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
       "album": {
         "name": "7 jours de la semaine",
         "url": "https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy"
@@ -1485,20 +1385,24 @@
       "url": "https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv"
     },
     {
-      "added_at": "2023-09-15 02:30:43",
+      "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Ips\u00e9it\u00e9",
-        "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
+        "name": "Yo Pe (Remix)",
+        "url": "https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV"
       },
       "artists": [
         {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
         }
       ],
-      "duration_ms": 200866,
-      "name": "\u039a. Kin la belle",
-      "url": "https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX"
+      "duration_ms": 272706,
+      "name": "Yo Pe - Remix",
+      "url": "https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM"
     }
   ],
   "unique_name": "Biso Na Biso",

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-338 songs - 17 hr 51 min
+339 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Closer](https://open.spotify.com/track/4KZsB1EanBSHsN5zE8ZMf9) | [Todd Helder](https://open.spotify.com/artist/6nhsSK9KbToX3Brq0xeWbV), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Closer](https://open.spotify.com/album/0y2NOgjeL7Bn9nVls7znsc) | 3:26 | 2022-02-03 | 2023-08-11 |
 | [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 | 2023-08-11 |
 | [COME UP](https://open.spotify.com/track/38QHXAcAAt6flDWzZFRSUr) | [Dwonji](https://open.spotify.com/artist/3LPN9SczhFaeLnDmGEYW9F) | [COME UP](https://open.spotify.com/album/1X7PhPmeliA1DkbMjWJqct) | 3:31 | 2022-02-03 | 2023-08-11 |
+| [Commotion](https://open.spotify.com/track/669lWcKZIkSJ9VMSB03Hwg) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Of Dust and Shadows](https://open.spotify.com/album/7G7fG4yzup1ZfeIzjOWIX0) | 4:13 | 2023-09-21 |  |
 | [CONNECTION](https://open.spotify.com/track/2VyXOUGlZwEcfAHozs0xfr) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [CONNECTION](https://open.spotify.com/album/2xfoZq6jYPWnejcKBtodH6) | 1:48 | 2023-08-10 |  |
 | [Curse](https://open.spotify.com/track/2y2vXCLSpVGhXU501Nw8Ll) | [Strybo](https://open.spotify.com/artist/3IrKXf6yLQUpniQZM100Eg) | [Curse](https://open.spotify.com/album/548qfP8YqJRprr3kiDxuFx) | 1:30 | 2022-11-22 |  |
 | [DANGEROUS](https://open.spotify.com/track/2WUua0PT86pEpMwo4ePH92) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [DANGEROUS](https://open.spotify.com/album/3dwNpIaKdJM1MFmvCWKcjs) | 2:45 | 2023-08-10 |  |
@@ -289,7 +290,7 @@
 | [Take You Home](https://open.spotify.com/track/73aaclqbUGL3q6YJqphuMq) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Take You Home](https://open.spotify.com/album/41uqT8wCaNKApdGZdI0YpF) | 2:46 | 2022-02-03 | 2022-07-12 |
 | [Taking Control](https://open.spotify.com/track/67p3rriE3VbvcsIuQjfVQ1) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Taking Control](https://open.spotify.com/album/7AnUMZAuOTuIIKYnkv5mhH) | 2:55 | 2022-02-03 | 2022-09-15 |
 | [Talk To Me](https://open.spotify.com/track/6mvMDGZ0Sq1wAnJ3BvRp9P) | [Siberian Express](https://open.spotify.com/artist/45fLfFzIAKudNKuSeD2y2c) | [Talk To Me](https://open.spotify.com/album/1pJcRSWjtIKwiqyz0pDgY2) | 2:55 | 2022-02-03 | 2022-09-15 |
-| [techno on my mind](https://open.spotify.com/track/0LzVIF2KHflGWw0IoICeJI) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [techno on my mind](https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0) | 2:57 | 2023-08-10 |  |
+| [techno on my mind](https://open.spotify.com/track/0LzVIF2KHflGWw0IoICeJI) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [techno on my mind](https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0) | 2:57 | 2023-08-10 | 2023-09-22 |
 | [Temptation](https://open.spotify.com/track/0eO2a2BzQujyK9MkLfOJxf) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Temptation](https://open.spotify.com/album/2XVLOitnajQuyW3Zi5SBqE) | 2:39 | 2023-08-18 |  |
 | [Ten More Minutes](https://open.spotify.com/track/3SDTgUXz8m2C2b12L7Q5Cg) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Ten More Minutes](https://open.spotify.com/album/0oRDTDNl1lQgvXamU4WlTk) | 3:42 | 2022-02-03 | 2022-09-15 |
 | [Testify](https://open.spotify.com/track/41aahVnQ5oRhIU5LEc9hfh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [Testify](https://open.spotify.com/album/2shXXyUgDDl14LykrpWewi) | 3:23 | 2023-08-10 |  |

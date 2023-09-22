@@ -8054,7 +8054,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 156666,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/2DrgL0r61Hen8m0pV3zyW1"
@@ -10468,7 +10468,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "give it a whirl",
       "url": "https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF"
@@ -10850,7 +10850,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 132705,
       "name": "gramophone groove",
       "url": "https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP"
@@ -11346,7 +11346,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 194342,
       "name": "handle it.",
       "url": "https://open.spotify.com/track/5JkM8lg2iVE7go99DAaZr4"
@@ -12760,6 +12760,24 @@
       "duration_ms": 139250,
       "name": "In The Now",
       "url": "https://open.spotify.com/track/1HNdxZPy022HHL0leTB3sR"
+    },
+    {
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf"
+      },
+      "artists": [
+        {
+          "name": "Moon Cheese",
+          "url": "https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232385,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8"
     },
     {
       "album": {
@@ -14990,7 +15008,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 155304,
       "name": "London",
       "url": "https://open.spotify.com/track/4IgI10xrOzTIiDg4ApvfwC"
@@ -16270,7 +16288,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 116770,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW"
@@ -16510,7 +16528,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 123076,
       "name": "Mimosa",
       "url": "https://open.spotify.com/track/1V6i7wHKnEU5waUEeUhj6f"
@@ -17016,7 +17034,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 170232,
       "name": "Moods",
       "url": "https://open.spotify.com/track/2x8tlGPk76ss4OeSuePzfP"
@@ -18702,7 +18720,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 172173,
       "name": "Off you go!",
       "url": "https://open.spotify.com/track/29szXKFMvX88CTRKJQ2S87"
@@ -19574,7 +19592,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 122878,
       "name": "Panther",
       "url": "https://open.spotify.com/track/6Lv5gqInyjM5Lag9YQkxb5"
@@ -20182,6 +20200,24 @@
       "duration_ms": 180000,
       "name": "peaceful",
       "url": "https://open.spotify.com/track/0cJh8nJkcCrxgPxyVqmQfH"
+    },
+    {
+      "album": {
+        "name": "Peaceful Ghost",
+        "url": "https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx"
+      },
+      "artists": [
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141346,
+      "name": "Peaceful Ghost",
+      "url": "https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5"
     },
     {
       "album": {
@@ -23892,7 +23928,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 155364,
       "name": "Solar",
       "url": "https://open.spotify.com/track/0HlH9RWqLzlop5jeuNVlxV"
@@ -24250,7 +24286,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 180000,
       "name": "Speakeasy",
       "url": "https://open.spotify.com/track/5irWhK2xahSBHYmloLrtsp"
@@ -25958,7 +25994,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 110775,
       "name": "Team Burden",
       "url": "https://open.spotify.com/track/5o2LI57RSl9rQpf9KIs7s4"
@@ -29224,7 +29260,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 123464,
       "name": "why did i",
       "url": "https://open.spotify.com/track/0R4qVSAjzO685xJ9sQuBVL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,688 likes - 155 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,775 likes - 155 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 26 | [Meeks](https://open.spotify.com/track/7BDKdMg5UVqxEtdYIxcTQg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Meeks](https://open.spotify.com/album/3VZoMKFFy6lG8ccNfe2DYm) | 2:28 |
 | 27 | [Blood From Stone](https://open.spotify.com/track/0riVmvUyq1neYwzVayekMe) | [7hour flower](https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK) | [Blood From Stone](https://open.spotify.com/album/2FerCnm7f3QQ3ucZ27W9y6) | 2:01 |
 | 28 | [Outcast Society](https://open.spotify.com/track/47Dqsk0yqHRrjqlJZd5c2v) | [ZooLoo One](https://open.spotify.com/artist/1bcgGPzzGefC11OU7foS7t) | [Outcast Society](https://open.spotify.com/album/50X5rlLKcD0wFWPsNTdpRu) | 2:33 |
-| 29 | [Ares](https://open.spotify.com/track/70eKN516JGgd1dt5zdlRbb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Ares](https://open.spotify.com/album/7FezwNt76ZTj0OebKoBEZ0) | 2:59 |
+| 29 | [Ares](https://open.spotify.com/track/7ArhNBTCGlnsMDFtuyiRJ4) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Ares](https://open.spotify.com/album/7ji4kDl6JOYLrXPY8QtegV) | 2:59 |
 | 30 | [Probiotic.](https://open.spotify.com/track/3ZUuqfhDap5imYc1Jk94sL) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Probiotic.](https://open.spotify.com/album/6OzyRp3FhRgYwjhsCFn7Rv) | 2:28 |
 | 31 | [Elephants](https://open.spotify.com/track/3DUsZyjKel86426JprmYVd) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Elephants](https://open.spotify.com/album/5DfvYDOOwkc6IjpSU1v1i0) | 2:26 |
 | 32 | [New Tech](https://open.spotify.com/track/5rpI7Lcq895kc81mxWmqFm) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [New Tech](https://open.spotify.com/album/27WjV1hX9cnIkKjvcF38Hh) | 2:37 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 154 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 155 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MCxhNDEwY2M3ZWMyOGYwYWM0MWY1YWMzOTMxMDMxY2IwYWI2ZjUxNDg0`
+Snapshot ID: `MCw5NmQ5MzY5YjM1YzQ2YTkwMDEzYjMwNDUwMmJkZTE0NmEyNGM1NTJm`

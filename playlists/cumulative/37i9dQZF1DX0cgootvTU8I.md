@@ -4,7 +4,7 @@
 
 > Jungle is still massive!
 
-131 songs - 10 hr 51 min
+132 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Close Proximity](https://open.spotify.com/track/316jcVxjSLAM4oCwoTJhs8) | [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [SNKRX07](https://open.spotify.com/album/6acE2p1yUmLXPupsrzrXLg) | 8:34 | 2023-01-20 |  |
 | [Close Proximity](https://open.spotify.com/track/43vW5IEEqHooORXeA3ya8t) | [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [SNKRX07](https://open.spotify.com/album/4pR4ysFeWi8PGqfn3balyw) | 8:34 | 2022-05-05 | 2023-08-24 |
 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 | 2022-05-05 |  |
+| [Come With Me](https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Cybass](https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p) | [Come With Me](https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7) | 4:17 | 2023-01-20 |  |
 | [Consume Me](https://open.spotify.com/track/66BFj1k8VthfvDWY1e0PUp) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 3:17 | 2022-05-05 |  |
 | [Counterguardian](https://open.spotify.com/track/5M0DKQEClLLnCmA5jWxAy7) | [Sport DJ](https://open.spotify.com/artist/6zNjkMdRkBYkD0CrWYByN2) | [Hyperboloid 2022](https://open.spotify.com/album/1NsSxZ9mlKyvd55Yq1WplV) | 4:12 | 2023-01-20 | 2023-08-29 |
 | [D.L.P](https://open.spotify.com/track/65pDapueBkgH4GLp3CmIqq) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [D.L.P](https://open.spotify.com/album/6psXExUBdnxwrJJrTEMXzR) | 5:10 | 2022-05-05 |  |
@@ -85,7 +86,7 @@
 | [Maxim](https://open.spotify.com/track/1skNONa0IA1cwwQlRZtGJV) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Mutiny](https://open.spotify.com/album/5oGETlr4eCqwIs2UoQuL7Z) | 4:55 | 2022-10-28 | 2023-01-21 |
 | [Maxim](https://open.spotify.com/track/2u30LHLeAlYl2vXyfwExPs) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Mutiny](https://open.spotify.com/album/0r61t5Zlkv4qNYTfMvvQE0) | 4:55 | 2022-05-05 | 2022-11-10 |
 | [Meltdown](https://open.spotify.com/track/6XYNZEAwBuAlfT3uXLRyST) | [Scout](https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg) | [Meltdown](https://open.spotify.com/album/09KfGWahS1Yv3FpOCSSJ6c) | 5:00 | 2022-10-28 | 2023-01-21 |
-| [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 | 2023-01-20 | 2023-09-21 |
+| [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 | 2023-01-20 |  |
 | [Momofuku](https://open.spotify.com/track/1Ple5T9u981z3BErGUxBxV) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Momofuku](https://open.spotify.com/album/10XaG82hlhYBT9EcxSiuMF) | 4:50 | 2022-05-05 | 2023-01-21 |
 | [MTX In the RS](https://open.spotify.com/track/6CW2KMV0cptgI8H3rZEUXK) | [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [MTX In the RS](https://open.spotify.com/album/0GoMvmVdmE2kDsDeX9Ky2V) | 5:30 | 2022-05-05 | 2023-01-21 |
 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 | 2022-05-05 |  |
@@ -107,7 +108,7 @@
 | [Skrrrrr](https://open.spotify.com/track/43GXTiZjRqGoGlLvddtyRv) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Skrrrrr EP](https://open.spotify.com/album/2bWQF1wLD3GepnShL3oT1c) | 3:55 | 2022-05-05 | 2023-01-21 |
 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 | 2022-05-05 |  |
 | [Spec 4](https://open.spotify.com/track/6VmJO2wXKw5k9AUCEcRTr2) | [Consulate](https://open.spotify.com/artist/5HJQJT85iVXOPiJtQhbAXA) | [Spec 4](https://open.spotify.com/album/52SUPKlhbZuunWcIeHIDNI) | 5:46 | 2022-05-05 | 2023-01-21 |
-| [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 | 2022-10-28 |  |
+| [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 | 2022-10-28 | 2023-09-22 |
 | [Surfing The Anxiety Waves](https://open.spotify.com/track/6tbQHnuPgy7m4ElWYhr9tP) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/0XcdWrmdAbRkGuXNKjbEMQ) | 4:03 | 2023-01-20 |  |
 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 | 2022-05-05 | 2023-09-08 |
 | [Swift](https://open.spotify.com/track/5zalkQp8ZAe4y1goA95S9X) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Swift](https://open.spotify.com/album/70mlx5ec76uiUILSH8LCi6) | 6:41 | 2022-05-05 |  |
@@ -138,6 +139,6 @@
 | [Where You At?](https://open.spotify.com/track/0PX1gydsm5GmjQBp1Nbyim) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Where You At?](https://open.spotify.com/album/7zeN0W0BBkSMkJRES3DKlt) | 5:20 | 2022-05-05 | 2023-01-21 |
 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 | 2022-05-05 |  |
 | [Will U B There?](https://open.spotify.com/track/3Oqk9DfH1krBlATVWywyQ8) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Will U B There?](https://open.spotify.com/album/1y2PXgYr9dCH3n2aVwLLzL) | 6:12 | 2023-01-20 |  |
-| [Yes, Ok?](https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf) | [Beep Tzt](https://open.spotify.com/artist/0OPS6KMivVzxP2moJjMvSS) | [Beep Tzt](https://open.spotify.com/album/3RSLqqDvm5YYXjytf1sMle) | 7:56 | 2022-05-05 |  |
+| [Yes, Ok?](https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf) | [Beep Tzt](https://open.spotify.com/artist/0OPS6KMivVzxP2moJjMvSS) | [Beep Tzt](https://open.spotify.com/album/3RSLqqDvm5YYXjytf1sMle) | 7:56 | 2022-05-05 | 2023-09-22 |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

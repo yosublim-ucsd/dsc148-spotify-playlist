@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Jem Cassar\-Daley
 
-481 songs - 1 day 1 hr 58 min
+482 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [On the low \(shh!\)](https://open.spotify.com/track/4tF47KCmrr7Abl25YvX8Ur) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [On the low \(shh!\)](https://open.spotify.com/album/4gMqWwrSqiPcbrtSgBHrHZ) | 2:49 | 2022-07-03 | 2023-01-01 |
 | [On the low \(shh!\)](https://open.spotify.com/track/5MPNdkwJqA3RIFpZ14I4fX) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [LIFE IS BETTER NOW](https://open.spotify.com/album/4GluTrpGzdJWo0XcMYt84X) | 2:49 | 2022-10-31 | 2022-11-13 |
 | [On the low \(shh!\)](https://open.spotify.com/track/7ddrivgLLPCJWCYwMdabc8) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [On the low \(shh!\)](https://open.spotify.com/album/6scE3rZSfipes1dh5CpKoJ) | 2:49 | 2022-05-27 | 2022-07-29 |
-| [On the Rocks](https://open.spotify.com/track/3BfGE5n0uyYr2tv2upKuUF) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [On the Rocks](https://open.spotify.com/album/0QlPy2vcgaSJkhvbrY0VAk) | 2:50 | 2023-04-30 |  |
+| [On the Rocks](https://open.spotify.com/track/3BfGE5n0uyYr2tv2upKuUF) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [On the Rocks](https://open.spotify.com/album/0QlPy2vcgaSJkhvbrY0VAk) | 2:50 | 2023-04-30 | 2023-09-22 |
+| [On the Rocks](https://open.spotify.com/track/68qevxiwR8ypuZz05Pes9h) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Crowd Pleaser](https://open.spotify.com/album/60vWUnWhnEsAyJfcEp8C1u) | 2:50 | 2023-09-19 |  |
 | [On The Way Down](https://open.spotify.com/track/4AL5dpsq6yJ7J57Ki9TFrt) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes](https://open.spotify.com/album/2GsledOrcsMKdanswVrWDp) | 3:35 | 2023-05-31 |  |
 | [On Your Mind](https://open.spotify.com/track/4guGo1F4CfF2IbsSFKR8dF) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [On Your Mind](https://open.spotify.com/album/5Jv3U8CHmOBL1mTeR94c39) | 3:56 | 2022-04-05 | 2022-05-28 |
 | [Only 25](https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [just calling to tell you i'm ok](https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A) | 3:43 | 2023-08-31 |  |

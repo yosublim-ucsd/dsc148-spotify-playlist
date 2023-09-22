@@ -4,7 +4,7 @@
 
 > New music from Drake, Rod Wave and Doja Cat.
 
-1,774 songs - 3 day 19 hr 44 min
+1,775 songs - 3 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1437,6 +1437,7 @@
 | [Stain \(feat\. DaBaby\)](https://open.spotify.com/track/0dIz1I7IwX5ardG47AHxCZ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:55 | 2020-02-14 | 2020-03-06 |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-11 | 2022-03-18 |
 | [Start Wit Me \(feat\. Gunna\)](https://open.spotify.com/track/5ravc2aiNoYmu9m37diYXW) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Start Wit Me \(feat\. Gunna\)](https://open.spotify.com/album/3UMxQfDm6XBUaPf9zuYCzZ) | 2:38 | 2019-10-25 | 2019-12-13 |
+| [Started From the Bottom](https://open.spotify.com/track/5DI9jxTHrEiFAhStG7VA8E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same](https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t) | 2:54 | 2023-09-21 |  |
 | [Statement](https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Statement](https://open.spotify.com/album/5VAilvKAeXaLbgfQAFIDeQ) | 2:20 | 2020-12-18 | 2020-12-25 |
 | [Stay Down \(with 6LACK & Young Thug\)](https://open.spotify.com/track/6w4PV16oMh5I6ZOCvig0hK) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Stay Down \(with 6LACK & Young Thug\)](https://open.spotify.com/album/1nqbigpNBTTKQGWxK6ZI7Z) | 2:49 | 2020-10-30 | 2021-01-08 |
 | [Stay Ur Distance](https://open.spotify.com/track/3GXDBeiF8ATGHJNWLinWAA) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Stay Ur Distance](https://open.spotify.com/album/6XU85ccZr2kNaLry0xzUYK) | 2:48 | 2020-08-30 | 2020-09-18 |

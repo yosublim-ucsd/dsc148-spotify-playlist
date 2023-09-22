@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from distraction with calming white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,991 likes - 175 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,078 likes - 175 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 174 | [Zone In](https://open.spotify.com/track/4Hib9DZdiZoRBaUn6SBcUA) | [Selective Sounds TTA](https://open.spotify.com/artist/4fvzIW1n8V7G1t95O5Q2lB) | [Calm Down Hertz](https://open.spotify.com/album/7v4rKByJHGo7BLJ9OCWSCP) | 2:25 |
 | 175 | [Loud Noise Sound](https://open.spotify.com/track/3WEhUtfxXaoRrpSIZ1XzQY) | [Misa Bee](https://open.spotify.com/artist/5JSgVFubDnbqYDUWPzl4tj) | [Noise Waterfalls](https://open.spotify.com/album/7By7Jo2T4WuFDwzW7MRc02) | 2:25 |
 
-Snapshot ID: `MCxjZTk0ZDUwMzU5NWViZjdhMjc2MDJlODAzZTdhZTZiZDM3ODQ1YTRk`
+Snapshot ID: `MCwxNTE3MDczOWYxMzk5YWJlY2U5Mzc2NzdlN2IzMjIwY2E5NTE2NjEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,750 likes - 75 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,792 likes - 75 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 4 | [Huzur \(Reprise\)](https://open.spotify.com/track/2zRKJr7WxH6wzWxZRAmpxb) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Bazaar](https://open.spotify.com/album/1diwJts8QHs0Jv8SReZjN3) | 4:56 |
 | 5 | [BIBA](https://open.spotify.com/track/4IQqOlTZpfjnSTOArpZX5j) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Slick Trick](https://open.spotify.com/artist/6ENmrRecdouZ74WXpHjQZl), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv) | [OFIVE1](https://open.spotify.com/album/1Rk6mhJQnIDrhygra17EtG) | 3:36 |
 | 6 | [TAAL](https://open.spotify.com/track/7prf1EivUElMLAQKBIoAcq) | [No Nazar](https://open.spotify.com/artist/2UUScVfE9qx9DAaWaD77DV), [DJ SUDI](https://open.spotify.com/artist/2pWqceB8JtcmbGm1WzWwgO), [Bianca Maieli](https://open.spotify.com/artist/5l5EeVNICQYXxMTe5oRqtG), [MTooray](https://open.spotify.com/artist/04bM00N2mc60qymFNlhElS) | [Piano Bazaar](https://open.spotify.com/album/0lx2QNZKKM2eE7YRqnnvBK) | 4:50 |
-| 7 | [Urike Urike \- Future Bounce Mix](https://open.spotify.com/track/40qRxo1EjoXQ1t52D4Vot2) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [MM Sreelekha](https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z), [V1shwa](https://open.spotify.com/artist/22O1uNHoF3dmIqYJEG1PjV) | [Urike Urike \(Future Bounce Mix\)](https://open.spotify.com/album/5cBUtYoOIE6I7zkEbkS3Pp) | 2:56 |
+| 7 | [Urike Urike \- Future Bounce Mix](https://open.spotify.com/track/40qRxo1EjoXQ1t52D4Vot2) | [Sid Sriram](https://open.spotify.com/artist/5LfHsZyY1QLwvbFIdvE53D), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [MM Sreelekha](https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z), [V1shwa](https://open.spotify.com/artist/22O1uNHoF3dmIqYJEG1PjV) | [Urike Urike \(Future Bounce Mix\)](https://open.spotify.com/album/5cBUtYoOIE6I7zkEbkS3Pp) | 2:56 |
 | 8 | [Dua](https://open.spotify.com/track/4u92oAH7FQXEeoXTOFZjRr) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Dua](https://open.spotify.com/album/72JN1BC0jTu6H8Dnrw8txu) | 3:46 |
 | 9 | [Aja Sawariya \- Remix](https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [The Spindoctor](https://open.spotify.com/artist/2bUONMhpskrzUmRkpZUVu3) | [Aja Sawariya \(Remix\)](https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf) | 2:56 |
 | 10 | [Today](https://open.spotify.com/track/6A6XaKiI6WsjqD1nkiAmzh) | [Aatma](https://open.spotify.com/artist/6zaWFQYU5em3iUkjvzbF70) | [Time](https://open.spotify.com/album/4aMDiMKobwM9Wl7VFLhlL8) | 4:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 74 | [Tripasia](https://open.spotify.com/track/4NqaNXn9bw7PmXjOFW8vmp) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/0WzBEyEM7oj5GqehqqwHlg) | 2:56 |
 | 75 | [Hai Hai \(Original Mix\)](https://open.spotify.com/track/4g8bzs2j3D72vm0wcguZ2q) | [Panjabi Hit Squad](https://open.spotify.com/artist/3IlSLDQTwlMSGiWDRoJ0Gj), [Ms Scandalous](https://open.spotify.com/artist/28BHtfPgUuB1w2hGu3j0mZ) | [Essential Desi](https://open.spotify.com/album/1xSOkSOQZcrwGFYYib8Bri) | 4:33 |
 
-Snapshot ID: `MCwyNjQyYTM4ZTMwZjM5ZTI1OTNiYmQwNTg5NmQ4YjU4Y2RmY2Y5MzI5`
+Snapshot ID: `MCwyNGY2NmQyNzg2YWU4YzQ3NjhmMDE5Zjc3NDQxZTNiNDJjMjkyMjQ5`

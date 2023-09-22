@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Charlotte Cardin",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Disiz",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 162890,
       "name": "Ce que dit la rumeur",
       "url": "https://open.spotify.com/track/486i7XnscjuJ59ktUrdlAQ"
@@ -228,6 +228,24 @@
       "duration_ms": 162336,
       "name": "Comme je suis belle",
       "url": "https://open.spotify.com/track/7yM1d0OtroPcDI7tRxIExK"
+    },
+    {
+      "album": {
+        "name": "L'Amour...",
+        "url": "https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML"
+      },
+      "artists": [
+        {
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165826,
+      "name": "CONS\u2019 DE LOVE",
+      "url": "https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW"
     },
     {
       "album": {
@@ -397,6 +415,28 @@
     },
     {
       "album": {
+        "name": "Idiot",
+        "url": "https://open.spotify.com/album/7w44o7QHPANWTfn8qa66Cs"
+      },
+      "artists": [
+        {
+          "name": "SAM",
+          "url": "https://open.spotify.com/artist/7c5GqUF44K4Hmx77zhALdR"
+        },
+        {
+          "name": "Allen B",
+          "url": "https://open.spotify.com/artist/4IMbOxi9R1vkvUZqPClKt8"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176087,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/6JOlXpSpvjk6wi2pFJhhau"
+    },
+    {
+      "album": {
         "name": "J'aime pas sortir",
         "url": "https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C"
       },
@@ -426,7 +466,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 172830,
       "name": "Je veux, je veux, je veux",
       "url": "https://open.spotify.com/track/1O1BFGmTnnRX5L6FAQeMyI"
@@ -448,7 +488,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 200097,
       "name": "L'an prochain",
       "url": "https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV"
@@ -470,6 +510,24 @@
       "duration_ms": 164906,
       "name": "Langue de P***",
       "url": "https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk"
+    },
+    {
+      "album": {
+        "name": "Le club des 27",
+        "url": "https://open.spotify.com/album/18Q7ySQhJ4nDErcnQ7fTnj"
+      },
+      "artists": [
+        {
+          "name": "Jean Castel",
+          "url": "https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192378,
+      "name": "Le club des 27",
+      "url": "https://open.spotify.com/track/4u7Vc3ia7XEhirbBk9BqRe"
     },
     {
       "album": {
@@ -755,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Populaire",
+        "url": "https://open.spotify.com/album/6MjGsKipgUJ1qUZqbNmDQE"
+      },
+      "artists": [
+        {
+          "name": "Rouquine",
+          "url": "https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "Populaire",
+      "url": "https://open.spotify.com/track/49kXz61GcX62tPkwmz4oM5"
+    },
+    {
+      "album": {
         "name": "Cam\u00e9o",
         "url": "https://open.spotify.com/album/5QXZkChgcFRZ6cUAehwUfp"
       },
@@ -1030,7 +1106,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 211327,
       "name": "Tristesse",
       "url": "https://open.spotify.com/track/7duqAqQUm0vYSaXzavXhfn"

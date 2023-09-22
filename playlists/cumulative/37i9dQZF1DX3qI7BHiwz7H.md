@@ -4,7 +4,7 @@
 
 > Smooth and relaxing Soul music to tune in to your body.
 
-59 songs - 3 hr 45 min
+60 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Cabô](https://open.spotify.com/track/3e9Gx4YlSx8etXjSJ71QFf) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 3:44 | 2023-06-29 |  |
 | [Can We Pretend](https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | ['Justments](https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt) | 3:49 | 2023-08-24 |  |
 | [Capricorn](https://open.spotify.com/track/0IXF4yLGlUkaXUataXDin8) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Faces in Reflection](https://open.spotify.com/album/27LrzDfCpvyhJw63OQz9cw) | 5:05 | 2023-06-29 |  |
-| [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 | 2023-06-29 |  |
+| [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 | 2023-06-29 | 2023-09-22 |
+| [Changes](https://open.spotify.com/track/1GQNsPVnZoWr3tOHQ73DzI) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/3QwoBbZO1aClSBVTra79Dd) | 6:11 | 2023-08-24 |  |
 | [Could I Be Falling in Love](https://open.spotify.com/track/0SlBjQHEfRaVhqZ5SB1SRZ) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Diamond in the Rough](https://open.spotify.com/album/0hBlULfjPTKngZsvbe3qpE) | 3:08 | 2023-06-29 |  |
 | [Do You Believe](https://open.spotify.com/track/2DIqPQY9scuv8IeJA1Ouep) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 4:01 | 2023-06-29 |  |
 | [Especially For You](https://open.spotify.com/track/3fYd2ahlXE0oH0ET4z09A1) | [Manchild](https://open.spotify.com/artist/5IjkhhPuixhmO7SHOxGnJx) | [Power And Love](https://open.spotify.com/album/5yuDuOXw7xwRxwOg5IfkK8) | 6:07 | 2023-06-29 |  |

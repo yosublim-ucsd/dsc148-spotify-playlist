@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con Jacob Forever en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,247 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,280 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 49 | [Tu & Yo \- Remix](https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Bryan Omega](https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq), [Dekano Kano y Efowa Owa](https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Tu & Yo \(Remix\)](https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk) | 2:57 |
 | 50 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 |
 
-Snapshot ID: `MCwwY2Q3N2E0Y2E1MzdkODgwZDMxZWJmZWUyMTgzMDMwYTc4MTJhNTI2`
+Snapshot ID: `MCwzMTVjNzQ0ZGM3MzIxOTZiOGE0Y2Y3MDczMjc3OTdkNDkyMjBhMzA4`

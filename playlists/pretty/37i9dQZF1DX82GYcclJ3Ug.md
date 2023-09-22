@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: DON BROCO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,244 likes - 126 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,268 likes - 126 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 |
 | 126 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 |
 
-Snapshot ID: `MCwyYjIxYWI5NDJjNWIxMDAwNDJkNTZiZmIwNDBlYWQ3ZGJmZGJjYzcw`
+Snapshot ID: `MCw1NmRhNGNlNjY4MGRlNWFkZDgyNmIxNGU1OGE3ZTA2ODJjNmYyZmZh`

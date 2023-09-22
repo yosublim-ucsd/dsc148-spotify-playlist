@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Mitski
 
-8,746 songs - 19 day 5 hr 3 min
+8,747 songs - 19 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7585,7 +7585,8 @@
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-12 | 2023-05-20 |
 | [The Plug](https://open.spotify.com/track/5FmAxHjS6Az55NtkdMGJ14) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Make Me Say It Again, Girl](https://open.spotify.com/album/3NmEbqCKjPjDQHlnTflXfj) | 4:32 | 2022-09-30 | 2022-10-08 |
 | [The Rain](https://open.spotify.com/track/1XbNa4RJHTjjEvzyPmZpRD) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [The Rain](https://open.spotify.com/album/73odazjwju3no0QTxX0Nah) | 3:31 | 2022-11-25 | 2022-12-03 |
-| [the Rake \(can’t complain\)](https://open.spotify.com/track/6UsCvuLD64nzgGSSJu6fnd) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/1fThTzAJxKmxgg2WgpeTD4) | 3:01 | 2023-09-15 |  |
+| [the Rake \(can’t complain\)](https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF) | 3:01 | 2023-09-15 |  |
+| [the Rake \(can’t complain\)](https://open.spotify.com/track/6UsCvuLD64nzgGSSJu6fnd) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/1fThTzAJxKmxgg2WgpeTD4) | 3:01 | 2023-09-15 | 2023-09-22 |
 | [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 | 2022-08-26 | 2022-09-03 |
 | [The Redwing](https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:18 | 2023-04-14 | 2023-04-22 |
 | [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 | 2023-07-22 |

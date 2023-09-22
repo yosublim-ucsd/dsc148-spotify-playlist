@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-273 songs - 16 hr 28 min
+274 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 | 2022-09-09 |  |
 | [Summer Blues](https://open.spotify.com/track/65rtflKWXabjsB9ekBbsgZ) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Summer Blues](https://open.spotify.com/album/7r9cHOQr0qt4QunRedTXju) | 3:18 | 2022-09-09 | 2023-04-21 |
 | [Summer Blues](https://open.spotify.com/track/71mrqChmbDeuUARpuT3SdV) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Summer Blues](https://open.spotify.com/album/1G4CR3KeyYRrD16cWpXJF7) | 3:18 | 2022-10-30 | 2022-11-13 |
+| [Summer Nights](https://open.spotify.com/track/3w5Iw9ZZIc9D7pzvFz9La1) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Summer Nights](https://open.spotify.com/album/0tPnCgMixUXYJLa21ZzNux) | 2:51 | 2023-09-21 |  |
 | [Sunshine](https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Sunshine](https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj) | 3:29 | 2023-03-17 |  |
 | [Sweet Harmony](https://open.spotify.com/track/5xu8FPfSTx6ntNts4LmHli) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Sweet Harmony](https://open.spotify.com/album/6Vggx6TgQ31vR9BwUPdoIQ) | 3:02 | 2023-02-16 |  |
 | [SWTH](https://open.spotify.com/track/5ruMKE615XscqaRJsdfgdo) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [SWTH](https://open.spotify.com/album/5z01oX1fk4jBWIAhLkLc5Y) | 2:13 | 2023-05-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Abbot",
-  "num_followers": 122517,
+  "num_followers": 122593,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWJkOWNmMTFiZGE1N2RhZDEwYWM3MTMzNzIzMjdkZjEyNTkwNjg4",
+  "snapshot_id": "MCw2ZGYxNDQ1MWIxZWJmMGZkNDgwZDAxYmE0NTMyOWYzMmNmZjljNjE2",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -495,6 +495,38 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Um Toque de Malandragem",
+        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 277411,
+      "name": "Perfeita",
+      "url": "https://open.spotify.com/track/6a35UETcJteB4oVCSFoAqr"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Ai Calica",
         "url": "https://open.spotify.com/album/2GwJhgSrxhdleGeLMQ7Cb2"
       },
@@ -527,38 +559,6 @@
       "duration_ms": 210000,
       "name": "Ai Calica",
       "url": "https://open.spotify.com/track/0XoZIz7YdOXRyvVTk9U1B5"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Um Toque de Malandragem",
-        "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "DJ BOY",
-          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 277411,
-      "name": "Perfeita",
-      "url": "https://open.spotify.com/track/6a35UETcJteB4oVCSFoAqr"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -979,30 +979,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "RIP POP",
-        "url": "https://open.spotify.com/album/5kzI4lBo6gfVqsBlkGk2jl"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "RIP POP",
-      "url": "https://open.spotify.com/track/3gcNVS47VjDSV32Y9VnuNK"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 175031,
       "name": "Cruzeiro do Ney",
       "url": "https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "RIP POP",
+        "url": "https://open.spotify.com/album/5kzI4lBo6gfVqsBlkGk2jl"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "RIP POP",
+      "url": "https://open.spotify.com/track/3gcNVS47VjDSV32Y9VnuNK"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "KEN ELAS QUER",
-        "url": "https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 121234,
-      "name": "KEN ELAS QUER",
-      "url": "https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 170647,
       "name": "N\u00fameros da Sorte",
       "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "KEN ELAS QUER",
+        "url": "https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 121234,
+      "name": "KEN ELAS QUER",
+      "url": "https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1191,6 +1191,50 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "N\u00e3o Vou Dan\u00e7ar Sozinho",
+        "url": "https://open.spotify.com/album/0zL7xX3yuzJde6dkkhgoXV"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        }
+      ],
+      "duration_ms": 124727,
+      "name": "N\u00e3o Vou Dan\u00e7ar Sozinho",
+      "url": "https://open.spotify.com/track/4XMnWCE1u1qYFcnmNf1xFS"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 136072,
+      "name": "Sereno",
+      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -1219,26 +1263,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "N\u00e3o Vou Dan\u00e7ar Sozinho",
-        "url": "https://open.spotify.com/album/0zL7xX3yuzJde6dkkhgoXV"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Carlos do Complexo",
-          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
-        }
-      ],
-      "duration_ms": 124727,
-      "name": "N\u00e3o Vou Dan\u00e7ar Sozinho",
-      "url": "https://open.spotify.com/track/4XMnWCE1u1qYFcnmNf1xFS"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Cachoeira",
         "url": "https://open.spotify.com/album/4mAithietzaFqqKXXniP44"
       },
@@ -1259,30 +1283,6 @@
       "duration_ms": 167366,
       "name": "Cachoeira",
       "url": "https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Sereno",
-        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Did Brock",
-          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 136072,
-      "name": "Sereno",
-      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
     },
     {
       "added_at": "2023-09-15 03:01:00",

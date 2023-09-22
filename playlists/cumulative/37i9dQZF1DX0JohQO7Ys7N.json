@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Nviiri The Storyteller & Bensoul",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Ethan Muziki",
   "name": "NairoBae",
   "tracks": [
     {
@@ -2097,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "You Never Learn",
+        "url": "https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd"
+      },
+      "artists": [
+        {
+          "name": "Zowie Kengocha",
+          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219275,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/4juUxcfkxdA6ry2dKBRMYz"
       },
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 195157,
       "name": "small acts of recklessness",
       "url": "https://open.spotify.com/track/2OLsqgoxmmEQTrnwY72LHA"

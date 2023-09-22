@@ -1,13 +1,129 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs?si=-WcH5l06TfefXYBiX2jQlA\">Yung Beathoven</a> ",
-  "num_followers": 8247,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=czPv541DQ32MDznf9sg6Mw\">Beatenberg</a> ",
+  "num_followers": 8284,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDA5ZmU1MzgxZWY0Y2FlYzE1YzRmNGNkNmVkYTlhM2I5YjViMmMx",
+  "snapshot_id": "MCxiODFlZGRjODRmZGM1NWViNWVmZWUxMGI3OWU0MTg2ZjllNmQzMmZk",
   "tracks": [
+    {
+      "added_at": "2023-09-21 21:59:00",
+      "album": {
+        "name": "Eau De Toilette",
+        "url": "https://open.spotify.com/album/0BuWLZMQGOwlLREjXWDbeR"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 168980,
+      "name": "Eau De Toilette",
+      "url": "https://open.spotify.com/track/4Etr8WrFrZlzQK5C3B6cv8"
+    },
+    {
+      "added_at": "2023-09-21 21:59:00",
+      "album": {
+        "name": "Head Up High",
+        "url": "https://open.spotify.com/album/0qj0dLCx210N6GWD1MfViI"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 252655,
+      "name": "Head Up High",
+      "url": "https://open.spotify.com/track/6NSsAX4y7tBsRiOCvVNuR8"
+    },
+    {
+      "added_at": "2023-09-21 21:59:00",
+      "album": {
+        "name": "Sunrise Dancing",
+        "url": "https://open.spotify.com/album/0Inknl9Z1eSEcVXTQn0wcA"
+      },
+      "artists": [
+        {
+          "name": "COOL BOY",
+          "url": "https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Sunrise Dancing",
+      "url": "https://open.spotify.com/track/1UJGDbKosecCGQ3L5eRPSo"
+    },
+    {
+      "added_at": "2023-09-21 21:59:00",
+      "album": {
+        "name": "Escape from Paradise",
+        "url": "https://open.spotify.com/album/5ZyE2nGLkcMcVdz2z7WWb5"
+      },
+      "artists": [
+        {
+          "name": "Yum Yuck",
+          "url": "https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE"
+        }
+      ],
+      "duration_ms": 188903,
+      "name": "Escape from Paradise",
+      "url": "https://open.spotify.com/track/1nq8e44dspbtwhN1XeyqCX"
+    },
+    {
+      "added_at": "2023-09-21 21:59:00",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/2IWb6dPcXRxbIWhzn2Qmz1"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 191270,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/56cCRa187LJGKpxqxsM5V6"
+    },
+    {
+      "added_at": "2023-09-21 21:59:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/71wGwnBWvbl2TloIPK9Oxi"
+      },
+      "artists": [
+        {
+          "name": "Zwicky & Jono",
+          "url": "https://open.spotify.com/artist/7hNwRAV7IDRDqI4q3Pcdgz"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/3meaikRcam6lf7sWD2Xnn2"
+    },
+    {
+      "added_at": "2023-09-21 21:59:00",
+      "album": {
+        "name": "Treffers vir Tannies",
+        "url": "https://open.spotify.com/album/0NbLj5sQbqOqQEyLVoCbhp"
+      },
+      "artists": [
+        {
+          "name": "Mymymy",
+          "url": "https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf"
+        },
+        {
+          "name": "SAMPAULE",
+          "url": "https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8"
+        }
+      ],
+      "duration_ms": 222837,
+      "name": "Treffers vir Tannies",
+      "url": "https://open.spotify.com/track/7BlZyyyaCjZeuRNRdb98ig"
+    },
     {
       "added_at": "2023-09-15 04:11:42",
       "album": {
@@ -1083,38 +1199,6 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Strangers Arms",
-        "url": "https://open.spotify.com/album/5sDM9mCBGIEsBa8H3imZy5"
-      },
-      "artists": [
-        {
-          "name": "The Breeze",
-          "url": "https://open.spotify.com/artist/3usNfpEWJMyOD1K2NJkGU8"
-        }
-      ],
-      "duration_ms": 272960,
-      "name": "Strangers Arms",
-      "url": "https://open.spotify.com/track/2xWiyPS3nrRBCNuvPdJh4n"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "MESSED UP KIDS",
-        "url": "https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L"
-      },
-      "artists": [
-        {
-          "name": "Shelter Boy",
-          "url": "https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV"
-        }
-      ],
-      "duration_ms": 177433,
-      "name": "MESSED UP KIDS",
-      "url": "https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP"
     }
   ],
   "unique_name": "SAlt",

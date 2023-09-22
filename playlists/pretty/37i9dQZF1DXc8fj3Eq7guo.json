@@ -1,47 +1,15 @@
 {
   "description": "Where you at? We outside!",
-  "num_followers": 196,
+  "num_followers": 214,
   "original_name": "Drop Pin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWI2ZjNlODNjNzNlMzRhNDE4ZDQ2ZWFkZTE2MGM2YzU4MDhmYTY5",
+  "snapshot_id": "MCxiY2U4OWMzMGMyMTFkNTNkZTM1MmQxNWIwNjQ0MWY4ZTFlZGIzOTgw",
   "tracks": [
     {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "Mama Africa (The Diary of an African Woman)",
-        "url": "https://open.spotify.com/album/6rDmHNtB73R2i7jEf0BAY8"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 236826,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/1RRoBxDDWuIhIrZ7T3JZCG"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 155019,
-      "name": "Jinja",
-      "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
@@ -57,23 +25,7 @@
       "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
@@ -101,63 +53,55 @@
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+        "name": "Mama Africa (The Diary of an African Woman)",
+        "url": "https://open.spotify.com/album/6rDmHNtB73R2i7jEf0BAY8"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
         }
       ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+      "duration_ms": 236826,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1RRoBxDDWuIhIrZ7T3JZCG"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
-        "name": "Levels (Explicit)",
-        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
       },
       "artists": [
         {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 234693,
-      "name": "Run Jozi (Godly) (feat. K.O)",
-      "url": "https://open.spotify.com/track/2zuOiLM3QGT5DpO4fJwOEo"
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
-        "name": "Runtown Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/1UwIe4k1b9dC8BQTE4bcE0"
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
       "artists": [
         {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 214230,
-      "name": "Lagos to Kampala",
-      "url": "https://open.spotify.com/track/6cA5pAyBrXFr5BzCUkEPUS"
+      "duration_ms": 155019,
+      "name": "Jinja",
+      "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Omo Charlie Champagne Vol. 1",
         "url": "https://open.spotify.com/album/0DfMhXwJEtsRauBcpb2rz7"
@@ -177,7 +121,83 @@
       "url": "https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "added_at": "2023-09-22 00:59:00",
+      "album": {
+        "name": "Levels (Explicit)",
+        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Run Jozi (Godly) (feat. K.O)",
+      "url": "https://open.spotify.com/track/2zuOiLM3QGT5DpO4fJwOEo"
+    },
+    {
+      "added_at": "2023-09-22 00:59:00",
+      "album": {
+        "name": "Runtown Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1UwIe4k1b9dC8BQTE4bcE0"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 214230,
+      "name": "Lagos to Kampala",
+      "url": "https://open.spotify.com/track/6cA5pAyBrXFr5BzCUkEPUS"
+    },
+    {
+      "added_at": "2023-09-22 00:59:00",
+      "album": {
+        "name": "Cartostrophe",
+        "url": "https://open.spotify.com/album/2fh9U70k4ZphuTnL5iufgw"
+      },
+      "artists": [
+        {
+          "name": "Carto",
+          "url": "https://open.spotify.com/artist/5PJi5oUz6E3iA2t9IHtXVE"
+        },
+        {
+          "name": "Midday",
+          "url": "https://open.spotify.com/artist/7eKm0PKhNlA36ybLq3fGs0"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Botswana",
+      "url": "https://open.spotify.com/track/1CzcV8k8LoILPQMCGb7Zis"
+    },
+    {
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Mandy & The Jungle",
         "url": "https://open.spotify.com/album/4IMFZY59ree679oXQS36xM"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/2ljF7c0hX2YU2K5BOzC5LU"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "African Yayo",
         "url": "https://open.spotify.com/album/099AKTC1jED53W9uuhNBWI"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/1KNEGrZewcUZILIMIkH3pt"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Kampala",
         "url": "https://open.spotify.com/album/3sOQTISPW0P2fJIMq3AFPH"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Nairobi",
         "url": "https://open.spotify.com/album/7uWo9YZ9ggrk7E00QddrXm"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/7ipje7w6H8in5Otc4pEex4"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Tanzania",
         "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Khuzeka",
         "url": "https://open.spotify.com/album/1mOjCTEGNizYt4LkWaEALt"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/21fUIJmUxP4BjUkHLd5YIQ"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Soweto Baby (feat. DJ Buckz & Wizkid)",
         "url": "https://open.spotify.com/album/2qBPI58b3ObEAPkqUgjGYy"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/7pN5xeBGywMaE5JLIJzZ6Q"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Megalo",
         "url": "https://open.spotify.com/album/58yUEDGNFmuI0ezfpiAO8D"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/0tvJEr9OT2FzOYsyI8tdmh"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Soweto Blues",
         "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
@@ -369,27 +389,27 @@
       "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
-        "name": "Cartostrophe",
-        "url": "https://open.spotify.com/album/2fh9U70k4ZphuTnL5iufgw"
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
       "artists": [
         {
-          "name": "Carto",
-          "url": "https://open.spotify.com/artist/5PJi5oUz6E3iA2t9IHtXVE"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         },
         {
-          "name": "Midday",
-          "url": "https://open.spotify.com/artist/7eKm0PKhNlA36ybLq3fGs0"
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Botswana",
-      "url": "https://open.spotify.com/track/1CzcV8k8LoILPQMCGb7Zis"
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "NAIROBI",
         "url": "https://open.spotify.com/album/2pVb3IsYOZWdYNk6KJIjh4"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/1QzPmQynOP65qaOuZDJUbm"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Phola",
         "url": "https://open.spotify.com/album/30y3OcmLbW8kB6eO9QV3JP"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/5SCbTbJ5Q8c6eLktMWFqqg"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Resistance Is Defence",
         "url": "https://open.spotify.com/album/1e3jEC6NHIu0RrLmZjVoMU"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/1BYefIW1aQuAHA7m3CHe8k"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Dark Moon Flower",
         "url": "https://open.spotify.com/album/2wbHOXGXPVKp9vezeglRD4"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/0yXya1lxf4ATYUAfr7arf1"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Cairo",
         "url": "https://open.spotify.com/album/0eZghBruhOmhbF5Uy9nqJR"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/7dPGqNBb89NlmYyc1zkQ8a"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Kibera",
         "url": "https://open.spotify.com/album/0AnyIF4fk4JD5bPOYJSG2B"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/5WUI7ifG664mnLAwDUjxoQ"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Dar Mpaka Moro",
         "url": "https://open.spotify.com/album/6UhqSSojeI7zRX5o5khtwv"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/3WMhJoxSQ2gDx7cbHUOKX1"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Morogoro",
         "url": "https://open.spotify.com/album/1SwmQQRqFY1OsPBpXjGE4k"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/653sdYtuZPYKZHr6GRplOX"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Healing The Wounds",
         "url": "https://open.spotify.com/album/3OVyrIbZ6lmvG9rUfKRSOR"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/5dknvijgexsIkQDeTsnAkN"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "The Best Of African Songs",
         "url": "https://open.spotify.com/album/1i6Xt02mq2p85ywAei5f58"
@@ -569,23 +589,7 @@
       "url": "https://open.spotify.com/track/3CtfRT0hfvNGhEivMI4CCY"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "The Exotic Moods Of Les Baxter",
-        "url": "https://open.spotify.com/album/2ht6iWCY9PPVS4CuBYVcD1"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Mombasa After Midnight",
-      "url": "https://open.spotify.com/track/7rIqwiH9uCLuBYyr2cu7vH"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Tokooos II",
         "url": "https://open.spotify.com/album/2Tcx5XnaqhO7ooOH00iA6M"
@@ -601,23 +605,7 @@
       "url": "https://open.spotify.com/track/1D4Pjb9OYgGxPIKgusObu1"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "Mama Africa",
-        "url": "https://open.spotify.com/album/4JA5rtL6KDeAGQL2N8avVH"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Owiyo",
-          "url": "https://open.spotify.com/artist/6WayXrPvMCUFpgN3yynb33"
-        }
-      ],
-      "duration_ms": 391120,
-      "name": "Kisumu 100",
-      "url": "https://open.spotify.com/track/1CrzeybNJCPLZLKoqHnUq5"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7HSs5XfwIMll6DsjdyO1WR"
@@ -633,7 +621,7 @@
       "url": "https://open.spotify.com/track/65DMtntgb3Ptc4Ag828z8J"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Luv Is God",
         "url": "https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c"
@@ -649,7 +637,7 @@
       "url": "https://open.spotify.com/track/5hdc76uABRjaZ7rZrE8mTb"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Ugandan Girl",
         "url": "https://open.spotify.com/album/3MemuIRsWm2NnO7LSDSmGh"
@@ -669,7 +657,7 @@
       "url": "https://open.spotify.com/track/1F2GvDPgcGDSY2vpMU2aHt"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Best of Kenyan Local Classics 3",
         "url": "https://open.spotify.com/album/5qmcjoEaVsK9KVNOdrVKI5"
@@ -693,7 +681,7 @@
       "url": "https://open.spotify.com/track/1bhXFMTeq9gvBXGpZI5LpG"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "1er Gaou",
         "url": "https://open.spotify.com/album/4WxLFmBpRfwn2Xa38W6Juj"
@@ -709,7 +697,23 @@
       "url": "https://open.spotify.com/track/4Gmr4iYGDdovOucPLEO3o2"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
+      "album": {
+        "name": "The Exotic Moods Of Les Baxter",
+        "url": "https://open.spotify.com/album/2ht6iWCY9PPVS4CuBYVcD1"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Mombasa After Midnight",
+      "url": "https://open.spotify.com/track/7rIqwiH9uCLuBYyr2cu7vH"
+    },
+    {
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Lagos",
         "url": "https://open.spotify.com/album/2ZB7h9Nu1OYI0CMStgljYs"
@@ -725,7 +729,7 @@
       "url": "https://open.spotify.com/track/5u9wdFL8Gb6RWMtCGUa9Xw"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "MBALE CITY",
         "url": "https://open.spotify.com/album/1EH3Wi6xkujGtZus3VEcHq"
@@ -741,7 +745,7 @@
       "url": "https://open.spotify.com/track/1ePyC63y34VSzFByfabdfu"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "RWA",
         "url": "https://open.spotify.com/album/4GBAc63hCEwHjRBFApfU0P"
@@ -769,7 +773,7 @@
       "url": "https://open.spotify.com/track/2Vmghmiz5piVjU2AbhYqB1"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "What Happens in Lagos",
         "url": "https://open.spotify.com/album/3U8mj36DD0Rv3f3LlT1lrk"
@@ -785,7 +789,7 @@
       "url": "https://open.spotify.com/track/1AVVencV5yF6KzISmmjUbg"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Somalia Somali Baa Leh",
         "url": "https://open.spotify.com/album/4bG7BuW0lT3Kx0X2WhHrux"
@@ -805,7 +809,7 @@
       "url": "https://open.spotify.com/track/2vegLZ4xf2GmjaD1LExwjY"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Lagos 101",
         "url": "https://open.spotify.com/album/6cHp1TJC51U5R6EAhDnaKw"
@@ -825,7 +829,7 @@
       "url": "https://open.spotify.com/track/7b0dJi7JyafNH4ueg479Qw"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Ghana",
         "url": "https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh"
@@ -853,7 +857,7 @@
       "url": "https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Necessary Evil",
         "url": "https://open.spotify.com/album/5DAnRaWABIjjFFNdMFOPrc"
@@ -877,7 +881,7 @@
       "url": "https://open.spotify.com/track/6h6lRoxhGgkfLw6pVMvPHN"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Grand Masters",
         "url": "https://open.spotify.com/album/1rfHIUUofjhGVV67I5cSZg"
@@ -893,7 +897,7 @@
       "url": "https://open.spotify.com/track/3evs5tv8NLr8VXi9LeA0Dv"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Ethiopia",
         "url": "https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ"
@@ -909,7 +913,7 @@
       "url": "https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Kigali",
         "url": "https://open.spotify.com/album/07emJhY6FQilkGBhHhsveQ"
@@ -937,7 +941,7 @@
       "url": "https://open.spotify.com/track/5aKtS7Z8gdWmYH1BBbECiv"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Purge",
         "url": "https://open.spotify.com/album/6aHCku9sNDp37hKfHxdHRW"
@@ -953,7 +957,7 @@
       "url": "https://open.spotify.com/track/40OIs7h6ycp9tVl9YJ6CgI"
     },
     {
-      "added_at": "2023-09-14 20:59:00",
+      "added_at": "2023-09-22 00:59:00",
       "album": {
         "name": "Take Over",
         "url": "https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU"

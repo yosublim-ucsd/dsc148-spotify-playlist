@@ -333,6 +333,36 @@
     },
     {
       "album": {
+        "name": "Solomon",
+        "url": "https://open.spotify.com/album/3Yx3a2caBpL5Id5c6hkaru"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/4WWMOV61TztcNJq3yGKPa7"
+        },
+        {
+          "name": "Windows 2000",
+          "url": "https://open.spotify.com/artist/5uDK5nP0nI8jsTApPjPKq4"
+        },
+        {
+          "name": "Alie Keys",
+          "url": "https://open.spotify.com/artist/1GXwvsKGbhtxZ6nBjV2liL"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243100,
+      "name": "Chomie Lover Friend",
+      "url": "https://open.spotify.com/track/3dyDfR7QagBKqnDBcIiicf"
+    },
+    {
+      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
       },
@@ -1530,7 +1560,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 183834,
       "name": "Sour Milk",
       "url": "https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy"
@@ -1570,6 +1600,28 @@
       "duration_ms": 233000,
       "name": "Suited",
       "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
+    },
+    {
+      "album": {
+        "name": "I Love It Here",
+        "url": "https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189056,
+      "name": "This Time (feat. Ami Faku)",
+      "url": "https://open.spotify.com/track/1fIXzuAcGq0mZqGkAy5Zs9"
     },
     {
       "album": {
@@ -1638,7 +1690,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 202004,
       "name": "Truth Is",
       "url": "https://open.spotify.com/track/5oXYsq4dCGNrKq84Se3erf"

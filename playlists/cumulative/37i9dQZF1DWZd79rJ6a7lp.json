@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Agbaye",
+        "url": "https://open.spotify.com/album/2jiYTUEzw4EOiLmr6Qow2k"
+      },
+      "artists": [
+        {
+          "name": "Torpor Snooze",
+          "url": "https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Agbaye",
+      "url": "https://open.spotify.com/track/1155sK5VOJc7DC23kdiJjU"
+    },
+    {
+      "album": {
         "name": "Aion",
         "url": "https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 208000,
       "name": "Altaria",
       "url": "https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS"
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 149443,
       "name": "Berhenti Masa",
       "url": "https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC"
@@ -3019,6 +3037,24 @@
     },
     {
       "album": {
+        "name": "Coral Dusk",
+        "url": "https://open.spotify.com/album/5sCMLwAjzO7eUGgVPsq9sI"
+      },
+      "artists": [
+        {
+          "name": "Stellar Serenity",
+          "url": "https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170888,
+      "name": "Coral Dusk",
+      "url": "https://open.spotify.com/track/3qJ6bQyPFO10b9fL9NmdOE"
+    },
+    {
+      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/3wffRTt5HgYmfdJV3gLFPM"
       },
@@ -3304,6 +3340,24 @@
       "duration_ms": 194500,
       "name": "Curves",
       "url": "https://open.spotify.com/track/50dqV0dmuAMzLtEbt09SCp"
+    },
+    {
+      "album": {
+        "name": "Cwsg",
+        "url": "https://open.spotify.com/album/5Xxs41FovLilC30h61mOcS"
+      },
+      "artists": [
+        {
+          "name": "Ymlacio",
+          "url": "https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Cwsg",
+      "url": "https://open.spotify.com/track/7kabmQdunJ6Jk5PAeTSwtL"
     },
     {
       "album": {
@@ -5925,6 +5979,24 @@
     },
     {
       "album": {
+        "name": "Geteilt",
+        "url": "https://open.spotify.com/album/5EcfZzIRB84cTt1ona18vY"
+      },
+      "artists": [
+        {
+          "name": "Celine Brandt",
+          "url": "https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Geteilt",
+      "url": "https://open.spotify.com/track/2PRfOo8S4BVIw0o97yqzg2"
+    },
+    {
+      "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
@@ -8528,7 +8600,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 192047,
       "name": "Momenti",
       "url": "https://open.spotify.com/track/5En3wtoPwaAQZVN1WLdXvq"
@@ -8546,7 +8618,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Momenti",
       "url": "https://open.spotify.com/track/5f5kXzWQutNq2FAcRNwY8I"
@@ -13025,6 +13097,24 @@
     },
     {
       "album": {
+        "name": "Sumi",
+        "url": "https://open.spotify.com/album/51UT3j6mIB5kC0U95mbl5J"
+      },
+      "artists": [
+        {
+          "name": "Zamphire",
+          "url": "https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sumi",
+      "url": "https://open.spotify.com/track/5lATrmvuPq7nPLJsq4DkBQ"
+    },
+    {
+      "album": {
         "name": "Worlds Apart",
         "url": "https://open.spotify.com/album/1Vwl7AuOBpF7zVEsiIRHlS"
       },
@@ -14804,6 +14894,24 @@
       "duration_ms": 111522,
       "name": "Wading in dreams",
       "url": "https://open.spotify.com/track/0MAXHRBvH3yjPrmaIk0ela"
+    },
+    {
+      "album": {
+        "name": "Wandering Sadhu",
+        "url": "https://open.spotify.com/album/4KSNlLTbrSVEbPzwvd5lTM"
+      },
+      "artists": [
+        {
+          "name": "Salen",
+          "url": "https://open.spotify.com/artist/5KNC8OGbrY5TThciLb1ZpN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Wandering Sadhu",
+      "url": "https://open.spotify.com/track/2BfcCsrfgB9wH1dvdno9CY"
     },
     {
       "album": {

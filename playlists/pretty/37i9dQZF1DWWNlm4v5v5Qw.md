@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: IDK
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,336 likes - 57 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,344 likes - 57 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 25 | [B.N.B](https://open.spotify.com/track/6hw99R0mfj4eNfZatyaePL) | [LeekoMoney](https://open.spotify.com/artist/03TRS7srPBeikAj9s0OWZZ) | [B.N.B](https://open.spotify.com/album/14o1L3wWJUsxtgKUMkiZUw) | 2:05 |
 | 26 | [Squaaa](https://open.spotify.com/track/1n4yBLplF4XxZSLx1VvbPu) | [Dre Wave$](https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt) | [Squaaa](https://open.spotify.com/album/6ngb0wyK7dWyPUTJ9sd7eE) | 2:45 |
 | 27 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 |
-| 28 | [I LOOK GOOD](https://open.spotify.com/track/1k39bFaE9zehg0vavTxBsd) | [Misskaniyah](https://open.spotify.com/artist/6mrlBl4QCM3Fog8Z9fraXl) | [I LOOK GOOD](https://open.spotify.com/album/514w1gwfApMBRCSMwMBqg7) | 1:38 |
+| 28 | [I LOOK GOOD](https://open.spotify.com/track/1k39bFaE9zehg0vavTxBsd) | [Miss Kaniyah](https://open.spotify.com/artist/6mrlBl4QCM3Fog8Z9fraXl) | [I LOOK GOOD](https://open.spotify.com/album/514w1gwfApMBRCSMwMBqg7) | 1:38 |
 | 29 | [GM3](https://open.spotify.com/track/1I9W17vDK31ZHAcLGHe4sR) | [LIL LO](https://open.spotify.com/artist/17SUtl275ibg2bA3c31cVj) | [HALL OF FAME](https://open.spotify.com/album/57AdmZb2MkF4GQzD9jJqSb) | 2:28 |
 | 30 | [Snake](https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:24 |
 | 31 | [Still Lit](https://open.spotify.com/track/4Qqnp6THSqgs0XCbDQHJph) | [Q Da Fool](https://open.spotify.com/artist/17kq4sCvn1nVcVvWV9Ribi) | [I'll Be Back](https://open.spotify.com/album/4ZWDx5sAc0PqGs70uNUe8z) | 2:32 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 56 | [So Be It](https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:09 |
 | 57 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MCxhZDUyZThhOWFkNzdiZTZmMTMzOTYwYzVlMmFlZmI0MGMwM2M4NDcx`
+Snapshot ID: `MCw0MTllMDhhMTVhM2U3ODQwOTljYThiNTE1NWU2ODFhZDczNWIwYzIw`

@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-232 songs - 11 hr 54 min
+233 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Busy Waiting](https://open.spotify.com/track/6kQqIdEAoCUKU4EEDmDWZZ) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Busy Waiting](https://open.spotify.com/album/5BVtZ40qHHWmmEB3LOZ5ms) | 2:43 | 2021-12-20 | 2022-08-06 |
 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 | 2023-04-28 |  |
 | [Car Crash](https://open.spotify.com/track/5dXIrAUNLOcN2mYkCSeO3k) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Car Crash](https://open.spotify.com/album/2F4bQLWNLz55akGbkwu7BB) | 3:53 | 2021-12-20 | 2023-01-26 |
+| [Car Crash](https://open.spotify.com/track/6u0vyETd4P1qIfggu3e2sU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU) | 3:53 | 2023-06-02 |  |
 | [Chapped Lips](https://open.spotify.com/track/54LlodRsKUYURluWPLA5tV) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Chapped Lips](https://open.spotify.com/album/3tg1popNIBaseXW4H7XbCP) | 3:05 | 2021-12-20 | 2022-11-18 |
 | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/3n0If8GidXp4KziBDoMe99) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/album/2de9oXO3uW9iMpVtTknJAy) | 3:04 | 2021-12-20 | 2022-08-26 |
 | [Cherryade](https://open.spotify.com/track/1qlDUbGVlpxKSsCpI9VfsZ) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [Cherryade](https://open.spotify.com/album/4B5zz9fcYTSG3DgMj6lXWf) | 3:10 | 2021-12-20 | 2022-08-26 |
@@ -136,7 +137,7 @@
 | [Leash](https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Leash](https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ) | 2:42 | 2023-02-01 | 2023-08-28 |
 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-08-25 |  |
 | [Let's Go](https://open.spotify.com/track/0FGRPpBeQxkGEpnIChlnf8) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Let's Go](https://open.spotify.com/album/09PcwXJ6Kdt2M6ezSCYnQb) | 2:22 | 2021-12-20 | 2022-08-26 |
-| [Lonely Army](https://open.spotify.com/track/7fIETzt6S1vL8UJ6xeTqVl) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Lonely Army](https://open.spotify.com/album/0DWeHnaTkA53xK43mJKfu8) | 2:55 | 2021-12-20 |  |
+| [Lonely Army](https://open.spotify.com/track/7fIETzt6S1vL8UJ6xeTqVl) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Lonely Army](https://open.spotify.com/album/0DWeHnaTkA53xK43mJKfu8) | 2:55 | 2021-12-20 | 2023-09-22 |
 | [Look](https://open.spotify.com/track/0FpPPwgS31lNP6DQTq8JVH) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ), [Charmer](https://open.spotify.com/artist/6vXndytZhDoSVuUIo3rOYc) | [Look](https://open.spotify.com/album/2MgTCUfV2tYipasvJlwvRY) | 3:34 | 2021-12-20 | 2022-02-16 |
 | [Love Me Do Again](https://open.spotify.com/track/0T4hPBqUrXIY3BGUh3sYgF) | [The Gluts](https://open.spotify.com/artist/13WOru4Cg1ZdszgnB1AU17) | [Love Me Do Again](https://open.spotify.com/album/4T4T30hUA1MfwaZiMaz1eM) | 3:34 | 2021-12-20 | 2022-02-16 |
 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 | 2022-02-15 |  |

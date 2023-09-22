@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Eli Soares
 
-419 songs - 1 day 10 hr 19 min
+420 songs - 1 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 | 2023-07-28 | 2023-08-05 |
 | [Dia Após Dia \- Ao Vivo](https://open.spotify.com/track/0nMVlpzomGVUbwHm98unRq) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Dia Após Dia \(Ao Vivo\)](https://open.spotify.com/album/3Rn78DUoUH3KxF52Kh6Epa) | 8:51 | 2023-08-04 | 2023-08-19 |
 | [Dia de Show](https://open.spotify.com/track/6LsuOeGYEiRHuwZ5VTrjEd) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Dia de Show](https://open.spotify.com/album/4j0KcSfGLfZnSJ8glD57Di) | 2:26 | 2023-07-14 | 2023-07-22 |
-| [Dias Difíceis \(Ao Vivo\)](https://open.spotify.com/track/008Xs4JRhzNIDVNeMcscoV) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Dias Difíceis \(Ao Vivo\)](https://open.spotify.com/album/5my4F0Jr3n9rhiyd6wjuNN) | 9:45 | 2023-09-15 |  |
+| [Dias Difíceis \(Ao Vivo\)](https://open.spotify.com/track/008Xs4JRhzNIDVNeMcscoV) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Dias Difíceis \(Ao Vivo\)](https://open.spotify.com/album/5my4F0Jr3n9rhiyd6wjuNN) | 9:45 | 2023-09-15 | 2023-09-22 |
+| [Dias Difíceis \(Live\)](https://open.spotify.com/track/0s8hoeVyqSPw5EDqorQxd2) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX), [Som do Monte](https://open.spotify.com/artist/4F0SkfGchoYee1hZV0A7wx) | [Dias Difíceis \(Live\)](https://open.spotify.com/album/73Mi7EfQjMidQeeFQ3c0HH) | 9:45 | 2023-09-15 |  |
 | [Digno](https://open.spotify.com/track/60jj4GbeuCGUeT2iuKCd2n) | [Gabriela Figueiredo](https://open.spotify.com/artist/1hzVM67o6FIbb6PjxKX0JC) | [Digno](https://open.spotify.com/album/3tNWShS16n6gfdnzqm2Kjj) | 7:02 | 2023-07-14 | 2023-07-22 |
 | [Digno \- Ao Vivo](https://open.spotify.com/track/5b3EnaCeXRMgeqQpO5NHr7) | [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Felipe Maia](https://open.spotify.com/artist/593uPGMJ1yo0ouU72YafRL) | [Digno \(Ao Vivo\)](https://open.spotify.com/album/6k33KBOrZCBoNjazdMOemc) | 12:39 | 2023-07-28 | 2023-08-05 |
 | [Diz](https://open.spotify.com/track/2lPK1yhkmzPAn8LTvKxJcv) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh), [Rodolfo Lamarca](https://open.spotify.com/artist/6AtJczwRNCOwoiU1EsSHBx) | [Showcase Deluxe](https://open.spotify.com/album/5GhcUYuWwPHn7ibsK7rZ8R) | 4:22 | 2023-08-04 | 2023-08-19 |

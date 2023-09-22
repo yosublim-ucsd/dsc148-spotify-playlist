@@ -2587,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "skin",
+        "url": "https://open.spotify.com/album/29iYKOWHrTz5kAMWT8ick9"
+      },
+      "artists": [
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200431,
+      "name": "skin",
+      "url": "https://open.spotify.com/track/4D15H9FTw5zG1dMMBfQD1e"
+    },
+    {
+      "album": {
         "name": "Sleep Walking",
         "url": "https://open.spotify.com/album/2djkjUvLdBkJMvt33GuW6L"
       },

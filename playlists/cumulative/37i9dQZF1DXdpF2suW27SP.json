@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Guga entra na zona. ",
+  "description": "Ivandro e Bispo entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 298710,
       "name": "A Chuva",
       "url": "https://open.spotify.com/track/0BeusjQlyZQEZO45q5Py3U"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 213139,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/40Ck76s3N3tWOtc1Me4ey3"
@@ -526,6 +526,24 @@
       "duration_ms": 201931,
       "name": "Andal\u00e9",
       "url": "https://open.spotify.com/track/0rYRDCNedo3Pg9VTQd4aRT"
+    },
+    {
+      "album": {
+        "name": "Andavas Aonde",
+        "url": "https://open.spotify.com/album/2PXpqKC1PInccbYbX7VXWP"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190835,
+      "name": "Andavas Aonde",
+      "url": "https://open.spotify.com/track/6odR54fed2QBcqS8saGfUe"
     },
     {
       "album": {
@@ -810,7 +828,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 189624,
       "name": "Bailarina 2",
       "url": "https://open.spotify.com/track/2Pei7rzUWupgWq3HeF8KOv"
@@ -2557,6 +2575,28 @@
     },
     {
       "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/4epvmvS0EsTasarapKmsrZ"
+      },
+      "artists": [
+        {
+          "name": "WUANT",
+          "url": "https://open.spotify.com/artist/1e41j69uuTxKyBri9WBtyT"
+        },
+        {
+          "name": "WiNDOH",
+          "url": "https://open.spotify.com/artist/6JdeUWTrO9Ou3GD1b07Xgs"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154698,
+      "name": "Estou Aqui",
+      "url": "https://open.spotify.com/track/0dMz9KfuMSOppuCFFrCTDX"
+    },
+    {
+      "album": {
         "name": "Estrela Maior",
         "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
       },
@@ -2772,7 +2812,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 169142,
       "name": "Fazi Gossi",
       "url": "https://open.spotify.com/track/3VsIoEAVGT3G2t9vsbD3SB"
@@ -3215,6 +3255,32 @@
     },
     {
       "album": {
+        "name": "Guarda Sentimentos",
+        "url": "https://open.spotify.com/album/7BTXB4uHNiRUeU9Is7hEGi"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "RickyTheCoolest",
+          "url": "https://open.spotify.com/artist/7suuGbg9nvX3HTUV7NXMG5"
+        },
+        {
+          "name": "ICECOLD",
+          "url": "https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243071,
+      "name": "Guarda Sentimentos",
+      "url": "https://open.spotify.com/track/3YiUSTFpMWTlorXwddedNj"
+    },
+    {
+      "album": {
         "name": "Habilidosa",
         "url": "https://open.spotify.com/album/3OZ07lzQ352wTsJvnccElA"
       },
@@ -3500,7 +3566,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 172300,
       "name": "Jura",
       "url": "https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8"
@@ -3685,6 +3751,32 @@
     },
     {
       "album": {
+        "name": "Lei",
+        "url": "https://open.spotify.com/album/6MXMRi7NeSLSXJ7ZTYnv1n"
+      },
+      "artists": [
+        {
+          "name": "Estraca",
+          "url": "https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq"
+        },
+        {
+          "name": "Vado M\u00e1s Ki \u00c1s",
+          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
+        },
+        {
+          "name": "Ferro Gaita",
+          "url": "https://open.spotify.com/artist/1MT6RYDsl8nq9UDhNiwjqV"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238043,
+      "name": "Lei",
+      "url": "https://open.spotify.com/track/3hFiLO7jsra8VaiVr62JAq"
+    },
+    {
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
       },
@@ -3852,7 +3944,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 187200,
       "name": "Luto Com F\u00e9",
       "url": "https://open.spotify.com/track/7lmBpZcnHB3TCkSanC96Dn"
@@ -5031,6 +5123,40 @@
     },
     {
       "album": {
+        "name": "Origens",
+        "url": "https://open.spotify.com/album/2av7G3A4YrKDt3QStQ02ZQ"
+      },
+      "artists": [
+        {
+          "name": "Madkutz",
+          "url": "https://open.spotify.com/artist/3VKduU9O9IouSv4M4PxUP3"
+        },
+        {
+          "name": "Chullage",
+          "url": "https://open.spotify.com/artist/5yTuBrbKpiwjRoXGFAdnQc"
+        },
+        {
+          "name": "Deau",
+          "url": "https://open.spotify.com/artist/4NxLGL5SkVNFAkj3cwMKHh"
+        },
+        {
+          "name": "B\u00f3nus",
+          "url": "https://open.spotify.com/artist/61lxeaGqfNiyfCzIHTA3Lh"
+        },
+        {
+          "name": "Phedilson Anan\u00e1s",
+          "url": "https://open.spotify.com/artist/5mnKzDU2fWwCFkJGT9uAW3"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281640,
+      "name": "Origens",
+      "url": "https://open.spotify.com/track/3MUNzEQbUbxofJvFDRxiwm"
+    },
+    {
+      "album": {
         "name": "Oskey",
         "url": "https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex"
       },
@@ -5244,7 +5370,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 262562,
       "name": "Papo De Ninja",
       "url": "https://open.spotify.com/track/73OkPO9VFbtaHA6Fsu23ZS"
@@ -5302,6 +5428,32 @@
       "duration_ms": 200006,
       "name": "Paz",
       "url": "https://open.spotify.com/track/3JSoWtmODOEyZG9MQP6PQQ"
+    },
+    {
+      "album": {
+        "name": "Peitto Feitto",
+        "url": "https://open.spotify.com/album/2QijrWoTINhxq40VL8TQj5"
+      },
+      "artists": [
+        {
+          "name": "Il-Brutto",
+          "url": "https://open.spotify.com/artist/2PhIdF7Do8K7sungAwRtj7"
+        },
+        {
+          "name": "Blasph",
+          "url": "https://open.spotify.com/artist/5koOSepeZBSfzyHxyiHedQ"
+        },
+        {
+          "name": "9 Miller",
+          "url": "https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Peitto Feitto",
+      "url": "https://open.spotify.com/track/7MuaeiBSGXeQQt4skDjdNU"
     },
     {
       "album": {
@@ -7316,6 +7468,32 @@
       "duration_ms": 240366,
       "name": "Yard",
       "url": "https://open.spotify.com/track/5Yw3ndPrkej9BDkmaK6pYl"
+    },
+    {
+      "album": {
+        "name": "\u00c1vontadi",
+        "url": "https://open.spotify.com/album/4ZGB1bvAzuJehYRUGPJINd"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        },
+        {
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        },
+        {
+          "name": "Zirio",
+          "url": "https://open.spotify.com/artist/0Xy3jsLhph06j8nYJInhTz"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "\u00c1vontadi",
+      "url": "https://open.spotify.com/track/7pLHh6ePIP1hgQxVUkrzac"
     },
     {
       "album": {

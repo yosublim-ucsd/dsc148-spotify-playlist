@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-377 songs - 1 day 17 hr 25 min
+378 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Monterrey Paris Texas](https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Daniel Maloso](https://open.spotify.com/artist/7j5SLy2KUc3LVi3r7xKqIe) | [Velvet Desert Music Vol\. 2](https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW) | 7:33 | 2020-04-24 | 2023-02-01 |
 | [Moon](https://open.spotify.com/track/3pwCW5zb9CNcMlb55CvDVY) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Equinox](https://open.spotify.com/album/4or2k3CTw8qjw28KErqScq) | 7:05 | 2019-08-02\* | 2019-08-29 |
 | [Mori Shej](https://open.spotify.com/track/5MUhD2L9BTIaX9xkMqSnVr) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Peia](https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2) | [Mori Shej](https://open.spotify.com/album/5B8gmAt4y342yBQrJkiJPL) | 4:34 | 2021-03-18 | 2023-09-13 |
+| [Mori Shej](https://open.spotify.com/track/6xP9DPvBHvyNGlARsRs0Vg) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Peia](https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2) | [Mori Shej](https://open.spotify.com/album/1poZEQjEYpOq7YZ1KUHHGu) | 4:34 | 2023-09-01 |  |
 | [Mumbai Syndrom](https://open.spotify.com/track/1vpPspCvmY5IfOrgA6QIys) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Trips \#3: India](https://open.spotify.com/album/2f2XvCViTEzjxKQik7opVI) | 5:28 | 2020-10-09 | 2020-11-21 |
 | [Mushdoum \- Uji Remix](https://open.spotify.com/track/2RMA3oUjMsBoh6rLaev6H4) | [Feathericci](https://open.spotify.com/artist/5boqUPUCOtYf83NpAYKpuk), [Ahnais](https://open.spotify.com/artist/1m0keOrNE9VxuH5Wwd6Msq), [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [SZA GEOW Remixes](https://open.spotify.com/album/1ndN6r8oY5pmiYQA0ahQnF) | 6:51 | 2019-08-02\* | 2022-04-17 |
 | [Music Is My Guru \- Radio Mix](https://open.spotify.com/track/3nOlRYvbKl8nPUKgWzMvO2) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Music Is My Guru \(Radio Mix\)](https://open.spotify.com/album/1czft4ccspWf7ewwWrtzqu) | 3:36 | 2020-05-17 | 2022-01-07 |
@@ -380,7 +381,7 @@
 | [Yam](https://open.spotify.com/track/5611kGfXxWTSKXhK8GGtZ6) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0) | [Yam](https://open.spotify.com/album/7CJcQ7QyRFVZMEeNx40Oe9) | 9:33 | 2019-08-02\* | 2021-07-04 |
 | [Yedi Kule](https://open.spotify.com/track/7dYmc8hBhYsUZDdNz07oqF) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo), [Qiyans Krets](https://open.spotify.com/artist/2ooMxGbFAN7ZAaOOmEkJwi) | [Yedi Kule](https://open.spotify.com/album/1i5DSRXrOeb1WHqzc7LF4U) | 7:17 | 2019-08-02\* | 2020-04-18 |
 | [Yodeller](https://open.spotify.com/track/6HNfS3snixu4dUxLL4XR5Y) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Door to the Cosmos \- OntheCorner Dancefloor Sampler](https://open.spotify.com/album/4aCPxbNfNowDc5dSHm3eLA) | 4:39 | 2020-08-08 | 2022-04-21 |
-| [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 | 2022-11-25 |  |
+| [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 | 2022-11-25 | 2023-09-22 |
 | [Younan](https://open.spotify.com/track/5mzakuJeEfkwBusJHVybMv) | [Ali Farahani](https://open.spotify.com/artist/0q46YeYGv3A3UVmUI8D8gw) | [Younan](https://open.spotify.com/album/7rcIyauF38HelZmiWq4mzp) | 6:58 | 2019-08-02\* | 2020-06-09 |
 | [Zoo La La](https://open.spotify.com/track/0tPucqttADQgxhUVFNMYYf) | [Danielle Nicole](https://open.spotify.com/artist/6hzT9e66x0sNZT1jiUob7d) | [Zoo La La](https://open.spotify.com/album/2Oz0XaCkyqDTFCd1GEbwqI) | 7:34 | 2019-09-20 | 2020-03-04 |
 | [Ànima](https://open.spotify.com/track/1FaxSOVfMZNsVRiJsfq9B0) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [Huaira](https://open.spotify.com/artist/1oXdrffaOVmxTsY90wSmbF) | [Ànima](https://open.spotify.com/album/4f8hRXFyaWO313jVcWmfJA) | 5:47 | 2020-09-10 | 2022-07-28 |

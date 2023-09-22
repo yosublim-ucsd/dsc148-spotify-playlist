@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,432 likes - 90 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,518 likes - 90 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 75 | [Whippin' Post \- Live](https://open.spotify.com/track/6N9kwHuJHfKKEDha56w3TP) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [American University 12/13/70 \- Washington, DC](https://open.spotify.com/album/4EF9tHP0XqXKbyUVbwMBNB) | 20:40 |
 | 76 | [Bottoms Up](https://open.spotify.com/track/1KBjcNiDHKpJmdOfmqFMCs) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [The End of the Game \(Expanded\)](https://open.spotify.com/album/3owsPmXv3QbMk5iROMRAnj) | 9:01 |
 | 77 | [Something Is Happening](https://open.spotify.com/track/64jiQxEndYnV0Zs1a5S9zn) | [Man](https://open.spotify.com/artist/6XNNAZyTxhw3IRa0xyRBeo) | [Welsh Connection](https://open.spotify.com/album/6IzAcGtChAHXlODbw1lFNC) | 6:16 |
-| 78 | [Baby Night](https://open.spotify.com/track/2vIxU6h888VLdyy7PjYRB8) | [Sweet Smoke](https://open.spotify.com/artist/0AFVYhgHSbn9LBIDPU6dTQ) | [Just A Poke / Darkness To Light](https://open.spotify.com/album/4TvspgPQpOYUlNDC1GFbIJ) | 16:34 |
+| 78 | [Baby Night \- Remastered 2000](https://open.spotify.com/track/2vIxU6h888VLdyy7PjYRB8) | [Sweet Smoke](https://open.spotify.com/artist/0AFVYhgHSbn9LBIDPU6dTQ) | [Just A Poke / Darkness To Light](https://open.spotify.com/album/4TvspgPQpOYUlNDC1GFbIJ) | 16:34 |
 | 79 | [Harry Hood \- Live at Hampton, 1998](https://open.spotify.com/track/3VSM3xBPjrTmeGFYG0Z2HA) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Hampton Comes Alive](https://open.spotify.com/album/1YmOsXsyMeT6ooPkkdHfSV) | 12:48 |
 | 80 | [Less Than Five Miles Away \(Live From An Evening With Dawes\)](https://open.spotify.com/track/5LjlDL2G46kQrAcofckZgn) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Live](https://open.spotify.com/album/6EcOXh4NhGg7oqwStcQn1a) | 8:11 |
 | 81 | [Bertha \(Live at the Capitol Theatre, Port Chester, NY 2/21/1971\) \- 2020 Remaster](https://open.spotify.com/track/60WbFKEF7bdhp1xtShZTcw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4m3LKjFymPkRQeST1KEbT0) | 6:11 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 89 | [In the Kitchen \(Live\)](https://open.spotify.com/track/0Bck8YlFXXNjqmEBHZzh4E) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Live at the Beacon Theatre 1.17.15](https://open.spotify.com/album/1PGIo9A2cxXuENTXUY53vi) | 11:23 |
 | 90 | [After Midnight](https://open.spotify.com/track/0UULEN8LeXBFZ15CbtTHgR) | [Merl Saunders & Friends](https://open.spotify.com/artist/26POJcl5jnzRLyjqaHh4sX) | [Fire Up +](https://open.spotify.com/album/2b85gbWiMbAg3cvSUTMIBp) | 5:01 |
 
-Snapshot ID: `MCw4ODQ2MmM2NDRhZjdjOTk5NmEyMjBjMGVkNmE4NzY3Yzk1ZDdmMzg1`
+Snapshot ID: `MCwzMzQ1YWIyMTNmYzdmMTgzZTAzODgwMWJjMTBjZjQzOWRiYTRiMmZi`

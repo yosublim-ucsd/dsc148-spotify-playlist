@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Shallow Alcove \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,236 likes - 101 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,359 likes - 101 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [That's Ok, That's Alright](https://open.spotify.com/track/6LA05amjgAprGansoc6V6A) | [Sleepy Jean](https://open.spotify.com/artist/3UgVXsc0DrK1yOouslYqKP) | [Shoot Me in a Dream](https://open.spotify.com/album/048BeNX0toVObxMUjsWBOR) | 3:23 |
 | 101 | [Everyone Talking](https://open.spotify.com/track/2mUsfzJGVxjJv04uHsZRhp) | [Junaco](https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e) | [Everyone Talking](https://open.spotify.com/album/7r4DZ6cubuMW8HdNq83wtz) | 2:59 |
 
-Snapshot ID: `MCxhNmRiOTdlZDA1N2UwZDRlOWM1ZDBiMjQ5M2E5YWUwZGZiOWVhZTA3`
+Snapshot ID: `MCxmZmE5NGQ1OTdmNGZjODZmYmQzNzM1YTcwYTA4NGViMTUzNmQ3MTdj`

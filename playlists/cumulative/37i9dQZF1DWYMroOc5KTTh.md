@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-466 songs - 1 day 7 hr 32 min
+467 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,13 +196,14 @@
 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-08-04 |  |
 | [Hazy House Vol\. 1](https://open.spotify.com/track/5vt0TzMNRGZiXlGdFZCgjn) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 1](https://open.spotify.com/album/3JgeyFkT8YaNDf4B9gnrnO) | 5:51 | 2022-04-06 | 2022-04-16 |
 | [Hazy House Vol\. 2](https://open.spotify.com/track/6AW0jJcR32Qcp0FJ5w6BRv) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 2](https://open.spotify.com/album/5GjT3ssX2AB16z6K4LOJY8) | 5:31 | 2022-04-06 | 2022-04-12 |
-| [Heaven](https://open.spotify.com/track/3PKd9beBPjwU9RP7e1Bvke) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Heaven](https://open.spotify.com/album/3mjRL9Jz75UKCzwIvXH2DB) | 3:21 | 2023-05-22 |  |
+| [Heaven](https://open.spotify.com/track/3PKd9beBPjwU9RP7e1Bvke) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Heaven](https://open.spotify.com/album/3mjRL9Jz75UKCzwIvXH2DB) | 3:21 | 2023-05-22 | 2023-09-22 |
 | [Heaven \- Edit](https://open.spotify.com/track/0TQPsmBbAKI6mIs1BjGJkI) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Heaven](https://open.spotify.com/album/2UaAxsxbBdXA4MxbeQmTC3) | 3:40 | 2022-01-11 | 2022-07-14 |
 | [Heavy](https://open.spotify.com/track/4YYuy8xDLSueu0SgmzVKe3) | [Hifi Sean](https://open.spotify.com/artist/4r3RNyF5sHrEh1ds9mTr3o), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Heavy](https://open.spotify.com/album/07IMjVMFGHCueLR3vLrj3v) | 3:08 | 2022-04-06 | 2022-04-16 |
 | [Hello Happiness](https://open.spotify.com/track/3w3LyAknbXOnyppVCI1QeW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/0lyiUZeydSCaBrDGjJfzPa) | 3:56 | 2022-04-06 | 2022-04-19 |
 | [Higher](https://open.spotify.com/track/46kr1OmRzIFUrDjx5t0WiJ) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:46 | 2022-04-06 | 2022-04-08 |
 | [Hold On](https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Hold On](https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ) | 3:30 | 2022-02-25 | 2022-04-09 |
 | [Hooked On You \(feat\. Miya Miya\)](https://open.spotify.com/track/1zO8n7thTD0OAFeelfQpte) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Hooked On You \(feat\. Miya Miya\)](https://open.spotify.com/album/2NjRYjbnOLbMEyzwV5bIJs) | 3:40 | 2022-01-14 | 2022-06-19 |
+| [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-09-22 |  |
 | [How The Light Gets In](https://open.spotify.com/track/3WCkCuKDZv13MTUmL9FP7s) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [How The Light Gets In](https://open.spotify.com/album/72ImiCyFEh3JXpXbZIW5Qk) | 3:32 | 2023-03-02 | 2023-04-12 |
 | [Hummingbird](https://open.spotify.com/track/0UY6ggZPalSXs3ue8tVcts) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/510guXSY0ICHxh4vvblO3O) | 2:57 | 2023-03-02 | 2023-05-23 |
 | [Hummingbird](https://open.spotify.com/track/192bA6Tgzd1e0FIaik5f2g) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Hummingbird](https://open.spotify.com/album/4Fd7lUvMzc0HFeaseDZaO3) | 2:57 | 2022-05-03 | 2022-10-14 |

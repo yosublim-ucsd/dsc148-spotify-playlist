@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Subsonic Eye ",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Grrrl Gang",
   "name": ".ORG",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 202222,
       "name": "30/FLIRTY",
       "url": "https://open.spotify.com/track/4LnXI3otzmT4OiaJBnbpg7"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 337106,
       "name": "A Promised Land",
       "url": "https://open.spotify.com/track/1Bh2D6JRzwn1ZPL2dxcfnh"
@@ -472,6 +472,24 @@
       "duration_ms": 218876,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx"
+    },
+    {
+      "album": {
+        "name": "Yume",
+        "url": "https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248341,
+      "name": "A Toshi no Aki",
+      "url": "https://open.spotify.com/track/2QmfEczZyFTRhXJ9F81EP2"
     },
     {
       "album": {
@@ -1855,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "BLOW",
+        "url": "https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        },
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213536,
+      "name": "BLOW",
+      "url": "https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/1d6GzjBWh3vRP4P9iqRqvw"
       },
@@ -2264,7 +2304,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 188124,
       "name": "By You",
       "url": "https://open.spotify.com/track/1yqwcmbBMrUZW063PE7ppA"
@@ -2592,7 +2632,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 236965,
       "name": "Chaos Calls",
       "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
@@ -3153,6 +3193,24 @@
     },
     {
       "album": {
+        "name": "Spunky!",
+        "url": "https://open.spotify.com/album/6Uox06DanTELepB1AQvU6M"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/6axDRBjjfQbbEuEYpUVo4M"
+    },
+    {
+      "album": {
         "name": "CRAY CRAY",
         "url": "https://open.spotify.com/album/6N5p0VTqHdBmeQKgumUyx5"
       },
@@ -3244,6 +3302,24 @@
       "duration_ms": 145219,
       "name": "CUTIE",
       "url": "https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC"
+    },
+    {
+      "album": {
+        "name": "softscars",
+        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186987,
+      "name": "cyber meat",
+      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
     },
     {
       "album": {
@@ -3796,7 +3872,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 246750,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4eD5EYgHx2HJ6OKEduR8dc"
@@ -4522,7 +4598,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 206524,
       "name": "Escape From The Killer 2008",
       "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
@@ -5076,7 +5152,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 260058,
       "name": "Fleeting Away",
       "url": "https://open.spotify.com/track/1bf8KsxFbFFefF3MaOkBLK"
@@ -5497,6 +5573,24 @@
     },
     {
       "album": {
+        "name": "GAME",
+        "url": "https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165757,
+      "name": "GAME",
+      "url": "https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX"
+    },
+    {
+      "album": {
         "name": "Fight for Innocence",
         "url": "https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u"
       },
@@ -5570,7 +5664,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 220776,
       "name": "ghosts",
       "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
@@ -5998,7 +6092,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 254894,
       "name": "Heals",
       "url": "https://open.spotify.com/track/5npkfypTIG1Qht2mMFJIeg"
@@ -6238,7 +6332,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 248470,
       "name": "History Of You",
       "url": "https://open.spotify.com/track/54wlNjIXeQKDk3DFF5C7BU"
@@ -6506,7 +6600,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 168033,
       "name": "how sweet does this sound?",
       "url": "https://open.spotify.com/track/4JiFapbeuEUnoyyy6JQdlO"
@@ -7166,7 +7260,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 252000,
       "name": "I.W.S.P",
       "url": "https://open.spotify.com/track/4JAP7z3MSFFcSiW66Lr9J3"
@@ -7249,6 +7343,28 @@
     },
     {
       "album": {
+        "name": "If I Say I Love You",
+        "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
+      },
+      "artists": [
+        {
+          "name": "\u6050\u9f8d\u7684\u76ae",
+          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
+        },
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230704,
+      "name": "If I Say I Love You",
+      "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
+    },
+    {
+      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/7LftLjfpAl3ifSeJv2UJTA"
       },
@@ -7260,7 +7376,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 294506,
       "name": "If Only",
       "url": "https://open.spotify.com/track/408zWjjulyoRLOjkJAJuNn"
@@ -7402,6 +7518,24 @@
       "duration_ms": 183250,
       "name": "in my white dress",
       "url": "https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl"
+    },
+    {
+      "album": {
+        "name": "The Great Regression",
+        "url": "https://open.spotify.com/album/2QgFxiPrjg4KSh0NkicjEG"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hartono",
+          "url": "https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175350,
+      "name": "In The Clouds",
+      "url": "https://open.spotify.com/track/6Kg8KoSEacO0Y21pL0ZcDj"
     },
     {
       "album": {
@@ -8982,7 +9116,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 267067,
       "name": "Lovebites - Tamio Sakuma Remix",
       "url": "https://open.spotify.com/track/1PE0cRc1m8z3k24pd24LXD"
@@ -9808,7 +9942,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 202605,
       "name": "Model",
       "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"
@@ -10536,7 +10670,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 269373,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6ofybwTF7Xrreqz8cMVXk4"
@@ -11546,7 +11680,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 256000,
       "name": "Possibilities",
       "url": "https://open.spotify.com/track/0jDmg0LI8ElKYD45OtDRee"
@@ -12016,7 +12150,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 140769,
       "name": "Rock Bottom Blues (feat. James Reid)",
       "url": "https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC"
@@ -12356,7 +12490,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 198095,
       "name": "SANCTUARY",
       "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
@@ -13264,7 +13398,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 275630,
       "name": "Space Orphans",
       "url": "https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg"
@@ -14668,7 +14802,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 201490,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/027JnuX0aYpMqWjIzXAOVf"
@@ -15058,7 +15192,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 164786,
       "name": "Turtle's Tear",
       "url": "https://open.spotify.com/track/7zOohsk5FIdSyGcKnMPSWM"
@@ -16152,7 +16286,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 135981,
       "name": "While It Lasts",
       "url": "https://open.spotify.com/track/3pZzVu3r5XMWXhwkoRhgka"
@@ -17524,7 +17658,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 211925,
       "name": "\u3089\u3076\u3061\u3047\u3093",
       "url": "https://open.spotify.com/track/2ukxLlNK4BjFnnVMSkhGN0"
@@ -17758,7 +17892,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 241317,
       "name": "\u4f60\u7684\u6a23\u5b50",
       "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"

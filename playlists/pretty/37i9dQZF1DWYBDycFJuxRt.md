@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mr.Children \*👉 <a href="https://spice.eplus.jp/articles/322246?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,821 likes - 79 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,971 likes - 79 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,12 +80,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 70 | [seaside shuffle](https://open.spotify.com/track/5e31uJlA5I8bWVYWDqQAWd) | [Zuma.](https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5) | [SLOW RIDE INTO THE WATERS](https://open.spotify.com/album/4SPVLA7mFCizIw6pK9QpOK) | 3:26 |
 | 71 | [Fragrance](https://open.spotify.com/track/3fiCK41IesZkgccQbmV7cB) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Fragrance](https://open.spotify.com/album/1I2kuxPs09qF1fL99Erygu) | 3:15 |
 | 72 | [Close to you](https://open.spotify.com/track/5Ten3kLqaqEPRsVkPsIhkM) | [Tawoyame Orchestra](https://open.spotify.com/artist/0rWA2q3W29hVw4cAJ9whsb), [永山マキ](https://open.spotify.com/artist/1xSlyTqOieSYneHcKA0lJq) | [祝宴フィフティーン](https://open.spotify.com/album/5ebsoa0fxwvQRDnKkQqzfE) | 5:29 |
-| 73 | [ショートショート \- ウ山あまねRemix](https://open.spotify.com/track/1KxV8iq860PX565GdaQc9L) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4), [ウ山あまね](https://open.spotify.com/artist/6tYkCF4yGp8zXf6jyJLRaz) | [ショートショート \(ウ山あまねRemix\)](https://open.spotify.com/album/0jFI7n7OkqMtdO6qUHHXhj) | 2:19 |
+| 73 | [ショートショート \- ウ山あまねRemix](https://open.spotify.com/track/1KxV8iq860PX565GdaQc9L) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4), [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [ショートショート \(ウ山あまねRemix\)](https://open.spotify.com/album/0jFI7n7OkqMtdO6qUHHXhj) | 2:19 |
 | 74 | [Pointillism04](https://open.spotify.com/track/7ttCaNX6Oa2InzubjYrxJr) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [Pointillism](https://open.spotify.com/album/2v3AjEbM0ICIH8J44XdS3z) | 3:16 |
 | 75 | [キュリアス・イン・ザ・モーニング](https://open.spotify.com/track/3WrJ2fUCX0Mi1ndTsZcWHx) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [One Summer Dream](https://open.spotify.com/album/6RZUBSOsPCSFUTy9fORfqZ) | 3:45 |
 | 76 | [Personal Communication](https://open.spotify.com/track/6hrLZjcUC2Ruxn5nNWuKmk) | [Plasticzooms](https://open.spotify.com/artist/45pcIklchW1WFozLF8E1Y0) | [Personal Communication](https://open.spotify.com/album/4KcSHytIzcWH1EzOyTr4nx) | 3:44 |
 | 77 | [夢現、夏風薫る](https://open.spotify.com/track/5btlspRyO7f9Zvbiosu0KN) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [夢現、夏風薫る](https://open.spotify.com/album/54cPWGbDrhtKQ6p7idmprT) | 4:30 |
 | 78 | [ゲゲゲの鬼太郎 \(DUB\)](https://open.spotify.com/track/7iIcGjmiXobTxghRDJWLx2) | [KODAMA AND THE DUB STATION BAND](https://open.spotify.com/artist/6EI7t3mczkCqKUNIsFtyKH) | [ゲゲゲの鬼太郎 \(DUB\)](https://open.spotify.com/album/0H1Qoa0H3PH1ZCZcgLMXRQ) | 4:23 |
-| 79 | [サニーサイドへようこそ \- ウ山あまね Remix](https://open.spotify.com/track/38gFkxCWV1x7GF48j7zCgs) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0), [ウ山あまね](https://open.spotify.com/artist/6tYkCF4yGp8zXf6jyJLRaz) | [サニーサイドへようこそ \(ウ山あまね Remix\)](https://open.spotify.com/album/28zzko2OgECsQ6lu0E2Orp) | 3:52 |
+| 79 | [サニーサイドへようこそ \- ウ山あまね Remix](https://open.spotify.com/track/38gFkxCWV1x7GF48j7zCgs) | [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0), [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [サニーサイドへようこそ \(ウ山あまね Remix\)](https://open.spotify.com/album/28zzko2OgECsQ6lu0E2Orp) | 3:52 |
 
-Snapshot ID: `MCxlZTIwNzgyNmY1ZDAzZTI1YWFiY2ZmYzQ5Mjc4M2MyZjI5ZDIwZDBk`
+Snapshot ID: `MCxhNDZjMmQxMmFhYzM4YWQzMTRiMGI1Njg0MDAzODJhMDZjMDk4OTY0`

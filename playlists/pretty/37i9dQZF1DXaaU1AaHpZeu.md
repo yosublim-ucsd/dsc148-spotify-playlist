@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Bratty en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,270 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,292 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Varado](https://open.spotify.com/track/6KPl3e7CMRHBfhh8xOiwhm) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Varado](https://open.spotify.com/album/1dWJbuayvNV3YgXeRI9F0a) | 3:19 |
 | 50 | [Nuevo yo](https://open.spotify.com/track/2fvFZDpTWL7pCqrjac9PTI) | [Oreiana](https://open.spotify.com/artist/7b1hCTRzkTW2WqSHothS7y), [FUTURACHICAPOP](https://open.spotify.com/artist/5MSONJTkfk8OSFQYgpz3OJ) | [Nuevo yo](https://open.spotify.com/album/41ge95r80OeO4SsS1SrmZO) | 3:35 |
 
-Snapshot ID: `MCxlYzYyMjFkYzNmZmVkYmJmNThkZTNlY2M3ZGRiZGJjMThhMDhjOTUx`
+Snapshot ID: `MCw1NjRhMTVjNmMyM2VlMDRmZDNhYjg3OTAzZWFhZGExNzE3ZjNmOThh`

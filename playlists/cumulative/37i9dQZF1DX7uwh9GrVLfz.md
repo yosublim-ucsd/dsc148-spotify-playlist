@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: TOTALFAT
 
-623 songs - 1 day 9 hr 40 min
+624 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 | 2023-07-11 |  |
 | [Place of Fire \(Beginning mix\)](https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Beginning](https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye) | 4:14 | 2022-05-12 | 2022-07-24 |
 | [Plasma](https://open.spotify.com/track/6CgPvIU9seQdHAS69Ftuuc) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [LAB](https://open.spotify.com/album/7pbytUjxaiUTwfVxuirlqB) | 2:46 | 2022-05-19 | 2022-07-25 |
-| [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 | 2022-05-31 |  |
+| [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 | 2022-05-31 | 2023-09-22 |
 | [plural](https://open.spotify.com/track/70fedLqWFoXBmseNz6GYSr) | [MUGWUMPS](https://open.spotify.com/artist/3UPRuzmO7PrK8APvfkRLKx) | [plural](https://open.spotify.com/album/3bYTDjd8tl421FmtTwkHQA) | 1:41 | 2022-05-12 | 2022-07-27 |
 | [Poetry junkie](https://open.spotify.com/track/5QRVBYZLrdcB4neWSKvf3N) | [健やかなる子ら](https://open.spotify.com/artist/66AMBCNBiYsZB4iUgEVmlx) | [aosag1](https://open.spotify.com/album/5Tdl9nO3hb7cmiLWA9PLe8) | 0:43 | 2023-02-28 | 2023-03-22 |
 | [pop world](https://open.spotify.com/track/77HYYowxjDYAlbGuk2WDo9) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [naked](https://open.spotify.com/album/0EpG1Jr8oTf9JvWWx6YNhs) | 1:55 | 2022-05-17 | 2022-07-28 |
@@ -314,6 +314,7 @@
 | [PUXXY WOMAN](https://open.spotify.com/track/6KzKyPetaV8xL6kPRZvOsm) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [ROSSOMAN!](https://open.spotify.com/album/3rxvfCYFLKi8NoP0kXn9cG) | 4:01 | 2022-05-24 | 2022-07-25 |
 | [R.I.P, friends](https://open.spotify.com/track/4Qqr08hTaK6rWNnNVFTIk6) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [R.I.P, friends](https://open.spotify.com/album/1CZI7e7RbHOyJnGXbxxJNh) | 2:47 | 2022-05-19 | 2022-07-27 |
 | [Rain](https://open.spotify.com/track/0oVtFtmOBfVfINJRNHx0h0) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 5:21 | 2022-05-24 | 2023-09-06 |
+| [Rain](https://open.spotify.com/track/5LXh3ZNhWUwfX30YZc6VO4) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W) | 5:21 | 2023-09-20 |  |
 | [RAY \- Single ver.](https://open.spotify.com/track/7D0XjmATk1Qer8WPhCBPIl) | [Ace ON Dawn](https://open.spotify.com/artist/3QGeIj8jFm6QzZFoM9rhVi) | [RAY](https://open.spotify.com/album/4hU8CinlsVyZLS5LRLJ2mr) | 4:13 | 2022-05-12 | 2022-07-25 |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-13 |  |
 | [RIGHT NOW](https://open.spotify.com/track/1d5nuyjooXOIlGDluTPlTH) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [ALL THE AWESOME DUDES](https://open.spotify.com/album/6gnYtMrDzdsnwey7waJTR4) | 3:42 | 2022-05-12 | 2023-02-15 |

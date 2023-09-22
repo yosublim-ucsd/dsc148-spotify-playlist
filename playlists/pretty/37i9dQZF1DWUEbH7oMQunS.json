@@ -1,29 +1,13 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 52353,
+  "num_followers": 52475,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
+  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
   "tracks": [
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "A Thousand Hallelujahs (Live)",
-        "url": "https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 309329,
-      "name": "A Thousand Hallelujahs - Live",
-      "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
-    },
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 229480,
       "name": "Same God",
       "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "A Thousand Hallelujahs (Live)",
+        "url": "https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 309329,
+      "name": "A Thousand Hallelujahs - Live",
+      "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Field Recordings",
-        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 468927,
-      "name": "Tracking Aeroplanes",
-      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "After All These Years (Instrumental)",
         "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 241400,
       "name": "For The One - Instrumental",
       "url": "https://open.spotify.com/track/7ph250c2s06TIsL18QceuA"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Field Recordings",
+        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 468927,
+      "name": "Tracking Aeroplanes",
+      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I Will Remember",
-        "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
-      },
-      "artists": [
-        {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
-        }
-      ],
-      "duration_ms": 351646,
-      "name": "I Will Remember",
-      "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "After All These Years (Instrumental)",
         "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Matins : Vespers",
-        "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
+        "name": "I Will Remember",
+        "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
       },
       "artists": [
         {
-          "name": "Parachute Band",
-          "url": "https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk"
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
         }
       ],
-      "duration_ms": 236386,
-      "name": "* Consecrate *",
-      "url": "https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK"
+      "duration_ms": 351646,
+      "name": "I Will Remember",
+      "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -599,6 +583,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Matins : Vespers",
+        "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
+      },
+      "artists": [
+        {
+          "name": "Parachute Band",
+          "url": "https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "* Consecrate *",
+      "url": "https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Albatross EP",
         "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
       },
@@ -611,54 +611,6 @@
       "duration_ms": 142173,
       "name": "Into The Sea",
       "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm"
-      },
-      "artists": [
-        {
-          "name": "Random Forest",
-          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Leaving Safe Places",
-      "url": "https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Young Oceans",
-        "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 273960,
-      "name": "Great Is Our God",
-      "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Asaph",
-        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 342453,
-      "name": "(73) the Nearness of You",
-      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -679,6 +631,54 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Young Oceans",
+        "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 273960,
+      "name": "Great Is Our God",
+      "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm"
+      },
+      "artists": [
+        {
+          "name": "Random Forest",
+          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Leaving Safe Places",
+      "url": "https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Asaph",
+        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 342453,
+      "name": "(73) the Nearness of You",
+      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 249608,
       "name": "What You Paid For",
       "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        }
+      ],
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Spacies",
-        "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
-      },
-      "artists": [
-        {
-          "name": "The Spacies",
-          "url": "https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "those lil god songs i posted on ig",
         "url": "https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 216000,
       "name": "make stuff up & sing things",
       "url": "https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Spacies",
+        "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
+      },
+      "artists": [
+        {
+          "name": "The Spacies",
+          "url": "https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "'90s Kids",
-        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
+        "name": "High Level Praise",
+        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
       },
       "artists": [
         {
-          "name": "LaPeer",
-          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
         }
       ],
-      "duration_ms": 206987,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
+      "duration_ms": 198504,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "High Level Praise",
-        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 198504,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Echoes Of Wonder",
         "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "'90s Kids",
+        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
+      },
+      "artists": [
+        {
+          "name": "LaPeer",
+          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+        }
+      ],
+      "duration_ms": 206987,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "How Much You Mean To Me",
         "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 218129,
       "name": "How Much You Mean To Me",
       "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Eternal Jetlag",
+        "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
+      },
+      "artists": [
+        {
+          "name": "WILLO",
+          "url": "https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N"
+        }
+      ],
+      "duration_ms": 236172,
+      "name": "I Go",
+      "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 175496,
       "name": "Breathe My Name",
       "url": "https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Eternal Jetlag",
-        "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
-      },
-      "artists": [
-        {
-          "name": "WILLO",
-          "url": "https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N"
-        }
-      ],
-      "duration_ms": 236172,
-      "name": "I Go",
-      "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Phone to Logos",
-        "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
-      },
-      "artists": [
-        {
-          "name": "Porya Hatami",
-          "url": "https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ"
-        }
-      ],
-      "duration_ms": 447355,
-      "name": "Pomegranates",
-      "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 391413,
       "name": "Abba - Live",
       "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Phone to Logos",
+        "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
+      },
+      "artists": [
+        {
+          "name": "Porya Hatami",
+          "url": "https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ"
+        }
+      ],
+      "duration_ms": 447355,
+      "name": "Pomegranates",
+      "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 352318,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
         "url": "https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb"
       },
@@ -1355,6 +1331,30 @@
       "duration_ms": 221626,
       "name": "Survive These Seas",
       "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 352318,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
     },
     {
       "added_at": "2023-07-28 04:02:00",

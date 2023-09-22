@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Khalek Fe Nafsak",
+        "url": "https://open.spotify.com/album/04iDHR1EUnAZHji9f9XXEK"
+      },
+      "artists": [
+        {
+          "name": "Ortega",
+          "url": "https://open.spotify.com/artist/5vkr7FsQEpnmI8Zg5fI81H"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181513,
+      "name": "Khalek Fe Nafsak",
+      "url": "https://open.spotify.com/track/0davnVObCTxY134TtF8yHu"
+    },
+    {
+      "album": {
         "name": "Khamsa kol Khames",
         "url": "https://open.spotify.com/album/0ca1pwGZChFFjPMVxoJxeR"
       },

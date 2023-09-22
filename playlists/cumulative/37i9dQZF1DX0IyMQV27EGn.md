@@ -2,7 +2,7 @@
 
 ### [Femme Fatale](https://open.spotify.com/playlist/37i9dQZF1DX0IyMQV27EGn)
 
-> sultry and seductive feminine energy 🔪
+> sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
 208 songs - 12 hr 29 min
 

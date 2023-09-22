@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3Ao6Lz6auN7hcXvlDRxp3I"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206311,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/3i373wW6lYwp4gkjoVw2uk"
+    },
+    {
+      "album": {
         "name": "Tommy Flanagan Trio",
         "url": "https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu"
       },
@@ -10374,7 +10392,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 206490,
       "name": "Une Histoire Flamande",
       "url": "https://open.spotify.com/track/0gbrsvaa2jjGBPaDCjBaIw"

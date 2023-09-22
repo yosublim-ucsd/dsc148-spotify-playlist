@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Il Tre, Shiva, Philip e tanti altri.",
+  "description": "Sempre aggiornata. Con nuovi brani di Medy, Sacky, Baby Gang, Boro, Artie 5ive e tanti altri.",
   "name": "Novit\u00e0 Rap Italiano",
   "tracks": [
+    {
+      "album": {
+        "name": "\"Bisiness\"",
+        "url": "https://open.spotify.com/album/1VvBBQLEK5qmoXtTsOtCrh"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 Valentino",
+          "url": "https://open.spotify.com/artist/4TR1rLViZ0TMo5gdvSVVZr"
+        },
+        {
+          "name": "Nessuno",
+          "url": "https://open.spotify.com/artist/7BMPwaB9s6d7J33bIPp8Z5"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "\"Bisiness\"",
+      "url": "https://open.spotify.com/track/5rd8GueEmsKWLgJhQOM8v0"
+    },
     {
       "album": {
         "name": "#FREEBOSSETTI",
@@ -441,6 +463,24 @@
     },
     {
       "album": {
+        "name": "13 DROGHE",
+        "url": "https://open.spotify.com/album/5TKqaCC7zOsUGMi12CyiLP"
+      },
+      "artists": [
+        {
+          "name": "ASTA",
+          "url": "https://open.spotify.com/artist/52eUIqgITKSjUGI9EkUN8t"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83571,
+      "name": "13 DROGHE",
+      "url": "https://open.spotify.com/track/5SkGocCRQRycg6IYGRgbQu"
+    },
+    {
+      "album": {
         "name": "Teoria Del Contrario Mixtape Vol. 2",
         "url": "https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx"
       },
@@ -800,6 +840,32 @@
       "duration_ms": 179000,
       "name": "23 'till infinity",
       "url": "https://open.spotify.com/track/7KSph55egVlxw5cX2JOUvj"
+    },
+    {
+      "album": {
+        "name": "The Legacy",
+        "url": "https://open.spotify.com/album/1sbWaOJMlvendtlrH1UXlx"
+      },
+      "artists": [
+        {
+          "name": "Maury B",
+          "url": "https://open.spotify.com/artist/5oII0N8HcXbQ7T9WWJKIcm"
+        },
+        {
+          "name": "DJ Douglas",
+          "url": "https://open.spotify.com/artist/1Y3NNbcFAw3RnpVg9qB0tk"
+        },
+        {
+          "name": "DJ Bront",
+          "url": "https://open.spotify.com/artist/62vW0gU3UTCWeCaYWc1nhv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189890,
+      "name": "24h",
+      "url": "https://open.spotify.com/track/5UlFsLvckmeyX5n89lOMoj"
     },
     {
       "album": {
@@ -7017,6 +7083,24 @@
     },
     {
       "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/1ThygXZBEM1kP6Z0M0ltX5"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127979,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/0P2PYTMHCVgmqWPhK5aYhO"
+    },
+    {
+      "album": {
         "name": "Brothers Cavalera",
         "url": "https://open.spotify.com/album/1bH9kfwI27cy18IdV4cRZC"
       },
@@ -7688,6 +7772,32 @@
       "duration_ms": 240022,
       "name": "CABRIOLET",
       "url": "https://open.spotify.com/track/4mDOSewK7AeYelI7qDXxmL"
+    },
+    {
+      "album": {
+        "name": "Cadillac (feat. Artie 5ive)",
+        "url": "https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155526,
+      "name": "Cadillac (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
     },
     {
       "album": {
@@ -13151,6 +13261,28 @@
     },
     {
       "album": {
+        "name": "DOV'ERI? (feat. Baby Gang)",
+        "url": "https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "DOV'ERI? (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on"
+    },
+    {
+      "album": {
         "name": "Dove non guardi mai",
         "url": "https://open.spotify.com/album/2crXAw5P32g0HIrZ5PKSma"
       },
@@ -15217,6 +15349,28 @@
     },
     {
       "album": {
+        "name": "Femmena 'e n' atu munno (From \"Uomini da marciapiede\")",
+        "url": "https://open.spotify.com/album/3CTlvOXjneEvQN5siQqVNF"
+      },
+      "artists": [
+        {
+          "name": "LDO",
+          "url": "https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139307,
+      "name": "Femmena 'e n' atu munno - From \"Uomini da marciapiede\"",
+      "url": "https://open.spotify.com/track/75MaWwgc4wOPvTdE3kDWHL"
+    },
+    {
+      "album": {
         "name": "Fenomeno",
         "url": "https://open.spotify.com/album/6l5QGtFcKwiIM1S0NaKqFs"
       },
@@ -16300,7 +16454,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 197256,
       "name": "Frecciarossa",
       "url": "https://open.spotify.com/track/5aMYJAsbzmLkGN6lZY2Hoi"
@@ -21985,6 +22139,28 @@
     },
     {
       "album": {
+        "name": "Kurt Cobain",
+        "url": "https://open.spotify.com/album/2OhlZbURVdLbN4IikoFicb"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "Kurt Cobain",
+      "url": "https://open.spotify.com/track/5MFOGxWCMMmYwYI1TXi4Qs"
+    },
+    {
+      "album": {
         "name": "L'Alcol Non \u00c8 Un Problema",
         "url": "https://open.spotify.com/album/7Kj40gynPLTP1Fz9hH0N8h"
       },
@@ -23236,7 +23412,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 136000,
       "name": "Ladro di Te",
       "url": "https://open.spotify.com/track/1s62TXeHlKuvKsfRYhteLV"
@@ -24469,6 +24645,32 @@
     },
     {
       "album": {
+        "name": "londra",
+        "url": "https://open.spotify.com/album/4ePKGOeDRv1ivzdlbapdYE"
+      },
+      "artists": [
+        {
+          "name": "Jianguar",
+          "url": "https://open.spotify.com/artist/4E09DNh6BhvlvyoOlXCHuF"
+        },
+        {
+          "name": "Cenere",
+          "url": "https://open.spotify.com/artist/3or6Eb55SMtConVwgw1igF"
+        },
+        {
+          "name": "Polvere",
+          "url": "https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136240,
+      "name": "londra",
+      "url": "https://open.spotify.com/track/48DlWyHBzxQEbp9oTVzP9i"
+    },
+    {
+      "album": {
         "name": "4 Stagioni (feat. Jleeno)",
         "url": "https://open.spotify.com/album/7BTbiZFQ9e22kf5P3ivygw"
       },
@@ -24708,6 +24910,28 @@
       "duration_ms": 204521,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L"
+    },
+    {
+      "album": {
+        "name": "LOVE SONG",
+        "url": "https://open.spotify.com/album/24RwKTp7zQqYhOTUMkkUt1"
+      },
+      "artists": [
+        {
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "LOVE SONG",
+      "url": "https://open.spotify.com/track/5OlOi3sB9hMntMhg6N7ERn"
     },
     {
       "album": {
@@ -25754,6 +25978,24 @@
       "duration_ms": 73714,
       "name": "MALOCCHIO #1",
       "url": "https://open.spotify.com/track/4GlnTz0XDB3saXOYGubuml"
+    },
+    {
+      "album": {
+        "name": "Maltempo",
+        "url": "https://open.spotify.com/album/1Jopcn1DSXFQzDvj53uDpw"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164178,
+      "name": "Maltempo",
+      "url": "https://open.spotify.com/track/7FZicMWhkxtQxIsV6Y9SZk"
     },
     {
       "album": {
@@ -27282,6 +27524,24 @@
       "duration_ms": 179067,
       "name": "Metropolitana",
       "url": "https://open.spotify.com/track/2LefQOKsenY4CsqByGwNDC"
+    },
+    {
+      "album": {
+        "name": "METTO LE AIR",
+        "url": "https://open.spotify.com/album/693n3PQfSPMPCxX2Hl5Alh"
+      },
+      "artists": [
+        {
+          "name": "LocoArmy",
+          "url": "https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152210,
+      "name": "METTO LE AIR",
+      "url": "https://open.spotify.com/track/6Kk4oSUJLNBZYSSfyUnGY8"
     },
     {
       "album": {
@@ -29107,6 +29367,24 @@
     },
     {
       "album": {
+        "name": "N.47",
+        "url": "https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145851,
+      "name": "N.47",
+      "url": "https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj"
+    },
+    {
+      "album": {
         "name": "NA NA NA",
         "url": "https://open.spotify.com/album/5jaDbLuhCfH1oMNdNgoTd9"
       },
@@ -30082,6 +30360,24 @@
       "duration_ms": 188460,
       "name": "No Kizzy",
       "url": "https://open.spotify.com/track/31KBhThOSGbqFcWbeMhGyw"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/5vjDFXriSyDNj1kcNWov3I"
+      },
+      "artists": [
+        {
+          "name": "Stamani",
+          "url": "https://open.spotify.com/artist/3LTVcULlc7Sf1iIKujc9u9"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150300,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/01WOY088NnckOMOXOQFjV8"
     },
     {
       "album": {
@@ -32788,7 +33084,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 231111,
       "name": "Panta Rei",
       "url": "https://open.spotify.com/track/7pE2ficdwNU6mGSTXNVLuL"
@@ -34824,7 +35120,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 132272,
       "name": "Polvere",
       "url": "https://open.spotify.com/track/0OCqXHVqtPqUT8GIZVkQWJ"
@@ -35518,6 +35814,32 @@
       "duration_ms": 158944,
       "name": "Prima ero in Africa",
       "url": "https://open.spotify.com/track/1uVREzEOA8LbCnLlnVte3h"
+    },
+    {
+      "album": {
+        "name": "PRIMMA VOT'",
+        "url": "https://open.spotify.com/album/2cxk31UrFnrGtRR3RgBaP1"
+      },
+      "artists": [
+        {
+          "name": "Capozanarky",
+          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
+        },
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        },
+        {
+          "name": "Paulbeatzz",
+          "url": "https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "PRIMMA VOT'",
+      "url": "https://open.spotify.com/track/0JSuco2bCNbbsRUunG60md"
     },
     {
       "album": {
@@ -40833,6 +41155,24 @@
     },
     {
       "album": {
+        "name": "I RAGAZZI STANNO BENE (Deluxe)",
+        "url": "https://open.spotify.com/album/3fn1Q3ABNypb7iQDhVebFG"
+      },
+      "artists": [
+        {
+          "name": "DIRTY S\u00d6CKS",
+          "url": "https://open.spotify.com/artist/3xImYOasFmUbn3ngECT1fI"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181318,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/3yBUPuhzLEg3lBNwFLqdwP"
+    },
+    {
+      "album": {
         "name": "Snobbava",
         "url": "https://open.spotify.com/album/0I4nw0CPX7J1MLRzy9jBXs"
       },
@@ -41522,6 +41862,28 @@
       "duration_ms": 139034,
       "name": "SORPASSO",
       "url": "https://open.spotify.com/track/0pfhyFstQRfCQRunf1CRak"
+    },
+    {
+      "album": {
+        "name": "Canzoni per gli altri",
+        "url": "https://open.spotify.com/album/31alhGLVMCCYaUndyAp0uI"
+      },
+      "artists": [
+        {
+          "name": "Federica Abbate",
+          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
+        },
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186590,
+      "name": "Sorry (feat. Nashley)",
+      "url": "https://open.spotify.com/track/42ORsze4UV25Ho6vZSLoxX"
     },
     {
       "album": {
@@ -43238,6 +43600,32 @@
       "duration_ms": 128598,
       "name": "SUV NERO",
       "url": "https://open.spotify.com/track/34BSDQZhCLyEdknhW6fg3H"
+    },
+    {
+      "album": {
+        "name": "SUV NERO RMX",
+        "url": "https://open.spotify.com/album/5S2uvo293mt1LhB6Y3qyMW"
+      },
+      "artists": [
+        {
+          "name": "Astro Centauri",
+          "url": "https://open.spotify.com/artist/027y7WtCHLPyUJr50Q0p6E"
+        },
+        {
+          "name": "kiddkasal",
+          "url": "https://open.spotify.com/artist/1ndLAUtSIiCOFOEViUOQFH"
+        },
+        {
+          "name": "VinsHoodStar",
+          "url": "https://open.spotify.com/artist/0QXLZEZQZ9Wsn21FdoWWWe"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "SUV NERO RMX",
+      "url": "https://open.spotify.com/track/0iLhxYqGiFGQBYXPfjdBHn"
     },
     {
       "album": {
@@ -46244,6 +46632,24 @@
       "duration_ms": 153980,
       "name": "Un Posto Per Noi",
       "url": "https://open.spotify.com/track/7J9ioQE7KisjGFDO7Cz3Fn"
+    },
+    {
+      "album": {
+        "name": "Un vero Italiano",
+        "url": "https://open.spotify.com/album/4H8Cjxv8UlclpogSmUtleh"
+      },
+      "artists": [
+        {
+          "name": "Dot Valentino",
+          "url": "https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Un vero Italiano",
+      "url": "https://open.spotify.com/track/33q0e4yyrHMjBzNhnmIisD"
     },
     {
       "album": {

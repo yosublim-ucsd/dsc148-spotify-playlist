@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 224214,
       "name": "Cold Case",
       "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 234686,
       "name": "Diorama",
       "url": "https://open.spotify.com/track/5hYc50kmNWDtMzXS7DtHKz"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 194252,
       "name": "Humbug",
       "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 206149,
       "name": "New Emotion",
       "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 82788,
       "name": "Squeeze (Intro)",
       "url": "https://open.spotify.com/track/1p6itvwkWknExSlH98R8fa"
@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194010,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA"
       },
@@ -678,7 +696,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 194010,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS"

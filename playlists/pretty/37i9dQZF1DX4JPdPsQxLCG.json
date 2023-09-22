@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road.",
-  "num_followers": 69836,
+  "num_followers": 69878,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmUwOWEwNTJiOThhNDlmMjU0NGQyNmFmNTMyYWFmMzQ4ZTE5ZDMx",
+  "snapshot_id": "MCw1ZmQ5YTNmOTAzNTNlNzdjOGVlNmRiYjE1ZmE1NmEzOWJkYTE2N2Fi",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Dreams, Dreams, Dreams",
-        "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
-      },
-      "artists": [
-        {
-          "name": "Chilliwack",
-          "url": "https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG"
-        }
-      ],
-      "duration_ms": 293970,
-      "name": "Fly At Night (In The Morning We Land)",
-      "url": "https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 248200,
       "name": "Don't Forget Me (When I'm Gone)",
       "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Dreams, Dreams, Dreams",
+        "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
+      },
+      "artists": [
+        {
+          "name": "Chilliwack",
+          "url": "https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG"
+        }
+      ],
+      "duration_ms": 293970,
+      "name": "Fly At Night (In The Morning We Land)",
+      "url": "https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K"
     },
     {
       "added_at": "2023-09-08 04:01:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Better Luck In The Next Life",
-        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
       "artists": [
         {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 167979,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
+      "duration_ms": 240613,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI"
     }
   ],
   "unique_name": "Canadian Road Trip",

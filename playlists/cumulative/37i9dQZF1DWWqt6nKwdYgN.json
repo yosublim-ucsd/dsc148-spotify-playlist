@@ -895,6 +895,28 @@
     },
     {
       "album": {
+        "name": "C.O.M.U.N.A. 4",
+        "url": "https://open.spotify.com/album/4awAbldagQ7a7tRu1D5cdv"
+      },
+      "artists": [
+        {
+          "name": "Pedro Peligro",
+          "url": "https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj"
+        },
+        {
+          "name": "KMI420",
+          "url": "https://open.spotify.com/artist/27aZHh70FUjFxP5IPg7dra"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169837,
+      "name": "C.O.M.U.N.A. 4",
+      "url": "https://open.spotify.com/track/5PwdbFuDOl4V9oenf95x9p"
+    },
+    {
+      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
       },
@@ -1272,7 +1294,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 244177,
       "name": "Cuarto De Siglo",
       "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
@@ -1931,6 +1953,28 @@
     },
     {
       "album": {
+        "name": "Entrevisi\u00f3n",
+        "url": "https://open.spotify.com/album/0WNVbIaCaqotFrCxifouGO"
+      },
+      "artists": [
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        },
+        {
+          "name": "Badknees",
+          "url": "https://open.spotify.com/artist/0epVj8gzQh9kZOUAj0A7bM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274311,
+      "name": "Entrevisi\u00f3n",
+      "url": "https://open.spotify.com/track/43IwgGI2OQzvELeFa0j1JQ"
+    },
+    {
+      "album": {
         "name": "ENVIDIA",
         "url": "https://open.spotify.com/album/1rnQTScM9t7Rvz2XS8hADj"
       },
@@ -2041,6 +2085,28 @@
     },
     {
       "album": {
+        "name": "Este Mundo",
+        "url": "https://open.spotify.com/album/2x2YtRAtolEGSxLpRkDhFj"
+      },
+      "artists": [
+        {
+          "name": "Isaias Francotirador",
+          "url": "https://open.spotify.com/artist/2O5mKWYf91gT1VqeU0INzr"
+        },
+        {
+          "name": "El Fecho RD",
+          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244299,
+      "name": "Este Mundo",
+      "url": "https://open.spotify.com/track/6nCdtHSUsuSE8tUvlPBPc8"
+    },
+    {
+      "album": {
         "name": "Estilo Tumbado",
         "url": "https://open.spotify.com/album/6fpqzDyP7WZSUfDMKBTV1A"
       },
@@ -2056,7 +2122,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 201857,
       "name": "Estilo Tumbado",
       "url": "https://open.spotify.com/track/6zFogd4CdmjceQpW6aqsDe"
@@ -2130,6 +2196,32 @@
       "duration_ms": 194100,
       "name": "Feria en el Sobre",
       "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
+    },
+    {
+      "album": {
+        "name": "Flight 0010",
+        "url": "https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "Dave Gars\u00eda",
+          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
+        },
+        {
+          "name": "Meny Mendez",
+          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130503,
+      "name": "Flight 0010",
+      "url": "https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ"
     },
     {
       "album": {
@@ -2428,7 +2520,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 174826,
       "name": "INESTABLE",
       "url": "https://open.spotify.com/track/7oZU0WfiYy81ezw6tnSpH7"
@@ -2519,6 +2611,28 @@
     },
     {
       "album": {
+        "name": "Kilometros",
+        "url": "https://open.spotify.com/album/5XLc9I2sgZnpeZUyKsjME1"
+      },
+      "artists": [
+        {
+          "name": "Don Kalavera",
+          "url": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
+        },
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204799,
+      "name": "Kilometros",
+      "url": "https://open.spotify.com/track/1Oxtf2McTRB8Ea4QFE5Tu5"
+    },
+    {
+      "album": {
         "name": "La Buena",
         "url": "https://open.spotify.com/album/2wr6X2RYTrR2zdGQ3aIrEt"
       },
@@ -2548,7 +2662,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 167000,
       "name": "La Cara de Loco",
       "url": "https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ"
@@ -3059,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "Lotto",
+        "url": "https://open.spotify.com/album/2Mzni4ryawyAWkRJRZ3fwI"
+      },
+      "artists": [
+        {
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/2zF9ryqq7trUyJRBXG8Lyj"
+    },
+    {
+      "album": {
         "name": "LQRA Session #14",
         "url": "https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji"
       },
@@ -3270,7 +3402,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 222100,
       "name": "Manejo Lento",
       "url": "https://open.spotify.com/track/5Z8wqXLi7OdbrzXgo1ofHv"
@@ -3695,6 +3827,36 @@
     },
     {
       "album": {
+        "name": "M\u00fasica",
+        "url": "https://open.spotify.com/album/56mKNhfovshhc3MUaXZOyd"
+      },
+      "artists": [
+        {
+          "name": "Marav\u00ed",
+          "url": "https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj"
+        },
+        {
+          "name": "Kaeve",
+          "url": "https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP"
+        },
+        {
+          "name": "M2H",
+          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
+        },
+        {
+          "name": "Piero F. Chiarella",
+          "url": "https://open.spotify.com/artist/2p9NwesyqoaUW7mWJJgWyM"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "M\u00fasica",
+      "url": "https://open.spotify.com/track/0RbdczHMXMIYzQEKfj4M7Y"
+    },
+    {
+      "album": {
         "name": "N.D.C",
         "url": "https://open.spotify.com/album/3tMENCHCbPYajShbtAH1AZ"
       },
@@ -3728,7 +3890,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 179154,
       "name": "Nada Pasa",
       "url": "https://open.spotify.com/track/3mougvJouQAgtsD3Bb0keM"
@@ -3873,7 +4035,7 @@
         },
         {
           "name": "Chikano Jcr",
-          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+          "url": "https://open.spotify.com/artist/4Wee3LuWcAMXyl5MR1S0M4"
         },
         {
           "name": "Vizual Dealer",
@@ -4010,7 +4172,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 167261,
       "name": "No Voy a Parar",
       "url": "https://open.spotify.com/track/4tFAmTT9xRkeczQ3tKBVZm"
@@ -5070,7 +5232,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 131320,
       "name": "Sobre La Loquera",
       "url": "https://open.spotify.com/track/5IXq7Lhy89lSgxmdvWuhMO"
@@ -5190,7 +5352,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 144000,
       "name": "Tiempo Al Tiempo",
       "url": "https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz"
@@ -5296,6 +5458,28 @@
       "duration_ms": 191500,
       "name": "Traici\u00f3n",
       "url": "https://open.spotify.com/track/4BflgJLizU9pNVTjhGrOHD"
+    },
+    {
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227702,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
     },
     {
       "album": {
@@ -5512,7 +5696,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 213620,
       "name": "Vida Buena",
       "url": "https://open.spotify.com/track/2MMlie9z2Huecoyf7pcOYa"
@@ -5684,6 +5868,28 @@
       "duration_ms": 155897,
       "name": "\u00bfQu\u00e9 Hay Que Hacer?",
       "url": "https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD"
+    },
+    {
+      "album": {
+        "name": "\u00edcaro",
+        "url": "https://open.spotify.com/album/1vtrBs348NQgNBIJG2cUFH"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169019,
+      "name": "\u00edcaro",
+      "url": "https://open.spotify.com/track/68BnzdIbvcoW11I0EhVvwb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWqt6nKwdYgN"

@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3CQ4JisFsekWGtqiRnYH6n"
+      },
+      "artists": [
+        {
+          "name": "Michael Frankenberger",
+          "url": "https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133970,
+      "name": "A New Beginning",
+      "url": "https://open.spotify.com/track/1Z1PcKjgCAf2O9VQommZgB"
+    },
+    {
+      "album": {
         "name": "N\u00e9o-Romance",
         "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 154750,
       "name": "Dusk to dawn",
       "url": "https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O"
@@ -10417,6 +10435,24 @@
     },
     {
       "album": {
+        "name": "The Bells",
+        "url": "https://open.spotify.com/album/5875xi8RYowSV6pWdsdohk"
+      },
+      "artists": [
+        {
+          "name": "Shreyas Murali",
+          "url": "https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/1agCj3RNoIpFcBOlgycVMu"
+    },
+    {
+      "album": {
         "name": "The Calm I Feel With You",
         "url": "https://open.spotify.com/album/0XKTyN8365BXT1ONPgtGDZ"
       },
@@ -12268,7 +12304,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 125347,
       "name": "Who I Was",
       "url": "https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me"

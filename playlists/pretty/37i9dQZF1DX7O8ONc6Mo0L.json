@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Paulo Cesar Baruk, Marcela Tais",
-  "num_followers": 268707,
+  "num_followers": 268906,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWRiZmM5NTk4MmQ2NzdmNWUzMDdkOGMwOTNlZWMwY2I0MmU5MDk3",
+  "snapshot_id": "MCxhMDAxZjY4YTJhMGQ4OTZhZWVlYWFiNWUzMTU0ZmJmYTQ3ZjlhMDY3",
   "tracks": [
     {
       "added_at": "2023-09-15 21:53:31",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-09-15 21:53:31",
       "album": {
+        "name": "De Dentro Pra Fora (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 257105,
+      "name": "De Dentro Pra Fora - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
+    },
+    {
+      "added_at": "2023-09-15 21:53:31",
+      "album": {
         "name": "Deus N\u00e3o \u00c9 Culpado (Ao Vivo)",
         "url": "https://open.spotify.com/album/66ThLOkhewpwuRcD6bsftw"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 289189,
       "name": "Deus N\u00e3o \u00c9 Culpado - Ao Vivo",
       "url": "https://open.spotify.com/track/7maxojilY61gGGWX6xcpo1"
-    },
-    {
-      "added_at": "2023-09-15 21:53:31",
-      "album": {
-        "name": "De Dentro Pra Fora (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 257105,
-      "name": "De Dentro Pra Fora - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
     },
     {
       "added_at": "2023-09-15 21:53:31",
@@ -679,22 +679,18 @@
     {
       "added_at": "2023-09-15 21:53:31",
       "album": {
-        "name": "Promessa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4exZVjNV5GZpCJa8iMVSgT"
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 256756,
-      "name": "Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1FOrlR1cxL3edaOIoH4uVn"
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": "2023-09-15 21:53:31",
@@ -715,18 +711,22 @@
     {
       "added_at": "2023-09-15 21:53:31",
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+        "name": "Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4exZVjNV5GZpCJa8iMVSgT"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+      "duration_ms": 256756,
+      "name": "Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1FOrlR1cxL3edaOIoH4uVn"
     },
     {
       "added_at": "2023-09-15 21:53:31",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-15 21:53:31",
       "album": {
-        "name": "S\u00f3 Tenho a Ti (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1e3iDHnf8FWP1bByALU6Do"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 156374,
-      "name": "S\u00f3 Tenho a Ti (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2zLr4wlqKbm2CJ74MDqy61"
-    },
-    {
-      "added_at": "2023-09-15 21:53:31",
-      "album": {
         "name": "Quanto Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7nwC2hRmSCpMHwLBGfcmyL"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 252000,
       "name": "Quanto Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4oTqFJc5YtuYNNM5VsgkKT"
+    },
+    {
+      "added_at": "2023-09-15 21:53:31",
+      "album": {
+        "name": "S\u00f3 Tenho a Ti (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1e3iDHnf8FWP1bByALU6Do"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 156374,
+      "name": "S\u00f3 Tenho a Ti (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2zLr4wlqKbm2CJ74MDqy61"
     },
     {
       "added_at": "2023-09-15 21:53:31",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-15 21:53:31",
       "album": {
-        "name": "N\u00e1ufrago (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "N\u00e1ufrago - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
-    },
-    {
-      "added_at": "2023-09-15 21:53:31",
-      "album": {
         "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
         "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
       },
@@ -1271,22 +1255,18 @@
     {
       "added_at": "2023-09-15 21:53:31",
       "album": {
-        "name": "Rude Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1R8t64G5z3pRiAzlDSeA6C"
+        "name": "N\u00e1ufrago (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
       },
       "artists": [
         {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        },
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
         }
       ],
-      "duration_ms": 303780,
-      "name": "Rude Cruz (Ao Vivo)",
-      "url": "https://open.spotify.com/track/583p2yhPa1VqXQiPH0yGzb"
+      "duration_ms": 294816,
+      "name": "N\u00e1ufrago - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
     },
     {
       "added_at": "2023-09-15 21:53:31",
@@ -1307,6 +1287,26 @@
       "duration_ms": 285000,
       "name": "Estou Com Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX"
+    },
+    {
+      "added_at": "2023-09-15 21:53:31",
+      "album": {
+        "name": "Rude Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1R8t64G5z3pRiAzlDSeA6C"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        },
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        }
+      ],
+      "duration_ms": 303780,
+      "name": "Rude Cruz (Ao Vivo)",
+      "url": "https://open.spotify.com/track/583p2yhPa1VqXQiPH0yGzb"
     },
     {
       "added_at": "2023-09-15 21:53:31",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-09-15 21:53:31",
       "album": {
+        "name": "On Tape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 228388,
+      "name": "Falar Com Deus - Faixa B\u00f4nus",
+      "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
+    },
+    {
+      "added_at": "2023-09-15 21:53:31",
+      "album": {
         "name": "Se Ele N\u00e3o For o Primeiro",
         "url": "https://open.spotify.com/album/1hlJXKLDHrVpSXsBivotcv"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 304509,
       "name": "Se Ele N\u00e3o For o Primeiro",
       "url": "https://open.spotify.com/track/1MBI2bYuq96Vhj74kNrUbp"
-    },
-    {
-      "added_at": "2023-09-15 21:53:31",
-      "album": {
-        "name": "On Tape (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 228388,
-      "name": "Falar Com Deus - Faixa B\u00f4nus",
-      "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
     }
   ],
   "unique_name": "Gospel Ac\u00fastico",

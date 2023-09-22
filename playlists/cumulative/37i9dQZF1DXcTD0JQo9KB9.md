@@ -4,7 +4,7 @@
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-113 songs - 7 hr 19 min
+114 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [對得起自己](https://open.spotify.com/track/0dbKKEitEKGPpgY7qOFwpe) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [對得起自己](https://open.spotify.com/album/0AJaOR1rvOB4ttpkSenHRF) | 4:20 | 2022-04-13 |  |
 | [小島](https://open.spotify.com/track/2hn37fEFyplCS7stICKgAq) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [小島](https://open.spotify.com/album/13fTvWxRTs2t02FhPLCaGw) | 3:27 | 2022-04-13 |  |
 | [廢學](https://open.spotify.com/track/1zFfjpRxrHlv6IU3fiVepA) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [未知之知](https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl) | 4:28 | 2022-04-13 |  |
-| [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 | 2022-04-13 |  |
+| [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 | 2022-04-13 | 2023-09-22 |
+| [得個等](https://open.spotify.com/track/2PlGOozW4kmGhRq4yI2uEy) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/4XRXAEi3a6HTTzPBxhttyY) | 4:17 | 2023-07-12 |  |
 | [我也難過的](https://open.spotify.com/track/2PkErrvrjQry3l1IhhJsor) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [我也難過的](https://open.spotify.com/album/2hFVXHct1VP9me00DzxDCj) | 4:38 | 2022-11-03 |  |
 | [我也難過的](https://open.spotify.com/track/3kQvyf0lMEpcn0xGWM1blY) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/5NjBK5wSTAX9a2BbtBDKZ4) | 4:38 | 2022-04-13 | 2023-03-02 |
 | [我們都想旅行](https://open.spotify.com/track/67wmOm80zXISULC5CVQyv8) | [Ken Hung](https://open.spotify.com/artist/0sQMt1Llvcuza8oLKB9bmi) | [我們都想旅行](https://open.spotify.com/album/0iWpHNCYFrxiCbsa2dIfVj) | 3:24 | 2022-04-13 |  |

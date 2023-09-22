@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Vagabon
 
-5,862 songs - 14 day 6 hr 57 min
+5,863 songs - 14 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,8 @@
 | [Apple Crumble](https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Apple Crumble](https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB) | 3:09 | 2021-09-25 | 2021-11-20 |
 | [Apple Eyes](https://open.spotify.com/track/58FNz5tnNUe6CTd3qw0yK0) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Apple Eyes](https://open.spotify.com/album/3NSyGzvWx2LF3cY9rXh8qR) | 2:10 | 2020-10-09 | 2020-12-22 |
 | [Apple Of My Eye](https://open.spotify.com/track/43jDOhiapEXBoUL5Wbg3sV) | [Boshe](https://open.spotify.com/artist/2qFtSSi6zc8jGg8P1CXyAl) | [Apple Of My Eye](https://open.spotify.com/album/4tbZ7GRpqZMkiBgJyzAnBe) | 3:04 | 2023-03-03 | 2023-04-09 |
-| [Apples](https://open.spotify.com/track/2PQMyLxoZOBip4sRmDCiNG) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 7:27 | 2023-08-25 |  |
+| [Apples](https://open.spotify.com/track/2PQMyLxoZOBip4sRmDCiNG) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 7:27 | 2023-08-25 | 2023-09-22 |
+| [Apples](https://open.spotify.com/track/2txLr0F2mCui9DuKGaXtZX) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature \(Extended\)](https://open.spotify.com/album/308zHvDzU8ok2hzZ4szOEZ) | 7:27 | 2023-08-25 |  |
 | [Apples](https://open.spotify.com/track/4HeL9om1eSZ7ay4kMByp13) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Apples](https://open.spotify.com/album/5n38YetT2bqt17C3tiCRma) | 7:27 | 2022-06-17 | 2022-07-16 |
 | [April](https://open.spotify.com/track/4BWECSqC8MdCihhbcTynUk) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/1PAsUJFVKxmdofGFsFU3Df) | 3:18 | 2020-02-14 | 2020-03-20 |
 | [April](https://open.spotify.com/track/62xIrqNecImITUzBEDYH3S) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [April](https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ) | 2:48 | 2019-09-27 | 2019-10-25 |

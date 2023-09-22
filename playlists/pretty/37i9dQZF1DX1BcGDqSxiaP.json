@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 19952,
+  "num_followers": 19979,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWZkN2YyOTRlODQ0ODU0Yzc2MDg2ZWNmMzA5Njk2NmQwNTU3ZTY2",
+  "snapshot_id": "MCw1MzZkNjU2ODIyMzg5ODE5N2YzZTlhODQ0ODg2N2ZlZGNhOTlhZGUw",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
@@ -275,18 +275,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Winning Hand",
-        "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
+        "name": "Lucky Guy!",
+        "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
       "artists": [
         {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+          "name": "Nick Moss Band",
+          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
+        },
+        {
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Sound Of A Broken Man",
-      "url": "https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT"
+      "duration_ms": 189213,
+      "name": "312 Blood",
+      "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -323,22 +327,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Lucky Guy!",
-        "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
+        "name": "Winning Hand",
+        "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
       },
       "artists": [
         {
-          "name": "Nick Moss Band",
-          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
-        },
-        {
-          "name": "Dennis Gruenling",
-          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
         }
       ],
-      "duration_ms": 189213,
-      "name": "312 Blood",
-      "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
+      "duration_ms": 291840,
+      "name": "Sound Of A Broken Man",
+      "url": "https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT"
     },
     {
       "added_at": "2023-05-17 15:52:13",

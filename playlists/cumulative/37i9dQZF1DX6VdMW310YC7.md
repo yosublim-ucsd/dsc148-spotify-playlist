@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,525 songs - 4 day 9 hr 0 min
+1,526 songs - 4 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,7 +627,7 @@
 | [I Care \- Intro](https://open.spotify.com/track/5NMa4Z4rtWqyt6VN7h2bpo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 0:33 | 2020-05-18 | 2020-07-03 |
 | [I Do](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [I Do](https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1) | 2:25 | 2023-04-28 |  |
 | [I feel alive](https://open.spotify.com/track/7qn6DBMuuU3W6MH7IqT4k5) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [In Retrospect](https://open.spotify.com/album/33mhWPOgig7dfb0P5yFDjU) | 2:15 | 2020-03-16 | 2021-01-11 |
-| [I Found You \- Prospa Remix](https://open.spotify.com/track/2LenfxaYtwKW8LwYXu8sqw) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [I Found You \(Prospa Remix\)](https://open.spotify.com/album/0jDkEfxSXzCUK9noxG2wCL) | 4:01 | 2023-09-08 |  |
+| [I Found You \- Prospa Remix](https://open.spotify.com/track/2LenfxaYtwKW8LwYXu8sqw) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [I Found You \(Prospa Remix\)](https://open.spotify.com/album/0jDkEfxSXzCUK9noxG2wCL) | 4:01 | 2023-09-08 | 2023-09-22 |
 | [I Get You](https://open.spotify.com/track/6ClgdWhFNpAGAMFAjAbor1) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Get You](https://open.spotify.com/album/6C4LwRgUfaPVnbYgDHfsEC) | 3:57 | 2020-03-17 | 2020-10-09 |
 | [I Got New Feelings](https://open.spotify.com/track/6sl6ONNu7w47hIT8KqU2Vl) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [I Got New Feelings](https://open.spotify.com/album/0muMwij4795EX2nEp8jw9V) | 3:25 | 2020-05-22 | 2020-07-03 |
 | [I Leave Again](https://open.spotify.com/track/4e9lUyz9lB7QRP9OLRpbbw) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 3:58 | 2020-11-06 | 2022-08-23 |
@@ -1106,6 +1106,7 @@
 | [Riffs of the Night](https://open.spotify.com/track/0fcC6bE1mkCSJWRlWVwkbx) | [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Riffs of the Night](https://open.spotify.com/album/6MAywkF67xHfeeJuXrWMf6) | 4:08 | 2022-09-09 | 2022-12-29 |
 | [Riffs of the Night](https://open.spotify.com/track/16Q23rwqIqNUoVsm062KGp) | [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Riffs of the Night](https://open.spotify.com/album/6Abdri62FUkqPquCfsuKZY) | 4:08 | 2022-08-19 | 2022-10-13 |
 | [Right Here, Right Now \(feat\. Taska Black\)](https://open.spotify.com/track/61Jk4NuavJPhDBvVZes5iB) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3) | [Right Here, Right Now \(feat\. Taska Black\)](https://open.spotify.com/album/5SR62UKvlHz3RaNA4GHYUS) | 3:33 | 2020-05-18 | 2020-07-18 |
+| [Right Now](https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:11 | 2023-09-15 |  |
 | [Rise Up](https://open.spotify.com/track/2sTe3y5xjQvVb9tDTVaI35) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Rise Up](https://open.spotify.com/album/71OvAYyGpaspUbSFoKw1Tn) | 3:01 | 2020-05-22 | 2020-07-03 |
 | [Riverwards Stream](https://open.spotify.com/track/4HunXDbm6cFDmsH3pFOg7h) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:07 | 2020-03-16 | 2022-01-14 |
 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 | 2020-02-29\* | 2022-09-24 |

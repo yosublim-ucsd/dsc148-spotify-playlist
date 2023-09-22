@@ -4,7 +4,7 @@
 
 > Grandes hits da música pop pra agitar sua festa com os pequenos!
 
-79 songs - 4 hr 12 min
+80 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/34QFw3Wud1eOHOVtvDkOtd) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Workout Smash](https://open.spotify.com/album/3pdVbAFT80CR3BjoGDJfI0) | 3:22 | 2020-06-24 | 2022-10-09 |
 | [My Oh My \(feat\. DaBaby\)](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 2:50 | 2020-06-24 |  |
 | [Never Seen the Rain](https://open.spotify.com/track/0JQ5MbyriK6ruD3t6RZ7ix) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming](https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j) | 3:20 | 2020-06-24 |  |
-| [Não Paro de Dançar \- Remix](https://open.spotify.com/track/0Z6eb8gpmUAPvchhcWuojg) | [Turma do Menino Sol](https://open.spotify.com/artist/6o4lRoU9vC4ZbKj8l61QK1), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [L2](https://open.spotify.com/artist/2pHxUjbrROg5plhHwgExrK) | [A Festa da Turma do Menino Sol, Vol\. 1 \(Remix\)](https://open.spotify.com/album/0KDyYa2Z25Qlr1KFDiib7K) | 2:09 | 2021-10-01 |  |
+| [Não Paro de Dançar \- Remix](https://open.spotify.com/track/0odpqQFrexdVigpBTPABwt) | [Turma do Menino Sol](https://open.spotify.com/artist/6o4lRoU9vC4ZbKj8l61QK1), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Carnaval da Turma do Menino Sol](https://open.spotify.com/album/56Y3UgB7sU2qoPsdOcr0uv) | 2:09 | 2021-10-01 |  |
+| [Não Paro de Dançar \- Remix](https://open.spotify.com/track/0Z6eb8gpmUAPvchhcWuojg) | [Turma do Menino Sol](https://open.spotify.com/artist/6o4lRoU9vC4ZbKj8l61QK1), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [L2](https://open.spotify.com/artist/2pHxUjbrROg5plhHwgExrK) | [A Festa da Turma do Menino Sol, Vol\. 1 \(Remix\)](https://open.spotify.com/album/0KDyYa2Z25Qlr1KFDiib7K) | 2:09 | 2021-10-01 | 2023-09-22 |
 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 | 2020-06-24 | 2022-07-29 |
 | [O Sol](https://open.spotify.com/track/1j5N75y26nH2l0uPa9JlKe) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adrenalizou](https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi) | 3:31 | 2020-06-24 |  |
 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 | 2020-06-24 |  |

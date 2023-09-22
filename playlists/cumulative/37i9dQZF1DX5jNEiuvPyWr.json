@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Elh Kmer",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Ashh",
   "name": "Cloud Rap",
   "tracks": [
+    {
+      "album": {
+        "name": "Amplitude Thermique",
+        "url": "https://open.spotify.com/album/6XQUfVJqDPy8wAmMmt2deZ"
+      },
+      "artists": [
+        {
+          "name": "Rookie Magazine",
+          "url": "https://open.spotify.com/artist/4qAeOrb5Lvgh2TSE4qwaRe"
+        },
+        {
+          "name": "A$tro Boi",
+          "url": "https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213160,
+      "name": "+80\u00b0",
+      "url": "https://open.spotify.com/track/3Yu1cTbimH7Xxgw6cBixGQ"
+    },
     {
       "album": {
         "name": ".BOURBIER.",
@@ -666,7 +688,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 141226,
       "name": "BLEU LAGON",
       "url": "https://open.spotify.com/track/1SNEAzB5bb3a78remdicrF"
@@ -814,7 +836,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 167280,
       "name": "B\u00c2TIMENT",
       "url": "https://open.spotify.com/track/3djwU36d3HOnRbAHXIrQSN"
@@ -1322,6 +1344,24 @@
       "duration_ms": 210000,
       "name": "Dernier Etage",
       "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
+    },
+    {
+      "album": {
+        "name": "Polaro\u00efd Memories",
+        "url": "https://open.spotify.com/album/7Lw5RVHPthW5yIHpGm5TCI"
+      },
+      "artists": [
+        {
+          "name": "Donguti",
+          "url": "https://open.spotify.com/artist/2PjvxxAh4KVmcfcUluYjcf"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155759,
+      "name": "Derniers Souvenirs",
+      "url": "https://open.spotify.com/track/1Eghaz2zR4lq3gdLeUPUAy"
     },
     {
       "album": {
@@ -4058,7 +4098,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 189649,
       "name": "Rue de la paix",
       "url": "https://open.spotify.com/track/5QMyAAzU6ZHlFhkzxklsCa"
@@ -4080,7 +4120,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 140429,
       "name": "R\u00e9el",
       "url": "https://open.spotify.com/track/5cO1EF6eCyxzK6kPMQVJ0Q"
@@ -4189,6 +4229,24 @@
     },
     {
       "album": {
+        "name": "SAISONS",
+        "url": "https://open.spotify.com/album/3LpZHVqSCmVXwEKcXXFpnU"
+      },
+      "artists": [
+        {
+          "name": "Lyre",
+          "url": "https://open.spotify.com/artist/4gerBwxP6uezCu6vlSugaf"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143876,
+      "name": "SAISONS",
+      "url": "https://open.spotify.com/track/2aLTTUSwkasORopU97TrfP"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF"
       },
@@ -4294,6 +4352,24 @@
       "duration_ms": 146573,
       "name": "Sch\u00e9mas Monotones",
       "url": "https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV"
+    },
+    {
+      "album": {
+        "name": "Semblant",
+        "url": "https://open.spotify.com/album/2lRudXz3qRULXLQz961e65"
+      },
+      "artists": [
+        {
+          "name": "Djiggy",
+          "url": "https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140148,
+      "name": "Semblant",
+      "url": "https://open.spotify.com/track/48cHrfBxVCy0x1hgNBACe4"
     },
     {
       "album": {

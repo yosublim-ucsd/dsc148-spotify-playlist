@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-119 songs - 11 hr 32 min
+120 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Gijima](https://open.spotify.com/track/4Hmn7cV99LSZvSh2nqEqRX) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [The Landlord](https://open.spotify.com/album/2OafnFHNqwbtUvIXesnSth) | 6:02 | 2021-10-21 | 2023-02-10 |
 | [HAYII](https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu) | [HAYII](https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za) | 7:39 | 2022-03-17 |  |
 | [Higher](https://open.spotify.com/track/0rmFBhKvt0KZI10t2coIYK) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [Higher](https://open.spotify.com/album/4r70J7JF6RgIDNYFUFZjBz) | 8:13 | 2021-10-14 | 2023-02-10 |
+| [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-09-21 |  |
 | [I Did It \(Bum Bum\)](https://open.spotify.com/track/0Y1DdSpkxR1YX1lOxk1V6Z) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [I Did It \(Bum Bum\)](https://open.spotify.com/album/7E1fYgJc0JPn19Rj1dOj7G) | 3:43 | 2021-10-28 | 2023-02-10 |
 | [I Did It \(Bum Bum\)](https://open.spotify.com/track/4CCBGUW3NnmrLKC661awnM) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [I Did It \(Bum Bum\)](https://open.spotify.com/album/4m6MOPc6pbMx98u5Vn36rJ) | 3:43 | 2021-10-28 | 2022-10-14 |
 | [I Did It \(Bum Bum\)](https://open.spotify.com/track/5BjWsMcUj81j4Ly58yQVP2) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [Lagos to Jozi](https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp) | 3:43 | 2021-10-28 | 2022-11-14 |

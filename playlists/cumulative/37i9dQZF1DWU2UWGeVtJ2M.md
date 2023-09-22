@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-292 songs - 16 hr 9 min
+293 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,9 +92,10 @@
 | [Eyes](https://open.spotify.com/track/4dxtD1otvF1JdycGwCK9ns) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj), [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw) | [Vivid](https://open.spotify.com/album/6xdFPvtm4YKclLHnWxFLJM) | 2:58 | 2022-06-06 | 2022-07-29 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-07-25 |  |
 | [Faith](https://open.spotify.com/track/3Eyxdb616hFs6RvXSMijws) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Faith](https://open.spotify.com/album/39F1cSVHjpRIB5cCfOR2ou) | 3:08 | 2022-06-06 | 2022-07-29 |
+| [Falling In Love](https://open.spotify.com/track/0O0bttAxJKKWqAqY2Nq4mC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:05 | 2023-09-18 |  |
 | [Falling In Love](https://open.spotify.com/track/1eoC1H5GBM9IikwdHxsdhJ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Falling In Love](https://open.spotify.com/album/4rcgLAYSMhKWeUSuJaEO9u) | 4:05 | 2022-06-06 | 2022-07-25 |
 | [Falling In Love](https://open.spotify.com/track/2x2x2U3sAv6IP7O0F9zEvc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Falling In Love](https://open.spotify.com/album/4h00nTNYLaUNRJ9wulDJ4n) | 4:05 | 2022-10-24 | 2022-11-13 |
-| [Falling In Love](https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:05 | 2022-07-25 |  |
+| [Falling In Love](https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:05 | 2022-07-25 | 2023-09-22 |
 | [Falling Over You](https://open.spotify.com/track/5r7883oy65HNZZNvmfkLhn) | [Elang Defrianto](https://open.spotify.com/artist/2GaPhI05VetWfykxH7L3oP) | [Falling Over You](https://open.spotify.com/album/7859QOupXK4fxTzRcNBNKh) | 4:04 | 2022-06-06 | 2022-07-19 |
 | [fear](https://open.spotify.com/track/1XN2yiXTdzxkbVpZIRvVKW) | [Cravism](https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf), [Maya Diegel](https://open.spotify.com/artist/3hzkGIJ8l5mkn2L7XhSCxW) | [fear](https://open.spotify.com/album/7Frn836fSlCVxUmjdAYyQW) | 2:02 | 2022-06-13 | 2022-07-28 |
 | [Feel A Way](https://open.spotify.com/track/0Nt3UdaA4KrHEUSNwq9nCI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:28 | 2022-07-25 |  |

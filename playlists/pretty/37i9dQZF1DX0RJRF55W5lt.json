@@ -1,12 +1,12 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 500161,
+  "num_followers": 500328,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yjg4OTJkZDU0MDZhYmQ5MThlODYxNzE5NTBlY2MzMzMyMDYyYWNk",
+  "snapshot_id": "MCw5MWE4NDUwMDAzMDlkYjE4YmY2YWE4ZWZlNDllOGVmNDE4Y2EwYTBj",
   "tracks": [
     {
       "added_at": "2023-08-11 10:13:10",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
+        "name": "It's the Way '99",
+        "url": "https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B"
+      },
+      "artists": [
+        {
+          "name": "Future Underground Nation",
+          "url": "https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws"
+        }
+      ],
+      "duration_ms": 303606,
+      "name": "It's the Way '99",
+      "url": "https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
         "name": "Girls Like Us",
         "url": "https://open.spotify.com/album/2Z7K9KQn69qXxXIIglNYlg"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 356487,
       "name": "Girls Like Us - Extended Mix",
       "url": "https://open.spotify.com/track/75jvPWqVp6IiFBMuaWSvGe"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
-        "name": "It's the Way '99",
-        "url": "https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B"
-      },
-      "artists": [
-        {
-          "name": "Future Underground Nation",
-          "url": "https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws"
-        }
-      ],
-      "duration_ms": 303606,
-      "name": "It's the Way '99",
-      "url": "https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7"
     },
     {
       "added_at": "2023-08-11 10:13:10",

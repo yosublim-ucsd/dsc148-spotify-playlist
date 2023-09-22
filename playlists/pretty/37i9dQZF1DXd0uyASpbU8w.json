@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=vFO09PVvRZ6RZuRt_FlJNg\">Nasty C</a>",
-  "num_followers": 69535,
+  "num_followers": 69598,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTkwOWQyMDc1ZGRhZWY4ODNhOTQ2YzNmMTk4NzA5N2JmNzlhZjNh",
+  "snapshot_id": "MCwwNjA3ZGVhNGI4YTE4MzQ1ZDNhZDgzZGFkMTE0YWNmODQxYjNhYzQ5",
   "tracks": [
     {
       "added_at": "2023-09-15 16:14:47",
@@ -76,8 +76,8 @@
           "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
         },
         {
-          "name": "King Talkzin",
-          "url": "https://open.spotify.com/artist/7DQzmJMUQdAndKhnw7oFSg"
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
         },
         {
           "name": "Mthunzi",
@@ -982,6 +982,10 @@
         {
           "name": "Tion Wayne",
           "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Kevin Ekofo",
+          "url": "https://open.spotify.com/artist/67KgDYG0tKJHMXsxZme16p"
         }
       ],
       "duration_ms": 197577,

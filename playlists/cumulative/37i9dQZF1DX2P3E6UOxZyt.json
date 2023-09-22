@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: \u674e\u4f73\u6b61 (Kaia Lee)",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: Jocelyn 9.4.0",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "tbh",
+        "url": "https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152963,
+      "name": "doin too much",
+      "url": "https://open.spotify.com/track/4vEXqi6P0BK8bGxbYjjZBg"
+    },
+    {
+      "album": {
         "name": "Room247",
         "url": "https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD"
       },
@@ -470,7 +488,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 259851,
       "name": "Doing Alright",
       "url": "https://open.spotify.com/track/1RAJfhLrvM4fE4qDvlFjhT"
@@ -946,6 +964,24 @@
       "duration_ms": 174315,
       "name": "HIGHLIGHT",
       "url": "https://open.spotify.com/track/3u1lgLimKJXIUHFtKzHBf5"
+    },
+    {
+      "album": {
+        "name": "Be a Lover",
+        "url": "https://open.spotify.com/album/5tfoS4WlDJ9iKUFma08JUq"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "HIGHLIGHT",
+      "url": "https://open.spotify.com/track/27umyRyWYx4CCiMPtlhXbG"
     },
     {
       "album": {
@@ -1543,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "MEGUANXIDEYO",
+        "url": "https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "MEGUANXIDEYO",
+      "url": "https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47"
+    },
+    {
+      "album": {
         "name": "Modern Problem",
         "url": "https://open.spotify.com/album/6nK6jXwPvD5hSH5H1aFoVv"
       },
@@ -1901,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "r u happy now?",
+        "url": "https://open.spotify.com/album/6HBnBlT0skv0BgIE4lcY16"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn 9.4.0",
+          "url": "https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "r u happy now?",
+      "url": "https://open.spotify.com/track/4G2avvdC2denJm9d244fez"
+    },
+    {
+      "album": {
         "name": "Rich",
         "url": "https://open.spotify.com/album/6lEf40SnNDQRuC2a6myp5O"
       },
@@ -1952,7 +2024,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 231397,
       "name": "Room247",
       "url": "https://open.spotify.com/track/6iFn69S297cgPduLovu9D6"
@@ -2348,7 +2420,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 186323,
       "name": "tbh",
       "url": "https://open.spotify.com/track/3sSWFKh5tbvXmywz24H8rK"
@@ -2519,6 +2591,28 @@
     },
     {
       "album": {
+        "name": "whatnot",
+        "url": "https://open.spotify.com/album/5QCbbm1puBIptPXmIHbUJJ"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+          "name": "\u6728\u6728mumu",
+          "url": "https://open.spotify.com/artist/3sobkV5cwLvbEhqEmTh7zL"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130200,
+      "name": "whatnot (ft. \u6728\u6728mumu)",
+      "url": "https://open.spotify.com/track/0eJRc05BRVvdUekEGko7oj"
+    },
+    {
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/6rossoBfDzEiVWn0EdD8DQ"
       },
@@ -2570,7 +2664,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 167933,
       "name": "X (feat. KIRE)",
       "url": "https://open.spotify.com/track/2ftvVKHtXgV1PjD46eQDjr"
@@ -2950,7 +3044,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 300110,
       "name": "\u4e0d\u9060\u8655",
       "url": "https://open.spotify.com/track/7GuLOwT5EWHUzf6xm1Paw7"
@@ -3272,7 +3366,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 196750,
       "name": "\u4f60\u8aaa\u9019\u53eb\u5929\u79e4\u5ea7\u4f46\u4f60\u559c\u6b61",
       "url": "https://open.spotify.com/track/5vYF35h9hdvYWfCL3Zb8Xj"
@@ -3526,7 +3620,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 257480,
       "name": "\u518d\u70ba\u4f60\u505a\u9ede\u4ec0\u9ebc",
       "url": "https://open.spotify.com/track/1YMhGvNA0ZN5MgJ8HsCYfa"
@@ -3714,7 +3808,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 224149,
       "name": "\u53f0\u5317\u5bb5\u591c\u6307\u5357",
       "url": "https://open.spotify.com/track/0eLiTFv7m8O6ScxJVQZyCR"
@@ -5172,7 +5266,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 214948,
       "name": "\u624d\u6ca1\u6709\u6c38\u8fdc",
       "url": "https://open.spotify.com/track/2IHjpxbh7SeoSp37pcRkxo"
@@ -5468,7 +5562,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 246132,
       "name": "\u6709\u500b\u5ff5\u982d",
       "url": "https://open.spotify.com/track/1EWoavCgg7e5DHyWHSHFLE"
@@ -5638,7 +5732,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 223368,
       "name": "\u6839\u672c\u4e0d\u662f\u6211\u5c0d\u624b",
       "url": "https://open.spotify.com/track/2K38uU4e957XLRNdO1C8NE"
@@ -6116,7 +6210,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 167322,
       "name": "\u7406\u6027\u72af\u9189",
       "url": "https://open.spotify.com/track/4ZNNx48MdTGwbnedJkogUd"
@@ -6286,7 +6380,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 214927,
       "name": "\u77e5\u9053\u4f60\u904e\u5f97\u4e0d\u592a\u597d\u6211\u5c31\u653e\u5fc3\u4e86 (feat. Teezy)",
       "url": "https://open.spotify.com/track/1XqSUfBkz9jacZOgOkwy2C"

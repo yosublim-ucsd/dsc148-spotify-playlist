@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 151667,
+  "num_followers": 151757,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjM3NmM2MWQyNDM4ZDhkYzA5ZTU0ZTBiYjVjNTU1YWVjYjk2MGM0",
+  "snapshot_id": "MCw4OWMyZmQxMTQxZWY1NTJmMjQxYzQxMDc4ODU1ODZhZGYzNGJmZjE2",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Shannon In Nashville",
-        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
-      },
-      "artists": [
-        {
-          "name": "Shannon Shaw",
-          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "Goodbye Summer",
-      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Unborn Capitalist From Limbo",
         "url": "https://open.spotify.com/album/21UK10eBA1kdKwRDON3q7H"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 248093,
       "name": "Replica",
       "url": "https://open.spotify.com/track/6oWRYpDQbgl8N6gkb5KSkR"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Shannon In Nashville",
+        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
+      },
+      "artists": [
+        {
+          "name": "Shannon Shaw",
+          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "Goodbye Summer",
+      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/6Vl1wRSlzvKUcvjaQe7ugY"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 207450,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/3t8UcMoMMif97zQ9SEAB7e"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
     },
     {
       "added_at": "2023-09-15 04:00:00",

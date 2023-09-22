@@ -6,7 +6,7 @@
     "name": "Noah",
     "url": "https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w"
   },
-  "snapshot_id": "MTE3LGE3Y2Y1YTQ4OTA5YWU5MDFkZDIzNmM1NDQwMWI3OTVlZWY2ZGRjMzc=",
+  "snapshot_id": "MTE5LDU4YTRhZjdhNTE1ZjBhMDFkZWUyY2NkZDllYzgxOTIxYzdhYjM0YmM=",
   "tracks": [
     {
       "added_at": "2023-05-12 08:34:38",
@@ -603,6 +603,38 @@
       "duration_ms": 144585,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
+    },
+    {
+      "added_at": "2023-09-21 04:01:29",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
+    },
+    {
+      "added_at": "2023-09-22 00:55:55",
+      "album": {
+        "name": "More Noise And Other Disturbances",
+        "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
     }
   ],
   "unique_name": "chumbucketgumbo",

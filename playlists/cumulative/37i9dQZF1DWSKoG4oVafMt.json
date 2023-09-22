@@ -3048,10 +3048,28 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 249600,
       "name": "Dil Lagiyan",
       "url": "https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p"
+    },
+    {
+      "album": {
+        "name": "Naveezy",
+        "url": "https://open.spotify.com/album/5s97Jucf39sW9uP10l77nT"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Dil Lagiyan",
+      "url": "https://open.spotify.com/track/2NnJof731uy6KZg2Ls6DZv"
     },
     {
       "album": {
@@ -14284,6 +14302,32 @@
       "duration_ms": 221280,
       "name": "Teri Bewafai",
       "url": "https://open.spotify.com/track/67Wsd3HufSj49oZFz1cX11"
+    },
+    {
+      "album": {
+        "name": "Teri Hoi Na Hundi (From \"Zindagi Zindabaad\")",
+        "url": "https://open.spotify.com/album/3ZAPmg4nneMGHjDpc9hLtg"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Goldboy",
+          "url": "https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo"
+        },
+        {
+          "name": "Akashdeep Sandhu",
+          "url": "https://open.spotify.com/artist/56mpW2dC9yQg8BaMRdoMdD"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301714,
+      "name": "Teri Hoi Na Hundi (From \"Zindagi Zindabaad\")",
+      "url": "https://open.spotify.com/track/27SnwZ40otkoLWiTTQvZ74"
     },
     {
       "album": {

@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "\u591c\u306b\u99c6\u3051\u308b - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/1PfkKnSqxKNZhJoFJNlHQX"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248523,
+      "name": "\u591c\u306b\u99c6\u3051\u308b - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/2qJnXUokBc5b38TAEOGnUx"
+    },
+    {
+      "album": {
         "name": "\u597d\u304d\u3060",
         "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
       },

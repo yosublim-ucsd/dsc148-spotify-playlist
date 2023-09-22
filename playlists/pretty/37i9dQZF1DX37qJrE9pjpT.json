@@ -1,15 +1,31 @@
 {
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Rosa Ree",
-  "num_followers": 1572,
+  "num_followers": 1576,
   "original_name": "Bongo Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2EyMzBjNDllMzU2Y2MwNmNiODM4NmU4YTAwODgzMjM2YmRhNTk3",
+  "snapshot_id": "MCw1NzFlZTFlMDZkOTZmNDRkZGFiZjYxMDQ5MTFlMzczOTRlOTY5MzA3",
   "tracks": [
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
+      "album": {
+        "name": "Kanairo",
+        "url": "https://open.spotify.com/album/6KGQvHlJ4Tup07FyOahrXj"
+      },
+      "artists": [
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "duration_ms": 201717,
+      "name": "Kanairo",
+      "url": "https://open.spotify.com/track/08n07M6D2ifhYH0P4hJcEm"
+    },
+    {
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/02kQonHPOxEgq2a58uExZ3"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/1CoGvdlhU6yoX27qt1572K"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Binamu",
         "url": "https://open.spotify.com/album/3sxbgedksUzpc3eI8XbV4n"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/6aRuR8PrZxjoclgk4St3Nr"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Mama Omollo",
         "url": "https://open.spotify.com/album/1k0k3zRH1JdnoUUrPTjtKo"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/6CLdAahXVBGgFVN0lnwN9b"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Putin",
         "url": "https://open.spotify.com/album/7Ieceym17LPKTFTBkPDxE2"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/7e9x1ZBopSmZE5hPdVDTbD"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "New Material",
         "url": "https://open.spotify.com/album/4HWu1KASNwCCp5FtyVotS7"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/3839CtDs1ySFB0VtgTw4Ep"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "(STRESS FREE) KHALI MAJONZI",
         "url": "https://open.spotify.com/album/3ZKfEfyyly1eiHevgWENeP"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/1NSECJ25M3bai2rT9thl2F"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Bigman Circle",
         "url": "https://open.spotify.com/album/6hAm1D6ohuFfoBNo8YoLav"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/07oekwVYSeP83rz0uKTfJS"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Sessions 5",
         "url": "https://open.spotify.com/album/09QOXEdCD8Lt3yX5P3dHQF"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/1NSGCNsfJHFKRl702IXYDK"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Rose Coco",
         "url": "https://open.spotify.com/album/6oQ6jSKmgcxuanUOjalhqC"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/7AfWc9YqcP4GnehFoSL3W1"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Khali champlin/KASUKU",
         "url": "https://open.spotify.com/album/1zyRqHQkLh9rHJkwD3wyse"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/6OoNk1BMjQ8v7urbPgLdkJ"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Sweet One",
         "url": "https://open.spotify.com/album/0P9D6NdUurORu6Gk3w0fOW"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/4ykeDeK1VqRPrwhmhlSC4R"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "ORIGHT",
         "url": "https://open.spotify.com/album/3uozcnWR0UJO4Ilg6xqEm1"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/7mGUhdodjJtyTZobpLUANt"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Noma",
         "url": "https://open.spotify.com/album/4KaXlTUAGyMRbDakGCpCnC"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/5qNGorKpUoe3ZR9EKlsZ4q"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Mtafutaji II",
         "url": "https://open.spotify.com/album/2EUdEsUS8gJM9NH2QozqHv"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/2ITkqQOODTwRzdg5lOhZ85"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "MOTHERLAND",
         "url": "https://open.spotify.com/album/16ZlMhsSJn5eJVz8xKFrdi"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/7eV8MXnMxQUM2ekPOWTtBR"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Vita Vikali",
         "url": "https://open.spotify.com/album/0HhFRrvmTOPxm28oxjvw19"
@@ -329,27 +345,7 @@
       "url": "https://open.spotify.com/track/20GFlJ8bvqn9rVMY5VbSVz"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
-      "album": {
-        "name": "Show Time (Remix)",
-        "url": "https://open.spotify.com/album/3MEYAjOsRLYIU52XT3z3uO"
-      },
-      "artists": [
-        {
-          "name": "MwanaFA",
-          "url": "https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3"
-        },
-        {
-          "name": "Suka",
-          "url": "https://open.spotify.com/artist/6Q61rk0Kdz5axpxzP5Mi0a"
-        }
-      ],
-      "duration_ms": 263726,
-      "name": "Show Time - Remix",
-      "url": "https://open.spotify.com/track/6s9K8UVvOQ47lnkzTj4xYx"
-    },
-    {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Funga Kazi",
         "url": "https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j"
@@ -369,7 +365,7 @@
       "url": "https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Kesho Njoo Dar",
         "url": "https://open.spotify.com/album/3X1Zk48cfTJrrCBp4vXYCq"
@@ -385,7 +381,27 @@
       "url": "https://open.spotify.com/track/4uIN98bcH2GA6ERDsfSn6h"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
+      "album": {
+        "name": "Show Time (Remix)",
+        "url": "https://open.spotify.com/album/3MEYAjOsRLYIU52XT3z3uO"
+      },
+      "artists": [
+        {
+          "name": "MwanaFA",
+          "url": "https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3"
+        },
+        {
+          "name": "Suka",
+          "url": "https://open.spotify.com/artist/6Q61rk0Kdz5axpxzP5Mi0a"
+        }
+      ],
+      "duration_ms": 263726,
+      "name": "Show Time - Remix",
+      "url": "https://open.spotify.com/track/6s9K8UVvOQ47lnkzTj4xYx"
+    },
+    {
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Vitu Vingi",
         "url": "https://open.spotify.com/album/09o8Ri7Y1ThTozxbeUpn6b"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/30Mrl3Y5T64ZK1usuQhhZt"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "NYANGUVA",
         "url": "https://open.spotify.com/album/4seKv6V2ceEzYfTvitpgcL"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/4vRC79cET11g2h17CC7YiW"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "UTUH",
         "url": "https://open.spotify.com/album/0wi5BSocK9MiTuA9QwM7eS"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/0KAwOdbsU8OKuGf0ka8iVx"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Future Is Now",
         "url": "https://open.spotify.com/album/5VaHyRaWNiuUBHsFuQWOSY"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/5CUGnryFUGZlgamALD3Byz"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Tu Come",
         "url": "https://open.spotify.com/album/1QAR3X1YbOlc4G6gtYtywJ"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/0jOTg1Ic8NwzqMim1tEl7R"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Juu Chini",
         "url": "https://open.spotify.com/album/6kX26uPTfzWVE8aYQtq4gh"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/4lAhzqcMuu5ukpYzTa1VVQ"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/4X2JcUXtAPqMLO1YW3OaKC"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/1XzjqXtFVheynh51nt2n6Y"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/19JiTrv2ucRckXR9gyYpws"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/29JgTNh9OT8095ohykOeC0"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Enjoy",
         "url": "https://open.spotify.com/album/5CVH1q3LmJwUkczJ6mtBd6"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/2rmTN5WQoi1qVTgEpcunGO"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Badonkadunk",
         "url": "https://open.spotify.com/album/1mrOdQAWc0IRLgkj8ohUG6"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/5QvNxyN9ro2EyaoogW8oxP"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "HUJA BALEHE",
         "url": "https://open.spotify.com/album/0viy408sbHRu92XTCfDquZ"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/0bhy8dg5uvuN3UpBqLfgpA"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Tujirushe",
         "url": "https://open.spotify.com/album/448bK2eboESGeFB3QYqkkA"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/0YQxyebbH1upzt6dxwVzPK"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "PRAISE GOD",
         "url": "https://open.spotify.com/album/3V1KNGUw3RZNo3AX1rEoLm"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/2PFhoFM8hDwXyMXVxtTZm1"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Banyamulenge",
         "url": "https://open.spotify.com/album/4kHugvl7PUhRLPqAq6oZGU"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/522dMvpymut4pfbyneraOe"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Rhythm of Love",
         "url": "https://open.spotify.com/album/2sU58myd0MkQRdg6MX9cSc"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/6JLvWeyCdrp5SY9s6nSEyG"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "My confession",
         "url": "https://open.spotify.com/album/3Ko0dCltdrkx3tEfDCzNim"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/2BGpZQQHGekYN2wvfFcxyL"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/6bVAm6VNpL3EsTjagnHNdR"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/21Jy2EJECcC8FQSKiiWmAJ"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Sio Kwa Ubaya",
         "url": "https://open.spotify.com/album/1iZQP1UhukZKFSHI0Mo2LY"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/3iu6HFPMKLWJpJqmhLzzih"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "UGLYBEAST VOL III",
         "url": "https://open.spotify.com/album/5WsySNQ6Uy09QpdEcA63SS"
@@ -737,23 +753,7 @@
       "url": "https://open.spotify.com/track/1MCRjYXjDAR0KN8M53wEZF"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
-      "album": {
-        "name": "Culture Rap Series (C.R.S) Episode I",
-        "url": "https://open.spotify.com/album/2sORkZ8eooWj1OIUXdCwab"
-      },
-      "artists": [
-        {
-          "name": "Mullah The Matrix",
-          "url": "https://open.spotify.com/artist/5cJlgowzlwV94rbRcaYxmr"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Culture Rap Series (C.R.S) Episode I",
-      "url": "https://open.spotify.com/track/0SzPFt8cZApjg8mVS5woac"
-    },
-    {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Hatuna Kesi",
         "url": "https://open.spotify.com/album/2BQXiotfASO146JznwXpYb"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/1eTNIIvyLFSuMB6kIlPhEE"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "O 2 the G Cypher",
         "url": "https://open.spotify.com/album/5UWkAkFSjlEDvMay2tBwUH"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/1ib32aj9wikMcH5paMNp9E"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Ball",
         "url": "https://open.spotify.com/album/5vpj7obLVDfrGZb5xPYFfy"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/2LowbYxM2uUKTkIplQdHaS"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/3usAd7tI0dYP7KUH9s6wsL"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/77e741vkrVhgXSbfZvQx3L"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "BLESS",
         "url": "https://open.spotify.com/album/6POU9Kc9rWz3NU4KEnAddP"
@@ -881,31 +881,7 @@
       "url": "https://open.spotify.com/track/2VuA20x246Ayzil4Ng1NZ9"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
-      "album": {
-        "name": "Masihara (Remix)",
-        "url": "https://open.spotify.com/album/78B68CTt9neYQq7Hc7T2vI"
-      },
-      "artists": [
-        {
-          "name": "Motra the Future",
-          "url": "https://open.spotify.com/artist/7kwDEyETjNtgnnqTS2aV6w"
-        },
-        {
-          "name": "Damian Soul",
-          "url": "https://open.spotify.com/artist/0itKzONcc1U3zReelqqGVE"
-        },
-        {
-          "name": "Idris Sultan",
-          "url": "https://open.spotify.com/artist/6A4QxuZPm2yadJm8DAEMBj"
-        }
-      ],
-      "duration_ms": 193536,
-      "name": "Masihara - Remix",
-      "url": "https://open.spotify.com/track/7fUBvdVv2VwG1OoSRaNgnJ"
-    },
-    {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Sheria",
         "url": "https://open.spotify.com/album/38m6hngM75WP607GjTp3k9"
@@ -925,47 +901,7 @@
       "url": "https://open.spotify.com/track/7L5iuyfHK4MWODhjCQEmby"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
-      "album": {
-        "name": "TAKE ONE (EPISODE 1, PT. 2) [Radio Edit]",
-        "url": "https://open.spotify.com/album/5H6JC4CL2W3rPd5k1FW9b3"
-      },
-      "artists": [
-        {
-          "name": "Country Wizzy",
-          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
-        },
-        {
-          "name": "tboy mill",
-          "url": "https://open.spotify.com/artist/33B36b8EakZMZymt6exgKJ"
-        },
-        {
-          "name": "Gran Geezy",
-          "url": "https://open.spotify.com/artist/6qrKDGfjAaEOGDQpd1HGYW"
-        },
-        {
-          "name": "mapanch bmb",
-          "url": "https://open.spotify.com/artist/0tII1jyAtYaFcW8s6jwRXf"
-        },
-        {
-          "name": "6ixtoogood",
-          "url": "https://open.spotify.com/artist/6CsVa1SWq4HE7VUZ6iVt0h"
-        },
-        {
-          "name": "10k degree",
-          "url": "https://open.spotify.com/artist/1a8EpOfRG4Z7lsZhTqoZzE"
-        },
-        {
-          "name": "hasheem",
-          "url": "https://open.spotify.com/artist/3PnhTnRoracEcdi4mntPDl"
-        }
-      ],
-      "duration_ms": 347598,
-      "name": "TAKE ONE (EPISODE 1, PT. 2) - Radio Edit",
-      "url": "https://open.spotify.com/track/49TWj4UjkgwzsZ2aklaf4r"
-    },
-    {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Long dayz",
         "url": "https://open.spotify.com/album/5Q0DUwjq4rO62SD35MJR8Y"
@@ -981,7 +917,7 @@
       "url": "https://open.spotify.com/track/3iSrds7rKPjoA2HP5LbzZd"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Juu",
         "url": "https://open.spotify.com/album/0DsM8PuiTltnwfV2LDh7dV"
@@ -1021,7 +957,7 @@
       "url": "https://open.spotify.com/track/30xdZTHmeJdy96L6WdI5Sq"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "Love Bite",
         "url": "https://open.spotify.com/album/2LFuHTgXhM3IQrX7BbN9uj"
@@ -1041,7 +977,7 @@
       "url": "https://open.spotify.com/track/1Yq6tM4AzDJKcUC1ziv9O8"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "TAKE ONE. (EPISODE 1) [Radio Edit]",
         "url": "https://open.spotify.com/album/1W0W5eCgAXD2JtrLlS2bnz"
@@ -1057,47 +993,7 @@
       "url": "https://open.spotify.com/track/164OfQPxYLyw6REpeCN8SF"
     },
     {
-      "added_at": "2023-09-15 11:32:04",
-      "album": {
-        "name": "Makasia",
-        "url": "https://open.spotify.com/album/0aqYnaWyJmbT2vBkUtO09c"
-      },
-      "artists": [
-        {
-          "name": "Joh Makini",
-          "url": "https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0"
-        }
-      ],
-      "duration_ms": 169263,
-      "name": "Makasia",
-      "url": "https://open.spotify.com/track/5MFbesCGzh06gWihcMf1m3"
-    },
-    {
-      "added_at": "2023-09-15 11:32:04",
-      "album": {
-        "name": "Threesome Feat. Chemical & Frida Amani",
-        "url": "https://open.spotify.com/album/6ZglJvIv5Mh9U1du5mbP16"
-      },
-      "artists": [
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        },
-        {
-          "name": "Chemical",
-          "url": "https://open.spotify.com/artist/6SrKsGuGB3I2DQG02GO4Va"
-        },
-        {
-          "name": "Frida Amani",
-          "url": "https://open.spotify.com/artist/1yXUnk7QLJfBTnLIgkwimU"
-        }
-      ],
-      "duration_ms": 200388,
-      "name": "Threesome",
-      "url": "https://open.spotify.com/track/7mzo7b3xVY0nWdQKOEIHNz"
-    },
-    {
-      "added_at": "2023-09-15 11:32:04",
+      "added_at": "2023-09-21 20:59:00",
       "album": {
         "name": "RONALDO",
         "url": "https://open.spotify.com/album/42Xy57VNRaKM9ycuz8ByCU"
@@ -1111,26 +1007,6 @@
       "duration_ms": 246000,
       "name": "RONALDO",
       "url": "https://open.spotify.com/track/5ToRj9d8fINrXGGKZOT42q"
-    },
-    {
-      "added_at": "2023-09-15 11:32:04",
-      "album": {
-        "name": "S.V",
-        "url": "https://open.spotify.com/album/3ntZ2rPZ93OhhYpc7DKULv"
-      },
-      "artists": [
-        {
-          "name": "The Holyday",
-          "url": "https://open.spotify.com/artist/221TPEmJ1UUqZB6SQrx0PC"
-        },
-        {
-          "name": "10kleeroy",
-          "url": "https://open.spotify.com/artist/2OSU31gPBXeqCgsq8K7T9k"
-        }
-      ],
-      "duration_ms": 187689,
-      "name": "Put Em",
-      "url": "https://open.spotify.com/track/6mb4OtLmnltkPkIMcyr3SB"
     }
   ],
   "unique_name": "Bongo Bars",

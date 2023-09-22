@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Grandes hits da música pop pra agitar sua festa com os pequenos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,716 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,714 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 3 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
 | 4 | [Dance Monkey](https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming](https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j) | 3:29 |
 | 5 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
-| 6 | [Não Paro de Dançar \- Remix](https://open.spotify.com/track/0Z6eb8gpmUAPvchhcWuojg) | [Turma do Menino Sol](https://open.spotify.com/artist/6o4lRoU9vC4ZbKj8l61QK1), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [L2](https://open.spotify.com/artist/2pHxUjbrROg5plhHwgExrK) | [A Festa da Turma do Menino Sol, Vol\. 1 \(Remix\)](https://open.spotify.com/album/0KDyYa2Z25Qlr1KFDiib7K) | 2:09 |
+| 6 | [Não Paro de Dançar \- Remix](https://open.spotify.com/track/0odpqQFrexdVigpBTPABwt) | [Turma do Menino Sol](https://open.spotify.com/artist/6o4lRoU9vC4ZbKj8l61QK1), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Carnaval da Turma do Menino Sol](https://open.spotify.com/album/56Y3UgB7sU2qoPsdOcr0uv) | 2:09 |
 | 7 | [Brisa](https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Brisa](https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK) | 2:31 |
 | 8 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 |
 | 9 | [Baião](https://open.spotify.com/track/50YRoMK3fWVFLZEO7lUEpB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Whindersson Nunes](https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF), [Rapadura](https://open.spotify.com/artist/4A1cX2TiUVTIaJMdWgpm4j), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baião](https://open.spotify.com/album/5plmtJTPOSJFfWS9n4m1Dz) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 59 | [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:10 |
 | 60 | [Passinho do Volante](https://open.spotify.com/track/3uMhLvDwnwYHW6J5nhPlzL) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [Os Leleks](https://open.spotify.com/artist/48QyoqQgVaSaNJKn6J8Ltb) | [Os Melhores Funks da Furacão 2000, Vol\. 1](https://open.spotify.com/album/6xqOzAEPTAmNRkX9ghYZHG) | 2:54 |
 
-Snapshot ID: `MCw5ZDc1NzExNDgyZjQyNTI0NjM5OTA1ODhiZjZmZjBkMWIxZTlhNjY4`
+Snapshot ID: `MCwzNDYyN2RmMzM2OWFiNzhjMjNkNGIwZGRlYTA0NWIwMWU2NDE0MmUw`

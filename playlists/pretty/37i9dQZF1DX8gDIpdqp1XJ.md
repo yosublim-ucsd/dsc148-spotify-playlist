@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,847 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,833 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 65 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 66 | [Mirror](https://open.spotify.com/track/4pY31Bh2ErqBXVEOaRUDxX) | [Rusty Santos](https://open.spotify.com/artist/62in8jmY3oFPiBLYlviXSw), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Mirror](https://open.spotify.com/album/21NQ1l4xUaVRBEdYc8lW9Q) | 3:53 |
 | 67 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 |
-| 68 | [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/20yvPj3wzqoV5wvdkj89lj) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love \(feat\. Sampa the Great\)](https://open.spotify.com/album/7JSj5PDFnh9x6DevquJxep) | 3:55 |
+| 68 | [Avalanche Of Love](https://open.spotify.com/track/1ypEcoMJdjba3Xh9QUIM7K) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Zango](https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f) | 3:55 |
 | 69 | [Bound To Go](https://open.spotify.com/track/4gVlon151HD43WecIZs5zR) | [Dejima](https://open.spotify.com/artist/3cvyvssZnFHsTpwwHC9dji) | [Bound To Go](https://open.spotify.com/album/7H73e9Es3zujLTexiMc6Ef) | 3:18 |
 | 70 | [Used to Saying Yes](https://open.spotify.com/track/52qnu3CAVtwKMbi9SWd6Bz) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [Used to Saying Yes](https://open.spotify.com/album/1ByeAmThZz88s69us1NK8O) | 2:44 |
 | 71 | [Best Of Me](https://open.spotify.com/track/5mIbS6VqztXovDHi0Fx9Zj) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Best Of Me](https://open.spotify.com/album/41ydQPbNKY798LnOihcmC2) | 3:22 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 90 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 |
 | 91 | [Portia](https://open.spotify.com/track/5BudjBzFyPFpHfgLkKqja1) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Portia](https://open.spotify.com/album/6L2ktalG95PWiI7BpB9YcV) | 3:20 |
 | 92 | [Rosemary Hemphill](https://open.spotify.com/track/6Euq9b3bwdvMp4W8TQIQGw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Friendship EP](https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit) | 5:11 |
-| 93 | [Waile](https://open.spotify.com/track/69V0oOacvu3NKhpuqDhkLk) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/6bB5RHwyIKq5jUzbVuS63Y) | 5:15 |
+| 93 | [Waile](https://open.spotify.com/track/7CrdlbRadEBmd16KQWt4xf) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Zango](https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f) | 5:15 |
 | 94 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 |
 | 95 | [Half Heard Melody](https://open.spotify.com/track/3hsJyYVHF4JASbbmXfh1iF) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW), [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Half Heard Melody](https://open.spotify.com/album/6WVwm3Jt13kkBIRUXTHY83) | 3:05 |
 | 96 | [Petroglyph](https://open.spotify.com/track/2bzAmBp07YEFIxoc202Ug9) | [Vinyl Williams](https://open.spotify.com/artist/7GJ7lI9jmrNOuxBEcNQHPT) | [Petroglyph](https://open.spotify.com/album/1FUdKikHCOSBLxpSlR11nO) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
 | 100 | [2 Steppin'](https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [2 Steppin'](https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h) | 2:50 |
 
-Snapshot ID: `MCxkMzBjNGI5YTAwYmI5OGViYjNiMDUwZDVlZjZhM2JlNDExNjg2ODlk`
+Snapshot ID: `MCwyYjk4Y2ZlODgwOWIxODk4NDViNDkwNWQwM2I1MTU3MzA4NDY4Y2M5`

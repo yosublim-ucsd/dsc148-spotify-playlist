@@ -2,9 +2,9 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, Hedex
+> The world's biggest Drum 'n' Bass playlist! Cover: Bru\-C, MIST
 
-470 songs - 1 day 6 hr 1 min
+471 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Desanka](https://open.spotify.com/track/0OFrRjcEobUV3U0ifwGS6I) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Desanka](https://open.spotify.com/album/4ZDrZEtq4vjpakUKlY3HQT) | 4:24 | 2022-04-08 | 2022-05-20 |
 | [DFS](https://open.spotify.com/track/3VInhDkxNqdMwjIwgUBzyW) | [Sweetpea](https://open.spotify.com/artist/62wR4mvjXztHU3tQ3Lhxgh), [Iris](https://open.spotify.com/artist/5PDWYfx3o05zDhOvruFS6N) | [Fresh Cutz EP](https://open.spotify.com/album/5l2bNS5qyD9opIePnLDcKT) | 4:30 | 2023-01-26 | 2023-04-15 |
 | [die young](https://open.spotify.com/track/0ohtsxNylBu2zu6hlopn1X) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [die young](https://open.spotify.com/album/0Syusfm1V3UKmEwK7ZB4HP) | 2:44 | 2023-06-23 |  |
+| [Differently \(Feat\. MIST\)](https://open.spotify.com/track/6E2mwRT1vHBmvd4XTmbF8h) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Differently \(Feat\. MIST\)](https://open.spotify.com/album/0nL1RvbwfO0PP5LGyoTR1s) | 2:28 | 2023-09-22 |  |
 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 | 2023-07-13 |  |
 | [Discotheque](https://open.spotify.com/track/2w49us5pBD5DfYZ9i31Q82) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Discotheque](https://open.spotify.com/album/38IFA0HMi4UoBzcic1d1iy) | 4:29 | 2022-04-08 | 2022-07-29 |
 | [Division](https://open.spotify.com/track/5nhbj6BKDgXoqnqWw8XHp4) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Division](https://open.spotify.com/album/3CwbKYkIPMaG5Hfjkjtz3H) | 3:47 | 2022-06-30 | 2023-02-11 |
@@ -388,7 +389,7 @@
 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 | 2022-07-25 | 2023-07-07 |
 | [Stan Smith](https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/52Lz9d2VVZAkVhHNWCHFIC) | 3:55 | 2022-04-08 | 2022-07-27 |
 | [Stand Tall](https://open.spotify.com/track/66dfyicjQ7N29fQHwNEjQO) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Stand Tall](https://open.spotify.com/album/5zGekDmc2YsrxNXCIL2tGU) | 3:03 | 2022-04-08 | 2022-04-21 |
-| [Stars On The Roof \(feat\. MoMo\)](https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [MoMo](https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ) | [Stars On The Roof \(feat\. MoMo\)](https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99) | 4:02 | 2023-01-26 |  |
+| [Stars On The Roof \(feat\. MoMo\)](https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [MoMo](https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ) | [Stars On The Roof \(feat\. MoMo\)](https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99) | 4:02 | 2023-01-26 | 2023-09-22 |
 | [Stay](https://open.spotify.com/track/25JAtCYGruGELrX5cokhsA) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Stay](https://open.spotify.com/album/2zFpGhJg2BIAAlhVQADs2X) | 3:48 | 2022-04-22 | 2022-07-20 |
 | [Stay Together](https://open.spotify.com/track/1XcAQppv3kmTwJwwXgHDvA) | [Rantik](https://open.spotify.com/artist/77WlkMPDmMUKuHIwzORAKG) | [Stay Together](https://open.spotify.com/album/446rS4b5Zyn26DmZQrMC3i) | 4:34 | 2022-04-08 | 2022-05-02 |
 | [Step It Up](https://open.spotify.com/track/608TATD49stSCcojEMTwmX) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Commadee](https://open.spotify.com/artist/2tXTvG8cdBDqt2lAv2tMDy) | [Step It Up / Lights](https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj) | 4:30 | 2022-05-06 | 2022-07-08 |

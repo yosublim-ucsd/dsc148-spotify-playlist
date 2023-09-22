@@ -1,12 +1,12 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 70231,
+  "num_followers": 70250,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzU4YjE4OGQxYjBmOGZjOGQ3YjVlMzA4Y2VlYjFlODIyNjk0MmQw",
+  "snapshot_id": "MCw2ZmI0OGIxYTE4NzA5MmRiOWI4N2VlZWFmZWE4NzBlM2ZkZTM2NjM0",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -263,6 +263,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn: Piano Trios Nos. 39 \"Gypsy\" & 43-45",
+        "url": "https://open.spotify.com/album/4LSxh7ez4cnOH6uFXqAH5q"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Trio Wanderer",
+          "url": "https://open.spotify.com/artist/30gSCgs3b5RPNMHVjl1RLd"
+        }
+      ],
+      "duration_ms": 356733,
+      "name": "Piano Trio No. 39 in G Major, Hob. XV: 25 'Gypsy\": I. Andante",
+      "url": "https://open.spotify.com/track/1d0mVkzYmxp822pjE2JVrM"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Symphonies Nos. 92, 93, & 97-99",
         "url": "https://open.spotify.com/album/6MW6687ZuwLgLwbOJ9U5j3"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 479681,
       "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": I. Adagio - Allegro spiritoso",
       "url": "https://open.spotify.com/track/6su8WsxgKHN7wm93zIZQ7q"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Piano Trios Nos. 39 \"Gypsy\" & 43-45",
-        "url": "https://open.spotify.com/album/4LSxh7ez4cnOH6uFXqAH5q"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Trio Wanderer",
-          "url": "https://open.spotify.com/artist/30gSCgs3b5RPNMHVjl1RLd"
-        }
-      ],
-      "duration_ms": 356733,
-      "name": "Piano Trio No. 39 in G Major, Hob. XV: 25 'Gypsy\": I. Andante",
-      "url": "https://open.spotify.com/track/1d0mVkzYmxp822pjE2JVrM"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -683,30 +683,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
-        "url": "https://open.spotify.com/album/2YyQPOkhHPjMuzVMDICetx"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "duration_ms": 502000,
-      "name": "Symphony No. 104 in D Major, Hob.I:104, \"London\": I. Adagio - Allegro",
-      "url": "https://open.spotify.com/track/6EwD2MZgCWyPEsvAZzubZh"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Grosse Orgelsolomesse - Heiligmesse",
         "url": "https://open.spotify.com/album/5KbXfDgAFnJub3fsW3ra6B"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 171840,
       "name": "Mass No. 5 in E-Flat Major, Hob.XXII:4, \"Missa in honorem BVM\", \"Missa Sancti Josephi\", \"Grosse Orgelsolomesse\": Agnus Dei",
       "url": "https://open.spotify.com/track/62rW7jeulBf0zH12HZxhhH"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
+        "url": "https://open.spotify.com/album/2YyQPOkhHPjMuzVMDICetx"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "duration_ms": 502000,
+      "name": "Symphony No. 104 in D Major, Hob.I:104, \"London\": I. Adagio - Allegro",
+      "url": "https://open.spotify.com/track/6EwD2MZgCWyPEsvAZzubZh"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn: Piano Trios, Vol. 2",
+        "url": "https://open.spotify.com/album/2l9TzOB71fcXOjJz6H4hUb"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Kungsbacka Piano Trio",
+          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Keyboard Trio No. 27 in C Major, Hob.XV:27: III. Finale: Presto",
+      "url": "https://open.spotify.com/track/7MqJwEbKHV8vnGtLqqomX5"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Symphonies, Vol. 5 (Nos. 85, 92, 103)",
         "url": "https://open.spotify.com/album/2u04gxtAnTADbzKOc1OtW4"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 554000,
       "name": "Symphony No. 103 in E-Flat Major, Hob.I:103, \"Drumroll\"*: I. Adagio - Allegro con spirito",
       "url": "https://open.spotify.com/track/5x0W4Ed2jjNJs9ztrzexft"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Piano Trios, Vol. 2",
-        "url": "https://open.spotify.com/album/2l9TzOB71fcXOjJz6H4hUb"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Kungsbacka Piano Trio",
-          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Keyboard Trio No. 27 in C Major, Hob.XV:27: III. Finale: Presto",
-      "url": "https://open.spotify.com/track/7MqJwEbKHV8vnGtLqqomX5"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphonies, Vol. 1 (Nos. 82, 96, 100)",
-        "url": "https://open.spotify.com/album/2iTnwKAhVtpmnrgPf9DZhn"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Symphony No. 82 in C Major, Hob.I:82, \"L'ours\" (The Bear): IV. Finale: Vivace",
-      "url": "https://open.spotify.com/track/4X0SxfzdVjLLdR10nGfbDS"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Cello Concertos Nos. 1 & 2 / Monn: Cello Concerto",
         "url": "https://open.spotify.com/album/6k2nvVrO4VG6D9m06uMYWH"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 884133,
       "name": "Concerto pour Violoncelle et Orchestre en R\u00e9 Majeur, Hob.VIIb:2: I. Allegro moderato",
       "url": "https://open.spotify.com/track/5XNAL6XHnU1VaswYKQ9co1"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphonies, Vol. 1 (Nos. 82, 96, 100)",
+        "url": "https://open.spotify.com/album/2iTnwKAhVtpmnrgPf9DZhn"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Symphony No. 82 in C Major, Hob.I:82, \"L'ours\" (The Bear): IV. Finale: Vivace",
+      "url": "https://open.spotify.com/track/4X0SxfzdVjLLdR10nGfbDS"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn: String Quartets Opp. 103 and 51, '7 Last Words of Jesus Christ'",
+        "url": "https://open.spotify.com/album/6Hcph74KPjOAFFFF8TrXmF"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "duration_ms": 335960,
+      "name": "Die 7 letzten Worte unseres Erlosers am Kreuze (The 7 Last Words), Op. 51, Hob.III:50-56 (version for string quartet): L'Introduzione: Maestoso ed adagio",
+      "url": "https://open.spotify.com/track/2N11i0cs6QkyjL0B4jUY1j"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
         "url": "https://open.spotify.com/album/2YyQPOkhHPjMuzVMDICetx"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 383000,
       "name": "Symphony No. 44 in E Minor, Hob.I:44, \"Trauersinfonie\" (Mourning): II. Menuet and trio",
       "url": "https://open.spotify.com/track/3QmVZNj2DGxuTP0RtXQ46X"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: String Quartets Opp. 103 and 51, '7 Last Words of Jesus Christ'",
-        "url": "https://open.spotify.com/album/6Hcph74KPjOAFFFF8TrXmF"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Kod\u00e1ly Quartet",
-          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
-        }
-      ],
-      "duration_ms": 335960,
-      "name": "Die 7 letzten Worte unseres Erlosers am Kreuze (The 7 Last Words), Op. 51, Hob.III:50-56 (version for string quartet): L'Introduzione: Maestoso ed adagio",
-      "url": "https://open.spotify.com/track/2N11i0cs6QkyjL0B4jUY1j"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn: Baryton Trios",
+        "url": "https://open.spotify.com/album/6JJrbE2YuNISkui4qayela"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Netherlands Baryton Trio",
+          "url": "https://open.spotify.com/artist/7BN0SC0N0Dy8uc10JTLvdN"
+        }
+      ],
+      "duration_ms": 322253,
+      "name": "Trio No. 97 in D Major: Adagio cantabile",
+      "url": "https://open.spotify.com/track/4rlbyLN64HPN22NfRz52uE"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Jahreszeiten (Die) (The Seasons)",
         "url": "https://open.spotify.com/album/6Kq7ehs9r1ilpoCb7Bnx8G"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 341893,
       "name": "Die Jahreszeiten (The Seasons), Hob.XXI:3: Der Fruhling (Spring): Introduction and Recitative: Seht, wie der strenge Winter (Simon, Lukas, Hanne)",
       "url": "https://open.spotify.com/track/0FsyVbITEmewSBUQF4XtAW"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Baryton Trios",
-        "url": "https://open.spotify.com/album/6JJrbE2YuNISkui4qayela"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Netherlands Baryton Trio",
-          "url": "https://open.spotify.com/artist/7BN0SC0N0Dy8uc10JTLvdN"
-        }
-      ],
-      "duration_ms": 322253,
-      "name": "Trio No. 97 in D Major: Adagio cantabile",
-      "url": "https://open.spotify.com/track/4rlbyLN64HPN22NfRz52uE"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1659,8 +1659,8 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Die Jahreszeiten",
-        "url": "https://open.spotify.com/album/6uK8xwup3BsgWavBqRCXaG"
+        "name": "Haydn: Symphony No.96 in D 'Miracle'",
+        "url": "https://open.spotify.com/album/3vxHlH78SzI9vwguuYRh7a"
       },
       "artists": [
         {
@@ -1668,33 +1668,17 @@
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
-          "name": "Christina Landshamer",
-          "url": "https://open.spotify.com/artist/6lz2Y3Hf2xHb1nyhxZV1ey"
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         },
         {
-          "name": "Maximilian Schmitt",
-          "url": "https://open.spotify.com/artist/0ut60Nu6jadX7LoThx5ZgS"
-        },
-        {
-          "name": "Florian Boesch",
-          "url": "https://open.spotify.com/artist/1h1PZir9H8Hazle5N6VROM"
-        },
-        {
-          "name": "Collegium Vocale Gent",
-          "url": "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
-        },
-        {
-          "name": "Orchestre des Champs-\u00c9lys\u00e9es",
-          "url": "https://open.spotify.com/artist/2YWNmklKbU5v9RpVsfHWbU"
-        },
-        {
-          "name": "Philippe Herreweghe",
-          "url": "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
+          "name": "Jeffrey Tate",
+          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
         }
       ],
-      "duration_ms": 297233,
-      "name": "Die Jahreszeiten, Hob. XXI:3, Der Fr\u00fchling: VIII. Freudenlied mit abwechselndem Chor der Jugend, \"Oh, wie lieblich ist der Anblick\"",
-      "url": "https://open.spotify.com/track/4JJMenkrw4wMwBTujrbjYx"
+      "duration_ms": 377640,
+      "name": "Haydn: Symphony No. 96 in D Major, Hob. I:96 \"Miracle\": II. Andante",
+      "url": "https://open.spotify.com/track/7qcCRaa1QdU5bb1DE14VZ9"
     }
   ],
   "unique_name": "This Is Haydn",

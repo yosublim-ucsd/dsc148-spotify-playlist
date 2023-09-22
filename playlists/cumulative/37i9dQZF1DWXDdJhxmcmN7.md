@@ -4,11 +4,12 @@
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-102 songs - 4 hr 10 min
+104 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22 Hrs.](https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Canciones para Escuchar Frente a la Ventana](https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy) | 2:59 | 2023-05-05 |  |
+| [98 pasos](https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx) | [Omar Juárez](https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2), [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [98 pasos](https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ) | 2:13 | 2023-09-22 |  |
 | [abduccion \(bonus andromeda\)](https://open.spotify.com/track/7lDTPjWoIT68uiiQ8v4KLS) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [abducción](https://open.spotify.com/album/5OGkfE8wPVLQYGoyAQbqtN) | 1:36 | 2023-05-05 |  |
 | [Abrázame mucho estos días](https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Abrázame mucho estos días](https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq) | 2:42 | 2023-05-05 |  |
 | [alone alone](https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO) | [Thragg](https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H) | [alone alone](https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO) | 1:30 | 2023-05-05 |  |
@@ -25,7 +26,7 @@
 | [Call me](https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC) | [Muerto A Puntapiés](https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV) | [Call me](https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI) | 1:58 | 2023-05-05 |  |
 | [Canción en Forma de Elefante](https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Canciones Para Ver Las Nubes Pasar](https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ) | 2:44 | 2023-05-05 |  |
 | [Casa de los Abuelos](https://open.spotify.com/track/3hHVWi3FI8z4XQPGjxSBAP) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Casa de los Abuelos](https://open.spotify.com/album/5CvhUUFgQ3QYxIeyIRz8fB) | 1:54 | 2023-05-05 |  |
-| [cerezo](https://open.spotify.com/track/0JWjPJHAIuVomnV1FMy2NN) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Shetafacker](https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:57 | 2023-05-05 |  |
+| [cerezo](https://open.spotify.com/track/0JWjPJHAIuVomnV1FMy2NN) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Shetafacker](https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:57 | 2023-05-05 | 2023-09-22 |
 | [Chillaquil](https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Chillaquil](https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm) | 3:00 | 2023-05-05 |  |
 | [como los niños](https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [como los niños](https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz) | 2:30 | 2023-05-05 |  |
 | [Conchitas](https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7) | [Camosmic](https://open.spotify.com/artist/4O3l4yOYCNl3qerZFlsbae) | [Conchitas](https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5) | 2:29 | 2023-05-05 |  |
@@ -56,7 +57,7 @@
 | [Just A Cool Day](https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Just A Cool Day](https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI) | 1:55 | 2023-05-05 |  |
 | [La Feria](https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Oda a la Infancia](https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz) | 1:44 | 2023-05-05 |  |
 | [La Villa](https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [La Villa](https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu) | 2:24 | 2023-07-21 |  |
-| [Llamar La Atención](https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Llamar La Atención](https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg) | 2:21 | 2023-05-05 |  |
+| [Llamar La Atención](https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Llamar La Atención](https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg) | 2:21 | 2023-05-05 | 2023-09-22 |
 | [Lluvia de Oro](https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Yunani HU](https://open.spotify.com/artist/7GPDzYt6bNbg4b0X6YsgsB) | [Lluvia de Oro](https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg) | 2:20 | 2023-05-05 |  |
 | [Lo\-Fi Bolero Perron](https://open.spotify.com/track/3n9wcyw39oHjudHYQYmsqR) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Bolero Perron](https://open.spotify.com/album/6rNYYMWZJd2f7II4Fo2juw) | 3:00 | 2023-05-05 |  |
 | [Lo\-Fi Burrito Sabanero](https://open.spotify.com/track/43vEi6kpBn2L9ebnDLq01E) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Burrito Sabanero](https://open.spotify.com/album/4MOgM80pmEgBQqqFZyuFTZ) | 2:34 | 2023-05-05 |  |
@@ -109,6 +110,7 @@
 | [Vibrando Alto En Tulum](https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:53 | 2023-05-05 |  |
 | [Viernes Azul](https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Viernes Azul](https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz) | 3:34 | 2023-05-05 |  |
 | [Viscaria Corto](https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Viscaria Corto](https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI) | 2:24 | 2023-05-05 |  |
+| [wandering](https://open.spotify.com/track/1OLk9LBviwtoDpgzdDwvt9) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [wandering](https://open.spotify.com/album/7DECPk68hAEsO2z7yQpmgl) | 2:02 | 2023-09-22 |  |
 | [Waves](https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Waves](https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4) | 2:24 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-116 songs - 8 hr 23 min
+117 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 | 2023-02-02 |  |
 | [He’S Soo Cute](https://open.spotify.com/track/4Ijq9U4ZvXuLord5plNeKR) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Sarileru Neekevvaru](https://open.spotify.com/album/6vi0HnekV5nuzXB96NOAEL) | 3:29 | 2021-10-21 | 2022-10-14 |
 | [Hoyna Hoyna \(From "Gang Leader"\)](https://open.spotify.com/track/7hADNKBDHS8MblpUzLebLf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU) | [Hoyna Hoyna \(From "Gang Leader"\)](https://open.spotify.com/album/2aHSx4B2TQtrnPYsEzSSRt) | 4:31 | 2021-10-21 | 2022-10-14 |
-| [Idhedho Bagundhe](https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG) | [Vijay Prakash, Anitha](https://open.spotify.com/artist/5mYYuZMloL3PebJsXYzAuQ) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 4:26 | 2022-10-14 |  |
+| [Idhedho Bagundhe](https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Anitha](https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 4:26 | 2022-10-14 |  |
 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 | 2022-10-13 |  |
 | [Jala Jala Jalapaatham Nuvvu](https://open.spotify.com/track/7HhiFHVmeM50rHXw7FlgNH) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Uppena](https://open.spotify.com/album/0cpn4u9Todg0wNbQFUmQVy) | 4:12 | 2021-10-21 | 2022-10-14 |
 | [Jennifer Lopez](https://open.spotify.com/track/7DogGBT86sbjsNWQSIGLtB) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Priya](https://open.spotify.com/artist/6sseiKkl0ugvHy2WH0GCTR) | [Jalsa](https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u) | 4:18 | 2022-10-13 |  |
@@ -99,7 +99,8 @@
 | [Rangamma Mangamma](https://open.spotify.com/track/4VgYfDTbkVg03pDd2kFXuP) | [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Rangasthalam](https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP) | 4:08 | 2021-10-21 | 2022-10-14 |
 | [Reppalaninda](https://open.spotify.com/track/0wS0P4poLYspU4YpCA09Gx) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [RX 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vzddHOuT5R28vKakxD0qJ) | 3:14 | 2021-10-21 | 2022-07-29 |
 | [Reppalanindaa](https://open.spotify.com/track/5fpsar83s2GDIZQBxbN3YT) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:11 | 2021-10-21 | 2022-10-14 |
-| [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 | 2022-10-13 |  |
+| [Rooba Rooba](https://open.spotify.com/track/1rJmySqUrHQP0O4l1JX8E9) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/6bCI1qj8z8YEE2WJkGMKnn) | 5:14 | 2022-10-13 |  |
+| [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 | 2022-10-13 | 2023-09-22 |
 | [Sada Nannu](https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 3:17 | 2021-10-21 | 2022-10-14 |
 | [Sada Nannu](https://open.spotify.com/track/3sDHtKDxam9Gn1urRaxBrX) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VJ6jeu9xVqQlEbhG8v52w) | 3:17 | 2021-10-21 | 2022-07-29 |
 | [Samajavaragamana](https://open.spotify.com/track/3j9DrRebdWK1jkpOw9FZUy) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3Z6fqZ8KtrWQmEfK0ZWwPp) | 3:39 | 2021-10-21 | 2022-10-14 |

@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-183 songs - 8 hr 31 min
+184 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Little Do You Know](https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Rotciv & Revilo](https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW) | [Little Do You Know](https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8) | 3:14 | 2022-09-30 | 2022-11-18 |
 | [Look at me](https://open.spotify.com/track/6RzOw3FVJ6JMM8QuTanYFo) | [Nextro](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [CULT](https://open.spotify.com/album/565ceoqtB8RUsnun39xtCa) | 2:18 | 2022-04-07 | 2022-07-29 |
 | [Look at me](https://open.spotify.com/track/7ogj6YG43RPI9nKtegKUcx) | [Nextro](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [CULT](https://open.spotify.com/album/4HKDJMpNefTy1ybgCZSNpA) | 2:18 | 2022-04-07 | 2022-08-06 |
-| [Look at Me](https://open.spotify.com/track/6ixeBeuUlZxjmBsjdsLuCv) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s), [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU) | [Look at Me](https://open.spotify.com/album/3v5y3DdwUPVdn0dWn7lVdL) | 2:19 | 2022-04-07 |  |
+| [Look at Me](https://open.spotify.com/track/4lkBJU3iKwpO0dJiBZ5wAj) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s), [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU) | [Look at Me](https://open.spotify.com/album/2QNjFtr2gEXQOmKIn5maJq) | 2:19 | 2023-02-28 |  |
+| [Look at Me](https://open.spotify.com/track/6ixeBeuUlZxjmBsjdsLuCv) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s), [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU) | [Look at Me](https://open.spotify.com/album/3v5y3DdwUPVdn0dWn7lVdL) | 2:19 | 2022-04-07 | 2023-09-22 |
 | [Looking For You](https://open.spotify.com/track/16RNr3flj8kk6Mc8DOmXjU) | [INDI](https://open.spotify.com/artist/7AcpHojwmE3bQlZYQ9UEjH), [Archelli Findz](https://open.spotify.com/artist/6eawBW6CjPiWzIFkPj3MFW) | [Looking for You](https://open.spotify.com/album/5LpjWy0EfrIEKN8gPtY4PY) | 3:15 | 2022-07-28 | 2023-01-21 |
 | [Love Nwantiti \(ah ah ah\)](https://open.spotify.com/track/13yZ5GCAdTfhIMAzzgI9VJ) | [Jaydan Wolf](https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0), [Luc Rushmere](https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p), [ASTRODIA](https://open.spotify.com/artist/3DyfxgDK0vg1vpGQtXZImO) | [Love Nwantiti \(ah ah ah\)](https://open.spotify.com/album/3QKmj83Db2QfSr0IkPUUXR) | 2:50 | 2022-04-07 | 2022-08-13 |
 | [LTE](https://open.spotify.com/track/0wwgILP45gwfpQC8AWhhsq) | [KEAN DYSSO](https://open.spotify.com/artist/74MUeXrsMncKunk1chMxg5), [Sinny](https://open.spotify.com/artist/4yFMTPSQAun7AXk06kLgHJ) | [LTE](https://open.spotify.com/album/0ZVgIvST1MViIlg6ritAlD) | 2:45 | 2022-04-07 | 2022-06-17 |

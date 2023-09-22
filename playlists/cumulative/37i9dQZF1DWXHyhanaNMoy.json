@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes! Cover: KATNUF",
+  "description": "Motion en good vibes! Cover: Noano",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 175200,
       "name": "Ban Pami",
       "url": "https://open.spotify.com/track/36T2XdhpmLFocIvJT7CafN"
@@ -2069,6 +2069,36 @@
     },
     {
       "album": {
+        "name": "Billen Los (Sleazy Stereo Remix)",
+        "url": "https://open.spotify.com/album/3oSYl9HsoKDzxJVDRYIEsp"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Issairo",
+          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
+        },
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        },
+        {
+          "name": "Sleazy Stereo",
+          "url": "https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117692,
+      "name": "Billen Los (Sleazy Stereo Remix)",
+      "url": "https://open.spotify.com/track/02dRBZlLrJ72stiEAnXaK7"
+    },
+    {
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/7jH8nFAnYrwAkeDpmdi9vA"
       },
@@ -2486,7 +2516,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 180815,
       "name": "Boulevard",
       "url": "https://open.spotify.com/track/1bcS3Nwqv3zMiT4VRqrQSY"
@@ -2654,7 +2684,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 171238,
       "name": "Bumbu",
       "url": "https://open.spotify.com/track/1OXXxrs4Q0x2Vn55tnV76E"
@@ -4803,6 +4833,24 @@
     },
     {
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/7zofIfcAejL89Vu2ITkxHf"
+      },
+      "artists": [
+        {
+          "name": "Tres Navy",
+          "url": "https://open.spotify.com/artist/1Ds6xyj1eLdmGB9mG1CT1o"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146914,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/262y8IGwj4Iez6HspjzBV7"
+    },
+    {
+      "album": {
         "name": "Fiets",
         "url": "https://open.spotify.com/album/7hqt1WB6yK6aqET4FW0yEg"
       },
@@ -4848,6 +4896,40 @@
       "duration_ms": 229897,
       "name": "Fine Girl",
       "url": "https://open.spotify.com/track/4ep4DgNUhZSmMTpq0hHet4"
+    },
+    {
+      "album": {
+        "name": "Fine Girl",
+        "url": "https://open.spotify.com/album/3z19Y2z4vtaoYGdcVyYX2e"
+      },
+      "artists": [
+        {
+          "name": "Djaga Djaga",
+          "url": "https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191141,
+      "name": "Fine Girl",
+      "url": "https://open.spotify.com/track/2Oc9pIhy8XFFbF5DhfeBKr"
     },
     {
       "album": {
@@ -8294,7 +8376,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 148000,
       "name": "Malika",
       "url": "https://open.spotify.com/track/6i5UMe6HmUHloexLDxAQQc"
@@ -9322,6 +9404,28 @@
       "duration_ms": 127477,
       "name": "Mo\u00ebt, Vodka, Henny",
       "url": "https://open.spotify.com/track/2WPrtBzxEFywU09psLTrbp"
+    },
+    {
+      "album": {
+        "name": "Mucho Dinero",
+        "url": "https://open.spotify.com/album/0dqkgqi9bj5cvbCd0muYMi"
+      },
+      "artists": [
+        {
+          "name": "Miggs De Bruijn",
+          "url": "https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx"
+        },
+        {
+          "name": "Dario Santana",
+          "url": "https://open.spotify.com/artist/0y14WanKsCSjfqVk18HoFk"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176197,
+      "name": "Mucho Dinero",
+      "url": "https://open.spotify.com/track/1C5AvHJ00GEPhoI10TbMVY"
     },
     {
       "album": {
@@ -11834,7 +11938,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 212631,
       "name": "Rowanda",
       "url": "https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r"
@@ -12881,6 +12985,24 @@
     },
     {
       "album": {
+        "name": "SUPARO",
+        "url": "https://open.spotify.com/album/7LlsOLJekHO8ArFTTZrYg4"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152178,
+      "name": "SUPARO",
+      "url": "https://open.spotify.com/track/1Di904lomBvS89EWnSpW6J"
+    },
+    {
+      "album": {
         "name": "Susanna",
         "url": "https://open.spotify.com/album/7Bh6MXz1hLkKKQLhk3jK9o"
       },
@@ -12900,6 +13022,32 @@
       "duration_ms": 183652,
       "name": "Susanna",
       "url": "https://open.spotify.com/track/4L5Wbfmbmnq1b1PyVaraas"
+    },
+    {
+      "album": {
+        "name": "Sweety Darling",
+        "url": "https://open.spotify.com/album/2NtImoM1XD9dQefEpeQx9S"
+      },
+      "artists": [
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        },
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Sweety Darling",
+      "url": "https://open.spotify.com/track/1pT2D94nmsih5N9gqoV5bJ"
     },
     {
       "album": {
@@ -14144,7 +14292,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 162857,
       "name": "Vakantie (feat. Jozo)",
       "url": "https://open.spotify.com/track/1DOd7iNoTcYp4O49nK4Eeg"
@@ -14479,6 +14627,24 @@
     },
     {
       "album": {
+        "name": "Vivre",
+        "url": "https://open.spotify.com/album/1vidalYOdSNhVb0KCyBrD0"
+      },
+      "artists": [
+        {
+          "name": "Ajay",
+          "url": "https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "Vivre",
+      "url": "https://open.spotify.com/track/6zOyidiWCN5TjtqQGPCh5R"
+    },
+    {
+      "album": {
         "name": "Vliegtuigmodus (feat. Bartofso)",
         "url": "https://open.spotify.com/album/0AvQPUtK5VITy1EbnImX0h"
       },
@@ -14776,6 +14942,24 @@
       "duration_ms": 169857,
       "name": "Watah",
       "url": "https://open.spotify.com/track/4Ytubz8Glr60LyuxheJR2f"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "album": {
@@ -15084,7 +15268,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
@@ -15146,7 +15330,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 160473,
       "name": "Wili",
       "url": "https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk"

@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-226 songs - 13 hr 17 min
+228 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Along Comes A Girl](https://open.spotify.com/track/72QxSlml6G5C1m2RLEyNuL) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [Along Comes A Girl](https://open.spotify.com/album/5QG6mzPUvkigoYv1kNKEDv) | 3:29 | 2023-03-03 |  |
 | [Altitude](https://open.spotify.com/track/6q91dRcubenCmtWe0tO6ud) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Altitude](https://open.spotify.com/album/7uV1GtfAMIfz1mROOYTgZR) | 3:47 | 2023-02-10 |  |
 | [Amazed \- 2023 Version](https://open.spotify.com/track/7jR4FTZmk8sYjBhjJP97Zt) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [No News \(2023 Version\)](https://open.spotify.com/album/1TA5XToA2y7gWRVjXZyiHr) | 4:22 | 2023-04-14 |  |
-| [Amazed \- The Frontmen Edition](https://open.spotify.com/track/67A9iiDoQcU9ppgYSUTX12) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/1MOoTjq1P3tfT5vooMNkCA) | 4:00 | 2023-06-30 |  |
+| [Amazed \- The Frontmen Edition](https://open.spotify.com/track/22gWPIZabvlWJz6ZTQUYA1) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/6gx1ygsB7Y8RD30o6QItqg) | 4:00 | 2023-09-15 |  |
+| [Amazed \- The Frontmen Edition](https://open.spotify.com/track/67A9iiDoQcU9ppgYSUTX12) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/1MOoTjq1P3tfT5vooMNkCA) | 4:00 | 2023-06-30 | 2023-09-22 |
 | [And Then Some](https://open.spotify.com/track/0nGPgNejfosCvKVEUD8Gim) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [And Then Some](https://open.spotify.com/album/4COlxVYEBIH2TVtqCbAMeF) | 3:50 | 2021-10-15 |  |
 | [Angelina](https://open.spotify.com/track/1uEx04wo96LJzR1A6nzgCi) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Angelina](https://open.spotify.com/album/6CTPTBtlV9CjZvWT9zdF3B) | 2:55 | 2022-01-07 |  |
 | [Bad Storm Coming Tonight](https://open.spotify.com/track/36GHmqYW8fBK4LYM4Hr7zY) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [Bad Storm Coming Tonight](https://open.spotify.com/album/0QghGTf6Kmjb9KuZhxk7Gt) | 2:54 | 2021-10-15 | 2022-09-21 |
@@ -128,7 +129,8 @@
 | [Kindness](https://open.spotify.com/track/1r1AqeRw3T8eYbuMTHNTYB) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Kindness](https://open.spotify.com/album/25zJec6iPEpDZfnYA0DZpO) | 3:21 | 2023-04-07 |  |
 | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/track/2ghjBzkF9XwqBt9nw1GjlO) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/album/1cx9p0adZ9GVMOsWs1UIhC) | 3:25 | 2023-06-02 |  |
 | [Lead Me Home](https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Lead Me Home](https://open.spotify.com/album/6BtcUNipS0LAGkvkpsSt6b) | 3:34 | 2021-10-15 |  |
-| [Left Their Mark](https://open.spotify.com/track/5zNj9vXUE6RDjknA2uTfFL) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/1MOoTjq1P3tfT5vooMNkCA) | 3:55 | 2023-06-30 |  |
+| [Left Their Mark](https://open.spotify.com/track/3gKV0u3ypKPmA7dic5QbGd) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/6gx1ygsB7Y8RD30o6QItqg) | 3:55 | 2023-09-15 |  |
+| [Left Their Mark](https://open.spotify.com/track/5zNj9vXUE6RDjknA2uTfFL) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/1MOoTjq1P3tfT5vooMNkCA) | 3:55 | 2023-06-30 | 2023-09-22 |
 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 | 2023-08-18 |  |
 | [Life is Beautiful](https://open.spotify.com/track/1Gh6WLiKriWRKof9E4nSRz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 3:53 | 2022-07-22 |  |
 | [Life is Beautiful](https://open.spotify.com/track/2I13ZwV1Xz1UqoemhWa7fz) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Swing Down Chariot](https://open.spotify.com/album/1ZycZB9RBLz942ouEEDJbz) | 3:53 | 2022-11-04 | 2022-11-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Vagabon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,935 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,960 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 133 | [MUST BE THE AIR](https://open.spotify.com/track/1HA3IA3NwQ3G1a2jZsykYg) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [MUST BE THE AIR](https://open.spotify.com/album/0hoo9CypYvFdF2C0dt6Gur) | 3:06 |
 | 134 | [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 |
 | 135 | [Restless Thoughts](https://open.spotify.com/track/3fJaQLBjTjl0TmXhff9TdL) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy) | [Restless Thoughts](https://open.spotify.com/album/5NYUwVB0BrNpQ35ZP3zgqk) | 2:32 |
-| 136 | [Apples](https://open.spotify.com/track/2PQMyLxoZOBip4sRmDCiNG) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature](https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF) | 7:27 |
+| 136 | [Apples](https://open.spotify.com/track/2txLr0F2mCui9DuKGaXtZX) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature \(Extended\)](https://open.spotify.com/album/308zHvDzU8ok2hzZ4szOEZ) | 7:27 |
 | 137 | [Love It Is Not Love](https://open.spotify.com/track/6Vt9VWwLberr7ByuYsTmti) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw), [The Shacks](https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR) | [Love It Is Not Love](https://open.spotify.com/album/4NhcBOfwaQODR4OY3boMSV) | 3:39 |
 | 138 | [Not The Name You Say](https://open.spotify.com/track/6NbIuGtAuS70vFB25tZ1WJ) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Not The Name You Say](https://open.spotify.com/album/4SvGelDpZqhJTcTxgDscGr) | 4:55 |
 | 139 | [So You Are Tired](https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:49 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Blue Hundreds](https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:44 |
 | 150 | [Around Around Around](https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Around Around Around](https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P) | 5:21 |
 
-Snapshot ID: `MCxlZGExZjAzZDM0ODNjNjA0ZDNmYjU4YzAzMDQ4NTdkMmJmYTY5NzBh`
+Snapshot ID: `MCxkYTg4Mjg3YTc5NGI3YjMxYTk4OTA0MzU1YTkzZmQwN2M1OTA0MjE5`

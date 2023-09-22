@@ -1,12 +1,12 @@
 {
   "description": "The ultimate line-up of Summer anthems, strap in !!!",
-  "num_followers": 36628,
+  "num_followers": 36624,
   "original_name": "Summer: The Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWE5YjJiMzNkMDMzY2NhNzYzZjhiYzcyYzlhZWNjYjU5YzU5YWRk",
+  "snapshot_id": "MCxkN2JiNGZlYzhiOGE1N2VmMDg2OWM2ZWZmZDQzZmU3M2NjMjQxOWMx",
   "tracks": [
     {
       "added_at": "2023-02-28 16:56:35",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
         "name": "Skrillex and Diplo present Jack \u00dc",
         "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
       },
@@ -567,18 +551,34 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "St. Elsewhere",
+        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
     },
     {
       "added_at": "2023-02-28 16:56:35",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "St. Elsewhere",
-        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
       "artists": [
         {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
         }
       ],
-      "duration_ms": 182066,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2023-02-28 16:56:35",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Jubel - Radio Edit",
-        "url": "https://open.spotify.com/album/5FGTcarbUXSplzZDmsAwkQ"
-      },
-      "artists": [
-        {
-          "name": "Shawkie",
-          "url": "https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy"
-        },
-        {
-          "name": "3ario",
-          "url": "https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil"
-        }
-      ],
-      "duration_ms": 148352,
-      "name": "Jubel - Radio Edit",
-      "url": "https://open.spotify.com/track/7715F9Eg9SlfYb1qdMb9en"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
         "name": "Spectrum (Say My Name) EP",
         "url": "https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 213213,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4z7gh3aIZV9arbL9jJSc5J"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "Jubel - Radio Edit",
+        "url": "https://open.spotify.com/album/5FGTcarbUXSplzZDmsAwkQ"
+      },
+      "artists": [
+        {
+          "name": "Shawkie",
+          "url": "https://open.spotify.com/artist/3ZvGfQARM0fy65J41kZqOy"
+        },
+        {
+          "name": "3ario",
+          "url": "https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil"
+        }
+      ],
+      "duration_ms": 148352,
+      "name": "Jubel - Radio Edit",
+      "url": "https://open.spotify.com/track/7715F9Eg9SlfYb1qdMb9en"
     },
     {
       "added_at": "2023-02-28 16:56:35",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
-        "name": "Do You Really Like It? (Remixes)",
-        "url": "https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV"
-      },
-      "artists": [
-        {
-          "name": "DJ Pied Piper & The Masters Of Ceremonies",
-          "url": "https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Do You Really Like It? - Radio Edit",
-      "url": "https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 312026,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/1gudTcOiMosmCC6EKEzomI"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
+        "name": "Do You Really Like It? (Remixes)",
+        "url": "https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV"
+      },
+      "artists": [
+        {
+          "name": "DJ Pied Piper & The Masters Of Ceremonies",
+          "url": "https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Do You Really Like It? - Radio Edit",
+      "url": "https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp"
     },
     {
       "added_at": "2023-02-28 16:56:35",

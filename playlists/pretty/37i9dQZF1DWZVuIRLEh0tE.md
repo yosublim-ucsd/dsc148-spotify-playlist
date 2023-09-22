@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Rochy RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,114 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,205 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quien Dijo](https://open.spotify.com/track/1GlVvjF1q1NkP1gjB6NGTy) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Quien Dijo](https://open.spotify.com/album/71APj7u0enlTCdHalW9tAa) | 2:04 |
-| 2 | [Tuky Tuky](https://open.spotify.com/track/5paSUPI37gBuTvz7H7Dty0) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tuky Tuky](https://open.spotify.com/album/0IqcOwV9JrmKJCjZ6umqia) | 2:14 |
-| 3 | [Wilan \( Prendela A Valor \)](https://open.spotify.com/track/6M829ypWCFkmOvM4u7X3kw) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [Wilan \( Prendela A Valor \)](https://open.spotify.com/album/4lUUqfJ1AiYffqRw6ewc8p) | 2:12 |
-| 4 | [Gemelo](https://open.spotify.com/track/7lRoOdRCLZfE5rbSQ9wQz0) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Gemelo](https://open.spotify.com/album/5sjmpKKRv9K5YW6KUNs8oX) | 2:12 |
-| 5 | [La Muerte](https://open.spotify.com/track/3tKbksvIxi9r2FfybRsZEu) | [King Fara](https://open.spotify.com/artist/1mVTlJBeGNJcdEZK9QOBUC) | [La Muerte](https://open.spotify.com/album/6thbeT968rFlYaZ9MigZXm) | 1:48 |
-| 6 | [NA CONMIGO?](https://open.spotify.com/track/6n1ZXoxoYUWCV649hii6Hu) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [NA CONMIGO?](https://open.spotify.com/album/3v8GkvjImN2Kw7rfEp2keg) | 2:39 |
-| 7 | [Ojala Te Meta en Para](https://open.spotify.com/track/2waUqDY3Y3IHrSwm76Lmqa) | [Momo Black RD](https://open.spotify.com/artist/0vkqeEhvtSl6f0SeTlC6vS) | [Ojala Te Meta en Para](https://open.spotify.com/album/1agZxPdGj4TTbvAc5tWsXv) | 2:09 |
-| 8 | [ADAM Y EVA](https://open.spotify.com/track/3TzYN19Z0kd2G7k0OKze4K) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN) | [ADAM Y EVA](https://open.spotify.com/album/3KrUISiB6QaPwlpWkunhig) | 2:02 |
-| 9 | [Tu charyn \- Special Version](https://open.spotify.com/track/40GXSultyco7bg2gQ6auqf) | [RUBIA DE ORO](https://open.spotify.com/artist/1Q2c7O7V72iE59JtdtIED2), [Rubirosagucci](https://open.spotify.com/artist/5zzIWrqRJ6YgN6bfvZB0jg) | [Tu charyn \(Special Version\)](https://open.spotify.com/album/7uowgDeey2MQPHtlfv7LFM) | 2:22 |
+| 2 | [Sin fotos](https://open.spotify.com/track/7rAdp3TgcTFEZnG8KgMLSv) | [Polojoa](https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt), [Sombra el de lo palo](https://open.spotify.com/artist/2dq1UXs9bXSEIrfxKvETi2) | [Sin fotos](https://open.spotify.com/album/38IImT4rCRWNXUwHRP9s39) | 2:23 |
+| 3 | [Tuky Tuky](https://open.spotify.com/track/5paSUPI37gBuTvz7H7Dty0) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tuky Tuky](https://open.spotify.com/album/0IqcOwV9JrmKJCjZ6umqia) | 2:14 |
+| 4 | [Wilan \( Prendela A Valor \)](https://open.spotify.com/track/6M829ypWCFkmOvM4u7X3kw) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [Wilan \( Prendela A Valor \)](https://open.spotify.com/album/4lUUqfJ1AiYffqRw6ewc8p) | 2:12 |
+| 5 | [Gemelo](https://open.spotify.com/track/7lRoOdRCLZfE5rbSQ9wQz0) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Gemelo](https://open.spotify.com/album/5sjmpKKRv9K5YW6KUNs8oX) | 2:12 |
+| 6 | [La Muerte](https://open.spotify.com/track/3tKbksvIxi9r2FfybRsZEu) | [King Fara](https://open.spotify.com/artist/1mVTlJBeGNJcdEZK9QOBUC) | [La Muerte](https://open.spotify.com/album/6thbeT968rFlYaZ9MigZXm) | 1:48 |
+| 7 | [NA CONMIGO?](https://open.spotify.com/track/6n1ZXoxoYUWCV649hii6Hu) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [NA CONMIGO?](https://open.spotify.com/album/3v8GkvjImN2Kw7rfEp2keg) | 2:39 |
+| 8 | [Ojala Te Meta en Para](https://open.spotify.com/track/2waUqDY3Y3IHrSwm76Lmqa) | [Momo Black RD](https://open.spotify.com/artist/0vkqeEhvtSl6f0SeTlC6vS) | [Ojala Te Meta en Para](https://open.spotify.com/album/1agZxPdGj4TTbvAc5tWsXv) | 2:09 |
+| 9 | [ADAM Y EVA](https://open.spotify.com/track/3TzYN19Z0kd2G7k0OKze4K) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN) | [ADAM Y EVA](https://open.spotify.com/album/3KrUISiB6QaPwlpWkunhig) | 2:02 |
 | 10 | [LOS POBRES Y LOS RICOS](https://open.spotify.com/track/4RZnfeTGkJT251Ib4ikAjz) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [LOS POBRES Y LOS RICOS](https://open.spotify.com/album/0og8Wv6WAlWUUJT4Ub9IIe) | 3:19 |
 | 11 | [Se Comenta](https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Se Comenta](https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ) | 2:59 |
 | 12 | [Te Estudiamos](https://open.spotify.com/track/02qjedAfRU0kjEfoCUDg6h) | [Dylan](https://open.spotify.com/artist/6MNDsKmYfRubMvFbKaIZiL), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Te Estudiamos](https://open.spotify.com/album/7yY5UUXII2ghOBsoaptppF) | 2:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 89 | [Mira el 30](https://open.spotify.com/track/0jMDFipJeGgbXP36vh4l08) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Mira el 30](https://open.spotify.com/album/6JvPGRhspJ4MqBXBIIEE6D) | 2:09 |
 | 90 | [El Anillo el Reloj](https://open.spotify.com/track/5Nj2GgTU78oXnqoZXQooDw) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/4oQk366EGQWn2nmkBrFt8X) | 2:52 |
 
-Snapshot ID: `MCwzYzdiZGU0MDRjNTA3MDdlM2I5YTdmZmNkOGRiMDU3ZjVlZjZmYWY1`
+Snapshot ID: `MCwxNmIzYTc0ZTAzODQ4YTkyZGIxNTkyY2UyYzhlZmM4ZWI2YTNjNjM3`

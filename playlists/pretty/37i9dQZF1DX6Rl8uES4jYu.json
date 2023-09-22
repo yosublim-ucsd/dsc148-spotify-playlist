@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240600,
+  "num_followers": 240601,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmNkOTVmNDMzN2NhM2Q4ZjhhNTIwNmQ3Y2I0Y2QwOGQyNWI0ODEw",
+  "snapshot_id": "MCxhYjE4NzdjZDhlYWZjZmE5N2IwMzkyYzA4ZDI1YzRhNTZhNDJkZTk2",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -22,10 +22,14 @@
         {
           "name": "Cory Wong",
           "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Vincen Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD"
         }
       ],
       "duration_ms": 251120,
-      "name": "Somebody To You (feat. Cory Wong)",
+      "name": "Somebody To You (feat. Cory Wong & Vincen Garc\u00eda)",
       "url": "https://open.spotify.com/track/0vigaWzrt5hQlfUuirda0o"
     },
     {

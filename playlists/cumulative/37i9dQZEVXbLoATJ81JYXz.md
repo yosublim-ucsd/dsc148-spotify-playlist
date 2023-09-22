@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,496 songs - 3 day 5 hr 18 min
+1,497 songs - 3 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [FE!N](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-08-01 |
 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-01-28 | 2023-03-19 |
 | [Feeling Myself](https://open.spotify.com/track/7tl3Dr9Bzee4AJRsBiK3KB) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 3:02 | 2023-03-18 | 2023-05-07 |
+| [Feeling Myself \- Roc Boyz Remix](https://open.spotify.com/track/67en3njm0MOvKPIM3lkR3V) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Feeling Myself \(Roc Boyz Remix\)](https://open.spotify.com/album/4RCbNOVT6CdMVHt2kJqsjK) | 3:02 | 2023-09-21 |  |
 | [Feelings](https://open.spotify.com/track/0whPNuKZ7Nu9oft8WmMvVf) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [Unge Med Extra Energi](https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T) | 2:40 | 2021-10-23 | 2021-10-31 |
 | [FEL NAMN](https://open.spotify.com/track/4XvEzI5L5FhmwOOYNUSWMH) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [FEL NAMN](https://open.spotify.com/album/2bn43NEqmQ9oolXiHQJdxN) | 2:06 | 2023-05-25 | 2023-05-27 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-11-27 | 2022-12-29 |
@@ -1072,7 +1073,7 @@
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2022-11-27 |
 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-23 | 2023-09-14 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-16 |
-| [RID MIG SOM EN DALAHÄST](https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [JAG VILL HA DIG HÄR HOS MIG](https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA) | 2:01 | 2022-09-03 |  |
+| [RID MIG SOM EN DALAHÄST](https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [JAG VILL HA DIG HÄR HOS MIG](https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA) | 2:01 | 2022-09-03 | 2023-09-22 |
 | [RID MIG SOM EN DALAHÄST \- \(VARGENTA Remix\)](https://open.spotify.com/track/3FxdviFf6zzNVjlUBkW47T) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo) | [RID MIG SOM EN DALAHÄST \(VARGENTA Remix\)](https://open.spotify.com/album/1aLsstyriEoQNu1JTGN4WT) | 1:49 | 2022-12-30 | 2023-01-01 |
 | [Ride With Me](https://open.spotify.com/track/75nQPmXw50GRiijZUkTW06) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [TRAPEN TILL RADION](https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k) | 1:59 | 2023-07-22 | 2023-08-05 |
 | [Ride With Me \- Spotify Singles](https://open.spotify.com/track/06A24W6n7gGi8YGneBME3M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [Ride With Me \(Spotify Singles\)](https://open.spotify.com/album/5AqVbvJXIBbzuq2FvNT0SD) | 1:59 | 2023-07-01 | 2023-07-23 |

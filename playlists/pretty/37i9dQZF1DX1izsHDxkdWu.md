@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1izsHDxkdWu.md) - [plain]
 
 > Fire up your rocket and sing\-along with Fei Fei to the Moon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,484 likes - 37 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,487 likes - 37 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1izsHDxkdWu.md) - [plain]
 | 22 | [Back Home](https://open.spotify.com/track/5wJq3NcKDBPOeAc5nYewaN) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 5:11 |
 | 23 | [‘로켓 투 더 문!’ \(넷플릭스 영화 《오버 더 문》”\)](https://open.spotify.com/track/7EEI4Y8NdFeKwt7qjZMZ0L) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [‘로켓 투 더 문!’ \(넷플릭스 영화 《오버 더 문》”\)](https://open.spotify.com/album/7dIuGY0XqUs46jOGEesx9U) | 2:13 |
 | 24 | [Viaje A La Luz](https://open.spotify.com/track/7mQbHLZzQLP1kD3cOiAlMJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Viaje A La Luz \(De "Más Allá De La Luna" Soundtrack\)](https://open.spotify.com/album/29hfMCh9vKqYakjav3UU4Y) | 2:17 |
-| 25 | [Vou Voar \(Música do filme Netflix "A Caminho da Lua"\)](https://open.spotify.com/track/4n5mYUSdtHtPDVO7nKqUVr) | [Priscilla](https://open.spotify.com/artist/2kAllRyiZRNrD6nty4j3IV) | [Vou Voar \(Música do filme Netflix "A Caminho da Lua"\)](https://open.spotify.com/album/7CDCDayiojPBSAqMNKUDJU) | 2:13 |
+| 25 | [Vou Voar \(Música do filme Netflix "A Caminho da Lua"\)](https://open.spotify.com/track/4n5mYUSdtHtPDVO7nKqUVr) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Vou Voar \(Música do filme Netflix "A Caminho da Lua"\)](https://open.spotify.com/album/7CDCDayiojPBSAqMNKUDJU) | 2:13 |
 | 26 | [Volaré \- De La Película De Netflix "Más Allá De La Luna"](https://open.spotify.com/track/5DBmcSflPbZWW3yYec9hif) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Volaré \(De La Película De Netflix "Más Allá De La Luna”\)](https://open.spotify.com/album/5x7utQZPz8aUtxlZucmVhU) | 2:13 |
 | 27 | [صاروخ للقمر \(من فيلم Netflix “فوق القمر”\)](https://open.spotify.com/track/3juMVk4WoySe8tNATFFkKU) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [صاروخ للقمر \(من فيلم Netflix “فوق القمر”\)](https://open.spotify.com/album/58Fs9zS80bNXHPx1yePZFR) | 2:13 |
 | 28 | [ロケット・トゥ・ザ・ムーン\~信じた世界へ\~ \(Netflix 映画『フェイフェイと月の冒険』より\)](https://open.spotify.com/track/1vzZJBvKSsJ0KLImDE6Pey) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ロケット・トゥ・ザ・ムーン\~信じた世界へ\~ \(Netflix 映画『フェイフェイと月の冒険』より\)](https://open.spotify.com/album/72z020EmzNNrjfovPHd7LM) | 2:13 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1izsHDxkdWu.md) - [plain]
 | 36 | [Om lidt er jeg på vej \(fra Netflix\-filmen "Til månen og tilbage"\)](https://open.spotify.com/track/0Kx1W622RVUghLvFycysqG) | [Alma Agger](https://open.spotify.com/artist/7KVgErycN4QQHQnoz9tVWH) | [Om lidt er jeg på vej \(fra Netflix\-filmen "Til månen og tilbage"\)](https://open.spotify.com/album/2pKm3H9nZolaXRWQ58ggBn) | 2:13 |
 | 37 | [Banaake Rocket Jaaun Moon \(From the Netflix Film "Chalo Chale Chanda Par"\)](https://open.spotify.com/track/5LAZetmMAA5xDELOWy0pwI) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Banaake Rocket Jaaun Moon \(From the Netflix Film "Chalo Chale Chanda Par"\)](https://open.spotify.com/album/3uazJHeGjSrsk2kdSooudG) | 2:13 |
 
-Snapshot ID: `MCwxNjdkMTBhNTE2YzMyOTA3OWIwMzdjMDk1YjM0ZDhhYTkwM2EzZjkw`
+Snapshot ID: `MCw1ZTgwZTE1ZTg5MzAwYWJkMTkwYTBlYjRmMjA5YjZlNmQxNjJlODEx`

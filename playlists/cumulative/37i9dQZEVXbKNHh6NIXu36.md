@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-1,686 songs - 3 day 12 hr 7 min
+1,687 songs - 3 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2022-01-15 |
 | [Bling Bling](https://open.spotify.com/track/3iCckMWZpbgQCsZLBjHv3t) | [twenty4tim](https://open.spotify.com/artist/0BJ10PxQXDtW07wTHuXuLu) | [Bling Bling](https://open.spotify.com/album/5aIlO7lwtpTe0MTP5oo67f) | 2:12 | 2022-04-03 | 2022-04-06 |
 | [BLOCK](https://open.spotify.com/track/68V4Nqtj7mV5KaWrX041PT) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Hell Yes](https://open.spotify.com/artist/3aIp7H1YPzCy4rvdi5Q7ez), [Joker Bra](https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM) | [BLOCK](https://open.spotify.com/album/5A1Is7HI1rw5Uvqj1CDLgv) | 2:15 | 2021-03-27 | 2021-03-29 |
+| [Block Life](https://open.spotify.com/track/6YOF2DYy6akH2SW496OKdG) | [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Block Life](https://open.spotify.com/album/6M2DWgGGy6nt4KRwsEoOiW) | 2:21 | 2023-09-21 |  |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-05 | 2023-01-25 |
 | [Blue Cheese \(feat\. KALIM\)](https://open.spotify.com/track/7BaLRoaLSmnOgmMnQzonGq) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:10 | 2022-10-01 | 2022-10-06 |
 | [Blue Racks](https://open.spotify.com/track/1tgSQ9kAFV70h0IKusRofR) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D) | [Blue Racks](https://open.spotify.com/album/0GpYt5Md6PyccfvflM3dG1) | 2:58 | 2023-07-08 | 2023-07-10 |
@@ -1470,7 +1471,7 @@
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2022-01-04 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-11-28 | 2022-12-28 |
 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2023-08-20 |  |
-| [The Feeling \- Lost Frequencies & Andromedik Deluxe Mix](https://open.spotify.com/track/3rFHJDslBgt9rHu8p22aFN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [The Feeling \(Remix Pack\)](https://open.spotify.com/album/2upRxot9PsC3mletR2gbb7) | 3:14 | 2023-08-29 |  |
+| [The Feeling \- Lost Frequencies & Andromedik Deluxe Mix](https://open.spotify.com/track/3rFHJDslBgt9rHu8p22aFN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [The Feeling \(Remix Pack\)](https://open.spotify.com/album/2upRxot9PsC3mletR2gbb7) | 3:14 | 2023-08-29 | 2023-09-22 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-13 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-12 | 2022-02-14 |
 | [The Light](https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Light](https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa) | 2:52 | 2023-03-25 | 2023-03-27 |

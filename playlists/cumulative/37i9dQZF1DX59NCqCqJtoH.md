@@ -4,7 +4,7 @@
 
 > we hear you.
 
-626 songs - 1 day 6 hr 57 min
+627 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-08-09 | 2022-08-23 |
 | [crow's nest \(feat\. Ollie\)](https://open.spotify.com/track/376RbjUwbXiUaIVFpdgsZf) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 3:42 | 2023-04-26 | 2023-06-03 |
 | [crow's nest \(feat\. Ollie\)](https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [crow's nest](https://open.spotify.com/album/2hMXOaCFcRn3ZrZAIefdKE) | 3:42 | 2023-03-23 | 2023-05-07 |
+| [Cruel](https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cruel](https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F) | 3:06 | 2023-09-15 |  |
 | [Crybaby](https://open.spotify.com/track/2bXOylRRysIa9H2OBt1TBj) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Crybaby](https://open.spotify.com/album/1P7qBeQFQthjTSOTQ1FmEy) | 3:25 | 2021-04-02 | 2022-07-12 |
 | [Crying In My Car \(with Teezo Touchdown\)](https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Crying In My Car](https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd) | 3:02 | 2023-08-18 | 2023-09-14 |
 | [curse,](https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [curse,](https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO) | 3:58 | 2022-11-22 |  |
@@ -423,7 +424,7 @@
 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2022-10-14 |  |
 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 | 2022-07-15 | 2022-10-13 |
 | [Pancakes for Dinner](https://open.spotify.com/track/6xKmHTA27EgOhWXIRppr32) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pancakes for Dinner](https://open.spotify.com/album/6inEQ77ZDYRXwSGzRUKnWt) | 3:55 | 2021-04-02 | 2022-07-29 |
-| [Paper Houses](https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:59 | 2023-04-28 |  |
+| [Paper Houses](https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Thank You For Attending](https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp) | 2:59 | 2023-04-28 | 2023-09-22 |
 | [Paradise](https://open.spotify.com/track/2v6ea8WZ0VzWXEbA3f4vrU) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [Paradise](https://open.spotify.com/album/7Jahki7bPBwHTwlzReXHcU) | 2:46 | 2021-04-02 | 2022-05-20 |
 | [party favor](https://open.spotify.com/track/3WxmlTZ85sCYFnuIXmUAEe) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:24 | 2022-05-25 | 2023-03-11 |
 | [Past Life](https://open.spotify.com/track/3JjY4IgdeK1w8qMBm0yWyw) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Past Life](https://open.spotify.com/album/1UYUdHAO3d6iA71X4sj4ak) | 3:01 | 2021-04-02 | 2022-04-20 |

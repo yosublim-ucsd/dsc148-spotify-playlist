@@ -4,7 +4,7 @@
 
 > LeeHi's here for you, Hice Creams!
 
-108 songs - 6 hr 45 min
+111 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Can You Hear My Heart \(feat\. LEE HI\)](https://open.spotify.com/track/7n5eQJYX7e6H5gkzgyEfQG) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 6](https://open.spotify.com/album/1BeWYcLEYlD2rOaa0EWdSr) | 4:08 | 2022-03-14 |  |
 | [Darling](https://open.spotify.com/track/1Yjht6lUYTjJTsdUL6J9xx) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:55 | 2022-03-14 |  |
 | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg) | 3:39 | 2022-03-14 |  |
-| [Don\`t Stop The Music](https://open.spotify.com/track/4GFWSbLd0iJEosvgqvWLxU) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 8](https://open.spotify.com/album/1RxTY8pxYuPtpBscVqHFVJ) | 2:47 | 2022-03-14 |  |
+| [Don't Stop The Music\(Rihanna\)](https://open.spotify.com/track/4F9gR58Q1isCHi9j83XddI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 8](https://open.spotify.com/album/0RFZCFWL94nxibPNzzljU8) | 2:47 | 2022-03-14 |  |
+| [Don\`t Stop The Music](https://open.spotify.com/track/4GFWSbLd0iJEosvgqvWLxU) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 8](https://open.spotify.com/album/1RxTY8pxYuPtpBscVqHFVJ) | 2:47 | 2022-03-14 | 2023-09-22 |
 | [Dream](https://open.spotify.com/track/4X8l8E63XuzSSRLAoaezlS) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 4:49 | 2022-03-14 | 2022-07-29 |
 | [Dream](https://open.spotify.com/track/1iiCrEIlzwT1yAJZtAD9qi) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 4:50 | 2022-03-14 |  |
 | [Fool For Love](https://open.spotify.com/track/66Ghfp5KCWdp8QTGBoiCjB) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 4:05 | 2022-03-14 | 2022-07-29 |
@@ -57,7 +58,8 @@
 | [It's Over](https://open.spotify.com/track/7KPEU6v0P3DoMiEIgm9BJ7) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S) | 3:54 | 2022-03-14 | 2022-07-29 |
 | [Killing Me Softly with His Song](https://open.spotify.com/track/1rsXKUmP6vYdBm8LvQKZyp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [K팝 스타 Top 2](https://open.spotify.com/album/4jpc8Az4xiJUoGN1jkafi8) | 2:58 | 2022-03-14 | 2023-08-09 |
 | [Killing Me Softly with His Song \(The Fugees\)](https://open.spotify.com/track/3S8zC6vWD9horbmBRFzwRh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 2](https://open.spotify.com/album/1gO9wDtcVpQjcGtNQLCBPi) | 2:58 | 2022-03-14 |  |
-| [Love](https://open.spotify.com/track/2A2utlXQCozSDoRsx5RR86) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 5](https://open.spotify.com/album/53EEY2RfDWp4DiA3dmfZVm) | 2:54 | 2022-03-14 |  |
+| [Love](https://open.spotify.com/track/2A2utlXQCozSDoRsx5RR86) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 5](https://open.spotify.com/album/53EEY2RfDWp4DiA3dmfZVm) | 2:54 | 2022-03-14 | 2023-09-22 |
+| [LOVE \(키샤콜\)](https://open.spotify.com/track/5qaQ3mlPQxvcgVbqhZjWnD) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 5](https://open.spotify.com/album/3bN05gPUx4Y8AYAJnjcNow) | 2:54 | 2022-03-14 |  |
 | [LOVE IS OVER](https://open.spotify.com/track/0ktVFAvj5AAZSATLv7D3zj) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 3:37 | 2022-03-14 | 2022-07-29 |
 | [LOVE IS OVER](https://open.spotify.com/track/20zFURLsIlHhe7dSx1Q9hf) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:37 | 2022-03-14 |  |
 | [Mercy](https://open.spotify.com/track/2Hiy7drHMUh9apYeYGTQ2e) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.2](https://open.spotify.com/album/5v5ajNmaFU3yILsp9AQbjd) | 4:01 | 2022-03-14 | 2023-08-09 |
@@ -110,7 +112,8 @@
 | [Yours](https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Yours](https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn) | 3:55 | 2022-03-14 |  |
 | [너를 위해](https://open.spotify.com/track/111lT3seN0Pv8o1UyVS1QZ) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No.1](https://open.spotify.com/album/46KoGLUEOyWGNl40AtJ9es) | 4:34 | 2022-03-14 | 2023-08-10 |
 | [너를 위해 \(임재범\)](https://open.spotify.com/track/6Jz9hOHzBelNmLS9VBH8e8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 SPECIAL No\. 1](https://open.spotify.com/album/0PgoKeu5BzbV1bnRNYGqT2) | 4:34 | 2022-03-14 |  |
-| [미련한 사랑](https://open.spotify.com/track/2KRm7Iq0GrO3PETShjQbVx) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 7](https://open.spotify.com/album/0PoITVGORG6ZiwsMJub0wE) | 3:37 | 2022-03-14 |  |
+| [미련한 사랑](https://open.spotify.com/track/2KRm7Iq0GrO3PETShjQbVx) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 7](https://open.spotify.com/album/0PoITVGORG6ZiwsMJub0wE) | 3:37 | 2022-03-14 | 2023-09-22 |
+| [미련한 사랑 \(드라마 ‘위기의 남자’ OST\)](https://open.spotify.com/track/79v7W7FWRlvPUya5fM96dX) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 7](https://open.spotify.com/album/1yqNF1bTa3chsSqTdvgwj6) | 3:36 | 2022-03-14 |  |
 | [시간이 흐른뒤](https://open.spotify.com/track/6rxpTJhUS1ki1Iyx56TQNx) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 4](https://open.spotify.com/album/4v99Mj19dKL74LBvNeoDPx) | 3:56 | 2022-03-14 | 2023-09-20 |
 | [시간이 흐른뒤 \(윤미래\)](https://open.spotify.com/track/1irFXcPywKkxFQSKlXspjU) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 4](https://open.spotify.com/album/384IlTelKKxsl7GhKR0fLO) | 3:56 | 2022-03-14 |  |
 | [춥다 It’s Cold](https://open.spotify.com/track/1JhztOTG8OBOrC6myRrnZs) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [99](https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO) | 4:10 | 2022-03-14 | 2022-07-29 |

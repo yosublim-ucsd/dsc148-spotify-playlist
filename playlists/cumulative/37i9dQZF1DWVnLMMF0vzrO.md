@@ -4,7 +4,7 @@
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-170 songs - 10 hr 19 min
+171 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Vuelve A Mi](https://open.spotify.com/track/0dk4fgYe8UxXHuSMh3YWRt) | [Grupo La Rebelion](https://open.spotify.com/artist/6oDajwbQvFly5ExiuvFk7F) | [Pena De Mi Vida](https://open.spotify.com/album/1UyxS32vGRVyIhUY8soOhL) | 2:50 | 2021-11-17 |  |
 | [We Believe](https://open.spotify.com/track/6LX9XZG2W6fo0hNcArSCOn) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Twitch](https://open.spotify.com/album/1CEBvP4PPZatx4SH3vTbm6) | 5:56 | 2021-11-17 |  |
 | [White Lines](https://open.spotify.com/track/3odqT6FRAUAFCeOmNFmLrb) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [White Lines](https://open.spotify.com/album/14eJGNNIs1Yqh3oEDzyvTc) | 4:29 | 2021-11-17 |  |
-| [Who're You](https://open.spotify.com/track/4tmwN5EgWlC8SSHMxzD7fo) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [London Scene](https://open.spotify.com/album/3Yy4w46NKpvjSCpFbwjnjF) | 9:30 | 2021-11-17 |  |
+| [Who're You](https://open.spotify.com/track/3kqckRQ4p8tsqgTIoseosr) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fela's London Scene](https://open.spotify.com/album/6Dm1uvm4NqYlFQh7t8D0T3) | 9:30 | 2021-11-17 |  |
+| [Who're You](https://open.spotify.com/track/4tmwN5EgWlC8SSHMxzD7fo) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [London Scene](https://open.spotify.com/album/3Yy4w46NKpvjSCpFbwjnjF) | 9:30 | 2021-11-17 | 2023-09-22 |
 | [Yo Soy El Mismo](https://open.spotify.com/track/0NeoxlYMVKDVOD5VfqT3Vl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [El Precio](https://open.spotify.com/album/4fapefWTzMlHTXpV3li4Iv) | 2:54 | 2021-11-17 |  |
 | [Yuriria De Mis Amores](https://open.spotify.com/track/0GA2aANe0ftrXW8SxXicX8) | [Gabriel Allende](https://open.spotify.com/artist/5O80lVVbsiiHc93W11QNMe) | [Palenque Musical](https://open.spotify.com/album/5nK4ZEBFieuTxY5QCyGnVU) | 3:19 | 2021-11-17 |  |
 

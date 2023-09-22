@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 319965,
+  "num_followers": 320104,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDBmODcyYWE5Y2U0NDE4ZDI0ZWNjM2ViY2JhODU3MjhlNzAzNjU2",
+  "snapshot_id": "MCwxYmJhNTAwM2ZhMjA4NGVjYjM5MDMwMWU2ZWEwMjlkYjNjYTU0Yjdj",
   "tracks": [
     {
       "added_at": "2023-09-08 11:07:56",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "1001 Arabian Nights",
-        "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        },
-        {
-          "name": "Chipz",
-          "url": "https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "1001 Arabian Nights",
-      "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 160873,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "1001 Arabian Nights",
+        "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        },
+        {
+          "name": "Chipz",
+          "url": "https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "1001 Arabian Nights",
+      "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -483,30 +483,6 @@
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek) - With Alok",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "Lady",
-        "url": "https://open.spotify.com/album/3S8f5GXk7reT5IFw6XjRBl"
-      },
-      "artists": [
-        {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-        },
-        {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-        },
-        {
-          "name": "Scott Rill",
-          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
-        }
-      ],
-      "duration_ms": 155267,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/5MZtSCAvjvCoUbJ0a9ljum"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -543,6 +519,26 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 151723,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
         "name": "Queen of Kings",
         "url": "https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic"
       },
@@ -563,26 +559,6 @@
       "duration_ms": 151415,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
-        }
-      ],
-      "duration_ms": 151723,
-      "name": "I'm Okay",
-      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -767,6 +743,30 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
+        "name": "Dance For Me (1, 2, 3)",
+        "url": "https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3"
+      },
+      "artists": [
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Dance For Me (1, 2, 3)",
+      "url": "https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
         "name": "Skippin",
         "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
       },
@@ -819,30 +819,6 @@
       "duration_ms": 162580,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "Dance For Me (1, 2, 3)",
-        "url": "https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3"
-      },
-      "artists": [
-        {
-          "name": "Lyente",
-          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
-        },
-        {
-          "name": "Quinten Circle",
-          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Dance For Me (1, 2, 3)",
-      "url": "https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -1019,26 +995,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "S\u00d8LO",
-          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Dance Again",
         "url": "https://open.spotify.com/album/6pzKYeH4CorXYDL8rOOZOC"
       },
@@ -1055,6 +1011,26 @@
       "duration_ms": 152459,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/1iObkel3ZEmeqAnOQJs5ky"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "S\u00d8LO",
+          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -1263,6 +1239,26 @@
       "duration_ms": 163209,
       "name": "Fire To Smoke",
       "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1w3ITOS9BAgJ7qADAYJMAD"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        },
+        {
+          "name": "NOVUM",
+          "url": "https://open.spotify.com/artist/5fbXkFsRWli6BMW6rUOTFv"
+        }
+      ],
+      "duration_ms": 147215,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1aG6d3qaIQUe7kc1NzRdFW"
     }
   ],
   "unique_name": "SLAP!",

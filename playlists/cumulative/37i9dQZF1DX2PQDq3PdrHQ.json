@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 178695,
       "name": "4 A.M.",
       "url": "https://open.spotify.com/track/38snXsr5gN41qyvYFlvvTX"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 177777,
       "name": "After The Breeze",
       "url": "https://open.spotify.com/track/2ClFiZN2ssViu0MnCXyRFS"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 111173,
       "name": "Barista",
       "url": "https://open.spotify.com/track/0xIroxQpcjA2z9u1dnHb7C"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 118356,
       "name": "Beyond Imagination",
       "url": "https://open.spotify.com/track/1IgC6Cz9Voo4hBo0GkTVFy"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 150600,
       "name": "c l o u d s",
       "url": "https://open.spotify.com/track/5UQmnekarryIltRWtE3rys"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 148050,
       "name": "Cold Nights",
       "url": "https://open.spotify.com/track/64tjNRFsLr1c4yJpR2C0cs"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 106666,
       "name": "Crystal Clear",
       "url": "https://open.spotify.com/track/7yqNFthdsmZD7obtzHsMNw"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 124556,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/6AmPCKcsVYNXZhTI4BFcAI"
@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 180000,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0foZgtyRfsTy3cQmcCTVKR"
@@ -2944,6 +2944,24 @@
       "duration_ms": 156008,
       "name": "Drowse",
       "url": "https://open.spotify.com/track/4pvvQqrpb935BRCQlL3YsB"
+    },
+    {
+      "album": {
+        "name": "Drowsy Delight",
+        "url": "https://open.spotify.com/album/3w8L1yP27kRt2j3ccsFnd0"
+      },
+      "artists": [
+        {
+          "name": "Young Coyotes",
+          "url": "https://open.spotify.com/artist/5OnbbH7EDelgJCRQO9BRov"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141918,
+      "name": "Drowsy Delight",
+      "url": "https://open.spotify.com/track/7BxIPN6c4yp0aM9BPGDwsq"
     },
     {
       "album": {
@@ -3418,7 +3436,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 130750,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/2ZkJGGY5OCcd3AUPZYEx1d"
@@ -3552,7 +3570,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 172968,
       "name": "Flickering Lights",
       "url": "https://open.spotify.com/track/2DR0SF7IY37qj9GJKmoIjx"
@@ -4110,7 +4128,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 113500,
       "name": "Halftime",
       "url": "https://open.spotify.com/track/2muPxjk632qTOCPhkk7nS8"
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 115277,
       "name": "I Think That\u2019s Cute",
       "url": "https://open.spotify.com/track/65jmXQMrKefk2FoLfAQNXx"
@@ -6506,7 +6524,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 140000,
       "name": "Mend",
       "url": "https://open.spotify.com/track/23b3SAVnOytveVQf3kj1YQ"
@@ -7160,7 +7178,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 110008,
       "name": "Need You Back",
       "url": "https://open.spotify.com/track/41gpFpBPwNlUZD6HhNpEiI"
@@ -7646,7 +7664,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 136119,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/2VhsHDjkdZVeqZxvIX7hN7"
@@ -8234,7 +8252,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 128250,
       "name": "Pieces of Me",
       "url": "https://open.spotify.com/track/2r6scHmDlI7SX711hMMHUN"
@@ -8470,7 +8488,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 134069,
       "name": "put me to sleep",
       "url": "https://open.spotify.com/track/5ebr815B9oXaj33OEI18hI"
@@ -9282,7 +9300,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 164571,
       "name": "Shame",
       "url": "https://open.spotify.com/track/7ibuEySoqXJBCcknENocMe"
@@ -9598,7 +9616,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 130285,
       "name": "Sleepwlking",
       "url": "https://open.spotify.com/track/2cOEL8jlMn07aZYORWGuEz"
@@ -9634,7 +9652,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 127185,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/2Cz4rYup2tiEdyGX0IWnH7"
@@ -9674,7 +9692,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 139672,
       "name": "Sleepyheads",
       "url": "https://open.spotify.com/track/368S4dcIrNUR3nkLkkkQBu"
@@ -9714,7 +9732,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 157500,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/3ggW4rNYrfFIb5hsnKockh"
@@ -10018,6 +10036,24 @@
       "duration_ms": 108000,
       "name": "Soothing Sense",
       "url": "https://open.spotify.com/track/4NRrzS3heq2vqVq4cxi81o"
+    },
+    {
+      "album": {
+        "name": "Soul of Serenity",
+        "url": "https://open.spotify.com/album/2RHRLJNULTY4nrxWdoleeT"
+      },
+      "artists": [
+        {
+          "name": "Fya Playce",
+          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Soul of Serenity",
+      "url": "https://open.spotify.com/track/4baez3KIhzdnOIhyS4TNeG"
     },
     {
       "album": {
@@ -10448,7 +10484,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 163076,
       "name": "Sunday Left Overs",
       "url": "https://open.spotify.com/track/3beZyLCDeTAXa1mrBrPiBI"
@@ -10488,7 +10524,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 116661,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/1O4om87dwOEUqzlqhloyVS"
@@ -10698,7 +10734,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 150000,
       "name": "the alchemist",
       "url": "https://open.spotify.com/track/2dnifhGswoIEtv0lRgWkk2"
@@ -11018,7 +11054,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 98472,
       "name": "Thinking of you",
       "url": "https://open.spotify.com/track/7o5dVuBnQyNJpp2RLOw9aO"
@@ -11076,7 +11112,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 127058,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/6n8UguD1WiIW5HqMo9CvFT"
@@ -11514,6 +11550,24 @@
       "duration_ms": 114422,
       "name": "Under The Tree",
       "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
+    },
+    {
+      "album": {
+        "name": "under water",
+        "url": "https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi"
+      },
+      "artists": [
+        {
+          "name": "bax iv",
+          "url": "https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126160,
+      "name": "under water",
+      "url": "https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1"
     },
     {
       "album": {

@@ -986,6 +986,24 @@
     {
       "album": {
         "name": "the sideline",
+        "url": "https://open.spotify.com/album/6V0Ossl8Is6h2QBPLXRKfY"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "the sideline",
+      "url": "https://open.spotify.com/track/1KqtqSDSN2TCmXS4kP32bw"
+    },
+    {
+      "album": {
+        "name": "the sideline",
         "url": "https://open.spotify.com/album/2GFlkUBkZUZNLGpWLUUXx1"
       },
       "artists": [

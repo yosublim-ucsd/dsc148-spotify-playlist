@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 167162,
       "name": "All That She Wants - Helion Remix",
       "url": "https://open.spotify.com/track/747OPJC1PujokY0T3rAajk"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 170096,
       "name": "Heartbreak Repair System",
       "url": "https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm"
@@ -2035,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Neon Bliss",
+        "url": "https://open.spotify.com/album/6hKsXj3CZ8YuyJfGd3oNuh"
+      },
+      "artists": [
+        {
+          "name": "KARVA",
+          "url": "https://open.spotify.com/artist/01IuZ5qGBbM7vc6IglCSLM"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324663,
+      "name": "Neon Bliss",
+      "url": "https://open.spotify.com/track/6p7Xa2jRoOgcV5g0ZVuR4g"
+    },
+    {
+      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI"
       },
@@ -2674,6 +2692,24 @@
       "duration_ms": 151425,
       "name": "Spicey - Original",
       "url": "https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd"
+    },
+    {
+      "album": {
+        "name": "Stereoscopic",
+        "url": "https://open.spotify.com/album/6Z5OBUXv1C51O9aVVU5tM4"
+      },
+      "artists": [
+        {
+          "name": "BEC",
+          "url": "https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276493,
+      "name": "Stereoscopic",
+      "url": "https://open.spotify.com/track/1tjc7RaBVpOBJLjkbjSBS0"
     },
     {
       "album": {

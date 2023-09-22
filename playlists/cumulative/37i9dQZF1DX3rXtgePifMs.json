@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A STRANGER",
+        "url": "https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167391,
+      "name": "A STRANGER",
+      "url": "https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I"
+    },
+    {
+      "album": {
         "name": "Absolutely Tidy",
         "url": "https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl"
       },
@@ -654,6 +672,24 @@
       "duration_ms": 245454,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
+    },
+    {
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208747,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
     },
     {
       "album": {

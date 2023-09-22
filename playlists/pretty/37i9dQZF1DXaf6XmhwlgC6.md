@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,503 likes - 195 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,575 likes - 195 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 24 | [Emerald City](https://open.spotify.com/track/4hmVaRzWIGFALX6cFveZ0f) | [Kirabuo](https://open.spotify.com/artist/56ncV7I51jTZIqwrCWsOu0) | [Emerald City](https://open.spotify.com/album/3rRLNWhtlisf1F5jKLs5n2) | 2:06 |
 | 25 | [Clandestine](https://open.spotify.com/track/5sGxDzINFxlLXnj6zpDsQZ) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Clandestine](https://open.spotify.com/album/4SArWhZxLUXZ1bGxoPfz4k) | 2:20 |
 | 26 | [The Way](https://open.spotify.com/track/0p0skXFLMR13GNiroa5cWQ) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [The Way](https://open.spotify.com/album/3tI5c6YGOY8VFLgaD89kI5) | 2:20 |
-| 27 | [january](https://open.spotify.com/track/6BOeml7q5gSmPIyZDsvE2O) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [august](https://open.spotify.com/album/12Jt3pSDTYVgpB2eMJNZU9) | 5:05 |
+| 27 | [january](https://open.spotify.com/track/1V330yFk890DT0TDtqLPpk) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [september](https://open.spotify.com/album/4hs7MG8Rp5K2ofZCEQPuLl) | 5:05 |
 | 28 | [High Windows](https://open.spotify.com/track/7dIO4IrjIlLhKsnj4o5nCn) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [High Windows](https://open.spotify.com/album/0UbucpkXmpzONj8JWSA6Zj) | 2:37 |
 | 29 | [Life Balance](https://open.spotify.com/track/5Fy3qUli32XAqwvMibwibE) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Start Somewhere](https://open.spotify.com/album/45Qh4kJ9fSnjo6awLgYew8) | 3:20 |
 | 30 | [Ocean Waves](https://open.spotify.com/track/0r2KqEOqDSn1bKZSZEVZsq) | [Ezeiu](https://open.spotify.com/artist/0Ip9Wm5iefxEQ8GNzx0rri) | [Ocean Waves](https://open.spotify.com/album/07IhREwpLxDAuxkUIhSk1Y) | 2:06 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 194 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 |
 | 195 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 |
 
-Snapshot ID: `MCxhYzZjNmQ2OGNjYTQxMDhiNDMxMTMwYzEyYjFmYTIzYjBmYmFhZTdm`
+Snapshot ID: `MCxjZDZiMjM5MDY4MTQ2ODMwYzFlY2ExYTRlNjc1OWQ0MzQ4MDkyNzlh`

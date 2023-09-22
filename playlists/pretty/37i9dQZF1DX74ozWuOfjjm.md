@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: Jem Cassar\-Daley
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,990 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,991 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 63 | [Heartbreak Baby](https://open.spotify.com/track/6EfhY8vZYt027wQkz6dTaS) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/0JgrsEfBVs4xoD6O5YVaQR) | 3:37 |
 | 64 | [Honey](https://open.spotify.com/track/0dCEJOvkHsIJMeLseG4LpK) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Endless Summer](https://open.spotify.com/album/2jN32X41GKugOYRTrJmMj2) | 2:58 |
 | 65 | [Till You’re Ready](https://open.spotify.com/track/6uhOg5d86Bvr5KQ3Tj6eo1) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Till You’re Ready](https://open.spotify.com/album/77stMVoaQ9h2oIkHFbFXNU) | 2:56 |
-| 66 | [On the Rocks](https://open.spotify.com/track/3BfGE5n0uyYr2tv2upKuUF) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [On the Rocks](https://open.spotify.com/album/0QlPy2vcgaSJkhvbrY0VAk) | 2:50 |
+| 66 | [On the Rocks](https://open.spotify.com/track/68qevxiwR8ypuZz05Pes9h) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Crowd Pleaser](https://open.spotify.com/album/60vWUnWhnEsAyJfcEp8C1u) | 2:50 |
 | 67 | [Monopoly](https://open.spotify.com/track/127bEznW7acmYrAHqsT2yF) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Monopoly](https://open.spotify.com/album/4x6R4qgvQl6CMAXj4gzMKv) | 3:38 |
 | 68 | [Lately](https://open.spotify.com/track/6cvcx5Np2lSiry7l3Mqcvj) | [Monnie](https://open.spotify.com/artist/15zF5LyP92uIG0bUk8rzOA) | [Lately](https://open.spotify.com/album/1cIsJuxtR0VUUzcSawPv5s) | 2:44 |
 | 69 | [Night Drive](https://open.spotify.com/track/5s7oLHFgcsaYY1aM4eTDqh) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling](https://open.spotify.com/album/4lpupHh13ucR6AOhtf9ZN8) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Mermaid Avenue](https://open.spotify.com/track/72qBzteCINzfZGqOCkD4sA) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Mermaid Avenue](https://open.spotify.com/album/6mdXgYc7y2rHgMEvk0oU0t) | 3:08 |
 | 100 | [See Through](https://open.spotify.com/track/0ZtMzghkupL55g6ToThFwZ) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [See Through](https://open.spotify.com/album/707D7zGBRDXtVVBwwWY24T) | 3:14 |
 
-Snapshot ID: `MCwzNWVhNTJhOTkyNGY0Zjk5ZTQ1ZTk4Mjc1ZjU5NWE1ZGU5ODkxOGVk`
+Snapshot ID: `MCwzZGFjZWMzYzBkN2M0OTViODZkZDA2YWQ4Yzk4N2M0N2EyODM4Yzhi`

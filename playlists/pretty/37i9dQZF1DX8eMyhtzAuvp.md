@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > Easy on the ears for when forest greens pass your eyes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,886 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,266 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 49 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 |
 | 50 | [Jesus, Etc\. \- 2022 Remaster](https://open.spotify.com/track/5JuYLzlxsSewBjO4v9a04U) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot \(2022 Remaster\)](https://open.spotify.com/album/6PanEvuo9ZNvGT39v50xp6) | 3:51 |
 
-Snapshot ID: `MCxkNmRkY2E4NzhiNTk1ZWZjODc4YzQ4MjViNzM0ZjQ2ZWVjNjg5MzFh`
+Snapshot ID: `MCxkNDUzMTAwOGRhNGYzMjdkZjQzOTMzMmU4YmM5YmI5ODgwNjg5ZTY5`

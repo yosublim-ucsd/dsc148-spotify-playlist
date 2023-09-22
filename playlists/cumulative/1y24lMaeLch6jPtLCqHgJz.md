@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-218 songs - 11 hr 18 min
+219 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Find A Way](https://open.spotify.com/track/7zM4RlICmXyA7TyEPigVZq) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Neyra](https://open.spotify.com/artist/2kUa88shQOFvgtjsNN0GWg), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Find A Way](https://open.spotify.com/album/7a3JWPQfnxDKkDYVn7oSJ1) | 3:08 | 2022-07-29 | 2023-09-02 |
 | [Flame](https://open.spotify.com/track/5K3dTaVxbZUOzJwFJhbj2A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Flame](https://open.spotify.com/album/7GJsQ9W5MqX0as7C8xgs4G) | 2:51 | 2022-07-29 | 2022-08-20 |
 | [Flight](https://open.spotify.com/track/67keGyFWWzCELxtVSBi1em) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Flight](https://open.spotify.com/album/1sLPzmdbfT9UvHuOvBe9yE) | 2:30 | 2023-08-24 |  |
+| [Fly Apart](https://open.spotify.com/track/6RXPW7XKoR4SqSogstTzsY) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS), [Sam Noton](https://open.spotify.com/artist/1Ma2cokH15saLZiU2eKrdj) | [Fly Apart](https://open.spotify.com/album/6Wba9nMjwQqkSCDsCcpDb2) | 2:47 | 2023-09-21 |  |
 | [Forever](https://open.spotify.com/track/2ZuyWj6ageq2TqvHdx5WFm) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Forever \(feat\. Crooked Bangs\)](https://open.spotify.com/album/12GplONMUz7ZXOumsh2FWc) | 2:23 | 2023-02-06 | 2023-07-29 |
 | [Glorious](https://open.spotify.com/track/6DdkUAGaMcisWOsA4J4cUi) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Skylights](https://open.spotify.com/artist/0VPaO0vsoT2SrBFGTkvZOd), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Glorious](https://open.spotify.com/album/3DUSZj2NTr3M0J6DhTyjLw) | 2:51 | 2023-08-11 |  |
 | [Heartbeat](https://open.spotify.com/track/39TcT0lUnag46B6eukkLlM) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Heartbeat](https://open.spotify.com/album/1aWLROPBF29zW8hahI43J0) | 2:59 | 2023-07-20 | 2023-08-05 |

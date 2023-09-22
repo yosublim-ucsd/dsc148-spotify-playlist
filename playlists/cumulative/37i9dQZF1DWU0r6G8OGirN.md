@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-87 songs - 4 hr 41 min
+89 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Christmas Time Is Here](https://open.spotify.com/track/7aEjsTKJKspp01vkeVgeRr) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 6:03 | 2022-09-15 |  |
 | [Christmas Time Is Here \- Instrumental](https://open.spotify.com/track/2ztql3V1VjjItFjgElEdNw) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Christmas](https://open.spotify.com/album/0y3izjwJZz8J7elmHC4okC) | 6:06 | 2022-11-09 | 2022-11-13 |
 | [Christmas Time Is Here \- Instrumental](https://open.spotify.com/track/4DphT1rljbJjbK9WdrR1zI) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 6:06 | 2021-12-21 | 2022-09-18 |
-| [Christmas Waltz](https://open.spotify.com/track/0myOinmRDkfWlHnG2wIFzh) | [Rob McConnell Trio](https://open.spotify.com/artist/53mwOK94FGkKKUBUq9jGTx) | [A Concord Jazz Christmas](https://open.spotify.com/album/3cR6XhgcN0mAP5bGVF9ghX) | 4:32 | 2021-12-21 |  |
+| [Christmas Waltz](https://open.spotify.com/track/0myOinmRDkfWlHnG2wIFzh) | [Rob McConnell Trio](https://open.spotify.com/artist/53mwOK94FGkKKUBUq9jGTx) | [A Concord Jazz Christmas](https://open.spotify.com/album/3cR6XhgcN0mAP5bGVF9ghX) | 4:32 | 2021-12-21 | 2023-09-22 |
 | [Deck the Halls](https://open.spotify.com/track/2HVU1szAZjST5179APX1ck) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [Jingle Bells](https://open.spotify.com/album/7wSW8TOkMzrSiAD6Wulblw) | 1:43 | 2021-12-21 | 2023-09-01 |
 | [Ding Dong Merrily on High](https://open.spotify.com/track/0ETXxrPmqmWNuxpuHRqWfb) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Ding Dong Merrily on High](https://open.spotify.com/album/4B6xLARC7he8mOqBA0yjKu) | 2:22 | 2022-10-07 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/6i78EhlNpCODok4KjHKLrf) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Frosty The Snowman](https://open.spotify.com/album/1I9rcVH3yBxsNGUHb8X5Wk) | 2:02 | 2022-10-06 |  |
@@ -79,11 +79,13 @@
 | [The Christmas Song](https://open.spotify.com/track/0GV5Du6sVdokEA5Xd1Cs8a) | [Barry Snyder Band](https://open.spotify.com/artist/5xmw30TV4tlHFIOH6HmPnd) | [It's Christmas Jazz Time](https://open.spotify.com/album/5JR94Jt73E9NuIAWksIoKR) | 5:12 | 2022-10-25 |  |
 | [The Christmas Song](https://open.spotify.com/track/0QxOpxLx8FEVOYDtnLbS3U) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [The Christmas Song](https://open.spotify.com/album/4tAD85fBWxNxfI1VjoermN) | 3:26 | 2021-12-21 | 2022-10-26 |
 | [The Christmas Waltz](https://open.spotify.com/track/7o2tVlkdxa178FviUjEfG8) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Jeff Steinberg Orchestra](https://open.spotify.com/artist/3rw5T4cOHin6M1Jaf912oJ) | [Christmas By Candlelight](https://open.spotify.com/album/3tSZBHIEPQo1nOrniwqadI) | 3:29 | 2021-12-21 | 2022-10-21 |
+| [The Christmas Waltz](https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [The Christmas Waltz](https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX) | 1:40 | 2023-09-22 |  |
 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 | 2021-12-21 |  |
 | [The Holly and the Ivy](https://open.spotify.com/track/0F8ZbcUtitZnH2b9E2azZa) | [Daisy Luckett](https://open.spotify.com/artist/2tVudUZYXpEdgAK3TDPYoH) | [The Holly and the Ivy](https://open.spotify.com/album/0RFl5bt4ejJMnGGZR21BWe) | 3:37 | 2021-12-21 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/4rJLWRjJvtMlXatjjzaEAr) | [Rudy Snow](https://open.spotify.com/artist/3bBZZ3bsQwZ6DmUH51cabg) | [Feliz Navidad](https://open.spotify.com/album/0OYWQmZW2kvyBeQ5ANypyK) | 2:38 | 2022-10-20 |  |
 | [The Night Before Christmas](https://open.spotify.com/track/3qYP1z6cSQuTUosdMURZtw) | [Katy Healy](https://open.spotify.com/artist/4FSVptHzrQg8goD1Evmdgo) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/3jkYXSoDo3mH23yZaTVy6W) | 2:52 | 2021-12-21 |  |
 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 | 2021-12-21 |  |
+| [The Winter Song](https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Christmas Kiss](https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc) | 2:31 | 2023-09-22 |  |
 | [Three Kings](https://open.spotify.com/track/2KwzZRHYlsFzGDk1yhMs7Q) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Three Kings](https://open.spotify.com/album/197S7gs5VS1KvDx5aHoau5) | 2:59 | 2021-12-21 |  |
 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 | 2022-10-13 |  |
 | [Toyland](https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Happy Christmas](https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq) | 3:53 | 2022-10-20 |  |

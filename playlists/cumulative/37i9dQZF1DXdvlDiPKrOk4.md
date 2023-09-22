@@ -4,7 +4,7 @@
 
 > Celebrate the legend Lata Mangeshkar with her evergreen songs \(1929 \- ∞\)
 
-52 songs - 4 hr 32 min
+53 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Sayonara Sayonara](https://open.spotify.com/track/01b0TeyxTgDphNYCAme6ka) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Love in Tokyo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3u2FxL3onJAawtVsRrimd9) | 4:13 | 2023-02-12 |  |
 | [Solah Baras Ki Bali Umar](https://open.spotify.com/track/2GFgbfvag81n24wKtGihXM) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Anup Jalota](https://open.spotify.com/artist/3kzGeGPP5gd5KAMm6QggHV) | [Ek Duuje Ke Liye \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/64zvuGkf1bauJb97BJaalB) | 6:13 | 2023-02-12 |  |
 | [Sun Sahiba Sun](https://open.spotify.com/track/1pn0wX6ko9xwhfp3IaEc8z) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Ram Teri Ganga Maili \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ASt0wBEpXn3pTmg79hcHA) | 5:14 | 2023-02-12 |  |
-| [Tere Bina Zindagi Se \(From "Aandhi"\)](https://open.spotify.com/track/0GeRudbh3e3WY3yws8dO3Y) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:54 | 2023-02-12 |  |
+| [Tere Bina Zindagi Se](https://open.spotify.com/track/4Pn8JyAoXFJPC4rAymNo5A) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Mangeshkar Songs Geet](https://open.spotify.com/album/0LirbqjR3GTYYn6fhFa1ML) | 5:54 | 2023-09-11 |  |
+| [Tere Bina Zindagi Se \(From "Aandhi"\)](https://open.spotify.com/track/0GeRudbh3e3WY3yws8dO3Y) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:54 | 2023-02-12 | 2023-09-22 |
 | [Tere Liye](https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 5:31 | 2023-02-12 |  |
 | [Tere Mere Milan Ki Yeh Raina \(From "Abhimaan"\)](https://open.spotify.com/track/4oUJpT44uR4ShMHqp4J0OR) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:54 | 2023-02-12 |  |
 | [Tu Mere Samne](https://open.spotify.com/track/08XzRV4mGjGwbpvYw68xBk) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7xGWECEsvj4iI3CajtZ1GH) | 6:06 | 2023-02-12 |  |

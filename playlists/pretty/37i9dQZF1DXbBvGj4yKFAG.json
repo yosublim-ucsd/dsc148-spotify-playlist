@@ -1,12 +1,12 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 60581,
+  "num_followers": 60739,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzQzYWM0NmE1ZjFmYjcyM2RkNzFlMDRmOTE2YjMxNDZlZTg3ZDI4",
+  "snapshot_id": "MCwxYmIwZTQ3NWJhNzU1ODFkMzc3MWY5MjdmZjI3ZjI5YjNlMDRjZjQy",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -303,6 +303,22 @@
       "duration_ms": 117500,
       "name": "U",
       "url": "https://open.spotify.com/track/1fckVDRsaql38b9GfMjZ6x"
+    },
+    {
+      "added_at": "2023-09-21 19:23:33",
+      "album": {
+        "name": "skin",
+        "url": "https://open.spotify.com/album/29iYKOWHrTz5kAMWT8ick9"
+      },
+      "artists": [
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "duration_ms": 200431,
+      "name": "skin",
+      "url": "https://open.spotify.com/track/4D15H9FTw5zG1dMMBfQD1e"
     },
     {
       "added_at": "2023-06-30 04:00:00",

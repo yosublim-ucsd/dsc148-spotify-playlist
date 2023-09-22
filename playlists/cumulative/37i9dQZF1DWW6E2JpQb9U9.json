@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 365108,
       "name": "Alas de la ma\u00f1ana - En Vivo",
       "url": "https://open.spotify.com/track/7lWx5K7p3H3uytmaVRil0K"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 250538,
       "name": "Ay, Qu\u00e9 Dios Boludo",
       "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 255960,
       "name": "Colgado de la luna - En vivo El Sol 2, abril 1998",
       "url": "https://open.spotify.com/track/4gPtmKoWB6X7vXxLn3Dhcf"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 236680,
       "name": "Desde Lejos No Se Ve - En Vivo",
       "url": "https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 617491,
       "name": "Dorado y P\u00farpura - En Vivo",
       "url": "https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 325173,
       "name": "El Juicio del Ganso - En Vivo",
       "url": "https://open.spotify.com/track/2jCcXjx7lVhRXaYns1obr2"
@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 286528,
       "name": "Fuego - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 201293,
       "name": "Me Puedo Programar (En Vivo",
       "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
@@ -3282,7 +3282,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 311014,
       "name": "Ni Mierda - Vivo En Obras",
       "url": "https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 200136,
       "name": "Ojos Rojos - En vivo",
       "url": "https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19"
@@ -3618,6 +3618,24 @@
       "duration_ms": 245072,
       "name": "Para las Almas Sensibles - En Vivo",
       "url": "https://open.spotify.com/track/53rOvzrY1XciuQh0mPQLMU"
+    },
+    {
+      "album": {
+        "name": "XV A\u00f1os - En Vivo Estadio Obras",
+        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377832,
+      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
     },
     {
       "album": {
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 331453,
       "name": "Sacrificio y Rock and Roll",
       "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"

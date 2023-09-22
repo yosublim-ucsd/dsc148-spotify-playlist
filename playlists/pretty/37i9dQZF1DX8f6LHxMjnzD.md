@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: SZA & Justin Bieber
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,956 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,981 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [It's Crazy It's Party \(feat\. Tommy Cash\)](https://open.spotify.com/track/1FtibWDIm2kxf7zOlUcXvx) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [It's Crazy It's Party \(feat\. Tommy Cash\)](https://open.spotify.com/album/0YFNkhRzugyL2Td9loECCh) | 3:14 |
 | 40 | [Kids Like Us \(feat\. LUCiD & FRiENDS\)](https://open.spotify.com/track/0szlNPWHPDaYETju2ggsGD) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [LUCiD & FRiENDS](https://open.spotify.com/artist/1DOZXNWQmP6XdipwyjTR6w) | [Kids Like Us \(feat\. LUCiD & FRiENDS\)](https://open.spotify.com/album/79zntMeHqCeDRFCckdwyin) | 3:16 |
 
-Snapshot ID: `MCw1MDBlZmJkODE1ZTAzODE3ZDcwYTJhMGQ1MTU3NzNhNTBiNzQ0YzU0`
+Snapshot ID: `MCw4NzAwYzFhMTZiMTRlN2ZhZmRkN2RlZjA3MGY0YWM5ODg3Y2FmMTM2`

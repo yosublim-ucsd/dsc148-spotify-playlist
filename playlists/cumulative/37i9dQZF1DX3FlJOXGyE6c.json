@@ -75,28 +75,6 @@
     },
     {
       "album": {
-        "name": "Touken Ranbu:The Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
-        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
-      },
-      "artists": [
-        {
-          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
-          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
-        }
-      ],
-      "date_added": "2022-07-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 308680,
-      "name": "Be Cool!! song by Urashima Kotetsu\u30fbHyuuga Masamune",
-      "url": "https://open.spotify.com/track/3ZRB9tzOiR8Jnd0tSe8ETd"
-    },
-    {
-      "album": {
         "name": "Free Style",
         "url": "https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE"
       },
@@ -138,6 +116,28 @@
       "duration_ms": 308693,
       "name": "Be Cool!! song by \u6d66\u5cf6\u864e\u5fb9\u30fb\u65e5\u5411\u6b63\u5b97",
       "url": "https://open.spotify.com/track/1EokE5BYBt2nGjwGLWNS6j"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308680,
+      "name": "Be Cool!!\u3000song by Urashima Kotetsu\u30fbHyuuga Masamune",
+      "url": "https://open.spotify.com/track/3ZRB9tzOiR8Jnd0tSe8ETd"
     },
     {
       "album": {
@@ -417,7 +417,7 @@
     },
     {
       "album": {
-        "name": "\u30df\u30e5\u30fc\u30b7\u3099\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504~ (\u901a\u5e38\u76e4)",
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
         "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
       },
       "artists": [
@@ -635,7 +635,7 @@
     },
     {
       "album": {
-        "name": "Touken Ranbu:The Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
         "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
       },
       "artists": [
@@ -871,28 +871,6 @@
     },
     {
       "album": {
-        "name": "Touken Ranbu:The Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
-        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
-      },
-      "artists": [
-        {
-          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
-          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
-        }
-      ],
-      "date_added": "2022-07-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 264573,
-      "name": "In My Groove song by Tsurumaru Kuninaga",
-      "url": "https://open.spotify.com/track/7KFv73QXKE2HOcQCE9sqoG"
-    },
-    {
-      "album": {
         "name": "Free Style",
         "url": "https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE"
       },
@@ -937,6 +915,28 @@
     },
     {
       "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264573,
+      "name": "In My Groove\u3000song by Tsurumaru Kuninaga",
+      "url": "https://open.spotify.com/track/7KFv73QXKE2HOcQCE9sqoG"
+    },
+    {
+      "album": {
         "name": "\u52dd\u5229\u306e\u51f1\u6b4c (Type C)",
         "url": "https://open.spotify.com/album/1GuLV990xSg70hJVxa7prf"
       },
@@ -955,7 +955,7 @@
     },
     {
       "album": {
-        "name": "\u30df\u30e5\u30fc\u30b7\u3099\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504~ (\u901a\u5e38\u76e4)",
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
         "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
       },
       "artists": [
@@ -1479,7 +1479,7 @@
     },
     {
       "album": {
-        "name": "\u30df\u30e5\u30fc\u30b7\u3099\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504~ (\u901a\u5e38\u76e4)",
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
         "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
       },
       "artists": [
@@ -1593,7 +1593,7 @@
     },
     {
       "album": {
-        "name": "Touken Ranbu:The Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
         "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
       },
       "artists": [
@@ -1641,7 +1641,7 @@
     },
     {
       "album": {
-        "name": "\u30df\u30e5\u30fc\u30b7\u3099\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504~ (\u901a\u5e38\u76e4)",
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
         "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
       },
       "artists": [
@@ -1711,28 +1711,6 @@
     },
     {
       "album": {
-        "name": "Touken Ranbu:The Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE \u301cShunpu Touri no Sakazuki\u301c (Tsujoban)",
-        "url": "https://open.spotify.com/album/4Z9ebLw7LTUHZX2ccj73Jp"
-      },
-      "artists": [
-        {
-          "name": "\u5200\u5263\u7537\u58eb \u9db4\u4e38\u56fd\u6c38 \u5927\u5036\u5229\u4f3d\u7f85",
-          "url": "https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
-        }
-      ],
-      "date_added": "2023-07-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229720,
-      "name": "REASON song by Ookurikara",
-      "url": "https://open.spotify.com/track/4Xh4oCGr4ye4f2TUBg40pv"
-    },
-    {
-      "album": {
         "name": "Touken Ranbu:The Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE \u301cShunpu Touri no Sakazuki\u301c",
         "url": "https://open.spotify.com/album/1CYmZ9TBrvwX7gUtZf5iwc"
       },
@@ -1752,6 +1730,28 @@
       "duration_ms": 229720,
       "name": "REASON song by Ookurikara",
       "url": "https://open.spotify.com/track/7AbDSnOk65e3wiXbEHEdux"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE \u301cShunpu Touri no Sakazuki\u301c (Tsujoban)",
+        "url": "https://open.spotify.com/album/4Z9ebLw7LTUHZX2ccj73Jp"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u9db4\u4e38\u56fd\u6c38 \u5927\u5036\u5229\u4f3d\u7f85",
+          "url": "https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "REASON\u3000song by Ookurikara",
+      "url": "https://open.spotify.com/track/4Xh4oCGr4ye4f2TUBg40pv"
     },
     {
       "album": {
@@ -2101,28 +2101,6 @@
     },
     {
       "album": {
-        "name": "Touken Ranbu:The Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
-        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
-      },
-      "artists": [
-        {
-          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
-          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
-        }
-      ],
-      "date_added": "2022-07-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248680,
-      "name": "Supernova song by Matsuigou",
-      "url": "https://open.spotify.com/track/0sOfc5BMWCWRx9FE0WW68l"
-    },
-    {
-      "album": {
         "name": "Free Style",
         "url": "https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE"
       },
@@ -2164,6 +2142,28 @@
       "duration_ms": 249066,
       "name": "Supernova song by \u677e\u4e95\u6c5f",
       "url": "https://open.spotify.com/track/00zCNF7QI81NUN1sAmEzTH"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248680,
+      "name": "Supernova\u3000song by Matsuigou",
+      "url": "https://open.spotify.com/track/0sOfc5BMWCWRx9FE0WW68l"
     },
     {
       "album": {
@@ -2391,28 +2391,6 @@
     },
     {
       "album": {
-        "name": "Touken Ranbu:The Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
-        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
-      },
-      "artists": [
-        {
-          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
-          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
-        }
-      ],
-      "date_added": "2022-07-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199066,
-      "name": "Yellow Sac Spider song by Ookurikara\u30fbBuzengou",
-      "url": "https://open.spotify.com/track/3k224h3gmbCOc32CnaWBi5"
-    },
-    {
-      "album": {
         "name": "Free Style",
         "url": "https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE"
       },
@@ -2454,6 +2432,28 @@
       "duration_ms": 199693,
       "name": "Yellow Sac Spider song by \u5927\u5036\u5229\u4f3d\u7f85\u30fb\u8c4a\u524d\u6c5f",
       "url": "https://open.spotify.com/track/4UYO6FBrspx76RfO49BgOD"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Yellow Sac Spider\u3000song by Ookurikara\u30fbBuzengou",
+      "url": "https://open.spotify.com/track/3k224h3gmbCOc32CnaWBi5"
     },
     {
       "album": {
@@ -2501,7 +2501,7 @@
     },
     {
       "album": {
-        "name": "Touken Ranbu:The Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
         "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
       },
       "artists": [
@@ -2520,28 +2520,6 @@
       "duration_ms": 232186,
       "name": "YUKARI",
       "url": "https://open.spotify.com/track/4diJhuOfSnpjCwUuooN9Fc"
-    },
-    {
-      "album": {
-        "name": "Touken Ranbu:The Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE \u301cShunpu Touri no Sakazuki\u301c (Tsujoban)",
-        "url": "https://open.spotify.com/album/4Z9ebLw7LTUHZX2ccj73Jp"
-      },
-      "artists": [
-        {
-          "name": "\u5200\u5263\u7537\u58eb \u9db4\u4e38\u56fd\u6c38 \u5927\u5036\u5229\u4f3d\u7f85",
-          "url": "https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg"
-        },
-        {
-          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
-          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
-        }
-      ],
-      "date_added": "2023-07-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196226,
-      "name": "Zanzou song by Tsurumaru Kuninaga",
-      "url": "https://open.spotify.com/track/5eitqCfIugK63QNXzMIEC0"
     },
     {
       "album": {
@@ -2564,6 +2542,28 @@
       "duration_ms": 196226,
       "name": "Zanzou song by Tsurumaru Kuninaga",
       "url": "https://open.spotify.com/track/7Lbs8crXdkBoikjFGZGkKH"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE \u301cShunpu Touri no Sakazuki\u301c (Tsujoban)",
+        "url": "https://open.spotify.com/album/4Z9ebLw7LTUHZX2ccj73Jp"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u9db4\u4e38\u56fd\u6c38 \u5927\u5036\u5229\u4f3d\u7f85",
+          "url": "https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196226,
+      "name": "Zanzou\u3000song by Tsurumaru Kuninaga",
+      "url": "https://open.spotify.com/track/5eitqCfIugK63QNXzMIEC0"
     },
     {
       "album": {
@@ -3003,7 +3003,7 @@
     },
     {
       "album": {
-        "name": "\u30df\u30e5\u30fc\u30b7\u3099\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504~ (\u901a\u5e38\u76e4)",
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
         "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
       },
       "artists": [

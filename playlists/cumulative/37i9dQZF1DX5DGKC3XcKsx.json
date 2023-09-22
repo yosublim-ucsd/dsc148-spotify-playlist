@@ -134,6 +134,24 @@
     {
       "album": {
         "name": "Again",
+        "url": "https://open.spotify.com/album/0YOOQAfU4UHY6bmXcKHLZY"
+      },
+      "artists": [
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124927,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5UTMfpKkwp1yJz39j24ezV"
+    },
+    {
+      "album": {
+        "name": "Again",
         "url": "https://open.spotify.com/album/1w15Pfpc6NrfY0ciKz7pxo"
       },
       "artists": [
@@ -144,7 +162,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 125538,
       "name": "Again",
       "url": "https://open.spotify.com/track/4whT7h05caeS8PycSBRI2P"

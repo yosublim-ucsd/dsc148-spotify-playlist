@@ -442,12 +442,12 @@
           "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        },
-        {
           "name": "Clementine Douglas",
           "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        },
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         }
       ],
       "date_added": "2023-09-11",
@@ -3319,6 +3319,28 @@
     },
     {
       "album": {
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175856,
+      "name": "More Baby",
+      "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
+    },
+    {
+      "album": {
         "name": "More Than Friends (feat. Kelli-Leigh)",
         "url": "https://open.spotify.com/album/2EiFE8Xnr6yoddz7sUlUYT"
       },
@@ -3378,6 +3400,32 @@
       "duration_ms": 239200,
       "name": "Movin Too Fast (radio mix)",
       "url": "https://open.spotify.com/track/0BYskg260zz9uxuQX6CD4V"
+    },
+    {
+      "album": {
+        "name": "Mushrooms",
+        "url": "https://open.spotify.com/album/3kCdR5MEFKLMft8GmAGxD3"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "Glasgow KI$$",
+          "url": "https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB"
+        },
+        {
+          "name": "Robot Collective",
+          "url": "https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190194,
+      "name": "Mushrooms",
+      "url": "https://open.spotify.com/track/15B1cDTWSXF4t3rmALOtyU"
     },
     {
       "album": {
@@ -4098,7 +4146,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 220581,
       "name": "Pump the Brakes",
       "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
@@ -4526,7 +4574,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 227189,
       "name": "Skanker",
       "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
@@ -4556,6 +4604,28 @@
       "duration_ms": 219529,
       "name": "soft spot",
       "url": "https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI"
+    },
+    {
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/39NzRuUBQwITknLiseKkXN"
+      },
+      "artists": [
+        {
+          "name": "James Cole",
+          "url": "https://open.spotify.com/artist/4uRl0LZUcciuN8tfRQ3LRM"
+        },
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232558,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/6h49997adA3XWCX9zMQKbX"
     },
     {
       "album": {
@@ -5056,7 +5126,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 172440,
       "name": "Thinkin' of You",
       "url": "https://open.spotify.com/track/30T1syZuFJdIKQ79JnSoJR"

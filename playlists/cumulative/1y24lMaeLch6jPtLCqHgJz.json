@@ -1867,6 +1867,32 @@
     },
     {
       "album": {
+        "name": "Fly Apart",
+        "url": "https://open.spotify.com/album/6Wba9nMjwQqkSCDsCcpDb2"
+      },
+      "artists": [
+        {
+          "name": "Retrika",
+          "url": "https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z"
+        },
+        {
+          "name": "Alex Mueller",
+          "url": "https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS"
+        },
+        {
+          "name": "Sam Noton",
+          "url": "https://open.spotify.com/artist/1Ma2cokH15saLZiU2eKrdj"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Fly Apart",
+      "url": "https://open.spotify.com/track/6RXPW7XKoR4SqSogstTzsY"
+    },
+    {
+      "album": {
         "name": "Forever (feat. Crooked Bangs)",
         "url": "https://open.spotify.com/album/12GplONMUz7ZXOumsh2FWc"
       },

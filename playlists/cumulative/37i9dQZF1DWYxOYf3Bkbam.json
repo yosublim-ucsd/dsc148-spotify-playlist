@@ -2529,20 +2529,24 @@
     },
     {
       "album": {
-        "name": "Refugio de so\u00f1adores",
+        "name": "Refugio de So\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
       "artists": [
         {
           "name": "Rudi y Nini Flores",
           "url": "https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt"
+        },
+        {
+          "name": "Miguel \u00c1ngel Porra",
+          "url": "https://open.spotify.com/artist/5CBXXNsH8GqhdfEttuMXTN"
         }
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202025,
-      "name": "Refugio de so\u00f1adores",
+      "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
     },
     {

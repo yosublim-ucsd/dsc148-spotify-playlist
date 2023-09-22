@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-463 songs - 17 hr 50 min
+465 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Big Wave Surfing](https://open.spotify.com/track/2UoP5BNB4tOW6BchOLMgbu) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Big Wave Surfing](https://open.spotify.com/album/5UGRz4ydUaly6KyHea5J8U) | 2:21 | 2021-12-07 | 2022-09-09 |
 | [Birdie Nest](https://open.spotify.com/track/3udESAvwu3koYQ2Exoaqq5) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Birdie Nest](https://open.spotify.com/album/0dMdJZ9VH0eRLxn4o68MmA) | 2:06 | 2023-01-13 |  |
 | [Birdlife](https://open.spotify.com/track/5U8kA1RQpLCfsbeAcFrXys) | [Kotsaku](https://open.spotify.com/artist/28tOzncpNDbM8j0dewexfs) | [clear skies](https://open.spotify.com/album/5z1cpl3Hy1z9XPDkPZ1bBh) | 1:51 | 2021-12-07 |  |
+| [Birds of Paradise](https://open.spotify.com/track/6XzpOu0XRCXLut73JrToxx) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [Birds of Paradise](https://open.spotify.com/album/6mcgTMhAfZP8GZMYPZOmrz) | 2:19 | 2023-09-22 |  |
 | [Birdzz](https://open.spotify.com/track/2Gx8lwfbGrY2vXbh6PZ3MB) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [Swimm](https://open.spotify.com/album/6DOAMKot1lhBT9uNK6xqwf) | 2:44 | 2021-12-07 | 2022-09-30 |
 | [Blackbird](https://open.spotify.com/track/2sQxhX9xg3cliZbhS56lv7) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR), [Alpstar](https://open.spotify.com/artist/5LyqaR9qKCY366KoR95KAu) | [Blackbird](https://open.spotify.com/album/5xCFFoAU4yispS1neBK9L4) | 2:12 | 2022-06-24 | 2022-07-29 |
 | [Blanca](https://open.spotify.com/track/3AWBuykfXVYCsnLpcFaTZD) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Blanca](https://open.spotify.com/album/4KCL1APmh3f5HObRfhjFcU) | 2:13 | 2021-12-07 | 2022-07-29 |
@@ -56,6 +57,7 @@
 | [Bottled Up Emotions, Part 2](https://open.spotify.com/track/12nj9lHWHO9y8668gT0iR1) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Bottled Up Emotions, Part 2](https://open.spotify.com/album/599cNTxGgXMhT154dLyGaU) | 1:50 | 2021-12-07 | 2022-12-10 |
 | [Breath It In](https://open.spotify.com/track/0UlG4wbHMuoyYCE3d6kDZF) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [Breath It In](https://open.spotify.com/album/1BIZ1J5IBLy6xt8HVO8Vvq) | 2:07 | 2023-03-01 |  |
 | [Broken](https://open.spotify.com/track/1H2bzYnA7VNkiIaUnha69l) | [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Broken](https://open.spotify.com/album/5Y2BSAcBMJQuEtsZgrdoWr) | 1:37 | 2022-06-10 | 2022-09-09 |
+| [Brookside](https://open.spotify.com/track/63GQrIWOaKE71ksIGPCjJt) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [Brookeside](https://open.spotify.com/album/742Q0p2d8ElX0pjv3IIrIN) | 2:05 | 2023-09-22 |  |
 | [bubble tea on a sunday](https://open.spotify.com/track/0brSDPUZgGVcIRptgI4WbO) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [bubble tea on a sunday](https://open.spotify.com/album/0BBRxdCxbnb6UtVWKyDAlv) | 3:02 | 2022-12-09 |  |
 | [buenos días flaca \(in love again\)](https://open.spotify.com/track/5s9eQnrNqgXgBlQnTOY8dO) | [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA) | [buenos días flaca \(in love again\)](https://open.spotify.com/album/2NBi3jap5JlDj1bITRCptV) | 2:43 | 2023-08-31 |  |
 | [Bulky Sweepin'](https://open.spotify.com/track/7BJBjafv1RLbn75WgjOrf4) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Bulky Sweepin'](https://open.spotify.com/album/0XtzEO4jFAFXZPYIz1mdYn) | 2:41 | 2023-01-20 |  |
@@ -66,7 +68,7 @@
 | [Calm Journey](https://open.spotify.com/track/4LgeEcSRLIwHNHQLbivmIf) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Plenitude](https://open.spotify.com/album/5g62q4lcEL127ajXQAUbp4) | 1:52 | 2022-04-15 |  |
 | [calm under the waves](https://open.spotify.com/track/3ZzVDui02aDM48L6RfQeST) | [Pete Mac](https://open.spotify.com/artist/1VH2tnoymN5uu7iNLGGte3), [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [calm under the waves](https://open.spotify.com/album/1CEUmdAdqrFdNadplU7TNe) | 2:00 | 2022-11-25 |  |
 | [Calma](https://open.spotify.com/track/3pcGSIMVgx1ZQX3Ouou084) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Calma](https://open.spotify.com/album/1N7MyTPZMJZ8aUvtXFeCdl) | 2:25 | 2021-12-07 |  |
-| [Calming loop](https://open.spotify.com/track/4Jvxh6ldKiHVG0b6j36DIu) | [Raul Vinicius](https://open.spotify.com/artist/5jXnCghyML9ot78G4qjsVp) | [Calming loop](https://open.spotify.com/album/0WBWFKSms7bWo4yPNIgXPx) | 2:01 | 2022-09-02 |  |
+| [Calming loop](https://open.spotify.com/track/4Jvxh6ldKiHVG0b6j36DIu) | [Raul Vinicius](https://open.spotify.com/artist/5jXnCghyML9ot78G4qjsVp) | [Calming loop](https://open.spotify.com/album/0WBWFKSms7bWo4yPNIgXPx) | 2:01 | 2022-09-02 | 2023-09-22 |
 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 | 2021-12-07 | 2023-03-02 |
 | [Catalangelo](https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S) | [Aberdeen/Stavanger](https://open.spotify.com/artist/1pr2LbfqeB3gh6KUIRKVPk) | [Catalangelo](https://open.spotify.com/album/7o5I6xcwbFCtjSZlVluria) | 2:08 | 2021-12-07 | 2022-05-14 |
 | [Ceiling](https://open.spotify.com/track/0oZhzDQqr7EpYCGtifQgLS) | [Mauro Itzhak](https://open.spotify.com/artist/4ABZDpqLJ4IKly9Vx8sr9i) | [Big City Music](https://open.spotify.com/album/6eu3s8wTiugTQjXeuH4r7S) | 1:53 | 2021-12-07 | 2022-09-03 |
@@ -353,7 +355,7 @@
 | [Redeeming](https://open.spotify.com/track/1XHVtIsDvRMI96bYNQ4Sjz) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Redeeming](https://open.spotify.com/album/3QcsMRKYhWuVJISzQK9YXE) | 1:52 | 2022-09-16 |  |
 | [Reefs](https://open.spotify.com/track/78oUWiCHOMslcfcbksmeoN) | [Oddability](https://open.spotify.com/artist/2mjU7FFvohRKtvj3xgRkqk), [Beat fanatics](https://open.spotify.com/artist/2bguEpHQ7ttxrLnqrDrr4w) | [Triptych EP](https://open.spotify.com/album/3HA4fm1yar4RbG9k0sK5Sz) | 1:37 | 2021-12-07 | 2023-01-07 |
 | [Reflect](https://open.spotify.com/track/2FUIdzhQtFixAuxpcjwhTP) | [Dimmer Signal](https://open.spotify.com/artist/0DnCXK4n3Ug9zpNWKGAD6Y) | [Reflect](https://open.spotify.com/album/0YJKBHgaTNxqTXWUrNZcCt) | 1:32 | 2021-12-07 |  |
-| [Relief](https://open.spotify.com/track/5Rg5XBTCLryJt7WWG0SVte) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Mantrick](https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m) | [Relief](https://open.spotify.com/album/7b09B1KnppJi7xeEbck2Id) | 2:14 | 2022-10-28 |  |
+| [Relief](https://open.spotify.com/track/5Rg5XBTCLryJt7WWG0SVte) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Mantrick](https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m) | [Relief](https://open.spotify.com/album/7b09B1KnppJi7xeEbck2Id) | 2:14 | 2022-10-28 | 2023-09-22 |
 | [reverbations](https://open.spotify.com/track/0cIBQbGzdlSAR7O6v2qpfs) | [moves like silk](https://open.spotify.com/artist/736t4hEChUnLa5ww5kpRWB) | [reverbations](https://open.spotify.com/album/73lR9oJZi5dXILKm8uBYrW) | 2:17 | 2021-12-07 | 2022-10-14 |
 | [Rio, 7AM](https://open.spotify.com/track/0ytvdsvP3vIMiBUIwgNLJl) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Rio, 7AM](https://open.spotify.com/album/0SKqCe58cIS8zkBSoWDAP1) | 2:01 | 2021-12-07 | 2022-05-27 |
 | [Riverside](https://open.spotify.com/track/747fQx8Q7aVdBjNvAc2fBI) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [Riverside](https://open.spotify.com/album/37vfX4Sxt6zrBmy1CIDsfB) | 2:20 | 2023-02-17 |  |
@@ -396,7 +398,7 @@
 | [Spicy Brew](https://open.spotify.com/track/4Yd7O28WGsuZnKFX6wJ0CI) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Spicy Brew](https://open.spotify.com/album/3vBCdnuk05v7LLU2Y9RCyn) | 1:47 | 2022-12-16 |  |
 | [spring](https://open.spotify.com/track/4Rps91TJtMDCbd9Kl5GV2Z) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [spring](https://open.spotify.com/album/5CISATj4UshRfnYCPN4Tae) | 2:08 | 2023-06-06 |  |
 | [Spring Morning](https://open.spotify.com/track/0xZdyUjuc5xqMppLL6bvMd) | [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Spring Morning](https://open.spotify.com/album/5TOK6EBCYfIGwyruXfliZy) | 1:50 | 2023-08-31 |  |
-| [Spring Will Come](https://open.spotify.com/track/198mh66rFz5fQJ6CpHaxfQ) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Spring Will Come](https://open.spotify.com/album/78KWlT8JwxvWcBDo3omln7) | 2:49 | 2022-12-09 |  |
+| [Spring Will Come](https://open.spotify.com/track/198mh66rFz5fQJ6CpHaxfQ) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Spring Will Come](https://open.spotify.com/album/78KWlT8JwxvWcBDo3omln7) | 2:49 | 2022-12-09 | 2023-09-22 |
 | [Springy](https://open.spotify.com/track/6UY5JTrwgI5ID9ddc3DdgB) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [Springy](https://open.spotify.com/album/1r1R6osLbyOEkwyyh8ZgTp) | 2:14 | 2021-12-07 | 2022-12-24 |
 | [stay \- lofi](https://open.spotify.com/track/2ljxDp3RcVh3PG7DuRScCZ) | [zxch.](https://open.spotify.com/artist/1zuECMB24HSnqEHB6j8nDG) | [stay \(lofi\)](https://open.spotify.com/album/5DuyGUzCm8lwoZSqPq1FUp) | 2:48 | 2022-06-10 | 2022-08-19 |
 | [Stay at the Hotel](https://open.spotify.com/track/0EOgh8Si2DiYd1qjBUY66A) | [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Stay at the Hotel](https://open.spotify.com/album/6rCbBExCHAeMNd9PD7mQS8) | 2:35 | 2022-11-11 |  |

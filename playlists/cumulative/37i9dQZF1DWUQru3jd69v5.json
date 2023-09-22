@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Philip",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: RRARI DAL TACCO, Kid Yugi",
   "name": "Raptopia",
   "tracks": [
+    {
+      "album": {
+        "name": "\"Bisiness\"",
+        "url": "https://open.spotify.com/album/1VvBBQLEK5qmoXtTsOtCrh"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 Valentino",
+          "url": "https://open.spotify.com/artist/4TR1rLViZ0TMo5gdvSVVZr"
+        },
+        {
+          "name": "Nessuno",
+          "url": "https://open.spotify.com/artist/7BMPwaB9s6d7J33bIPp8Z5"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "\"Bisiness\"",
+      "url": "https://open.spotify.com/track/5rd8GueEmsKWLgJhQOM8v0"
+    },
     {
       "album": {
         "name": "#WEOWE2",
@@ -2102,7 +2124,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 106716,
       "name": "Blood 4",
       "url": "https://open.spotify.com/track/1FcDVNnlhcx4UduwUpT12M"
@@ -2204,6 +2226,24 @@
       "duration_ms": 113513,
       "name": "Bricks",
       "url": "https://open.spotify.com/track/59RVTRsJCrbxjmIOLT2auU"
+    },
+    {
+      "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/1ThygXZBEM1kP6Z0M0ltX5"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127979,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/0P2PYTMHCVgmqWPhK5aYhO"
     },
     {
       "album": {
@@ -7089,6 +7129,28 @@
     },
     {
       "album": {
+        "name": "Kurt Cobain",
+        "url": "https://open.spotify.com/album/2OhlZbURVdLbN4IikoFicb"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "Kurt Cobain",
+      "url": "https://open.spotify.com/track/5MFOGxWCMMmYwYI1TXi4Qs"
+    },
+    {
+      "album": {
         "name": "L'Alcol Non \u00c8 Un Problema",
         "url": "https://open.spotify.com/album/7Kj40gynPLTP1Fz9hH0N8h"
       },
@@ -8783,6 +8845,24 @@
     },
     {
       "album": {
+        "name": "METTO LE AIR",
+        "url": "https://open.spotify.com/album/693n3PQfSPMPCxX2Hl5Alh"
+      },
+      "artists": [
+        {
+          "name": "LocoArmy",
+          "url": "https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152210,
+      "name": "METTO LE AIR",
+      "url": "https://open.spotify.com/track/6Kk4oSUJLNBZYSSfyUnGY8"
+    },
+    {
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/7pVf3kW6pBORKlEjnAzTek"
       },
@@ -9456,6 +9536,24 @@
       "duration_ms": 153433,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/0RH6vkEKr67OKCnbqjR9p5"
+    },
+    {
+      "album": {
+        "name": "N.47",
+        "url": "https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145851,
+      "name": "N.47",
+      "url": "https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj"
     },
     {
       "album": {
@@ -14526,6 +14624,24 @@
       "duration_ms": 168199,
       "name": "UFC",
       "url": "https://open.spotify.com/track/3T1KXh21ieREyl1TIdxzdb"
+    },
+    {
+      "album": {
+        "name": "Un vero Italiano",
+        "url": "https://open.spotify.com/album/4H8Cjxv8UlclpogSmUtleh"
+      },
+      "artists": [
+        {
+          "name": "Dot Valentino",
+          "url": "https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Un vero Italiano",
+      "url": "https://open.spotify.com/track/33q0e4yyrHMjBzNhnmIisD"
     },
     {
       "album": {

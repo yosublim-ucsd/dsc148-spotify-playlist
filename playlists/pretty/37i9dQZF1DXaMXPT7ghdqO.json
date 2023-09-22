@@ -1,12 +1,12 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 43035,
+  "num_followers": 43041,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTU1NTIwZWUxYzA1NGYzZWVjMzBiMDdmOTg5NGQyYjM4MmU3M2Vl",
+  "snapshot_id": "MCw1YjBjMTM2Njg5MjJjMDk1Y2JlZWY5NTQ4NWEyZGVkZWFmZTQ4MDc1",
   "tracks": [
     {
       "added_at": "2022-12-20 15:48:25",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "\u30a2\u30a4\u30ed\u30cb",
-        "url": "https://open.spotify.com/album/24gjv9MJq3I9v1yrqT6QA1"
-      },
-      "artists": [
-        {
-          "name": "\u3055\u3068\u307f",
-          "url": "https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "\u30a2\u30a4\u30ed\u30cb",
-      "url": "https://open.spotify.com/track/160GI2uiGYENJbeh4hJIw7"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u306d\u304f\u3059\u3068\u3063\uff01",
         "url": "https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 226173,
       "name": "\u904a\u7363\u6d6e\u7537\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/5bEmHI3c3O2wMbBe0xWloU"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "\u30a2\u30a4\u30ed\u30cb",
+        "url": "https://open.spotify.com/album/24gjv9MJq3I9v1yrqT6QA1"
+      },
+      "artists": [
+        {
+          "name": "\u3055\u3068\u307f",
+          "url": "https://open.spotify.com/artist/2urNn4p0PObk4fI7inxW6Q"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "\u30a2\u30a4\u30ed\u30cb",
+      "url": "https://open.spotify.com/track/160GI2uiGYENJbeh4hJIw7"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 236533,
-      "name": "\u72ac\u7cfb\u7537\u5b50\u7559\u5b88\u756a\u4e2d",
-      "url": "https://open.spotify.com/track/3mHxAkv73HkKcFCxRKHKOx"
+      "duration_ms": 173120,
+      "name": "\u8ee2\u751f\u3057\u305f\u3089\u738b\u5b50\u69d8\u3060\u3063\u305f\u4ef6\uff01",
+      "url": "https://open.spotify.com/track/27tor6VqWB313GHXqZz8kC"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 173120,
-      "name": "\u8ee2\u751f\u3057\u305f\u3089\u738b\u5b50\u69d8\u3060\u3063\u305f\u4ef6\uff01",
-      "url": "https://open.spotify.com/track/27tor6VqWB313GHXqZz8kC"
+      "duration_ms": 236533,
+      "name": "\u72ac\u7cfb\u7537\u5b50\u7559\u5b88\u756a\u4e2d",
+      "url": "https://open.spotify.com/track/3mHxAkv73HkKcFCxRKHKOx"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3089\u3076\u3063\uff01",
-        "url": "https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 259213,
-      "name": "No Perfect",
-      "url": "https://open.spotify.com/track/2mF6hgwBbQOkMBzZ9MaCiO"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "secret base ~\u541b\u304c\u304f\u308c\u305f\u3082\u306e~",
         "url": "https://open.spotify.com/album/0bZSpbQEfySKWjlublXiPt"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 304079,
       "name": "secret base ~\u541b\u304c\u304f\u308c\u305f\u3082\u306e~",
       "url": "https://open.spotify.com/track/58UMTTWDo7HlSj1ZlDblH5"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3089\u3076\u3063\uff01",
+        "url": "https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 259213,
+      "name": "No Perfect",
+      "url": "https://open.spotify.com/track/2mF6hgwBbQOkMBzZ9MaCiO"
     },
     {
       "added_at": "2022-12-20 15:48:25",

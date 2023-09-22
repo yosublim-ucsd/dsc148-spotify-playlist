@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-657 songs - 1 day 5 hr 33 min
+659 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Blind](https://open.spotify.com/track/2YUO217Ns1r4xxkTBzHt93) | [Masaki Hori](https://open.spotify.com/artist/2LgAFgAkcwMa98ZgWvBDzv) | [Blind](https://open.spotify.com/album/10VDDuEmifDwbRl3IIcSmr) | 2:23 | 2021-12-23 | 2022-07-29 |
 | [Blossom](https://open.spotify.com/track/1ADXpTiELHI676vSwznCUs) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [Blossom](https://open.spotify.com/album/79vp5Qy9ttIlc4ijeaSM0H) | 2:30 | 2021-12-23 | 2022-07-25 |
 | [Blue bird](https://open.spotify.com/track/6KlKbt570ht0FhgRZHkm8K) | [KOYANMUSIC](https://open.spotify.com/artist/19rxuAEQkRaSpW53OyHqzu) | [DOSER](https://open.spotify.com/album/3W1Jm1zBBkpXL2XTMby5Rg) | 2:38 | 2021-12-23 | 2022-06-29 |
-| [blue forest](https://open.spotify.com/track/3aWloCwU0VyguYLhUBx9rH) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [blue forest](https://open.spotify.com/album/2lbnzHjf7JB8oad6alpw78) | 2:10 | 2023-08-24 |  |
+| [blue forest](https://open.spotify.com/track/3aWloCwU0VyguYLhUBx9rH) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [blue forest](https://open.spotify.com/album/2lbnzHjf7JB8oad6alpw78) | 2:10 | 2023-08-24 | 2023-09-22 |
 | [BLUE MOON](https://open.spotify.com/track/2gt5R59niPj7cFflsCNBEI) | [DJ ZEEK](https://open.spotify.com/artist/6jX9IZnwPeKQyuAMkJE8OK) | [BLUE MOON](https://open.spotify.com/album/6wya2peFBrgmH7VhYvh9DF) | 3:05 | 2021-12-23 | 2022-02-09 |
 | [Blue Ocean](https://open.spotify.com/track/7Ez0jBEB4kzZpOxlrmnfrm) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Blue Ocean](https://open.spotify.com/album/7eFZkyETGlx6hrzExVHplF) | 3:00 | 2022-12-01 | 2022-12-16 |
 | [Bocuk](https://open.spotify.com/track/1lTfFxZjZG3Xagd4clrCBj) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Bocuk](https://open.spotify.com/album/2n9E01iiTHEtmLZmjKWj6B) | 2:17 | 2023-07-25 | 2023-08-18 |
@@ -114,6 +114,7 @@
 | [City of light](https://open.spotify.com/track/2pZU6TxP0plWGCgokINl0L) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [City of light](https://open.spotify.com/album/3ELd8P2DfszfoqL1H5cUTv) | 3:29 | 2021-12-23 | 2022-07-26 |
 | [City of light](https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [City of light](https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU) | 3:29 | 2022-07-28 |  |
 | [Clockwork Mural](https://open.spotify.com/track/4UcmzdeARm6JxkcIaewtA5) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Clockwork Mural](https://open.spotify.com/album/1BcfqIzdgOtWzzSL7Hrqvc) | 2:25 | 2022-05-26 | 2022-06-19 |
+| [Club Galactica](https://open.spotify.com/track/3ujzqVgfcJYifV5YsQJ6Ef) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Club Galactica](https://open.spotify.com/album/0EaQbp7V4ippcrJabW6w3g) | 2:15 | 2023-09-21 |  |
 | [Coffee break with him](https://open.spotify.com/track/475cCO8ac84X7j34ilKNgo) | [CRAM](https://open.spotify.com/artist/2kuzzESZpVYXEbJPF1o82D), [matatabi](https://open.spotify.com/artist/789AFt8ySj9w5pcaSniyMz) | [LOOPER](https://open.spotify.com/album/5Xnk9x6LUOR2qdERcEcuG7) | 1:59 | 2021-12-23 | 2022-07-28 |
 | [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 | 2023-08-04 |
 | [Cold Lot](https://open.spotify.com/track/2CzYZfWwm2YF42vlHKCnOU) | [Burgundy Groove](https://open.spotify.com/artist/5KV5ps8Us33zxiMIED2dtt) | [Cold Lot](https://open.spotify.com/album/5zSkglZonnik5z9Bsr97xQ) | 1:40 | 2021-12-23 | 2022-01-01 |
@@ -126,7 +127,7 @@
 | [Cross the Bridge](https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH) | 2:18 | 2022-10-20 |  |
 | [Cross the Bridge](https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Cross the Bridge](https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt) | 2:18 | 2022-10-20 | 2022-10-22 |
 | [Cruisin](https://open.spotify.com/track/1GZxk4b3eaucDlcaAAs8cJ) | [MeS The Funk](https://open.spotify.com/artist/6h2bl2LD56yaah3wzvLKRe) | [Cruisin](https://open.spotify.com/album/1OOt6UGoO3GI6lprfutvDO) | 3:45 | 2022-03-24 | 2022-09-15 |
-| [Crushing](https://open.spotify.com/track/7FHelgV9xeITVJjKwGUzOm) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Crushing](https://open.spotify.com/album/1Dge2M4uqmtw9v2z3Yy10S) | 3:34 | 2023-09-07 |  |
+| [Crushing](https://open.spotify.com/track/7FHelgV9xeITVJjKwGUzOm) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Crushing](https://open.spotify.com/album/1Dge2M4uqmtw9v2z3Yy10S) | 3:34 | 2023-09-07 | 2023-09-22 |
 | [Cry In The Gaze \(about you\)](https://open.spotify.com/track/0hNmUYwnK8VzUEKnzXyA5P) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Cry In The Gaze \(about you\)](https://open.spotify.com/album/2D9JioL3U8aaTHP5c0qeqn) | 1:42 | 2023-08-15 |  |
 | [Cumulonimbus](https://open.spotify.com/track/0TWfmcz5fsrRvaD01Yf5eM) | [Takayuki Hashiguchi](https://open.spotify.com/artist/18eJdTU5Sepx9LX7KHZv1k), [Michiaki Shirata](https://open.spotify.com/artist/3B6nen9hs1iq9MGAy4aCBL) | [The Sun Rises Everywhere \#1](https://open.spotify.com/album/411a5hlbXHUm6r1ipYABjd) | 2:12 | 2021-12-23 | 2022-07-10 |
 | [Curiosity](https://open.spotify.com/track/1hfsCP7K0yXHCdWwSuqH9l) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [coyolate](https://open.spotify.com/artist/0EvzMWIv5MlTboNHIVDtmJ) | [Curiosity](https://open.spotify.com/album/6eeJBJnn3HPMSrAJToQLoZ) | 2:43 | 2021-12-23 | 2022-07-29 |
@@ -197,6 +198,7 @@
 | [Flow State](https://open.spotify.com/track/3tHEw9CiFsWefYrjy7t2a3) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Flow State](https://open.spotify.com/album/2s84hakRJ9roZotGZRCHac) | 2:33 | 2023-01-19 | 2023-02-09 |
 | [Flowers](https://open.spotify.com/track/06Jo0EAMAmfVOKr8frBpZE) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Flowers](https://open.spotify.com/album/3uHDpMZ9EqjglqDXWBbbpW) | 3:28 | 2022-07-28 | 2022-09-19 |
 | [Flowers](https://open.spotify.com/track/4f7J3uf3NbMluibhVHy1vR) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Flowers](https://open.spotify.com/album/4DCZnmEKuQveUtUYSKmuSw) | 3:28 | 2022-06-23 | 2022-07-29 |
+| [fly away](https://open.spotify.com/track/1jiX6dafwmq6nbdpnasx55) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [fly away](https://open.spotify.com/album/40YX88sQT6I74zxjUZqIUg) | 2:23 | 2023-09-21 |  |
 | [Focused](https://open.spotify.com/track/4mOPtlru2v8bz73iIblJtx) | [ynkmr.](https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU) | [Focused](https://open.spotify.com/album/0on7B8tzhDPY7iZhAdQzrh) | 3:48 | 2022-07-21 | 2022-07-29 |
 | [fog morning](https://open.spotify.com/track/0yqBPILqRFi1yE7ci9o3vV) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/6LtosFxYlXKsLfN3PSWUd3) | 2:38 | 2022-02-10 | 2022-07-28 |
 | [fog morning](https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs) | 2:38 | 2022-07-28 |  |

@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Emma from Men I trust.
 
-890 songs - 1 day 22 hr 20 min
+892 songs - 1 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-10-08 |  |
 | [Amtrak](https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 2:56 | 2021-05-01 | 2022-12-15 |
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-05-01 | 2022-04-17 |
+| [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 | 2023-09-08 |  |
 | [Another Moment \(That Hurt Me More Than Any Moment\)](https://open.spotify.com/track/42AsCRWwmQ1jNFwc7umFkR) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [All Trash No Love](https://open.spotify.com/album/3n619cmyhuoWFVwhTmRmDf) | 3:49 | 2019-09-18 | 2021-05-23 |
 | [Antidote](https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/3fUfLlnvi1phe0vKhDBKwM) | 2:49 | 2019-07-30\* | 2022-07-29 |
 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 | 2021-02-27 |  |
@@ -101,7 +102,8 @@
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-08-13 | 2022-12-01 |
 | [BLUEBLUEBLUE](https://open.spotify.com/track/3c8joelJQd6Ae7vEIhme97) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C), [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [BLUEBLUEBLUE](https://open.spotify.com/album/3dOqYtutrXgjShT82NgDZu) | 2:11 | 2021-10-25 | 2022-04-18 |
 | [Bon Iver](https://open.spotify.com/track/4fJH2cQ814gSzPZ9buADfK) | [Aubrey Key](https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS) | [Bon Iver](https://open.spotify.com/album/2dK6nHgb0gkObpLau5FlK9) | 1:02 | 2021-08-27 | 2022-04-15 |
-| [book of spells](https://open.spotify.com/track/7n8bTcvJbZbdTxT9aCDNQ4) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [book of spells](https://open.spotify.com/album/5IXRkQH2kjLCsXYLJRJSUC) | 1:48 | 2022-04-29 |  |
+| [book of spells](https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [book of spells](https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA) | 1:48 | 2023-04-17 |  |
+| [book of spells](https://open.spotify.com/track/7n8bTcvJbZbdTxT9aCDNQ4) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [book of spells](https://open.spotify.com/album/5IXRkQH2kjLCsXYLJRJSUC) | 1:48 | 2022-04-29 | 2023-09-22 |
 | [BOY](https://open.spotify.com/track/4p6z6z6SDSzKJFfMIvUWaf) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Caleb Carnell](https://open.spotify.com/artist/4YgGnivTjx8pzAjoOsghBX) | [BOY](https://open.spotify.com/album/1XUPsf7gkbwDz9UkJVffWX) | 2:42 | 2021-06-25 | 2022-07-28 |
 | [Boy Who Cries](https://open.spotify.com/track/31WrkIdb7vKxv4ucqnEorW) | [Sam.Sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Boy Who Cries](https://open.spotify.com/album/0C4zpmxW9ylZt9heb3Ab18) | 3:09 | 2019-07-30\* | 2021-05-24 |
 | [Boy, I'm Just a Loser for Your Love](https://open.spotify.com/track/5UgD1q2SkvYqUEPTGHfHrB) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Take It Easy for Me, Stranger // Boy, I'm Just a Loser for Your Love](https://open.spotify.com/album/1l10x0biTsfz1Zf3Olewph) | 3:15 | 2019-08-09 | 2021-08-28 |
@@ -465,7 +467,7 @@
 | [Lil Baby Crush](https://open.spotify.com/track/2q3VN9zMQf0vZmUgcl7oUe) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 2:21 | 2022-09-14 | 2022-12-15 |
 | [Lil Baby Crush](https://open.spotify.com/track/3ZG4FTdTqdXk1ja9hZap8x) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/1AGKrfgR7G8C97G7SgETbZ) | 2:21 | 2021-09-10 | 2022-10-08 |
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2021-09-10 | 2022-04-18 |
-| [Lily](https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W) | 3:24 | 2023-06-09 |  |
+| [Lily](https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W) | 3:24 | 2023-06-09 | 2023-09-22 |
 | [Listen](https://open.spotify.com/track/0CIkEjigreAi3b1YCLBqzW) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Listen](https://open.spotify.com/album/48XJBOBdPzvV2zIZQsQjn7) | 2:30 | 2019-08-01 | 2021-05-25 |
 | [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 | 2022-09-14 | 2022-12-17 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-10-08 | 2022-07-29 |

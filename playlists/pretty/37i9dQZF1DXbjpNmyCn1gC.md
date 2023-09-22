@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,342 likes - 115 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,637 likes - 115 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 74 | [五月雨](https://open.spotify.com/track/3aNugT13qqQoUKwfJKmcrk) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック Ⅱ](https://open.spotify.com/album/1GoWJc6XFiHW1ewHcY1Xqm) | 3:27 |
 | 75 | [道 〜to you all](https://open.spotify.com/track/2Aq726y1hKsStf9Bmofxjs) | [aluto](https://open.spotify.com/artist/5OEu7QcsdIsMDRe9oHElCx) | [道 〜to you all](https://open.spotify.com/album/5d4ztKddWA6UDfoEWVGjM1) | 4:48 |
 | 76 | [キミモノガタリ](https://open.spotify.com/track/6b7BqSkpIK9Qmt3t57Rvwt) | [Little by Little](https://open.spotify.com/artist/3zQx1Fk2lTUkSIdsL4oaxP) | [キミモノガタリ](https://open.spotify.com/album/2vJEeozJ85lKS9hEb6xy4l) | 4:34 |
-| 77 | [素直な虹](https://open.spotify.com/track/7iIc5b906iX9gy1MV38jTw) | [Surface](https://open.spotify.com/artist/7c3NwFEgdzvFdGIa7wku5K) | [素直な虹/情熱マイソウル](https://open.spotify.com/album/0qsqrYkWOfNXx016mixKSk) | 5:32 |
+| 77 | [素直な虹](https://open.spotify.com/track/7iIc5b906iX9gy1MV38jTw) | [Surface](https://open.spotify.com/artist/7c3NwFEgdzvFdGIa7wku5K) | [素直な虹／情熱マイソウル](https://open.spotify.com/album/0qsqrYkWOfNXx016mixKSk) | 5:32 |
 | 78 | [Broken Youth](https://open.spotify.com/track/2pjRFU0akiTgVCAkHVPCPV) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [Broken Youth](https://open.spotify.com/album/0BgYclVGeCMvf9xWwXO3jQ) | 4:54 |
 | 79 | [Long Kiss Good Bye](https://open.spotify.com/track/5SPwzvYuJCkeXmbwi3lVID) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [TOKYO GROOVE](https://open.spotify.com/album/2Xgzxq7q3Voo8BavfiwbBe) | 4:03 |
 | 80 | [深呼吸](https://open.spotify.com/track/1y3ED9Dk1PdVDDmW1IU0j0) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [深呼吸](https://open.spotify.com/album/7CwfNkrr0WSqFqDxE4pHRq) | 4:43 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 114 | [雄叫び](https://open.spotify.com/track/3jcW4gTJQQ5inpE8VxSSav) | [Yusuke](https://open.spotify.com/artist/0iWpuF3h43ZtZJxcUp8eti) | [雄叫び](https://open.spotify.com/album/68hM5eE9BgTn8AYhns8nug) | 3:41 |
 | 115 | [Future Eve](https://open.spotify.com/track/5B26nnZsdXY3KheV1oxo2M) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [欲望](https://open.spotify.com/album/1KRWNkaUdxDoEVgdUXfa76) | 3:52 |
 
-Snapshot ID: `MCxlMDNhZWMxM2MwZTNiNWFlMTE5YjZlOGFjMmE4N2M3ODNjYzczMjFi`
+Snapshot ID: `MCwyNzFjY2I5MzhiYjg3Yjg3OGMyZmE4Y2FjYTJjMjhjYzgwYjU3MTQw`

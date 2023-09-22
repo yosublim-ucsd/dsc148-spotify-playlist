@@ -4,7 +4,7 @@
 
 > Where you at? We outside!
 
-50 songs - 3 hr 24 min
+51 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Kibera](https://open.spotify.com/track/5WUI7ifG664mnLAwDUjxoQ) | [Johnny Vigeti](https://open.spotify.com/artist/1OVwRfZjHk4l57JyQkSQ43), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [Kibera](https://open.spotify.com/album/0AnyIF4fk4JD5bPOYJSG2B) | 4:27 | 2023-09-08 |  |
 | [Kigali](https://open.spotify.com/track/5aKtS7Z8gdWmYH1BBbECiv) | [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [Afro Zen](https://open.spotify.com/artist/31VvRi0goQyK22zqEqAboz), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO) | [Kigali](https://open.spotify.com/album/07emJhY6FQilkGBhHhsveQ) | 2:53 | 2023-09-08 |  |
 | [Kilimanjaro](https://open.spotify.com/track/21fUIJmUxP4BjUkHLd5YIQ) | [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [BitterSoul](https://open.spotify.com/artist/17pJdX09aXbP7ahi2kbenw), [Ojiro](https://open.spotify.com/artist/0fPfCk8bWkVIKOhyOWk7JX) | [Khuzeka](https://open.spotify.com/album/1mOjCTEGNizYt4LkWaEALt) | 6:10 | 2023-09-08 |  |
-| [Kisumu 100](https://open.spotify.com/track/1CrzeybNJCPLZLKoqHnUq5) | [Suzanna Owiyo](https://open.spotify.com/artist/6WayXrPvMCUFpgN3yynb33) | [Mama Africa](https://open.spotify.com/album/4JA5rtL6KDeAGQL2N8avVH) | 6:31 | 2023-09-08 |  |
+| [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 | 2023-09-22 |  |
+| [Kisumu 100](https://open.spotify.com/track/1CrzeybNJCPLZLKoqHnUq5) | [Suzanna Owiyo](https://open.spotify.com/artist/6WayXrPvMCUFpgN3yynb33) | [Mama Africa](https://open.spotify.com/album/4JA5rtL6KDeAGQL2N8avVH) | 6:31 | 2023-09-08 | 2023-09-22 |
 | [Lagos](https://open.spotify.com/track/5u9wdFL8Gb6RWMtCGUa9Xw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lagos](https://open.spotify.com/album/2ZB7h9Nu1OYI0CMStgljYs) | 3:44 | 2023-09-08 |  |
 | [Lagos 101](https://open.spotify.com/track/7b0dJi7JyafNH4ueg479Qw) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Lagos 101](https://open.spotify.com/album/6cHp1TJC51U5R6EAhDnaKw) | 2:31 | 2023-09-08 |  |
 | [Lagos to Kampala](https://open.spotify.com/track/6cA5pAyBrXFr5BzCUkEPUS) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Runtown Hits, Vol\. 1](https://open.spotify.com/album/1UwIe4k1b9dC8BQTE4bcE0) | 3:34 | 2023-09-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 71073,
+  "num_followers": 71217,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTBiODJmZjdiMDdjNjA2YmUyMTFiMjFlZGQ3ZmY1NzUzOTNlZmIz",
+  "snapshot_id": "MCw1Y2VlMzhlNWYxZTg0YjFlMDVjZDAzNDViNTc4YzA2MjU4OWM1YTAw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -27,7 +27,7 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Spirit In The Sky",
+        "name": "Spirit In The Sky (Deluxe Edition)",
         "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
       },
       "artists": [
@@ -37,7 +37,7 @@
         }
       ],
       "duration_ms": 242893,
-      "name": "Spirit In The Sky",
+      "name": "Spirit In The Sky - Deluxe Edition",
       "url": "https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"
     },
     {
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Down the Dustpipe",
-        "url": "https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Spinning Wheel Blues",
-      "url": "https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Snakes and Ladders: The Best of Faces",
         "url": "https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 174093,
       "name": "Had Me a Real Good Time - 2010 Remaster",
       "url": "https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Down the Dustpipe",
+        "url": "https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Spinning Wheel Blues",
+      "url": "https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Borstal Boys",
+      "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Borstal Boys",
-      "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Hoople",
         "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
       },
@@ -587,38 +587,6 @@
       "duration_ms": 204093,
       "name": "The Golden Age of Rock 'n' Roll",
       "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Top Priority (Remastered 2017)",
-        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 290670,
-      "name": "Hell Cat",
-      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Vagabonds Of The Western World",
-        "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "Mama Nature Said",
-      "url": "https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -639,18 +607,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Gasoline Alley",
-        "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
+        "name": "Top Priority (Remastered 2017)",
+        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
         }
       ],
-      "duration_ms": 386226,
-      "name": "It's All Over Now",
-      "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
+      "duration_ms": 290670,
+      "name": "Hell Cat",
+      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -671,7 +639,23 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Spirit In The Sky",
+        "name": "Vagabonds Of The Western World",
+        "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Mama Nature Said",
+      "url": "https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Spirit In The Sky (Deluxe Edition)",
         "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
       },
       "artists": [
@@ -681,7 +665,7 @@
         }
       ],
       "duration_ms": 185093,
-      "name": "Tars Of India",
+      "name": "Tars Of India - Deluxe Edition",
       "url": "https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm"
     },
     {
@@ -703,18 +687,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
+        "name": "All The Young Dudes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
       },
       "artists": [
         {
-          "name": "Ronnie Wood",
-          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+          "name": "Mott The Hoople",
+          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
         }
       ],
-      "duration_ms": 242280,
-      "name": "Outlaws",
-      "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
+      "duration_ms": 240800,
+      "name": "Jerkin' Crocus",
+      "url": "https://open.spotify.com/track/1xKF80cHD0H6VydMJqK4st"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -735,18 +719,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "All The Young Dudes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
+        "name": "Gasoline Alley",
+        "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
       },
       "artists": [
         {
-          "name": "Mott The Hoople",
-          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 240800,
-      "name": "Jerkin' Crocus",
-      "url": "https://open.spotify.com/track/1xKF80cHD0H6VydMJqK4st"
+      "duration_ms": 386226,
+      "name": "It's All Over Now",
+      "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Outlaws",
+      "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
     },
     {
       "added_at": "2021-07-30 04:01:00",

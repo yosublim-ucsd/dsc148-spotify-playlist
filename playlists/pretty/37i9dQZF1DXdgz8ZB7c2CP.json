@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring San Holo",
-  "num_followers": 763791,
+  "num_followers": 763844,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDA4NWZlNWQ4YTZiOGMxNDIzZTFiYjk1ZmM0NmI5MGY3MjkyMTlm",
+  "snapshot_id": "MCxlM2Y4NjUzNTBlMmRjZDUzY2MzNmM2NDdjN2U4YWRjNDM2ZTc4ZWYy",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "STRINGS (feat. JVKE & Bazzi) [Moore Kismet Remix]",
         "url": "https://open.spotify.com/album/2FfLf0N4Miq1gRnkGtDkx9"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 161080,
       "name": "STRINGS (feat. JVKE & Bazzi) - Moore Kismet Remix",
       "url": "https://open.spotify.com/track/26fcNHcIFxaNEK3AfecLtU"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Microworlds",
-        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
-        }
-      ],
-      "duration_ms": 209341,
-      "name": "Glow In The Dark",
-      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Thinkin About",
         "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "duration_ms": 209341,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Do or Die",
+        "url": "https://open.spotify.com/album/1DNJREUQmBww91ALLQYHv0"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 220875,
+      "name": "Do or Die",
+      "url": "https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 241979,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Do or Die",
-        "url": "https://open.spotify.com/album/1DNJREUQmBww91ALLQYHv0"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 220875,
-      "name": "Do or Die",
-      "url": "https://open.spotify.com/track/7dysHvjVrHkpLhamDe1HJz"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1531,6 +1531,38 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Tratado",
+        "url": "https://open.spotify.com/album/4g09uUdGjos9R4tWzsQRF0"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 254902,
+      "name": "Tratado",
+      "url": "https://open.spotify.com/track/3FIHVdnrLoAiwpHHwIf5Hb"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Skreamizm 8",
+        "url": "https://open.spotify.com/album/6shH7NYCoBoWks3ddtW848"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "duration_ms": 329166,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/1NISyNrwwO4ysIDadFQI1c"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Snake Eyes",
         "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
       },
@@ -1575,22 +1607,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Skreamizm 8",
-        "url": "https://open.spotify.com/album/6shH7NYCoBoWks3ddtW848"
-      },
-      "artists": [
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 329166,
-      "name": "My Body",
-      "url": "https://open.spotify.com/track/1NISyNrwwO4ysIDadFQI1c"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Tratado",
-        "url": "https://open.spotify.com/album/4g09uUdGjos9R4tWzsQRF0"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 254902,
-      "name": "Tratado",
-      "url": "https://open.spotify.com/track/3FIHVdnrLoAiwpHHwIf5Hb"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "all you'll get from me is my company",
+        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
+      },
+      "artists": [
+        {
+          "name": "After Wes",
+          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "all you'll get from me is my company",
+      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/07jas6TsfQ7q9eiB4GtxqI"
       },
@@ -1939,42 +1955,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "all you'll get from me is my company",
-        "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
-      },
-      "artists": [
-        {
-          "name": "After Wes",
-          "url": "https://open.spotify.com/artist/5hz6UPteQqCf9fHD88njIy"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "all you'll get from me is my company",
-      "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Today Tomorrow Forever (feat. fknsyd)",
-        "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
-      },
-      "artists": [
-        {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 155175,
-      "name": "Today Tomorrow Forever (feat. fknsyd)",
-      "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 192063,
       "name": "slomo (with Tohji & Midas The Jagaban)",
       "url": "https://open.spotify.com/track/1siKLsvJLmVM8fBzJrpBNy"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Today Tomorrow Forever (feat. fknsyd)",
+        "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 155175,
+      "name": "Today Tomorrow Forever (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "2hard2letgo",
+        "url": "https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 226950,
+      "name": "2hard2letgo",
+      "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Spring (feat. Riverine)",
         "url": "https://open.spotify.com/album/2hL3SJp6luM6I3LZbpf4w9"
       },
@@ -2047,22 +2063,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "2hard2letgo",
-        "url": "https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp"
-      },
-      "artists": [
-        {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
-        }
-      ],
-      "duration_ms": 226950,
-      "name": "2hard2letgo",
-      "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Emotional (James Hiraeth Remix)",
         "url": "https://open.spotify.com/album/5tWUVYH8mUw4TQQaCtsWDi"
       },
@@ -2083,22 +2083,6 @@
       "duration_ms": 204342,
       "name": "Emotional - James Hiraeth Remix",
       "url": "https://open.spotify.com/track/0Z2muIwFO7cZaPo21bYa8C"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz"
-      },
-      "artists": [
-        {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -2151,6 +2135,38 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Shibuya",
+        "url": "https://open.spotify.com/album/1lBvVKpWw4vV8YMadNzuLN"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/7DApqpQTciqtU8MwdXBSFL"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Arpeggio EP",
         "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 223714,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Bermondsey Bender",
-        "url": "https://open.spotify.com/album/1M6NaqHHPv7P4nLZjjbUeJ"
-      },
-      "artists": [
-        {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        }
-      ],
-      "duration_ms": 243664,
-      "name": "Bermondsey Bender",
-      "url": "https://open.spotify.com/track/7dpl1yewE4RWDCGBUXUjnP"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -2199,34 +2199,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "DOJA",
-        "url": "https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL"
+        "name": "Bermondsey Bender",
+        "url": "https://open.spotify.com/album/1M6NaqHHPv7P4nLZjjbUeJ"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
         }
       ],
-      "duration_ms": 157916,
-      "name": "DOJA",
-      "url": "https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Shibuya",
-        "url": "https://open.spotify.com/album/1lBvVKpWw4vV8YMadNzuLN"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Shibuya",
-      "url": "https://open.spotify.com/track/7DApqpQTciqtU8MwdXBSFL"
+      "duration_ms": 243664,
+      "name": "Bermondsey Bender",
+      "url": "https://open.spotify.com/track/7dpl1yewE4RWDCGBUXUjnP"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -2251,6 +2235,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "DOJA",
+        "url": "https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 157916,
+      "name": "DOJA",
+      "url": "https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/1qWaMkuLpE4G3ZtdLqyNFz"
       },
@@ -2263,6 +2263,26 @@
       "duration_ms": 187428,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/53nRvoOp71cFHGqtx3osGQ"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/4TUygYUS1Y4TSIjBw63FVe"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Daye",
+          "url": "https://open.spotify.com/artist/60osBGZW2H9FtEecIfybMt"
+        }
+      ],
+      "duration_ms": 174935,
+      "name": "LLLOVE",
+      "url": "https://open.spotify.com/track/5TH5n2YgLq8IgvfAdUm4qE"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -2287,26 +2307,6 @@
       "duration_ms": 193235,
       "name": "Better Luck",
       "url": "https://open.spotify.com/track/5stLAx1TzmdPRTwFqc9mSh"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Elysian",
-        "url": "https://open.spotify.com/album/4TUygYUS1Y4TSIjBw63FVe"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Daye",
-          "url": "https://open.spotify.com/artist/60osBGZW2H9FtEecIfybMt"
-        }
-      ],
-      "duration_ms": 174935,
-      "name": "LLLOVE",
-      "url": "https://open.spotify.com/track/5TH5n2YgLq8IgvfAdUm4qE"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -2343,30 +2343,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Pillow Talk",
-        "url": "https://open.spotify.com/album/6G17XnBNHd4CuPsOVQk1dR"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Wingtip",
-          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
-        },
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Pillow Talk",
-      "url": "https://open.spotify.com/track/2rw2SOQ3KDCLOXugoKLfPx"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "On Air",
         "url": "https://open.spotify.com/album/13czmHAij9ZlJaT9qh50gI"
       },
@@ -2395,6 +2371,30 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Pillow Talk",
+        "url": "https://open.spotify.com/album/6G17XnBNHd4CuPsOVQk1dR"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        },
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Pillow Talk",
+      "url": "https://open.spotify.com/track/2rw2SOQ3KDCLOXugoKLfPx"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/27aIXvQ2Vn34Ezy4uNNovK"
       },
@@ -2419,22 +2419,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "KEEP ME IN MIND (ft. Lyrah)",
-        "url": "https://open.spotify.com/album/3v54IBpEIcNMlXiXOkT7c8"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/5nOlGwA1ExpumY4c8A0ZMz"
       },
       "artists": [
         {
-          "name": "clear eyes",
-          "url": "https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr"
-        },
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
         }
       ],
-      "duration_ms": 178285,
-      "name": "KEEP ME IN MIND (ft. Lyrah)",
-      "url": "https://open.spotify.com/track/4f84AMUxmYGFp9ddjEK3bG"
+      "duration_ms": 301564,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/5bQ4sqavMnR6Ec0DZCs8AG"
     }
   ],
   "unique_name": "creamy",

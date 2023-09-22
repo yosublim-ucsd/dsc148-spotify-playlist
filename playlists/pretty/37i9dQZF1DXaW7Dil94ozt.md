@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 580 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 591 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 74 | [유채꽃](https://open.spotify.com/track/3cqqOeRvKwfjcXzgBEtEQa) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [유실물 보관소](https://open.spotify.com/album/4Locv1kDPE8beo4cRDPogA) | 3:18 |
 | 75 | [첫사랑](https://open.spotify.com/track/46Ve6ogw5551H07RkP1gpE) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Words in the mind](https://open.spotify.com/album/6t3ExmPeNU5M1LimWIG2r9) | 4:15 |
 | 76 | [Daybreak](https://open.spotify.com/track/5LYq0TlMEOy6ZuWjNPBBXy) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [낯선 도시에서의 하루](https://open.spotify.com/album/4ZovURRPHKLo7W7Xgd0zUj) | 5:30 |
-| 77 | [나는 그 사람이 아프다 \(feat\. Taru \- 타루\)](https://open.spotify.com/track/0as9lu62acl4EBvLBD68sj) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN), [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [사랑의 단상 Chapter 1 : With Or Without You](https://open.spotify.com/album/7kmxeYqKZT8x6ZYAopOyIR) | 5:35 |
+| 77 | [나는 그 사람이 아프다 \(feat\. Taru\)](https://open.spotify.com/track/2GSwbzS3LMVX3Gpe8m3Plj) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN), [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [긴 여행의 시작](https://open.spotify.com/album/6WWFmQu22zEFRuyzYdSyWt) | 5:37 |
 | 78 | [별 보러 가자](https://open.spotify.com/track/7ePpQepOptZ1M9jRRydHsZ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [FINE](https://open.spotify.com/album/0apIvboeRy3QYd13K5Dfj4) | 5:17 |
 | 79 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
 | 80 | [Tattoo](https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Tattoo](https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08) | 3:09 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 119 | [나 좋자고 그러는겨 Did It For Me](https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [하지 말래 Don't Do It](https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS) | 2:57 |
 | 120 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 |
 
-Snapshot ID: `MCxlNzIxNjRjYWUxNGQ2ZDE4OWM2YzgyMmVhZDM5NGE0NmFjM2FmZmU3`
+Snapshot ID: `MCxhYTA5NzE5YTExYTEwN2M4OWMzYTgxYTBlOGZjMmQwNTYwN2EwOGMy`

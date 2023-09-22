@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
+> Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.
 
-326 songs - 19 hr 35 min
+327 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Beijam](https://open.spotify.com/track/7CIWnLmuWHKIc3f5IoR8wD) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Beijam](https://open.spotify.com/album/0FqokGojULcFWTeeE1fVuU) | 3:50 | 2022-01-14 | 2022-07-02 |
 | [Beijei](https://open.spotify.com/track/2vZmLR6tlYvTv8UJOtLijZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Itary](https://open.spotify.com/artist/73JleuMWIuH1oUwF1bpd3w) | [Conexões Angola & Brasil](https://open.spotify.com/album/3DdYxPf8B8tsWQTDWuzrr2) | 3:41 | 2021-12-10 | 2022-06-01 |
 | [Bela](https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Bela](https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA) | 3:58 | 2021-12-10 |  |
-| [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 | 2021-12-10 |  |
+| [Belissima](https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP) | [Charbel](https://open.spotify.com/artist/0vqtKHzprbtQCJOGCIOA6B) | [Apaxonado](https://open.spotify.com/album/3sMPzmuuvk77d7LCDRUaAb) | 4:51 | 2021-12-10 | 2023-09-22 |
 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 | 2023-04-06 |  |
 | [Bet on yourself](https://open.spotify.com/track/0Olq5WLGSxtYR6nGiIjOaU) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Bet on yourself](https://open.spotify.com/album/4KIUJShFpdopaMTgIxMbuI) | 2:56 | 2022-04-22 | 2022-04-25 |
 | [Bet on yourself \- Remix](https://open.spotify.com/track/3ABmOg3mNqEysRnkfibTOL) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Bet on yourself \(Remix\)](https://open.spotify.com/album/4vBuMB8H9Uzw1ZJIKMTwrv) | 2:55 | 2022-05-13 | 2022-05-26 |
@@ -69,6 +69,7 @@
 | [Cofres do Céu](https://open.spotify.com/track/60onhM6CxZNTqcuFqmZ6Go) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Cofres do Céu](https://open.spotify.com/album/6EqnPhF91K2WGLsr0kMUtm) | 3:18 | 2022-07-07 | 2022-08-19 |
 | [Comment vivre sans toi](https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Comment vivre sans toi](https://open.spotify.com/album/78MJrZeQPFSxILprjOulwB) | 3:26 | 2021-12-10 | 2022-07-22 |
 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 | 2022-03-25 |  |
+| [Control](https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ) | [Dj Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Control](https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L) | 3:27 | 2023-09-21 |  |
 | [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 | 2023-08-31 |  |
 | [Corno](https://open.spotify.com/track/35wFDFtEwQesgr9ppW9s57) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/301VhYBzUrqt9del8BwzD7) | 3:30 | 2022-02-14 | 2022-07-27 |
 | [Corno](https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ) | 3:30 | 2022-07-22 | 2023-07-18 |

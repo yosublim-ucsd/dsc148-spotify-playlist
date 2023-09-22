@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-157 songs - 9 hr 52 min
+158 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Wonder](https://open.spotify.com/track/7wq53xU6AozEaJV4CgNMQq) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 6:32 | 2021-10-14 | 2023-02-02 |
 | [Wonder](https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 6:32 | 2021-10-14 |  |
 | [You Could Be Happy](https://open.spotify.com/track/6Cvy3TuGdUwhIfOxPPAMAD) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [You Could Be Happy](https://open.spotify.com/album/6tuzebWCjaHiJWWmT9L1FM) | 3:32 | 2021-10-14 |  |
-| [Your Hero Is Not Dead](https://open.spotify.com/track/3fxs1Jh98EQTJwvOJMAp09) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 3:35 | 2021-10-14 |  |
+| [Your Hero Is Not Dead](https://open.spotify.com/track/0Os1iv3wtatz1HfoPphLgu) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk) | 3:35 | 2023-03-27 |  |
+| [Your Hero Is Not Dead](https://open.spotify.com/track/3fxs1Jh98EQTJwvOJMAp09) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 3:35 | 2021-10-14 | 2023-09-22 |
 | [Your Hero Is Not Dead](https://open.spotify.com/track/5bn1TM8cWtBlJsTP4k8quw) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/4jpaYDN9YNMKG4uoGvq8if) | 3:35 | 2021-10-14 | 2022-07-29 |
 | [Your Soul](https://open.spotify.com/track/6n1HCApXCafWSThDAdBaTf) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Morning \- EP](https://open.spotify.com/album/4RKu9jqb5074p9VGobJqac) | 3:51 | 2021-10-14 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 17793,
+  "num_followers": 17812,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2VjNTI0MzAxNjUwNmMyM2IyZDNmMmVmODY2N2MwZDc2ZjRkYTEy",
+  "snapshot_id": "MCwwMTNmZGNlZjQxNTA0YjkxYzM3MzlhZDg4M2QzYjc4NjlhYmVjMWNj",
   "tracks": [
     {
       "added_at": "2023-09-15 03:03:01",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-09-15 03:03:01",
       "album": {
-        "name": "Que Seja",
-        "url": "https://open.spotify.com/album/559vhzfF3rMa1ohkj0cKhf"
-      },
-      "artists": [
-        {
-          "name": "morgana",
-          "url": "https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy"
-        }
-      ],
-      "duration_ms": 278374,
-      "name": "Que Seja",
-      "url": "https://open.spotify.com/track/4fTZRHPABEvDkfczCrvTtG"
-    },
-    {
-      "added_at": "2023-09-15 03:03:01",
-      "album": {
         "name": "bem vi",
         "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 197297,
       "name": "bem vi",
       "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
+    },
+    {
+      "added_at": "2023-09-15 03:03:01",
+      "album": {
+        "name": "Que Seja",
+        "url": "https://open.spotify.com/album/559vhzfF3rMa1ohkj0cKhf"
+      },
+      "artists": [
+        {
+          "name": "morgana",
+          "url": "https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy"
+        }
+      ],
+      "duration_ms": 278374,
+      "name": "Que Seja",
+      "url": "https://open.spotify.com/track/4fTZRHPABEvDkfczCrvTtG"
     },
     {
       "added_at": "2023-09-15 03:03:01",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-09-15 03:03:01",
       "album": {
-        "name": "Menino Bom",
-        "url": "https://open.spotify.com/album/0lGSIguWZPGBJ6HsljM9MC"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        }
-      ],
-      "duration_ms": 203006,
-      "name": "Menino Bom",
-      "url": "https://open.spotify.com/track/7Cj4srkuBIVpIiBaVxl6B4"
-    },
-    {
-      "added_at": "2023-09-15 03:03:01",
-      "album": {
         "name": "Bate Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 177141,
       "name": "Bate Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN"
+    },
+    {
+      "added_at": "2023-09-15 03:03:01",
+      "album": {
+        "name": "Menino Bom",
+        "url": "https://open.spotify.com/album/0lGSIguWZPGBJ6HsljM9MC"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        }
+      ],
+      "duration_ms": 203006,
+      "name": "Menino Bom",
+      "url": "https://open.spotify.com/track/7Cj4srkuBIVpIiBaVxl6B4"
     },
     {
       "added_at": "2023-09-15 03:03:01",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-09-15 03:03:01",
       "album": {
-        "name": "Amor de Sonhos",
-        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Amor de Sonhos",
-      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
-    },
-    {
-      "added_at": "2023-09-15 03:03:01",
-      "album": {
         "name": "Corro Atr\u00e1s",
         "url": "https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 225920,
       "name": "Corro Atr\u00e1s",
       "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
+    },
+    {
+      "added_at": "2023-09-15 03:03:01",
+      "album": {
+        "name": "Amor de Sonhos",
+        "url": "https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Amor de Sonhos",
+      "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
     },
     {
       "added_at": "2023-09-15 03:03:01",
@@ -663,6 +663,26 @@
     {
       "added_at": "2023-09-15 03:03:01",
       "album": {
+        "name": "Luz Na Madrugada / Late Night Light",
+        "url": "https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fonte",
+          "url": "https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 215742,
+      "name": "L\u00e1grima na L\u00edngua",
+      "url": "https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc"
+    },
+    {
+      "added_at": "2023-09-15 03:03:01",
+      "album": {
         "name": "Casal Desgra\u00e7a",
         "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 167551,
       "name": "Jardins",
       "url": "https://open.spotify.com/track/7oOrG9wjvIDmbKgkhWgXN8"
-    },
-    {
-      "added_at": "2023-09-15 03:03:01",
-      "album": {
-        "name": "Luz Na Madrugada / Late Night Light",
-        "url": "https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fonte",
-          "url": "https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm"
-        },
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 215742,
-      "name": "L\u00e1grima na L\u00edngua",
-      "url": "https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc"
     },
     {
       "added_at": "2023-09-15 03:03:01",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-09-15 03:03:01",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/44Q8sR9GnEKNPbRTzgxn6a"
-      },
-      "artists": [
-        {
-          "name": "Furtacor",
-          "url": "https://open.spotify.com/artist/5M3aKqzzXYtIX8gVqgONpu"
-        }
-      ],
-      "duration_ms": 266126,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/2vGxaToNoVKIi1XKvz9GLy"
-    },
-    {
-      "added_at": "2023-09-15 03:03:01",
-      "album": {
         "name": "Quartinho",
         "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 133000,
       "name": "Quartinho",
       "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
+    },
+    {
+      "added_at": "2023-09-15 03:03:01",
+      "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/44Q8sR9GnEKNPbRTzgxn6a"
+      },
+      "artists": [
+        {
+          "name": "Furtacor",
+          "url": "https://open.spotify.com/artist/5M3aKqzzXYtIX8gVqgONpu"
+        }
+      ],
+      "duration_ms": 266126,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/2vGxaToNoVKIi1XKvz9GLy"
     },
     {
       "added_at": "2023-09-15 03:03:01",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-09-15 03:03:01",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
-        {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
-        }
-      ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2023-09-15 03:03:01",
-      "album": {
         "name": "Ideia Errada",
         "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-09-15 03:03:01",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
       },
       "artists": [
         {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
         }
       ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2023-09-15 03:03:01",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2023-09-15 03:03:01",
       "album": {
-        "name": "Surrender!",
-        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
       },
       "artists": [
         {
-          "name": "Bemti",
-          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
         }
       ],
-      "duration_ms": 189030,
-      "name": "Surrender!",
-      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
     },
     {
       "added_at": "2023-09-15 03:03:01",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2023-09-15 03:03:01",
       "album": {
+        "name": "Surrender!",
+        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
+      },
+      "artists": [
+        {
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+        }
+      ],
+      "duration_ms": 189030,
+      "name": "Surrender!",
+      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
+    },
+    {
+      "added_at": "2023-09-15 03:03:01",
+      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
       },
@@ -1119,26 +1119,6 @@
       "duration_ms": 176398,
       "name": "Me Liga",
       "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
-    },
-    {
-      "added_at": "2023-09-15 03:03:01",
-      "album": {
-        "name": "facetime",
-        "url": "https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg"
-        },
-        {
-          "name": "Felipe Phyre",
-          "url": "https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc"
-        }
-      ],
-      "duration_ms": 181197,
-      "name": "perigo !!!",
-      "url": "https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1"
     },
     {
       "added_at": "2023-09-15 03:03:01",
@@ -1175,6 +1155,26 @@
       "duration_ms": 152137,
       "name": "Deixa Pra L\u00e1",
       "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
+    },
+    {
+      "added_at": "2023-09-15 03:03:01",
+      "album": {
+        "name": "facetime",
+        "url": "https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg"
+        },
+        {
+          "name": "Felipe Phyre",
+          "url": "https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc"
+        }
+      ],
+      "duration_ms": 181197,
+      "name": "perigo !!!",
+      "url": "https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1"
     },
     {
       "added_at": "2023-09-15 03:03:01",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-09-15 03:03:01",
       "album": {
-        "name": "Disfar\u00e7a",
-        "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
+        "name": "Ilumina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0ylkFXM9W3rU9KdYKCcxhz"
       },
       "artists": [
         {
-          "name": "Silveri\u00f4",
-          "url": "https://open.spotify.com/artist/2Sj8CPktStO7Fy4Ny2qbyg"
+          "name": "Ramat\u00eds",
+          "url": "https://open.spotify.com/artist/7v956Fy6H2PndqEGwJFPy3"
         }
       ],
-      "duration_ms": 159736,
-      "name": "Disfar\u00e7a",
-      "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
+      "duration_ms": 182812,
+      "name": "Ilumina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5sp58UU6H0Nt64JyW2AteE"
     }
   ],
   "unique_name": "Fresh Finds Brasil",

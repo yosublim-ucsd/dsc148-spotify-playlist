@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-356 songs - 1 day 1 hr 55 min
+357 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Drume negrita](https://open.spotify.com/track/4SDJ1j1yDow7XtZkd3KG1f) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx), [Manuel Galbán](https://open.spotify.com/artist/5uG50qso5XAfxs6BeXdnld) | [Mambo Sinuendo](https://open.spotify.com/album/7Bbr1kphzvv9LEUoAFMmkj) | 4:59 | 2023-07-10 |  |
 | [Dunia](https://open.spotify.com/track/2z0uvX4r1dxtUXQ4ZPlxkz) | [Yohann Le Ferrand Yeko](https://open.spotify.com/artist/3y07qo45MpNyhqm6LULsb3), [Tina](https://open.spotify.com/artist/1nmKkJDDGhnTAk2RW094D5) | [Dunia](https://open.spotify.com/album/417uYyIQaYK9xlMLISTwLi) | 4:00 | 2023-07-10 |  |
 | [Désolé \(feat\. Fatoumata Diawara\)](https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine Episode 2](https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN) | 3:56 | 2023-07-10 |  |
-| [Eko Ile](https://open.spotify.com/track/0VRPHLUhnbdoPvGUVRhsfL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Afrodisiac](https://open.spotify.com/album/2cBh3ze0atDVhWhFUDoikD) | 6:41 | 2023-07-10 |  |
+| [Eko Ile](https://open.spotify.com/track/0VRPHLUhnbdoPvGUVRhsfL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Afrodisiac](https://open.spotify.com/album/2cBh3ze0atDVhWhFUDoikD) | 6:41 | 2023-07-10 | 2023-09-22 |
 | [El Cuarto de Tula](https://open.spotify.com/track/5zin8iiYEO4UkSxuJl4wX5) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [El Cuarto de Tula](https://open.spotify.com/album/6DUStCCysG291DlT5mnaky) | 4:13 | 2023-07-10 |  |
 | [El Desierto](https://open.spotify.com/track/4aTaow76b7IgtlkhpVhCra) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 3:53 | 2023-07-10 |  |
 | [El Golpe de Mi Tambó](https://open.spotify.com/track/0EfyzpUqq2Y4G7PfVA8Vgz) | [Tonada](https://open.spotify.com/artist/0aYGi4HGjUp3ENSoRBpv47) | [Mi Tonada](https://open.spotify.com/album/1y0PMSgXo4l8O6V1zpKeKJ) | 3:59 | 2023-07-10 |  |
@@ -255,6 +255,7 @@
 | [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 |  |
 | [Ototoa](https://open.spotify.com/track/17eRr1u5GeuZiKpOmCi9gw) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Visit Malphino](https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa) | 4:15 | 2023-07-10 |  |
 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 | 2023-07-10 |  |
+| [Pa ri nan male'm](https://open.spotify.com/track/6UHVo0ll6wwAKutKbgbdm2) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Dizan](https://open.spotify.com/album/0mT2Oej5aCLf47fQtz6XDA) | 3:57 | 2023-07-10 |  |
 | [Pacifique](https://open.spotify.com/track/5kBAS93dHatBVw5lve0NVF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Chienne de vie](https://open.spotify.com/album/7c6Z4B7NbzngH484t8jrFQ) | 6:42 | 2023-07-10 |  |
 | [Palea](https://open.spotify.com/track/7cwmwDUVlrsH78TMBijAA4) | [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [Na Afriki](https://open.spotify.com/album/0iq6cp0xVs0NTIcBr1W6bt) | 3:39 | 2023-07-10 |  |
 | [Paleta](https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4) | 2:38 | 2023-07-10 |  |

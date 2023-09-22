@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 3241,
+  "num_followers": 3246,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGMyNDY2ZjIzNmEyYTI3Nzg1NzczNTYyZjE0ZjEzYmFhNjlhMGZl",
+  "snapshot_id": "MCwwNTVjOTAzMmU3NzZmODNlNTdkZDIzZjhiZjkzMTY2YTNiMmE5YWVh",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
+      },
+      "artists": [
+        {
+          "name": "Timecop1983",
+          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
+        }
+      ],
+      "duration_ms": 358200,
+      "name": "It Was Only a Dream",
+      "url": "https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Onyx",
         "url": "https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 337816,
       "name": "Ones Atop the Unknown",
       "url": "https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
-      },
-      "artists": [
-        {
-          "name": "Timecop1983",
-          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
-        }
-      ],
-      "duration_ms": 358200,
-      "name": "It Was Only a Dream",
-      "url": "https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "I Am the Night",
+        "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
+      },
+      "artists": [
+        {
+          "name": "Perturbator",
+          "url": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
+        }
+      ],
+      "duration_ms": 381424,
+      "name": "The Price of Failure",
+      "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Black Corner Den",
         "url": "https://open.spotify.com/album/10flibooBjjwWKy02B5obV"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 264127,
       "name": "Prepare the Stage of Night",
       "url": "https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "I Am the Night",
-        "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
-      },
-      "artists": [
-        {
-          "name": "Perturbator",
-          "url": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
-        }
-      ],
-      "duration_ms": 381424,
-      "name": "The Price of Failure",
-      "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Disintegration Loops (Remastered)",
-        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 650213,
-      "name": "dlp 2.1",
-      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 265200,
       "name": "Exile on \u00c6r\u00f8",
       "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Disintegration Loops (Remastered)",
+        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 650213,
+      "name": "dlp 2.1",
+      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -833,20 +833,20 @@
       "url": "https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2"
     },
     {
-      "added_at": "2022-08-24 01:38:29",
+      "added_at": "2022-09-03 03:45:57",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR"
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
       },
       "artists": [
         {
-          "name": "Eusebeia",
-          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
         }
       ],
-      "duration_ms": 101380,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -889,36 +889,20 @@
       "url": "https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k"
     },
     {
-      "added_at": "2022-09-03 03:45:57",
+      "added_at": "2022-08-24 01:38:29",
       "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR"
       },
       "artists": [
         {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+          "name": "Eusebeia",
+          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
         }
       ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
-      },
-      "artists": [
-        {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
-        }
-      ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+      "duration_ms": 101380,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -935,6 +919,22 @@
       "duration_ms": 508630,
       "name": "The Moment Before You Fall Asleep",
       "url": "https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+      },
+      "artists": [
+        {
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+        }
+      ],
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Translucent Communion",
-        "url": "https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl"
-      },
-      "artists": [
-        {
-          "name": "Vestigial",
-          "url": "https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Anthropic Uncreation",
-      "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Sea of Black",
         "url": "https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Berberian Sound Studio",
-        "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
+        "name": "Translucent Communion",
+        "url": "https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl"
       },
       "artists": [
         {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+          "name": "Vestigial",
+          "url": "https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Teresa, Lark of Ascension",
-      "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
+      "duration_ms": 316840,
+      "name": "Anthropic Uncreation",
+      "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1031,6 +1015,22 @@
       "duration_ms": 554760,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Berberian Sound Studio",
+        "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Teresa, Lark of Ascension",
+      "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
     },
     {
       "added_at": "2022-07-06 17:58:03",

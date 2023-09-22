@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,840 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,863 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 49 | [Oh Ho Ho Ho \(Remix\)](https://open.spotify.com/track/3F0I9AkbRwz12yz7Hxn0bF) | [Sukhbir](https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Hindi Medium](https://open.spotify.com/album/5wUJ0hK8HJMpf5WEotPihO) | 4:04 |
 | 50 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 
-Snapshot ID: `MCxiMjU5OTU5MzI5M2ViZjg4OGMzNzYzZDYzNmUyNDE3MGFjNGEzNzM0`
+Snapshot ID: `MCw3ZjA5NWE5NmJhYmEwZWUyMzU4MTc3NGM1NmViYWY0OTljZjI5YTQ3`

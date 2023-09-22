@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 139826,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/0EReTW8JFj00nBZszTFivN"
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 209550,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/1bMt3LbZFKOu6yBYz26Qet"
@@ -3577,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Le plus beau spectacle",
+        "url": "https://open.spotify.com/album/7kZbRxL3VXbGOLagL7LihD"
+      },
+      "artists": [
+        {
+          "name": "Claire days",
+          "url": "https://open.spotify.com/artist/51Vw9YWwshaKc9xqtHnNES"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224270,
+      "name": "Le plus beau spectacle",
+      "url": "https://open.spotify.com/track/6haDeFzU2VjvjR8XRLln1F"
+    },
+    {
+      "album": {
         "name": "Out Loud",
         "url": "https://open.spotify.com/album/0LGn3ez9k4sgR5WT2XFD0i"
       },
@@ -3802,6 +3820,24 @@
       "duration_ms": 201720,
       "name": "Looking Backward",
       "url": "https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr"
+    },
+    {
+      "album": {
+        "name": "Lost and found",
+        "url": "https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242979,
+      "name": "Lost and found",
+      "url": "https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl"
     },
     {
       "album": {
@@ -4056,7 +4092,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 169151,
       "name": "Mieux",
       "url": "https://open.spotify.com/track/3Oo0XpUDdm8HNH6YMhkdYa"
@@ -4624,7 +4660,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 192426,
       "name": "Nuit agit\u00e9e",
       "url": "https://open.spotify.com/track/0n7r4I54aTWmzM0uyvqWiY"
@@ -5174,6 +5210,28 @@
       "duration_ms": 175774,
       "name": "Plus loin",
       "url": "https://open.spotify.com/track/2RizyXfCW91VVmgZDWi0oY"
+    },
+    {
+      "album": {
+        "name": "Polka (feat. Mathieu Boogaerts)",
+        "url": "https://open.spotify.com/album/1VuQsHuRsr1KMPjysZuDs8"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Boogaerts",
+          "url": "https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ"
+        },
+        {
+          "name": "Mr GISCARD",
+          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176120,
+      "name": "Polka (feat. Mathieu Boogaerts)",
+      "url": "https://open.spotify.com/track/5bDAWKeNJbEpIMqaUx5GfR"
     },
     {
       "album": {
@@ -6118,6 +6176,24 @@
       "duration_ms": 155368,
       "name": "SUR LE COEUR",
       "url": "https://open.spotify.com/track/1dBsbSQlzdEAbSehMB6bD9"
+    },
+    {
+      "album": {
+        "name": "Chambre Noire, Vol. 1",
+        "url": "https://open.spotify.com/album/4pam5MIIbElV9WVZibgJJi"
+      },
+      "artists": [
+        {
+          "name": "Golf Trip",
+          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/2cJ2LCRO3UNbf3F20CaUh8"
     },
     {
       "album": {

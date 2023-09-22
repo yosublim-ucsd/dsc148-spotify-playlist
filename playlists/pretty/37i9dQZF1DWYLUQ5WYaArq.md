@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > 'Do you remember, the 21st night of September?' It's time to groove with Earth, Wind & Fire and more Funk, Soul and Disco artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,766 likes - 52 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,951 likes - 52 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 51 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
 | 52 | [More Than A Woman](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 |
 
-Snapshot ID: `MCw1YjQ1ODQzM2VkY2YyZDNlMjNjNTE3YmUwNjZlNDM3OGE5MTQ1MDQ4`
+Snapshot ID: `MCwyZTRmNjc0YmUyYjQ4Y2E0YzA5ODIyNDFjNDQxYjIxM2QwMmEwZGFi`

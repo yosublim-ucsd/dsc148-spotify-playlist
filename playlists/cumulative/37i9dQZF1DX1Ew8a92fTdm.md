@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-227 songs - 5 hr 46 min
+230 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Dreamscape](https://open.spotify.com/track/3xr80E2YijvMBXXZVk3Xds) | [Vera Boye](https://open.spotify.com/artist/0N60MVY1TWov2PjfpcDNH1) | [Dreamscape](https://open.spotify.com/album/0zajkqibzIYQI3N00afUr2) | 2:12 | 2023-02-17 |  |
 | [Du kära lille snickarbo](https://open.spotify.com/track/7ej3sLTJUZl8DuFsvGfZ1A) | [Rene Roses](https://open.spotify.com/artist/221z7KkoNPAehx4DhjF33f) | [Du kära lille snickarbo](https://open.spotify.com/album/3jAwCwcqjsGdPSkrcA68Co) | 1:51 | 2023-04-20 | 2023-06-03 |
 | [Du Käre Lille Snickerbo](https://open.spotify.com/track/2j5V6KE9r2ZtAYql8B9L5b) | [Jim WInce](https://open.spotify.com/artist/7Jr1tryBYAsWD0LeTwr1LF) | [Du Käre Lille Snickerbo](https://open.spotify.com/album/26EFRwAOhaDc3sg3QyH5ai) | 1:14 | 2023-02-17 | 2023-06-03 |
+| [Ducky](https://open.spotify.com/track/7enLnYS2L3VSwiasZWAiop) | [Little Magic Musicbox](https://open.spotify.com/artist/6CFYooGYq34rOAroXRCltR) | [Ducky](https://open.spotify.com/album/2zUZd4r8kQfyTZ8nqhf0Ra) | 1:40 | 2023-09-22 |  |
 | [Duermete Mi Nino](https://open.spotify.com/track/17kSN7QuksZHy3gTzU3v0M) | [Aza Leah](https://open.spotify.com/artist/115UYzeXQVMBYRvWZRiXFT) | [Duermete Mi Nino](https://open.spotify.com/album/4wVoUM7VFbIDommXI56Jvd) | 1:25 | 2022-02-10 | 2023-01-20 |
 | [Edelweiss](https://open.spotify.com/track/4Q5Gw98e96xyi67kB0naKw) | [Steffen Traugott](https://open.spotify.com/artist/4ThuGJiGjqGCld82PmOUt1) | [Wiegenlieder](https://open.spotify.com/album/2WUXZ2EIqoJHekyDWlTLSW) | 1:02 | 2022-02-10 |  |
 | [Edelweiss](https://open.spotify.com/track/4owbjiVRN3BbtDueur0vFW) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [Edelweiss](https://open.spotify.com/album/4qKXRag8TFCZnybgX0x2GO) | 1:22 | 2022-02-10 | 2022-04-23 |
@@ -111,6 +112,7 @@
 | [It's So Dark](https://open.spotify.com/track/5fa4i6QCrVZ67iAAggH7fE) | [Joyce O'Doherty](https://open.spotify.com/artist/0BhmSnbI95ljdLhEPzRXoU) | [It's So Dark](https://open.spotify.com/album/4Zj4uCUzd7w4AP7miOrg4f) | 1:22 | 2022-05-17 |  |
 | [It's Time to Go To Sleep](https://open.spotify.com/track/0G97kSQ8Jk7tgJqet5EsNx) | [Maisy Meadows](https://open.spotify.com/artist/4qrdfPAxLCLe0EFw38JhjN) | [Time](https://open.spotify.com/album/7p8wB7yhmeSZpYfWidYoCg) | 1:46 | 2022-02-10 |  |
 | [Itsy Bitsy Spider](https://open.spotify.com/track/5GmmttXZcF790b4rf0dbUa) | [Rick Flemm](https://open.spotify.com/artist/3Z7sI9OvtPJDAtjrZQKIAE) | [All Time Favorite Lullabies](https://open.spotify.com/album/0c6lcJKUnuBj8qtwZDgXpw) | 1:10 | 2022-02-10 |  |
+| [I´m Yours](https://open.spotify.com/track/2pBrocoT9X0iVXHeA3WqoV) | [Fab Greenwich](https://open.spotify.com/artist/35OzUznezj2Y175Y1fekEg) | [I´m Yours](https://open.spotify.com/album/4VjHnisQEgDqkSYoosOMkD) | 1:32 | 2023-09-22 |  |
 | [John Blund](https://open.spotify.com/track/3YNJRAOhFEQtebjq8j6sWN) | [Mel Rhodes](https://open.spotify.com/artist/4w5EOctmJhCFqHsXJw5nT4) | [John Blund](https://open.spotify.com/album/4mQHKIcKPh6CmIxcpYOuLK) | 1:19 | 2023-04-20 |  |
 | [Joyful Dreams](https://open.spotify.com/track/34vSdcmFgbjKihXgDumzZ2) | [Sarah Deville](https://open.spotify.com/artist/1MD5iwjDr1S6N8y0U81y2l) | [Joyful Dreams](https://open.spotify.com/album/48BRkijGa9KDMkWltUiuTp) | 1:19 | 2022-02-10 | 2023-05-19 |
 | [Klättermusens Vaggvisa](https://open.spotify.com/track/6H0ne2RkpMwJjiGN0jvRS6) | [Mika Nordlind](https://open.spotify.com/artist/6hnc50bJnPjV4YHbpz4ooq) | [Speldosans Vaggvisor 2](https://open.spotify.com/album/6v7RcI1Xqao7xI8xOyIieM) | 1:18 | 2022-02-10 | 2023-08-11 |
@@ -128,6 +130,7 @@
 | [Main Theme \(From "Björnes Magasin"\) Music Box Version](https://open.spotify.com/track/2eysdfS200MPTHZ5BsDH7m) | [Abie Anderson](https://open.spotify.com/artist/3o78La1Sg11Ola3Qk9hai0) | [Main Theme \(From Björnes Magasin\)](https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb) | 1:27 | 2022-11-25 | 2023-08-26 |
 | [Mary Had a Little Lamb](https://open.spotify.com/track/0HBraBC6wDKgcamaMPAzJH) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Music Box](https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl) | 1:52 | 2023-08-24 |  |
 | [Merrily We Roll Along](https://open.spotify.com/track/5BUh5drj0lOvk5Z3EwTcJr) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Merrily We Roll Along](https://open.spotify.com/album/0hlAAwwQ8rOTvDt78fZzCW) | 0:41 | 2023-06-21 |  |
+| [Milky Way Dreams](https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Milky Way Dreams](https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk) | 1:54 | 2023-09-22 |  |
 | [Minuet in G major](https://open.spotify.com/track/1dbOTzFPfYfIjGeMKZG014) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Classics on Music Box](https://open.spotify.com/album/5bMZ8ncLdI2lF2nKzPgmPx) | 1:13 | 2022-02-10 |  |
 | [Mon papa est fou!](https://open.spotify.com/track/4yLF6kMSFyQRaEVfBE3QJ3) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Mon papa est fou!](https://open.spotify.com/album/44OlIOrbu2SBVRgs3tXUF3) | 1:17 | 2022-02-10 |  |
 | [My Beautiful Angel](https://open.spotify.com/track/6Qn9XmS9eJuCUiSe18BDTO) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [My Beautiful Angel](https://open.spotify.com/album/1NtyYirkKFHiSZAdOKvIUO) | 1:26 | 2023-05-19 |  |

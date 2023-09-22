@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,882 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,944 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 99 | [Get High](https://open.spotify.com/track/7ILOofpdpK1uuB7kD1SBYN) | [Stereo Fear](https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Spaced Out](https://open.spotify.com/album/6v1Er5MlyuxD3f6dAZP96i) | 1:43 |
 | 100 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 
-Snapshot ID: `MCwxZDZjYTRmNWU2ZDAwNjQyYjUxN2VkZDM5M2RkZjNjMzFhYjkwNzFh`
+Snapshot ID: `MCw1NWEwMGI5NGJhMGQyN2NhOTRkN2ViYjczNDAxMzUzMjM1NmJiMmRj`

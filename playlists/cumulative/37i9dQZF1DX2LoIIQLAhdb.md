@@ -2,7 +2,7 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Joé Dwèt Filé x Dadju
+> Le R&B français, nouvelle ère\. Photo : Ronisia
 
 189 songs - 9 hr 11 min
 
@@ -150,7 +150,7 @@
 | [Pic au cœur](https://open.spotify.com/track/5gCEpTSrkOsJvPynrPnCtf) | [Feejoke](https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i) | [Pic au cœur](https://open.spotify.com/album/6rf3Yn6OEpZroovlI5t6uu) | 2:40 | 2022-12-01 | 2023-01-20 |
 | [Piqué](https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Piqué](https://open.spotify.com/album/6eFH0BH4jl3Qtg3thlwklG) | 2:36 | 2022-11-24 | 2022-12-16 |
 | [Plan séquence](https://open.spotify.com/track/75apUo1MSFcDPBf7n26HfC) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Plan séquence](https://open.spotify.com/album/7I8s09xLqtaNMjN3RGTX8q) | 2:49 | 2022-11-24 | 2023-01-27 |
-| [Plus fort](https://open.spotify.com/track/7e1meVSbvi7Khq18QL0Wbn) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Plus fort](https://open.spotify.com/album/3uObZqyRFN3G78ywP9xVpk) | 2:56 | 2023-09-14 |  |
+| [Plus fort](https://open.spotify.com/track/7e1meVSbvi7Khq18QL0Wbn) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl), [Joé Dwèt Filé](https://open.spotify.com/artist/5ndUyzzVSnOtUYoBsI1m5v) | [Plus fort](https://open.spotify.com/album/3uObZqyRFN3G78ywP9xVpk) | 2:56 | 2023-09-14 |  |
 | [Pour nous](https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Pour nous](https://open.spotify.com/album/51rumLSZOQswEty93fSey3) | 2:47 | 2023-07-20 |  |
 | [Pourquoi pas](https://open.spotify.com/track/1X0N8oqu5d6K7gTxdPwIBO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 3:21 | 2022-11-24 | 2023-05-26 |
 | [Promesses](https://open.spotify.com/track/7xxid48pIcAmxB60s3YFg0) | [Kidaki](https://open.spotify.com/artist/5N12NARVDJvkSSRye0G49M) | [Vnus](https://open.spotify.com/album/0beyPn4CEcx2oWOCDYnrMm) | 3:26 | 2023-06-22 | 2023-07-28 |

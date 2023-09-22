@@ -4,7 +4,7 @@
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-172 songs - 10 hr 4 min
+173 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Midway](https://open.spotify.com/track/4RFQqoOFw0pdropkjrPnh3) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Psychic Reader](https://open.spotify.com/album/5klZj0GbathSjaZZBD2Qxm) | 3:04 | 2022-02-09 | 2023-05-19 |
 | [Monologue](https://open.spotify.com/track/0gQjJqKwVi7gVa6gug15eS) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Yun Hee Won](https://open.spotify.com/artist/6WQvcRsS7YQYK3g0ye6NZa) | [Monologue](https://open.spotify.com/album/5HP7s1JfT4pVYMo4kpGgX2) | 3:33 | 2023-05-18 |  |
 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 | 2022-02-09 | 2023-05-19 |
-| [Nadir](https://open.spotify.com/track/5pGCxazPxShO5jBpOyM85f) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Modern Addiction](https://open.spotify.com/album/36uRsDIqy2qooBY9gum3qC) | 4:01 | 2022-02-09 |  |
+| [Nadir](https://open.spotify.com/track/2r2Ldl32zG3QqxPqRn4y9y) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Modern Addiction](https://open.spotify.com/album/4adKMYVbwASpIYG4Ky6GS0) | 4:01 | 2023-07-07 |  |
+| [Nadir](https://open.spotify.com/track/5pGCxazPxShO5jBpOyM85f) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Modern Addiction](https://open.spotify.com/album/36uRsDIqy2qooBY9gum3qC) | 4:01 | 2022-02-09 | 2023-09-22 |
 | [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 | 2023-05-18 |  |
 | [Nobody](https://open.spotify.com/track/19SDHacvs49xXppoYt0Jog) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:48 | 2023-05-18 |  |
 | [Nobody Compares To You \(feat\. Katie Pearlman\)](https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:51 | 2022-02-09 | 2023-05-19 |

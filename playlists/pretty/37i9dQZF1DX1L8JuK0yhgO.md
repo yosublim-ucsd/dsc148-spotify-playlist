@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,780 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,785 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [M \(feat\. SANTAWORLDVIEW\) \- Bonus Track](https://open.spotify.com/track/0fh0h6cuxgeTMje0stePaG) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP), [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [22 \(Deluxe Edition\)](https://open.spotify.com/album/29NhzbgbDRenNGD4o9QRmc) | 3:02 |
 | 60 | [メロディ \(feat\. 蒔田彩珠 & 髙石あかり\)](https://open.spotify.com/track/59MOghNeV6K16bCxsRsaTY) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [蒔田彩珠](https://open.spotify.com/artist/4XORR0FPl43HuS4ZMgSrjg), [髙石あかり](https://open.spotify.com/artist/7C8Jhm5iqg2Wjwte4neNrT) | [メロディ \(feat\. 蒔田彩珠 & 髙石あかり\)](https://open.spotify.com/album/5cnBdECOvU0mv7sXn7snG3) | 3:49 |
 
-Snapshot ID: `MCxjNjgwNzA5MDAyMjA2ZGE1NjljNjBlZmRkYzA2YWMwYTQ0OTNhNTE4`
+Snapshot ID: `MCw4MzY2ZThiYjIxZWMzNGQ2NWJkZGNjM2UxOWM4Zjg1ZjI0NDgxNDI1`

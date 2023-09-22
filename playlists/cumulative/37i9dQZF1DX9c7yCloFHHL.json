@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 447000,
       "name": "25\u00b0C",
       "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
@@ -2950,7 +2950,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
@@ -4814,7 +4814,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 192914,
       "name": "Dependent",
       "url": "https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna"
@@ -5322,6 +5322,28 @@
       "duration_ms": 390000,
       "name": "Dust Bunnies",
       "url": "https://open.spotify.com/track/1uG8DEmAZnIVTkjnKdM2bP"
+    },
+    {
+      "album": {
+        "name": "Dustlight",
+        "url": "https://open.spotify.com/album/3kHsgHE9cPsOxDcw3nVBMx"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        },
+        {
+          "name": "Moshimoss",
+          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214841,
+      "name": "Dustlight",
+      "url": "https://open.spotify.com/track/4wVkEXl1cGlLHnIrKnGGL5"
     },
     {
       "album": {
@@ -6200,7 +6222,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
@@ -10077,6 +10099,24 @@
     },
     {
       "album": {
+        "name": "The Things We've Said and Done",
+        "url": "https://open.spotify.com/album/4S6UybRbvPeUZTtaKfAAuB"
+      },
+      "artists": [
+        {
+          "name": "Infralyd",
+          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264485,
+      "name": "Long Day?",
+      "url": "https://open.spotify.com/track/1MfqvxG31pJfnyL6xaWHu9"
+    },
+    {
+      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -11556,7 +11596,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 403500,
       "name": "Music For The Motion Picture Double Life",
       "url": "https://open.spotify.com/track/1ZsanfKyO9ARX3UHZknXWO"
@@ -17886,7 +17926,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 207000,
       "name": "Then",
       "url": "https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf"
@@ -19342,7 +19382,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 192283,
       "name": "Vapors",
       "url": "https://open.spotify.com/track/4GGdwZABjIFSnFGavhd7Ge"
@@ -20398,7 +20438,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 368000,
       "name": "Woodland Encounter",
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"

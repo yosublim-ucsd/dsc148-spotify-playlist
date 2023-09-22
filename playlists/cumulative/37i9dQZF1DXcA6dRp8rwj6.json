@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Diddy)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Doja Cat)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 133920,
       "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
       "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
+    },
+    {
+      "album": {
         "name": "AHHH HA",
         "url": "https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi"
       },
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 144000,
       "name": "Air4",
       "url": "https://open.spotify.com/track/27JkxaTk7a8fBcpcB6Pf5y"
@@ -4356,7 +4374,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 165376,
       "name": "BLICKY",
       "url": "https://open.spotify.com/track/3SzkIqNNNZi5q9y5OeOxoy"
@@ -4790,7 +4808,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 159560,
       "name": "Booty Drop",
       "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
@@ -5038,7 +5056,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 117677,
       "name": "Boy Oh Boy",
       "url": "https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF"
@@ -6772,7 +6790,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 168880,
       "name": "Closed Doors (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13"
@@ -6834,6 +6852,32 @@
       "duration_ms": 196880,
       "name": "Clumsy Dancer",
       "url": "https://open.spotify.com/track/6LuD2JSlTWmidYCxwoDwMw"
+    },
+    {
+      "album": {
+        "name": "COAST 2 COAST",
+        "url": "https://open.spotify.com/album/1Dvrc3x8zJttcnlwv5jDCV"
+      },
+      "artists": [
+        {
+          "name": "Liquid Silva",
+          "url": "https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG"
+        },
+        {
+          "name": "DJ Evil Cutz",
+          "url": "https://open.spotify.com/artist/6cCKqfQ2GdS9otQ3810gXZ"
+        },
+        {
+          "name": "ICEBOX ID",
+          "url": "https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "COAST 2 COAST",
+      "url": "https://open.spotify.com/track/6aImV2MIeIuQcVv7QNF9Bi"
     },
     {
       "album": {
@@ -7016,6 +7060,28 @@
       "duration_ms": 161118,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/7GUfVFTW0A0tJsfXOHSo9R"
+    },
+    {
+      "album": {
+        "name": "Perish Blue (Fall Tour)",
+        "url": "https://open.spotify.com/album/69ivKBrtrEGTlP7g0c2aX3"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205412,
+      "name": "Come See Me Live",
+      "url": "https://open.spotify.com/track/05QPyN9ixkuKZgrddbD2xt"
     },
     {
       "album": {
@@ -7991,6 +8057,24 @@
     },
     {
       "album": {
+        "name": "Dead or Alive",
+        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
+    },
+    {
+      "album": {
         "name": "Dead Wrong",
         "url": "https://open.spotify.com/album/3znv6GDb3h4zrDGHTZpyFj"
       },
@@ -8426,6 +8510,24 @@
       "duration_ms": 179533,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
+    },
+    {
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3eUsPahj6UMdIBreWMxUMO"
+      },
+      "artists": [
+        {
+          "name": "Yonnyboii",
+          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209394,
+      "name": "Dilamun",
+      "url": "https://open.spotify.com/track/7AB7DpmOpwIWaLAxCMxmY1"
     },
     {
       "album": {
@@ -9532,7 +9634,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 216813,
       "name": "Dump On Em",
       "url": "https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz"
@@ -9803,6 +9905,36 @@
     },
     {
       "album": {
+        "name": "Eurostep",
+        "url": "https://open.spotify.com/album/1FKTfT90LqbZ8Hd2Z956OG"
+      },
+      "artists": [
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183585,
+      "name": "Eurostep",
+      "url": "https://open.spotify.com/track/2Yhh3kAr0UVse0b8JvwHHH"
+    },
+    {
+      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/2VZAtWEvKIReS3GDF38Kyf"
       },
@@ -9844,6 +9976,28 @@
       "duration_ms": 187469,
       "name": "Everything BoZ",
       "url": "https://open.spotify.com/track/2WbLZ6T8lsA1pQ22tPKXDG"
+    },
+    {
+      "album": {
+        "name": "Existe feat. Daichi Yamamoto (Blended by tofubeats)",
+        "url": "https://open.spotify.com/album/5OO4rVydstHpmDrDepnkmB"
+      },
+      "artists": [
+        {
+          "name": "BACARDI RECORDS",
+          "url": "https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Existe feat. Daichi Yamamoto (Blended by tofubeats)",
+      "url": "https://open.spotify.com/track/0pLl928xEqbPDjByzdwuqV"
     },
     {
       "album": {
@@ -10431,6 +10585,28 @@
     },
     {
       "album": {
+        "name": "Fire At Ya Idle Mind",
+        "url": "https://open.spotify.com/album/72KO53EPvkf6htRsk2qjCJ"
+      },
+      "artists": [
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200693,
+      "name": "Fire At Ya Idle Mind",
+      "url": "https://open.spotify.com/track/5LokWrVZtDH1UZvpeVfp8D"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
       },
@@ -10614,7 +10790,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
@@ -10746,6 +10922,40 @@
       "duration_ms": 161538,
       "name": "FOR REAL",
       "url": "https://open.spotify.com/track/4kur5V464OTAgBXrGVsQNV"
+    },
+    {
+      "album": {
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/3WyQWd31U9g9dftY79oaWI"
+      },
+      "artists": [
+        {
+          "name": "LEO37",
+          "url": "https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6"
+        },
+        {
+          "name": "Robot Swing",
+          "url": "https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV"
+        },
+        {
+          "name": "Flowstrong",
+          "url": "https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH"
+        },
+        {
+          "name": "SVDP",
+          "url": "https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb"
+        },
+        {
+          "name": "Minyen Hsieh",
+          "url": "https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174189,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/4M2Cj0Pe61pHhIDrUGA2LD"
     },
     {
       "album": {
@@ -11038,7 +11248,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 127200,
       "name": "From The Jump (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/4knQpcVbbWsFPIa6qBzTV0"
@@ -13954,7 +14164,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 188870,
       "name": "HVN ON EARTH (with Kodak Black)",
       "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
@@ -13972,7 +14182,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 242960,
       "name": "Hype Me Up",
       "url": "https://open.spotify.com/track/5CzbXW5uNehVSgeozqkQzx"
@@ -14460,7 +14670,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 99720,
       "name": "ICE COLD ZEL FREESTYLE [Feat. ICECOLDBISHOP]",
       "url": "https://open.spotify.com/track/4P6ivDGUbbfXWpFJVyzV6s"
@@ -17738,7 +17948,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 172892,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
@@ -19850,7 +20060,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 126200,
       "name": "NEW PHONE",
       "url": "https://open.spotify.com/track/0bT3twZTsEvim6VYujo290"
@@ -20332,7 +20542,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 190915,
       "name": "No More",
       "url": "https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw"
@@ -20902,7 +21112,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 253157,
       "name": "Now It\u2019s Real",
       "url": "https://open.spotify.com/track/6LkUoldwZphq2VaNRHUq5N"
@@ -20946,7 +21156,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 192058,
       "name": "Number 9 (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4"
@@ -22008,7 +22218,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -22888,7 +23098,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 206380,
       "name": "Podium",
       "url": "https://open.spotify.com/track/7zralDvSIwPnynP4JJeXIs"
@@ -24044,7 +24254,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 217470,
       "name": "Realest (with Eminem)",
       "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
@@ -25364,7 +25574,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
@@ -25440,7 +25650,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 181986,
       "name": "See You In Every Party",
       "url": "https://open.spotify.com/track/2KgVbhxyywlDZp1juQ8gzj"
@@ -26066,7 +26276,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 260000,
       "name": "Show & Tell (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL"
@@ -26288,7 +26498,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 113684,
       "name": "Situation",
       "url": "https://open.spotify.com/track/2mJKflpK3ZUNQZB0C8jk1S"
@@ -27094,6 +27304,28 @@
       "duration_ms": 196989,
       "name": "sorry, who?",
       "url": "https://open.spotify.com/track/2bZlaC2IM0e5SMepreCJ3T"
+    },
+    {
+      "album": {
+        "name": "SOS (Feat.bbno$)",
+        "url": "https://open.spotify.com/album/4zAuKVqy2DwD7KHjVc53gJ"
+      },
+      "artists": [
+        {
+          "name": "KnowKnow",
+          "url": "https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159900,
+      "name": "SOS (Feat.bbno$)",
+      "url": "https://open.spotify.com/track/3jRjloKknzKyuFq5qPuq7F"
     },
     {
       "album": {
@@ -28332,7 +28564,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 206972,
       "name": "SUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj"
@@ -29314,7 +29546,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 192823,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/20PDyFm8UqZwrHvjHVinVp"
@@ -34016,7 +34248,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Zero",
       "url": "https://open.spotify.com/track/4VMKxZjlFfSQCOWdPtiPep"

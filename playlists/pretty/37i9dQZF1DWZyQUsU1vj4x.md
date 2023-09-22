@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,554 likes - 109 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,590 likes - 109 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,11 +111,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 101 | [Out to Sea](https://open.spotify.com/track/37B5EOUbYGfLjayLDQblv2) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Avenues](https://open.spotify.com/album/3zZGcZMTRjI6nVk361JwSE) | 5:51 |
 | 102 | [Mexico Blues](https://open.spotify.com/track/7BQV8x1FRCHoO9uSu6zwOn) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 4:37 |
 | 103 | [Jameson](https://open.spotify.com/track/5kRGdMdl0n0nDtsXmRg5i3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 3:08 |
-| 104 | [The Exchange](https://open.spotify.com/track/4nf5Cxq9O4mmQcKKYYOgj3) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR) | 7:48 |
+| 104 | [The Exchange](https://open.spotify.com/track/3SdtPMuNWzEWsLNF5T2F9g) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js) | 7:48 |
 | 105 | [Fallen Sun](https://open.spotify.com/track/5aQVQrIvs7zguPTuKGMrJx) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Flux](https://open.spotify.com/album/6rQDSlmYVHbdFl3gafwYVQ) | 4:00 |
 | 106 | [Bullet Proof Soul](https://open.spotify.com/track/4sHbjW3Dx2wyAZiO5Jz7Nz) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Sing Into My Mouth](https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl) | 4:38 |
 | 107 | [No Bold Villian](https://open.spotify.com/track/4EtkNQqkp5oAycS1ayu3qp) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Timber Timbre](https://open.spotify.com/album/1peaWfJtqMtLmqKK79Cpxu) | 3:51 |
 | 108 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 109 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MCxmNDJhODllOTNiYTVlM2E2NDIxM2MwYzY0ZTEyNWIyZWEwN2Q2OWRi`
+Snapshot ID: `MCw4YmEyNjhkM2JkNDE4NjhkN2JmZTk0NjA1YjIwNjk5YWJmYjcwMDhh`

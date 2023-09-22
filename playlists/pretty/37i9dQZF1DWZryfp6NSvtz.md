@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Mother Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,704 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,878 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Counting down the Days](https://open.spotify.com/track/0snV7BsW85mM3Y5J0f0rBN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [Failed By Choice](https://open.spotify.com/album/4ZpRjNZsXJIPdIcUO757RE) | 4:26 |
 | 50 | [Violence](https://open.spotify.com/track/3RKiszIma0RPD0LoS9k15N) | [Empty Head](https://open.spotify.com/artist/6UWKEdxaXbMMQYtIyBWe9X) | [Violence](https://open.spotify.com/album/4cXGJzW1e3hBSzIVL9TTCT) | 3:57 |
 
-Snapshot ID: `MCwyZDhhMGNmMmZiNjQzNjI1NTVkZmNlZGNhMTRjODA3N2JkZTY1ODQ4`
+Snapshot ID: `MCwxN2UwMGFmNGVlM2FiNDkyOTNhNDVkZTEzM2MxZWI1ZDAzZTJjNTVj`

@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Birds of Paradise",
+        "url": "https://open.spotify.com/album/6mcgTMhAfZP8GZMYPZOmrz"
+      },
+      "artists": [
+        {
+          "name": "luzzy fogic",
+          "url": "https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139576,
+      "name": "Birds of Paradise",
+      "url": "https://open.spotify.com/track/6XzpOu0XRCXLut73JrToxx"
+    },
+    {
+      "album": {
         "name": "Swimm",
         "url": "https://open.spotify.com/album/6DOAMKot1lhBT9uNK6xqwf"
       },
@@ -929,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Brookeside",
+        "url": "https://open.spotify.com/album/742Q0p2d8ElX0pjv3IIrIN"
+      },
+      "artists": [
+        {
+          "name": "Chekkerz",
+          "url": "https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125769,
+      "name": "Brookside",
+      "url": "https://open.spotify.com/track/63GQrIWOaKE71ksIGPCjJt"
+    },
+    {
+      "album": {
         "name": "bubble tea on a sunday",
         "url": "https://open.spotify.com/album/0BBRxdCxbnb6UtVWKyDAlv"
       },
@@ -1140,7 +1176,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 121843,
       "name": "Calming loop",
       "url": "https://open.spotify.com/track/4Jvxh6ldKiHVG0b6j36DIu"
@@ -6570,7 +6606,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 134785,
       "name": "Relief",
       "url": "https://open.spotify.com/track/5Rg5XBTCLryJt7WWG0SVte"
@@ -7380,7 +7416,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 169090,
       "name": "Spring Will Come",
       "url": "https://open.spotify.com/track/198mh66rFz5fQJ6CpHaxfQ"

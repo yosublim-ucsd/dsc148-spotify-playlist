@@ -570,7 +570,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 179489,
       "name": "50ccm",
       "url": "https://open.spotify.com/track/13uGrQXhmdaENWOjLQTLLw"
@@ -4372,7 +4372,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 134772,
       "name": "COBAIN",
       "url": "https://open.spotify.com/track/20WdZJAVbKz9728zTCJgD0"
@@ -5585,6 +5585,24 @@
     },
     {
       "album": {
+        "name": "Du",
+        "url": "https://open.spotify.com/album/0MFPe9RZgltOJ25frq66yd"
+      },
+      "artists": [
+        {
+          "name": "Best Twinz",
+          "url": "https://open.spotify.com/artist/4WHgQJkBxcIZuUe4JDsXCb"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112615,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/0naGPKLsxQEXodfXrrPpe9"
+    },
+    {
+      "album": {
         "name": "Du Fehlst",
         "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
@@ -5640,6 +5658,24 @@
       "duration_ms": 227074,
       "name": "DU WAYST",
       "url": "https://open.spotify.com/track/1ooqimwdfX7onBdJ84krPf"
+    },
+    {
+      "album": {
+        "name": "dudenkstsosch\u00f6n - EP",
+        "url": "https://open.spotify.com/album/1kzYVp0ptv49eWRu7ATcxp"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "dudenkstsosch\u00f6n",
+      "url": "https://open.spotify.com/track/4ln3kBmN7yFA1BfthpliPu"
     },
     {
       "album": {
@@ -5880,6 +5916,24 @@
       "duration_ms": 144200,
       "name": "eine nase",
       "url": "https://open.spotify.com/track/5VGReJtwl1BHxAZTPHOaPs"
+    },
+    {
+      "album": {
+        "name": "Einer davon du",
+        "url": "https://open.spotify.com/album/0hF5F1Pm6eHMpZ64TzSjTj"
+      },
+      "artists": [
+        {
+          "name": "Lucifer Xo",
+          "url": "https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149403,
+      "name": "Einer davon du",
+      "url": "https://open.spotify.com/track/7nW4mCfz4emov7DMHblOds"
     },
     {
       "album": {
@@ -6943,6 +6997,36 @@
     },
     {
       "album": {
+        "name": "feelings im bauch (techno remix)",
+        "url": "https://open.spotify.com/album/36WZiNFSSts7Ui397XZsO1"
+      },
+      "artists": [
+        {
+          "name": "lil eyes",
+          "url": "https://open.spotify.com/artist/4h1QS0cMRf3VrYHyKUJYUv"
+        },
+        {
+          "name": "1800yassine",
+          "url": "https://open.spotify.com/artist/2u550Yhcuewwu7oJVC64xc"
+        },
+        {
+          "name": "Asterio",
+          "url": "https://open.spotify.com/artist/3xK2PuwaZkeXlAjDtK6ght"
+        },
+        {
+          "name": "treason434",
+          "url": "https://open.spotify.com/artist/0RriK0rVWI9tagJyIux3wF"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "feelings im bauch - techno remix",
+      "url": "https://open.spotify.com/track/1ZkZHrkK4VgHLrABj067bN"
+    },
+    {
+      "album": {
         "name": "Feind",
         "url": "https://open.spotify.com/album/7taEngRKJQMKFqmi4LdHxN"
       },
@@ -7977,6 +8061,24 @@
     },
     {
       "album": {
+        "name": "GFU!",
+        "url": "https://open.spotify.com/album/2CG9sQtUBAhvncyYrUAIGA"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82048,
+      "name": "GFU!",
+      "url": "https://open.spotify.com/track/4Xw4iQRKESkZXeaRBKMdey"
+    },
+    {
+      "album": {
         "name": "Ghetto Tekkno",
         "url": "https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq"
       },
@@ -8348,7 +8450,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 142280,
       "name": "Go Solo",
       "url": "https://open.spotify.com/track/18ywhG9EvuMMUIdUWxEqp7"
@@ -9121,6 +9223,28 @@
     },
     {
       "album": {
+        "name": "Hell N Back (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
+    },
+    {
+      "album": {
         "name": "Hello Kitty / Elfbar",
         "url": "https://open.spotify.com/album/3KQeKe5xpzfxVv5HKA2xg4"
       },
@@ -9684,6 +9808,32 @@
       "duration_ms": 172414,
       "name": "Hundred Miles",
       "url": "https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ"
+    },
+    {
+      "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/1t52d7ec8jCLW2kDOZxYCW"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "RAPK",
+          "url": "https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183933,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/2w1hIRQUSOdfdSjkCmTfub"
     },
     {
       "album": {
@@ -11538,7 +11688,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 172245,
       "name": "KETAMIN",
       "url": "https://open.spotify.com/track/4evyMjgTKhrBfggfxFRAKr"
@@ -11990,7 +12140,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 171337,
       "name": "LASS LOS",
       "url": "https://open.spotify.com/track/2YI2wLwy4DqZKyMD0sfYeh"
@@ -13680,7 +13830,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 141026,
       "name": "mietfrei",
       "url": "https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq"
@@ -14250,7 +14400,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 270506,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
@@ -14974,7 +15124,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 120538,
       "name": "Nie genug geliebt",
       "url": "https://open.spotify.com/track/4DQ7mmVJh2ojxjmhJSOF4R"
@@ -15286,7 +15436,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 133877,
       "name": "Nochmal",
       "url": "https://open.spotify.com/track/3gceiO3wukPek3Ukdzasau"
@@ -15440,6 +15590,24 @@
       "duration_ms": 195605,
       "name": "novocaine",
       "url": "https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V"
+    },
+    {
+      "album": {
+        "name": "NUR DICH/SONST NICHTS",
+        "url": "https://open.spotify.com/album/6a66shzhFfpOYzNsyg1edB"
+      },
+      "artists": [
+        {
+          "name": "lityway",
+          "url": "https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111753,
+      "name": "NUR DICH/SONST NICHTS",
+      "url": "https://open.spotify.com/track/1hjWy02duPxRh1sUOeixBm"
     },
     {
       "album": {
@@ -15604,7 +15772,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 135773,
       "name": "OBERK\u00d6RPERFREI",
       "url": "https://open.spotify.com/track/2a0xg3zgQptaY6FKO3YYw3"
@@ -17593,6 +17761,24 @@
     },
     {
       "album": {
+        "name": "recently",
+        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161929,
+      "name": "rises the moon",
+      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+    },
+    {
+      "album": {
         "name": "ritter",
         "url": "https://open.spotify.com/album/3xxwcLQAj5GxbNkSlWFhlB"
       },
@@ -17750,7 +17936,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 131137,
       "name": "Rummel",
       "url": "https://open.spotify.com/track/5550mfs6XkxcWQm1bVUVH8"
@@ -18382,6 +18568,24 @@
       "duration_ms": 138842,
       "name": "Schwarz",
       "url": "https://open.spotify.com/track/1rZl80jlCeG9DoidzEVd78"
+    },
+    {
+      "album": {
+        "name": "schwarze SUVs",
+        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169761,
+      "name": "schwarze SUVs",
+      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
     },
     {
       "album": {
@@ -19301,6 +19505,24 @@
     },
     {
       "album": {
+        "name": "SO WIE DU BIST",
+        "url": "https://open.spotify.com/album/2je3atRPdpL3JRrAu3W672"
+      },
+      "artists": [
+        {
+          "name": "KREMIK",
+          "url": "https://open.spotify.com/artist/6JWRJCM7ErCEi55aWhHodD"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203080,
+      "name": "SO WIE DU BIST",
+      "url": "https://open.spotify.com/track/44R36gWtM2XB5Lm9lxuTNp"
+    },
+    {
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -19772,7 +19994,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -21534,7 +21756,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
@@ -22002,7 +22224,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 184752,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
@@ -22383,6 +22605,24 @@
     },
     {
       "album": {
+        "name": "Ups & Ups",
+        "url": "https://open.spotify.com/album/6W4YbAmhwNcjtEt3ZTSg3k"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162046,
+      "name": "Ups & Ups",
+      "url": "https://open.spotify.com/track/0M7UPubDAjiQM5FL8ig7Js"
+    },
+    {
+      "album": {
         "name": "Upset",
         "url": "https://open.spotify.com/album/0gp185gn4jfzQIZkoKGDOk"
       },
@@ -22758,6 +22998,24 @@
       "duration_ms": 144657,
       "name": "Victorious",
       "url": "https://open.spotify.com/track/7xZSy1YRvAbhkKVDMJWI1W"
+    },
+    {
+      "album": {
+        "name": "viel zu lang her",
+        "url": "https://open.spotify.com/album/5VfLnRKVfzX3QhWhvpV9Oi"
+      },
+      "artists": [
+        {
+          "name": "$ubria",
+          "url": "https://open.spotify.com/artist/6qI5OaCAenX62HTorD3VRN"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193312,
+      "name": "viel zu lang her",
+      "url": "https://open.spotify.com/track/5A3yKMksw7mdA1dXetlKaA"
     },
     {
       "album": {
@@ -24996,6 +25254,28 @@
       "duration_ms": 182809,
       "name": "\u0422\u044b \u0438 \u044f",
       "url": "https://open.spotify.com/track/5nlkcDrfFsMBfaVcGXZWVT"
+    },
+    {
+      "album": {
+        "name": "\u2606Runitup/Fuckitup\u2606",
+        "url": "https://open.spotify.com/album/5uZJbhhK1g5zTkX9ctnAhg"
+      },
+      "artists": [
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        },
+        {
+          "name": "koala",
+          "url": "https://open.spotify.com/artist/6nSaupdHjN9u74Kk6f6q7C"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172907,
+      "name": "\u2606Runitup/Fuckitup\u2606",
+      "url": "https://open.spotify.com/track/6bf23CnW13pElhOT7QKM6O"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTBz12MDeCuX"

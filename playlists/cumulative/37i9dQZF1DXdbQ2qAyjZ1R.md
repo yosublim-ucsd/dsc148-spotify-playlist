@@ -4,7 +4,7 @@
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-73 songs - 4 hr 57 min
+75 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,15 @@
 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 | 2022-12-16 |  |
 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 | 2022-12-16 |  |
 | [Bridge over Troubled Water](https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 5:33 | 2022-12-16 |  |
-| [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 | 2022-12-16 |  |
+| [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 | 2022-12-16 | 2023-09-22 |
+| [Changes](https://open.spotify.com/track/1GQNsPVnZoWr3tOHQ73DzI) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/3QwoBbZO1aClSBVTra79Dd) | 6:11 | 2023-09-05 |  |
 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 | 2022-12-16 |  |
 | [Corinna \- From "The Natch'l Blues"](https://open.spotify.com/track/5aBpIqXfktr9SSwyAi8Hlj) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 3:00 | 2022-12-16 |  |
 | [Crucify Your Mind](https://open.spotify.com/track/2Xn7NadvZ56D0B2D7x2CSL) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:32 | 2022-12-16 |  |
 | [Daylight](https://open.spotify.com/track/2B2MpyO86cVAVjNyBDhXYc) | [RAMP](https://open.spotify.com/artist/3KAulMlhjlTfIZD8yhMJPb) | [Come Into Knowledge](https://open.spotify.com/album/1kOJ865PwHtLwESKnzfB8G) | 4:12 | 2022-12-16 |  |
 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 | 2022-12-16 |  |
-| [Dove](https://open.spotify.com/track/6dckUAPaw3WF2ZyhEACQDK) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/7Jr9fNx9IYWRgNmllirP3H) | 10:55 | 2022-12-16 |  |
+| [Dove](https://open.spotify.com/track/4TbIOAb7FfbhHi2glq0EwA) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/3LNGh5hT6VWrM9On6WfqKv) | 10:55 | 2023-09-05 |  |
+| [Dove](https://open.spotify.com/track/6dckUAPaw3WF2ZyhEACQDK) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/7Jr9fNx9IYWRgNmllirP3H) | 10:55 | 2022-12-16 | 2023-09-22 |
 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 | 2022-12-16 |  |
 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 | 2022-12-16 |  |
 | [Holding You, Loving You](https://open.spotify.com/track/5Jgj5Yo5deJ2RPlixBm88u) | [Don Blackman](https://open.spotify.com/artist/0aavHBWTe9ng2jWfnnQ0hp) | [Don Blackman](https://open.spotify.com/album/39huRrbAe12vo3BlAeX1QG) | 4:14 | 2022-12-16 |  |

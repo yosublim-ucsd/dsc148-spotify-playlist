@@ -2,9 +2,9 @@
 
 ### [This Is Martin Garrix](https://open.spotify.com/playlist/37i9dQZF1DX94qaYRnkufr)
 
-> The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
+> The essential tracks by the Dutch DJ and producer</a>.
 
-115 songs - 6 hr 58 min
+116 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Project T \- Martin Garrix Remix](https://open.spotify.com/track/5Qw6359qWB9JdwIXYS0lxj) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Project T \(Martin Garrix Remix\)](https://open.spotify.com/album/0tKCFqWnjhKuc1Twf7paeu) | 5:12 | 2022-07-28 |  |
 | [Proxy](https://open.spotify.com/track/54fgYLd9UtdPZVjx548Ver) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:37 | 2021-12-09 |  |
 | [Quantum](https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Quantum](https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo) | 2:58 | 2022-04-07 |  |
+| [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 | 2023-09-21 |  |
 | [Reboot](https://open.spotify.com/track/1Q7OXxsTM8aUaZ3BbPfIDb) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [Reboot](https://open.spotify.com/album/4UALxeyoQXVRVFJdMJ05a0) | 2:43 | 2022-04-04 |  |
 | [Restart Your Heart](https://open.spotify.com/track/1ZCJuvgtyPZGLNWfHTpWeB) | [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn), [GRX](https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM) | [Restart Your Heart](https://open.spotify.com/album/5Twkvtgo6tMIA0pAphY4N6) | 2:59 | 2021-12-09 |  |
 | [Scared to Be Lonely](https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Scared to Be Lonely](https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF) | 3:40 | 2021-12-09 |  |

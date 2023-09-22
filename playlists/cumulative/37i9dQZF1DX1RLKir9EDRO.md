@@ -4,7 +4,7 @@
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: M Lisa
 
-465 songs - 1 day 2 hr 49 min
+466 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Balıklı Kız](https://open.spotify.com/track/5JzByAOLtfcZ0wVHHbmJDV) | [İrem Özen](https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1) | [Balıklı Kız](https://open.spotify.com/album/1ciaZyzsu0wIH5wU7fJqtF) | 4:47 | 2022-03-17 | 2023-01-11 |
 | [Bana Biraz Romantizm Gerek](https://open.spotify.com/track/0ea8CUvbK1pGB6kUWV7leU) | [Ezgi Işık](https://open.spotify.com/artist/7tVZ6gxN0xi1pvekZzzkEG) | [Bana Biraz Romantizm Gerek](https://open.spotify.com/album/4aHgoRN4kILd3D3ESekyWU) | 3:49 | 2023-05-09 | 2023-06-28 |
 | [Bana Ne](https://open.spotify.com/track/3HugeGGtQUjnQrMCMMqj2I) | [Senem](https://open.spotify.com/artist/6HxyGsyK6ggtFliOowE2XU) | [Bana Ne](https://open.spotify.com/album/6k0YvY9bAkeORbkiARpQx0) | 3:26 | 2021-12-03 | 2022-04-16 |
-| [Bazı Şeyler](https://open.spotify.com/track/3NZaf3A2o9GG0xEeRJh7xy) | [Ezgi Gergin](https://open.spotify.com/artist/2EMMNlNS4JYqsJpXZNFCcb) | [Bazı Şeyler](https://open.spotify.com/album/6dJhfO3L473gMxI2RlQMzx) | 2:29 | 2023-05-02 |  |
+| [Bazı Şeyler](https://open.spotify.com/track/3NZaf3A2o9GG0xEeRJh7xy) | [Ezgi Gergin](https://open.spotify.com/artist/2EMMNlNS4JYqsJpXZNFCcb) | [Bazı Şeyler](https://open.spotify.com/album/6dJhfO3L473gMxI2RlQMzx) | 2:29 | 2023-05-02 | 2023-09-22 |
+| [Bazı Şeyler](https://open.spotify.com/track/5HQFbT4XIxJTfieteuGo4p) | [Ezgi Gergin](https://open.spotify.com/artist/2EMMNlNS4JYqsJpXZNFCcb) | [Bazı Şeyler](https://open.spotify.com/album/3NRCGz4c38snAIM2fP8DNJ) | 2:29 | 2023-09-19 |  |
 | [Başkası Olsam](https://open.spotify.com/track/3mRLnGgOGhH7D7AfS0BIB2) | [Lâl](https://open.spotify.com/artist/1Sb3hrERO6VTMsdQWoapBh), [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Başkası Olsam](https://open.spotify.com/album/4dY9ZsdwfbiRGYu4JgqiEg) | 2:13 | 2023-08-15 |  |
 | [Başkası Yok](https://open.spotify.com/track/66hC60dCmLh8hxIbuPqLzw) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Başkası Yok](https://open.spotify.com/album/3a7lAsLmywpPpRl3lJ1Xvr) | 2:21 | 2023-07-18 | 2023-09-20 |
 | [Başıma Gelenlerin](https://open.spotify.com/track/1fe6v8fwRuJCTnCE1BnrEE) | [Mine Özgüle](https://open.spotify.com/artist/15QctPiHcedop0WX3zhRqR) | [Başıma Gelenlerin](https://open.spotify.com/album/4XPY4rTD621AJgZOqRiCc8) | 3:45 | 2021-12-03 | 2022-01-14 |

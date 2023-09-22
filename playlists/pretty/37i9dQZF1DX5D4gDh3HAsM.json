@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 509470,
+  "num_followers": 509492,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWRhNGZkODMwODVjMzZmMTI5NzQ2NThmNTZlNmFkZjcxYmVmNDhi",
+  "snapshot_id": "MCwwMjgwNDE4NTQwMjBiYzE5YjQwODdkZjQzZmU1MzZjZmQwMGQ4NTI5",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Billie Holiday Love Songs",
-        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 174906,
-      "name": "I've Got My Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 195173,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Billie Holiday Love Songs",
+        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 174906,
+      "name": "I've Got My Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -607,6 +607,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 200516,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
         "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "A Legendary Christmas",
-        "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
+        "name": "Simply Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
         }
       ],
-      "duration_ms": 200516,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor"
+      "duration_ms": 182852,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -655,22 +671,6 @@
       "duration_ms": 177108,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Simply Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
-      },
-      "artists": [
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        }
-      ],
-      "duration_ms": 182852,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -807,50 +807,34 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "My Christmas Night",
-        "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX"
       },
       "artists": [
         {
-          "name": "Massimo Fara\u00f2",
-          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
-        },
-        {
-          "name": "Claudia Zannoni",
-          "url": "https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s"
-        },
-        {
-          "name": "Davide Palladin",
-          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
-        },
-        {
-          "name": "Nicola Barbon",
-          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
-        },
-        {
-          "name": "Roberto Bobo Facchinetti",
-          "url": "https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz"
+          "name": "The Eddie Higgins Trio",
+          "url": "https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK"
         }
       ],
-      "duration_ms": 248052,
-      "name": "My Christmas Night",
-      "url": "https://open.spotify.com/track/49LTYbjanIrYyKgUKA2s5R"
+      "duration_ms": 222000,
+      "name": "Dech The Hall Boughs Of Holly",
+      "url": "https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh"
     },
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Shane Hampsheir's Christmas",
-        "url": "https://open.spotify.com/album/2UAJvYTW6WXrNbYh6Kcf22"
+        "name": "Happy Holidays, Everyone",
+        "url": "https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh"
       },
       "artists": [
         {
-          "name": "Shane Hampsheir",
-          "url": "https://open.spotify.com/artist/16MbTMsesqMZNB1WaySib8"
+          "name": "Jeremy Lister",
+          "url": "https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ"
         }
       ],
-      "duration_ms": 293692,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2436qlkg1yw3k0fC3kjbYP"
+      "duration_ms": 168938,
+      "name": "Fly Santa Fly",
+      "url": "https://open.spotify.com/track/7DI1HipOBEAMSEGmfVVNgw"
     }
   ],
   "unique_name": "Christmas Jazz",

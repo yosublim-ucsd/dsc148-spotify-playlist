@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175653,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn"
+    },
+    {
+      "album": {
         "name": "IN2 THE SUCC / 30TH CENTURY STUNTMAN",
         "url": "https://open.spotify.com/album/59QiCCjSDmHpO6HRYegjfg"
       },
@@ -1405,6 +1423,32 @@
     },
     {
       "album": {
+        "name": "TDJ123 DELUXE",
+        "url": "https://open.spotify.com/album/70AGf26YBlKu5Yo3GyHkkp"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382385,
+      "name": "Open Air - DJ HEARTSTRING Remix",
+      "url": "https://open.spotify.com/track/6A7KmZX6KCf5ho1UUnPoA4"
+    },
+    {
+      "album": {
         "name": "Open Air (DJ HEARTSTRING Remix)",
         "url": "https://open.spotify.com/album/4PiaykMiQ2Bf8dFepojhYl"
       },
@@ -1424,7 +1468,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 382385,
       "name": "Open Air - DJ HEARTSTRING Remix",
       "url": "https://open.spotify.com/track/7MaUMSoRK33GaBHCd52xbp"
@@ -1647,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Ring The Alarm",
+        "url": "https://open.spotify.com/album/7dLyeT8MWlaGoG0v1yxSLA"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184514,
+      "name": "Ring The Alarm",
+      "url": "https://open.spotify.com/track/6EACtpp2xlqbs2rViFRXDO"
+    },
+    {
+      "album": {
         "name": "Shield",
         "url": "https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr"
       },
@@ -1772,6 +1834,24 @@
       "duration_ms": 316425,
       "name": "Set Me Free - Y U QT Remix",
       "url": "https://open.spotify.com/track/1VJGDUZoQLWv8n1cj31E4I"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59"
     },
     {
       "album": {
@@ -2450,6 +2530,24 @@
       "duration_ms": 264000,
       "name": "With U",
       "url": "https://open.spotify.com/track/7EnwSEceUcWFCEstHjAaXO"
+    },
+    {
+      "album": {
+        "name": "ZiGGY (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/3sWZKvKbMl5eJcTHzD045K"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341151,
+      "name": "ZiGGY (DJ-Kicks)",
+      "url": "https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4nkDUiMktkK"

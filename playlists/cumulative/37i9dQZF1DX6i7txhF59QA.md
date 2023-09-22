@@ -2,9 +2,9 @@
 
 ### [K\-Trot Stars](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> Let's party with cheerful Korean trot medley\. Cover: Nahee Kim\(김나희\) \(신나는 트로트 멜로디를 즐겨보세요!\)
+> Let's party with cheerful Korean trot medley\. Cover: Hong Jiyun\(홍지윤\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-813 songs - 1 day 22 hr 28 min
+814 songs - 1 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [That's too much + A song for a wife](https://open.spotify.com/track/6Lp04YjlZjXKB2xmxHg6WU) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [\[2020 TrotAwards\] BEST](https://open.spotify.com/album/7HG7FBpiTxtXkEYZpY0dzK) | 3:22 | 2023-09-01 |  |
 | [That\`s Life](https://open.spotify.com/track/1EPKpAaUPB3uYhdxqR8mK1) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Thanks for You](https://open.spotify.com/album/7lE9he8DZC1xrTPER4lLfA) | 3:14 | 2022-04-07 | 2022-07-28 |
 | [The blue in you](https://open.spotify.com/track/0gPPjwpT8XqwQQ1jc43JpZ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Hong Jinyeong](https://open.spotify.com/artist/5YmzM0BZzE9MLamoZ32ius) | [Love call center PART5](https://open.spotify.com/album/3ZPTpx4D0qqNtXbqrj5tag) | 3:28 | 2022-04-22 | 2022-07-27 |
+| [The early morning car](https://open.spotify.com/track/7rBImMA7bwE7qqnaF4pdmd) | [HONG JIYUN](https://open.spotify.com/artist/7hgu8d4pwEkvGKIEzeahXq) | ["Jiyun is..."](https://open.spotify.com/album/1GNjPm2mxQ6WGlj73Ngr9W) | 3:11 | 2023-09-21 |  |
 | [The Farewell Bus Stop](https://open.spotify.com/track/4gJEy8qaW50XFWxW7NLgz4) | [YOOSANSEUL](https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y), [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [The Farewell Bus Stop](https://open.spotify.com/album/5Q3mg8s6QDYsJVWLXAHt0l) | 3:36 | 2022-04-22 |  |
 | [The foggy Jang Choong Dan park](https://open.spotify.com/track/4NJiYrd2KLh45nw3K5BJgt) | [Shin Seong](https://open.spotify.com/artist/4ZrBMJ9pZMbLfqPN3nP1XU) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 3:11 | 2022-04-22 | 2022-05-04 |
 | [The Forgotten Season](https://open.spotify.com/track/4Z5NS9w7D3iRDJ64pKpMbm) | [Lim Taekyung](https://open.spotify.com/artist/4uiTflGlDSvPLczUKYSkc6), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART28](https://open.spotify.com/album/5KgKaiW0GORPs45M6Ewp2v) | 3:41 | 2022-04-07 |  |
@@ -747,7 +748,7 @@
 | [만개 \(prod\. 신지후\)](https://open.spotify.com/track/2hXsVNMyojuFYcTiF8nhGa) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:11 | 2022-12-05 |  |
 | [만약 혹시나 만약에](https://open.spotify.com/track/0MBll3MNAunvI1k4EqRDXZ) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [만약 혹시나 만약에](https://open.spotify.com/album/1DJtekGwGeFiEWUkaYslNZ) | 2:36 | 2022-05-03 | 2022-07-20 |
 | [맥문동 오빠](https://open.spotify.com/track/5aesrqtaUIJf4lzYaFWrX4) | [김응수](https://open.spotify.com/artist/6pEnT6S3D4AD0vGgDlOub2) | [맥문동 오빠](https://open.spotify.com/album/5qyGLEgWqmqZ3K8IB2hTH9) | 3:03 | 2023-09-20 |  |
-| [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 | 2022-04-22 |  |
+| [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 | 2022-04-22 | 2023-09-22 |
 | [목포행 완행열차](https://open.spotify.com/track/1tb1vddvrGHwE1wSRwGB6V) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [préparation\(쁘레빠라씨용\)](https://open.spotify.com/album/2KvIlDKa8i56qe2tKGEQ20) | 3:31 | 2023-07-24 |  |
 | [무명배우](https://open.spotify.com/track/3rYKL4GEjt2R91ww7wNxeT) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [미스트롯 FINAL STAGE](https://open.spotify.com/album/1M7ZC5LiictivsP80SG886) | 4:15 | 2022-04-07 | 2022-07-29 |
 | [무명배우](https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Again](https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr) | 4:15 | 2022-07-22 |  |

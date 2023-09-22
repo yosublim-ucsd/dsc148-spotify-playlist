@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-169 songs - 10 hr 36 min
+170 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Girls, Girls, Girls](https://open.spotify.com/track/1gemgwHfru1nmQOZlEaxt9) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [White Tiger](https://open.spotify.com/album/6rnwrfo7Hh006stk2UZuiE) | 2:50 | 2022-06-01 | 2023-04-29 |
 | [Girls, Girls, Girls](https://open.spotify.com/track/3ZF4gOd2g6x4yY8UYr3n6V) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [White Tiger](https://open.spotify.com/album/1cLsI0tJ76BKZZePhwVRxi) | 2:50 | 2023-04-04 |  |
 | [GMF](https://open.spotify.com/track/1mH84zLWFB3MkqlavtNjrf) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/2dfTV7CktUEBkZCHiB7VQB) | 5:13 | 2021-06-01 | 2022-07-29 |
-| [GMF](https://open.spotify.com/track/4XluehCQCnhhYD4cAd9Wfu) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/7JzIz5uW3p6IUPOtAzOIyw) | 5:13 | 2022-06-10 |  |
+| [GMF](https://open.spotify.com/track/4XluehCQCnhhYD4cAd9Wfu) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/7JzIz5uW3p6IUPOtAzOIyw) | 5:13 | 2022-06-10 | 2023-09-22 |
+| [GMF](https://open.spotify.com/track/79jZxBuAkhT368GOeocKjb) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/5JL2oa838e8fLVPgvt5cVO) | 5:13 | 2023-09-08 |  |
 | [Hangman](https://open.spotify.com/track/2IqJS58ybf01nSQYMme5Ku) | [Chris Pureka](https://open.spotify.com/artist/0TcLzrilnmNFyaTgLULSg3) | [How I Learned to See in the Dark](https://open.spotify.com/album/0M8a5g7ff4dGXnU8ofv4di) | 4:52 | 2021-06-01 |  |
 | [Hardcore](https://open.spotify.com/track/3gHOThR42dJBUnlbNoCQEF) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Hardcore](https://open.spotify.com/album/3EB8voAV8PNRicdD6KDtFV) | 4:08 | 2022-06-01 |  |
 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 | 2023-06-14 |  |

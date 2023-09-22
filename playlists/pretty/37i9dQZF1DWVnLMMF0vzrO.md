@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,223 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,224 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 68 | [Feel Me](https://open.spotify.com/track/0DZlGFqY7WSvQ92Ivf6J3E) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG) | [Happy Families](https://open.spotify.com/album/0JfH0CgotRyhNiyfUtXS0l) | 5:05 |
 | 69 | [Love Games \- 123 Bpm](https://open.spotify.com/track/7o2N5ukm6zUua6goFkwk1E) | [International Music System](https://open.spotify.com/artist/2jC1SZntXN9KkHltJlLzDV) | [IMS, Vol\. 2 \(LP\)](https://open.spotify.com/album/6W7JiMy5XgxYuJe7K7teGW) | 5:46 |
 | 70 | [Bazar](https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:29 |
-| 71 | [Who're You](https://open.spotify.com/track/4tmwN5EgWlC8SSHMxzD7fo) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [London Scene](https://open.spotify.com/album/3Yy4w46NKpvjSCpFbwjnjF) | 9:30 |
+| 71 | [Who're You](https://open.spotify.com/track/3kqckRQ4p8tsqgTIoseosr) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fela's London Scene](https://open.spotify.com/album/6Dm1uvm4NqYlFQh7t8D0T3) | 9:30 |
 | 72 | [Take Me Home Tonight](https://open.spotify.com/track/4TsTkffaD3xd3L7hSuwNTG) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [The Essential Eddie Money](https://open.spotify.com/album/71nSs2SpQgIct4YfwSLT2d) | 3:31 |
 | 73 | [Breath of Life \(A\)](https://open.spotify.com/track/1zorFpBXWknjJq98g9DkDh) | [Steve Davies](https://open.spotify.com/artist/1Oxe5mkgC2NSEX13HH0h3Z), [William McGillivray](https://open.spotify.com/artist/0sb49uNkGtAPWs9FneTfHy), [Barbara Courtney\-King](https://open.spotify.com/artist/4HZl3qaV1X2PqBx78kRBmu), [Robert Howes](https://open.spotify.com/artist/2UIE2NnUtyuUllFqaExR0k) | [Kpm 1000 Series: Breath of Life](https://open.spotify.com/album/6030YQbbWstiithtQjiUje) | 3:40 |
 | 74 | [Magia](https://open.spotify.com/track/6LvrZVV8UxFLbJkUrW0KMB) | [Lucerito](https://open.spotify.com/artist/2nzuxABkfoyHxtTx3rqhPP) | [Magia Con Lucerito](https://open.spotify.com/album/0F6s1daJfENG2yv80YHhr8) | 3:18 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 166 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 167 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCw4NzllYWQ3NDJjNzNmMTA2ODc1YzIxNWQzOGI0ZThkYzhmNjk3YmMz`
+Snapshot ID: `MCw0NjBhNDA3ODM1Zjg1NjcxMDllNDk1OTFiNDYwYmE1NDc2YmFlNGEw`

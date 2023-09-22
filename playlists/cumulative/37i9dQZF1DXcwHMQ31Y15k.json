@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Gildcoustic",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Cundamani",
+        "url": "https://open.spotify.com/album/5mExkq5KGbQHP5mkLHhlKC"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354100,
+      "name": "Cundamani",
+      "url": "https://open.spotify.com/track/7Ghk8aSwC7vimLntGse1cd"
+    },
+    {
+      "album": {
         "name": "Dadi Siji",
         "url": "https://open.spotify.com/album/3CjOsiPpUTo7s2GI7VoYjx"
       },
@@ -602,7 +620,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 332160,
       "name": "Dalan Gronjal - From \"Cidro Asmoro\"",
       "url": "https://open.spotify.com/track/6tfxkAa670aN3qNTFJYJ8n"
@@ -1725,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "MakSet",
+        "url": "https://open.spotify.com/album/7w2UIvMEG4eIC72CMnVDU2"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345442,
+      "name": "MakSet",
+      "url": "https://open.spotify.com/track/70sEkwn77Nrf0fVIK67YvG"
+    },
+    {
+      "album": {
         "name": "Manot",
         "url": "https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E"
       },
@@ -1808,7 +1844,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 230000,
       "name": "Mergawe",
       "url": "https://open.spotify.com/track/5N2z1MNzKTszoXTZmPnwgG"
@@ -2156,7 +2192,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 303867,
       "name": "Ngeliyo",
       "url": "https://open.spotify.com/track/2cFLpZRRzUt8amkXI2lJ66"
@@ -2192,7 +2228,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 294199,
       "name": "Ngemong Ati",
       "url": "https://open.spotify.com/track/2QnOedQK855tVUnNEhrb1n"
@@ -2336,7 +2372,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 280962,
       "name": "nyikso batin",
       "url": "https://open.spotify.com/track/5x6iMwlE967QS90rA0OYlN"
@@ -2662,6 +2698,24 @@
       "duration_ms": 297230,
       "name": "Pelanggaran",
       "url": "https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l"
+    },
+    {
+      "album": {
+        "name": "Pelanggaran",
+        "url": "https://open.spotify.com/album/0CoWdmbvAH6iZnznHLnPdl"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295386,
+      "name": "Pelanggaran",
+      "url": "https://open.spotify.com/track/3AUka3Lyitpc8HHZBD8quf"
     },
     {
       "album": {
@@ -3892,7 +3946,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 372480,
       "name": "Tutupono",
       "url": "https://open.spotify.com/track/2hSAl1oXLAC0PbTXdRaMee"

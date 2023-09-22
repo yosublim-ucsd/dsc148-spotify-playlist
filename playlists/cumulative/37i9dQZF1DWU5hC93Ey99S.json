@@ -1043,6 +1043,42 @@
     },
     {
       "album": {
+        "name": "dublin",
+        "url": "https://open.spotify.com/album/0Z8ZczWeNpTRVIYTzlZVt5"
+      },
+      "artists": [
+        {
+          "name": "Kharfi",
+          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "dublin",
+      "url": "https://open.spotify.com/track/6mEGBUUubG4YZ8WD8pIAwk"
+    },
+    {
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/6K7J41vEGbuvSa98EpjKI4"
+      },
+      "artists": [
+        {
+          "name": "Cella",
+          "url": "https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184817,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/6ZGrkUTRx9nx2py5gQFBUx"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/7qXIL5uEVAQitu0RNBYmKg"
       },
@@ -1412,6 +1448,24 @@
       "duration_ms": 229253,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     },
     {
       "album": {
@@ -1851,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "i can see",
+        "url": "https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229083,
+      "name": "i can see",
+      "url": "https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr"
+    },
+    {
+      "album": {
         "name": "I CAN'T STOP",
         "url": "https://open.spotify.com/album/7j6c2keRodBMXiZExqLaQm"
       },
@@ -1968,6 +2040,24 @@
       "duration_ms": 192428,
       "name": "I See Colors",
       "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175653,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn"
     },
     {
       "album": {
@@ -4505,6 +4595,28 @@
     },
     {
       "album": {
+        "name": "Under Water",
+        "url": "https://open.spotify.com/album/3yo3qmnDpkTIrZN2P57ZFs"
+      },
+      "artists": [
+        {
+          "name": "Ghost of Tellus",
+          "url": "https://open.spotify.com/artist/5QtIF4xhM0ViWQFChbHNKJ"
+        },
+        {
+          "name": "Theis EZ",
+          "url": "https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177744,
+      "name": "Under Water",
+      "url": "https://open.spotify.com/track/7FaEeXDs6TbIA3ip1MqknT"
+    },
+    {
+      "album": {
         "name": "up all night",
         "url": "https://open.spotify.com/album/700Q6CYdEBvPoT9Q2gIEdi"
       },
@@ -4728,6 +4840,28 @@
       "duration_ms": 263891,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4"
+    },
+    {
+      "album": {
+        "name": "Way Down",
+        "url": "https://open.spotify.com/album/1jSfSXG7pQHOBhqZhT4U6n"
+      },
+      "artists": [
+        {
+          "name": "Petit Ocean",
+          "url": "https://open.spotify.com/artist/7AEN8ZkPQr7M45Sb3emoMf"
+        },
+        {
+          "name": "CASILIAN",
+          "url": "https://open.spotify.com/artist/3QEWkt4IaSKCiQUdDSqqvY"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187781,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/7eC86H1BAylHnn6AWGkjuB"
     },
     {
       "album": {
@@ -4964,6 +5098,32 @@
       "duration_ms": 215413,
       "name": "win your love",
       "url": "https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168398,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
     },
     {
       "album": {

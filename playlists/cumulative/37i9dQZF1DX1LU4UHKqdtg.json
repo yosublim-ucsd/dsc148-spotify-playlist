@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 178733,
       "name": "Behind The Curtain",
       "url": "https://open.spotify.com/track/14nturKxV48wR3lbknehiu"
@@ -3017,6 +3017,28 @@
     },
     {
       "album": {
+        "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
+        "url": "https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl"
+    },
+    {
+      "album": {
         "name": "<FLY-UP> - Special Edition -",
         "url": "https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL"
       },
@@ -4674,7 +4696,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 258542,
       "name": "Future (Lollapalooza ver.)",
       "url": "https://open.spotify.com/track/4Q6S4uWD8dwpWiI3VkdBuV"
@@ -8047,6 +8069,24 @@
     },
     {
       "album": {
+        "name": "NEW TOMORROW",
+        "url": "https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU"
+      },
+      "artists": [
+        {
+          "name": "FANTASY BOYS",
+          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230933,
+      "name": "New tomorrow",
+      "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
+    },
+    {
+      "album": {
         "name": "Naul <Ballad Pop City>",
         "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
       },
@@ -8326,7 +8366,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 166386,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G"
@@ -10448,7 +10488,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 176882,
       "name": "SMILEY-Japanese Ver.- (feat.\u3061\u3083\u3093\u307f\u306a)",
       "url": "https://open.spotify.com/track/4RhkH4fGvvEzxvRlUcYH9L"
@@ -13772,6 +13812,24 @@
       "duration_ms": 210666,
       "name": "\u6642\u3092\u99c6\u3051\u3066",
       "url": "https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG"
+    },
+    {
+      "album": {
+        "name": "\u6728\u862d\u306e\u6d99",
+        "url": "https://open.spotify.com/album/1VU49IhAsRovcWXa8YgnKn"
+      },
+      "artists": [
+        {
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332026,
+      "name": "\u6728\u862d\u306e\u6d99",
+      "url": "https://open.spotify.com/track/7iBecj6numquqBjVCaqjAC"
     },
     {
       "album": {

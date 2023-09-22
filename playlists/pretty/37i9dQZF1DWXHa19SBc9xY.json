@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 76427,
+  "num_followers": 76539,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTdmNTI2NzcwZDY3YjUwY2RmZTVmMjM1YWI3NWVlMmVmNTk0NGQ2",
+  "snapshot_id": "MCw4ZTQxNWE2N2IzM2Y3YmEzMTI0NTg1ZjQwNmY0MGZhODM3NWEzMTUw",
   "tracks": [
     {
       "added_at": "2023-09-02 00:01:21",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "samba do mo\u00e7o bonito",
-        "url": "https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 197090,
-      "name": "samba do mo\u00e7o bonito",
-      "url": "https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
         "name": "Meu Amor",
         "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 146347,
       "name": "Meu Amor",
       "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
+        "name": "samba do mo\u00e7o bonito",
+        "url": "https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 197090,
+      "name": "samba do mo\u00e7o bonito",
+      "url": "https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
+        "name": "Aroeira",
+        "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
+      },
+      "artists": [
+        {
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Casa Amarela",
+          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
+        }
+      ],
+      "duration_ms": 173354,
+      "name": "Aroeira",
+      "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
         "name": "Fiz Esse Som Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 154647,
       "name": "Rua Tr\u00eas",
       "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "Aroeira",
-        "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
-      },
-      "artists": [
-        {
-          "name": "Murilo Chester",
-          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
-        },
-        {
-          "name": "Casa Amarela",
-          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
-        }
-      ],
-      "duration_ms": 173354,
-      "name": "Aroeira",
-      "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "O amor te d\u00e1",
-        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        }
-      ],
-      "duration_ms": 247812,
-      "name": "O amor te d\u00e1",
-      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
         "name": "Balan\u00e7o de Amor",
         "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Amanheceu (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
+        "name": "O amor te d\u00e1",
+        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
       "artists": [
         {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
         }
       ],
-      "duration_ms": 196743,
-      "name": "Amanheceu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
+      "duration_ms": 247812,
+      "name": "O amor te d\u00e1",
+      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -855,6 +839,22 @@
       "duration_ms": 224687,
       "name": "Somos Instantes - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
+        "name": "Amanheceu (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 196743,
+      "name": "Amanheceu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -907,18 +907,22 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Gente",
-        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
       },
       "artists": [
         {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 196546,
-      "name": "Que Sorte",
-      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
+      "duration_ms": 177344,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/7l7ZSYbgknFV6GBNH26T5x"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -943,22 +947,18 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "V\u00e1rias Ondas",
-        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+        "name": "Gente",
+        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
         }
       ],
-      "duration_ms": 177344,
-      "name": "Amor das Minhas Vidas",
-      "url": "https://open.spotify.com/track/7l7ZSYbgknFV6GBNH26T5x"
+      "duration_ms": 196546,
+      "name": "Que Sorte",
+      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
+        "name": "Sorriso De Agog\u00f4",
+        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Sorriso De Agog\u00f4",
+      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
         "name": "Sem Filtro (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
@@ -1019,38 +1035,18 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Sorriso De Agog\u00f4",
-        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
+        "name": "Entre Homens e Autom\u00f3veis",
+        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
         }
       ],
-      "duration_ms": 196146,
-      "name": "Sorriso De Agog\u00f4",
-      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "No Mundo",
-        "url": "https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Lucas Mayer",
-          "url": "https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "No Mundo",
-      "url": "https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH"
+      "duration_ms": 189882,
+      "name": "Mais Perto",
+      "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1095,18 +1091,22 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Entre Homens e Autom\u00f3veis",
-        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+        "name": "No Mundo",
+        "url": "https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Lucas Mayer",
+          "url": "https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw"
         }
       ],
-      "duration_ms": 189882,
-      "name": "Mais Perto",
-      "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
+      "duration_ms": 188995,
+      "name": "No Mundo",
+      "url": "https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Bom Dia!",
-        "url": "https://open.spotify.com/album/763Hko5dVzO75gKaJF8eir"
-      },
-      "artists": [
-        {
-          "name": "Lou & May",
-          "url": "https://open.spotify.com/artist/5yeo18PFCQF06zuJ6S0fwy"
-        }
-      ],
-      "duration_ms": 148729,
-      "name": "Bom Dia!",
-      "url": "https://open.spotify.com/track/4nfToj9WWw9UskVRumGlsV"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
         "name": "Lua Vai, Lua Vem",
         "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 216721,
       "name": "Lua Vai, Lua Vem",
       "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
+        "name": "Bom Dia!",
+        "url": "https://open.spotify.com/album/763Hko5dVzO75gKaJF8eir"
+      },
+      "artists": [
+        {
+          "name": "Lou & May",
+          "url": "https://open.spotify.com/artist/5yeo18PFCQF06zuJ6S0fwy"
+        }
+      ],
+      "duration_ms": 148729,
+      "name": "Bom Dia!",
+      "url": "https://open.spotify.com/track/4nfToj9WWw9UskVRumGlsV"
     },
     {
       "added_at": "2023-09-02 00:01:21",

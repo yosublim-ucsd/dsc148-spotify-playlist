@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=YOQ16IW0TzynqVngp308wg\">Maandy</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=26xgX_9dQdeX_1gV5SR9ZA\"> Boutross</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 216470,
       "name": "Dala Wa",
       "url": "https://open.spotify.com/track/3vwCLR1fyjeMCkPFfnfnHL"
@@ -2410,6 +2410,40 @@
       "duration_ms": 185521,
       "name": "Katanuka",
       "url": "https://open.spotify.com/track/1k7rJQ0f1ApSrKJ0deERhd"
+    },
+    {
+      "album": {
+        "name": "Kaveve Kazoze (Remix)",
+        "url": "https://open.spotify.com/album/25u5Tg874oEWtwT1RYhkci"
+      },
+      "artists": [
+        {
+          "name": "Spider Clan",
+          "url": "https://open.spotify.com/artist/0iSHpBFiOfmVUdNNnehc83"
+        },
+        {
+          "name": "OCHUNGULO FAMILY",
+          "url": "https://open.spotify.com/artist/5BIPdhge35SxgaRupKD8Qz"
+        },
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/1SLUPf8hvsH3f0MBMFHFtj"
+        },
+        {
+          "name": "Manzi Wa Kibera",
+          "url": "https://open.spotify.com/artist/319qt2mMDomLVBRNGzkAwU"
+        },
+        {
+          "name": "Dj Shiti",
+          "url": "https://open.spotify.com/artist/2qfVsz7NpzxlPnIxbYLadD"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294568,
+      "name": "Kaveve Kazoze (Remix)",
+      "url": "https://open.spotify.com/track/4gh5zJb9IrOTtAWcmaJs4b"
     },
     {
       "album": {
@@ -4815,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girls Twerk",
+        "url": "https://open.spotify.com/album/0w2Zc0AAXFJfk81787eMCO"
+      },
+      "artists": [
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139840,
+      "name": "Pretty Girls Twerk",
+      "url": "https://open.spotify.com/track/6RwL8bUFS3sCfJRNHUaLkt"
+    },
+    {
+      "album": {
         "name": "PUNGUZA EGO",
         "url": "https://open.spotify.com/album/66K9xtlzsdkOVnGg6kGVtq"
       },
@@ -5787,6 +5839,24 @@
     },
     {
       "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/6szvZyLvqUzmmuFzowzF1G"
+      },
+      "artists": [
+        {
+          "name": "RanzScooby",
+          "url": "https://open.spotify.com/artist/4QZongCaHTAfYZo1fpessq"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237593,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/5ozgizyjmZws6tF5VAO9iG"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/2u2yAnbEm8CDb9ogOHTLMb"
       },
@@ -5956,7 +6026,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 182308,
       "name": "Tupo site",
       "url": "https://open.spotify.com/track/7lZ68c0bZQtMT92PhvdV2X"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SpcerLn1dx.md) - [plain]
 
 > Get spooky with these creepy classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 854 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 877 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SpcerLn1dx.md) - [plain]
 | 25 | [The Witch Queen of New Orleans](https://open.spotify.com/track/6yXcmVKGjFofPWvW9ustQX) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [The Essential Redbone](https://open.spotify.com/album/7GCljXMi3WChErr3b8xl8R) | 2:45 |
 | 26 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 |
 | 27 | [Dead Man's Party](https://open.spotify.com/track/2h47SG8bNphmicAll4H9RV) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 6:21 |
-| 28 | [Spirit In The Sky](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 |
+| 28 | [Spirit In The Sky \- Deluxe Edition](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky \(Deluxe Edition\)](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 |
 | 29 | [Everyday Is Halloween](https://open.spotify.com/track/55IOt0T1KbTgWpsliVyaWo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Very Best of Fixes & Remixes](https://open.spotify.com/album/7tfj1GYjw43PPDqoo8eAOW) | 6:24 |
 | 30 | [Welcome to My Nightmare](https://open.spotify.com/track/0mtUvL8w3vQiMm93AfnRpO) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome to My Nightmare](https://open.spotify.com/album/4QhvqS4OQ4Lxe78Bafn8VH) | 5:20 |
 | 31 | [Evil Ways](https://open.spotify.com/track/5tmrnhMxx39jnu3kjopMdP) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 3:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SpcerLn1dx.md) - [plain]
 | 59 | [Zombie Zoo](https://open.spotify.com/track/6fKYUIurKDNTHz7bEOaOj6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 | 60 | [D.O.A.](https://open.spotify.com/track/0whBqRSuzEa2ZLv1LeG3K6) | [Bloodrock](https://open.spotify.com/artist/522yoVmanZmrgK5qy3GyRK) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 4:34 |
 
-Snapshot ID: `MCxjZjU1YmUwN2QzYWNlZjJkMzA1NjQ0NzY4MDg0NjVhMWYwN2VhZTNl`
+Snapshot ID: `MCwwZmM5NDJkNDVhOTRjNmFmZGI3ZmZmMDQ4MzYxODViNTI1NDcyYzhm`

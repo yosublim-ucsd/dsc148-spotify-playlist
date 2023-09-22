@@ -68,6 +68,6 @@
 | [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 | 2023-03-26 |  |
 | [Worship in the Moshpit](https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Worship in the Moshpit](https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX) | 3:10 | 2023-03-17 |  |
 | [Yes Song](https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:45 | 2023-03-17 |  |
-| [Your Way](https://open.spotify.com/track/3KXeP6ABCId10NPis7RQps) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 4:01 | 2023-08-19 |  |
+| [Your Way](https://open.spotify.com/track/3KXeP6ABCId10NPis7RQps) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 4:01 | 2023-08-19 | 2023-09-22 |
 
 \*This playlist was first scraped on 2023-03-18. Prior content cannot be recovered.

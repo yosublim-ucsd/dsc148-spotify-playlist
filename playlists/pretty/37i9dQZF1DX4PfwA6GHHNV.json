@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil",
-  "num_followers": 10901,
+  "num_followers": 10915,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjVkZmJhMGEwNzg1MWM5ZWEwNTlhMmUzNjQxMzg5M2EwN2VkYjE2",
+  "snapshot_id": "MCwxZGExZTg4NDVlNjk1NmYxODI0YWY4ZGFlODUxODIxMjMwZjRjNDAx",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "HODARI",
+        "url": "https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "S-E-X-O",
+      "url": "https://open.spotify.com/track/4ZmJCtrAAGzuYE97Is9Df7"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "larissa",
         "url": "https://open.spotify.com/album/22pTsHQr1PEdldt3nqp0Ig"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 187200,
       "name": "larissa",
       "url": "https://open.spotify.com/track/3CgVFbz5OQDGuRURKKTvmE"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "HODARI",
-        "url": "https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "S-E-X-O",
-      "url": "https://open.spotify.com/track/4ZmJCtrAAGzuYE97Is9Df7"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Promessas",
-        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Promessas",
-      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "NPC T\u00c1 P*",
         "url": "https://open.spotify.com/album/29nxFk7CO7K1l20m7lQSEk"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 152804,
       "name": "NPC T\u00c1 P*",
       "url": "https://open.spotify.com/track/0Mq1yHTu3w1LSpmVPU76RT"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Em Mim",
+        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+        }
+      ],
+      "duration_ms": 126143,
+      "name": "Em Mim",
+      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/1RiyzknGmlflh4SVt41sBD"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 133333,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/0SpbQAtLtyIaV7Xjr6f8b6"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Em Mim",
-        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
-      },
-      "artists": [
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
-        }
-      ],
-      "duration_ms": 126143,
-      "name": "Em Mim",
-      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -803,30 +803,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Incertezas",
-        "url": "https://open.spotify.com/album/3xjeeEaGOriHi8XUMRt3bn"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "John Bxd",
-          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Incertezas",
-      "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Deixa Eu Mostrar",
         "url": "https://open.spotify.com/album/54aMRwjpAThmHSElGPvYQB"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 220389,
       "name": "Lembra?",
       "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Incertezas",
+        "url": "https://open.spotify.com/album/3xjeeEaGOriHi8XUMRt3bn"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "John Bxd",
+          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Incertezas",
+      "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Arrepios",
-        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
-      },
-      "artists": [
-        {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
-        },
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "S\u00f3 Minha",
         "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
       },
@@ -967,22 +947,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Yo Quiero Te Namorar",
-        "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
+        "name": "Arrepios",
+        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
       },
       "artists": [
         {
-          "name": "Negr\u00e3oDoC\u00e9u",
-          "url": "https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx"
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
         },
         {
-          "name": "DJFILLSP",
-          "url": "https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7"
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
         }
       ],
-      "duration_ms": 198070,
-      "name": "Yo Quiero Te Namorar",
-      "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
+      "duration_ms": 205000,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -1023,6 +1003,26 @@
       "duration_ms": 150000,
       "name": "Mexe",
       "url": "https://open.spotify.com/track/2ZAB7NNxi08CR1tfUf1qAP"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Yo Quiero Te Namorar",
+        "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
+      },
+      "artists": [
+        {
+          "name": "Negr\u00e3oDoC\u00e9u",
+          "url": "https://open.spotify.com/artist/7IRAMOb7oQMFe3vYolwQcx"
+        },
+        {
+          "name": "DJFILLSP",
+          "url": "https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7"
+        }
+      ],
+      "duration_ms": 198070,
+      "name": "Yo Quiero Te Namorar",
+      "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
     },
     {
       "added_at": "2023-09-15 03:01:00",

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Kyrie（アイナ・ジ・エンド）
 
-1,730 songs - 4 day 15 hr 54 min
+1,731 songs - 4 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1184,7 +1184,7 @@
 | [キンモクセイ](https://open.spotify.com/track/5D4rmd0lELbzElkHne1EvY) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [キンモクセイ](https://open.spotify.com/album/15SsNtLdpBfNUzEcZEGDFV) | 4:29 | 2022-05-29 | 2022-07-29 |
 | [ギブス](https://open.spotify.com/track/7kIKjH4RrK8LT5TbmwecK9) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界1](https://open.spotify.com/album/62YAdq98gEQphXbrvLUMtD) | 6:41 | 2022-11-08 | 2022-11-10 |
 | [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 | 2023-02-07 | 2023-02-09 |
-| [クランベリージャムをかけて](https://open.spotify.com/track/49vr4m19sPkH12IKTauEUz) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クランベリージャムをかけて](https://open.spotify.com/album/3bj22dhfeDss7WCzPYlVHI) | 2:47 | 2023-07-25 |  |
+| [クランベリージャムをかけて](https://open.spotify.com/track/49vr4m19sPkH12IKTauEUz) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クランベリージャムをかけて](https://open.spotify.com/album/3bj22dhfeDss7WCzPYlVHI) | 2:47 | 2023-07-25 | 2023-09-22 |
 | [クリームソーダが溶ける頃](https://open.spotify.com/track/4p6eJCD6zGYSDI5RD2IhTG) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [クリームソーダが溶ける頃](https://open.spotify.com/album/6QfuUbAPxD3nBGc5OirrPD) | 3:23 | 2022-07-19 | 2022-07-27 |
 | [グッドラックが聞こえない](https://open.spotify.com/track/79BXTDSbfXRRkWp44BfE51) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [グッドラックが聞こえない](https://open.spotify.com/album/6ihreP7TWqTZsZGl6voPKo) | 2:31 | 2023-04-05 | 2023-04-06 |
 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 | 2023-09-19 | 2023-09-21 |
@@ -1423,6 +1423,7 @@
 | [夏に溺れたい](https://open.spotify.com/track/3VHHhp7Si9eA8F6AvkrTUM) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf), [Asami Izawa](https://open.spotify.com/artist/4CSFDF5CSlREXqaXG0pGh4) | [夏に溺れたい](https://open.spotify.com/album/3HfFRjMsM5dfUvaE6RfhcK) | 3:31 | 2022-06-30 | 2022-08-11 |
 | [夏のせい](https://open.spotify.com/track/3TZRupsjdT5rkQKvegJICa) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [Ernest Ling](https://open.spotify.com/artist/7mxBdHCL6IveYlLZrqZ9YR) | [Summer’s fault / you swerve](https://open.spotify.com/album/62UaTOL45gqZlOxALuGEEs) | 3:18 | 2022-11-10 | 2022-11-16 |
 | [夏の僕にも](https://open.spotify.com/track/5G03XwPjaOXFKNstuMAul9) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [夏の僕にも](https://open.spotify.com/album/2CnBGbNazCkeBAUs44hXOG) | 3:16 | 2022-10-05 | 2022-10-12 |
+| [夏の恋人 \- ACOUSTIC ver.](https://open.spotify.com/track/0OUPnFCx9cz6FH8r3jbauJ) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏の恋人 \(ACOUSTIC ver\)](https://open.spotify.com/album/5NqugG8nDceZbpkP1xvfml) | 5:48 | 2023-09-21 |  |
 | [夏の波紋](https://open.spotify.com/track/0LytC5ng1a5cMKK0o9j1Xr) | [heimrecord](https://open.spotify.com/artist/2JgVdTFw8AOfFAQEmb4NYC) | [夏の波紋](https://open.spotify.com/album/4xDqp7Uiw0PPbooUcNH6TY) | 5:27 | 2022-08-30 | 2022-09-01 |
 | [夏の終わり](https://open.spotify.com/track/1GCedKdM8UJCTt3HvV8HYU) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [夏の終わり](https://open.spotify.com/album/1uQTmJVphYfSw33v7NK12X) | 3:34 | 2023-08-29 |  |
 | [夏の限り](https://open.spotify.com/track/5kHOADTEcHXLS5RNq3kJ9I) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [夏の限り](https://open.spotify.com/album/7kpecmbEFQa8O8AkWlHtIp) | 5:14 | 2022-08-17 | 2022-08-31 |

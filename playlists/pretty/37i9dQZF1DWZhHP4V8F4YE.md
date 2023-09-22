@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,617 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,749 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 46 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
 | 47 | [LELE](https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh) | [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Lufasa](https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J) | [LELE](https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu) | 3:04 |
 | 48 | [Angel](https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Angel](https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz) | 3:39 |
-| 49 | [Canada](https://open.spotify.com/track/0rsfSg88KrfbmJjE3T2j2r) | [Heisaj](https://open.spotify.com/artist/2cm8yG7oURSEHpVi7jIvs1), [Magnito](https://open.spotify.com/artist/2cyfzkY6IT0nKHN3s447n8) | [Canada](https://open.spotify.com/album/1mZvm0xVHs3leeoXqkYwSm) | 2:36 |
+| 49 | [Canada](https://open.spotify.com/track/0rsfSg88KrfbmJjE3T2j2r) | [Heisaj](https://open.spotify.com/artist/2cm8yG7oURSEHpVi7jIvs1) | [Canada](https://open.spotify.com/album/1mZvm0xVHs3leeoXqkYwSm) | 2:36 |
 | 50 | [Imnandi lento \(feat\. Tman Xpress\)](https://open.spotify.com/track/5C9h6ZyskUiyAVDmhSfSdP) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx) | [Imnandi lento \(feat\. Tman Xpress\)](https://open.spotify.com/album/10wss6Vb9C3dGclJzZJQmM) | 7:27 |
 
-Snapshot ID: `MCw3NzRkZWJhMjlhYTUxZTk0NjFiMWU5ZTk2MDM1YzM4YzdhZTQ0OThj`
+Snapshot ID: `MCw4YzIyMzQ0MmJkNWRmZWU5YTY4YjdiYmIzOWI2Y2IxOThkOWY1Mjc3`

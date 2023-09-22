@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-105 songs - 6 hr 2 min
+107 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Knep \- Rain](https://open.spotify.com/track/2CdvXIuW8jHByY469ph8k4) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Knep \- Rain](https://open.spotify.com/album/2VwdRqGWSTuW2flvR9gIym) | 3:54 | 2023-04-27 |  |
 | [Landing](https://open.spotify.com/track/5aWqkwh860xhalXLdDCEpM) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:04 | 2023-04-27 |  |
 | [Leaky Roofs](https://open.spotify.com/track/6NynfWuoyXIfUtivo6rIxu) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Leaky Roofs](https://open.spotify.com/album/2NkWcy7M5v9TR0kmAAryEA) | 4:29 | 2023-06-22 |  |
+| [Lies And Illusions](https://open.spotify.com/track/6EGRzh9ore7oILIWBmUl2K) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Lies And Illusions](https://open.spotify.com/album/4nzv5Jf3VjNfEw06qvNPzS) | 3:49 | 2023-09-22 |  |
 | [Lilys Dream \- With Rain](https://open.spotify.com/track/3mmqVXFbshhfqNMyqY1xYi) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Lilys Dream \- With Rain](https://open.spotify.com/album/7gWz9hPVKS6JT1x1o4Q8tn) | 3:32 | 2023-04-27 |  |
 | [Litania](https://open.spotify.com/track/4wOhcTEZTZulzergbLOx5M) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:57 | 2023-04-27 |  |
 | [Longing](https://open.spotify.com/track/5juD6KBBmEyvSPFXwBvh9O) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [Orbital Rain](https://open.spotify.com/album/4hYZF5wyDxOe4Lht2SYzBv) | 3:16 | 2023-04-27 |  |
@@ -81,6 +82,7 @@
 | [Night and Day](https://open.spotify.com/track/6JJ7JnW8fJZLrAbMMBkttV) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [Night and Day](https://open.spotify.com/album/22oIgys6iXgc13DKLKkwet) | 2:38 | 2023-04-27 |  |
 | [No Manner](https://open.spotify.com/track/6BcWqLROWgGk488uw9RBgW) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [No Manner](https://open.spotify.com/album/68t1UBM8b5ZwQWkuHUAgf7) | 3:17 | 2023-08-03 |  |
 | [Open Skies](https://open.spotify.com/track/7FLlHjyfOncjLLtwQWSWVI) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Open Skies](https://open.spotify.com/album/6xg99zXG10jU43BfP2JaKQ) | 3:46 | 2023-08-03 |  |
+| [Quietude \(Rain\)](https://open.spotify.com/track/0kWsC6cDFuducuSGBUAWA6) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Quietude \(Rain\)](https://open.spotify.com/album/30H4NMj6s73FG3LylSrr8r) | 4:05 | 2023-09-22 |  |
 | [Rainy Mix](https://open.spotify.com/track/5Bf6RpE7cymyP9RuFdKUr2) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 4:39 | 2023-04-27 |  |
 | [Reaching](https://open.spotify.com/track/0tisTFhHm0SFZO2y7RSRRt) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Reaching](https://open.spotify.com/album/4nUAFQ7psaKNzv5aGXALsB) | 3:24 | 2023-04-27 |  |
 | [Reign](https://open.spotify.com/track/6wvYAbSX54UOwWLFNd4rcj) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Reign](https://open.spotify.com/album/1FzB6cl6WzoFi2ruwHEZTp) | 3:10 | 2023-08-03 |  |

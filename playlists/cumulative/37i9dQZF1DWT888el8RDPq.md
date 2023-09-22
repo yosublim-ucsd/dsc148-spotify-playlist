@@ -2,7 +2,7 @@
 
 ### [una playlist felice](https://open.spotify.com/playlist/37i9dQZF1DWT888el8RDPq)
 
-> canzoni felici italiane e internazionali per un'estate presa bene ☀️
+> canzoni felici italiane e internazionali per un settembre preso bene ☀️
 
 313 songs - 15 hr 46 min
 

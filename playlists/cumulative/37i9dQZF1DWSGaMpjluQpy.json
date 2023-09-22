@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Lies And Illusions",
+        "url": "https://open.spotify.com/album/4nzv5Jf3VjNfEw06qvNPzS"
+      },
+      "artists": [
+        {
+          "name": "More than Jazz",
+          "url": "https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Lies And Illusions",
+      "url": "https://open.spotify.com/track/6EGRzh9ore7oILIWBmUl2K"
+    },
+    {
+      "album": {
         "name": "Lilys Dream - With Rain",
         "url": "https://open.spotify.com/album/7gWz9hPVKS6JT1x1o4Q8tn"
       },
@@ -1316,6 +1334,24 @@
       "duration_ms": 226500,
       "name": "Open Skies",
       "url": "https://open.spotify.com/track/7FLlHjyfOncjLLtwQWSWVI"
+    },
+    {
+      "album": {
+        "name": "Quietude (Rain)",
+        "url": "https://open.spotify.com/album/30H4NMj6s73FG3LylSrr8r"
+      },
+      "artists": [
+        {
+          "name": "Herman Fred Trio",
+          "url": "https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245701,
+      "name": "Quietude (Rain)",
+      "url": "https://open.spotify.com/track/0kWsC6cDFuducuSGBUAWA6"
     },
     {
       "album": {

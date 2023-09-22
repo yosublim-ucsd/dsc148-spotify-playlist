@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-584 songs - 1 day 23 hr 26 min
+586 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Another Day](https://open.spotify.com/track/6UIOashWRzgywXhjhrdIoW) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Creating Patterns](https://open.spotify.com/album/5uGV2BwnZi5TmQdfAOfdu4) | 4:57 | 2022-01-07 | 2022-01-19 |
 | [Another World](https://open.spotify.com/track/1gNDbq3ufi6VZJJuQWJiPe) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm) | 5:40 | 2023-08-08 |  |
 | [Anthem \- The Mafia Mix](https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs), [Mafia Productions](https://open.spotify.com/artist/71Feqz2UNoJsx4HfhWrShO) | [Anthem \(The Mafia Mix\)](https://open.spotify.com/album/5vd2RI19tkXCq9vC2XFAlq) | 4:49 | 2023-08-08 |  |
-| [Apache \(Let The Bass Go\)](https://open.spotify.com/track/3YijVQtJ8IoYyTLEg24jOZ) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2), [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Revival EP](https://open.spotify.com/album/0uAAibQJzPpqxdSMzSAu2J) | 4:39 | 2023-03-07 |  |
+| [Apache \(Let The Bass Go\)](https://open.spotify.com/track/3YijVQtJ8IoYyTLEg24jOZ) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2), [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Revival EP](https://open.spotify.com/album/0uAAibQJzPpqxdSMzSAu2J) | 4:39 | 2023-03-07 | 2023-09-22 |
+| [Apache \(Let The Bass Go\)](https://open.spotify.com/track/1UgPEJo6a40Ph2hf3icZxx) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2), [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Revival](https://open.spotify.com/album/5BLYRcTKdAE3DuOzBbCGWn) | 4:41 | 2023-08-08 |  |
 | [Apollo](https://open.spotify.com/track/3LfPxzuSC02bCRafuXAN5b) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo), [Neptune](https://open.spotify.com/artist/5IQRi95CwBWzOvk57vn725) | [Retrospect \- A Decade of Fracture & Neptune](https://open.spotify.com/album/5LotY5TthROAVyZhUwm5mz) | 7:23 | 2022-01-07 | 2022-02-19 |
 | [At The Controls](https://open.spotify.com/track/6YJGrrIXKJQBujDSdAoveQ) | [DJ Sofa](https://open.spotify.com/artist/0JQlyYKy63k4WwhdRrcmZc), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Meeting Of The Minds, Vol\. 8](https://open.spotify.com/album/1Ip9j9FHpLsINRtgLKdRAk) | 5:32 | 2021-11-25 | 2022-01-08 |
 | [Aura](https://open.spotify.com/track/6OwXSaMnwy8TfYt5bXL0X5) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0) | [Aura](https://open.spotify.com/album/02gm2V70CFoW4FD9EfYXT0) | 4:03 | 2022-11-21 | 2022-12-13 |
@@ -419,7 +420,8 @@
 | [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 | 2023-08-08 |  |
 | [Respirator](https://open.spotify.com/track/4wZJvvWhngLb3znKI6HjQQ) | [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [Nothing](https://open.spotify.com/album/3dCuwosZxBe3wR3ANpeeIY) | 3:21 | 2022-09-23 | 2023-03-08 |
 | [Revealed \- 2017 Re\-Mastered](https://open.spotify.com/track/54q8GaIjOySKI9jxVZGaOn) | [The Invaderz](https://open.spotify.com/artist/5S2Apk3MCDHUoMrmIOFMaU) | [MDZ.02 \(2017 Re\-Mastered\)](https://open.spotify.com/album/3Z8sVoN2WuXj4leZbPfqj2) | 6:54 | 2022-12-12 | 2023-03-08 |
-| [Revival](https://open.spotify.com/track/6RenH4B1Af1auyDziJkISc) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Revival EP](https://open.spotify.com/album/0uAAibQJzPpqxdSMzSAu2J) | 4:50 | 2023-03-24 |  |
+| [Revival](https://open.spotify.com/track/6RenH4B1Af1auyDziJkISc) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Revival EP](https://open.spotify.com/album/0uAAibQJzPpqxdSMzSAu2J) | 4:50 | 2023-03-24 | 2023-09-22 |
+| [Revival](https://open.spotify.com/track/1k3S1FyP24LL94SK9YRWBp) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Revival](https://open.spotify.com/album/5BLYRcTKdAE3DuOzBbCGWn) | 4:52 | 2023-08-08 |  |
 | [RHYTHM LOVE \(FEEL IT\)](https://open.spotify.com/track/5iz94TA4yfy7RyPq7XhVXM) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [160 DOWN THE A406](https://open.spotify.com/album/1ooaFV3YPtnPjUGdAIp6bZ) | 5:58 | 2021-11-25 | 2022-12-13 |
 | [Rich Mi Proud](https://open.spotify.com/track/0b3itwmGuqXD1sRthHj4pb) | [RDL Shellah](https://open.spotify.com/artist/0eeZmzBCtJCqvntkxBOIpN) | [Showcase](https://open.spotify.com/album/7huNtk4kDrtDjiyLqYLbmr) | 2:59 | 2022-01-07 | 2022-02-19 |
 | [Right Dere](https://open.spotify.com/track/0HQxbCn4OjDbr5o4P0jhlK) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Bass + Funk & Soul](https://open.spotify.com/album/45ppFjeJY6UXzmLdlbdj7Z) | 3:13 | 2022-06-17 | 2022-09-24 |

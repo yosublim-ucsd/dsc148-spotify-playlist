@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: San Holo",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Lloyiso",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -1497,6 +1497,28 @@
     },
     {
       "album": {
+        "name": "buttons!",
+        "url": "https://open.spotify.com/album/1BNaZf2C1HMVCC2pCRdYsr"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239047,
+      "name": "buttons!",
+      "url": "https://open.spotify.com/track/3PXb8ZLJiz59pSO5ZrJDx0"
+    },
+    {
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/0xCSif2Anvwnl5eFEL6C2L"
       },
@@ -2030,7 +2052,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 145122,
       "name": "Coming Your Way (with Anne-Marie & Becky G)",
       "url": "https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh"
@@ -2493,6 +2515,36 @@
     },
     {
       "album": {
+        "name": "Destination (A State of Trance 2024 Anthem)",
+        "url": "https://open.spotify.com/album/2eFpTbkJqSzTPTbRqh5nb2"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        },
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193790,
+      "name": "Destination (A State of Trance 2024 Anthem)",
+      "url": "https://open.spotify.com/track/5bMGUG2Z1uZBdcr0MDTljI"
+    },
+    {
+      "album": {
         "name": "Direction",
         "url": "https://open.spotify.com/album/4tmUzN1n52w8S8kl76VelO"
       },
@@ -2900,7 +2952,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 236129,
       "name": "Encounters - SOHMI Fantasy Remix",
       "url": "https://open.spotify.com/track/5wcA4ajXGIep3vf4p9S6Xp"
@@ -2930,6 +2982,28 @@
       "duration_ms": 153281,
       "name": "Ends With Us",
       "url": "https://open.spotify.com/track/6SC1B5qJfAlgBZUT4BXUxB"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/2effpJSCbDQfgt76VbUU9B"
+      },
+      "artists": [
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241751,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5hXnYPdjMzhNvL16Iz9PW5"
     },
     {
       "album": {
@@ -3100,7 +3174,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 143081,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
@@ -3618,7 +3692,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 134425,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2PuctoOgahj3IgAqURAeGo"
@@ -4224,7 +4298,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 227675,
       "name": "Groovin'",
       "url": "https://open.spotify.com/track/5VGXslWZyd4gmkqcDvwKbc"
@@ -4730,6 +4804,24 @@
       "duration_ms": 185764,
       "name": "Hold On To My Love",
       "url": "https://open.spotify.com/track/729INrfxIsfZ5EVNFacZjD"
+    },
+    {
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237866,
+      "name": "Hold On To Now",
+      "url": "https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR"
     },
     {
       "album": {
@@ -5423,6 +5515,32 @@
     },
     {
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+    },
+    {
+      "album": {
         "name": "Keeping Love (Sola Fae Remix)",
         "url": "https://open.spotify.com/album/6IpYlw9sPjon156HVs76kQ"
       },
@@ -5617,6 +5735,24 @@
     },
     {
       "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/3tFfD8hmcjfKCjfFZjR3Lp"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/1wuLKsmd4e8UwKb5T1Ss2n"
+    },
+    {
+      "album": {
         "name": "EXISTENTIAL DANCE MUSIC",
         "url": "https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz"
       },
@@ -5724,7 +5860,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 147170,
       "name": "Locked Up (ft. Akon)",
       "url": "https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53"
@@ -5994,7 +6130,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 156562,
       "name": "Love's Surrender",
       "url": "https://open.spotify.com/track/3Lo69EwXBjF2TzgwgQxK6N"
@@ -6536,7 +6672,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 177434,
       "name": "Moonflower",
       "url": "https://open.spotify.com/track/3YNBlrHJPfuSyz0EgXIv9a"
@@ -6588,6 +6724,28 @@
       "duration_ms": 175856,
       "name": "More Baby",
       "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
+    },
+    {
+      "album": {
+        "name": "More Than A Dream",
+        "url": "https://open.spotify.com/album/4V9UERwQdVCk9LTxHswC3F"
+      },
+      "artists": [
+        {
+          "name": "Matt Leger",
+          "url": "https://open.spotify.com/artist/3wxxQcTnuIZrDDtP8admGi"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210750,
+      "name": "More Than A Dream",
+      "url": "https://open.spotify.com/track/1GxAXLhyOFsmxYtDiG7U3w"
     },
     {
       "album": {
@@ -6954,7 +7112,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 152299,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/3Yx6GsQwVGXvrR9RlTmGv7"
@@ -7072,7 +7230,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 180903,
       "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
       "url": "https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR"
@@ -7278,7 +7436,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
@@ -7959,6 +8117,28 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+    },
+    {
+      "album": {
         "name": "Eva Celia",
         "url": "https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx"
       },
@@ -8021,6 +8201,28 @@
     },
     {
       "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196821,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
+    },
+    {
+      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
       },
@@ -8076,7 +8278,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 209642,
       "name": "Pilot (Feel Tonight)",
       "url": "https://open.spotify.com/track/7qjFLz0faqGferF0I7u5PT"
@@ -8259,6 +8461,46 @@
     },
     {
       "album": {
+        "name": "Ready To Play",
+        "url": "https://open.spotify.com/album/5wMoyt0lCRmld4arXXD22B"
+      },
+      "artists": [
+        {
+          "name": "MANSA",
+          "url": "https://open.spotify.com/artist/6i2ssO4LVLEFlyn2EMLmKF"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Ready To Play",
+      "url": "https://open.spotify.com/track/43DpNjZJpnDCX7iVev2kDE"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
+    },
+    {
+      "album": {
         "name": "Recall",
         "url": "https://open.spotify.com/album/5j9WlW3KIL3c3uKkRHyiCX"
       },
@@ -8300,7 +8542,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 195428,
       "name": "Red Thread",
       "url": "https://open.spotify.com/track/6EjawNS588Rrm39sybcjy2"
@@ -8636,7 +8878,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 132520,
       "name": "ROSE",
       "url": "https://open.spotify.com/track/2OvqXrPDlKFS7dgrSGCqVO"
@@ -8948,7 +9190,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 149620,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/1BqHq1PHdBmyA4AoNF2I4q"
@@ -9526,7 +9768,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 212252,
       "name": "Space Case",
       "url": "https://open.spotify.com/track/1VSbfnWlHajs3Wz9LhucLB"
@@ -11474,6 +11716,24 @@
     {
       "album": {
         "name": "Wild",
+        "url": "https://open.spotify.com/album/0Ha7h6xzWHa8CktSJXNZG2"
+      },
+      "artists": [
+        {
+          "name": "Crime Zcene",
+          "url": "https://open.spotify.com/artist/63Uotocmp2cieAZLI0Y4wv"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153281,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/5p9MGxhGJbSeqeZzWPM4Zx"
+    },
+    {
+      "album": {
+        "name": "Wild",
         "url": "https://open.spotify.com/album/0EROr6mUh4mejX6V46gwn2"
       },
       "artists": [
@@ -11774,7 +12034,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 221666,
       "name": "WORLD DANCE",
       "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
@@ -12074,6 +12334,28 @@
       "duration_ms": 204923,
       "name": "You feel like home",
       "url": "https://open.spotify.com/track/0ZPZalswtCCkA0h2EpiyR2"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/7JSL5BGUc0Lf9I8MogUpwg"
+      },
+      "artists": [
+        {
+          "name": "Edmondsski",
+          "url": "https://open.spotify.com/artist/20IbhrhIDkUiCP3GfT61FZ"
+        },
+        {
+          "name": "A17N",
+          "url": "https://open.spotify.com/artist/0NBnxtO7THIQ1yZKiO4y3j"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137351,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5jNbxkv1A74xQgsFgl46Nl"
     },
     {
       "album": {

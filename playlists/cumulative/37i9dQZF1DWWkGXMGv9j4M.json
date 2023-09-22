@@ -3322,7 +3322,7 @@
     {
       "album": {
         "name": "Your Hero Is Not Dead",
-        "url": "https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv"
+        "url": "https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk"
       },
       "artists": [
         {
@@ -3333,6 +3333,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215106,
+      "name": "Your Hero Is Not Dead",
+      "url": "https://open.spotify.com/track/0Os1iv3wtatz1HfoPphLgu"
+    },
+    {
+      "album": {
+        "name": "Your Hero Is Not Dead",
+        "url": "https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
       "duration_ms": 215106,
       "name": "Your Hero Is Not Dead",
       "url": "https://open.spotify.com/track/3fxs1Jh98EQTJwvOJMAp09"

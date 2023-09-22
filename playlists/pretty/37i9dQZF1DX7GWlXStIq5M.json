@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Lexa, Thiago Pantale\u00e3o",
-  "num_followers": 366641,
+  "num_followers": 366671,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjgwMzg2YTFmMmQ3NTA3YzMzODhhMDBkNjM5MGE4M2M2MGZkMWI2",
+  "snapshot_id": "MCxjMWM5M2M0ZWI0YWJkZjBiZTI1ZjYzMTYwNzFmNTEyZjI0MmIxNjAx",
   "tracks": [
     {
       "added_at": "2023-09-15 03:00:00",
@@ -395,22 +395,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Quase N\u00e3o Namoro",
-        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
       },
       "artists": [
         {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
         }
       ],
-      "duration_ms": 135456,
-      "name": "Quase N\u00e3o Namoro",
-      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -431,18 +427,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+        "name": "Quase N\u00e3o Namoro",
+        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
       },
       "artists": [
         {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
+      "duration_ms": 135456,
+      "name": "Quase N\u00e3o Namoro",
+      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Amigos N\u00e3o Se Pegam",
+        "url": "https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "Amigos N\u00e3o Se Pegam",
+      "url": "https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Maldade",
         "url": "https://open.spotify.com/album/6qZi0p6QEwwVzHuZe4tVwN"
       },
@@ -1056,29 +1072,13 @@
       },
       "artists": [
         {
-          "name": "Priscilla",
-          "url": "https://open.spotify.com/artist/2kAllRyiZRNrD6nty4j3IV"
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         }
       ],
       "duration_ms": 136806,
       "name": "Bomba",
       "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Amigos N\u00e3o Se Pegam",
-        "url": "https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Amigos N\u00e3o Se Pegam",
-      "url": "https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Carambolar",
+        "url": "https://open.spotify.com/album/1GkP37VZmvYhq5EGcVnUpi"
+      },
+      "artists": [
+        {
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 142102,
+      "name": "Carambolar",
+      "url": "https://open.spotify.com/track/4704Yxnyrf6T3G4H7JL8Kq"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "J\u00e1 Era",
         "url": "https://open.spotify.com/album/5L5tyAQX0cihzOp4d5q2JZ"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 129565,
       "name": "Quando a noite vem",
       "url": "https://open.spotify.com/track/29KMeIz2xKL26X6UzvPHd7"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Carambolar",
-        "url": "https://open.spotify.com/album/1GkP37VZmvYhq5EGcVnUpi"
-      },
-      "artists": [
-        {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 142102,
-      "name": "Carambolar",
-      "url": "https://open.spotify.com/track/4704Yxnyrf6T3G4H7JL8Kq"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1507,6 +1507,30 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Gamadona",
+        "url": "https://open.spotify.com/album/6DoLETGyvHHQekJP7gSkME"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+        },
+        {
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
+        }
+      ],
+      "duration_ms": 152866,
+      "name": "Gamadona",
+      "url": "https://open.spotify.com/track/6LiFJolwT0NIa0YMRrmRgG"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "43 Licor",
         "url": "https://open.spotify.com/album/0rdWuWzmkYrFbiJOxgEgu2"
       },
@@ -1539,30 +1563,6 @@
       "duration_ms": 193411,
       "name": "TUA BITCH",
       "url": "https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Gamadona",
-        "url": "https://open.spotify.com/album/6DoLETGyvHHQekJP7gSkME"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Weeze Cooker",
-          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
-        },
-        {
-          "name": "PS",
-          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
-        }
-      ],
-      "duration_ms": 152866,
-      "name": "Gamadona",
-      "url": "https://open.spotify.com/track/6LiFJolwT0NIa0YMRrmRgG"
     },
     {
       "added_at": "2023-09-15 03:00:00",

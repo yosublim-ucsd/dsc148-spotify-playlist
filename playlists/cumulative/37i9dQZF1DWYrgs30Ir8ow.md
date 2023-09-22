@@ -2,7 +2,7 @@
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd fris in Fresh Hits\. Cover: Tyla
+> Altijd fris in Fresh Hits\. Cover: Katnuf
 
 300 songs - 14 hr 25 min
 

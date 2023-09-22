@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-552 songs - 1 day 6 hr 0 min
+553 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Fingers of Steel](https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:21 | 2023-02-24 |  |
 | [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 | 2023-01-06 | 2023-02-25 |
 | [Float Away](https://open.spotify.com/track/6PIjKxxqT4H23Gv8jMWHUJ) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Float Away](https://open.spotify.com/album/1JmoiKSuudNiXeAqh84oNy) | 3:02 | 2023-07-14 |  |
-| [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 | 2023-03-10 |  |
+| [Flood Into](https://open.spotify.com/track/19meO0ADnoTjRuBMXZCdbs) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/5wBZdQtJp4ad73MspHd7DG) | 2:55 | 2023-09-15 |  |
+| [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 | 2023-03-10 | 2023-09-22 |
 | [Foul](https://open.spotify.com/track/0jLiGDl2JzE6AphvAJ4HEl) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Foul](https://open.spotify.com/album/5Rd8jZQIzuHX6EuV1ZA6CE) | 2:47 | 2022-10-07 | 2022-11-24 |
 | [Foul](https://open.spotify.com/track/27YME9ZCAEKJc7tUQubCqW) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 2:47 | 2022-11-04 | 2022-12-10 |
 | [four days](https://open.spotify.com/track/24S8SDMXhsdqtDYTubh5po) | [Brandon Jack & The Artifacts](https://open.spotify.com/artist/4e7XSqMThH4O5gW0QTEV5r) | [four days](https://open.spotify.com/album/7y4oX1oppmiZjaNT16MLBb) | 2:10 | 2021-10-07 | 2022-04-29 |

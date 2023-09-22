@@ -1,48 +1,28 @@
 {
   "description": "Neighborhood Storytellers. Cover: DeeBaby",
-  "num_followers": 55854,
+  "num_followers": 55871,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDIyZWFlOTlhNTE3OWM1ODdlYTA3ODM3Y2E0OTE1YTk5OTI1NTc1",
+  "snapshot_id": "MCw0OWZlZjY1MGNlNjAzYTZlZjRkNjNkYzY0NGViOWNiYmE3OWE0NmQx",
   "tracks": [
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 166578,
-      "name": "Boyz Don't Cry",
-      "url": "https://open.spotify.com/track/2z2gqgwu1GCurpZJYzcytE"
-    },
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "WTF (feat. Polo G) [Remix]",
-        "url": "https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 173458,
-      "name": "WTF (feat. Polo G) - Remix",
-      "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
+      "duration_ms": 184026,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/4zivXJkUD87842VhywHGFn"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -61,22 +41,6 @@
       "url": "https://open.spotify.com/track/6DKeSgqFW8OLGk6FgAEjvf"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 184026,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/4zivXJkUD87842VhywHGFn"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Junkie Mode",
@@ -91,26 +55,6 @@
       "duration_ms": 223158,
       "name": "Never Gon' End",
       "url": "https://open.spotify.com/track/2NYzTjbXL17B1ulwQSIi6P"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Summer's Mine",
-        "url": "https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Dancing With The Devil, Pt. 2",
-      "url": "https://open.spotify.com/track/2laOkDCyIDDmXxtGqrql6V"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -162,15 +106,67 @@
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
         }
       ],
-      "duration_ms": 163935,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/7ry34dFOuoK2c5GoYWWsl3"
+      "duration_ms": 166578,
+      "name": "Boyz Don't Cry",
+      "url": "https://open.spotify.com/track/2z2gqgwu1GCurpZJYzcytE"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "WTF (feat. Polo G) [Remix]",
+        "url": "https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 173458,
+      "name": "WTF (feat. Polo G) - Remix",
+      "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Summer's Mine",
+        "url": "https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Dancing With The Devil, Pt. 2",
+      "url": "https://open.spotify.com/track/2laOkDCyIDDmXxtGqrql6V"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 184006,
+      "name": "Love For A Thug",
+      "url": "https://open.spotify.com/track/694k4TfDqOqmhebj79li54"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -267,22 +263,6 @@
       "duration_ms": 144000,
       "name": "Need Prescriptions (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 184006,
-      "name": "Love For A Thug",
-      "url": "https://open.spotify.com/track/694k4TfDqOqmhebj79li54"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -479,6 +459,26 @@
       "duration_ms": 155538,
       "name": "Got It No Mo",
       "url": "https://open.spotify.com/track/0Zdtrfv5sofAp92eo1LC4s"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 163935,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7ry34dFOuoK2c5GoYWWsl3"
     },
     {
       "added_at": "2023-07-14 04:00:00",

@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Bridging the Gap, Vol. 2 Compiled by Dynamic Range",
+        "url": "https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439436,
+      "name": "Story Teller - Original Mix",
+      "url": "https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki"
+    },
+    {
+      "album": {
         "name": "Results Take Time",
         "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
       },

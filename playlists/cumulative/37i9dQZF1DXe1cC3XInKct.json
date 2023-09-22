@@ -3032,10 +3032,28 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 380300,
       "name": "Ohm Alone",
       "url": "https://open.spotify.com/track/23UrP3n6rZ5n2tPINsm601"
+    },
+    {
+      "album": {
+        "name": "Second Message",
+        "url": "https://open.spotify.com/album/0h8Kl7DUniHzGyDAFVpntL"
+      },
+      "artists": [
+        {
+          "name": "Cousin",
+          "url": "https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380300,
+      "name": "Ohm Alone",
+      "url": "https://open.spotify.com/track/7yDYbMJcTr1EuWrirvZ9r6"
     },
     {
       "album": {

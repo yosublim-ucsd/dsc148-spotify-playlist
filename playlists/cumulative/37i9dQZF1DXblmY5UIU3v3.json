@@ -1940,6 +1940,28 @@
     {
       "album": {
         "name": "Look at Me",
+        "url": "https://open.spotify.com/album/2QNjFtr2gEXQOmKIn5maJq"
+      },
+      "artists": [
+        {
+          "name": "OQTAN",
+          "url": "https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s"
+        },
+        {
+          "name": "Ginga",
+          "url": "https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Look at Me",
+      "url": "https://open.spotify.com/track/4lkBJU3iKwpO0dJiBZ5wAj"
+    },
+    {
+      "album": {
+        "name": "Look at Me",
         "url": "https://open.spotify.com/album/3v5y3DdwUPVdn0dWn7lVdL"
       },
       "artists": [
@@ -1954,7 +1976,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 139200,
       "name": "Look at Me",
       "url": "https://open.spotify.com/track/6ixeBeuUlZxjmBsjdsLuCv"

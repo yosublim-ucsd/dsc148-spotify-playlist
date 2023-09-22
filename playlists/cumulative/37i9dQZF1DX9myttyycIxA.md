@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Blondshell.
 
-1,052 songs - 2 day 11 hr 56 min
+1,053 songs - 2 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Cheers](https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:15 | 2022-05-19 | 2022-08-27 |
 | [Cheese](https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:19 | 2023-03-31 | 2023-06-16 |
 | [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 | 2023-03-31 | 2023-04-29 |
-| [Cheetah](https://open.spotify.com/track/3atT7O1PglLCaUQMpiiYsY) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Cheetah](https://open.spotify.com/album/1mOazGOQ77R9YHSjKNq4RF) | 3:02 | 2023-07-26 |  |
+| [Cheetah](https://open.spotify.com/track/2lSYQyP8LYXyfSp6S1kJu0) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Cheetah](https://open.spotify.com/album/6cpyeXYrpyzPI1VwOkA8Jo) | 3:02 | 2023-08-24 |  |
+| [Cheetah](https://open.spotify.com/track/3atT7O1PglLCaUQMpiiYsY) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Cheetah](https://open.spotify.com/album/1mOazGOQ77R9YHSjKNq4RF) | 3:02 | 2023-07-26 | 2023-09-22 |
 | [Cherry Blossom](https://open.spotify.com/track/6CrknTtSyM7xv9mOIhVoB6) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Ow](https://open.spotify.com/album/2SS3XY9hgkYRASjq80s2xV) | 2:47 | 2021-03-05 | 2022-03-27 |
 | [Cherry Jerry Citrus](https://open.spotify.com/track/4NH4uwPks7iwmmylbgAE25) | [Hey Cowboy!](https://open.spotify.com/artist/1m2tY2Q32cp51czUo7SxyZ) | [Get in My Fanny Pack and Let's Go](https://open.spotify.com/album/6ZEYAnIq5z89j5TTczUPH7) | 3:09 | 2021-06-02 | 2022-04-29 |
 | [Cherry Plum](https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I) | [Astronauts, etc.](https://open.spotify.com/artist/2CXaub1yYrSk6ruDtOx6LZ) | [Cherry Plum](https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh) | 2:54 | 2021-03-05 | 2022-04-29 |

@@ -4,10 +4,11 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-527 songs - 1 day 4 hr 5 min
+528 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 | 2023-09-15 |  |
 | [10 More Commandments \(feat\. Diddy\)](https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:58 | 2022-03-11 | 2022-07-24 |
 | [100 Bands](https://open.spotify.com/track/13IZ2zkmlh9madvIjcyBqk) | [070 Phi](https://open.spotify.com/artist/7MlqHsqltfPsL4hzFEt3j6), [Irie Child](https://open.spotify.com/artist/3v7QlnRyy5ktMLokwRbv0x) | [100 Bands](https://open.spotify.com/album/7ifZDjP7NVDfqpyf8dqoUA) | 4:08 | 2021-09-03 | 2022-01-20 |
 | [180 \(Remix\) \(feat\. Kemba\)](https://open.spotify.com/track/1oF1tFOdqoM6I2Y4crbGRU) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [180 \(Remix\) \(feat\. Kemba\)](https://open.spotify.com/album/31L28flQSMiHW7fwtlTkBh) | 3:16 | 2021-09-03 | 2022-05-10 |
@@ -389,7 +390,7 @@
 | [Rich Problems](https://open.spotify.com/track/5wCqSOUqA8orGqTVqei04h) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rich Problems](https://open.spotify.com/album/3umyqwAkITHw17JJjODAcv) | 3:54 | 2023-07-07 | 2023-07-24 |
 | [Right Hand Man \(feat\. Black Thought\)](https://open.spotify.com/track/1SL4bKAM4vkH0BqKdrZjH3) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Heaven Experience, Vol\. 1](https://open.spotify.com/album/0lQUDDBMXBJGaRVeRTXnci) | 4:02 | 2022-08-12 | 2022-08-20 |
 | [RIP Tracy \(feat\. Earl Sweatshirt & billy woods\)](https://open.spotify.com/track/2IUJBpKPp9jW3p2d4EbkmB) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Flying High](https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz) | 3:38 | 2023-06-30 |  |
-| [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 | 2023-07-21 |  |
+| [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 | 2023-07-21 | 2023-09-22 |
 | [Rome](https://open.spotify.com/track/5RBp3GOQIeCu8mrhLr8PxA) | [Kent Loon](https://open.spotify.com/artist/4D10XmdrnAaDediMRuOBKM), [Chester Watson](https://open.spotify.com/artist/1vmLIa1VRY38hZoar8AyYS) | [Rome](https://open.spotify.com/album/41HAHC41ZuXwZsxXlYYK1G) | 2:20 | 2021-09-03 | 2022-01-22 |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 | 2022-09-16 | 2023-04-15 |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/3hlOxtMvp2zeQc1Y3WwNvP) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [ROUND HERE \(PART ONE\)](https://open.spotify.com/album/6NSz5RJ2Gb660V60rO6EHs) | 1:42 | 2022-06-17 | 2022-07-08 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjVjYzBlNjVmZmNlMjQxOGRjMDM0NTdjN2E3NWFlNzBlNTJiYTEx",
+  "snapshot_id": "MCw2MjUyYTBhNTEwMmE3YzJlM2FmNWJhNjFlOTM3MTYyZjcxYmUzNTZi",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -177,22 +177,6 @@
       "url": "https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Viento",
-        "url": "https://open.spotify.com/album/5MoTqDolgs1exn9oq0Cyyl"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Vacchi",
-          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
-        }
-      ],
-      "duration_ms": 228690,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/0p34Y0tZFOvG3UpZQizOzv"
-    },
-    {
       "added_at": "2021-12-03 21:38:02",
       "album": {
         "name": "Overtime / Physically",
@@ -207,6 +191,22 @@
       "duration_ms": 168501,
       "name": "Overtime",
       "url": "https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/5MoTqDolgs1exn9oq0Cyyl"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Vacchi",
+          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
+        }
+      ],
+      "duration_ms": 228690,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/0p34Y0tZFOvG3UpZQizOzv"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -907,8 +907,8 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "La Petronita",
-        "url": "https://open.spotify.com/album/5DABOax69Bnhi7H89iVM8a"
+        "name": "Vagabundos",
+        "url": "https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j"
       },
       "artists": [
         {
@@ -918,15 +918,11 @@
         {
           "name": "Yvvan Back",
           "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
         }
       ],
-      "duration_ms": 203016,
-      "name": "La Petronita",
-      "url": "https://open.spotify.com/track/5w0OSwh9MmgIipn79aIz3R"
+      "duration_ms": 157530,
+      "name": "Vagabundos",
+      "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
       "added_at": "2021-10-08 15:53:55",

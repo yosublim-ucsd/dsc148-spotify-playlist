@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-195 songs - 10 hr 29 min
+196 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 | 2023-02-09 | 2023-05-17 |
 | [See Through](https://open.spotify.com/track/6qxeTdWUB0dAvv2Gp2Qdy9) | [Bedlocked](https://open.spotify.com/artist/7wgq6QJrXri0Mn31MCZmnt) | [Bedlocked](https://open.spotify.com/album/7A0OdpSoqCpNMX8SbzbKKO) | 3:09 | 2023-04-11 |  |
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2023-02-09 |  |
+| [skin](https://open.spotify.com/track/4D15H9FTw5zG1dMMBfQD1e) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [skin](https://open.spotify.com/album/29iYKOWHrTz5kAMWT8ick9) | 3:20 | 2023-09-21 |  |
 | [Sleep Walking](https://open.spotify.com/track/5n9ahkGyDNRv7HD2ng7sAJ) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [Sleep Walking](https://open.spotify.com/album/2djkjUvLdBkJMvt33GuW6L) | 3:19 | 2023-05-12 |  |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-05-17 |
 | [small](https://open.spotify.com/track/7cEUiQ4Wc2JpU9tkzrYqfv) | [sundots](https://open.spotify.com/artist/0K7RoGabPQO08yJDhsvvL5) | [room](https://open.spotify.com/album/77gWWHaMLsKr00U3SfTCns) | 1:38 | 2023-04-11 | 2023-05-17 |

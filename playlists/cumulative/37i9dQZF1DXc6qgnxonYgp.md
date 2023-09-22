@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Brodha V
 
-182 songs - 10 hr 31 min
+183 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Maari Mazhaiyila Thavala](https://open.spotify.com/track/20Laa9YU8RVHZ9iGKMeM7w) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF) | [Maari Mazhaiyila Thavala](https://open.spotify.com/album/754TTixoJkmxR8F8zt0XTa) | 3:31 | 2022-08-25 | 2023-03-14 |
 | [Malayahan](https://open.spotify.com/track/2Gowv6eWJEr3M3DPmWttP7) | [Prabath G.](https://open.spotify.com/artist/0AFm8YfBJDCBkKaQD7pkWd), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Malayahan](https://open.spotify.com/album/1ss31NIReeyCznDVA1NxWX) | 2:50 | 2023-02-16 | 2023-03-10 |
 | [Mami](https://open.spotify.com/track/2cjrn6oI6BAs3d1KqkpSxB) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Mami](https://open.spotify.com/album/7a4D0dQEbyuhfokz9cuvCI) | 2:58 | 2021-12-01 | 2022-06-09 |
+| [Moodu](https://open.spotify.com/track/4qIcZYeN6JxZcnSfobSi0A) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Moodu](https://open.spotify.com/album/6Y3C95Le14lY6mimbMsUH8) | 2:12 | 2023-09-21 |  |
 | [My Indian Girl](https://open.spotify.com/track/5budGGTak2cMuHm8XG9p3A) | [Switch \- Lock Up](https://open.spotify.com/artist/4JzjU9Er2Vd8k4HFNEFVC1) | [Savadi\(Individual Album Soundtrack\)](https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ) | 3:50 | 2021-12-01 | 2023-08-03 |
 | [My Indian Girls](https://open.spotify.com/track/2VQPI1L5lQsMqJVrTus7RS) | [Switch Lock Up](https://open.spotify.com/artist/0JMraP70dypedCsfesBle4) | [Savadi](https://open.spotify.com/album/4YwiMdmYDGix1E40Cu54Qm) | 3:50 | 2021-12-01 |  |
 | [My Name Is](https://open.spotify.com/track/0LNFIxnKhAMXzyxgDGKDRL) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Suppliers](https://open.spotify.com/artist/3nWI57X6Dtnu7lbHwl3amD) | [Lord Poetry](https://open.spotify.com/album/4illQIaW2DayH6iEItSC7x) | 3:26 | 2023-06-05 |  |
@@ -148,7 +149,7 @@
 | [Sol Penne](https://open.spotify.com/track/4ru0poP6MXjZeISRp0sEDa) | [Hiphop Rowdies](https://open.spotify.com/artist/5bi4MqssTjHcHUPtLdVmBX), [J Afsar](https://open.spotify.com/artist/7E5LwvNx4e0fCOvPKFpm9A), [RapForce](https://open.spotify.com/artist/41XSjOKaJLnQqRscyLkCWK) | [Sol Penne](https://open.spotify.com/album/1GioLKwDMojnRPBNbMhk0s) | 3:18 | 2021-12-01 |  |
 | [Somberi](https://open.spotify.com/track/40MlMSv2kkmph6XhYMOovm) | [Mathan](https://open.spotify.com/artist/6SKyKdlIxDf1JmwWgJ9l2W), [Naven](https://open.spotify.com/artist/21X2iwETuRendKavqKueda) | [Intha Vechiko](https://open.spotify.com/album/6WicssJ39qCW2BavG5hSOe) | 3:56 | 2021-12-01 |  |
 | [Soodah](https://open.spotify.com/track/5crDlrKf7tJSLe1uT2Lwa9) | [Aathitiyanz](https://open.spotify.com/artist/0kPeqIZZtxGD9u5lcXo2pN), [Kagen](https://open.spotify.com/artist/0aFESQDTLkS2OfjPgWfGhr), [Aasaami](https://open.spotify.com/artist/36llaFipyCWuzAX4ZQJNmP) | [Soodah](https://open.spotify.com/album/4tlgV4enZEml9fdTYeYQNd) | 5:17 | 2021-12-01 | 2022-07-16 |
-| [Sound of Pain](https://open.spotify.com/track/6HHpALzzMNphaUcKuHZoJR) | [Vallinan](https://open.spotify.com/artist/1ZUALjoCGaTW9TBVTDdPZO), [Reon](https://open.spotify.com/artist/4ZlaorCRjOK18jbft6EnYt) | [Sound of Pain](https://open.spotify.com/album/1CTU7nrYD6r3bZYrcsCI10) | 3:04 | 2022-11-02 |  |
+| [Sound of Pain](https://open.spotify.com/track/6HHpALzzMNphaUcKuHZoJR) | [Vallinan](https://open.spotify.com/artist/1ZUALjoCGaTW9TBVTDdPZO), [Reon](https://open.spotify.com/artist/4ZlaorCRjOK18jbft6EnYt) | [Sound of Pain](https://open.spotify.com/album/1CTU7nrYD6r3bZYrcsCI10) | 3:04 | 2022-11-02 | 2023-09-22 |
 | [Stable In The Game](https://open.spotify.com/track/0oiDqLcaMEctgI7iAyC9No) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Stable In The Game](https://open.spotify.com/album/3tXYv2pduUPMu2ztvYnu4u) | 3:23 | 2022-09-15 |  |
 | [Stable In The Game](https://open.spotify.com/track/3f2ItBv79rxtFovyBeGn2c) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Stable In The Game](https://open.spotify.com/album/5EVnoFdYVMuYdTWf3kzjCl) | 3:23 | 2022-09-15 | 2023-04-20 |
 | [Start That Thiruvizha](https://open.spotify.com/track/1jcL3tCnSpMdj5tnzHD3iX) | [Balan Kash](https://open.spotify.com/artist/58WvdKjSjjthpO3u9t0bfe) | [Start That Thiruvizha](https://open.spotify.com/album/4EHNwF0djcMdsfqBZ8nzsO) | 3:44 | 2021-12-01 |  |

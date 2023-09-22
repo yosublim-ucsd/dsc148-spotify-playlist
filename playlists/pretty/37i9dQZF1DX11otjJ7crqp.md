@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: salem ilese
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,887 likes - 102 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,952 likes - 102 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 42 | [OUT OF MY SYSTEM](https://open.spotify.com/track/4s33E3NH7vumKXjoW1h7Ek) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [OUT OF MY SYSTEM](https://open.spotify.com/album/0haHuxtNEszdUNQqzqVFVc) | 2:40 |
 | 43 | [IDIOT!](https://open.spotify.com/track/5pS3eC8ffQ7e8t3y6myvMd) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [IDIOT!](https://open.spotify.com/album/6yUQn8SBHlm7LXVf86gbyz) | 3:07 |
 | 44 | [I Wish I Wasn't Me](https://open.spotify.com/track/5nNBgRYDCMmczYXKsdpLCG) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 2:39 |
-| 45 | [Somebody To You \(feat\. Cory Wong\)](https://open.spotify.com/track/0vigaWzrt5hQlfUuirda0o) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 4:11 |
+| 45 | [Somebody To You \(feat\. Cory Wong & Vincen García\)](https://open.spotify.com/track/0vigaWzrt5hQlfUuirda0o) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Vincen García](https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 4:11 |
 | 46 | [Empty Room](https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Empty Room](https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl) | 3:04 |
 | 47 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 |
 | 48 | [One On The Way](https://open.spotify.com/track/7FdTeoRDaIlNmcmpu1zX7T) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [One On The Way](https://open.spotify.com/album/38k1BuDRvqPmbD4Yq2MHXJ) | 3:44 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [A Series of Unfortunate Events](https://open.spotify.com/track/4jkFpWbEpiS7LBmSidWwUX) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [A Series of Unfortunate Events](https://open.spotify.com/album/791lKGOskm8eOC85qu1XGQ) | 2:45 |
 | 102 | [Drip Drop](https://open.spotify.com/track/13Oms7rPHZlvGz1ny1F2FO) | [Erika Jayne](https://open.spotify.com/artist/3jgs1QD0amFu2y6bqSK36Y) | [Drip Drop](https://open.spotify.com/album/3Q711uLnVZ9ufizLWrXUn5) | 3:44 |
 
-Snapshot ID: `MCw1MGZmZTRjMmY1MTkyMTc3NmNjZDcyODUwZjIyOTUzMjgxOTU4NmFj`
+Snapshot ID: `MCwyNTI2ZGI4MjgyNWJjNjY0MWQxNzlhMTFhMzU0MGZiYzJhNGFjZjAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Elisapie
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,234 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,275 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 |
 | 100 | [second wind](https://open.spotify.com/track/0B9goh3DuqpGUPryuEa29L) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr) | [Strange Paradise](https://open.spotify.com/album/2PdCqn4c1vhhiOnjZmRSBv) | 3:32 |
 
-Snapshot ID: `MCw4NTBmODlkOGZhOTEzZjJhYThjMmU4OTU1NmFlM2Q5Y2UyZWNjYjJj`
+Snapshot ID: `MCwxZDc2ZDcwNzIxMDEzZTEwYWFmMTlkNjg1Y2U1ODM5NGU0ZTE2NGJm`

@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s all good",
+        "url": "https://open.spotify.com/album/2oD3JIzBpBCdWmEGVfg2F0"
+      },
+      "artists": [
+        {
+          "name": "FANTASTICS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250033,
+      "name": "It\u2019s all good",
+      "url": "https://open.spotify.com/track/5V6ZKHUuyo9TgpmzMgxV9R"
+    },
+    {
+      "album": {
         "name": "Karen no Life",
         "url": "https://open.spotify.com/album/7L3LEup3oO8Kf7LAJmfDhy"
       },
@@ -3194,7 +3212,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 294813,
       "name": "\u9ad8\u5dba\u306e\u82b1\u5b50\u3055\u3093",
       "url": "https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l"

@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> my mantra is grateful all the time & sexy & kind & pretty when i cry & also first lady tube girl\. Cover: Dana & Alden
+> a bunch of fun music to get lost in, starting with Dana & Alden
 
 2,418 songs - 5 day 9 hr 53 min
 

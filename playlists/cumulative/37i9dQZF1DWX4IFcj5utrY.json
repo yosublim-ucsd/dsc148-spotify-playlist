@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi?si=3MwIqIO2S8G2GcJUpsttQg\">Jullian Gomes</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM?si=MOgR62VNTEu5pyGtF_nfMA\">Citizen Deep</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -6763,6 +6763,24 @@
     },
     {
       "album": {
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Hijos De La Noche",
+      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
+    },
+    {
+      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/3KeWt5Blr906L4cGwa5ADf"
       },
@@ -6944,6 +6962,40 @@
       "duration_ms": 199416,
       "name": "Horns in the Sun",
       "url": "https://open.spotify.com/track/6a6D34Zl60ClugkltmryYp"
+    },
+    {
+      "album": {
+        "name": "Weekent Sun Sets (Horns In The Sun Remix EP)",
+        "url": "https://open.spotify.com/album/4rdsbF5ddnRC2WVwCX5VWn"
+      },
+      "artists": [
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        },
+        {
+          "name": "M\u00d6RDA",
+          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
+        },
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336657,
+      "name": "Horns In The Sun - Thakzin Remix",
+      "url": "https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy"
     },
     {
       "album": {
@@ -15627,6 +15679,28 @@
     },
     {
       "album": {
+        "name": "SONDELA",
+        "url": "https://open.spotify.com/album/5UtPAPkO4CdpXVNcDgnohc"
+      },
+      "artists": [
+        {
+          "name": "DJ Japanesse",
+          "url": "https://open.spotify.com/artist/6qOJJCTmR0zLQKmnK6r3Ag"
+        },
+        {
+          "name": "Ncwebas",
+          "url": "https://open.spotify.com/artist/7oEjjQ1k0MKsdm8do7pJd7"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416095,
+      "name": "SONDELA",
+      "url": "https://open.spotify.com/track/5cNOGJMSGWz0RoGOUdyW9v"
+    },
+    {
+      "album": {
         "name": "Sonini",
         "url": "https://open.spotify.com/album/4hamIrAJzhkw7ckB1qNRD4"
       },
@@ -18169,6 +18243,28 @@
     },
     {
       "album": {
+        "name": "Samuel & Chressie EP",
+        "url": "https://open.spotify.com/album/0FfoGUMj2GotGp3p6Z6X9Z"
+      },
+      "artists": [
+        {
+          "name": "DJ Stax",
+          "url": "https://open.spotify.com/artist/2KG86SSYFku57AL1maBD1o"
+        },
+        {
+          "name": "Thabie Ngethe",
+          "url": "https://open.spotify.com/artist/28dVu3HWq12VgWurfooKye"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431186,
+      "name": "Ungayithi Vu",
+      "url": "https://open.spotify.com/track/6CFIi8rQ7MQ2dOmSC9bh3n"
+    },
+    {
+      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4"
       },
@@ -18524,6 +18620,24 @@
       "duration_ms": 387807,
       "name": "Voices in the Dark",
       "url": "https://open.spotify.com/track/1ez59pHOwUvt4akUeVJ8f4"
+    },
+    {
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "album": {

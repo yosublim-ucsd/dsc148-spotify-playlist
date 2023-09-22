@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 32887,
+  "num_followers": 32924,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWU1ODk0ZGJiZWZmNjIzNGU2MDFjZTYzMzE5NDMwYmY0OGZmNjNm",
+  "snapshot_id": "MCw5MmIzNmI1MmVjOTY0ODZjNDk0ZjgwY2JiY2YyZjM4OTJkMzI5N2M5",
   "tracks": [
     {
       "added_at": "2023-09-04 13:49:57",
@@ -963,26 +963,26 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "NAG\u00d4",
-        "url": "https://open.spotify.com/album/3wSJQ19HeumQwpmWiiJ8kJ"
+        "name": "Sobe O Morro",
+        "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
       },
       "artists": [
         {
-          "name": "Aldeia Records",
-          "url": "https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM"
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         },
         {
-          "name": "Mikezin",
-          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
         },
         {
-          "name": "Bxrgez",
-          "url": "https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD"
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
         }
       ],
-      "duration_ms": 207022,
-      "name": "NAG\u00d4",
-      "url": "https://open.spotify.com/track/5FIF8T1ns1YEQVuq6rjGMw"
+      "duration_ms": 162352,
+      "name": "Sobe O Morro",
+      "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -1011,42 +1011,26 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Sobe O Morro",
-        "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
+        "name": "NAG\u00d4",
+        "url": "https://open.spotify.com/album/3wSJQ19HeumQwpmWiiJ8kJ"
       },
       "artists": [
         {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+          "name": "Aldeia Records",
+          "url": "https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM"
         },
         {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+          "name": "Mikezin",
+          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
         },
         {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+          "name": "Bxrgez",
+          "url": "https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Sobe O Morro",
-      "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
-        "name": "Homem da Noite",
-        "url": "https://open.spotify.com/album/09scSCeX8e2a5J5HAB6riJ"
-      },
-      "artists": [
-        {
-          "name": "Cleiton Oliveira",
-          "url": "https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs"
-        }
-      ],
-      "duration_ms": 190197,
-      "name": "Homem da Noite",
-      "url": "https://open.spotify.com/track/6DknEDDuon7HHYFcji6VEk"
+      "duration_ms": 207022,
+      "name": "NAG\u00d4",
+      "url": "https://open.spotify.com/track/5FIF8T1ns1YEQVuq6rjGMw"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -1075,6 +1059,22 @@
       "duration_ms": 183529,
       "name": "Diretamente do Rio",
       "url": "https://open.spotify.com/track/39iYTBGec9n0kaPn9eJggw"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
+        "name": "Homem da Noite",
+        "url": "https://open.spotify.com/album/09scSCeX8e2a5J5HAB6riJ"
+      },
+      "artists": [
+        {
+          "name": "Cleiton Oliveira",
+          "url": "https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs"
+        }
+      ],
+      "duration_ms": 190197,
+      "name": "Homem da Noite",
+      "url": "https://open.spotify.com/track/6DknEDDuon7HHYFcji6VEk"
     },
     {
       "added_at": "2023-09-04 13:49:57",

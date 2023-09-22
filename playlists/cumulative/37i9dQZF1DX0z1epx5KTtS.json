@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : DJ Arafat",
+  "description": "African dance party music from Paris to Abidjan. Photo : Dydy Yeman",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -116,6 +116,24 @@
       "duration_ms": 264000,
       "name": "Abidjan puissance",
       "url": "https://open.spotify.com/track/2VnVzVwCt4oNK1nkMRMQ9E"
+    },
+    {
+      "album": {
+        "name": "Aicha trambler",
+        "url": "https://open.spotify.com/album/4LsBrpMBybnXbu47iLv0Et"
+      },
+      "artists": [
+        {
+          "name": "Dj domi 226",
+          "url": "https://open.spotify.com/artist/47Ye8a65ZCXhODjHJfwNYQ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Aicha trambler",
+      "url": "https://open.spotify.com/track/5khZ14Ne0o9PoZfbP3oQBB"
     },
     {
       "album": {
@@ -672,6 +690,24 @@
       "duration_ms": 221202,
       "name": "Delta force",
       "url": "https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q"
+    },
+    {
+      "album": {
+        "name": "Elus De Dieu (Deluxe)",
+        "url": "https://open.spotify.com/album/2Jd8cTkftvmpqWUIIScr1x"
+      },
+      "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/3TQGj5SEtcmTDNo6bgRsd3"
     },
     {
       "album": {
@@ -1838,7 +1874,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 182000,
       "name": "Mak\u00e9l\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/3NwMIcrPVesx13KiJoPtc3"
@@ -2388,7 +2424,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 216859,
       "name": "Sol\u00e9 Mol\u00e9",
       "url": "https://open.spotify.com/track/2Y6dWajudXnoL8ABsSRMpC"

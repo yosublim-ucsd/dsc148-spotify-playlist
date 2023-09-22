@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-190 songs - 11 hr 16 min
+191 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Darjeeling](https://open.spotify.com/track/6vPmNElzvzODHP0tWu9Ayu) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Happy To Be Here](https://open.spotify.com/album/6t1OiiVq9VIbW1SUHaXX7W) | 3:19 | 2023-06-08 |  |
 | [Dawn \- Woodwire Remix](https://open.spotify.com/track/1BE5ehhf87kLvECCYWWPKo) | [Wild Wild Waves](https://open.spotify.com/artist/4cpfsyfy6rHtFWm5l1AQTF), [Woodwire](https://open.spotify.com/artist/0XDDVrXAZds2CXYLywCfe5) | [Dawn \(Woodwire Remix\)](https://open.spotify.com/album/3rkjqWK42hsJsfW6tkMOeZ) | 3:39 | 2023-06-08 |  |
 | [Daydream](https://open.spotify.com/track/7dIJHLcYsJCfSqjoEClHhD) | [Ava Luna](https://open.spotify.com/artist/7xkkeemZnfafRwrWEtlyaN) | [Electric Balloon](https://open.spotify.com/album/4lbtuq8C6A0mbtUtCD55PH) | 2:33 | 2023-06-08 |  |
-| [Design](https://open.spotify.com/track/5t1d6029F8BAx6gtAZt8Hc) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [EP III](https://open.spotify.com/album/4DAEmnrLvgEYRWOVuAbqOn) | 3:04 | 2023-06-08 |  |
+| [Design](https://open.spotify.com/track/5t1d6029F8BAx6gtAZt8Hc) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [EP III](https://open.spotify.com/album/4DAEmnrLvgEYRWOVuAbqOn) | 3:04 | 2023-06-08 | 2023-09-22 |
+| [Design](https://open.spotify.com/track/74afk4DycIn2JmRlrHfMN9) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Design](https://open.spotify.com/album/2q3BVgkIsKlbBlud2NVVQQ) | 3:04 | 2023-06-08 |  |
 | [Different World](https://open.spotify.com/track/7o0fALdNJ7MkINdXXacXiQ) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Wonder](https://open.spotify.com/album/2QBn4wyavrUjyOLefLyaQP) | 2:16 | 2023-06-08 |  |
 | [Do Me A Favour](https://open.spotify.com/track/6kzqfh2wWhzuPMO8UUZzd7) | [KEEKS](https://open.spotify.com/artist/1a0szpyoLfe9iC1II42U4o) | [Do Me A Favour](https://open.spotify.com/album/74yQxSfn3qxiX3p0fMWeMs) | 3:25 | 2023-06-08 |  |
 | [Do U Know What I Mean](https://open.spotify.com/track/2BQ2zD7l6vm7TMwjP1gFwC) | [marsfade](https://open.spotify.com/artist/7M3FasmCh6IGCbclVAkoy0) | [Do U Know What I Mean](https://open.spotify.com/album/4QxLd4ab1axpMyYr5ytT3a) | 3:27 | 2023-06-08 |  |

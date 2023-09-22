@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,119 songs - 5 day 23 hr 1 min
+2,120 songs - 5 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,7 +754,8 @@
 | [Fazed Out](https://open.spotify.com/track/6e8fJfHzOKz0DnzO440HPS) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 4:01 | 2022-07-27 |  |
 | [Faça Como Eu](https://open.spotify.com/track/2Aiu78NQYGcgrQW5Nesrmw) | [Miltinho](https://open.spotify.com/artist/2aRdU5K1LA2G4BCzSbMcDp) | [Bossa & Balanço](https://open.spotify.com/album/4O5QyxoDIAgLa2fgOGovhu) | 2:29 | 2022-06-09 |  |
 | [Fá\-êu\-á](https://open.spotify.com/track/7g7MPIOQ6nq28bOUTDdJqY) | [Meicio Askanasy, José Prates, Ivan de Paula](https://open.spotify.com/artist/28ljP12QBsgioe7MMMnq8g) | [Tam…Tam…Tam…!](https://open.spotify.com/album/1N2zdpYLoy6y55eT6A1n8W) | 2:31 | 2022-06-09 |  |
-| [Fear Not For Man](https://open.spotify.com/track/50pr6cNY0hN3ptSCS90Bj6) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fear Not For Man](https://open.spotify.com/album/1YPAWyiCPvhgqju8veosGt) | 14:14 | 2022-07-12 |  |
+| [Fear Not for Man](https://open.spotify.com/track/0dKa5TcbAm0g7DTJjzZeAw) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fear Not for Man](https://open.spotify.com/album/63AnouOM2SwpjB9vkxnkvc) | 14:14 | 2023-08-31 |  |
+| [Fear Not For Man](https://open.spotify.com/track/50pr6cNY0hN3ptSCS90Bj6) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fear Not For Man](https://open.spotify.com/album/1YPAWyiCPvhgqju8veosGt) | 14:14 | 2022-07-12 | 2023-09-22 |
 | [Fechei A Porta](https://open.spotify.com/track/2EZjmsEmWPkB7llw5JFw6I) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [Andança](https://open.spotify.com/album/2T8NqkSOc8aEDs1ZYYabZN) | 2:15 | 2023-05-17 |  |
 | [Festa](https://open.spotify.com/track/30RSImaLWJ0qDlP36noe7l) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y) | 2:28 | 2022-07-27 |  |
 | [Festa](https://open.spotify.com/track/6KE0l5swONZScePEu1Mmti) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/2cRw1H1XHHS9VHxQkbz0Y5) | 2:28 | 2022-06-09 | 2022-07-29 |
@@ -1609,8 +1610,8 @@
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/1Zna3C0ycWDAlvBZVeu2NL) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Música Sin Limites \- Bolero](https://open.spotify.com/album/0zT9iP5JWVaBuFToIht48k) | 2:42 | 2022-10-31 | 2022-11-13 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/1gDZARp2QrP8t2IVrgdSbO) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [30 Mejores](https://open.spotify.com/album/5UGFwADgVhFsfnJNoaQJ2T) | 2:42 | 2022-06-09 | 2022-07-29 |
 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 | 2022-06-09 |  |
-| [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 | 2022-06-09 |  |
-| [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 | 2022-07-27 | 2022-09-16 |
+| [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 | 2022-06-09 | 2023-09-22 |
+| [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 | 2022-07-27 |  |
 | [Qui C'Est Celui\-La \- Partido Alto](https://open.spotify.com/track/2ssvhHib70zuzp3PBWoNnL) | [Pierre Vassiliu](https://open.spotify.com/artist/49NlklXdh2UFIW4VUu4fPx) | [Qui C'Est Celui\-La](https://open.spotify.com/album/0lOjw1NmPKzLz8on5WnU65) | 4:35 | 2022-06-09 |  |
 | [Quicksand](https://open.spotify.com/track/6T4MEK8mRlx6kVf0A5ax5T) | [Joe Yorke](https://open.spotify.com/artist/5txKJQwlX202UqnBPII2PK), [Stand High Patrol](https://open.spotify.com/artist/4aoS8xjLh7iC8vgyEMtBlD) | [Quicksand](https://open.spotify.com/album/3sJGgBCHtC8slEwppdj70A) | 4:00 | 2022-06-09 |  |
 | [Quiero a Mi Gente](https://open.spotify.com/track/1mfi3rFkDCOaEU0IvTUTK4) | [Abelardo Carbonó y su Conjunto](https://open.spotify.com/artist/6s24A930wT8Pygf0NZcRm8) | [El Maravilloso Mundo De](https://open.spotify.com/album/6pVTaxkDUKsuXiHZkjxqUq) | 3:44 | 2022-10-31 | 2022-11-13 |

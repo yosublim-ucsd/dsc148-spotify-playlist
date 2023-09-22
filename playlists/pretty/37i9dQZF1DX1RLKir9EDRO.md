@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: M Lisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,117 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,205 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Başkası Olsam](https://open.spotify.com/track/3mRLnGgOGhH7D7AfS0BIB2) | [Lâl](https://open.spotify.com/artist/1Sb3hrERO6VTMsdQWoapBh), [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Başkası Olsam](https://open.spotify.com/album/4dY9ZsdwfbiRGYu4JgqiEg) | 2:13 |
-| 2 | [Gülü Seven](https://open.spotify.com/track/5qcknII6vUK6F3yPjAnXf8) | [Yiğitcan](https://open.spotify.com/artist/35GN1nKO0s3BoJPzOIOas2) | [Gülü Seven](https://open.spotify.com/album/3SFPt321T2KcHbPppeALoM) | 3:01 |
-| 3 | [Gidelim](https://open.spotify.com/track/7h2gsdJZnjhboAsYnaYOpT) | [Seren Saraç](https://open.spotify.com/artist/4IXnbOSFQHiaauIudnoqYP) | [Gidelim](https://open.spotify.com/album/32et7pO7bPoOGx6ydr1QgJ) | 3:58 |
-| 4 | [Kalmalısın Yanımda](https://open.spotify.com/track/1zuSQlQFdiscIE7PMiDml4) | [Ömer Yener](https://open.spotify.com/artist/6Vm2xDADRuOlKgAWriAuf4) | [Kalmalısın Yanımda](https://open.spotify.com/album/6mvB5qP314ezpagc46Cajf) | 3:00 |
-| 5 | [ELLERİM BOŞ](https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ELLERİM BOŞ](https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj) | 2:04 |
-| 6 | [Bir Yaz Daha Bitti](https://open.spotify.com/track/2MdwHKxuaezmyn0JUcYQqv) | [Yangın](https://open.spotify.com/artist/69f7h8xhiJTOmZyCN6wtrD) | [Bir Yaz Daha Bitti](https://open.spotify.com/album/55QowivNGJxGY0TnkeEFHa) | 2:43 |
+| 1 | [ELLERİM BOŞ](https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ELLERİM BOŞ](https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj) | 2:04 |
+| 2 | [Başkası Olsam](https://open.spotify.com/track/3mRLnGgOGhH7D7AfS0BIB2) | [Lâl](https://open.spotify.com/artist/1Sb3hrERO6VTMsdQWoapBh), [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Başkası Olsam](https://open.spotify.com/album/4dY9ZsdwfbiRGYu4JgqiEg) | 2:13 |
+| 3 | [Bir Yaz Daha Bitti](https://open.spotify.com/track/2MdwHKxuaezmyn0JUcYQqv) | [Yangın](https://open.spotify.com/artist/69f7h8xhiJTOmZyCN6wtrD) | [Bir Yaz Daha Bitti](https://open.spotify.com/album/55QowivNGJxGY0TnkeEFHa) | 2:43 |
+| 4 | [Gülü Seven](https://open.spotify.com/track/5qcknII6vUK6F3yPjAnXf8) | [Yiğitcan](https://open.spotify.com/artist/35GN1nKO0s3BoJPzOIOas2) | [Gülü Seven](https://open.spotify.com/album/3SFPt321T2KcHbPppeALoM) | 3:01 |
+| 5 | [Gidelim](https://open.spotify.com/track/7h2gsdJZnjhboAsYnaYOpT) | [Seren Saraç](https://open.spotify.com/artist/4IXnbOSFQHiaauIudnoqYP) | [Gidelim](https://open.spotify.com/album/32et7pO7bPoOGx6ydr1QgJ) | 3:58 |
+| 6 | [Kalmalısın Yanımda](https://open.spotify.com/track/1zuSQlQFdiscIE7PMiDml4) | [Ömer Yener](https://open.spotify.com/artist/6Vm2xDADRuOlKgAWriAuf4) | [Kalmalısın Yanımda](https://open.spotify.com/album/6mvB5qP314ezpagc46Cajf) | 3:00 |
 | 7 | [Bu Ben Miyim](https://open.spotify.com/track/1kVXPFHPh1cov4CCu0EsWZ) | [Tunç Aydoğmuş, Co.](https://open.spotify.com/artist/4WSDsWARENCdh6lkJDwdYL) | [Bu Ben Miyim](https://open.spotify.com/album/6KU7szPmBu6n9N5Yb8i6Ce) | 3:25 |
 | 8 | [Bu kafa böyle geçer mi?](https://open.spotify.com/track/2CFiJnHnECoEbBxqqBHzA2) | [Serbest Radikal](https://open.spotify.com/artist/6WZfzPA83dHUpmQr1ecXhZ), [Aynı Adam](https://open.spotify.com/artist/3W6D582x4U5QBcf5j6Ivwy) | [Bu kafa böyle geçer mi?](https://open.spotify.com/album/2PP2XJgd1utbKJXzwypQZ9) | 3:52 |
 | 9 | [Aniden](https://open.spotify.com/track/7zO4Sm9KLUOeLA3aHQ6h9l) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [Aniden](https://open.spotify.com/album/2oSpqj3wC0J4saxh2A1nzc) | 2:59 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 46 | [Çakıl](https://open.spotify.com/track/7zrx2esMmInjejolvCl1bJ) | [idil arıöz](https://open.spotify.com/artist/4tl2ajeMeTO6ySfDmdkezE) | [Çakıl](https://open.spotify.com/album/7hj1iCobZQNvBin68DGdNh) | 3:47 |
 | 47 | [Meftun](https://open.spotify.com/track/1BIAVFZmpArxk44rK22X0f) | [AYE](https://open.spotify.com/artist/7kkMPLcVAdQuXsRJ4bjOmO) | [Meftun](https://open.spotify.com/album/5jssRLEL1hJdGVR0qDKe0y) | 3:13 |
 | 48 | [Ukde](https://open.spotify.com/track/6YBdIjewK90Ii3Pk5QqAgm) | [Kaan Çelik Metin](https://open.spotify.com/artist/0UpAvZ6nJyJ6cTXfln5Uvs) | [Ukde](https://open.spotify.com/album/1XgjG2kUPGJpGcFIloAPcW) | 3:27 |
-| 49 | [Bazı Şeyler](https://open.spotify.com/track/3NZaf3A2o9GG0xEeRJh7xy) | [Ezgi Gergin](https://open.spotify.com/artist/2EMMNlNS4JYqsJpXZNFCcb) | [Bazı Şeyler](https://open.spotify.com/album/6dJhfO3L473gMxI2RlQMzx) | 2:29 |
+| 49 | [Bazı Şeyler](https://open.spotify.com/track/5HQFbT4XIxJTfieteuGo4p) | [Ezgi Gergin](https://open.spotify.com/artist/2EMMNlNS4JYqsJpXZNFCcb) | [Bazı Şeyler](https://open.spotify.com/album/3NRCGz4c38snAIM2fP8DNJ) | 2:29 |
 | 50 | [Otobüsteki Kız](https://open.spotify.com/track/44bN3EA29hWrHgeAEW8VU8) | [Konuştukça Batıyoruz](https://open.spotify.com/artist/5dI6rKi6ZZ2rBgz9hQHpMm) | [Otobüsteki Kız](https://open.spotify.com/album/7Jwv4hssdv2NV0o9KtGSN1) | 3:57 |
 | 51 | [tek başımayım hep](https://open.spotify.com/track/4SyAH7zuRulb079QNiU6bN) | [blaze𓂀](https://open.spotify.com/artist/3w1sLUrTdl3q4CpE6DA0U0) | [tek başımayım hep](https://open.spotify.com/album/0yuc8sOhEdIj79vgEoj76Q) | 2:12 |
 | 52 | [FINE \(not a love song\)](https://open.spotify.com/track/5DD4s2p3m5exMH6eTiYONa) | [Mina Roth](https://open.spotify.com/artist/0xCcjHZWMIbnUPxZh4XKVu) | [FINE \(not a love song\)](https://open.spotify.com/album/1AI0C6SpANisXqET6Fr9Wf) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 79 | [Robo X1](https://open.spotify.com/track/3QG0D5YCQyPlTaWuRBjqoo) | [Bi Android](https://open.spotify.com/artist/0BgsrRUkYK2zLFRiDagUgG) | [Robo X1](https://open.spotify.com/album/2apXyfw91cXoGoHcuaK1sp) | 6:38 |
 | 80 | [Yalnız Kalp](https://open.spotify.com/track/5z59q3cc83RZg10UTFkP1c) | [Başak Çalık](https://open.spotify.com/artist/7rmp4C7dbpPmlf3Uyt4rAm) | [Yalnız Kalp](https://open.spotify.com/album/4kd4kTictkNvos8A50MRg1) | 4:21 |
 
-Snapshot ID: `MCw2YmQ4YmU0NDJkOTc4ZWEyZmExOTM1ZjA4YWExOTk3NWZkNGUzNWI4`
+Snapshot ID: `MCxlNzkzZWUyNDgxMTk4YjNiNDg5OTkxMjJiYjNjNjIzNzUwZWM2ZTZi`

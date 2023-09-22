@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-91 songs - 7 hr 51 min
+92 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Lifetime \- HAAi’s Green Lamborghini Romix](https://open.spotify.com/track/7czIjs2dvjjmGEQ8k4FJGl) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lifetime Remixes](https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy) | 5:36 | 2022-04-12 |  |
 | [Lights & Strobes](https://open.spotify.com/track/1z8gk1u7hVgpNyzve6ediy) | [Carli](https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT) | [Lights & Strobes](https://open.spotify.com/album/433eQ8gozTLOoyJ3TlLUKk) | 5:11 | 2022-04-12 |  |
 | [Like This \- Full Mix](https://open.spotify.com/track/3OW0DWxx56Wsc5wHfnNmM2) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Like This](https://open.spotify.com/album/04mH9qNvpsSO4orXu367x5) | 6:06 | 2022-04-12 |  |
-| [Love Kills](https://open.spotify.com/track/4HeNuE5fHrBQFErXCdVU7s) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs](https://open.spotify.com/album/5rUIVycCFrc3JmKRuL8JIf) | 4:29 | 2022-04-12 |  |
+| [Love Kills](https://open.spotify.com/track/0KD57RyQTzLDSprI2ZfN5a) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs](https://open.spotify.com/album/7zZsa7Cpd5itS9reVPfXZA) | 4:29 | 2022-11-21 |  |
+| [Love Kills](https://open.spotify.com/track/4HeNuE5fHrBQFErXCdVU7s) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs](https://open.spotify.com/album/5rUIVycCFrc3JmKRuL8JIf) | 4:29 | 2022-04-12 | 2023-09-22 |
 | [Love On The Rocks](https://open.spotify.com/track/3hQKvgzPncOwW2m0PfUU8y) | [Lama](https://open.spotify.com/artist/148XBQHymOzRLb2aPkukeM) | [Italo Disco Vol\. 2](https://open.spotify.com/album/6HBlHmRS6NExyImYTSePhM) | 5:20 | 2022-04-12 |  |
 | [Mackin'](https://open.spotify.com/track/7LWz1ZzKJSo6mgFxBLljb9) | [Futers](https://open.spotify.com/artist/4JU7JW69o7YSHnurml4XGF) | [U Get Me](https://open.spotify.com/album/5oHZ519kQ1YHqBTaExjgEa) | 6:47 | 2022-04-12 |  |
 | [Mantra](https://open.spotify.com/track/7MUZe1adOUBdU9sgJ3TY2x) | [CW/A](https://open.spotify.com/artist/3AK94svpMZ4UFJ7W1z7iap) | [Words Unspoken, Acts Undone](https://open.spotify.com/album/0PQcSjuKlJuZPNVclPaWWs) | 5:20 | 2022-04-12 |  |

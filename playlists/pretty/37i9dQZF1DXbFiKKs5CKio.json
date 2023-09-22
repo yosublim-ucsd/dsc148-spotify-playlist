@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 50113,
+  "num_followers": 50184,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2FkZjk0MTZkMGI2ZTZhM2E1ZmIyYmVlNWU2NTNjMWZiMzQ5OTU1",
+  "snapshot_id": "MCwzZjgxOWQ2MjY2ZWQ2OWZkYmZhOTVjMmE2NzhhNDNiYTRkMDhlYzY0",
   "tracks": [
     {
       "added_at": "2023-09-15 03:01:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
-      },
-      "artists": [
-        {
-          "name": "Victor Franco",
-          "url": "https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv"
-        },
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 142909,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "MOVA - Algumas Verdades, Outras Mentiras",
         "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
       },
@@ -335,6 +315,26 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
+      },
+      "artists": [
+        {
+          "name": "Victor Franco",
+          "url": "https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 142909,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "s\u00f3 eu sei",
         "url": "https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 115636,
       "name": "s\u00f3 eu sei",
       "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
-      },
-      "artists": [
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -387,6 +371,38 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Coisas De Amor",
+        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 211005,
+      "name": "Me Esque\u00e7a Devagar",
+      "url": "https://open.spotify.com/track/74yArCzYnQuxpMeo68JYgd"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -423,38 +439,6 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
-        "name": "Coisas De Amor",
-        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 211005,
-      "name": "Me Esque\u00e7a Devagar",
-      "url": "https://open.spotify.com/track/74yArCzYnQuxpMeo68JYgd"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Carinho",
-        "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Carinho",
-      "url": "https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
         "name": "Hip Hop Machine #13",
         "url": "https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 330901,
       "name": "Licor",
       "url": "https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
+        "name": "Carinho",
+        "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Carinho",
+      "url": "https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Ondina",
+        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
+      },
+      "artists": [
+        {
+          "name": "Jadidi",
+          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Ondina",
+      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Hip Hop Machine #18",
         "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 357248,
       "name": "Se Foi",
       "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Ondina",
-        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
-      },
-      "artists": [
-        {
-          "name": "Jadidi",
-          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Ondina",
-      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Canela e hortel\u00e3",
+        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
+      },
+      "artists": [
+        {
+          "name": "Gray C.",
+          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Canela e hortel\u00e3",
+      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "n \u00e9 vc, sou eu",
         "url": "https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 160024,
       "name": "n \u00e9 vc, sou eu",
       "url": "https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Canela e hortel\u00e3",
-        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
-      },
-      "artists": [
-        {
-          "name": "Gray C.",
-          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Canela e hortel\u00e3",
-      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
     },
     {
       "added_at": "2023-09-15 03:01:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2023-09-15 03:01:00",
       "album": {
+        "name": "Um momento",
+        "url": "https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE"
+      },
+      "artists": [
+        {
+          "name": "Gray C.",
+          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
+        }
+      ],
+      "duration_ms": 180894,
+      "name": "Um momento",
+      "url": "https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY"
+    },
+    {
+      "added_at": "2023-09-15 03:01:00",
+      "album": {
         "name": "Qu\u00edmica Perfeita",
         "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 317059,
       "name": "Entre Mem\u00f3rias Tristes",
       "url": "https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL"
-    },
-    {
-      "added_at": "2023-09-15 03:01:00",
-      "album": {
-        "name": "Um momento",
-        "url": "https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE"
-      },
-      "artists": [
-        {
-          "name": "Gray C.",
-          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
-        }
-      ],
-      "duration_ms": 180894,
-      "name": "Um momento",
-      "url": "https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY"
     }
   ],
   "unique_name": "su\u00edte.",

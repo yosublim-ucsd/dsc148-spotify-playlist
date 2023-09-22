@@ -4,7 +4,7 @@
 
 > vibe out with artists from the 🇵🇭 Cover: Denise Julia, HAVEN
 
-151 songs - 8 hr 53 min
+152 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 | 2023-08-16 |  |
 | [bum 2 me](https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bum 2 me](https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM) | 2:18 | 2023-05-02 |  |
 | [BURN](https://open.spotify.com/track/3I15kjOXZ5BWoNyGEhMV9B) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [BURN](https://open.spotify.com/album/5UinUFeyhjArW24gIKT9PN) | 2:42 | 2023-06-13 | 2023-09-07 |
+| [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 | 2023-09-21 |  |
 | [Can't Get Enough](https://open.spotify.com/track/3qR1Oq85MWKg3rzeihX4S9) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Can't Get Enough](https://open.spotify.com/album/18mwJUJcczlGwT2tDej41c) | 2:44 | 2022-10-12 | 2023-07-29 |
 | [cherry soda](https://open.spotify.com/track/3Ge1rIdxXfPqnC6AzJlHsz) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/1T3Qwd52WDENjeUMxbysZg) | 3:35 | 2022-12-14 | 2023-07-29 |
 | [cherry soda](https://open.spotify.com/track/6wLYxlMsuGoARoRhDy52y3) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [cherry soda](https://open.spotify.com/album/5uW4MpBBGO9yYeBTcBFdjx) | 3:35 | 2022-10-12 | 2023-01-08 |
@@ -77,7 +78,7 @@
 | [Kailangan ko ng…](https://open.spotify.com/track/3adl1iFtTa7KU31A7s1DtR) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [Kailangan ko ng…](https://open.spotify.com/album/4vSgXSM5OqxanzpJQqhFET) | 3:45 | 2022-10-12 | 2023-07-29 |
 | [Katabi](https://open.spotify.com/track/3Ey3JBGEBcGFc7zbnSZwji) | [a.v.d.i](https://open.spotify.com/artist/5PWqgLVse2O4ANi7UDk3nV) | [Katabi](https://open.spotify.com/album/2HfhCh4lth0Z4tjZv7iqI2) | 3:44 | 2022-10-12 | 2023-07-29 |
 | [Kulang](https://open.spotify.com/track/6uGRcwf0z3FV9CGC5jOrxX) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kulang](https://open.spotify.com/album/43yikgeYnQWXUzMfqN4j9i) | 4:00 | 2022-12-14 | 2023-08-31 |
-| [Kusa](https://open.spotify.com/track/58V8gsbmm9RxVeCzbn9Tbz) | [VNCE](https://open.spotify.com/artist/3zMIe4QuRLRn7JDkxBeENc) | [Kusa](https://open.spotify.com/album/6qhqfpUcoJiYusxKWOTWI7) | 2:20 | 2023-04-06 |  |
+| [Kusa](https://open.spotify.com/track/58V8gsbmm9RxVeCzbn9Tbz) | [VNCE](https://open.spotify.com/artist/3zMIe4QuRLRn7JDkxBeENc) | [Kusa](https://open.spotify.com/album/6qhqfpUcoJiYusxKWOTWI7) | 2:20 | 2023-04-06 | 2023-09-22 |
 | [Labis](https://open.spotify.com/track/3sDoNhKtVJvUnkZMK51MAN) | [Ichan](https://open.spotify.com/artist/3U65jtJ0G4RudAEsuanoQA), [Lee](https://open.spotify.com/artist/3eQtpy0MqPUf6GNDIIut3T) | [Labis](https://open.spotify.com/album/05vUTwC0R27PEPwj91rZE3) | 4:17 | 2022-10-12 | 2023-05-18 |
 | [Lalayo O Tatabi](https://open.spotify.com/track/6Mxh4RBf3BA3hNzaqHseqR) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Lalayo O Tatabi](https://open.spotify.com/album/1103FsKVzZZnObhDt0cHLn) | 2:31 | 2023-08-03 |  |
 | [Lambing \(feat\. Kiyo\)](https://open.spotify.com/track/0daJYm6XQNjKKiIrddULNH) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Lambing \(feat\. Kiyo\)](https://open.spotify.com/album/6l0kQa5M2byUTlTE3vQPug) | 3:41 | 2023-04-17 |  |

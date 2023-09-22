@@ -759,6 +759,42 @@
     },
     {
       "album": {
+        "name": "Isazelo Singishiye Ngedwa",
+        "url": "https://open.spotify.com/album/4CXvH3FjVBhDiLKiEcjjLe"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 675500,
+      "name": "Isazelo Singishiye Ngedwa",
+      "url": "https://open.spotify.com/track/7LWLrnHh0nMayLZblimXMy"
+    },
+    {
+      "album": {
+        "name": "Izulu Namafu",
+        "url": "https://open.spotify.com/album/3ybwmG4efxqlHlvrT48unW"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275748,
+      "name": "Izulu Namafu",
+      "url": "https://open.spotify.com/track/2HdBnHBcws3jgAL66NP2pJ"
+    },
+    {
+      "album": {
         "name": "Sawubona",
         "url": "https://open.spotify.com/album/3hLWA2uTxJrcLlHYkDKiqh"
       },
@@ -2404,6 +2440,28 @@
       "duration_ms": 168306,
       "name": "Unjalo wena Kuphakama",
       "url": "https://open.spotify.com/track/4v0USK76OtYzuZ73g4FcZm"
+    },
+    {
+      "album": {
+        "name": "Upperroom (Live)",
+        "url": "https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg"
+      },
+      "artists": [
+        {
+          "name": "3C Live",
+          "url": "https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438857,
+      "name": "Upperroom (Live)",
+      "url": "https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Moon Sujin\(문수진\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Hoody\(후디\)\)
 
-235 songs - 13 hr 15 min
+236 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Let me know \(Feat\. YEOHO\)](https://open.spotify.com/track/2canhObXy3qADDzIDMqtf5) | [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Trello](https://open.spotify.com/album/1TSNJCcZXubDO54usy3hQ6) | 2:59 | 2023-08-16 |  |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-07 | 2022-11-15 |
 | [Lokuko \(feat\. Kid Wine\)](https://open.spotify.com/track/2kPXxMK07nUGTL2eQdVM3O) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [NEWRNBERA](https://open.spotify.com/album/1EWG73KSFYGrnZ3InrANPo) | 3:16 | 2023-08-29 |  |
+| [Lonely](https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Sailing](https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya) | 3:17 | 2023-09-21 |  |
 | [Loner \(Feat\. g0nny\)](https://open.spotify.com/track/5z71sbduBfZcSWdgdx4Gfk) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Loner \(Feat\. g0nny\)](https://open.spotify.com/album/1n6h9eUFPgRcDVxPxy40CT) | 3:33 | 2022-10-28 | 2023-01-11 |
 | [Look at the Sky](https://open.spotify.com/track/2xCb6yQWQexnqBj15IU6sh) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Look at the Sky \(Single Edition 3\)](https://open.spotify.com/album/3qfywpeo4Jch6bALjKWdYn) | 4:07 | 2022-05-28 | 2022-07-06 |
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-09 | 2022-09-06 |

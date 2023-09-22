@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,416 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,429 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 31 | [Atiibwa](https://open.spotify.com/track/0OyULIXkDqy4QMcVN74EQi) | [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU) | [Omungi Atiibwa](https://open.spotify.com/album/4fR3oI5K1Y8FssSqZh3XYE) | 3:53 |
 | 32 | [Just Left Rubaga](https://open.spotify.com/track/0dLjBERZzgPpnx4KjRLmrp) | [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [Just Left Rubaga](https://open.spotify.com/album/5WxzIlz1Su1ru4LGe6ynfQ) | 2:02 |
 | 33 | [Bye For Now](https://open.spotify.com/track/2OSM88B61MaXYuS7F4z97k) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Bye For Now](https://open.spotify.com/album/4HUv6MSyPkHgZBY8VCGTMI) | 3:35 |
-| 34 | [Different](https://open.spotify.com/track/7dPEajZhYQWXSivOPXbJwV) | [The Abstract Kid](https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW) | [Different](https://open.spotify.com/album/6jOaaBvrDq3OKVRkVujc9E) | 2:28 |
+| 34 | [Different](https://open.spotify.com/track/5nXP1tsv0qYKL3BFVZo3II) | [The Abstract Kid](https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW) | [Different](https://open.spotify.com/album/07Co4wyYTIHUFKUerOPcWW) | 2:34 |
 | 35 | [Pound or Shilling \(PoS\)](https://open.spotify.com/track/3WYgiM9KmW90ZasO3Zj2z3) | [MooTowNoh](https://open.spotify.com/artist/2Gh5PAnWSuY0vpn7UNcBU2) | [Pound or Shilling \(PoS\)](https://open.spotify.com/album/3RVR6krSIK3yv2Sx45U8Rd) | 3:14 |
 | 36 | [The Light](https://open.spotify.com/track/19cwYaC0NLUA7B3Q3LvQS7) | [Kween G](https://open.spotify.com/artist/4u6bHNyuB19sp2uin2m4f1), [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz) | [Sensible Rebel](https://open.spotify.com/album/1nmdOZzdcFJLHnBwLX7Y8p) | 3:37 |
 | 37 | [Give You Love](https://open.spotify.com/track/2sLohdWs9SCAdPEMWOKusH) | [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv) | [Give You Love](https://open.spotify.com/album/5xodDEpuEEZ3ZdzTUhVj2u) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 59 | [Tough Timez](https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/3ml6m4oXvFut3cwmH9yrYO) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCwzOTE3MGQ3MjA4MDZlZWZiOTAyMjU4NmZiMzUxOWUwYjdlODJhZDg5`
+Snapshot ID: `MCwwMzY1ODM4ZThhMmNmMjY3YWNhZjdlYmMwMTY5N2NlNzhmNmZlZDlk`

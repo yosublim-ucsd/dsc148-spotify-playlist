@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=J35d\_3daReSdxkzXsIzVkw">Nasty C</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW?si=\-IQQXnf\-QHm2NhCpCMz9qA">Kiddo CSA</a>, <a href="https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT?si=mR\_f\-W0UQLKpSDBpKwKRzA">Lucasraps</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,369 likes - 63 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,458 likes - 63 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 62 | [Umntu](https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umntu](https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF) | 3:56 |
 | 63 | [THANK YOU JESUS](https://open.spotify.com/track/0CHrwFE4sBRp8t1y1aZ1dA) | [FLVME](https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r) | [THE LOST PACK:, Vol\. 1](https://open.spotify.com/album/3RFcqfqeIHjtQstdNcBbdF) | 1:46 |
 
-Snapshot ID: `MCw3OWI1YmY3MGQwOTJiNzUyMWE0NjM5Y2JmOWU0Y2FhYzMzMTM1MTk4`
+Snapshot ID: `MCxiM2Q5MzE2NTA0MDI3YWYwYTdiZTFhNmIzZTQzYWUyZTk2OWJlMDFj`

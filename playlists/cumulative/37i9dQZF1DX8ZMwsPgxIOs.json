@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Eli Brown",
+  "description": "Techno is a state of mind. Cover: Reb\u016bke",
   "name": "Techno State",
   "tracks": [
+    {
+      "album": {
+        "name": "0151",
+        "url": "https://open.spotify.com/album/1B3ScxjLsGhKV5DxzWt28r"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Chaos",
+          "url": "https://open.spotify.com/artist/3L2iV4IOzjCbD1Usy0XVBx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217602,
+      "name": "0151",
+      "url": "https://open.spotify.com/track/6ysPzVWbgTncomdLMQlo0Y"
+    },
     {
       "album": {
         "name": "Acid Dip",
@@ -558,7 +576,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 207874,
       "name": "Bring The Noise",
       "url": "https://open.spotify.com/track/5f5yWTulFlrBE0DhPtVnEd"
@@ -710,7 +728,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 263666,
       "name": "Convergence",
       "url": "https://open.spotify.com/track/2tp8nAI5xgMgWq51GZZ8tW"
@@ -934,6 +952,24 @@
       "duration_ms": 248664,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/0BFA5NJfdlg5xvQ2w6Ulyc"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0XXxllyCo8iylhxOqwne94"
+      },
+      "artists": [
+        {
+          "name": "Stella Bossi",
+          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260133,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/0VqzQ7TOqavkEa4uDYkGnH"
     },
     {
       "album": {
@@ -1893,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "Loam",
+        "url": "https://open.spotify.com/album/3FH7tPm5VdQTb49nceSBRP"
+      },
+      "artists": [
+        {
+          "name": "SCALER",
+          "url": "https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299670,
+      "name": "Loam",
+      "url": "https://open.spotify.com/track/5cAcVaabqTC3n3TS3eaxkG"
+    },
+    {
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8"
       },
@@ -2088,7 +2146,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 228750,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3nxI9GHu2s7hRDtlBzA8ix"
@@ -2193,6 +2251,28 @@
     },
     {
       "album": {
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+    },
+    {
+      "album": {
         "name": "My Purple iPod Nano (2nd Gen)",
         "url": "https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU"
       },
@@ -2204,7 +2284,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 164661,
       "name": "My Purple iPod Nano (2nd Gen)",
       "url": "https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp"
@@ -2240,10 +2320,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 372000,
       "name": "Mythrill",
       "url": "https://open.spotify.com/track/0PcrE1lcR3mvZqM8K4IUUj"
+    },
+    {
+      "album": {
+        "name": "Neoteny",
+        "url": "https://open.spotify.com/album/0rwUVS8qarsDGRa8n9Wszy"
+      },
+      "artists": [
+        {
+          "name": "Boo",
+          "url": "https://open.spotify.com/artist/2TFIKib8RK7fj3oHC1NCkW"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228169,
+      "name": "Neoteny",
+      "url": "https://open.spotify.com/track/05YfutYgRtZGpaMMuBhlYi"
     },
     {
       "album": {
@@ -2404,7 +2502,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 263731,
       "name": "OneZeroFive",
       "url": "https://open.spotify.com/track/1Bz2tMa5sDHPv8WRuv70YG"
@@ -2954,10 +3052,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 244886,
       "name": "Shine",
       "url": "https://open.spotify.com/track/6GJYSPLEP0sjZzzpuiKIcx"
+    },
+    {
+      "album": {
+        "name": "Shook",
+        "url": "https://open.spotify.com/album/5V9YlNz4b31CggAtQ5ubhV"
+      },
+      "artists": [
+        {
+          "name": "David Lowe",
+          "url": "https://open.spotify.com/artist/52dT7EHXa4b74ozIjFISzD"
+        },
+        {
+          "name": "Brad Edgar",
+          "url": "https://open.spotify.com/artist/32zsdaR0kbqUOgHwMAtiTx"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "Shook",
+      "url": "https://open.spotify.com/track/3pvthFHMfvalSNxcnSJgUM"
     },
     {
       "album": {
@@ -3056,7 +3176,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 203371,
       "name": "Speed Trials On Acid (feat. Dan Diamond)",
       "url": "https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk"
@@ -3445,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254545,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is"
+    },
+    {
+      "album": {
         "name": "Scope",
         "url": "https://open.spotify.com/album/2ONpgHZIJCwAzc39hhKtai"
       },
@@ -3692,6 +3830,24 @@
       "duration_ms": 360023,
       "name": "Voicebox",
       "url": "https://open.spotify.com/track/5GO6gvPD2DC3iZuxUUTsr7"
+    },
+    {
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "album": {

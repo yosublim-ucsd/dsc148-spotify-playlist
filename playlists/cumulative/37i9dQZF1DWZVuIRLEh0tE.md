@@ -4,7 +4,7 @@
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Rochy RD
 
-214 songs - 10 hr 44 min
+215 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj) | 2:55 | 2023-03-17 |  |
 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/7gdOCnWo5AtbjLxf5g58Re) | 3:00 | 2022-03-15 | 2023-06-18 |
 | [Siclompatada](https://open.spotify.com/track/71W9k3wJYrBoKSBml96mjZ) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Siclompatada](https://open.spotify.com/album/4ZKJdmrDwXDT85V2GB1rq1) | 3:36 | 2023-05-19 |  |
+| [Sin fotos](https://open.spotify.com/track/7rAdp3TgcTFEZnG8KgMLSv) | [Polojoa](https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt), [Sombra el de lo palo](https://open.spotify.com/artist/2dq1UXs9bXSEIrfxKvETi2) | [Sin fotos](https://open.spotify.com/album/38IImT4rCRWNXUwHRP9s39) | 2:23 | 2023-09-21 |  |
 | [Singadera Y Rapadera](https://open.spotify.com/track/4h00mDHNeosjAE98LLgGs9) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Aleica](https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE) | [Singadera Y Rapadera](https://open.spotify.com/album/2BvHf5D1I1ddxYroeer7q6) | 2:19 | 2022-11-25 | 2022-12-24 |
 | [Sorprendeme](https://open.spotify.com/track/2xg6TN2gnemvt19f9W5P4m) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Sorprendeme](https://open.spotify.com/album/0yEsVqPVQDyLWAOxvghL4N) | 2:48 | 2023-08-09 |  |
 | [Susu](https://open.spotify.com/track/1qN76meSBGWaR5uaBqJu61) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Susu](https://open.spotify.com/album/30h62ee5kOBlpi2GH7SQbO) | 2:54 | 2022-11-11 | 2022-12-24 |
@@ -203,7 +204,7 @@
 | [To Frio](https://open.spotify.com/track/7Mf27anHXELVg2tve4IWEQ) | [El Shick](https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae) | [To Frio](https://open.spotify.com/album/0Z2eoDZTdBH3Ei9PYfU2Ho) | 2:47 | 2023-04-28 | 2023-06-23 |
 | [Toco Toco To \- Remix](https://open.spotify.com/track/6t5WDx1H74Qqr5kl8kAkj9) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Toco Toco To \(Remix\)](https://open.spotify.com/album/2iXgX55gK4LZF0o0E8odmI) | 3:22 | 2022-04-14 | 2023-05-20 |
 | [TOMALA](https://open.spotify.com/track/73u8KWnLOQykesSgYic6nD) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [TOMALA](https://open.spotify.com/album/7kjeQc4eECAHw28luSVJ2A) | 3:02 | 2022-09-23 | 2022-11-12 |
-| [Tu charyn \- Special Version](https://open.spotify.com/track/40GXSultyco7bg2gQ6auqf) | [RUBIA DE ORO](https://open.spotify.com/artist/1Q2c7O7V72iE59JtdtIED2), [Rubirosagucci](https://open.spotify.com/artist/5zzIWrqRJ6YgN6bfvZB0jg) | [Tu charyn \(Special Version\)](https://open.spotify.com/album/7uowgDeey2MQPHtlfv7LFM) | 2:22 | 2023-09-08 |  |
+| [Tu charyn \- Special Version](https://open.spotify.com/track/40GXSultyco7bg2gQ6auqf) | [RUBIA DE ORO](https://open.spotify.com/artist/1Q2c7O7V72iE59JtdtIED2), [Rubirosagucci](https://open.spotify.com/artist/5zzIWrqRJ6YgN6bfvZB0jg) | [Tu charyn \(Special Version\)](https://open.spotify.com/album/7uowgDeey2MQPHtlfv7LFM) | 2:22 | 2023-09-08 | 2023-09-22 |
 | [Tu Cojea](https://open.spotify.com/track/6drPETc7tuaelv5YsCyS0G) | [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Tu Cojea](https://open.spotify.com/album/3kCbDfRabyjGfrN5O6QOcW) | 2:44 | 2022-03-15 |  |
 | [Tu Me La Sube](https://open.spotify.com/track/6Vu4jijYXztmr7uHoDzG7t) | [Aleica](https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE), [Zunna](https://open.spotify.com/artist/7kezrkuYBnE989Mv0gmIZ6), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK) | [Tu Me La Sube](https://open.spotify.com/album/1EfTn21JqligNVES38Vfaz) | 2:30 | 2023-03-17 | 2023-06-23 |
 | [Tuky Tuky](https://open.spotify.com/track/5paSUPI37gBuTvz7H7Dty0) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tuky Tuky](https://open.spotify.com/album/0IqcOwV9JrmKJCjZ6umqia) | 2:14 | 2023-08-09 |  |

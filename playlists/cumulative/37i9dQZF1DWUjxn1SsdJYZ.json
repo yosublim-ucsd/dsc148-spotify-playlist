@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Anything I Want",
+        "url": "https://open.spotify.com/album/4oM14dSjci8M4412lOqNQN"
+      },
+      "artists": [
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132579,
+      "name": "Anything I Want",
+      "url": "https://open.spotify.com/track/4B9hLmAE1ln9HFWeyd5R3L"
+    },
+    {
+      "album": {
         "name": "Arabian Nights",
         "url": "https://open.spotify.com/album/0JPS47gplkJvwHWL8yBYH2"
       },
@@ -7350,6 +7368,24 @@
       "duration_ms": 150857,
       "name": "ONES",
       "url": "https://open.spotify.com/track/5d4WKZhiUN28fUKXOOCvVs"
+    },
+    {
+      "album": {
+        "name": "Online",
+        "url": "https://open.spotify.com/album/7jZ4CWvGKtzooh3ENYubVR"
+      },
+      "artists": [
+        {
+          "name": "Miko Mal",
+          "url": "https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231608,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/7cG8wmJW3TgJYpug9ovBTL"
     },
     {
       "album": {

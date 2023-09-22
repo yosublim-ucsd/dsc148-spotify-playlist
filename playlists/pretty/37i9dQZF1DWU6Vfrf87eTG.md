@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,021 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,033 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 78 | [Interruptions \(Heart And Breath Nonet\): VI French Guitars](https://open.spotify.com/track/7qDMwy7Db8urIvxWWiPBoB) | [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY), [yMusic](https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf) | [Richard Reed Parry: Music For Heart And Breath](https://open.spotify.com/album/3OSLmcfIsXg8bkbZRfp1QC) | 3:23 |
 | 79 | [Exploding](https://open.spotify.com/track/30rG9CHTFuH0Ol64f1wfTi) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Regions of Light and Sound of God \(Deluxe\)](https://open.spotify.com/album/3p3Lsrxgy8EX4oF8PQT8J6) | 2:00 |
 | 80 | [Heads of the Valleys Road](https://open.spotify.com/track/0xNNyQG09OtHVd9BctjZ3j) | [Jess Morgan](https://open.spotify.com/artist/3sqUBL66V3rTDWwwG4XGaR) | [Heads of the Valleys Road](https://open.spotify.com/album/3MDqIoYtkq76CCK0FqcYKv) | 2:07 |
-| 81 | [Buho](https://open.spotify.com/track/1GGYLHfN6NnY8UKER97oPj) | [Ash Black Bufflo](https://open.spotify.com/artist/1XUPvt50HGYs9hjGOVXJLQ) | [Andasol](https://open.spotify.com/album/0ULeB78xaiXAOLJlIK53m3) | 4:24 |
+| 81 | [Buho](https://open.spotify.com/track/5Y6EHylhCZPwQ48qsWc5Z8) | [Ash Black Bufflo](https://open.spotify.com/artist/1XUPvt50HGYs9hjGOVXJLQ) | [Andasol](https://open.spotify.com/album/6gm9CQuqcTdxXmvBORmo3X) | 4:24 |
 | 82 | [Leather and Lace](https://open.spotify.com/track/0w5meNXPj2syJfQSekRA2Y) | [amiina](https://open.spotify.com/artist/79MO0KcrOdScKyzuDTtI3k) | [The Lighthouse Project](https://open.spotify.com/album/6ZnyPdZT3mDvWDPWMgcnN1) | 4:04 |
 | 83 | [Instrumental II](https://open.spotify.com/track/5tpSGHl2739Ogq4PW1jyko) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [The First Days Of Spring](https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s) | 1:36 |
 | 84 | [Bella Marie](https://open.spotify.com/track/6A0p1XuHe4wd8FQEFiod7T) | [Megafaun](https://open.spotify.com/artist/0o1wK6uAmkrixovsE80lMR) | [Gather, Form & Fly](https://open.spotify.com/album/7eIn0DBntIsCUSotnjepUh) | 1:29 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 115 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 116 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MCw5OGUzN2ZiZTE3ZDQxMDlhMzZjMWRiMTc1OTc3M2NhYjU3YWJiMTk2`
+Snapshot ID: `MCw1MWFkZjI2NzlhN2E4YTVjOTYyYzkyNTkxOWRhYzc1ZjI2MGE5OWM4`

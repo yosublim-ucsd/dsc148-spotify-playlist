@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-203 songs - 12 hr 16 min
+204 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Little Drummer Boy](https://open.spotify.com/track/29fdyIvVGmhRqj0rMOfaJi) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [On Christmas Day](https://open.spotify.com/album/0Enxtkz1M9zc020K4qVrc3) | 3:10 | 2021-11-09 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/2iMRkpZz0nxGAGHIsUE351) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [On Christmas Day](https://open.spotify.com/album/7wCQaCitH2PFAxx61t3kQ9) | 3:10 | 2021-11-09 | 2022-07-29 |
 | [Little Drummer Boy](https://open.spotify.com/track/54Adnogc6smoL36D371Hpa) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Maybe This Christmas, Vol 4: Holiday Folk](https://open.spotify.com/album/2081ZONNeBVsfDhuXw86JI) | 3:10 | 2021-11-09 | 2022-11-13 |
-| [Mama It's Christmas](https://open.spotify.com/track/2r3zWJ1sWux8Fix5MODSGI) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:56 | 2022-11-21 |  |
+| [Mama It's Christmas](https://open.spotify.com/track/2r3zWJ1sWux8Fix5MODSGI) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:56 | 2022-11-21 | 2023-09-22 |
+| [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 | 2022-12-09 |  |
 | [Merry Christmas Darling](https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kate Bernhardt](https://open.spotify.com/artist/4tD1DjtxZogb0F6uRn2ty4), [Coco Reilly](https://open.spotify.com/artist/4B0rRuYqf9TbbnJSnGpW0Q) | [Merry Christmas Darling](https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4) | 3:11 | 2021-11-09 |  |
 | [More Than Christmas](https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [More Than Christmas](https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6) | 3:33 | 2021-11-09 |  |
 | [Mvmt I, "Rejoice! Rejoice!"](https://open.spotify.com/track/7tTkdF0gJssYoID20Uw70i) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos' Family Christmas Album](https://open.spotify.com/album/1cv8WBFQPnstQvRZgg2Bw4) | 6:37 | 2021-11-09 | 2022-07-29 |

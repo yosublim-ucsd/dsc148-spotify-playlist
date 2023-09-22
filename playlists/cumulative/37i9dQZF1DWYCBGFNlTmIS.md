@@ -4,7 +4,7 @@
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-95 songs - 6 hr 14 min
+96 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [如無意外](https://open.spotify.com/track/5Wh6JTxdiNdTHq25P2tRrL) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [艷光四射](https://open.spotify.com/album/3z50Y8A5d5jz63vaYBnnU7) | 3:27 | 2022-01-13 |  |
 | [寂寞夜晚](https://open.spotify.com/track/1O1UCoOAR7TJP87wbP6FMT) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [Leslie Cheung Four Seasons](https://open.spotify.com/album/3JYopQziWYcvfNGURnBsaz) | 4:27 | 2022-01-13 |  |
 | [年少無知 \- \(劇集 "天與地" 片尾曲\)](https://open.spotify.com/track/2HgSK0w0mfcB9dEnFMYagd) | [Bowie Lam](https://open.spotify.com/artist/4CoyTfyMIZBUTBpLm6sRtn), [陳豪](https://open.spotify.com/artist/5PDp6o4eM8PEZrZ4rwh5vg), [黃德斌](https://open.spotify.com/artist/49fmsKjd3CZJRwn775QyOy) | [年少無知 \(劇集 "天與地" 片尾曲\)](https://open.spotify.com/album/28RWLpCA29Iue63eLC0JP1) | 4:56 | 2022-01-13 |  |
-| [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 | 2022-01-13 |  |
+| [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 | 2022-01-13 | 2023-09-22 |
+| [得個等](https://open.spotify.com/track/2PlGOozW4kmGhRq4yI2uEy) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/4XRXAEi3a6HTTzPBxhttyY) | 4:17 | 2022-12-22 |  |
 | [忘記和記](https://open.spotify.com/track/0nHjhfGCsGw31c79SiUIz0) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62), [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [忘記和記](https://open.spotify.com/album/5ANwAweXDjoB3HhKzpDfvB) | 6:01 | 2022-01-13 |  |
 | [愛不釋手](https://open.spotify.com/track/1La68qLTcLGsSKkVMJr3eW) | [Hacken Lee](https://open.spotify.com/artist/3PV11RNUoGfX9tMN2wVljB) | [Custom Made](https://open.spotify.com/album/6oGOsrlD6MRKFlyNaNlNQX) | 3:25 | 2022-01-13 |  |
 | [愛回家](https://open.spotify.com/track/5DHjpB2vk29BySgvGKq6IW) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [《阿媽有咗第二個》電影原聲專輯](https://open.spotify.com/album/3XgES0xGu2h265n7E6A3j1) | 4:09 | 2022-11-04 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDA5MDQ4NTkwMTZhMGFmY2FhZjBhNGM1Mzk1ODRhMzRiMA==",
+  "snapshot_id": "MjgyNDU4NDAsMDAwMDAwMDBlYWM3OGI2MjEzZjc2ZDBlNmVhYmJmYTZjODAwNjVkNA==",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -44,9 +44,9 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 188851,
-      "name": "4EVA - Instrumental",
-      "url": "https://open.spotify.com/track/6Lg6MTVkZ4KqSeXaI2JX4F"
+      "duration_ms": 118436,
+      "name": "Rebuke - Instrumental",
+      "url": "https://open.spotify.com/track/01S67rhdOvdqdvQHBuLJpO"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -67,6 +67,30 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "The Caliphate (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "The Caliphate (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Free (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
       },
@@ -83,6 +107,22 @@
       "duration_ms": 234771,
       "name": "Free (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Doomsday Party",
+        "url": "https://open.spotify.com/album/4vjJPfQI2sQ0lmGMmsqwrj"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 315964,
+      "name": "Doomsday Party",
+      "url": "https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -123,78 +163,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "BUCK WILD",
-        "url": "https://open.spotify.com/album/5kZy8TjO6es1p9LLT4CcDN"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
       },
       "artists": [
         {
-          "name": "Headkrack",
-          "url": "https://open.spotify.com/artist/0IB0hCCHwwj5vbLcYk8WbQ"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Kool Keith",
-          "url": "https://open.spotify.com/artist/3zFaWPA8Jobgf5egh38KD2"
-        },
-        {
-          "name": "Fly Deff",
-          "url": "https://open.spotify.com/artist/49FiS9ZFyKxljQsQAep1nH"
-        },
-        {
-          "name": "Local Astronauts",
-          "url": "https://open.spotify.com/artist/4spEdT2akJzTcOugrkhnLh"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 226797,
-      "name": "BUCK WILD",
-      "url": "https://open.spotify.com/track/5mruhSCt0NQmA2adGcM2Wn"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Warrior Tour (Live Studio)",
-        "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
-      },
-      "artists": [
-        {
-          "name": "IAM",
-          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
-        }
-      ],
-      "duration_ms": 560973,
-      "name": "Demain c'est loin - Live Studio",
-      "url": "https://open.spotify.com/track/5DVC4v4D2XvU9fBZWHrdeT"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "So Gold (Immersive Edition)",
-        "url": "https://open.spotify.com/album/7vsKdJyq79Nf8MChnGpGpy"
-      },
-      "artists": [
-        {
-          "name": "Shafiq Husayn",
-          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Didda Joe",
-          "url": "https://open.spotify.com/artist/6RiH4it36bTUNBvUjPH2DP"
-        },
-        {
-          "name": "August Rose",
-          "url": "https://open.spotify.com/artist/4cGbWF0MMhak6Ws9ROGC44"
-        }
-      ],
-      "duration_ms": 246977,
-      "name": "No Particulars",
-      "url": "https://open.spotify.com/track/0cP1OjR8nVm0iA4Zk3EYnC"
+      "duration_ms": 218794,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -215,6 +199,38 @@
       "duration_ms": 222986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4xO6bnooEZzdvKGNuciK0i"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Warrior Tour (Live Studio)",
+        "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
+      },
+      "artists": [
+        {
+          "name": "IAM",
+          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Je danse le mia - Live Studio",
+      "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "End",
+        "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 370653,
+      "name": "Loved Ones",
+      "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -279,122 +295,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Freak 54 (Freak Out) [Sped Up Version]",
-        "url": "https://open.spotify.com/album/5ntn1tPGZZuDGoa16ACng8"
+        "name": "USA",
+        "url": "https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
         }
       ],
-      "duration_ms": 109779,
-      "name": "Freak 54 (Freak Out) - Sped Up Version",
-      "url": "https://open.spotify.com/track/3GBJHmYBfh911Fs8DF8ZHe"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Asking (feat. Clementine Douglas) [Ti\u00ebsto Remix]",
-        "url": "https://open.spotify.com/album/7FlbEc8atVHKLNC8wHKTiS"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Asking (feat. Clementine Douglas) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/6bJa9BTNHYGyeHhJr41Kfb"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Magic Dust",
-        "url": "https://open.spotify.com/album/4DyKsUIl4sBkC3S9UvOIfF"
-      },
-      "artists": [
-        {
-          "name": "Val Monroe",
-          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
-        }
-      ],
-      "duration_ms": 124086,
-      "name": "Magic Dust",
-      "url": "https://open.spotify.com/track/0spCbuvYiF5DHP0H6WkNgz"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "americana, but lofi",
-        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
-      },
-      "artists": [
-        {
-          "name": "lonelyboy",
-          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
-        },
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "the kids aren't alright - lofi",
-      "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Australia Stops",
-        "url": "https://open.spotify.com/album/6GtcJTPQEKWoFDtXLrgWbh"
-      },
-      "artists": [
-        {
-          "name": "C.O.F.F.I.N",
-          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "Keep It Dark",
-      "url": "https://open.spotify.com/track/6p3Kgt3SwEMajZmjnJFjAx"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Bowling For Sleep - Lullaby covers of Bowling For Soup songs",
-        "url": "https://open.spotify.com/album/0d6QkChwFDYRah6JwByLN2"
-      },
-      "artists": [
-        {
-          "name": "Sparrow Sleeps",
-          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
-        },
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 307408,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/2EDAP6kj1U5UQudx6x5Ao1"
+      "duration_ms": 98000,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -408,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 169773,
-      "name": "Walking the Dog (demo) - Outtake",
-      "url": "https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT"
+      "duration_ms": 224800,
+      "name": "Christie Rd. - Outtake",
+      "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -451,18 +363,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
+        "name": "Dirty Diana (Metal Version)",
+        "url": "https://open.spotify.com/album/0rCS3cSTu4NJFPnzMfUk61"
       },
       "artists": [
         {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 482744,
-      "name": "Denardirn",
-      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
+      "duration_ms": 260495,
+      "name": "Dirty Diana (Metal Version)",
+      "url": "https://open.spotify.com/track/5JB0Ejgsq7Unv4JAzFPyHW"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -487,6 +399,50 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "She Listen To Trap",
+        "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
+      },
+      "artists": [
+        {
+          "name": "A.M",
+          "url": "https://open.spotify.com/artist/38thHiXEE2yx8OacMf89Sq"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Get It Done",
+          "url": "https://open.spotify.com/artist/7I1gH3qVSIyH7sE4l0dFVu"
+        }
+      ],
+      "duration_ms": 143103,
+      "name": "She Listen To Trap",
+      "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Le d\u00e9part",
+        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 175020,
+      "name": "Le d\u00e9part",
+      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Nature at Play: J.S. Bach's Cello Suite No. 1 (Live from the Great Smoky Mountains)",
         "url": "https://open.spotify.com/album/3NGKzPTT6anTfj7qb9QtYq"
       },
@@ -507,34 +463,38 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Superb Superb Name Poop Songs Songs",
-        "url": "https://open.spotify.com/album/3zcTAjURGQsqqtGx8YvdVM"
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/7g09Qn1ZsVdk4V8KusjWUn"
       },
       "artists": [
         {
-          "name": "The Odd Man Who Sings About Poop, Puke and Pee",
-          "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
         }
       ],
-      "duration_ms": 176840,
-      "name": "The Romi Poop Song",
-      "url": "https://open.spotify.com/track/03wPWydpPuUv28DrRpXV9I"
+      "duration_ms": 226203,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
     },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Rustin' In The Rain",
-        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
+        "name": "Origin Story",
+        "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        },
+        {
+          "name": "The Future Kingz",
+          "url": "https://open.spotify.com/artist/4sw5s8BqMsNkOSZtNgACKv"
         }
       ],
-      "duration_ms": 216226,
-      "name": "Rustin' In The Rain",
-      "url": "https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9"
+      "duration_ms": 297624,
+      "name": "Origin Story",
+      "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -559,6 +519,26 @@
       "duration_ms": 125518,
       "name": "Shaolin's Revenge",
       "url": "https://open.spotify.com/track/6LN4koIhyYzlVTCYTPhK7h"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/6I5IlEokrrRc7JE06R6R3n"
+      },
+      "artists": [
+        {
+          "name": "Gangman",
+          "url": "https://open.spotify.com/artist/5ggH1sWqm8IFkr1df1QXQB"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 211894,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/2j5J8ywEvdkXIPL8bjzaOz"
     },
     {
       "added_at": "2023-09-15 04:00:00",

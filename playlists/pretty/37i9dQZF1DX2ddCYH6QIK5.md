@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: \*maliiik, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,816 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,828 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Dinge](https://open.spotify.com/track/5xHHgnItfPKSoYXEUxALC0) | [WILLMAN](https://open.spotify.com/artist/6i8voyPYg0tgoAtzaez7Dg), [ELAV](https://open.spotify.com/artist/54qCVYlwbZUAxWzLIdSYF4) | [Dinge](https://open.spotify.com/album/7sxQWv8sUZrTQwAaDHHLq9) | 2:44 |
 | 80 | [Stau Calmă](https://open.spotify.com/track/4sFuAg4kS11iFPnswqmofQ) | [Lucia Hera](https://open.spotify.com/artist/5RiIugOXVp0f1DyMdMpfZ7) | [Stau Calmă](https://open.spotify.com/album/62UErkgLnzk82EefSasoRq) | 3:27 |
 
-Snapshot ID: `MCw2ODZiOGM2MDFmNGQ4MGQ1NmU2NzA3MGI0YjU1ODBiYjhlNTI5MGI1`
+Snapshot ID: `MCw5NmJiNDI2YTUzN2ZkNTg1MDU3NjBmZjc4NDRjMjNiZDUyZTljMmEz`

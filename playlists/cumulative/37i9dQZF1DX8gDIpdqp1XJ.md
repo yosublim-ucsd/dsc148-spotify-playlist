@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-870 songs - 2 day 8 hr 58 min
+872 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Attention](https://open.spotify.com/track/2U76RhZDZjih41gBygnces) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/1jrikGtnJksIVgzNzkVLRy) | 2:57 | 2021-04-02 | 2022-04-13 |
 | [Attractive](https://open.spotify.com/track/2SsuEPUj0bM64zQkJTkiwY) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Attractive](https://open.spotify.com/album/0IKXyzQjx7rhwvpsKtT06p) | 2:52 | 2023-06-30 |  |
 | [Automation](https://open.spotify.com/track/2xrOwkZ4t3qMTaP3oti1Xx) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Automation](https://open.spotify.com/album/7h72n5kHGmCYkoXkBoL3II) | 3:29 | 2021-04-02 | 2022-04-15 |
-| [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/20yvPj3wzqoV5wvdkj89lj) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love \(feat\. Sampa the Great\)](https://open.spotify.com/album/7JSj5PDFnh9x6DevquJxep) | 3:55 | 2023-04-07 |  |
+| [Avalanche Of Love](https://open.spotify.com/track/1ypEcoMJdjba3Xh9QUIM7K) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Zango](https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f) | 3:55 | 2023-04-07 |  |
+| [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/20yvPj3wzqoV5wvdkj89lj) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love \(feat\. Sampa the Great\)](https://open.spotify.com/album/7JSj5PDFnh9x6DevquJxep) | 3:55 | 2023-04-07 | 2023-09-22 |
 | [Baby](https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Baby](https://open.spotify.com/album/1bSMgGLERBaeOJgsgt3ldN) | 3:40 | 2023-02-24 | 2023-07-01 |
 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 | 2021-04-02 | 2022-07-09 |
 | [Baby Baby](https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Get A Good Look](https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD) | 3:02 | 2022-07-11 | 2023-04-15 |
@@ -819,7 +820,8 @@
 | [Voodoo on Gold](https://open.spotify.com/track/1yLRz16NS8aWKH3ybbToRE) | [Dumbo Gets Mad](https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO) | [Voodoo on Gold](https://open.spotify.com/album/48PWE4LNmfZ3leymjoQPbV) | 3:16 | 2021-04-02 | 2022-04-21 |
 | [Vyvyan Rising](https://open.spotify.com/track/3HPA0I9ynIAVZjnOzzbnGb) | [New Candys](https://open.spotify.com/artist/0pPa2J0HCTVmaL8PurSeoC) | [Vyvyd](https://open.spotify.com/album/01D47Tp72uVqL28v29nrcR) | 4:18 | 2021-06-04 | 2022-04-20 |
 | [Wagging Tongue \- Wet Leg Remix](https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wagging Tongue \(Remixes\)](https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H) | 4:38 | 2023-07-13 |  |
-| [Waile](https://open.spotify.com/track/69V0oOacvu3NKhpuqDhkLk) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/6bB5RHwyIKq5jUzbVuS63Y) | 5:15 | 2023-03-24 |  |
+| [Waile](https://open.spotify.com/track/69V0oOacvu3NKhpuqDhkLk) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/6bB5RHwyIKq5jUzbVuS63Y) | 5:15 | 2023-03-24 | 2023-09-22 |
+| [Waile](https://open.spotify.com/track/7CrdlbRadEBmd16KQWt4xf) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Zango](https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f) | 5:15 | 2023-03-24 |  |
 | [WAITING](https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [WAITING](https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48) | 2:20 | 2023-03-06 | 2023-04-09 |
 | [Waiting Around For Grace](https://open.spotify.com/track/1S7rX5dnPYrlMCJ3DBvlJn) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Man It Feels Like Space Again](https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q) | 5:09 | 2021-04-02 | 2022-04-21 |
 | [Wanderlust](https://open.spotify.com/track/6OIsmDiDLf4j9BZJcAaES2) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Fallen Paradise](https://open.spotify.com/album/0Pq2CJXepTD3Tbl9jXhlhu) | 3:47 | 2022-07-22 | 2022-08-03 |

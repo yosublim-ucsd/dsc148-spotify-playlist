@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-387 songs - 23 hr 18 min
+388 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Empty Room](https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 3:11 | 2023-04-21 |  |
 | [Ese](https://open.spotify.com/track/7lNo5JKa9o3Z7hFCnLoJWu) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Ese](https://open.spotify.com/album/4tRwplns0Oy4hQZsoVQWdR) | 2:37 | 2023-02-19 |  |
 | [Even On The Worst Days](https://open.spotify.com/track/1kAKjJ8T5MRqDbSe3N1Jk6) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Even On The Worst Days](https://open.spotify.com/album/2BqoIv37AtLX7wa8ia5dve) | 3:39 | 2023-02-19 | 2023-04-09 |
+| [Everything](https://open.spotify.com/track/5rSEzEULte3y0TdaQfuupI) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Everything](https://open.spotify.com/album/1yOfZE5fvP1ndI190IrKq1) | 2:48 | 2023-08-11 |  |
 | [everything and more \- live from exit/in](https://open.spotify.com/track/4MS6fEzhIR7UYg6DL6uvec) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [i can't find the edges of you \(deluxe\)](https://open.spotify.com/album/43h54fGs1dbImmbzWrd2dX) | 3:34 | 2023-04-21 | 2023-05-25 |
 | [Everything Else But Rain \(with Lucius\)](https://open.spotify.com/track/2QLysJ0j8Nmm7z1HehA0pd) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Everything Else But Rain \(with Lucius\)](https://open.spotify.com/album/5Qf4UnaFHgy1mgcjEtDy1S) | 3:16 | 2023-04-21 | 2023-08-20 |
 | [Faith Fall \- vibey acoustic](https://open.spotify.com/track/26zlbmQ36DOA1yyi0sc9jz) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 3:49 | 2023-02-19 | 2023-04-09 |
@@ -165,7 +166,7 @@
 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2023-02-19 | 2023-09-13 |
 | [I'm Healing](https://open.spotify.com/track/3ivIpARkgoFfCnxREhJRya) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Lex Buckley](https://open.spotify.com/artist/6KezKjrMeCCmU9U1T2lBON), [Jared Grant](https://open.spotify.com/artist/7ngm4D0XEn5TpywtBtkCWc) | [I'm Healing](https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0) | 5:17 | 2023-02-19 | 2023-04-22 |
 | [If It Comes From You](https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [If It Comes From You](https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA) | 4:54 | 2023-02-24 |  |
-| [In Control](https://open.spotify.com/track/0gwupaJdsfzEqKGe4sKDzy) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [In Control](https://open.spotify.com/album/6QzEa12UN5OJ0SM8p0tfKW) | 2:00 | 2023-08-11 |  |
+| [In Control](https://open.spotify.com/track/0gwupaJdsfzEqKGe4sKDzy) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [In Control](https://open.spotify.com/album/6QzEa12UN5OJ0SM8p0tfKW) | 2:00 | 2023-08-11 | 2023-09-22 |
 | [In the Valley](https://open.spotify.com/track/1mEREMPGZy8BzbNr7FinQ4) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW) | [In the Valley](https://open.spotify.com/album/5yTIiQdHlCogJhpPqfH5Sh) | 4:53 | 2020-12-18 | 2022-07-29 |
 | [Island](https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Island](https://open.spotify.com/album/6xYY34SDgAPg308e965q0H) | 4:34 | 2020-12-18 | 2023-02-19 |
 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 | 2020-12-18 | 2023-02-19 |

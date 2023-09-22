@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Ducky",
+        "url": "https://open.spotify.com/album/2zUZd4r8kQfyTZ8nqhf0Ra"
+      },
+      "artists": [
+        {
+          "name": "Little Magic Musicbox",
+          "url": "https://open.spotify.com/artist/6CFYooGYq34rOAroXRCltR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100310,
+      "name": "Ducky",
+      "url": "https://open.spotify.com/track/7enLnYS2L3VSwiasZWAiop"
+    },
+    {
+      "album": {
         "name": "Duermete Mi Nino",
         "url": "https://open.spotify.com/album/4wVoUM7VFbIDommXI56Jvd"
       },
@@ -1859,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "I\u00b4m Yours",
+        "url": "https://open.spotify.com/album/4VjHnisQEgDqkSYoosOMkD"
+      },
+      "artists": [
+        {
+          "name": "Fab Greenwich",
+          "url": "https://open.spotify.com/artist/35OzUznezj2Y175Y1fekEg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "I\u00b4m Yours",
+      "url": "https://open.spotify.com/track/2pBrocoT9X0iVXHeA3WqoV"
+    },
+    {
+      "album": {
         "name": "John Blund",
         "url": "https://open.spotify.com/album/4mQHKIcKPh6CmIxcpYOuLK"
       },
@@ -2162,6 +2198,24 @@
       "duration_ms": 41500,
       "name": "Merrily We Roll Along",
       "url": "https://open.spotify.com/track/5BUh5drj0lOvk5Z3EwTcJr"
+    },
+    {
+      "album": {
+        "name": "Milky Way Dreams",
+        "url": "https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk"
+      },
+      "artists": [
+        {
+          "name": "Allan London",
+          "url": "https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114750,
+      "name": "Milky Way Dreams",
+      "url": "https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1832367,
+  "num_followers": 1832855,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDNmNDllMDdjOTRkYTNjOGMzNjlkZWYzYzM1ODRiMjEzMzU1YTBj",
+  "snapshot_id": "MCwwMTMzM2FkMTZjODU1NDhhYjNhNDA2NDM5ZWIyMzFkOWM4ODBmZTQ2",
   "tracks": [
     {
       "added_at": "2023-09-13 09:48:11",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
         "name": "Here with You",
         "url": "https://open.spotify.com/album/1C0LrrRlTwweXHWz0QpwWI"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 139000,
       "name": "Here with You",
       "url": "https://open.spotify.com/track/2dNtChXYtvpT7SD7Bfe5KS"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK"
-      },
-      "artists": [
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
+        "name": "Sunset Memories",
+        "url": "https://open.spotify.com/album/7f9xgp3t9fb1N6X6hXdkJh"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 152920,
+      "name": "Sunset Memories",
+      "url": "https://open.spotify.com/track/6N4PYS4Go8XrcRMAwJW0Go"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
         "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/5RgAQOjc5nyF4uqnpVocoh"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 225714,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/6da6Ygbd8bi1N1Ah6Rxrgm"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
-        "name": "Sunset Memories",
-        "url": "https://open.spotify.com/album/7f9xgp3t9fb1N6X6hXdkJh"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 152920,
-      "name": "Sunset Memories",
-      "url": "https://open.spotify.com/track/6N4PYS4Go8XrcRMAwJW0Go"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "Peaceful Tides",
-        "url": "https://open.spotify.com/album/5O5mpaPfpj53GIG4pCD34O"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        },
-        {
-          "name": "Bye Ocean",
-          "url": "https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x"
-        }
-      ],
-      "duration_ms": 180521,
-      "name": "Peaceful Tides",
-      "url": "https://open.spotify.com/track/77hpS2mcbPfsRddmnLjls2"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
         "name": "Ghost (Fejk\u00e1 Remix)",
         "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
@@ -831,6 +811,26 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
+        "name": "Peaceful Tides",
+        "url": "https://open.spotify.com/album/5O5mpaPfpj53GIG4pCD34O"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        },
+        {
+          "name": "Bye Ocean",
+          "url": "https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x"
+        }
+      ],
+      "duration_ms": 180521,
+      "name": "Peaceful Tides",
+      "url": "https://open.spotify.com/track/77hpS2mcbPfsRddmnLjls2"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
         "name": "As Long As You Love Me",
         "url": "https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 157992,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
-        "name": "Boardwalk Lullaby",
-        "url": "https://open.spotify.com/album/0Vy92KWCt46nfEZJ6Xk003"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 164869,
-      "name": "Boardwalk Lullaby",
-      "url": "https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -911,18 +895,50 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b"
+        "name": "Beau",
+        "url": "https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT"
       },
       "artists": [
         {
-          "name": "Bjarne Hendrik",
-          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+          "name": "C\u00e1mille",
+          "url": "https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW"
         }
       ],
-      "duration_ms": 207549,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI"
+      "duration_ms": 152618,
+      "name": "Beau",
+      "url": "https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
+        "name": "Boardwalk Lullaby",
+        "url": "https://open.spotify.com/album/0Vy92KWCt46nfEZJ6Xk003"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 164869,
+      "name": "Boardwalk Lullaby",
+      "url": "https://open.spotify.com/track/7xfBAKxjVjw7YIIEUMD4qc"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67"
+      },
+      "artists": [
+        {
+          "name": "Pool Blue",
+          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -943,34 +959,18 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "Beau",
-        "url": "https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b"
       },
       "artists": [
         {
-          "name": "C\u00e1mille",
-          "url": "https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW"
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
         }
       ],
-      "duration_ms": 152618,
-      "name": "Beau",
-      "url": "https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67"
-      },
-      "artists": [
-        {
-          "name": "Pool Blue",
-          "url": "https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd"
+      "duration_ms": 207549,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR"
-      },
-      "artists": [
-        {
-          "name": "Roffe & Friends",
-          "url": "https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig"
-        }
-      ],
-      "duration_ms": 217452,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/0jbNTgNi0kQTmvmFFtXS5H"
       },
@@ -1043,22 +1027,18 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "Don't Worry",
-        "url": "https://open.spotify.com/album/1JY1js3AQi74qUZhqG6xrL"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR"
       },
       "artists": [
         {
-          "name": "XIXI",
-          "url": "https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw"
-        },
-        {
-          "name": "Hildur Ottilia",
-          "url": "https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk"
+          "name": "Roffe & Friends",
+          "url": "https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig"
         }
       ],
-      "duration_ms": 195160,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc"
+      "duration_ms": 217452,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1075,6 +1055,26 @@
       "duration_ms": 137454,
       "name": "Day Drinks",
       "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/1JY1js3AQi74qUZhqG6xrL"
+      },
+      "artists": [
+        {
+          "name": "XIXI",
+          "url": "https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw"
+        },
+        {
+          "name": "Hildur Ottilia",
+          "url": "https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94"
-      },
-      "artists": [
-        {
-          "name": "D.Polo",
-          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
         "name": "Alike / Surface",
         "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 195147,
       "name": "Alike",
       "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94"
+      },
+      "artists": [
+        {
+          "name": "D.Polo",
+          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "dustland",
-        "url": "https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2"
-      },
-      "artists": [
-        {
-          "name": "Alex R",
-          "url": "https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "dustland",
-      "url": "https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 151632,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
+        "name": "dustland",
+        "url": "https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2"
+      },
+      "artists": [
+        {
+          "name": "Alex R",
+          "url": "https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "dustland",
+      "url": "https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "Running Faster",
-        "url": "https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK"
-      },
-      "artists": [
-        {
-          "name": "Mellowdy",
-          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
-        }
-      ],
-      "duration_ms": 140263,
-      "name": "Running Faster",
-      "url": "https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
         "name": "listen love",
         "url": "https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 167576,
       "name": "listen love",
       "url": "https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
+        "name": "Running Faster",
+        "url": "https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        }
+      ],
+      "duration_ms": 140263,
+      "name": "Running Faster",
+      "url": "https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7FIqkD76gTpehE4dVqmyu3"
-      },
-      "artists": [
-        {
-          "name": "Adon",
-          "url": "https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/0Oa7qEBUNog1i58SW9BKf2"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
         "name": "Vibrant Presence",
         "url": "https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 215520,
       "name": "Vibrant Presence",
       "url": "https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7FIqkD76gTpehE4dVqmyu3"
+      },
+      "artists": [
+        {
+          "name": "Adon",
+          "url": "https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0Oa7qEBUNog1i58SW9BKf2"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1447,22 +1447,6 @@
       "duration_ms": 212906,
       "name": "IOU",
       "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
-        "name": "Star Reflections",
-        "url": "https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV"
-      },
-      "artists": [
-        {
-          "name": "Lostlow",
-          "url": "https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn"
-        }
-      ],
-      "duration_ms": 192300,
-      "name": "Star Reflections",
-      "url": "https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1495,6 +1479,22 @@
       "duration_ms": 152396,
       "name": "Gardient heaven",
       "url": "https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
+        "name": "Star Reflections",
+        "url": "https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV"
+      },
+      "artists": [
+        {
+          "name": "Lostlow",
+          "url": "https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn"
+        }
+      ],
+      "duration_ms": 192300,
+      "name": "Star Reflections",
+      "url": "https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
+        "name": "You and You",
+        "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
+      },
+      "artists": [
+        {
+          "name": "Mute Surrender",
+          "url": "https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "You and You",
+      "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
+    },
+    {
+      "added_at": "2023-09-13 09:48:11",
+      "album": {
         "name": "Readings",
         "url": "https://open.spotify.com/album/6n1vtw8Wjkec1HUpcyYckb"
       },
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "You and You",
-        "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
+        "name": "Suen\u0303o Lu\u0301cido",
+        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
       },
       "artists": [
         {
-          "name": "Mute Surrender",
-          "url": "https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE"
+          "name": "Ralf",
+          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
         }
       ],
-      "duration_ms": 201000,
-      "name": "You and You",
-      "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
+      "duration_ms": 245106,
+      "name": "Suen\u0303o Lu\u0301cido",
+      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "Suen\u0303o Lu\u0301cido",
-        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
+        "name": "Blend",
+        "url": "https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ"
       },
       "artists": [
         {
-          "name": "Ralf",
-          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
+          "name": "Hibiscus",
+          "url": "https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z"
         }
       ],
-      "duration_ms": 245106,
-      "name": "Suen\u0303o Lu\u0301cido",
-      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
+      "duration_ms": 132705,
+      "name": "Blend",
+      "url": "https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9"
     },
     {
       "added_at": "2023-09-13 09:48:11",
@@ -1659,34 +1675,18 @@
     {
       "added_at": "2023-09-13 09:48:11",
       "album": {
-        "name": "Blend",
-        "url": "https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ"
+        "name": "Balearic Dream",
+        "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
       },
       "artists": [
         {
-          "name": "Hibiscus",
-          "url": "https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z"
+          "name": "Gueves",
+          "url": "https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO"
         }
       ],
-      "duration_ms": 132705,
-      "name": "Blend",
-      "url": "https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9"
-    },
-    {
-      "added_at": "2023-09-13 09:48:11",
-      "album": {
-        "name": "rollacoasta",
-        "url": "https://open.spotify.com/album/6oXbyjfKySarMAKjy6BCQr"
-      },
-      "artists": [
-        {
-          "name": "Mateo Hill",
-          "url": "https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ"
-        }
-      ],
-      "duration_ms": 162785,
-      "name": "rollacoasta",
-      "url": "https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB"
+      "duration_ms": 186000,
+      "name": "Balearic Dream",
+      "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
     },
     {
       "added_at": "2023-09-13 09:48:11",

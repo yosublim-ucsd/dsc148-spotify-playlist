@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 163419,
+  "num_followers": 163544,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy",
+  "snapshot_id": "MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "All We Have Is Now / Stay The Same",
-        "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
-      },
-      "artists": [
-        {
-          "name": "Just Her",
-          "url": "https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL"
-        }
-      ],
-      "duration_ms": 252125,
-      "name": "All We Have Is Now",
-      "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Ascendance / Give It Up",
         "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 230673,
       "name": "Ascendance",
       "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "All We Have Is Now / Stay The Same",
+        "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
+      },
+      "artists": [
+        {
+          "name": "Just Her",
+          "url": "https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL"
+        }
+      ],
+      "duration_ms": 252125,
+      "name": "All We Have Is Now",
+      "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Torii",
-        "url": "https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Torii",
-      "url": "https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Influence",
         "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 259364,
       "name": "Influence - Edit",
       "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Torii",
+        "url": "https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Torii",
+      "url": "https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5"
     },
     {
       "added_at": "2022-11-25 16:56:36",

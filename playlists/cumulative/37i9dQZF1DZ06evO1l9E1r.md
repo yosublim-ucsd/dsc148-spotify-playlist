@@ -4,7 +4,7 @@
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 19 min
+79 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Miguel Takes Money](https://open.spotify.com/track/0XnqFCTKLykvgLOgqcJpye) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Sicario: Day of the Soldado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12QFS9IPnlICbESBw96prr) | 1:42 | 2023-03-12 |  |
 | [Mortar](https://open.spotify.com/track/5dpZUBTCiu8yCPahKWjXag) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [TÁR \(MUSIC FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK) | 3:36 | 2023-02-01 | 2023-07-03 |
 | [Moving Isabelle](https://open.spotify.com/track/0EZDYxg1YB9JBAGE3wj60g) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Sicario: Day of the Soldado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12QFS9IPnlICbESBw96prr) | 1:08 | 2023-03-26 |  |
+| [No Music Without Her](https://open.spotify.com/track/6evJAq5E7E4gz9G3nkML3i) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [A Haunting in Venice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw) | 2:46 | 2023-09-21 |  |
 | [Not All Men \- From "Women Talking" Soundtrack](https://open.spotify.com/track/22YAuxChtTHX8D9so4i5R5) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Not All Men \(From "Women Talking" Soundtrack\)](https://open.spotify.com/album/2fzBDU5hPOl8AqcxOdhu2B) | 3:29 | 2023-02-01 |  |
-| [Opaque](https://open.spotify.com/track/7rRPPNIKGnHzJ57IlJ1Oip) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Without Sinking](https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ) | 3:50 | 2023-02-01 |  |
+| [Opaque](https://open.spotify.com/track/7rRPPNIKGnHzJ57IlJ1Oip) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Without Sinking](https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ) | 3:50 | 2023-02-01 | 2023-09-22 |
 | [Overcast](https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Without Sinking](https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ) | 3:18 | 2023-02-01 |  |
 | [Peace Of God](https://open.spotify.com/track/0rjwfAoxHbUzEzQGx7VaO6) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 2:17 | 2023-02-01 |  |
 | [Prelude](https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Robert Aiki Aubrey Lowe](https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Last And First Men](https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC) | 2:35 | 2023-02-01 |  |

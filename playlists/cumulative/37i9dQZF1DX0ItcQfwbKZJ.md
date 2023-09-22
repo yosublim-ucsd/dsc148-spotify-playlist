@@ -4,7 +4,7 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-83 songs - 7 hr 54 min
+85 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Africa Is Home](https://open.spotify.com/track/2ZOzTk3mHHYCktEFIIMPC9) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/0RRbMJomlvcqq74zyFg7JI) | 8:56 | 2019-08-09 | 2023-04-29 |
 | [Africa Is Home](https://open.spotify.com/track/5jh3f8fy8a335XYDyJ7x9R) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/0L0N20B9ZRD5M9rfrz83Nw) | 8:56 | 2019-08-09 | 2022-07-29 |
 | [Africa Is Home](https://open.spotify.com/track/6dhk1SvZFRECnpAs1D7a4o) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/7gErJQ1bmcxZdALOof56Yk) | 8:56 | 2022-09-26 |  |
-| [Africa Will Be Great Again](https://open.spotify.com/track/3tByzh69xblgCQMxbCE2ZM) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [One People One World](https://open.spotify.com/album/4D4pbycsZl6eUNIeudPJON) | 4:47 | 2019-08-09 |  |
+| [Africa Will Be Great Again](https://open.spotify.com/track/3tByzh69xblgCQMxbCE2ZM) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [One People One World](https://open.spotify.com/album/4D4pbycsZl6eUNIeudPJON) | 4:47 | 2019-08-09 | 2023-09-22 |
+| [Africa Will Be Great Again](https://open.spotify.com/track/5g9OyUzyCsfXoXj8Rgdhzo) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [One People One World](https://open.spotify.com/album/46KJmojXzbfwKzoUCWXAF2) | 4:47 | 2022-09-26 |  |
 | [African Dialects](https://open.spotify.com/track/5y9sTZ2UKkddohU5k4gccl) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 4:56 | 2019-08-09 | 2022-07-29 |
 | [African Dialects](https://open.spotify.com/track/6wzaQuyl0USnmocC6MK5CD) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 4:56 | 2019-08-09 |  |
 | [Afrofunk Revolution](https://open.spotify.com/track/4rlp9tyP0TSx0wvTaK92dv) | [IFÁ](https://open.spotify.com/artist/0fHVExoTqJ6HFt3p4l10R8), [Okwei V\. Odili](https://open.spotify.com/artist/7eAsGkJpYRgpHVXzW64YLn) | [IFÁ Afrobeat + Okwei V\. Odili](https://open.spotify.com/album/2MV4gX4pZ0KSl8zOE5WKVQ) | 5:12 | 2019-08-09 |  |
@@ -88,7 +89,8 @@
 | [Truth Don Die](https://open.spotify.com/track/1hPLyce401XBZN2Psi8klK) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [The Definitive Collection](https://open.spotify.com/album/6pVnRn29sM9rDnRMDRq0eP) | 6:16 | 2022-09-26 |  |
 | [Truth Don Die](https://open.spotify.com/track/0LcSuLxn3abxhGh0zRnfnP) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Shoki Shoki](https://open.spotify.com/album/3H963ogFzj0Zxin7NYcZhI) | 6:20 | 2019-08-09 | 2023-02-04 |
 | [Ugali](https://open.spotify.com/track/2559TZcRM848q9t1kbTm02) | [The Tony Benson Sextet](https://open.spotify.com/artist/0KAihIxZASpqsWUSwaasOJ) | [Ugali](https://open.spotify.com/album/65tZYpJZUmIiWePyRlSV9M) | 5:23 | 2019-08-09 |  |
-| [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 | 2019-08-09 |  |
+| [Water No Get Enemy](https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 9:51 | 2022-09-26 |  |
+| [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 | 2019-08-09 | 2023-09-22 |
 | [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 | 2022-09-26 |  |
 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2019-08-09 | 2023-09-21 |
 

@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=5pOYTLVwR4uoTuzhcAmH5Q"> كريم كرستيانو </a>
 
-188 songs - 11 hr 27 min
+189 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ghasheem](https://open.spotify.com/track/1aCVsj9WeXLlj9psAGvw39) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Ghasheem](https://open.spotify.com/album/5GDzEetTPM43TJZebXk8gl) | 3:48 | 2021-12-16 | 2022-01-11 |
 | [Haba \- From "El Ens We El Nems"](https://open.spotify.com/track/0n1LXkgsl43HZiEhWcecrU) | [Oka](https://open.spotify.com/artist/0jSsCsmHAH0cKT5iBwUoX7), [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd), [Bayoumi Fouad](https://open.spotify.com/artist/3UpvJjbwwaaKl8SxrsMqqF) | [Haba \(From "El Ens We El Nems"\)](https://open.spotify.com/album/4ls5O9WVGuN43XlaD2Ofr3) | 2:09 | 2021-12-16 | 2022-10-25 |
 | [Habibty](https://open.spotify.com/track/4gyUv9zQnSbqhA5uqqgZQz) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Yasmin Raeis](https://open.spotify.com/artist/3BHCg4qPGBjwAQ4RsyofzK) | [Habibty](https://open.spotify.com/album/327BgIzYKfPFrDCabCikQU) | 3:02 | 2021-12-16 | 2023-02-17 |
+| [Khalek Fe Nafsak](https://open.spotify.com/track/0davnVObCTxY134TtF8yHu) | [Ortega](https://open.spotify.com/artist/5vkr7FsQEpnmI8Zg5fI81H) | [Khalek Fe Nafsak](https://open.spotify.com/album/04iDHR1EUnAZHji9f9XXEK) | 3:01 | 2023-09-21 |  |
 | [Khamsa kol Khames](https://open.spotify.com/track/1g4Ma3KYOCnILWUpC7lwem) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Khamsa kol Khames](https://open.spotify.com/album/0ca1pwGZChFFjPMVxoJxeR) | 2:45 | 2023-08-01 |  |
 | [Kol El Nas](https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Kol El Nas](https://open.spotify.com/album/5G6eYqkydwunUSmbRqk5gv) | 2:55 | 2021-12-16 | 2022-11-24 |
 | [Lama Bagy](https://open.spotify.com/track/52APJS24l96Jn7AJHrkSWh) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Lama Bagy](https://open.spotify.com/album/11ub4kmdxgA8bSu7MfRco9) | 1:50 | 2022-09-20 | 2022-10-17 |

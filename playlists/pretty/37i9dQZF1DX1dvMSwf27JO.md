@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > Light on Rabanne’s SS24 Runway for Paris Fashion Week, Soundtrack by Creative Director, Julien Dossena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,653 likes - 36 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,554 likes - 36 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 35 | [My Heart Goes Boom](https://open.spotify.com/track/0pENfDf4UtQF2q2A4xSi27) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [Desire](https://open.spotify.com/album/2VFiJkBykCVXcKdbJcs30N) | 3:39 |
 | 36 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
 
-Snapshot ID: `MCw2MjM2MjU0MDkzNDFiMTRjNTdlNjg4YjEyMDczMmU0M2NlM2Q1MDYw`
+Snapshot ID: `MCw4OGI2MzJjM2JiYjg1MDg3ZDRkMGU1ZWM4OGVhZjMzMzIwMWY0ZGJh`

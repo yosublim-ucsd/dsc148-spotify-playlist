@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Nicholas Craven
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,803 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,821 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 20 | [Seventeen](https://open.spotify.com/track/5hzrmJKIS2CHmvlUWkdlYy) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Seventeen](https://open.spotify.com/album/5arhOeNsH3P6LCD69z2rAo) | 3:25 |
 | 21 | [JAH LIGHTS](https://open.spotify.com/track/5pVZO9MIKpCg431gELD3Um) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [JAH LIGHTS](https://open.spotify.com/album/23dNjExvptgKMXk9VgSwYo) | 2:11 |
 | 22 | [Hilayi Jaa](https://open.spotify.com/track/3QoHjZv16dodLql23EJbVb) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Hilayi Jaa](https://open.spotify.com/album/1cOvGZWAZb8a7YnYLGc32A) | 2:34 |
-| 23 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 |
+| 23 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Kevin Ekofo](https://open.spotify.com/artist/67KgDYG0tKJHMXsxZme16p) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 |
 | 24 | [Splash](https://open.spotify.com/track/4h7qC8F6ivhuKC6n5vAOcf) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Splash](https://open.spotify.com/album/5gAl6jFFO9e92UV5Zb5ytY) | 2:45 |
 | 25 | [The Powers That Be](https://open.spotify.com/track/0l5LOqDNWUFERa0feGfIBb) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Mayor](https://open.spotify.com/artist/4ODXAxXIMXKS0CtMYftm2Q), [TyJamz](https://open.spotify.com/artist/042A4fev0Codegb3sJnCVV) | [SPARE THE ROD, SPOIL THE CHILD](https://open.spotify.com/album/53fyaQZoh6R4iElw2Uv1jZ) | 3:23 |
 | 26 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Switch Up](https://open.spotify.com/track/0qebBuycxYSVCtVbt94HMe) | [Will Ryte](https://open.spotify.com/artist/5kyrkoHcYHl2Hf74KB4fVw), [Lil Bobby](https://open.spotify.com/artist/4pf1mHN4rc9gfM5XlURlAk) | [Switch Up](https://open.spotify.com/album/2BibC3AZQSPJhSZQ2U7IJl) | 1:50 |
 | 50 | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/album/0kFq7Bvlr9eiE3Za6kx1Ub) | 2:52 |
 
-Snapshot ID: `MCwyNTdlOGViMTM5MWQ3NDIyZTY5NDUzOTY5ODU2N2U3NTYyYmM1ZWE3`
+Snapshot ID: `MCxiMjI0YWQ3YmQyY2NkZGVjZGZkODk3YjlmZmE1NGYyODlkNzA5MTI4`

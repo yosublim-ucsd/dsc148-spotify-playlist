@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=vFO09PVvRZ6RZuRt\_FlJNg">Nasty C</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,535 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,598 likes - 65 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 |
 | 2 | [Endless](https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Endless](https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU) | 3:00 |
 | 3 | [After 10](https://open.spotify.com/track/4FWgEvPWCqoy6e9EHXYPRU) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Solomon](https://open.spotify.com/album/3Yx3a2caBpL5Id5c6hkaru) | 3:43 |
-| 4 | [Ngilimele](https://open.spotify.com/track/1cuL0U39TgY6KLZ8yHgexM) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [King Talkzin](https://open.spotify.com/artist/7DQzmJMUQdAndKhnw7oFSg), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D) | [The Chosen](https://open.spotify.com/album/0jSP9AZiByh7VuWAsuFIRV) | 6:12 |
+| 4 | [Ngilimele](https://open.spotify.com/track/1cuL0U39TgY6KLZ8yHgexM) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D) | [The Chosen](https://open.spotify.com/album/0jSP9AZiByh7VuWAsuFIRV) | 6:12 |
 | 5 | [Wagana Nna](https://open.spotify.com/track/07q9hEnfseYj490yk084yA) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [2Point1](https://open.spotify.com/artist/6Z6xrqezBTUUDnCinhPwCO), [Gusba Banana](https://open.spotify.com/artist/0JQngxUcKlWPmUklxDidWb), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [Wagana Nna](https://open.spotify.com/album/5mJCmRosF5kUxGbs4LDhja) | 5:53 |
 | 6 | [Beautiful](https://open.spotify.com/track/0uWn41XAyeYza4CIubkoD4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Beautiful](https://open.spotify.com/album/0yiKEn4Xgl1M8HSlmTWNS2) | 4:10 |
 | 7 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 44 | [Azteca](https://open.spotify.com/track/5p6uVksbhRYPYoay4Dl5Bv) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Azteca](https://open.spotify.com/album/31ET3voJke5FdQe3RSllmN) | 3:22 |
 | 45 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 |
 | 46 | [Empty Room](https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Empty Room](https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl) | 3:04 |
-| 47 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 |
+| 47 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Kevin Ekofo](https://open.spotify.com/artist/67KgDYG0tKJHMXsxZme16p) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 |
 | 48 | [ANCESTRAL CALL](https://open.spotify.com/track/5HowYlbTc3sSkpqj1mhcZ7) | [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [ANCESTRAL CALL](https://open.spotify.com/album/3HFjhGuXbIuZIML0Q49h0l) | 2:46 |
 | 49 | [Sweet Relief](https://open.spotify.com/track/12BAxMbHzksw2xiq05gKtT) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:41 |
 | 50 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 64 | [Too Far Gone? \(Live at MetLife Stadium, East Rutherford, NJ – August 6, 2023\)](https://open.spotify.com/track/4P5M6lFGdjz58JJK6hYW8w) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Too Far Gone? \(Live at MetLife Stadium, East Rutherford, NJ – August 6, 2023\)](https://open.spotify.com/album/4fd8mqhFEDpn8sJitGqS8k) | 4:48 |
 | 65 | [Pounds & Dollars](https://open.spotify.com/track/3AZgT5PLKg2MvDZosiUbtK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Wouter Kellerman](https://open.spotify.com/artist/10Rq3Te2tos6wrd84zWxml) | [Pounds & Dollars](https://open.spotify.com/album/2Qo6netL2LkiOFuQlLCP0I) | 2:55 |
 
-Snapshot ID: `MCw2YTkwOWQyMDc1ZGRhZWY4ODNhOTQ2YzNmMTk4NzA5N2JmNzlhZjNh`
+Snapshot ID: `MCwwNjA3ZGVhNGI4YTE4MzQ1ZDNhZDgzZGFkMTE0YWNmODQxYjNhYzQ5`

@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Seen Hyun Hee\(신현희\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: An Shinae\(안신애\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-605 songs - 1 day 13 hr 4 min
+606 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Dreamcatcher 드림캐처](https://open.spotify.com/track/6Jx06CqjXLM7VYljqkCRcL) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Dreamcatcher 드림캐처](https://open.spotify.com/album/6OtpkxHRV3EGjzOgaPSmtl) | 3:29 | 2021-12-12 | 2022-07-20 |
 | [Dreaming me](https://open.spotify.com/track/48yWAEKHXC7HZumnUvoqoc) | [Hyeong Min](https://open.spotify.com/artist/46oTnauRqldja8Zxdxyjsi) | [Dreaming me](https://open.spotify.com/album/0gnOekyeHjuZwQF2yRkcms) | 4:14 | 2021-12-21 | 2022-07-23 |
 | [DREAMLIKE](https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [DREAMLIKE](https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ) | 3:35 | 2022-03-03 | 2022-04-18 |
-| [E\-RIDING](https://open.spotify.com/track/1qNiIzmrv8GllebodL6Dwf) | [Gila](https://open.spotify.com/artist/1DYmaars5bAW3OfddN9WjY) | [E\-RIDING](https://open.spotify.com/album/3MKMqj0WGHvM3QIXn8lNc8) | 3:30 | 2023-09-18 |  |
+| [E\-RIDING](https://open.spotify.com/track/1qNiIzmrv8GllebodL6Dwf) | [Gila](https://open.spotify.com/artist/1DYmaars5bAW3OfddN9WjY) | [E\-RIDING](https://open.spotify.com/album/3MKMqj0WGHvM3QIXn8lNc8) | 3:30 | 2023-09-18 | 2023-09-22 |
 | [Earth](https://open.spotify.com/track/5UqUMoymWBJD3bAKK7rGb2) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Earth](https://open.spotify.com/album/72W91ap1swKyQxPxhWIHgJ) | 4:35 | 2022-07-08 | 2022-08-05 |
 | [Eden](https://open.spotify.com/track/0o7DpobP2DG9TCCPlcnloZ) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Eden](https://open.spotify.com/album/7DKWTFyONUmqYSyDFA2D7V) | 3:08 | 2022-03-31 | 2022-04-09 |
 | [Elena Coda \(feat\. Elaine\)](https://open.spotify.com/track/2f7C47RCGc10UHfK1dsgun) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [New Edition 34](https://open.spotify.com/album/6V3qsD3AcGwyXtDxcG9fAj) | 4:23 | 2021-12-21 | 2022-07-27 |
@@ -407,7 +407,7 @@
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-03-09 | 2022-07-29 |
 | [Process](https://open.spotify.com/track/6waS97d1u64uuKTKlCQZUh) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [H:Sean](https://open.spotify.com/artist/7IBTi3TEXXZXjXEIQDnKuG) | [Seoul Vibes, Pt\. 2](https://open.spotify.com/album/305IlQABjn12yFvGv1Uuc1) | 2:35 | 2022-03-31 | 2022-04-11 |
 | [Pseudoscience \(feat\. Chang Kiha\)](https://open.spotify.com/track/4ivKqBkDfSRYc3H2DBdBW3) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Pseudoscience \(feat\. Chang Kiha\)](https://open.spotify.com/album/3leNJ19xRMO5HyTccjA5ce) | 3:48 | 2022-06-29 | 2022-07-09 |
-| [Punchdrunklovesong](https://open.spotify.com/track/31LkUlLS286dpY3LbAxRbg) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Cake CAKE](https://open.spotify.com/album/2iBGScS4eDpFVdPqZAFNhZ) | 1:21 | 2023-08-24 | 2023-09-19 |
+| [Punchdrunklovesong](https://open.spotify.com/track/31LkUlLS286dpY3LbAxRbg) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Cake CAKE](https://open.spotify.com/album/2iBGScS4eDpFVdPqZAFNhZ) | 1:21 | 2023-08-24 |  |
 | [Pure 투명](https://open.spotify.com/track/7cKU8ryCKEsxp9pA2A9It8) | [youngYEONG 영영](https://open.spotify.com/artist/2N5R9uumkNNHWPbeWlSSSW) | [Pure 투명](https://open.spotify.com/album/5jorT0muhGjTlZ1O2xHXdk) | 3:59 | 2022-03-07 | 2022-07-09 |
 | [Puzzle](https://open.spotify.com/track/5KqRRrD2Q9S0WNRFWssDKm) | [MEENA](https://open.spotify.com/artist/4qLPEVEbuZwDd8C8FDPpQn) | [Puzzle](https://open.spotify.com/album/0resjwv5sf8g5qblLITBGp) | 3:29 | 2022-03-31 | 2022-04-14 |
 | [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2021-12-21 | 2022-05-11 |
@@ -423,6 +423,7 @@
 | [Regret of sigh](https://open.spotify.com/track/3MrEZH39g8BiIAkFo3FkQj) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:21 | 2021-12-12 | 2022-05-16 |
 | [reminiscence](https://open.spotify.com/track/2KAtg9W0pKiJh94jaQ5jDT) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [reminiscence](https://open.spotify.com/album/472g6HVeObaEweJ5RyNRtX) | 4:52 | 2021-12-21 | 2022-05-19 |
 | [Reminisces of A 10\-year\-old Journal](https://open.spotify.com/track/5uXV40HNeBMOvz7v3g6I5w) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Eco Bridge](https://open.spotify.com/artist/7yBoreZbMa2ljEwG76ZmNp) | [The Way You Keep Friendship \- SSaW Tribute Vol.5](https://open.spotify.com/album/10chjryncMprk7PAjttH67) | 4:36 | 2022-03-31 | 2022-04-19 |
+| [Respect](https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt) | [Shinae An](https://open.spotify.com/artist/5tepoFUu7KqTFW7GLufuQQ) | [Respect](https://open.spotify.com/album/3oikuOBybmjw4rW7SBFWwD) | 3:01 | 2023-09-22 |  |
 | [Right Time and Right Place](https://open.spotify.com/track/3nYIZUYzPEgyGNjhQZvlx9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Chocolate,Pt.10\(Original Television Soundtrack\)](https://open.spotify.com/album/0YYLtuin5Xf0MB1vXHNtpD) | 3:53 | 2022-03-31 | 2022-04-11 |
 | [Rocket](https://open.spotify.com/track/1UZFUBCPJgHqLXgIVOfTGO) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Rocket](https://open.spotify.com/album/2ZoEBlx7O98lArGmUgfNof) | 3:15 | 2021-12-21 | 2022-04-27 |
 | [Roller Coaster](https://open.spotify.com/track/5JQMzYEIZsakVeVq7kVMub) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Pacemaker](https://open.spotify.com/album/2lVYVVjbyDmlSZeBjSnAfr) | 3:24 | 2022-04-12 | 2022-04-19 |
@@ -563,7 +564,7 @@
 | [Where are you](https://open.spotify.com/track/6j0CMk5tIEl57UuO9PrLpX) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Traveller, No.101](https://open.spotify.com/album/1h8ZiPrGqNQzyJVBSj6X7e) | 3:54 | 2021-12-21 | 2022-07-26 |
 | [where it hurts](https://open.spotify.com/track/15QOQ6K93vx2azVqcSfSeK) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [where it hurts](https://open.spotify.com/album/1CR5Ron4gj2R3cbSXf6GFV) | 3:21 | 2022-03-31 | 2022-04-04 |
 | [white](https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [wintersleep](https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg) | 3:00 | 2023-01-10 | 2023-02-16 |
-| [White night](https://open.spotify.com/track/7oSP7hAMuF1R31jp8HnkfH) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [White night](https://open.spotify.com/album/2Fqe1wd9tWMAWNye43ZZKW) | 3:37 | 2023-09-15 |  |
+| [White night](https://open.spotify.com/track/7oSP7hAMuF1R31jp8HnkfH) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [White night](https://open.spotify.com/album/2Fqe1wd9tWMAWNye43ZZKW) | 3:37 | 2023-09-15 | 2023-09-22 |
 | [Who’s with me?](https://open.spotify.com/track/2YEFyXyF1zG78qwLcZrHAg) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [Who’s with me?](https://open.spotify.com/album/0gwUIHdPdLUJLPtWI4ZLQA) | 2:58 | 2022-04-12 | 2022-04-17 |
 | [Willow Tree](https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Willow Tree](https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B) | 4:39 | 2022-09-05 | 2022-09-21 |
 | [Wings](https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC) | 3:15 | 2021-12-12 |  |

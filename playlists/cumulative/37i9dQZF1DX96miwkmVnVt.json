@@ -302,7 +302,7 @@
     {
       "album": {
         "name": "Skinty Fia",
-        "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
+        "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
       },
       "artists": [
         {
@@ -313,6 +313,24 @@
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 321520,
+      "name": "Nabokov",
+      "url": "https://open.spotify.com/track/3bdalk7jcrFL1dEs2vCm0q"
+    },
+    {
+      "album": {
+        "name": "Skinty Fia",
+        "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
       "duration_ms": 321520,
       "name": "Nabokov",
       "url": "https://open.spotify.com/track/4gCtmRwwRG5fPVtGJkwYDC"

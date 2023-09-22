@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b Olivia Rodrigo in cover!",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b Claudym in cover!",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 159958,
       "name": "**** (Bravi A Perderci)",
       "url": "https://open.spotify.com/track/0t7C6JJjqfNPtxZ1KbpaoB"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 156000,
       "name": "BIPOLARE II",
       "url": "https://open.spotify.com/track/1vq9hFEWig0osylK5rwlsk"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 155192,
       "name": "CHIAMAMI",
       "url": "https://open.spotify.com/track/6CjZPtMBuQPBKYj2Sz2ObT"
@@ -7182,7 +7182,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 156153,
       "name": "MUSCOLO",
       "url": "https://open.spotify.com/track/1f5SIsPiZ3a6nDmAAFJ8sM"
@@ -7496,7 +7496,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 184031,
       "name": "NON LO SO X4",
       "url": "https://open.spotify.com/track/1UzR9fzj03QX9QGVpe0UTt"
@@ -7770,7 +7770,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 189880,
       "name": "Notes From A Wrist",
       "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
@@ -7956,6 +7956,28 @@
       "duration_ms": 197080,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/4wUHUOYICleu6CNNqGDsWp"
+    },
+    {
+      "album": {
+        "name": "omg, lol",
+        "url": "https://open.spotify.com/album/08DEirI7Hu33vxLoVZUzIz"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        },
+        {
+          "name": "Sbale",
+          "url": "https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155065,
+      "name": "omg, lol",
+      "url": "https://open.spotify.com/track/5klZLG9n6iZ9GPpEil9GwV"
     },
     {
       "album": {
@@ -8582,6 +8604,28 @@
       "duration_ms": 189428,
       "name": "Posso Tenerti Con Me",
       "url": "https://open.spotify.com/track/0SpalTBYUi9tZ66Ack8GcT"
+    },
+    {
+      "album": {
+        "name": "POV",
+        "url": "https://open.spotify.com/album/6QUuzX73hnDFPNXtsmoAAh"
+      },
+      "artists": [
+        {
+          "name": "YTAM",
+          "url": "https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U"
+        },
+        {
+          "name": "Sami River",
+          "url": "https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "POV",
+      "url": "https://open.spotify.com/track/5mQFiACRHdBVugZX0QXwfS"
     },
     {
       "album": {
@@ -11732,7 +11776,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 164075,
       "name": "Tutto Normale",
       "url": "https://open.spotify.com/track/76zioMf7YolEXbCANgGBms"

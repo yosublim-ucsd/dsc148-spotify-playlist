@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyvClYigbMm.md) - [plain]
 
 > House Music legend S\-Man, aka <a href="spotify:artist:1HT9k1ZSUL9IczSstOAgWJ">Roger Sanchez</a>, takes us on a ride with his latest DJ set.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,103 likes - 14 songs - 59 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,117 likes - 14 songs - 59 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyvClYigbMm.md) - [plain]
 | 13 | [Jack Your Soul \- Mixed](https://open.spotify.com/track/6pfhUxMPHCi1Xg4jwn4aYL) | [Horatio](https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD) | [Jack Your Soul \(Mixed\)](https://open.spotify.com/album/4LJpHQstda1CYu8VySko97) | 2:47 |
 | 14 | [No Victim \- Mixed](https://open.spotify.com/track/0ezGOvVFzRIdbWQrfE8ywo) | [NIGHTLAB](https://open.spotify.com/artist/2MGVPPnJFQdzBGVaD0bLWf) | [No Victim \(Mixed\)](https://open.spotify.com/album/0EvLnqXuefs6yVIuQ8iEO7) | 3:49 |
 
-Snapshot ID: `MCw0NjljMTE0NTg3YzMyODU0MTlmNjQzNTcxZTc4N2ZhMDNjNWVmZjM0`
+Snapshot ID: `MCxhYWM3ODk3NGRiMjBkNDI1ODA3ZDhhMjkyNTBmODlkZWFlMDE1NzFh`

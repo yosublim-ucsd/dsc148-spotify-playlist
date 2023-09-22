@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Arco.
+> Lo mejor del rock de aquí, como Mikel Erentxun.
 
-329 songs - 21 hr 24 min
+331 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [ARRÁNCAME EL ALMA](https://open.spotify.com/track/2rGbtFJsnWtY0jKl868YYx) | [Linze](https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq) | [ARRÁNCAME EL ALMA](https://open.spotify.com/album/3EFNUH21C9xipxUk1VfZOe) | 3:04 | 2023-05-25 | 2023-06-02 |
 | [Aullando en el desierto](https://open.spotify.com/track/41AWQymPR0w55FSm7BXHY6) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Aullando en el desierto](https://open.spotify.com/album/32aN325jALV3HzwipqtBP7) | 3:22 | 2023-06-01 | 2023-06-16 |
 | [Aunque el Infierno Se Congele](https://open.spotify.com/track/0H7HxKm2szWXhI3JBWATta) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Aunque el Infierno Se Congele](https://open.spotify.com/album/6vMDqzQYAO3cqbLRPTGGoC) | 3:10 | 2023-02-16 | 2023-03-03 |
-| [Aunque estemos muertos](https://open.spotify.com/track/3uO3mTwDGHrarie8K4tNMu) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Aunque estemos muertos](https://open.spotify.com/album/2dBTJbTVyoXU0SbJHbd9ZR) | 4:42 | 2023-09-14 |  |
+| [Aunque estemos muertos](https://open.spotify.com/track/3uO3mTwDGHrarie8K4tNMu) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Aunque estemos muertos](https://open.spotify.com/album/2dBTJbTVyoXU0SbJHbd9ZR) | 4:42 | 2023-09-14 | 2023-09-22 |
 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 | 2022-05-19 | 2023-04-27 |
 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 | 2022-05-26 |  |
 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 | 2023-08-17 |  |
@@ -79,7 +79,7 @@
 | [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 | 2022-05-19 |  |
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-27 | 2023-05-19 |
 | [Creo que me he perdido algo](https://open.spotify.com/track/75DOPnTP5GWEw2Xn9QaCe9) | [Jose Ignacio Lapido](https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8) | [Creo que me he perdido algo](https://open.spotify.com/album/0NeBPZBBV8okNyKrn6O8ic) | 4:39 | 2023-02-16 | 2023-03-03 |
-| [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 |  |
+| [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 | 2023-09-22 |
 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 | 2022-05-26 | 2022-11-25 |
 | [Cuando Canta El Gallo](https://open.spotify.com/track/6JyB7XLBfYQAyp07Y5wUar) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [El Gallo](https://open.spotify.com/album/5mfgieJL4NXBDAcKotlI7b) | 2:44 | 2023-04-27 | 2023-05-05 |
 | [Cuando Satán vino a verme](https://open.spotify.com/track/04Usmiaxwnz43gRCOoIkuY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Cuando Satán vino a verme](https://open.spotify.com/album/7wHB19pX2vDcWqajgVYc70) | 3:07 | 2023-05-25 | 2023-06-16 |
@@ -190,6 +190,7 @@
 | [Lady Madrid](https://open.spotify.com/track/5VJOeEGEhphuvtGZH0gbW9) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Los Nº1 De 40 Principales 2010](https://open.spotify.com/album/5PIoj4o0tZSIQjoS46BeLD) | 3:11 | 2022-06-30 | 2022-07-06 |
 | [Lady Madrid](https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Aviones](https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH) | 3:11 | 2022-07-21 | 2023-02-17 |
 | [Las Flores](https://open.spotify.com/track/2pgdMqyq3byWFb2BGHUq4c) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Las Flores](https://open.spotify.com/album/7ErRhhztsuwfajD1Ad15a2) | 4:07 | 2022-05-19 | 2022-06-10 |
+| [Lejos de las leyes de los hombres \- Versión 2023](https://open.spotify.com/track/2bAUvzIsgE66UmGqADyGQg) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Lejos de las leyes de los hombres \(Versión 2023\)](https://open.spotify.com/album/7u6hWylxNJin7RPnuTsxrI) | 3:21 | 2023-09-21 |  |
 | [Letras Absurdas](https://open.spotify.com/track/5wOxmAdbz3ihLAiHxxX7ts) | [Tocando Techo](https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo) | [Letras Absurdas](https://open.spotify.com/album/1fIyFZF0h2chYBrqXg7cIe) | 4:04 | 2023-05-11 | 2023-06-09 |
 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 | 2022-05-19 |  |
 | [Lo que nunca te dije](https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Lo que nunca te dije](https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID) | 2:40 | 2022-08-25 | 2022-10-28 |
@@ -284,6 +285,7 @@
 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 | 2022-06-09 | 2023-09-08 |
 | [Se acaba el baile](https://open.spotify.com/track/2Ne8blsOJHicHczTEAE318) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Los potros del tiempo](https://open.spotify.com/album/2wq6iSLc1qwarbRghaaKJY) | 3:39 | 2022-12-22 | 2023-04-14 |
 | [Serenade](https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 3:54 | 2022-05-19 |  |
+| [Si no es por ti](https://open.spotify.com/track/1oIBBun5CFK7A2QGJcLpQP) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC) | [Si no es por ti / Ladridos en el pecho](https://open.spotify.com/album/0vw3x0KARIc9rgGj8u6p1U) | 3:37 | 2023-09-21 |  |
 | [Si Quieres Que Nos Conozcamos Mejor](https://open.spotify.com/track/6mjOb7E0QIDuQLGlYy0ptU) | [JJ Fuentes](https://open.spotify.com/artist/3LKonBMDeuBrlNopNw6cld), [Álvaro Urquijo](https://open.spotify.com/artist/0yiwWDdqEuLc99kyfJgOEP), [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Si Quieres Que Nos Conozcamos Mejor](https://open.spotify.com/album/1mY8WUu4K7VVNsAPVLIbNE) | 3:53 | 2023-06-29 | 2023-07-14 |
 | [Si te vas...](https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Material defectuoso](https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua) | 8:36 | 2022-05-19 |  |
 | [Si Tú Piensas en Mí](https://open.spotify.com/track/2J9tqG6nPJ4LmcXEFnn1UF) | [Vicky Gastelo](https://open.spotify.com/artist/6oIeX7RcNGYp83pCtlNPqb), [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [Si Tú Piensas en Mí](https://open.spotify.com/album/1bwhVhto3erSoGExWt7RhR) | 3:31 | 2022-05-19 | 2022-06-10 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 59864,
+  "num_followers": 59902,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTgxYjk0ODAzMzg3MzRjOTBkZjA3MjQ1Y2JjOGMxZDdjZWE5ZmNj",
+  "snapshot_id": "MCwyZmZlOTdiMzRiNDc1ZDY2ZWZkNzhmOTRjOGU3YWFiMDlkOGYyOTc5",
   "tracks": [
     {
       "added_at": "2023-09-15 03:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Nacieron para Triunfar, Vol. 1",
-        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
+        "name": "Ella, La Que No Quiso",
+        "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
       },
       "artists": [
         {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
         }
       ],
-      "duration_ms": 273066,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/6hVSRMIzwSJ5jBXJyk1oKd"
+      "duration_ms": 275676,
+      "name": "Ya Sup\u00e9rame",
+      "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -623,34 +623,34 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Ella, La Que No Quiso",
-        "url": "https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj"
+        "name": "Nacieron para Triunfar, Vol. 1",
+        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
       "artists": [
         {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
         }
       ],
-      "duration_ms": 275676,
-      "name": "Ya Sup\u00e9rame",
-      "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
+      "duration_ms": 273066,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/6hVSRMIzwSJ5jBXJyk1oKd"
     },
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "La Pagar\u00e1s",
-        "url": "https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz"
+        "name": "Fue Dif\u00edcil",
+        "url": "https://open.spotify.com/album/0sdLIL3OnkBlM48PzdSSGW"
       },
       "artists": [
         {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+          "name": "Maria Jose Quintanilla",
+          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
         }
       ],
-      "duration_ms": 232190,
-      "name": "La Pagar\u00e1s",
-      "url": "https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky"
+      "duration_ms": 224992,
+      "name": "FUE DIFICIL",
+      "url": "https://open.spotify.com/track/2aE0HrYHGbyXpgOnMY03Id"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "La Pagar\u00e1s",
+        "url": "https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 232190,
+      "name": "La Pagar\u00e1s",
+      "url": "https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Siempre en Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 311016,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Fue Dif\u00edcil",
-        "url": "https://open.spotify.com/album/0sdLIL3OnkBlM48PzdSSGW"
-      },
-      "artists": [
-        {
-          "name": "Maria Jose Quintanilla",
-          "url": "https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg"
-        }
-      ],
-      "duration_ms": 224992,
-      "name": "FUE DIFICIL",
-      "url": "https://open.spotify.com/track/2aE0HrYHGbyXpgOnMY03Id"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Bil\u00fa Bil\u00fa",
+        "url": "https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Bil\u00fa Bil\u00fa",
+      "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "EN HONOR A NUESTRO HERMANO",
         "url": "https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Nacieron para Triunfar, Vol. 1",
-        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
-      },
-      "artists": [
-        {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Por Debajo del Agua",
-      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Vuelve la Mezcla Perfecta",
         "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Bil\u00fa Bil\u00fa",
-        "url": "https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW"
+        "name": "Nacieron para Triunfar, Vol. 1",
+        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
       "artists": [
         {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Bil\u00fa Bil\u00fa",
-      "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
+      "duration_ms": 279840,
+      "name": "Por Debajo del Agua",
+      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Somos Infieles",
+        "url": "https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        }
+      ],
+      "duration_ms": 199527,
+      "name": "Somos Infieles",
+      "url": "https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Palomita de Alas Blancas",
         "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Somos Infieles",
-        "url": "https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        }
-      ],
-      "duration_ms": 199527,
-      "name": "Somos Infieles",
-      "url": "https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
         "name": "Un Lobo Est\u00e1 Llorando",
         "url": "https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 281986,
       "name": "El Buque Con Mas Potencia",
       "url": "https://open.spotify.com/track/0g31ngzmsfUgvAjE1e0nQ4"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Siempre Villanos",
         "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 220203,
       "name": "Maldita Sea la Primera Vez",
       "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Tornado Ranchero",
-        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
-      },
-      "artists": [
-        {
-          "name": "Tornado Ranchero",
-          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
+        "name": "Tornado Ranchero",
+        "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
+      },
+      "artists": [
+        {
+          "name": "Tornado Ranchero",
+          "url": "https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
         "name": "Le Canto a Mi Pueblo",
         "url": "https://open.spotify.com/album/5BZjYcqsuK3yQITQJY4V47"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 208653,
       "name": "Caballo de Patas Blancas",
       "url": "https://open.spotify.com/track/5J81nFtP3zPfcY1u8XIbKy"
-    },
-    {
-      "added_at": "2023-09-15 03:00:00",
-      "album": {
-        "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
-      },
-      "artists": [
-        {
-          "name": "Los Charros de Luchito y Rafael",
-          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
-        }
-      ],
-      "duration_ms": 684016,
-      "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2023-09-15 03:00:00",
       "album": {
-        "name": "Galantes y Caballeros",
-        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
+        "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
       },
       "artists": [
         {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+          "name": "Los Charros de Luchito y Rafael",
+          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
         }
       ],
-      "duration_ms": 152816,
-      "name": "Galantes y Caballeros",
-      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
+      "duration_ms": 684016,
+      "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF"
     },
     {
       "added_at": "2023-09-15 03:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 206729,
       "name": "Cartas Marcadas",
       "url": "https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb"
+    },
+    {
+      "added_at": "2023-09-15 03:00:00",
+      "album": {
+        "name": "Galantes y Caballeros",
+        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 152816,
+      "name": "Galantes y Caballeros",
+      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
     },
     {
       "added_at": "2023-09-15 03:00:00",

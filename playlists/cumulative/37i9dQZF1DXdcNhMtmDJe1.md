@@ -4,12 +4,13 @@
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-72 songs - 7 hr 1 min
+73 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['S Wonderful](https://open.spotify.com/track/1swSMpXMnvsiofT6fwW4bc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [20 \#1's: Jazz Ballads](https://open.spotify.com/album/2F6MDJqFjeTmJFbbTGrYP7) | 3:28 | 2022-08-05 | 2022-11-13 |
-| ['S Wonderful](https://open.spotify.com/track/4qrNDqLkVXz7t5fJnGqr6B) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt) | 3:31 | 2022-08-05 |  |
+| ['S Wonderful](https://open.spotify.com/track/4AlPwIoAo5TzpQQ6b8KwBv) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 3:31 | 2022-08-05 |  |
+| ['S Wonderful](https://open.spotify.com/track/4qrNDqLkVXz7t5fJnGqr6B) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/2vz9bOelnO5EoDBPkzEJjt) | 3:31 | 2022-08-05 | 2023-09-22 |
 | [2nd Rhapsody](https://open.spotify.com/track/1ckFQ0OHFXmtDqIBp1SCUV) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Orion Weiss](https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations](https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5) | 15:49 | 2022-08-05 |  |
 | [3 Preludes : Allegro Ben Ritmato E Deciso](https://open.spotify.com/track/2e0YXuNYzhUb9dKpBnGmWq) | [Leon Bates](https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin: 6 Songs / Corea: Children's Songs](https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3) | 1:18 | 2022-08-05 |  |
 | [3 Preludes : Allegro Ben Ritmato E Deciso](https://open.spotify.com/track/3TChFoNvKras9uQkimzK8R) | [Leon Bates](https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin: 6 Songs / Corea: Children's Songs](https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3) | 1:26 | 2022-08-05 |  |

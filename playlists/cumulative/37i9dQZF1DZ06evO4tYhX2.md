@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-79 songs - 6 hr 52 min
+80 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Grande Y Fuerte](https://open.spotify.com/track/03sCmgb8PsB4vOH1jrkCGS) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 3:20 | 2022-09-14 | 2022-10-15 |
 | [Grande Y Fuerte](https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:58 | 2022-09-14 | 2022-12-04 |
 | [Hay Libertad](https://open.spotify.com/track/1xnB5yt12jxLQgvebvPfVd) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 1:38 | 2022-12-03 |  |
+| [Holy Forever \- Español](https://open.spotify.com/track/0ZxUHxwz0iPK0wnTCetbss) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Holy Forever \(Español\)](https://open.spotify.com/album/7uhv3AlIkn9PgQ4W1CsSLl) | 5:17 | 2023-09-21 |  |
 | [Impresionante](https://open.spotify.com/track/0z9vOkxQ0tRxGroYHGOc5b) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Impresionante](https://open.spotify.com/album/1sATIq5oVhLxAsV2wW7Xo2) | 5:36 | 2022-09-14 |  |
 | [Increíble \(En Vivo\)](https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 6:35 | 2022-09-14 |  |
 | [Jesucristo Basta](https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [X SIEMPRE](https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW) | 5:49 | 2022-10-01 |  |

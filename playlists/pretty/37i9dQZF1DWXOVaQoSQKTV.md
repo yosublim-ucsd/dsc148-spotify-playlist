@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,377 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,409 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 9 | [Different World](https://open.spotify.com/track/7o0fALdNJ7MkINdXXacXiQ) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Wonder](https://open.spotify.com/album/2QBn4wyavrUjyOLefLyaQP) | 2:16 |
 | 10 | [Waiting](https://open.spotify.com/track/7JfqyQ8JSRve0oXhbH1Y8m) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Waiting](https://open.spotify.com/album/3dDEzizNaiMilGP4dHFNUn) | 2:39 |
 | 11 | [Ride With Me](https://open.spotify.com/track/28Ja9ZGm4qFPSmGi8b71OF) | [Harry McNally](https://open.spotify.com/artist/4TP6ZE4LzdGQc9nhyKk77M) | [Ride With Me](https://open.spotify.com/album/0fjYZnmkdst3ICcKIaiES7) | 3:02 |
-| 12 | [Design](https://open.spotify.com/track/5t1d6029F8BAx6gtAZt8Hc) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [EP III](https://open.spotify.com/album/4DAEmnrLvgEYRWOVuAbqOn) | 3:04 |
+| 12 | [Design](https://open.spotify.com/track/74afk4DycIn2JmRlrHfMN9) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Design](https://open.spotify.com/album/2q3BVgkIsKlbBlud2NVVQQ) | 3:04 |
 | 13 | [Floating \- Kabul Fire RMX](https://open.spotify.com/track/5TvjvDPTBv2DDao0dVCReQ) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK), [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt), [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k) | [Reality Check](https://open.spotify.com/album/7wddEpL1aMf3LFdzt85AcG) | 2:40 |
 | 14 | [Touch](https://open.spotify.com/track/6zsdC33RK9BtsSx7z5I0kq) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Touch](https://open.spotify.com/album/7Bve9F4S83PYWePjwok3E2) | 3:57 |
 | 15 | [Sideways](https://open.spotify.com/track/0ABYFucbXXVgHuIbOP1c7l) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Love Is Yours](https://open.spotify.com/album/5dDZ1oTb2lW1TXCogqbIJO) | 2:51 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCwxYWY5MDM1M2VmYjg1ZGVkOGM4NDdmZTAyNWMzNTkyYWUzYjczOGVk`
+Snapshot ID: `MCwyNjRkMjI4NjE4Nzg0MjQ1ZDNhN2IwZjIyMzE3NjE3N2Y1YmM5ZjRj`

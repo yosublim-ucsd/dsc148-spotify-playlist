@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Blondshell.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,509 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,557 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 8 | [Pale Blue](https://open.spotify.com/track/7uOINyletKxpHrSiWehjEy) | [All Things Blue](https://open.spotify.com/artist/01sLjLNQxogo8tXiVnuXty) | [Pale Blue](https://open.spotify.com/album/21tRaGSWiv8i1d5PSQkBEr) | 3:55 |
 | 9 | [natural devotion 2](https://open.spotify.com/track/126S4GL29vBOGJBcgIIvBu) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [tapeworm / natural devotion 2](https://open.spotify.com/album/4TJBJOEp2oEQnjz30ZECfO) | 3:12 |
 | 10 | [exit girl](https://open.spotify.com/track/6nbfnqVbTWYfgscVHlgTR3) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [exit girl](https://open.spotify.com/album/39yddITr5Zid1HdG611km6) | 3:26 |
-| 11 | [Cheetah](https://open.spotify.com/track/3atT7O1PglLCaUQMpiiYsY) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Cheetah](https://open.spotify.com/album/1mOazGOQ77R9YHSjKNq4RF) | 3:02 |
+| 11 | [Cheetah](https://open.spotify.com/track/2lSYQyP8LYXyfSp6S1kJu0) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Cheetah](https://open.spotify.com/album/6cpyeXYrpyzPI1VwOkA8Jo) | 3:02 |
 | 12 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |
 | 13 | [Around Around Around](https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Around Around Around](https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P) | 5:21 |
 | 14 | [666+](https://open.spotify.com/track/4OLQ00YD6WUVKAaXjtlZtL) | [The Haunting](https://open.spotify.com/artist/09uUKWMhRoP7QbPWdgiFoC) | [SUICIDE SOCIAL](https://open.spotify.com/album/6xgyZGvhcATgq08xZkYdQx) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
 | 100 | [bleed](https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [bleed](https://open.spotify.com/album/5g7nVEocQGj2yBKJcWVgIX) | 2:57 |
 
-Snapshot ID: `MCxjYTBhOTc2ODgyNzk2MWM5NTQ3MDZiZTA3ZGY2OTMyMTIxNDZkMTEw`
+Snapshot ID: `MCw2ZTI3YzcxZGZlODBjZWFiNjg1YzM2NmVlZjZiMTRlODhjOWZlOGIw`

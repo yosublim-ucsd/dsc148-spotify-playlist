@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 
 > Downtempo and ambient electronic music\. Feel the undertones 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,499 likes - 80 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,575 likes - 80 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 19 | [Eternal Now](https://open.spotify.com/track/659q1q6hjMc0w5cnnmOjpF) | [Planète](https://open.spotify.com/artist/6Vu5ri1skVRQ5jh8Tkytri) | [Eternal Now EP](https://open.spotify.com/album/4AKlnbX0cm6fssFPvemehQ) | 6:23 |
 | 20 | [Outside the City of God \(Augustine wept\)](https://open.spotify.com/track/3V6whOlDWNecNbvxi31HaT) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Outside The City of God \(Augustine wept\)](https://open.spotify.com/album/1v1LSEseSOJgoffMk8Ogiy) | 4:02 |
 | 21 | [Spiritual Delusion](https://open.spotify.com/track/0FrBgwr9QBk0mchhWHXwu1) | [D\. Tiffany](https://open.spotify.com/artist/2LMaARRMktW5O2umBFaQUu), [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs) | [Edge Of Innocence](https://open.spotify.com/album/4gQtuhnk16SeSYt1UQhhzi) | 7:13 |
-| 22 | [Ohm Alone](https://open.spotify.com/track/23UrP3n6rZ5n2tPINsm601) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Second Message](https://open.spotify.com/album/4dLy0cz5saZrAdeBizJVL4) | 6:20 |
+| 22 | [Ohm Alone](https://open.spotify.com/track/7yDYbMJcTr1EuWrirvZ9r6) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Second Message](https://open.spotify.com/album/0h8Kl7DUniHzGyDAFVpntL) | 6:20 |
 | 23 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
 | 24 | [Spirit Distant](https://open.spotify.com/track/0laRriD6tnqxeDzYbRpTPS) | [Body Corp](https://open.spotify.com/artist/47kJiM0ksgZti3nuMq1opC) | [Second Land](https://open.spotify.com/album/60mzOZU6HTijvkcLAVIEl1) | 4:53 |
 | 25 | [The Shore](https://open.spotify.com/track/47YOjjaHnhEBLlS1lVjgna) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [A Mirror Holds The Sky](https://open.spotify.com/album/6rK7tdoiflX8xlqZMHAhWV) | 7:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 79 | [On the Shore](https://open.spotify.com/track/1J2ObShjzqTOe2eJzYg0s9) | [Bluetung](https://open.spotify.com/artist/79WPKJgJwIiymK2BNhcrCd) | [Eternity by the Stars](https://open.spotify.com/album/5ALpewfvkyuuKT12Y8cImv) | 7:10 |
 | 80 | [Heavenly Data](https://open.spotify.com/track/6oZdI01WQrUH4JOikTZ7MX) | [MTLDA](https://open.spotify.com/artist/3HNFNsVoyPblJOCLPGrjVy) | [God Is a DJ](https://open.spotify.com/album/6ph5yvbPRjMxrO81UVCSzy) | 5:13 |
 
-Snapshot ID: `MCw1NjM0MDhhODAxNTAxMDUxZTY4YzRlNzkwMGZhZjRjMzU4MjJlOThj`
+Snapshot ID: `MCwxNWExZjEyYWE2ZDQxYjQxZDhhYWRhODNjYTVlNjFkMWIzYzE5OWU0`

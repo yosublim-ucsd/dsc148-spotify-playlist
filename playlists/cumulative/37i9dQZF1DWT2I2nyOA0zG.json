@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 150280,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 231360,
       "name": "ADAUGO",
       "url": "https://open.spotify.com/track/6lxai3ZSpU2UctunwrCjvp"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 186947,
       "name": "All My Days",
       "url": "https://open.spotify.com/track/052blcya1EJNErdYq2HHbA"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 211200,
       "name": "Ayele",
       "url": "https://open.spotify.com/track/0x9boesXCFnB1EJflJObae"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 164977,
       "name": "Different",
       "url": "https://open.spotify.com/track/0lDhpQ8KUBcX8w4ilY1UPs"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 192108,
       "name": "Guava Rose",
       "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 217748,
       "name": "Laleyi (feat. Joeboy)",
       "url": "https://open.spotify.com/track/3rLZaEyASUsJzxHMa2uL8B"
@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 160000,
       "name": "Make it right",
       "url": "https://open.spotify.com/track/3louoVGeMZcQTIraYJUFZe"
@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 161262,
       "name": "Olorun Maje",
       "url": "https://open.spotify.com/track/63asnqY4DG3bbdew7ioJBE"
@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
@@ -4992,6 +4992,32 @@
       "duration_ms": 203735,
       "name": "Yes I Do",
       "url": "https://open.spotify.com/track/1ggByUxl4VQJFOaDYWEMf7"
+    },
+    {
+      "album": {
+        "name": "Kwa Ntliziyo Ngise",
+        "url": "https://open.spotify.com/album/47gLMWlhmz42dBBAnJ6PfN"
+      },
+      "artists": [
+        {
+          "name": "Gaba Cannal",
+          "url": "https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo"
+        },
+        {
+          "name": "George Lesley",
+          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528816,
+      "name": "Yimpi Lena",
+      "url": "https://open.spotify.com/track/1GNEGb0wifyx2ohbjbBOyU"
     },
     {
       "album": {

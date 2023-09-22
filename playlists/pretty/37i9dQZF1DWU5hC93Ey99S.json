@@ -1,13 +1,29 @@
 {
   "description": "all the stutter, all the feels. Cover: Babsy.",
-  "num_followers": 21612,
+  "num_followers": 21730,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjRiZTc4ZTQ3MmY3NGI2ZDY2YmIyNGIxOGY1NWY1MDllOGVhNmQ4",
+  "snapshot_id": "MCxhYjE3YjE4OTFiOTNiN2QyNTIzYjQ2MGU0ZjJlZDNkNzc2MzBiNTkz",
   "tracks": [
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn"
+    },
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
@@ -65,6 +81,30 @@
       "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        }
+      ],
+      "duration_ms": 168398,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd"
+    },
+    {
       "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "La le\u00e7on particuli\u00e8re",
@@ -117,6 +157,22 @@
       "url": "https://open.spotify.com/track/2SbAoNQVqVkIuFTFV94Bdm"
     },
     {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+    },
+    {
       "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Mysoul",
@@ -131,6 +187,22 @@
       "duration_ms": 225142,
       "name": "Mysoul",
       "url": "https://open.spotify.com/track/6ntoVaDBf5Hc6cOIYBcaJg"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "i can see",
+        "url": "https://open.spotify.com/album/6fFuKJiLFRVDzEsQAxrD5A"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "duration_ms": 229083,
+      "name": "i can see",
+      "url": "https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -193,20 +265,20 @@
       "url": "https://open.spotify.com/track/2bvUB6bUZdUqLWAEtK4vMs"
     },
     {
-      "added_at": "2023-09-14 22:00:00",
+      "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "ur holding me back",
-        "url": "https://open.spotify.com/album/3HJK8Y3GSquuTgytqDhyQV"
+        "name": "dublin",
+        "url": "https://open.spotify.com/album/0Z8ZczWeNpTRVIYTzlZVt5"
       },
       "artists": [
         {
-          "name": "Midnight Dance Party",
-          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+          "name": "Kharfi",
+          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
         }
       ],
-      "duration_ms": 204029,
-      "name": "ur holding me back",
-      "url": "https://open.spotify.com/track/6lLqigWFdVRAtPSp9CkTHe"
+      "duration_ms": 180000,
+      "name": "dublin",
+      "url": "https://open.spotify.com/track/6mEGBUUubG4YZ8WD8pIAwk"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -229,6 +301,138 @@
       "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
     },
     {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 269280,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3DoPDf9n2BF8uE37D6GZdY"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Under Water",
+        "url": "https://open.spotify.com/album/3yo3qmnDpkTIrZN2P57ZFs"
+      },
+      "artists": [
+        {
+          "name": "Ghost of Tellus",
+          "url": "https://open.spotify.com/artist/5QtIF4xhM0ViWQFChbHNKJ"
+        },
+        {
+          "name": "Theis EZ",
+          "url": "https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V"
+        }
+      ],
+      "duration_ms": 177744,
+      "name": "Under Water",
+      "url": "https://open.spotify.com/track/7FaEeXDs6TbIA3ip1MqknT"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Affirmations",
+        "url": "https://open.spotify.com/album/7fLkWAvOwyWLPQDytTukiJ"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/0oufmjtrlHZxQW7scjMcJk"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 216944,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/2vhaFJVzOrVgF4wdU2lzp0"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "win your love",
+        "url": "https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst"
+      },
+      "artists": [
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "win your love",
+      "url": "https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/6K7J41vEGbuvSa98EpjKI4"
+      },
+      "artists": [
+        {
+          "name": "Cella",
+          "url": "https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ"
+        }
+      ],
+      "duration_ms": 184817,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/6ZGrkUTRx9nx2py5gQFBUx"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "ur holding me back",
+        "url": "https://open.spotify.com/album/3HJK8Y3GSquuTgytqDhyQV"
+      },
+      "artists": [
+        {
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+        }
+      ],
+      "duration_ms": 204029,
+      "name": "ur holding me back",
+      "url": "https://open.spotify.com/track/6lLqigWFdVRAtPSp9CkTHe"
+    },
+    {
       "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "I Can Make It",
@@ -245,6 +449,26 @@
       "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "Way Down",
+        "url": "https://open.spotify.com/album/1jSfSXG7pQHOBhqZhT4U6n"
+      },
+      "artists": [
+        {
+          "name": "Petit Ocean",
+          "url": "https://open.spotify.com/artist/7AEN8ZkPQr7M45Sb3emoMf"
+        },
+        {
+          "name": "CASILIAN",
+          "url": "https://open.spotify.com/artist/3QEWkt4IaSKCiQUdDSqqvY"
+        }
+      ],
+      "duration_ms": 187781,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/7eC86H1BAylHnn6AWGkjuB"
+    },
+    {
       "added_at": "2023-09-14 22:00:00",
       "album": {
         "name": "be with you",
@@ -259,22 +483,6 @@
       "duration_ms": 183317,
       "name": "be with you",
       "url": "https://open.spotify.com/track/4GBZ0ZOU9D0pefvZ2V8WCP"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 269280,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/3DoPDf9n2BF8uE37D6GZdY"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -295,22 +503,6 @@
       "duration_ms": 210289,
       "name": "don\u2019t say",
       "url": "https://open.spotify.com/track/4bgUnmXFw3hsM5XTJ4tF5B"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Affirmations",
-        "url": "https://open.spotify.com/album/7fLkWAvOwyWLPQDytTukiJ"
-      },
-      "artists": [
-        {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -345,22 +537,6 @@
       "url": "https://open.spotify.com/track/51vJGNySaVSxTmcPotlWrU"
     },
     {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Soak Up The Sun",
-        "url": "https://open.spotify.com/album/0oufmjtrlHZxQW7scjMcJk"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 216944,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/2vhaFJVzOrVgF4wdU2lzp0"
-    },
-    {
       "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Fknow It",
@@ -375,22 +551,6 @@
       "duration_ms": 256553,
       "name": "Fknow It",
       "url": "https://open.spotify.com/track/25OrWN8wbqdUzTFKVSMRT6"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "win your love",
-        "url": "https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst"
-      },
-      "artists": [
-        {
-          "name": "SHEE",
-          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
-        }
-      ],
-      "duration_ms": 215413,
-      "name": "win your love",
-      "url": "https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -443,22 +603,6 @@
       "duration_ms": 241008,
       "name": "Crazy Away from You",
       "url": "https://open.spotify.com/track/1WeTOw5wGWiOgICKIUKBBl"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "added_at": "2023-08-31 22:00:00",

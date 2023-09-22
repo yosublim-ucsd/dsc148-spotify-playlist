@@ -876,7 +876,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 153900,
       "name": "For My Head",
       "url": "https://open.spotify.com/track/7oLSEDGIY2OuKk0gnLzEXi"
@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 146494,
       "name": "Pop (Alcohol Alcohol)",
       "url": "https://open.spotify.com/track/6rMi4IgGoZ8ahKFNlhUym1"
@@ -2442,6 +2442,28 @@
       "duration_ms": 164684,
       "name": "Shaka",
       "url": "https://open.spotify.com/track/1HN2Q4IyIoJWqEQKeZSWNA"
+    },
+    {
+      "album": {
+        "name": "BOMBOY",
+        "url": "https://open.spotify.com/album/4zS7IKrN5TK8xYIrPo3yli"
+      },
+      "artists": [
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Shakor",
+      "url": "https://open.spotify.com/track/14EoKlhYnxqRrqjV7PIdS0"
     },
     {
       "album": {

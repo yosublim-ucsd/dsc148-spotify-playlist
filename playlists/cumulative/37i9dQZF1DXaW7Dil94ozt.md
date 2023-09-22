@@ -4,7 +4,7 @@
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-120 songs - 8 hr 7 min
+121 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [지독한 노래 Vicious Song](https://open.spotify.com/track/6q0Wir7kusr8hhKZFO5U6j) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 3:11 | 2023-09-04 |  |
 | [고래](https://open.spotify.com/track/66WJZasXsctB6RyN28qzBt) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [백야](https://open.spotify.com/album/3NxLhNRJxkC8ZLjLlXo6ia) | 4:01 | 2023-09-04 |  |
 | [나 좋자고 그러는겨 Did It For Me](https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [하지 말래 Don't Do It](https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS) | 2:57 | 2023-09-04 |  |
-| [나는 그 사람이 아프다 \(feat\. Taru \- 타루\)](https://open.spotify.com/track/0as9lu62acl4EBvLBD68sj) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN), [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [사랑의 단상 Chapter 1 : With Or Without You](https://open.spotify.com/album/7kmxeYqKZT8x6ZYAopOyIR) | 5:35 | 2023-09-04 |  |
+| [나는 그 사람이 아프다 \(feat\. Taru \- 타루\)](https://open.spotify.com/track/0as9lu62acl4EBvLBD68sj) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN), [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [사랑의 단상 Chapter 1 : With Or Without You](https://open.spotify.com/album/7kmxeYqKZT8x6ZYAopOyIR) | 5:35 | 2023-09-04 | 2023-09-22 |
+| [나는 그 사람이 아프다 \(feat\. Taru\)](https://open.spotify.com/track/2GSwbzS3LMVX3Gpe8m3Plj) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN), [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [긴 여행의 시작](https://open.spotify.com/album/6WWFmQu22zEFRuyzYdSyWt) | 5:37 | 2023-09-04 |  |
 | [나란놈](https://open.spotify.com/track/7paPfJ8amuTCpHSK5t9jbC) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [나란놈](https://open.spotify.com/album/4HP3bqpTXJukiAsc2m2ofP) | 4:00 | 2023-09-04 |  |
 | [달력 Calendar](https://open.spotify.com/track/6aOBMjkUrLukHWOkIyYHGm) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [off the menu](https://open.spotify.com/album/6Jq9SOsXsW6b8x6OHXBsAx) | 4:50 | 2023-09-04 |  |
 | [백야](https://open.spotify.com/track/1Bk1nxhIqqIcWfoVdhNW8c) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [백야](https://open.spotify.com/album/3NxLhNRJxkC8ZLjLlXo6ia) | 4:10 | 2023-09-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Eli Soares",
-  "num_followers": 250940,
+  "num_followers": 250976,
   "original_name": "Novidades Religiosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGUzYWEwZWFiNWI0NjljYjZlNGNhZTg5Mjk2MTQyYjkxYTAxMTkz",
+  "snapshot_id": "MCw1NjFiYWIwY2FmMWUxMTE3YTU3OGVkYjJiMzg4OWRmNWUyZGQ2NGEx",
   "tracks": [
     {
       "added_at": "2023-09-15 21:50:33",
@@ -307,18 +307,22 @@
     {
       "added_at": "2023-09-15 21:50:33",
       "album": {
-        "name": "Dias Dif\u00edceis (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5my4F0Jr3n9rhiyd6wjuNN"
+        "name": "Dias Dif\u00edceis (Live)",
+        "url": "https://open.spotify.com/album/73Mi7EfQjMidQeeFQ3c0HH"
       },
       "artists": [
         {
           "name": "Frei Gilson",
           "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        },
+        {
+          "name": "Som do Monte",
+          "url": "https://open.spotify.com/artist/4F0SkfGchoYee1hZV0A7wx"
         }
       ],
       "duration_ms": 585008,
-      "name": "Dias Dif\u00edceis (Ao Vivo)",
-      "url": "https://open.spotify.com/track/008Xs4JRhzNIDVNeMcscoV"
+      "name": "Dias Dif\u00edceis (Live)",
+      "url": "https://open.spotify.com/track/0s8hoeVyqSPw5EDqorQxd2"
     },
     {
       "added_at": "2023-09-15 21:50:33",

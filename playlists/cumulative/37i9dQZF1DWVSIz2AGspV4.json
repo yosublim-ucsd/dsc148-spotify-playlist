@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "El Goumar",
+        "url": "https://open.spotify.com/album/3xMJN5P46bFonTmWSbWteW"
+      },
+      "artists": [
+        {
+          "name": "Saif Nabeel",
+          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184287,
+      "name": "El Goumar",
+      "url": "https://open.spotify.com/track/6TC2P6Nw8yn9fKKPTjjkM9"
+    },
+    {
+      "album": {
         "name": "El Habibi Mushtaq",
         "url": "https://open.spotify.com/album/5Y6JAbVNP2wQg9Tvs4gEc0"
       },
@@ -1679,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Eshagtak",
+        "url": "https://open.spotify.com/album/1IJ8KRUc9fUJlfEKk8umQT"
+      },
+      "artists": [
+        {
+          "name": "Yasser Abd Alwahab",
+          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205894,
+      "name": "Eshagtak",
+      "url": "https://open.spotify.com/track/2PaI1Yc8Tt0cGI8NG1wcQe"
+    },
+    {
+      "album": {
         "name": "Ethkart",
         "url": "https://open.spotify.com/album/5gNs2z7e2NbM76jZN9WOs4"
       },
@@ -1708,7 +1744,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 199343,
       "name": "Etizal Alnaas",
       "url": "https://open.spotify.com/track/423jRyo6H9vDd9NJc8B2D2"
@@ -1892,7 +1928,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 59327,
       "name": "Gissah",
       "url": "https://open.spotify.com/track/6i7tFmWmfP0Un7nPIkSpaY"
@@ -2162,7 +2198,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 189036,
       "name": "Hobbak Dar",
       "url": "https://open.spotify.com/track/2AIUJ9QAtwzP6wfLP9L1Ye"
@@ -2750,7 +2786,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 256363,
       "name": "Ma kaffa Hobak",
       "url": "https://open.spotify.com/track/6d0yHHvEWfPtzvxbFqcZKR"
@@ -2938,6 +2974,24 @@
       "duration_ms": 246400,
       "name": "Met Bab",
       "url": "https://open.spotify.com/track/6GoaNwrdWjmSCjN5qIB77U"
+    },
+    {
+      "album": {
+        "name": "Methl Eyounech",
+        "url": "https://open.spotify.com/album/705X273FVbOrvXLU6mBhrU"
+      },
+      "artists": [
+        {
+          "name": "Mahmood AlGhiath",
+          "url": "https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245647,
+      "name": "Methl Eyounech",
+      "url": "https://open.spotify.com/track/51fWcoMwz08PdFATIydFMi"
     },
     {
       "album": {
@@ -4026,7 +4080,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 170492,
       "name": "Weh Weh",
       "url": "https://open.spotify.com/track/5hIE3768XxBhVYagynrgn9"
@@ -4442,6 +4496,24 @@
       "duration_ms": 291157,
       "name": "\u062e\u0627\u0644\u062a\u0643 \u0645\u0648 \u0632\u064a\u0646\u0629",
       "url": "https://open.spotify.com/track/6uS7J693t7hfZRr8jj0efp"
+    },
+    {
+      "album": {
+        "name": "\u062f\u062e\u064a\u0644\u0643 \u0627\u0631\u062c\u0639",
+        "url": "https://open.spotify.com/album/3wCN6wClWNnN4wTuEgnLi4"
+      },
+      "artists": [
+        {
+          "name": "Karar Salah",
+          "url": "https://open.spotify.com/artist/7rIhO4AYbAaZlGQeMAAFg5"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191808,
+      "name": "\u062f\u062e\u064a\u0644\u0643 \u0627\u0631\u062c\u0639",
+      "url": "https://open.spotify.com/track/6KMMgPgvhpIssOttUciCpL"
     },
     {
       "album": {

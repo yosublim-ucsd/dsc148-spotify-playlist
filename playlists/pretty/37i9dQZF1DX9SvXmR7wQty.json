@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: GIMS, Maluma",
-  "num_followers": 37978,
+  "num_followers": 37990,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGMxYmNjMTAyOWYzZGFhMDJmOGZiMzBhMDY1ZGQ3YTBiZTg2NGY3",
+  "snapshot_id": "MCw5YTUyMWYwZGJhNzFkMWQ1OTM1ODI2YWE2M2IyMTUwM2UxY2MzODJl",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -211,18 +211,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Trop parler",
-        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 183865,
-      "name": "Trop parler",
-      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
+      "duration_ms": 176109,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/02RGARryimtGfuawXbKj8P"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -243,22 +247,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt"
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
       },
       "artists": [
         {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 176109,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/02RGARryimtGfuawXbKj8P"
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -507,6 +507,38 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "LOVE'n'TENDRESSE",
+        "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "LOVE'n'TENDRESSE",
+      "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        }
+      ],
+      "duration_ms": 159841,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Cette vie",
         "url": "https://open.spotify.com/album/314caeDoxMmpPdP1aoPcyC"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 158006,
       "name": "Dans la moyenne",
       "url": "https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "LOVE'n'TENDRESSE",
-        "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "LOVE'n'TENDRESSE",
-      "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -631,22 +647,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
-      },
-      "artists": [
-        {
-          "name": "Beendo Z",
-          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
-        }
-      ],
-      "duration_ms": 159841,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Mon jaun\u00e9",
         "url": "https://open.spotify.com/album/0PXL8hSka7EKM9IO4ijtwD"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 198844,
       "name": "Mon jaun\u00e9",
       "url": "https://open.spotify.com/track/33Wq09RGanTl3JXuyUN0ga"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Z\u00e9nith",
+        "url": "https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r"
+      },
+      "artists": [
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Z\u00e9nith",
+      "url": "https://open.spotify.com/track/7waEJapWACgWkq3by4intP"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -695,22 +711,6 @@
       "duration_ms": 89146,
       "name": "R+V",
       "url": "https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Z\u00e9nith",
-        "url": "https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r"
-      },
-      "artists": [
-        {
-          "name": "Kalash Criminel",
-          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Z\u00e9nith",
-      "url": "https://open.spotify.com/track/7waEJapWACgWkq3by4intP"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Appart des Apes",
+        "url": "https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw"
+      },
+      "artists": [
+        {
+          "name": "GLK",
+          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+        }
+      ],
+      "duration_ms": 175968,
+      "name": "Appart des Apes",
+      "url": "https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Alg\u00e9rien F\u00e2ch\u00e9",
         "url": "https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 231680,
       "name": "Donne",
       "url": "https://open.spotify.com/track/564LI6g6mPCngTvP6ABkZO"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Appart des Apes",
-        "url": "https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw"
-      },
-      "artists": [
-        {
-          "name": "GLK",
-          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
-        }
-      ],
-      "duration_ms": 175968,
-      "name": "Appart des Apes",
-      "url": "https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s"
     },
     {
       "added_at": "2023-09-15 04:00:00",

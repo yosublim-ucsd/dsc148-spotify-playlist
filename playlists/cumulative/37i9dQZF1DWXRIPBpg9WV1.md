@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-247 songs - 12 hr 24 min
+252 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,12 @@
 | [Always On My Mind](https://open.spotify.com/track/5zOw7nHXlGqoYTRmDnrw0g) | [Benjamin Daughtry](https://open.spotify.com/artist/5ii6Td83MJmap7UdXxxk1I) | [Always On My Mind](https://open.spotify.com/album/04gl0kOqCvtYuN0FhVu1MD) | 2:48 | 2023-04-14 |  |
 | [America](https://open.spotify.com/track/6HAAL7x6LWg9j7Lb4qPSFP) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [America](https://open.spotify.com/album/3mnyXyGwORYtpjPtBhN1II) | 2:43 | 2023-02-03 | 2023-06-03 |
 | [And I Love Her](https://open.spotify.com/track/4itU6I6B2noWTYAbzFSHW1) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [And I Love Her](https://open.spotify.com/album/6ySoczesHSMBd1sFTjFTQH) | 2:11 | 2023-05-05 | 2023-06-03 |
+| [Angels](https://open.spotify.com/track/3CQ0KATZEeUL6BKBs6huq5) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Angels](https://open.spotify.com/album/6CbCQNsDsRZvyaFkHySYBE) | 4:03 | 2023-09-22 |  |
 | [Another Day in Paradise](https://open.spotify.com/track/4hDkQWAd58OtxW5NJmvTqs) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Another Day in Paradise](https://open.spotify.com/album/1JvHsQXMTh5dDJc0IHrxUr) | 2:19 | 2023-03-17 |  |
 | [Anti\-Hero](https://open.spotify.com/track/3KccXGwIc7HexO9KdCgLTh) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Anti\-Hero](https://open.spotify.com/album/4KwX0q1HZSbG3HM9vwVuVu) | 3:13 | 2022-12-23 | 2023-06-03 |
 | [Anti\-Hero](https://open.spotify.com/track/1IRSxZQv3al0w8UbeXqVlh) | [Prince May](https://open.spotify.com/artist/0XOki1WQ88CrMMMozwk3CH) | [Anti\-Hero](https://open.spotify.com/album/5ggUn95ZER2ZHHtzdWNJqT) | 2:43 | 2022-12-02 |  |
-| [Are You With Me](https://open.spotify.com/track/4ZBRS9HzPEaMH1NPUkHnhT) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Are You With Me](https://open.spotify.com/album/0my0OShiIp91mnj5FH6VaZ) | 2:19 | 2022-12-23 |  |
+| [Apologize](https://open.spotify.com/track/51q9sjxT1PNjgRTPWBRuha) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Apologize](https://open.spotify.com/album/7bYf0q4qmq29ylK2wIWFkc) | 3:43 | 2023-09-22 |  |
+| [Are You With Me](https://open.spotify.com/track/4ZBRS9HzPEaMH1NPUkHnhT) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Are You With Me](https://open.spotify.com/album/0my0OShiIp91mnj5FH6VaZ) | 2:19 | 2022-12-23 | 2023-09-22 |
 | [Arthur's Theme](https://open.spotify.com/track/2Ft1pxvNweDBKxbntC15jr) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Arthur's Theme](https://open.spotify.com/album/6KrFogWw5iuEMSoONRFvtu) | 3:31 | 2023-04-14 |  |
 | [As It Was](https://open.spotify.com/track/0AdUlf7gmrwhuVp8oznsRc) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [As It Was](https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H) | 3:30 | 2022-06-15 | 2023-06-03 |
 | [As It Was](https://open.spotify.com/track/1ZAiKDMu90wXjRrVKHMZE7) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Take Me Home Country Roads](https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI) | 4:25 | 2023-03-17 | 2023-08-25 |
@@ -33,6 +35,7 @@
 | [Baby I love your way](https://open.spotify.com/track/5Yee4GWzUPwCPG6F2En5p6) | [Felix Day](https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF) | [Baby I Love Your Way](https://open.spotify.com/album/0mEG8pXr3z8bT7Nw1lNYPQ) | 2:23 | 2022-09-30 |  |
 | [bad guy](https://open.spotify.com/track/1zXv69mtvZlCVNKcnutbp7) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [bad guy](https://open.spotify.com/album/5uSkeFecAgE12tJbd647NC) | 2:21 | 2023-01-13 | 2023-06-03 |
 | [Bad Habits](https://open.spotify.com/track/5GhGxnInJgQLbI61S4NwhM) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Bad Habits](https://open.spotify.com/album/6HwuOd0UdhwIMh4Pw8txz0) | 3:07 | 2022-12-02 | 2023-06-03 |
+| [Bad Romance](https://open.spotify.com/track/4AJOciBT4O5PZAETXFoVIe) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Bad Romance](https://open.spotify.com/album/22Lme10YWdkIq1JRWEqUgP) | 2:51 | 2023-09-22 |  |
 | [Best Part](https://open.spotify.com/track/65gmJWtbmmHAbKdk2Wz0wR) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Best Part](https://open.spotify.com/album/7FjQaXOdJ43fn5I1UJDRwB) | 2:41 | 2023-03-17 |  |
 | [Black Hole Sun](https://open.spotify.com/track/3bFxHisnzoCtIc2MdZ91dl) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Black Hole Sun](https://open.spotify.com/album/2bUV5PssdRehLXjYNhFuOo) | 3:28 | 2022-05-20 | 2023-05-05 |
 | [Blackbird](https://open.spotify.com/track/1J3oa1IgWOJvkBAhjsOcEt) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Blackbird](https://open.spotify.com/album/135qzKFdS1y482SoC5Z8Og) | 1:41 | 2022-12-23 | 2023-08-26 |
@@ -195,6 +198,7 @@
 | [Super Trouper](https://open.spotify.com/track/4rzjaiJ7GXegXPyi6XKiSJ) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Super Trouper](https://open.spotify.com/album/2jv28w0cx2bpaq9PFJibtG) | 4:03 | 2023-03-17 |  |
 | [Sweather Weather](https://open.spotify.com/track/0sM1RkU751ViUxIAG9Qmll) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Sweather Weather](https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH) | 2:31 | 2022-12-02 | 2023-06-03 |
 | [Take Me To Church](https://open.spotify.com/track/7cU8rok575Qhf3SkhMb670) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [6 strings Guy](https://open.spotify.com/album/1TXKVK2Ss0EgQkGg1mEJAe) | 3:54 | 2022-05-20 | 2023-05-05 |
+| [Take My Breath Away](https://open.spotify.com/track/0Ms8iZovIEtLhMbJniswR2) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [Take My Breath Away](https://open.spotify.com/album/2GWgkFnBogq9bJgPR51Rvq) | 3:10 | 2023-09-22 |  |
 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 | 2022-05-20 |  |
 | [Tears in Heaven](https://open.spotify.com/track/55DFjCA1MWnDskroklqtuW) | [Kris Farrow](https://open.spotify.com/artist/74BEyEIkjzt6wrhsnkyAGE) | [Acoustic Guitar Music for Weddings, Vol\. 2](https://open.spotify.com/album/6iEyKKWzQidD3w0P33PUlo) | 4:26 | 2022-05-20 | 2023-02-10 |
 | [thank u, next](https://open.spotify.com/track/1k8qyGwxBAYnrxJB275I3J) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [thank u, next](https://open.spotify.com/album/1N5vigLqBS3jOrWeWr3mRY) | 2:30 | 2022-05-20 | 2023-04-12 |
@@ -238,6 +242,7 @@
 | [When You´re Gone](https://open.spotify.com/track/3eRslDh4lTtUFdMhttb6gc) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [When You´re Gone](https://open.spotify.com/album/7DpMvQz3HxBdJMMaGvZtsf) | 3:45 | 2022-06-15 | 2023-05-05 |
 | [Where The Streets Have No Name](https://open.spotify.com/track/0iwIdXQHWuyU7Ze6wBnNun) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Where The Streets Have No Name](https://open.spotify.com/album/1CyGN6dC2BrhF0WXNCNUTh) | 2:49 | 2023-05-05 |  |
 | [White Flag](https://open.spotify.com/track/1fyx6PWVYYTSMj6jlf7POt) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [White Flag](https://open.spotify.com/album/37SIYm8FCSnvgP1m0a3TLG) | 3:11 | 2022-05-20 |  |
+| [Wicked Game](https://open.spotify.com/track/3WJLsnrBZh27TfYq8RlGM3) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [Wicked Game](https://open.spotify.com/album/2fgKKJ5qcEDKW52ozKnHGm) | 2:35 | 2023-09-22 |  |
 | [With Or Without You](https://open.spotify.com/track/2ac0pnj3XP6KrowEtfZxPw) | [Caden Fox](https://open.spotify.com/artist/0OR3tNEJyrFIjuImwG5FI3) | [With Or Without You](https://open.spotify.com/album/1wWl8scwb53GaRoWP3VcJY) | 2:26 | 2022-12-02 |  |
 | [With Or Without You](https://open.spotify.com/track/4NoPvl9MdygNwwtXwuzYkE) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [With Or Without You](https://open.spotify.com/album/0p50RucxIemuhz3QMihgLe) | 2:41 | 2022-12-02 | 2023-06-03 |
 | [Wonderwall](https://open.spotify.com/track/3Gu5Ei9OVuXCVoILrSq7pR) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Wonderwall](https://open.spotify.com/album/74FjDXGyxjU8gSMKTt5st0) | 3:28 | 2023-04-14 |  |

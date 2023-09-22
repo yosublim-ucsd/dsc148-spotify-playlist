@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-138 songs - 7 hr 57 min
+139 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Crocs &jersey](https://open.spotify.com/track/568EH1ZKN7cAD0jEQnAEPq) | [Keinoh Music](https://open.spotify.com/artist/0sKiFuMsuB9nVLXovDc5bb), [Otis Banuchi](https://open.spotify.com/artist/24o0ghLqqWJsq3Tk9Ngukc), [Fakher Ahmed](https://open.spotify.com/artist/5CAnXsi43dznJE7qXujny3) | [Crocs &jersey](https://open.spotify.com/album/21XTnqu53Mkb5xyQ0M2Dal) | 2:43 | 2022-09-08 |  |
 | [Day Ones](https://open.spotify.com/track/3gZAsPT5wgiwXu5AftZxKa) | [Flex D'paper](https://open.spotify.com/artist/1dKjmFQXS1G1Z1D64tN8ek), [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Martha Smallz](https://open.spotify.com/artist/2VVkcFJfi3Fh5hW4GUnhEh) | [Day Ones](https://open.spotify.com/album/0F8KIvegVyXZ2JYWwkMTVi) | 4:04 | 2023-09-01 | 2023-09-12 |
 | [Demons](https://open.spotify.com/track/2CkBcDSWW1VuB0t9kRpsA7) | [Malunda](https://open.spotify.com/artist/7xFi0ADsYYigQwaxsgv5aI) | [Demons](https://open.spotify.com/album/2CGb3UbrAPB7l4lBoi9ySP) | 2:46 | 2022-09-08 | 2022-11-11 |
-| [Different](https://open.spotify.com/track/7dPEajZhYQWXSivOPXbJwV) | [The Abstract Kid](https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW) | [Different](https://open.spotify.com/album/6jOaaBvrDq3OKVRkVujc9E) | 2:28 | 2022-09-08 |  |
+| [Different](https://open.spotify.com/track/7dPEajZhYQWXSivOPXbJwV) | [The Abstract Kid](https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW) | [Different](https://open.spotify.com/album/6jOaaBvrDq3OKVRkVujc9E) | 2:28 | 2022-09-08 | 2023-09-22 |
+| [Different](https://open.spotify.com/track/5nXP1tsv0qYKL3BFVZo3II) | [The Abstract Kid](https://open.spotify.com/artist/4MdaPhRU2AMaylIfyWm8cW) | [Different](https://open.spotify.com/album/07Co4wyYTIHUFKUerOPcWW) | 2:34 | 2023-09-11 |  |
 | [Dotted Lines & Commas](https://open.spotify.com/track/0hw8BvO4OQ2f6GaF7NQI7p) | [Blixxack](https://open.spotify.com/artist/7tzeAMvtPF9coHEEwLZhRJ), [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [Dotted Lines & Commas](https://open.spotify.com/album/0PKfULSEkUoaXXxUoI0fgP) | 4:37 | 2022-09-08 | 2023-07-14 |
 | [Down](https://open.spotify.com/track/7vU1wQTqY9YBd7z9NpayY5) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Strength In Numbers](https://open.spotify.com/album/28volG5cNQEUI0U8CdD6DF) | 3:42 | 2023-09-01 | 2023-09-12 |
 | [DREAM](https://open.spotify.com/track/55np6mwZRUl1rI0zBMtXXX) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Chameleone](https://open.spotify.com/artist/5PAtLrRQQzMKyrFKfQJCDB) | [AFRICAN HUSTLER MUSIC](https://open.spotify.com/album/20kLWtdqJtNQFqlwXMrFLH) | 4:28 | 2023-09-01 | 2023-09-12 |

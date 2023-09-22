@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,996 likes - 57 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,082 likes - 57 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 51 | [inner strength 852 Hz](https://open.spotify.com/track/4qBvDbNnTPZyeTTDkJDmzP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 |
 | 52 | [Ajna](https://open.spotify.com/track/4h4F7TC8bXOzxU34kMMhXL) | [Klangschalenmeditation](https://open.spotify.com/artist/6XUAMk67lcJtkJ6M9ikGF6) | [Chakrameditation](https://open.spotify.com/album/3lnoWrwdm2ynZoG6ESDO46) | 1:48 |
 | 53 | [Integral](https://open.spotify.com/track/4wISCCXp4KPLxzCrogUOLU) | [Emanuel Kulo](https://open.spotify.com/artist/2n9lQwZuLg8gcgxDoVO1IW) | [Infinite](https://open.spotify.com/album/36PDqIij3LmXA02mB9gcII) | 3:00 |
-| 54 | [See \(Third Eye 852Hz\)](https://open.spotify.com/track/4DFwQXEIVn26fSd6GRC7Tb) | [Altered Perspectives](https://open.spotify.com/artist/5z8Dm6QOSwVNH9CG28xLzl), [L0<3\*](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW), [SINES](https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6) | [Altered Perspectives](https://open.spotify.com/album/4JBqvqMjI9bB5OVhoQnSiI) | 5:03 |
+| 54 | [See \(Third Eye 852Hz\)](https://open.spotify.com/track/4DFwQXEIVn26fSd6GRC7Tb) | [Altered Perspectives](https://open.spotify.com/artist/5z8Dm6QOSwVNH9CG28xLzl), [Echoes of Starlight](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW), [SINES](https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6) | [Altered Perspectives](https://open.spotify.com/album/4JBqvqMjI9bB5OVhoQnSiI) | 5:03 |
 | 55 | [Alignment 852 Hz](https://open.spotify.com/track/6yJXNUxkwtw0jXhy6a1Yrr) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:45 |
 | 56 | [852 Hz \- Tides of Eternity](https://open.spotify.com/track/3sJAIjDGGlVnRCvjJRAmHA) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Tides of Eternity](https://open.spotify.com/album/6WgkixEENAU8DXDGjquVRo) | 1:52 |
 | 57 | [Borders 852 Hz](https://open.spotify.com/track/7z8XqddZ2pvWKhEdmUbn5l) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:38 |
 
-Snapshot ID: `MCxjNjZlNDFjYTA3NzQzZGRjMWM1OTVmYjUxMGJkODRjYjFkMGRmZDIy`
+Snapshot ID: `MCwxODMyY2IzMjYzMTdhYzYxYjhhMzg1Zjk0N2FiYWFlN2M1NzNkYzNh`

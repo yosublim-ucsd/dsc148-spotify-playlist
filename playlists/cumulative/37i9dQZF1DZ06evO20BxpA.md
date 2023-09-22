@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 9 min
+70 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Did It Feel Wrong](https://open.spotify.com/track/2B4vzBBaPYY1FzqCBUjtE4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 2:16 | 2023-09-09 |  |
 | [Echo Fires Up Another](https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:50 | 2023-08-04 |  |
 | [Emma](https://open.spotify.com/track/4TuGt2O2iqrisOsNQNrL0j) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:35 | 2023-08-04 |  |
+| [Family Invasion](https://open.spotify.com/track/4JzWKzahqQ0NSgRajrby9H) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:46 | 2023-09-21 |  |
 | [Finding the Lost Population](https://open.spotify.com/track/1sOhyJhdaqy7J9fIfmsmJz) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:48 | 2023-08-04 |  |
 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 | 2023-08-04 |  |
 | [Fury Drives Into Camp](https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 1:50 | 2023-08-04 |  |
@@ -53,7 +54,7 @@
 | [Shenzou](https://open.spotify.com/track/2wvbsitBWJOWgbYoijHbWy) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 6:11 | 2023-08-04 |  |
 | [Social Networks](https://open.spotify.com/track/101VB5xvh2BbeNImerRZs1) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 3:12 | 2023-08-04 | 2023-08-09 |
 | [Soyuz](https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 1:42 | 2023-08-04 |  |
-| [Target Out of Reach](https://open.spotify.com/track/5PbnLarSg2t2ePMkgY2LBm) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Archive \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yS4ub7LFjAmVlRXeQMmwY) | 1:57 | 2023-09-05 |  |
+| [Target Out of Reach](https://open.spotify.com/track/5PbnLarSg2t2ePMkgY2LBm) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Archive \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yS4ub7LFjAmVlRXeQMmwY) | 1:57 | 2023-09-05 | 2023-09-22 |
 | [The Age of Giants](https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 4:00 | 2023-08-04 |  |
 | [The Apartment](https://open.spotify.com/track/1ei4vm7G5R6vit9NuEzSGZ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 0:58 | 2023-09-12 |  |
 | [The Blue Whale](https://open.spotify.com/track/0llny9ylQqeIK0MCQ5XQ45) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 5:12 | 2023-08-04 |  |

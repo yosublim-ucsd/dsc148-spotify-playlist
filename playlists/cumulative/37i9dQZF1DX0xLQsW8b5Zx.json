@@ -664,7 +664,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 245175,
       "name": "Checkered Flag",
       "url": "https://open.spotify.com/track/5ZGBKoa6sydhYUMiv4g1a4"
@@ -2492,6 +2492,24 @@
       "duration_ms": 153333,
       "name": "Rock Billy Boogie",
       "url": "https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2"
+    },
+    {
+      "album": {
+        "name": "The Devil Always Collects",
+        "url": "https://open.spotify.com/album/4AxfzKTpdmkuue9MfXBr0h"
+      },
+      "artists": [
+        {
+          "name": "Brian Setzer",
+          "url": "https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185534,
+      "name": "Rock Boys Rock",
+      "url": "https://open.spotify.com/track/0YZ0npA4EPFkFwXlbgsLPS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 372625,
+  "num_followers": 372738,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmUwYTYxMjBkMGY1MjRlZTI3MjA2OTRkNzMxOGU0NzI4NzBjOWYx",
+  "snapshot_id": "MCxhNWU1ZmNiN2E5MGEwMDRhMDYzNWM3ZTNhNTMwZDIzOWU5YTg5NDUx",
   "tracks": [
     {
       "added_at": "2023-08-07 11:45:42",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Just a Friend - EP",
-        "url": "https://open.spotify.com/album/32wD8Cv9HKBXiVumGQsZVL"
-      },
-      "artists": [
-        {
-          "name": "Biz Markie",
-          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Just a Friend",
-      "url": "https://open.spotify.com/track/1MQCTOWVfy4PcuBXkBsHVB"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 METAL",
         "url": "https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 338320,
       "name": "Boyz-N-The-Hood",
       "url": "https://open.spotify.com/track/6rwUlhBm0kdavivjZ2b3sT"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "Just a Friend - EP",
+        "url": "https://open.spotify.com/album/32wD8Cv9HKBXiVumGQsZVL"
+      },
+      "artists": [
+        {
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Just a Friend",
+      "url": "https://open.spotify.com/track/1MQCTOWVfy4PcuBXkBsHVB"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Peter Piper",
+      "url": "https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 431800,
       "name": "The Message (feat. Melle Mel & Duke Bootee)",
       "url": "https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Peter Piper",
-      "url": "https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+        "name": "Future Shock",
+        "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 290280,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
+      "duration_ms": 325133,
+      "name": "Rockit",
+      "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Future Shock",
-        "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 325133,
-      "name": "Rockit",
-      "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
         "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 269666,
       "name": "White Lines (Don't Do It)",
       "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -507,22 +507,6 @@
       "duration_ms": 195883,
       "name": "The Magic Number",
       "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "My Adidas",
-      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -611,6 +595,22 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "My Adidas",
+      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "Youngest in Charge",
         "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 321986,
       "name": "I Need Love",
       "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
+      },
+      "artists": [
+        {
+          "name": "Worlds Famous Supreme Team",
+          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
+        }
+      ],
+      "duration_ms": 206081,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
+        "name": "How Ya Like Me Now (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI"
       },
       "artists": [
         {
-          "name": "Worlds Famous Supreme Team",
-          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
+          "name": "Kool Moe Dee",
+          "url": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
         }
       ],
-      "duration_ms": 206081,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
+      "duration_ms": 280840,
+      "name": "Wild Wild West",
+      "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -851,22 +867,6 @@
       "duration_ms": 297333,
       "name": "So Wat Cha Sayin'",
       "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
-        "name": "How Ya Like Me Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI"
-      },
-      "artists": [
-        {
-          "name": "Kool Moe Dee",
-          "url": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
-        }
-      ],
-      "duration_ms": 280840,
-      "name": "Wild Wild West",
-      "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Girls Ain't Nothing But Trouble - 1988 Extended Remix",
-      "url": "https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "Criminal Minded (Deluxe)",
         "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 308558,
       "name": "South Bronx",
       "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Girls Ain't Nothing But Trouble - 1988 Extended Remix",
+      "url": "https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9"
     },
     {
       "added_at": "2023-08-07 11:45:42",

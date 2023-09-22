@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 242229,
+  "num_followers": 242387,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDg4NGE4MGY2ZWQwNTM0MDg5YzVhZDdhYTgzMTBkN2NiNzk3OGFj",
+  "snapshot_id": "MCw4NjQ3NDliZjk0NmQ4MWJmYWE1Mzg0ODczNTg3YWFjYjEyODU2MzU4",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Quickly Quickly, Vol. 1",
-        "url": "https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 332173,
-      "name": "Getsomerest/sleepwell",
-      "url": "https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Gentle Boy",
         "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 122704,
       "name": "this girl",
       "url": "https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Quickly Quickly, Vol. 1",
+        "url": "https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 332173,
+      "name": "Getsomerest/sleepwell",
+      "url": "https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j"
     },
     {
       "added_at": "2022-02-02 00:21:48",

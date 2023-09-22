@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Alikiba & Tommy Flavour",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mbosso",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 250720,
       "name": "Dear Ex",
       "url": "https://open.spotify.com/track/3aZTvjlq5maf7UF61SVlEF"
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 155219,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3yCiJlTtHFEnAknMyBsFCi"
@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 168853,
       "name": "Mapopo - Remix",
       "url": "https://open.spotify.com/track/6JQbozPXyjceIHVi6S1rzS"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 188000,
       "name": "Mind Your Business",
       "url": "https://open.spotify.com/track/0RlgWDE08CHHKzACLWczCV"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 173114,
       "name": "Nani Remix (feat. Innoss' B)",
       "url": "https://open.spotify.com/track/70NCsnLU0EuY0HGqS27Tnr"
@@ -3448,6 +3448,24 @@
       "duration_ms": 225503,
       "name": "Natamani",
       "url": "https://open.spotify.com/track/66e3PI32YFAtjWS6JckXW7"
+    },
+    {
+      "album": {
+        "name": "Nawaza",
+        "url": "https://open.spotify.com/album/5d2lTlDVkULcfTMS7JoWYz"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234216,
+      "name": "Nawaza",
+      "url": "https://open.spotify.com/track/3yWfiWRv51tuYlAzh7KHSO"
     },
     {
       "album": {
@@ -5445,6 +5463,28 @@
     },
     {
       "album": {
+        "name": "Uridhike",
+        "url": "https://open.spotify.com/album/2k0aOwE2xBrg8vBz9McS1t"
+      },
+      "artists": [
+        {
+          "name": "Ruby Africa",
+          "url": "https://open.spotify.com/artist/2HkiAy2nG0XolOJNl8ha5d"
+        },
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183719,
+      "name": "Uridhike",
+      "url": "https://open.spotify.com/track/7cc2RrsWpynqV1fYTZw02F"
+    },
+    {
+      "album": {
         "name": "Usijichukulie Star",
         "url": "https://open.spotify.com/album/0Bp8t9wTlO14CgYfmXJsZY"
       },
@@ -5616,6 +5656,24 @@
       "duration_ms": 195348,
       "name": "Wa Sasa",
       "url": "https://open.spotify.com/track/2UBkMt1lT5qjW36HIUKNCm"
+    },
+    {
+      "album": {
+        "name": "Waambie",
+        "url": "https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3"
+      },
+      "artists": [
+        {
+          "name": "killy",
+          "url": "https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157548,
+      "name": "Waambie",
+      "url": "https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek"
     },
     {
       "album": {
@@ -5876,6 +5934,28 @@
       "duration_ms": 211613,
       "name": "Wote",
       "url": "https://open.spotify.com/track/7vYxNbbyISaUiZ3Q5wkGFG"
+    },
+    {
+      "album": {
+        "name": "Yamenishika (Remix) [feat. Nandy]",
+        "url": "https://open.spotify.com/album/7cBairg5UxvBZOLTmiYQo0"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        },
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197789,
+      "name": "Yamenishika (Remix) [feat. Nandy]",
+      "url": "https://open.spotify.com/track/3vmvMTCmHkboHfqaFWB5ae"
     },
     {
       "album": {

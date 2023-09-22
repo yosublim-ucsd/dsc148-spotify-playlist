@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: WHIPPED CREAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,567 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,575 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 59 | [The Oracle](https://open.spotify.com/track/7lzd3UcJS2rHrBThYKLXJ6) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [The Oracle](https://open.spotify.com/album/01jQoXxIg3KlnPLKBZZCLR) | 6:49 |
 | 60 | [Rave Generator](https://open.spotify.com/track/3dOPEPRxfKiR3mHlh0nkKA) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Rave Generator EP](https://open.spotify.com/album/3d8LyvTn5GKxqKTqfFQdBr) | 2:57 |
 
-Snapshot ID: `MCwxMDNlZjYxNjk5YWNhNzJhNzE0MjA2ZTMyMDZjZjJhYjg3YmU5MmRi`
+Snapshot ID: `MCw1MzBiOGE1MzUzOTdhNjlkZDlmOTRkZWFiODNmYjM4NzE5N2MwMmE4`

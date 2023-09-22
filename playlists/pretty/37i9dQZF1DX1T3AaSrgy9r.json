@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 106014,
+  "num_followers": 106183,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzZlNTBiODk4YzdjOTY3MTVjMTg0Mjc4MmQ3YzgzNDhlMTQ4MTJl",
+  "snapshot_id": "MCwyZTA0ZDdmNTdkNzk0NGMxZDJkZTAyZGEyMmIyZjI0NzI5NTlkNTJi",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Swamp Thing",
         "url": "https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 237453,
       "name": "Swamp Thing",
       "url": "https://open.spotify.com/track/2TU5HRSj7cSjkKwNzF8NhS"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p"
     },
     {
       "added_at": "2021-07-14 17:36:34",

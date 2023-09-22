@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qI7BHiwz7H.md) - [plain]
 
 > Smooth and relaxing Soul music to tune in to your body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,654 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,718 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qI7BHiwz7H.md) - [plain]
 | 14 | [When You Smile](https://open.spotify.com/track/2uqumMa7SueXxKDrJ6Euee) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Love Oh Love](https://open.spotify.com/album/78JrHNPusyVYOViMcUonyM) | 4:22 |
 | 15 | [I'm Still a Man \(Lord Have Mercy\)](https://open.spotify.com/track/6nIL8r8k59ulmQWaEwwqwb) | [Willie West](https://open.spotify.com/artist/76HrK2f7GCk4phitcHr60T), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [I'm Still a Man \(Lord Have Mercy\)](https://open.spotify.com/album/5GGjtPI5dy825OpKaEkVpL) | 4:11 |
 | 16 | [Nothing Can Change This Love](https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Mr\. Soul](https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va) | 2:38 |
-| 17 | [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 |
+| 17 | [Changes](https://open.spotify.com/track/1GQNsPVnZoWr3tOHQ73DzI) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/3QwoBbZO1aClSBVTra79Dd) | 6:11 |
 | 18 | [I Forgot To Be Your Lover](https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Man In The Street: The Complete Yellow Stax Solo Singles \(1968\-1974\)](https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b) | 2:22 |
 | 19 | [Awoke In The Early Days of a Better World](https://open.spotify.com/track/1ZLXINJ6Rrl9BMvIqjDNOe) | [Andrew Wasylyk](https://open.spotify.com/artist/6eWBxi3noFhe59k8qdPbzG) | [Awoke In The Early Days of a Better World](https://open.spotify.com/album/2qJQgxgko8vhtFCcKiKzBw) | 4:54 |
 | 20 | [I Want a Little Sugar In My Bowl](https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qI7BHiwz7H.md) - [plain]
 | 59 | [Your Heart Belongs To Me \- Mono Version with Echo](https://open.spotify.com/track/20HpRfGcg3neSqboaQHvLC) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Meet The Supremes \- Expanded Edition](https://open.spotify.com/album/5Ij4Mpkh9xZi2csxPF3ziI) | 2:36 |
 | 60 | [Where Will I Go](https://open.spotify.com/track/6d7pdDVxhOAAelJITR3R4Y) | [Brief Encounter](https://open.spotify.com/artist/4OEbC7T2MsiXplZhj7ljRj) | [Where Will I Go](https://open.spotify.com/album/3qZ8AzJXcnRRO5jz3vq5z6) | 4:16 |
 
-Snapshot ID: `MCw1MDk1ZmYxNzYwY2QxMzlhMDk0Y2YzNzEwMTc0YzAzOGE4Y2M2Y2Zj`
+Snapshot ID: `MCwyY2M5NjEwNDQzNzk0YWY1MDg1ZDczMTUxNTdiMjAwYmM2M2ZhM2M5`

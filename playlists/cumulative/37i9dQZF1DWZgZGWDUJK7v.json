@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: The Moon during the Day(\ub0ae\uc5d0 \ub728\ub294 \ub2ec)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: No Office Romance!(\uc0ac\ub0b4\uc5f0\uc560 \uc0ac\uc808! )) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "tracks": [
     {
@@ -2220,6 +2220,24 @@
       "duration_ms": 260493,
       "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
       "url": "https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis"
+    },
+    {
+      "album": {
+        "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237253,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Henrique & Juliano, TXT e Anitta, Luan Santana, Pocah, DENNIS, Mc Poze do Rodo e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920,825 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,237 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Fases da Vida](https://open.spotify.com/track/7wVfxMleDc8z52sT0ZX2Uf) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Fases da Vida](https://open.spotify.com/album/4S9O0HX42wSVc8GwMHUz0S) | 2:49 |
 | 99 | [Surrender](https://open.spotify.com/track/2dj9wzusMoIgFX9z9MXq8H) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Lia Rose](https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0) | [Surrender](https://open.spotify.com/album/1AwWchPQJO8jKekhSBjOHw) | 5:00 |
 
-Snapshot ID: `MCxjZjJmMmFkZmUwMmQwMzNlNTZkNTYzMTI5NWVmYjhlYjRjMDBlZWY1`
+Snapshot ID: `MCw5YTA5N2YzYWZmZjcxNzEyOGZiZWVmNjkyZDBlNDdlMDFjNGMxNzg3`

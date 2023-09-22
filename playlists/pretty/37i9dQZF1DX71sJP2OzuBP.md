@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,740 likes - 101 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,749 likes - 101 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 100 | [不如我們](https://open.spotify.com/track/628jSEIhSEkXJXRo5gRpOG) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [不如我們](https://open.spotify.com/album/2O1NsQRVTbSOlyHMsiDC4j) | 3:42 |
 | 101 | [與愛無關 \(劇集《七時吉祥》自愛勇氣曲\)](https://open.spotify.com/track/0SVP6Ws01w946iBsHepY4Y) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [與愛無關](https://open.spotify.com/album/3jq3wU32NdZDqjvYqijI2V) | 3:46 |
 
-Snapshot ID: `MCw0ZjQ2OTQyNWQwNjNkZTdhZDkwOTk3YjY3MTY4YTZjM2RjZjIxODll`
+Snapshot ID: `MCw3YWI4OWQwYzhjNTI2OWRkY2M0YzU4NGMwZjcyZDc4M2RjOGZhZTRh`

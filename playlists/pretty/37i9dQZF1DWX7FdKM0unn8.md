@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,450 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,471 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 37 | [Take to the Road](https://open.spotify.com/track/7Dsj9oV6bd5jF0vIBwy92a) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [Lee Sun Hee Best](https://open.spotify.com/album/2l6SJR2R6pFzKOlrtJGq37) | 3:32 |
 | 38 | [내일](https://open.spotify.com/track/6gcEFFs1w5D2Ud91Qb37u2) | [김수철](https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR) | [못다핀 꽃한송이](https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg) | 3:42 |
 | 39 | [카츄사의 노래](https://open.spotify.com/track/1X9Rw7AQdwJoR8q2dPn7ZC) | [Eunbangul Sisters](https://open.spotify.com/artist/0kBrnh1Onqubyc9XpWYYDE) | [히트가요 컬렉션 VOL.2](https://open.spotify.com/album/79iJo6K8XWEF7HNgquDmD7) | 3:11 |
-| 40 | [세월이 가면](https://open.spotify.com/track/6khwEG0x8mkXNvTxt2lF00) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 3:21 |
+| 40 | [세월이 가면](https://open.spotify.com/track/6khwEG0x8mkXNvTxt2lF00) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [양희은 골든 베스트 18](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 3:21 |
 | 41 | [사랑이 지나가면](https://open.spotify.com/track/4XwtIHrmFuMNwu3c35kh5B) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 4:13 |
 | 42 | [눈물나는 날에는](https://open.spotify.com/track/1Vi9rQtR5XlEAKvvz4PfID) | [푸른하늘](https://open.spotify.com/artist/4fjuWKOCAh3CT7I5xW6Hc1) | [푸른하늘 2집 \- 눈물나는 날에는](https://open.spotify.com/album/53wruAmv4gvA2uIoO2Xmfw) | 5:04 |
 | 43 | [아름다운 강산](https://open.spotify.com/track/2A8dLLThu2LqfhD8SNuGbc) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [4집 사랑이 지는 이 자리](https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln) | 5:47 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 55 | [기다린 날도 지워질 날도 Days Of Longing, Days To Be Forgotten](https://open.spotify.com/track/3ZCIaxNcu1rtqBJAckJkvs) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 |
 | 56 | [그 때 그 사람](https://open.spotify.com/track/2q2cITx9yh5HSxwiPpgHCl) | [Sim Soo Bong](https://open.spotify.com/artist/3MruauOzN01CjMYEM2TFjn) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 3:28 |
 | 57 | [날 찾지 말아요](https://open.spotify.com/track/47Y2w2OqMvqQ93nAA6DdcI) | [지예](https://open.spotify.com/artist/4EjKK0MdFQpp3lToa1m5c6) | [장덕 추모 앨범\(하얀날 하얗게 떠난 친구에게\)](https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh) | 3:46 |
-| 58 | [보고싶은 마음](https://open.spotify.com/track/320SvnJLfvCnIC5rx0hgZ9) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 4:06 |
-| 59 | [돌아와요 부산항에](https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [돌아와요 부산항에 / 정](https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE) | 2:44 |
+| 58 | [보고싶은 마음](https://open.spotify.com/track/320SvnJLfvCnIC5rx0hgZ9) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [양희은 골든 베스트 18](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 4:06 |
+| 59 | [돌아와요 부산항에](https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [조용필](https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE) | 2:44 |
 
-Snapshot ID: `MCxjNDg3M2EwNmQ3ZDNiYzhlMzIyNWU5ZTYzNjU3YjIxNjlhYzU3YmY3`
+Snapshot ID: `MCw5M2Y2OTljMzI0YWU1Nzk4NTY5NTU5MjIzNjgzYzMzNzExYzgzOWZi`

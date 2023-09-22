@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-157 songs - 8 hr 43 min
+158 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [In Hardstyle We Trust \- Melody Mix](https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [In Hardstyle We Trust \(Melody Mix\)](https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP) | 3:55 | 2022-12-08 |  |
 | [In the Light](https://open.spotify.com/track/1MpQKl4T6Po9Kywj98Ccuu) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [In the Light](https://open.spotify.com/album/2ZBNBiQhtSr1GtigDbrKPk) | 2:35 | 2022-12-08 | 2023-05-11 |
 | [In the Shadows 2k22 \- Krowdexx Mix](https://open.spotify.com/track/6pgDjTGp6VgbUG2dYLUMdO) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [A.Spencer](https://open.spotify.com/artist/5mc3fIXZDVqM8g9wkntXyg), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [In the Shadows 2k22 \(Krowdexx Mix\)](https://open.spotify.com/album/5l19N5cOJJv9Mj4KF5dJDk) | 2:39 | 2022-12-08 |  |
+| [Invincible](https://open.spotify.com/track/1HZ45bmBkEy7ZrzA8XsBpD) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Invincible](https://open.spotify.com/album/7rGPeX8nIBG28idHyjNWH0) | 3:54 | 2023-09-21 |  |
 | [Irrenhaus](https://open.spotify.com/track/4SR46lHTitWMTzRTwsFIa6) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Irrenhaus](https://open.spotify.com/album/0oMSnIuTuOV4A4V6DynPif) | 3:23 | 2023-01-26 | 2023-02-23 |
 | [Landmines](https://open.spotify.com/track/6Bq1Elt1IMGTgjTp0wj9pU) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [Landmines](https://open.spotify.com/album/5OcqH8C8BvkE8no10d51Wn) | 3:38 | 2022-12-08 | 2023-04-19 |
 | [Legacy](https://open.spotify.com/track/7afpuAsblQQuHUk58VGNx0) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [Legacy \(feat\. Last Word\)](https://open.spotify.com/album/37TqwiOBSOpGaQwiE1iKiJ) | 3:38 | 2022-12-08 | 2022-12-16 |
@@ -154,7 +155,7 @@
 | [Unstoppable](https://open.spotify.com/track/06n5WZmsvdDLMgNGjP0nmk) | [Frequencerz](https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Unstoppable](https://open.spotify.com/album/3MYfHQWGZgHTtF4IG4XRGz) | 3:51 | 2022-12-08 | 2023-02-10 |
 | [Unsung Heroes](https://open.spotify.com/track/75QWJJ6axfkD7KqSYVqmAJ) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Unsung Heroes](https://open.spotify.com/album/6aPa1pPSSyO6ZBUQenvJPJ) | 4:16 | 2023-02-14 | 2023-05-08 |
 | [Until the Day I Die](https://open.spotify.com/track/3fuk0gZ8I1n2CYA2gsCtzH) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Until the Day I Die](https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV) | 3:11 | 2022-12-15 |  |
-| [Vault Hunter](https://open.spotify.com/track/1aWrPLv8tFgyd7ju7Tx63L) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Vault Hunter](https://open.spotify.com/album/3drPydTq7HVSuXZerLCJTh) | 4:27 | 2022-12-08 |  |
+| [Vault Hunter](https://open.spotify.com/track/1aWrPLv8tFgyd7ju7Tx63L) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Vault Hunter](https://open.spotify.com/album/3drPydTq7HVSuXZerLCJTh) | 4:27 | 2022-12-08 | 2023-09-22 |
 | [Warriors](https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Warriors](https://open.spotify.com/album/1s2toip8G6lKmOXyhVQjJq) | 3:45 | 2023-06-01 | 2023-09-08 |
 | [Way Of The Warrior](https://open.spotify.com/track/74i3mwBXn9RpmiYhy6krAu) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [Way Of The Warrior](https://open.spotify.com/album/6OJw0qC7WWsHEQ17o1hpuI) | 3:58 | 2023-05-10 | 2023-05-16 |
 | [WE AIN'T THE SAME](https://open.spotify.com/track/5qRAZhmiBhlAAznrdyExqE) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [WE AIN'T THE SAME](https://open.spotify.com/album/5ql8Jq6Ze6CJTD9rIgg2Hq) | 2:51 | 2023-02-09 | 2023-02-15 |

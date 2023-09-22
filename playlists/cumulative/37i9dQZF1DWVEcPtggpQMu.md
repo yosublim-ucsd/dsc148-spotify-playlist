@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=J35d\_3daReSdxkzXsIzVkw">Nasty C</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW?si=\-IQQXnf\-QHm2NhCpCMz9qA">Kiddo CSA</a>, <a href="https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT?si=mR\_f\-W0UQLKpSDBpKwKRzA">Lucasraps</a>
 
 602 songs - 1 day 8 hr 48 min
 

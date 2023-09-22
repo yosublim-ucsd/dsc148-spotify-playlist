@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,171 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,182 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 69 | [好好地過 \(OneDegree新時代保險廣告歌\)](https://open.spotify.com/track/1MrwXADPj7zsS23WflBVvx) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [好好地過 \(OneDegree新時代保險廣告歌\)](https://open.spotify.com/album/1EDpQ08MEZk2PrJal7NDN4) | 4:41 |
 | 70 | [解答](https://open.spotify.com/track/2D3OI4U7iR9sYZKyuxsqQk) | [Phil Lam](https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV) | [Philosophy](https://open.spotify.com/album/47IJYuvRr5O30gbIBh7ya9) | 3:47 |
 | 71 | [千世書](https://open.spotify.com/track/0IENIIyNzkRTJu7xhKvDNC) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [千世書](https://open.spotify.com/album/2VPXxz135nzaU7LTrOOby5) | 4:21 |
-| 72 | [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 |
+| 72 | [得個等](https://open.spotify.com/track/2PlGOozW4kmGhRq4yI2uEy) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/4XRXAEi3a6HTTzPBxhttyY) | 4:17 |
 | 73 | [我們都想旅行](https://open.spotify.com/track/67wmOm80zXISULC5CVQyv8) | [Ken Hung](https://open.spotify.com/artist/0sQMt1Llvcuza8oLKB9bmi) | [我們都想旅行](https://open.spotify.com/album/0iWpHNCYFrxiCbsa2dIfVj) | 3:24 |
 | 74 | [神奇的糊塗魔藥](https://open.spotify.com/track/7MresghYfws5S4JG5Fcl4e) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:23 |
 | 75 | [離散序](https://open.spotify.com/track/3iLKCRMxecPzGxLyjW85gk) | [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [離散序](https://open.spotify.com/album/2bv5vGNrmQ56rblW4zmSwz) | 4:19 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 105 | [水花四濺](https://open.spotify.com/track/6W8mNQAQ1KCImOwk2iCdwJ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 4:16 |
 | 106 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 |
 
-Snapshot ID: `MCxmM2VlYTVkMGI1Y2NjNjA4ZDljZTEzZjVlMTU3Y2JiNzQ2YjJiODVk`
+Snapshot ID: `MCw0YzMzOTFkZjFlNDI5OTFlOTYyZmFiMzBhZWY0NDUxZTQ5NTBmNTAz`

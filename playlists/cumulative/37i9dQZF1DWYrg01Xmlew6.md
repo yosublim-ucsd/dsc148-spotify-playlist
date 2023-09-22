@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Luchè e CoCo in cover.
 
-231 songs - 10 hr 50 min
+232 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [MIRANAPOLI !](https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [MIRANAPOLI !](https://open.spotify.com/album/7Lpk370d7OaHa0L3SluvvS) | 3:40 | 2022-05-10 | 2023-09-01 |
 | [MME CHIAMME \(feat\. L'Elfo\)](https://open.spotify.com/track/205YVtuavBF71s4vkBTiWm) | [Big Effe](https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm), [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ), [LDO](https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z) | [5G](https://open.spotify.com/album/21r5Lf33P4f2tC6WdKbU9O) | 3:07 | 2022-12-08 | 2023-01-13 |
 | [MNFO](https://open.spotify.com/track/4GVwc1LNeRCN1GgZ0ddQGt) | [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [MNFO](https://open.spotify.com/album/5GKm05yclaqmR6CbmYTEVt) | 1:49 | 2023-05-18 | 2023-06-30 |
-| [MODALITÀ AEREO](https://open.spotify.com/track/4R3A9f585qIiPLjquQ5YCR) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [MODALITÀ AEREO](https://open.spotify.com/album/6pdwB2lhmph33c2oeoi0Ep) | 2:14 | 2023-06-29 |  |
+| [MODALITÀ AEREO](https://open.spotify.com/track/4R3A9f585qIiPLjquQ5YCR) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [MODALITÀ AEREO](https://open.spotify.com/album/6pdwB2lhmph33c2oeoi0Ep) | 2:14 | 2023-06-29 | 2023-09-22 |
 | [MON FRÈRE](https://open.spotify.com/track/0asWoyaaXT6epkNPPBZafV) | [Eris Gacha](https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2) | [MON FRÈRE](https://open.spotify.com/album/0ZNmo17Fggyeq9To4l203d) | 2:13 | 2023-02-09 | 2023-05-19 |
 | [Mon Frère](https://open.spotify.com/track/07dSNokvCYwkEcHfajaIJz) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [Ammore Malamente](https://open.spotify.com/album/5pydbU79C724udCB6btJsy) | 2:34 | 2023-04-20 | 2023-05-19 |
 | [MONEY](https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [MONEY](https://open.spotify.com/album/1L3BundfZgLB9db5496I4y) | 2:45 | 2022-11-18 |  |
@@ -174,6 +174,7 @@
 | [PNT \#1 \- Punti di vista](https://open.spotify.com/track/3396cbLW7mZiwppmUBGVSR) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [PNT \#1 \- Punti di vista](https://open.spotify.com/album/12jRhgG3sfQQtIgjVYfSaB) | 2:23 | 2022-09-29 | 2022-10-14 |
 | [POF \(feat\. Ensi\)](https://open.spotify.com/track/4E9trhAx1In5kXUQamSsA5) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [RIVA](https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:48 | 2022-05-10 | 2022-06-03 |
 | [Popp ice](https://open.spotify.com/track/2S0vyxbeTnlEvCWRsLVfI2) | [Tony Amatore](https://open.spotify.com/artist/0Y0lt6UuYcT4C6uldl4yqm), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp), [Renato Biancardi](https://open.spotify.com/artist/7yZdnHF92fQaJS0a4T9MtF) | [Popp ice](https://open.spotify.com/album/56vxL1JVFKyqGybNEmQgdV) | 2:35 | 2022-10-13 |  |
+| [PRIMMA VOT'](https://open.spotify.com/track/0JSuco2bCNbbsRUunG60md) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [PRIMMA VOT'](https://open.spotify.com/album/2cxk31UrFnrGtRR3RgBaP1) | 2:21 | 2023-09-21 |  |
 | [PRIMMO AMMORE](https://open.spotify.com/track/0UuY3i8Ee0VZWDY5VJfKNw) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh) | [PRIMMO AMMORE](https://open.spotify.com/album/0jRDpJ2bMVD8JT43ifUd9E) | 2:34 | 2023-03-23 | 2023-04-14 |
 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 | 2023-09-20 |  |
 | [PUORTEM RISPETT](https://open.spotify.com/track/0dT9EbREPPOhKlGTPN377A) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 3:25 | 2023-04-27 | 2023-05-19 |

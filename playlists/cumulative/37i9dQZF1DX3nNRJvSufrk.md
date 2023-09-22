@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-151 songs - 9 hr 9 min
+152 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Set It](https://open.spotify.com/track/5MN5F79KBF9vbZAa9i4plU) | [Dream Continuum](https://open.spotify.com/artist/4VRT7JNcqS3yMV0rBxxUlV) | [Reworkz E.P.](https://open.spotify.com/album/4fDMA35GmtYndarl6MmENj) | 5:12 | 2020-12-03 | 2023-04-29 |
 | [Set It](https://open.spotify.com/track/72paK2vF9UTopN6XAsijRX) | [Dream Continuum](https://open.spotify.com/artist/4VRT7JNcqS3yMV0rBxxUlV) | [Reworkz E.P.](https://open.spotify.com/album/4eTOHLnXdr5WK7UYWnaYXU) | 5:12 | 2020-12-03 | 2022-07-28 |
 | [She a Go](https://open.spotify.com/track/3RWDJd7eh6Scfoz94sJbsX) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Spinn](https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:37 | 2020-12-03 | 2022-07-29 |
-| [She A Go \(feat\. DJ Spinn & Taso\)](https://open.spotify.com/track/04mCBv0H4IXwCVTuZ5seYE) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Double Cup](https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR) | 3:37 | 2020-12-03 |  |
+| [She A Go \(feat\. DJ Spinn & Taso\)](https://open.spotify.com/track/64ybRGYH1ftn9XIIeG6qFY) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Double Cup](https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7) | 3:37 | 2023-06-30 |  |
+| [She A Go \(feat\. DJ Spinn & Taso\)](https://open.spotify.com/track/04mCBv0H4IXwCVTuZ5seYE) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Double Cup](https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR) | 3:37 | 2020-12-03 | 2023-09-22 |
 | [She A Go \(feat\. Spinn & Taso\)](https://open.spotify.com/track/2uR84MrS2oNWMcgaN7byIl) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Double Cup](https://open.spotify.com/album/21dsgJBSUM6IvAGFjfotgF) | 3:37 | 2020-12-03 | 2023-04-29 |
 | [Skkrtt](https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 4:49 | 2020-12-03 |  |
 | [Slanted \(BSN Posse Remix\)](https://open.spotify.com/track/5gtyWp5rTQXIouCryZm7fG) | [Tim Parker](https://open.spotify.com/artist/2SzHSUFj8BUrUplhzpbW5T), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/2I41rw3sceGcUVoKyIOxwB) | 3:46 | 2020-12-03 |  |

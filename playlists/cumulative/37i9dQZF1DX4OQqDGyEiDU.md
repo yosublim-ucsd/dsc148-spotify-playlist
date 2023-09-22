@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-527 songs - 1 day 6 hr 7 min
+528 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 | [不埒な喝采](https://open.spotify.com/track/1yALlDzyQ4MbzEtMosEJkk) | [音楽的同位体 可不\(KAFU\)](https://open.spotify.com/artist/4nZ9ZaF0eFDMDQKgrJgsqC) | [KAF+YOU KAFU COMPILATION ALBUM](https://open.spotify.com/album/6ljHb4t09MebY2WYuP8iQ1) | 2:24 | 2022-06-09 | 2022-07-23 |
 | [不完全愛情進行中](https://open.spotify.com/track/1kccUSvGvxEt7tccnrfV4y) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [不完全愛情進行中](https://open.spotify.com/album/1FIf5JBEDDWxaqwvtCiRAM) | 2:41 | 2022-10-27 | 2023-01-06 |
 | [不純なベンガラ](https://open.spotify.com/track/3xN6bAYDya63j0tuaTIXXJ) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [不純なベンガラ](https://open.spotify.com/album/43eiB8sDKy4v5spvmTTZdr) | 2:39 | 2022-06-30 | 2022-07-05 |
-| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 |  |
+| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 | 2023-09-22 |
 | [人が歌う曲じゃない](https://open.spotify.com/track/4dOWyhJA2QK2JHsTuEzPgz) | [SajEst](https://open.spotify.com/artist/4w5OjwRCUqwdyNT1wFGp03) | [人が歌う曲じゃない](https://open.spotify.com/album/1WCpiyvA0OxQQM9awKLLhS) | 3:37 | 2022-06-30 | 2022-07-13 |
 | [仮定した夏](https://open.spotify.com/track/3sZaa7Ia4pGRtDncfD3deL) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [幻影EP\-Envy Phantom\-](https://open.spotify.com/album/5fzbipqPBcovgsJTdZHs9K) | 3:06 | 2022-06-23 | 2022-07-19 |
 | [僕にはなにができるかな](https://open.spotify.com/track/0ndD4pjPPzvehbz91ZALYU) | [jijil](https://open.spotify.com/artist/6XPjgI4sxBVWt01zOZDQWg) | [僕にはなにができるかな](https://open.spotify.com/album/4dnj0B9INT5Zq1KHO2MAtB) | 3:36 | 2022-06-14 | 2022-06-18 |
@@ -439,6 +439,7 @@
 | [地球最後の告白を feat.GUMI](https://open.spotify.com/track/1h8wPYHIuhrO1q52ph7VXb) | [Kemu](https://open.spotify.com/artist/1XdtlhxEDsae1fePHTX4bn), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [EXIT TUNES PRESENTS GUMing from Megpoid](https://open.spotify.com/album/4kacW0BcM6U5PWC4OhJx0u) | 4:25 | 2022-06-09 | 2022-07-23 |
 | [夏をなぞって \(feat\. 初音ミク\)](https://open.spotify.com/track/0WTwl1CjtgWXe9BixCOEvi) | [シロクマ消しゴム](https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk) | [夏をなぞって](https://open.spotify.com/album/3FSDVlqgftzzBeozesfVft) | 2:49 | 2022-07-10 | 2022-07-13 |
 | [夜になったら耿十八は](https://open.spotify.com/track/2MSy9UNx9xNfOLbTHae4tb) | [Peg](https://open.spotify.com/artist/2nXscFBFNh9ryugWGdW5po) | [Immortal Club](https://open.spotify.com/album/3b4ylZFSqdxu4vUtbgYPav) | 3:37 | 2022-06-09 | 2022-07-21 |
+| [夜に駆ける \- 初音ミク Ver.](https://open.spotify.com/track/2bMXwZygmS7rYkj7fqwgyK) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [MIKUNOYOASOBI](https://open.spotify.com/album/1fjZkuXmQVvEsgXekSQC74) | 4:19 | 2023-09-21 |  |
 | [夜もすがら君想ふ](https://open.spotify.com/track/3mH5bQJk2zCuV2aH0V6TPC) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [ぼくの魔法使い](https://open.spotify.com/album/0oEVuplSruIOKKiHRtSqj0) | 4:00 | 2022-06-09 | 2022-07-17 |
 | [夜咄ディセイブ \-TeddyLoid Hopping Remix\-](https://open.spotify.com/track/44VSRtW1INM92JoRRAaUeg) | [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [MUSICAL & LIVE SHOW "ARIA" ORIGINAL SOUNDTRACK](https://open.spotify.com/album/2wSxEZWpc6ha8bFeMrmOJK) | 3:08 | 2022-06-21 | 2022-07-29 |
 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2022-06-09 | 2023-09-01 |

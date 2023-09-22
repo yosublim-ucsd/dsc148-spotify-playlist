@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,093 likes - 91 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,197 likes - 91 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 82 | [Sol](https://open.spotify.com/track/6Nfe1ltx2LxuHWGuPYlRrx) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1), [John Stubberfield](https://open.spotify.com/artist/77ze7bd3cvDho2XbA7t8yg), [Martin Entwistle](https://open.spotify.com/artist/5F2HOKGYHiZ0ideI9s52yU) | [Carter Jason: Eclipse](https://open.spotify.com/album/0OksXOwEMDQKSZkPlwXtik) | 4:38 |
 | 83 | [Council of the Flocks](https://open.spotify.com/track/0H0lhPBWOTrfPmR9o0ZEV6) | [Alice Gomez](https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ), [Eric Casillas](https://open.spotify.com/artist/4ZErN3ia0trBrMP88iZgaE), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK), [Mesa Music Consort](https://open.spotify.com/artist/2BQnWxr7muleTey50XBtAt) | [Wind Riders](https://open.spotify.com/album/2oyZtr5NOa8bkTBHRUU3r5) | 5:33 |
 | 84 | [Colorado](https://open.spotify.com/track/2z6rsQw9NZZ0ZqLUz4moBg) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Putumayo Presents Acoustic Yoga](https://open.spotify.com/album/0F032Czz9Bugbag2aIR6EB) | 5:00 |
-| 85 | [Wild Geese Descending on the Sandy Beach](https://open.spotify.com/track/3x0vKjGCg5RDLpM0XMK82X) | [Anonymous](https://open.spotify.com/artist/3H269p8sGhjP7WBYlGsN18), [Cheng Yu](https://open.spotify.com/artist/0cIBfjfkoz4qGajAFrf93H) | [Chinese Masterpieces of the Pipa and Qin](https://open.spotify.com/album/5hz3aYRr1OC97oSj8P48s8) | 6:18 |
+| 85 | [Wild Geese Descending on the Sandy Beach](https://open.spotify.com/track/3x0vKjGCg5RDLpM0XMK82X) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Cheng Yu](https://open.spotify.com/artist/0cIBfjfkoz4qGajAFrf93H) | [Chinese Masterpieces of the Pipa and Qin](https://open.spotify.com/album/5hz3aYRr1OC97oSj8P48s8) | 6:18 |
 | 86 | [The Fairy Queen](https://open.spotify.com/track/5aHaBu4Nw5eMWgmKkp51SH) | [Aryeh Frankfurter](https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ) | [Aryeh Frankfurter: Celtic Harp \- Tunes From Ireland, Scotland and Scandinavia](https://open.spotify.com/album/2gUUuHz0ZTGPfV97oZDv7N) | 3:55 |
 | 87 | [Kora by Night](https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Kora Fo](https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh) | 3:45 |
 | 88 | [Duga](https://open.spotify.com/track/6tdJU5kgDI9yP4LBdVMh8X) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 2:36 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 90 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 |
 | 91 | [Still Moment](https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 5:43 |
 
-Snapshot ID: `MCwxNDM1NTliMDM5ZGUwY2I3MDEwM2E0NDRlMzQ3Zjk3ZjhhYTI4Yjll`
+Snapshot ID: `MCxlODMxMGY1YzE0ZWIwNzVkZGU4NGJjZjk1NGU4MTU5OWYyMmFmZGFl`

@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-572 songs - 22 hr 5 min
+573 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Diamond Drift](https://open.spotify.com/track/39JwMiZTMfb9tMRBZl7wxA) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC), [gelowler](https://open.spotify.com/artist/2KOltraKOgOrYb9o4ctyJO) | [Diamond Drift](https://open.spotify.com/album/5VyIU7SbhV84fyOYsIT8KD) | 2:00 | 2022-11-18 | 2023-03-25 |
 | [Die Again](https://open.spotify.com/track/1md3OQwPC88FQBNTrIKB31) | [SLEEPYHΞAD](https://open.spotify.com/artist/4cRpx4JMz6PqudYnDpPbiK) | [Die Again](https://open.spotify.com/album/3whvtTaQeb1MfZwJfbL3TQ) | 2:20 | 2022-06-17 | 2022-08-27 |
 | [Die Again](https://open.spotify.com/track/39OLf8IufGFTmYc9xNOHzN) | [SLEEPYHΞAD](https://open.spotify.com/artist/4cRpx4JMz6PqudYnDpPbiK) | [Die Again](https://open.spotify.com/album/2Y6NfUtku5IZJXyPwTXGB7) | 2:20 | 2022-06-10 | 2022-06-18 |
-| [DILATAÇÃO HIPNÓTICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN](https://open.spotify.com/track/7tVT6XXiSTCKmNOIZWNE1H) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj) | [DILATAÇÃO HIPNÓTICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN](https://open.spotify.com/album/40ksIe7wQuzIeAHuDmJwEB) | 1:58 | 2023-09-08 |  |
+| [DILATAÇÃO HIPNÓTICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN](https://open.spotify.com/track/7tVT6XXiSTCKmNOIZWNE1H) | [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj) | [DILATAÇÃO HIPNÓTICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN](https://open.spotify.com/album/40ksIe7wQuzIeAHuDmJwEB) | 1:58 | 2023-09-08 | 2023-09-22 |
+| [DILATAÇÃO HIPNÓTICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN](https://open.spotify.com/track/4jlpolFHD80UrKrl3laBK2) | [crib](https://open.spotify.com/artist/5eQyMFUAYHp3xtPmkmnPIR) | [DILATAÇÃO HIPNÓTICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN](https://open.spotify.com/album/0ZtAJhCM7Tj0BdT8iOhkii) | 1:57 | 2023-09-08 |  |
 | [DILATAÇÃO HIPNÓTICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN](https://open.spotify.com/track/59gbcSpjUzt3FGOZ1iWPXI) | [funkzada](https://open.spotify.com/artist/75iSY6iHbccajKCvuOY40x) | [DILATAÇÃO HIPNÓTICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN](https://open.spotify.com/album/78cllbsvrbFS2t97KLkJlN) | 1:57 | 2023-09-08 | 2023-09-20 |
 | [Disaster](https://open.spotify.com/track/1xFRymLXeZNa95SHjpcdJZ) | [Hammound](https://open.spotify.com/artist/62Gv0hCZD1VtXunP8qgOKB) | [Disaster](https://open.spotify.com/album/0y7F0A5G3Ryam3ikA9Hcga) | 1:24 | 2022-04-06 | 2023-03-15 |
 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 | 2022-04-06 | 2023-03-11 |

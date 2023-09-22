@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,058 likes - 112 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,145 likes - 112 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 44 | [Tonde Iru Tori](https://open.spotify.com/track/6aWOKxYd6UCWjvTX9duJ3Q) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Tonde Iru Tori](https://open.spotify.com/album/5HRlqqokcT52PFQDKxV3U9) | 1:47 |
 | 45 | [before dawn](https://open.spotify.com/track/1M40Bxzt6dn8KO86DZYEme) | [Iddy P](https://open.spotify.com/artist/0JZwamLi5bDuUwYybNnFoF) | [before dawn](https://open.spotify.com/album/1sRhJcsZFbkn2e5x6GQN3E) | 3:12 |
 | 46 | [Eggin](https://open.spotify.com/track/3X1ESRtZOrGiB5r3gobKZA) | [Masuyu](https://open.spotify.com/artist/6m6GTttiO1qLImlyNeXoz0) | [Eggin](https://open.spotify.com/album/7yHrYH37amcjPBuu2NxHwN) | 1:58 |
-| 47 | [chimenea](https://open.spotify.com/track/0gapXTrrUdFXk8707pDVBB) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9), [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [chimenea](https://open.spotify.com/album/6Fu7WKoTfwFKNX6dn3UPV4) | 1:54 |
+| 47 | [chimenea](https://open.spotify.com/track/0gapXTrrUdFXk8707pDVBB) | [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs), [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [chimenea](https://open.spotify.com/album/6Fu7WKoTfwFKNX6dn3UPV4) | 1:54 |
 | 48 | [Little Love](https://open.spotify.com/track/5aHAFqPCvV4dn7Pcaehs0V) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Roland Faunte](https://open.spotify.com/artist/1IMFkgZ2ZpHknO1v2n97CH) | [Don't Look at Me](https://open.spotify.com/album/6mNimsORUE9O92lI3H2DiT) | 2:51 |
 | 49 | [Coral](https://open.spotify.com/track/5wrvepHi6fDBI3Fj8GDhLx) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Coral](https://open.spotify.com/album/2ewETQPTVRdFPgX81hQ4n9) | 2:26 |
 | 50 | [Heart Chakra](https://open.spotify.com/track/7jOoaIGbwxtH1dpcGp1YSP) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Heart Chakra](https://open.spotify.com/album/1Ns9DLdpOhM2MN8LRuwBHx) | 2:17 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 111 | [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 |
 | 112 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 |
 
-Snapshot ID: `MCwxYjYwY2E0NmRjYzRmYmIzYjE4YzAwMGUyOWQzZWY3NzVjNDYxNGE5`
+Snapshot ID: `MCwzNTM0MzNiOTkwMmYxMTdkMzBmOTBiMmJhNDk1OGU4NDk3OTk0ZmI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db?si=FtwW6NTFRWONZlSI\-\-5snw">Sion Nación Santa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,915 likes - 99 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,980 likes - 99 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Extraterrestre](https://open.spotify.com/track/4w3XNPj5NklCz4F2Fzmaiv) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [Extraterreste](https://open.spotify.com/album/6qs5RSabPwxs9xOeeSlPof) | 3:56 |
 | 99 | [AMARILLO](https://open.spotify.com/track/6hU4Ee2ttvDY3ZAWImWsyv) | [PLATANOS](https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB) | [AMARILLO](https://open.spotify.com/album/5m6LsBxIA5dfAyTkYwTgsS) | 2:47 |
 
-Snapshot ID: `MCw4M2E1MzM3MmUwNWNmOWIyZmQ0ZDgzMjE5ZjdiMDQzYjQ3OTUyMTdh`
+Snapshot ID: `MCxhOGUyYjk3NDA1OGEyMzNiNGU1MWQ4OTU5NWMyNDFlZWJhYThjZTJh`

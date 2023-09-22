@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-185 songs - 8 hr 14 min
+186 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Chantilly Lace](https://open.spotify.com/track/25hrRL7AzlYSLtttKIoY5l) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [The Big Bopper's Greatest Hits](https://open.spotify.com/album/3TQUtTuwtG9vDtRprrifqC) | 2:21 | 2022-05-06 | 2022-06-10 |
 | [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 | 2022-07-05 |  |
 | [Checkered Flag](https://open.spotify.com/track/1KWpWBABJT2glaEEuyICIx) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Checkered Flag](https://open.spotify.com/album/3iHXkPhhKnv84UDbYjFRwA) | 4:05 | 2022-05-06 | 2022-07-29 |
-| [Checkered Flag](https://open.spotify.com/track/5ZGBKoa6sydhYUMiv4g1a4) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Gotta Have the Rumble](https://open.spotify.com/album/6Y4c5dgnOrQjzWM9NrKguN) | 4:05 | 2022-07-05 |  |
+| [Checkered Flag](https://open.spotify.com/track/5ZGBKoa6sydhYUMiv4g1a4) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Gotta Have the Rumble](https://open.spotify.com/album/6Y4c5dgnOrQjzWM9NrKguN) | 4:05 | 2022-07-05 | 2023-09-22 |
 | [Chevy 55](https://open.spotify.com/track/2ZIRhZgebost1ImAJfk5Fh) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In The Mood](https://open.spotify.com/album/5Ocx2ap021QLIR0xpILvJx) | 2:55 | 2022-05-06 | 2022-07-29 |
 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 | 2022-07-05 |  |
 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 | 2022-08-12 |  |
@@ -145,6 +145,7 @@
 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 | 2022-07-05 |  |
 | [Rock Around With Ollie Vee \- Single Version](https://open.spotify.com/track/1hcs4ZGMVsnKgBRawd1cCA) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Memorial Collection](https://open.spotify.com/album/5UQXhyOJrvqoNC5WE3tGEp) | 2:11 | 2022-05-06 | 2022-07-21 |
 | [Rock Billy Boogie](https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2) | [Robert Gordon](https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF) | [Rock Billy Boogie](https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt) | 2:33 | 2022-05-06 |  |
+| [Rock Boys Rock](https://open.spotify.com/track/0YZ0npA4EPFkFwXlbgsLPS) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [The Devil Always Collects](https://open.spotify.com/album/4AxfzKTpdmkuue9MfXBr0h) | 3:05 | 2023-09-21 |  |
 | [Rock'n'Roll](https://open.spotify.com/track/1aOsvbDBO3yzjQtnahkGG6) | [PatC Miller And The Tailshakers](https://open.spotify.com/artist/0xKxb8ktWxhoAiEGBNJ7CG) | [Come On Roll](https://open.spotify.com/album/4IbYvsIRqmfWO5XxMEkvlJ) | 2:51 | 2022-07-05 | 2022-07-10 |
 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 | 2022-05-06 | 2022-11-14 |
 | [Rockabilly Banjo](https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Gotta Have The Rumble](https://open.spotify.com/album/642jWZ7p8JKY7s5biYPK5o) | 3:13 | 2022-05-06 | 2022-07-28 |

@@ -1894,6 +1894,24 @@
     {
       "album": {
         "name": "Naveezy",
+        "url": "https://open.spotify.com/album/5s97Jucf39sW9uP10l77nT"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/3GqvCPECYIcL4nV88jYGyT"
+    },
+    {
+      "album": {
+        "name": "Naveezy",
         "url": "https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn"
       },
       "artists": [
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 207272,
       "name": "Jail",
       "url": "https://open.spotify.com/track/4vq09IiRwg2EdJtovCl5H2"
@@ -2164,6 +2182,32 @@
       "duration_ms": 159529,
       "name": "Kalakaar",
       "url": "https://open.spotify.com/track/1P2kP6CnEQunaOaOQVcxDE"
+    },
+    {
+      "album": {
+        "name": "Khadaak",
+        "url": "https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5"
+      },
+      "artists": [
+        {
+          "name": "Shooter Kahlon",
+          "url": "https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS"
+        },
+        {
+          "name": "Shevv",
+          "url": "https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok"
+        },
+        {
+          "name": "Micheal",
+          "url": "https://open.spotify.com/artist/6zpEdIx1ij3g8Tx4OKKea4"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157590,
+      "name": "Khadaak",
+      "url": "https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee"
     },
     {
       "album": {

@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 272106,
       "name": "Christmas Waltz",
       "url": "https://open.spotify.com/track/0myOinmRDkfWlHnG2wIFzh"
@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "The Christmas Waltz",
+        "url": "https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX"
+      },
+      "artists": [
+        {
+          "name": "Milad Greenland",
+          "url": "https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100015,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw"
+    },
+    {
+      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
       },
@@ -1382,6 +1400,24 @@
       "duration_ms": 206552,
       "name": "The Ultimate Gift",
       "url": "https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0"
+    },
+    {
+      "album": {
+        "name": "Christmas Kiss",
+        "url": "https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151345,
+      "name": "The Winter Song",
+      "url": "https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj"
     },
     {
       "album": {

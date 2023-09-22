@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,779 likes - 1,175 songs - 3 day 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,833 likes - 1,175 songs - 3 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,7 +251,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 241 | [Pânico Geral](https://open.spotify.com/track/7dfr71bUMbb2nK2md4k1l0) | [Grupo Controle Digital](https://open.spotify.com/artist/5uNisGq3ouLS89g12oOWtk) | [A Festa É Nossa](https://open.spotify.com/album/2V09pctdsFAFvEHlU33aGU) | 2:59 |
 | 242 | [Y no le conviene](https://open.spotify.com/track/1y4IQ14GLc8veZ4ZR8vdPe) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Si, Para Usted \- The Funky Beats of Revolutionary Cuba Vol\. 1](https://open.spotify.com/album/6JXle7fMWDrpIwxaFTDNxK) | 4:01 |
 | 243 | [Me Voy Pa'la Costa](https://open.spotify.com/track/7nDMk083NoK0973mr0TA8j) | [Rosendo Y Su Banda](https://open.spotify.com/artist/23diwJPVFPBRAV31o5aOmV) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY) | 3:57 |
-| 244 | [Fear Not For Man](https://open.spotify.com/track/50pr6cNY0hN3ptSCS90Bj6) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fear Not For Man](https://open.spotify.com/album/1YPAWyiCPvhgqju8veosGt) | 14:14 |
+| 244 | [Fear Not for Man](https://open.spotify.com/track/0dKa5TcbAm0g7DTJjzZeAw) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fear Not for Man](https://open.spotify.com/album/63AnouOM2SwpjB9vkxnkvc) | 14:14 |
 | 245 | [El Aguajal](https://open.spotify.com/track/1RKFSzNHUjnsbVlM0r397p) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [El Mundo de los Pobres](https://open.spotify.com/album/66TOc56eMrDa7l7kgec8Ms) | 3:54 |
 | 246 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:00 |
 | 247 | [I Need Somebody To Love Tonight](https://open.spotify.com/track/0wotnD2zTSOUDwVBN863fi) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 4:02 |
@@ -663,7 +663,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 653 | [Patuscada de Gandhi \- Afoxé filhos de Gandhi](https://open.spotify.com/track/6pqvI3ods51ID3ZSJ67H9S) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Refavela](https://open.spotify.com/album/7gl0SUDwWTOdUehXFypXna) | 2:35 |
 | 654 | [Tudo Azul N'América Do Sul \- 1998 \- Remaster;](https://open.spotify.com/track/2oY87BzLvBPryKYUuF4VdZ) | [Abilio Manoel](https://open.spotify.com/artist/4ag0CL3N5rbWwk0PUEFaA3) | [Selecao De Ouro](https://open.spotify.com/album/0OXoyobh6bszMMThS2GNon) | 2:59 |
 | 655 | [Juliana](https://open.spotify.com/track/0lrZGzpgi4QOgQJ1zRbNR2) | [Sweet Talks](https://open.spotify.com/artist/0SA89uZQCAU8LQWnShcbY2) | [Party Time in Hollywood](https://open.spotify.com/album/2zbwUH18pDZnEw6RJmMcMq) | 5:54 |
-| 656 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
+| 656 | [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 |
 | 657 | [หัวใจผมว่าง](https://open.spotify.com/track/2SJXAmbdgbX2VyqXPzmCkm) | [สุรพล สมบัติเจริญ](https://open.spotify.com/artist/37Spq0XXQKSIaOKjFkCGhO) | [แฟนจ๋า](https://open.spotify.com/album/5DqzR7U8JKmUcgrQYLDane) | 3:00 |
 | 658 | [Yebo Edi Pachanga](https://open.spotify.com/track/2TatZQhTE9sNia2FNaebc1) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU) | [Estrellas](https://open.spotify.com/album/2WgEVB6gkJ8ijn08kafvrf) | 5:19 |
 | 659 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
@@ -1184,4 +1184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1174 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1175 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxkODIwYzA5MTMyNzU2M2MwODg0MDUwYWFiNzhiMmJhNTJmOTM0ZThj`
+Snapshot ID: `MCwzMzg2MWUxMTU1ODI2ODk5NzYwMTAwY2YzMTA2MjhmMzljYjQ3ZTlj`

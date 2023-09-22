@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 23529,
+  "num_followers": 23564,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjU5MzcwNjE0YTYzNDg2ZTdmYTg2ZDA5ZmY4NDYwYTQwOGIyYTJm",
+  "snapshot_id": "MCxjYzE2MTRlMzU1YTY5NTg3ODFmNmM4NmRlOTAwYTA1NzBkM2Q3ZjJj",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Gran Pilastro",
+        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Deval",
+          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
+        }
+      ],
+      "duration_ms": 65000,
+      "name": "Gran Pilastro",
+      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Juntos para Siempre",
         "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 224173,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Gran Pilastro",
-        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9onie Deval",
-          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
-        }
-      ],
-      "duration_ms": 65000,
-      "name": "Gran Pilastro",
-      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -383,26 +383,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Z\u00e9phyrine",
         "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
       },
@@ -415,22 +395,6 @@
       "duration_ms": 140374,
       "name": "Z\u00e9phyrine",
       "url": "https://open.spotify.com/track/3WZLdoZGzlSWEUXnmqUq26"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
-        "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
-      },
-      "artists": [
-        {
-          "name": "Luis Siu Riveron",
-          "url": "https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Asi Bailaba Cuba - Instrumental",
-      "url": "https://open.spotify.com/track/3waAyPLnhNQRbdh6Pb6mRX"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -451,6 +415,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Grandes Boleros En Piano Y Ritmo (Instrumental)",
+        "url": "https://open.spotify.com/album/19D3ge8HWiNwh8jtiydYKp"
+      },
+      "artists": [
+        {
+          "name": "Luis Siu Riveron",
+          "url": "https://open.spotify.com/artist/6vshvvqO8e8oXHDC0RBXpE"
+        }
+      ],
+      "duration_ms": 333533,
+      "name": "Asi Bailaba Cuba - Instrumental",
+      "url": "https://open.spotify.com/track/3waAyPLnhNQRbdh6Pb6mRX"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Las colinas del priorato",
         "url": "https://open.spotify.com/album/7cLj7vH0K6tHHwFiNTYWot"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 91994,
       "name": "Las colinas del priorato",
       "url": "https://open.spotify.com/track/5mu1VAQqud9UHFLsk0u01q"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -535,26 +535,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Bossa Nova EP",
         "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
       },
@@ -619,22 +599,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Manh\u00e3 de Carnaval",
-        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
-      },
-      "artists": [
-        {
-          "name": "Pedro Santos",
-          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
-      "url": "https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Piano Jondo",
         "url": "https://open.spotify.com/album/1SsRBNFSz1ediZjZ756qu4"
       },
@@ -647,6 +611,42 @@
       "duration_ms": 286933,
       "name": "El Llanto de la Lluvia",
       "url": "https://open.spotify.com/track/0vGx46vNX5rySadM42qXmW"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
+      },
+      "artists": [
+        {
+          "name": "Pedro Santos",
+          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
+        }
+      ],
+      "duration_ms": 296106,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -731,26 +731,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Cuba Cuba",
-        "url": "https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX"
-      },
-      "artists": [
-        {
-          "name": "Guy Barker",
-          "url": "https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG"
-        },
-        {
-          "name": "Bernardo Sassetti",
-          "url": "https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Se\u00f1or Danzon",
-      "url": "https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "R\u00edo de los Canasteros",
         "url": "https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 548600,
       "name": "Al Latin",
       "url": "https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Cuba Cuba",
+        "url": "https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX"
+      },
+      "artists": [
+        {
+          "name": "Guy Barker",
+          "url": "https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG"
+        },
+        {
+          "name": "Bernardo Sassetti",
+          "url": "https://open.spotify.com/artist/7zRQh7uzMB0kDd1VwJNsUf"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Se\u00f1or Danzon",
+      "url": "https://open.spotify.com/track/6SnkcY42LeTZouiKNw8IsZ"
     },
     {
       "added_at": "2021-01-18 15:57:14",

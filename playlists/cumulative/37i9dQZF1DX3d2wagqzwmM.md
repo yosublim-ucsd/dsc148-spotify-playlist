@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-345 songs - 18 hr 32 min
+346 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-20 |  |
 | [MIND CONTROL](https://open.spotify.com/track/1ijNLECKPfBExLWeq9MD74) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [MIND CONTROL](https://open.spotify.com/album/3BiMWVo79A0eBXjU3ftPrT) | 4:08 | 2022-06-30 | 2023-01-03 |
 | [Mind Dimension \- Tiësto Remix](https://open.spotify.com/track/7aEivHwZvqNHoqsXoNKcWL) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Mind Dimension \(Tiësto Remix\)](https://open.spotify.com/album/3CX2LjhZKJ0ERvdKW0t5YV) | 3:40 | 2022-12-27 | 2023-01-03 |
-| [Minerva](https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Minerva](https://open.spotify.com/album/1V2i9HepUHLseVkSdAeSuv) | 2:52 | 2023-09-07 |  |
+| [Minerva](https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Minerva](https://open.spotify.com/album/1V2i9HepUHLseVkSdAeSuv) | 2:52 | 2023-09-07 | 2023-09-22 |
 | [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-07-20 |  |
 | [Missing You](https://open.spotify.com/track/2y9DDWm7kuxoSk4VPu1Spv) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [EMKR](https://open.spotify.com/artist/16YZPLaST1ER7EtQizXEPA) | [Missing You](https://open.spotify.com/album/7k6GSoJGrGyF5JeksX4Hd7) | 3:04 | 2022-04-14 | 2022-05-04 |
 | [Mockmoon \(Peace, Love, XTC\)](https://open.spotify.com/track/1X4gELOOeBfWVp1dj7ycFO) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF), [Genlog](https://open.spotify.com/artist/3fzP4AxJEAIgQ6QgItTzJ3) | [Mockmoon \(Peace, Love, XTC\)](https://open.spotify.com/album/1PqcQOQlifaSVhPMAN6JsZ) | 6:08 | 2022-12-27 | 2023-01-03 |
@@ -321,6 +321,7 @@
 | [The Navigator \- Radio Edit](https://open.spotify.com/track/1s4H1Bp57OQFBdbi1I8ZDx) | [Vorwerk](https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC), [Jørg](https://open.spotify.com/artist/52azdvkWc7jk4hPhxtgc0z) | [The Navigator](https://open.spotify.com/album/4i8v0wJ8FdBvowLELbRsRY) | 3:40 | 2022-12-27 | 2023-01-03 |
 | [The Passenger \(LaLaLa\) \[feat\. MOKABY\] \- Gabry Ponte Festival Mix](https://open.spotify.com/track/0LpWBNqyyn81WnoILV9mxV) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MOKABY](https://open.spotify.com/artist/3AXI2Qfty5IVrmtQzi8weo) | [The Passenger \(LaLaLa\) \[feat\. MOKABY\] \[Gabry Ponte Festival Mix\]](https://open.spotify.com/album/4FzZTh4CGJ6WJhR84F2T2o) | 2:42 | 2022-04-14 | 2022-07-29 |
 | [The Phoenix](https://open.spotify.com/track/3FQ7o0hI7lM1j9DfLKl7RJ) | [REVLIN](https://open.spotify.com/artist/3pScnrwwm1UK3sczkyDq33) | [The Phoenix](https://open.spotify.com/album/13GDnb6X5qI16ZyNbuHPDr) | 3:52 | 2022-04-14 | 2022-04-21 |
+| [The Playground](https://open.spotify.com/track/6otJQ1BMqoWjOXZb2KtgaQ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [The Playground](https://open.spotify.com/album/6tEEZtViXnvNeS5pFcY9fz) | 3:02 | 2023-09-21 |  |
 | [The Soulcatcher](https://open.spotify.com/track/3Q4CHVn8Gln5uhTFiPuTnn) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [The Soulcatcher](https://open.spotify.com/album/6PtttpAoiPsQClj2V58ZKx) | 2:48 | 2022-11-28 | 2023-02-06 |
 | [The Weekend](https://open.spotify.com/track/1mA59ka5t7zodO1FO0Xzzj) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [The Weekend](https://open.spotify.com/album/4053RHHeqwePbdghoqM1i9) | 2:48 | 2022-04-14 | 2022-10-14 |
 | [Thrill](https://open.spotify.com/track/0n8PMT5vyu8lffykqYvOIo) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Linka](https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc), [Gregor Potter](https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd) | [Thrill](https://open.spotify.com/album/5TqgtXhlVZi0KwEdWr1AST) | 3:37 | 2022-11-10 |  |

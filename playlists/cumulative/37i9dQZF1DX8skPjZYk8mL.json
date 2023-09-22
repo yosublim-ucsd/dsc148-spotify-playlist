@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 151423,
       "name": "A Beautiful Night",
       "url": "https://open.spotify.com/track/7xuW6jPJwCiGs2VJIqOBHm"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 80000,
       "name": "Bill the Fox",
       "url": "https://open.spotify.com/track/5E75P0Ge6BoVxzACFQjxy9"
@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Butterfly Song",
+        "url": "https://open.spotify.com/album/4jdKw7j3RiLbd70FqoDlQj"
+      },
+      "artists": [
+        {
+          "name": "Lue Miles",
+          "url": "https://open.spotify.com/artist/2cxel74Dv32TWXq5q9sqAU"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124807,
+      "name": "Butterfly Song",
+      "url": "https://open.spotify.com/track/3B6fE7oCyZhGpEOE4eE2Ay"
+    },
+    {
+      "album": {
         "name": "By The Cradle",
         "url": "https://open.spotify.com/album/2hqhEduOMzfIQ0AbcsueB6"
       },
@@ -2180,6 +2198,24 @@
       "duration_ms": 74608,
       "name": "Climbing up",
       "url": "https://open.spotify.com/track/2R8GvjuWEpnmsbGbT5jakX"
+    },
+    {
+      "album": {
+        "name": "Climbing up the Cherry Tree",
+        "url": "https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Roy",
+          "url": "https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120825,
+      "name": "Climbing up the Cherry Tree",
+      "url": "https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw"
     },
     {
       "album": {
@@ -3335,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "Ducky",
+        "url": "https://open.spotify.com/album/2zUZd4r8kQfyTZ8nqhf0Ra"
+      },
+      "artists": [
+        {
+          "name": "Little Magic Musicbox",
+          "url": "https://open.spotify.com/artist/6CFYooGYq34rOAroXRCltR"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100310,
+      "name": "Ducky",
+      "url": "https://open.spotify.com/track/7enLnYS2L3VSwiasZWAiop"
+    },
+    {
+      "album": {
         "name": "Early in the morning",
         "url": "https://open.spotify.com/album/6Ec37wWRMzqhSMAAHcTHTC"
       },
@@ -3548,6 +3602,24 @@
       "duration_ms": 84000,
       "name": "Ensam uti skogen",
       "url": "https://open.spotify.com/track/3tD3QHMN4LfTKYPjGsSkre"
+    },
+    {
+      "album": {
+        "name": "Evening Stillness",
+        "url": "https://open.spotify.com/album/5s67Eta43UUoyEjANkBo6h"
+      },
+      "artists": [
+        {
+          "name": "Lille Du",
+          "url": "https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111624,
+      "name": "Evening Stillness",
+      "url": "https://open.spotify.com/track/5QD0VX4sPwPc9wGjfK5JbA"
     },
     {
       "album": {
@@ -3908,6 +3980,24 @@
       "duration_ms": 227533,
       "name": "First Steps",
       "url": "https://open.spotify.com/track/2ODv92UjIwyNzv9sOQOhFg"
+    },
+    {
+      "album": {
+        "name": "Five Little Ducks",
+        "url": "https://open.spotify.com/album/1uQUnfMkzeLj5zaWxOevW5"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Scott",
+          "url": "https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159940,
+      "name": "Five Little Ducks",
+      "url": "https://open.spotify.com/track/0w1qbxTWTL464db5hu4JWj"
     },
     {
       "album": {
@@ -4376,6 +4466,24 @@
       "duration_ms": 119735,
       "name": "Fun on the Ferry",
       "url": "https://open.spotify.com/track/71RqRdbW7lJ8qwIoszN92y"
+    },
+    {
+      "album": {
+        "name": "Fuzzy Blanket",
+        "url": "https://open.spotify.com/album/7bCYGWUWkA1BT8C1m2UH7F"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kane",
+          "url": "https://open.spotify.com/artist/5PiuZN8Y36VoBqEvLuqiuQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92250,
+      "name": "Fuzzy Blanket",
+      "url": "https://open.spotify.com/track/2OfEkQFc3cpm3t3a4ztUrj"
     },
     {
       "album": {
@@ -4930,7 +5038,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 116750,
       "name": "Grandma\u2019s Glasses",
       "url": "https://open.spotify.com/track/2BR8GLIPPjkljm7nr9UnCk"
@@ -6305,6 +6413,24 @@
     },
     {
       "album": {
+        "name": "I\u00b4m Yours",
+        "url": "https://open.spotify.com/album/4VjHnisQEgDqkSYoosOMkD"
+      },
+      "artists": [
+        {
+          "name": "Fab Greenwich",
+          "url": "https://open.spotify.com/artist/35OzUznezj2Y175Y1fekEg"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "I\u00b4m Yours",
+      "url": "https://open.spotify.com/track/2pBrocoT9X0iVXHeA3WqoV"
+    },
+    {
+      "album": {
         "name": "I\u0307yi geceler",
         "url": "https://open.spotify.com/album/3GeZUtlhS0TiPyKRMsbs8R"
       },
@@ -6694,7 +6820,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 137701,
       "name": "Lego Lego",
       "url": "https://open.spotify.com/track/1kxyDjsR44bTOnLDm9XyFV"
@@ -6788,6 +6914,24 @@
       "duration_ms": 120000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1TFzBNWPnHtHhDhdyNI1eT"
+    },
+    {
+      "album": {
+        "name": "Like the sun and the moon",
+        "url": "https://open.spotify.com/album/3Cc9f9xWGG7wWSVXdIFQLF"
+      },
+      "artists": [
+        {
+          "name": "Janessa Coleman",
+          "url": "https://open.spotify.com/artist/2XBm3Isxn2i0mt3Rm0Jc1O"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102209,
+      "name": "Like the sun and the moon",
+      "url": "https://open.spotify.com/track/1uHFp7UgW8KWUjWlwLcepW"
     },
     {
       "album": {
@@ -7421,6 +7565,24 @@
     },
     {
       "album": {
+        "name": "Lykkeliten",
+        "url": "https://open.spotify.com/album/5gwWIYuK5VQJxznDCDciQ0"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mitchell-Haines",
+          "url": "https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111437,
+      "name": "Lykkeliten",
+      "url": "https://open.spotify.com/track/07X0LZ7T0zhD19JbEy6AIl"
+    },
+    {
+      "album": {
         "name": "Main Theme (From \"Babar\")",
         "url": "https://open.spotify.com/album/6ErckQoCGdQh3P7GMtTSFL"
       },
@@ -7688,6 +7850,24 @@
       "duration_ms": 90000,
       "name": "Mi rayo de sol",
       "url": "https://open.spotify.com/track/2xeeRdL9B3iCrVkBAckGAy"
+    },
+    {
+      "album": {
+        "name": "Milky Way Dreams",
+        "url": "https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk"
+      },
+      "artists": [
+        {
+          "name": "Allan London",
+          "url": "https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114750,
+      "name": "Milky Way Dreams",
+      "url": "https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6"
     },
     {
       "album": {
@@ -9308,6 +9488,24 @@
       "duration_ms": 117159,
       "name": "Papa Pop",
       "url": "https://open.spotify.com/track/1AibXNZT8pbhjnStJd63Fz"
+    },
+    {
+      "album": {
+        "name": "Peaceful Night",
+        "url": "https://open.spotify.com/album/4Ooezb91NdyaW20Qf8yDQW"
+      },
+      "artists": [
+        {
+          "name": "Jonatan J\u00e4rpehag",
+          "url": "https://open.spotify.com/artist/6nOIDTyb3A2nGL8fiqrRLw"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160970,
+      "name": "Peaceful Night",
+      "url": "https://open.spotify.com/track/2PTjcelmrD4JRb5U8H1KbI"
     },
     {
       "album": {
@@ -11032,7 +11230,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 175167,
       "name": "So Many Stars",
       "url": "https://open.spotify.com/track/54Mmafmblu61obktO4hibb"
@@ -11644,7 +11842,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 131000,
       "name": "Sunbeam",
       "url": "https://open.spotify.com/track/5sN2ztotXMAalZaQmmfMeZ"
@@ -13793,6 +13991,24 @@
     },
     {
       "album": {
+        "name": "Wheels on the Bus",
+        "url": "https://open.spotify.com/album/7uB2ZKjgztm60raD8BM3KU"
+      },
+      "artists": [
+        {
+          "name": "Fardeen Evans",
+          "url": "https://open.spotify.com/artist/5Vyql7da8OmbtgTqbOMSC1"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117071,
+      "name": "Wheels on the Bus",
+      "url": "https://open.spotify.com/track/1OdEm6rC94onRCtLOlrwdH"
+    },
+    {
+      "album": {
         "name": "Wheels On The Bus",
         "url": "https://open.spotify.com/album/1POdFavgcOurjDfD7C4jXb"
       },
@@ -14254,7 +14470,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 92750,
       "name": "Wilson Wiggleworm",
       "url": "https://open.spotify.com/track/4S2YvWpo7iWDnVHed6xUgM"
@@ -14312,6 +14528,24 @@
       "duration_ms": 97406,
       "name": "With My Toes In The Lake",
       "url": "https://open.spotify.com/track/6K8gN2HJJbeRSHnawuyAHl"
+    },
+    {
+      "album": {
+        "name": "With you",
+        "url": "https://open.spotify.com/album/4XDs4L6NH4EXCMp9qjRlzu"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87374,
+      "name": "With you",
+      "url": "https://open.spotify.com/track/7gWq2hvVljdNaAShh2SbZk"
     },
     {
       "album": {

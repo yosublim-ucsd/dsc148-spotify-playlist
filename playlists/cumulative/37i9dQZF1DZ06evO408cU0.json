@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "Juan Ramos",
+        "url": "https://open.spotify.com/album/2BoOPZVDZePvxvTrVq2Fjn"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "Juan Ramos",
+      "url": "https://open.spotify.com/track/6J0AKwjpG3s2rvnPuFMvjS"
+    },
+    {
+      "album": {
         "name": "Las Vueltas De La Vida",
         "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
       },

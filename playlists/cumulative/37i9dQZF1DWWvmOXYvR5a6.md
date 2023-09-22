@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Coogie\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-643 songs - 1 day 10 hr 54 min
+644 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Dank](https://open.spotify.com/track/46sgzGh1EoiaGqZDBikbDe) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii) | 3:18 | 2022-04-21 | 2022-07-23 |
 | [Dank](https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:18 | 2022-07-24 |  |
 | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Day & Night \(feat\. Jay Park\)](https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU) | 3:35 | 2022-04-01 |  |
+| [DAY OFF](https://open.spotify.com/track/0dbwg8PpOML96BwB7VjM7W) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [DAY OFF](https://open.spotify.com/album/7tu4q0JJgKWOjjlFeT28Xd) | 3:03 | 2023-09-20 |  |
 | [Day or Night](https://open.spotify.com/track/1xp8Dh7UcXKJqUEoumnIB4) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [COMFY](https://open.spotify.com/album/0W4CJSly8XGaY4Bqlzudcf) | 3:34 | 2022-04-01 | 2022-07-02 |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-24 |  |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-04-01 | 2022-07-28 |
@@ -236,7 +237,7 @@
 | [HATE ME \(feat\. youra\) \(prod\. WOOGIE\)](https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [유라\(youra\)](https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ) | [HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3](https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA) | 3:09 | 2022-04-01 |  |
 | [Hate You](https://open.spotify.com/track/7hjkQeSg7KmBSHgnbtlaXE) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Hate You \(From "Show Me the Money 777 Episode 2"\)](https://open.spotify.com/album/36QQ2lmULqEwkDghdA00p5) | 3:57 | 2022-04-01 | 2022-06-27 |
 | [Have A Little Fun](https://open.spotify.com/track/14nNfnnEP9XJiQ4TE90Uyi) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:20 | 2022-04-21 | 2022-07-27 |
-| [Have A Little Fun](https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:20 | 2022-07-24 |  |
+| [Have A Little Fun](https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:20 | 2022-07-24 | 2023-09-22 |
 | [HAWAII \- Remaster](https://open.spotify.com/track/00BUYjfn30RNGvEESffAvs) | [YELLA](https://open.spotify.com/artist/3mY5lOpRpnHu90zikCYuCw) | [21 Colorful \(Remaster\)](https://open.spotify.com/album/53h1Vmb7UNXFVLTVLfo0sP) | 3:19 | 2022-07-14 | 2022-07-18 |
 | [HEAT](https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [HEAT](https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk) | 3:13 | 2022-04-21 | 2022-07-28 |
 | [HIT N" RUN](https://open.spotify.com/track/4klhpAWhKZtTO7QOYvZdfA) | [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Joyrider's Avenue](https://open.spotify.com/album/0VVgt0RedKxHj5upa62Kwn) | 2:52 | 2023-07-17 | 2023-08-17 |

@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 438293,
+  "num_followers": 438440,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDU1NmE0Y2VjN2UzOTg4MDgzNDVkZWVhNDk2ZTg4MDI4YTUzMjE0",
+  "snapshot_id": "MCw3Zjc2YTdmNGQ1Y2RiYTkxNTY4ZTdjM2Y5Y2QyMmJhNWY0OWVlYWNh",
   "tracks": [
     {
       "added_at": "2023-09-15 01:04:17",
@@ -723,22 +723,22 @@
     {
       "added_at": "2023-09-15 01:04:17",
       "album": {
-        "name": "ADN (Cap\u00edtulo N)",
-        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
+        "name": "El \u00daltimo Ska",
+        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         },
         {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
         }
       ],
-      "duration_ms": 182233,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
     },
     {
       "added_at": "2023-09-15 01:04:17",
@@ -759,22 +759,22 @@
     {
       "added_at": "2023-09-15 01:04:17",
       "album": {
-        "name": "El \u00daltimo Ska",
-        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
+        "name": "ADN (Cap\u00edtulo N)",
+        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         },
         {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
         }
       ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
+      "duration_ms": 182233,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
     },
     {
       "added_at": "2023-09-15 01:04:17",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-09-15 01:04:17",
       "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
-    },
-    {
-      "added_at": "2023-09-15 01:04:17",
-      "album": {
         "name": "Emulsion de Skape",
         "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 143200,
       "name": "Ste Ska",
       "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
+    },
+    {
+      "added_at": "2023-09-15 01:04:17",
+      "album": {
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "added_at": "2023-09-15 01:04:17",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-09-15 01:04:17",
       "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 195083,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ"
+    },
+    {
+      "added_at": "2023-09-15 01:04:17",
+      "album": {
         "name": "Saboreando La Felicidad",
         "url": "https://open.spotify.com/album/5uU6nnXITgIEXo6dHxRuEW"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 169491,
       "name": "Saboreando La Felicidad",
       "url": "https://open.spotify.com/track/0ihOIdDAeHWBAEtnKDinid"
-    },
-    {
-      "added_at": "2023-09-15 01:04:17",
-      "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 195083,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ"
     },
     {
       "added_at": "2023-09-15 01:04:17",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-09-15 01:04:17",
       "album": {
-        "name": "Liguei Sem Querer",
-        "url": "https://open.spotify.com/album/06C61f2nBOvhu5xzpDO97e"
+        "name": "Kasualidad",
+        "url": "https://open.spotify.com/album/0FtTPER1MfrtYM8b94J7tT"
       },
       "artists": [
         {
-          "name": "Canela'",
-          "url": "https://open.spotify.com/artist/1TvwwBBcYKbg3AXy6Vfc3a"
+          "name": "Ska Prensao",
+          "url": "https://open.spotify.com/artist/0zpJ9TatAuySVMfhTLV8Az"
         }
       ],
-      "duration_ms": 165717,
-      "name": "Liguei Sem Querer",
-      "url": "https://open.spotify.com/track/3RjaZCXV3P7L13gtqY3jQO"
+      "duration_ms": 303812,
+      "name": "Kasualidad",
+      "url": "https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3"
     }
   ],
   "unique_name": "Ska Latino ",

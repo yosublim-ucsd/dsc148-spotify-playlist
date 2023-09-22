@@ -1671,6 +1671,28 @@
     },
     {
       "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204387,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
+    },
+    {
+      "album": {
         "name": "Impossible (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/4h5oicpFQZ7nipgbVoTOiF"
       },
@@ -2600,7 +2622,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 190412,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td"
@@ -3031,6 +3053,32 @@
     },
     {
       "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/5ZZWF6SDhW8vWIuLAcT6JC"
+      },
+      "artists": [
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        },
+        {
+          "name": "Hallasen",
+          "url": "https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C"
+        },
+        {
+          "name": "Bryant Powell",
+          "url": "https://open.spotify.com/artist/7a1kQopYaNCKayQsvMQiNs"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144800,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/5hz8yVQdGXAFiNuJ8NIG71"
+    },
+    {
+      "album": {
         "name": "The Game (Dr. Rude & Lunaticz Remix)",
         "url": "https://open.spotify.com/album/4GUyNITr968UDhrJo6IpzG"
       },
@@ -3262,7 +3310,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"

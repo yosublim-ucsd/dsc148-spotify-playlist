@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=3\_xCYoTQQwOHpkOOXc6oiA">Spirit Of Praise</a>
 
-152 songs - 15 hr 11 min
+155 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,8 @@
 | [Ingumlilo \(Lento\) \- Live](https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Ingumlilo \(Lento\) \[Live\]](https://open.spotify.com/album/1cmIfoIgaAuWyocxTn2i88) | 5:14 | 2019-04-11 |  |
 | [Interlude \- Zulu Worship Medley \- Live](https://open.spotify.com/track/6VoUZWhtAT4H8zH9VDqSf3) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/0cUbjH2QskXdLLtnkEU6CX) | 8:22 | 2023-04-06 |  |
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2018-11-12 | 2023-04-10 |
+| [Isazelo Singishiye Ngedwa](https://open.spotify.com/track/7LWLrnHh0nMayLZblimXMy) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Isazelo Singishiye Ngedwa](https://open.spotify.com/album/4CXvH3FjVBhDiLKiEcjjLe) | 11:15 | 2023-09-22 |  |
+| [Izulu Namafu](https://open.spotify.com/track/2HdBnHBcws3jgAL66NP2pJ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Izulu Namafu](https://open.spotify.com/album/3ybwmG4efxqlHlvrT48unW) | 4:35 | 2023-09-22 |  |
 | [Jehova](https://open.spotify.com/track/0W9Fy1ylmJUkNwi49iL9jm) | [Isibane Se Afrika](https://open.spotify.com/artist/63LPBHXvNYilxnYECGPvC5) | [Sawubona](https://open.spotify.com/album/3hLWA2uTxJrcLlHYkDKiqh) | 3:39 | 2023-09-01 | 2023-09-15 |
 | [Jehova Retshepile Wena \- Live](https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Another Level of Worship \(Live\)](https://open.spotify.com/album/1IjS2iFryRCTlyUbG20PGX) | 5:41 | 2019-12-09 |  |
 | [Jehovah Is Your Name \(Live\)](https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/5LXmSfdbz5yTJD6TgnSPaC) | 7:38 | 2018-09-24 | 2023-04-09 |
@@ -131,6 +133,7 @@
 | [Ungubaba](https://open.spotify.com/track/6e3EkJFMU2NALtPkC20IUp) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Izulu](https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0) | 4:17 | 2020-08-28 | 2023-06-16 |
 | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/track/2GrEouhLr4QoieMsy1LD8u) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/album/3NbtHoVq45LvFW1yS9Tjzn) | 7:14 | 2022-09-15 |  |
 | [Unjalo wena Kuphakama](https://open.spotify.com/track/4v0USK76OtYzuZ73g4FcZm) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Unjalo wena Kuphakama](https://open.spotify.com/album/6mlXloaetu8glEQSiVsROw) | 2:48 | 2023-08-18 | 2023-09-15 |
+| [Upperroom \(Live\)](https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Upperroom \(Live\)](https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg) | 7:18 | 2023-09-22 |  |
 | [UThixo Babhem](https://open.spotify.com/track/6hohFbVUUZ8nLXwVFzQcyh) | [Mr Vee Sholo](https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U) | [UThixo Babhem](https://open.spotify.com/album/0ziZSA0rjmw4O0hIuNeT3G) | 4:10 | 2023-05-05 | 2023-06-09 |
 | [Uyalalelwa \- Live](https://open.spotify.com/track/79RgrJnjNbFEsb6VfD8ZXr) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 21: Heal Our Land \(Live\)](https://open.spotify.com/album/2FWAwOo6n6E0eQvoYcj5Yq) | 6:10 | 2023-06-16 |  |
 | [Uzokuphendula](https://open.spotify.com/track/2AEfhL3jyC37LUoFj1tVLm) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Icebo Le Nkosi](https://open.spotify.com/album/7u3wRzBQ19vBWhYN5kvher) | 5:51 | 2022-09-15 | 2023-03-18 |

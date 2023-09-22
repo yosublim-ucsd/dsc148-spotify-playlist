@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-200 songs - 9 hr 6 min
+201 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [All the Frogs](https://open.spotify.com/track/5Zxcm8La3J8yCyPA4FpzAe) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 2:03 | 2021-11-11 |  |
 | [ALONE](https://open.spotify.com/track/0sufKKoOv3vi1oghbBtY0L) | [ZERIUS](https://open.spotify.com/artist/5BbcAuQREj8NxK6EG1dnmc), [MRJay](https://open.spotify.com/artist/24PhFqIM2MOH9oAVnPzfRe) | [ALONE](https://open.spotify.com/album/476Hp48mzF4ZHOKnDFy91u) | 2:58 | 2022-04-08 |  |
 | [Apolitikio](https://open.spotify.com/track/7gnP8uPbqEzAMNcJLTq6FU) | [Sardos97](https://open.spotify.com/artist/119BqJ7qRURlIOb22caU5W) | [Unreleased 2002\-2022 Vol.2](https://open.spotify.com/album/3pRq2E9J7ifJ7Zf7YJ2N0D) | 2:22 | 2023-01-06 |  |
-| [Ares](https://open.spotify.com/track/70eKN516JGgd1dt5zdlRbb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Ares](https://open.spotify.com/album/7FezwNt76ZTj0OebKoBEZ0) | 2:59 | 2021-11-11 |  |
+| [Ares](https://open.spotify.com/track/70eKN516JGgd1dt5zdlRbb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Ares](https://open.spotify.com/album/7FezwNt76ZTj0OebKoBEZ0) | 2:59 | 2021-11-11 | 2023-09-22 |
+| [Ares](https://open.spotify.com/track/7ArhNBTCGlnsMDFtuyiRJ4) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Ares](https://open.spotify.com/album/7ji4kDl6JOYLrXPY8QtegV) | 2:59 | 2023-09-04 |  |
 | [Arian](https://open.spotify.com/track/0qOKwBICWzPtScjJjuLLkv) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Arian](https://open.spotify.com/album/32w458f4xQdJZp3rjLsFnR) | 1:52 | 2021-11-11 |  |
 | [Astro](https://open.spotify.com/track/0VsvnEFxG5lZFFIeplTGy2) | [Jaller Beats](https://open.spotify.com/artist/5j2hqWZ2KnbaqKP3uRQwHH) | [Astro](https://open.spotify.com/album/1XUbFBBvHil1CD0PjGQU7I) | 2:13 | 2021-11-11 | 2022-07-15 |
 | [Atonement](https://open.spotify.com/track/0WjgLeuHiksseRDpTkzLaN) | [informat](https://open.spotify.com/artist/3m1Pg8GiO4gJm97ZUNABLS) | [Atonement / Glimmer](https://open.spotify.com/album/1GskKvzQteddw6hlFRD8Jy) | 4:42 | 2021-11-11 |  |

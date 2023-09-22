@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,458 likes - 86 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,477 likes - 86 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 41 | [Biology Theme \- Original Mix](https://open.spotify.com/track/6k0fkhKmjmilKuUkCS0ggi) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Biology](https://open.spotify.com/album/5qZH3KbLyN4QrWvgbrTYju) | 6:04 |
 | 42 | [Ain't Nobody Straight In L.A.](https://open.spotify.com/track/29HemHbSIVerWQQ1YNVzXU) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [City Of Angels \(Expanded Edition\)](https://open.spotify.com/album/101T3Y64HDKs7vh8FdGOoO) | 3:48 |
 | 43 | [Love On The Rocks](https://open.spotify.com/track/3hQKvgzPncOwW2m0PfUU8y) | [Lama](https://open.spotify.com/artist/148XBQHymOzRLb2aPkukeM) | [Italo Disco Vol\. 2](https://open.spotify.com/album/6HBlHmRS6NExyImYTSePhM) | 5:20 |
-| 44 | [Love Kills](https://open.spotify.com/track/4HeNuE5fHrBQFErXCdVU7s) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs](https://open.spotify.com/album/5rUIVycCFrc3JmKRuL8JIf) | 4:29 |
+| 44 | [Love Kills](https://open.spotify.com/track/0KD57RyQTzLDSprI2ZfN5a) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs](https://open.spotify.com/album/7zZsa7Cpd5itS9reVPfXZA) | 4:29 |
 | 45 | [The Only Way Is Up](https://open.spotify.com/track/0XKTLxo5KINM5UzJeWQrhD) | [Otis Clay](https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL) | [Truth Is](https://open.spotify.com/album/5FUClCLN7Ocj2KLlYSX2tO) | 4:34 |
 | 46 | [Together We Are Beautiful](https://open.spotify.com/track/0EPZixF5ti4OsA8lYrerrg) | [Fern Kinney](https://open.spotify.com/artist/7tqYLHfwfsXiXdFtMIds2K) | [Groove Me](https://open.spotify.com/album/72s8oZlUJivGKedxe6qRHr) | 4:17 |
 | 47 | [I Believe In Miracles](https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr) | [Jackson Sisters](https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ) | [Funk / Soul / Disco](https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj) | 2:57 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 85 | [Pretty Bright Light](https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Good Energy \(A Singles Collection\)](https://open.spotify.com/album/2SyWnW8ujtBeNV4SUvSOBL) | 5:08 |
 | 86 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
 
-Snapshot ID: `MCxiMGE5ZThkMGIzNjU5NmViYzc2NzQxOGZkZjM0MDBmNjQxMWI4MzRk`
+Snapshot ID: `MCwyNjk1OTVlNGFhMjBmODQ3MjBlNzBhYThjY2Q0YTEyZTgxNWRlN2Ey`

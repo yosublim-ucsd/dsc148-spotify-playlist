@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: Drake
+> The tracks you just keep pulling up\. Cover: Drake 🐕
 
 689 songs - 1 day 11 hr 26 min
 

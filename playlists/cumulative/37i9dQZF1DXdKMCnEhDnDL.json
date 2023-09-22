@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 245022,
       "name": "Geef Je Hart Niet Zomaar Weg",
       "url": "https://open.spotify.com/track/2JPdHwNtkyZCSf2pM6AYMl"
@@ -1253,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "Hypnose",
+        "url": "https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152827,
+      "name": "Hypnose",
+      "url": "https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT"
+    },
+    {
+      "album": {
         "name": "Beste Zangers 2022 (Kika Aflevering)",
         "url": "https://open.spotify.com/album/1nsKLut0cSDbMjlEl0BTyD"
       },
@@ -1406,6 +1424,24 @@
       "duration_ms": 221432,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/295hepw2obbNmOfPOu56td"
+    },
+    {
+      "album": {
+        "name": "Ken Je Mij",
+        "url": "https://open.spotify.com/album/2wyfmgzMM1RSBgQVUsvJKS"
+      },
+      "artists": [
+        {
+          "name": "Trijntje Oosterhuis",
+          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341146,
+      "name": "Ken Je Mij - Live From De Rode Hoed, Amsterdam, Netherlands / 2008",
+      "url": "https://open.spotify.com/track/3oGJr5fuofoNfO5CrrbLB6"
     },
     {
       "album": {
@@ -1696,6 +1732,24 @@
       "duration_ms": 188486,
       "name": "Naar De Maan",
       "url": "https://open.spotify.com/track/7aDHKwBUUx7dmuuyCQygD4"
+    },
+    {
+      "album": {
+        "name": "Nickel For Goodbye",
+        "url": "https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231744,
+      "name": "Nickel For Goodbye",
+      "url": "https://open.spotify.com/track/0mozpacigd082TTRqi5IZc"
     },
     {
       "album": {
@@ -2043,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Samen Niets Doen",
+        "url": "https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166053,
+      "name": "Samen Niets Doen",
+      "url": "https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE"
+    },
+    {
+      "album": {
         "name": "Schat Ik Ben Ok",
         "url": "https://open.spotify.com/album/15lDUXpXPWiAiXFmjbzHpy"
       },
@@ -2054,7 +2126,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 168181,
       "name": "Schat Ik Ben Ok",
       "url": "https://open.spotify.com/track/0SjRVIZcRHqIHuU540ZZN5"
@@ -2151,6 +2223,28 @@
     },
     {
       "album": {
+        "name": "Sterrenlopen (met S10)",
+        "url": "https://open.spotify.com/album/2r3iyljpsMTEOMmTVdVJYJ"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242702,
+      "name": "Sterrenlopen (met S10)",
+      "url": "https://open.spotify.com/track/7yrvzTfOAxtB4UkUnizn1X"
+    },
+    {
+      "album": {
         "name": "De Lachende Derde",
         "url": "https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB"
       },
@@ -2202,7 +2296,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 244933,
       "name": "Stil In Mij",
       "url": "https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF"
@@ -2242,7 +2336,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 186700,
       "name": "Terug Bij Af ft. Ronnie Flex",
       "url": "https://open.spotify.com/track/65rDc2X5XZNs9mCvnJyaR1"
@@ -2296,7 +2390,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 236352,
       "name": "Tijd Verliezen",
       "url": "https://open.spotify.com/track/6tcCTgpI1JWsgReB9ttSUD"
@@ -2314,7 +2408,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 195093,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2kwt2rsc4VbZc7cHEpblIs"
@@ -2384,7 +2478,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 166911,
       "name": "Van Mij Zijn",
       "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"

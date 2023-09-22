@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring cKovi. Updates every Wednesday.",
-  "num_followers": 172612,
+  "num_followers": 172630,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTFmY2MzOWI0NGU1OTM4M2U0OWMzNmViYjc1ZmVkOTljMzE2OWFm",
+  "snapshot_id": "MCw5MDBlM2VmYTEyMTJhODZlMmZmMDUxYjA2ODA3NmY0ZTAyZjQyNjU1",
   "tracks": [
     {
       "added_at": "2023-09-20 06:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "El Sol De Las 3",
-        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 152869,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
         "name": "so\u00f1ando despierta",
         "url": "https://open.spotify.com/album/2tomkSqgucy3kM041mFCuc"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 156000,
       "name": "so\u00f1ando despierta",
       "url": "https://open.spotify.com/track/0aNc5zg0qiuZaJAl5xdehz"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
+        "name": "El Sol De Las 3",
+        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 152869,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
         "name": "Hay que venir al Sur",
         "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
       },
@@ -247,18 +263,18 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "Departamento",
-        "url": "https://open.spotify.com/album/7AQYo4b92wZ6OKi3PbqT1b"
+        "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
+        "url": "https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08"
       },
       "artists": [
         {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+          "name": "Azain",
+          "url": "https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8"
         }
       ],
-      "duration_ms": 198253,
-      "name": "Departamento",
-      "url": "https://open.spotify.com/track/4gBM7Z5sxC6iyRveSn65XL"
+      "duration_ms": 197700,
+      "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
+      "url": "https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -279,18 +295,22 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
-        "url": "https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08"
+        "name": "Matanza",
+        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
       },
       "artists": [
         {
-          "name": "Azain",
-          "url": "https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8"
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        },
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
         }
       ],
-      "duration_ms": 197700,
-      "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
-      "url": "https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW"
+      "duration_ms": 249148,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -315,26 +335,6 @@
       "duration_ms": 277308,
       "name": "An\u00f3nima",
       "url": "https://open.spotify.com/track/3mwhbf8aypMYfjfsIdVw5B"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
-        "name": "Matanza",
-        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        },
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 249148,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "no somos nada",
-        "url": "https://open.spotify.com/album/1YptOavSSzLGK4LiBqdU27"
-      },
-      "artists": [
-        {
-          "name": "las estrellas fugaces nacen en saturno",
-          "url": "https://open.spotify.com/artist/0Xo7Js5MqqGioJOwRSvE6k"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "no somos nada",
-      "url": "https://open.spotify.com/track/4QWMTNDHoVabBMu3RhUd3p"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
         "name": "CUANDO ME CANSE DE MI",
         "url": "https://open.spotify.com/album/4HP7e9eSfKsG7liqyEBalt"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 234959,
       "name": "CUANDO ME CANSE DE MI",
       "url": "https://open.spotify.com/track/2FOHQIcqFT3et7rAioADgK"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
+        "name": "no somos nada",
+        "url": "https://open.spotify.com/album/1YptOavSSzLGK4LiBqdU27"
+      },
+      "artists": [
+        {
+          "name": "las estrellas fugaces nacen en saturno",
+          "url": "https://open.spotify.com/artist/0Xo7Js5MqqGioJOwRSvE6k"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "no somos nada",
+      "url": "https://open.spotify.com/track/4QWMTNDHoVabBMu3RhUd3p"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "Esquivando Balas",
-        "url": "https://open.spotify.com/album/1NhBolRE4fM0wvkOSyfDR3"
-      },
-      "artists": [
-        {
-          "name": "Club de Haters",
-          "url": "https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC"
-        }
-      ],
-      "duration_ms": 143088,
-      "name": "Esquivando Balas",
-      "url": "https://open.spotify.com/track/5t2EkXoDiCZA9VuHhlPQ7o"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
         "name": "Maldigo a Cupido",
         "url": "https://open.spotify.com/album/4ceWJq8vlUTdrJTlMdNJuI"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "Fuerte",
-        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
+        "name": "Esquivando Balas",
+        "url": "https://open.spotify.com/album/1NhBolRE4fM0wvkOSyfDR3"
       },
       "artists": [
         {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+          "name": "Club de Haters",
+          "url": "https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC"
         }
       ],
-      "duration_ms": 229454,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
+      "duration_ms": 143088,
+      "name": "Esquivando Balas",
+      "url": "https://open.spotify.com/track/5t2EkXoDiCZA9VuHhlPQ7o"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "Su Forma de Mirar",
-        "url": "https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb"
+        "name": "Fuerte",
+        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
       },
       "artists": [
         {
-          "name": "Tomates En Verano",
-          "url": "https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt"
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
         }
       ],
-      "duration_ms": 290793,
-      "name": "Su Forma de Mirar",
-      "url": "https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT"
+      "duration_ms": 229454,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -707,6 +691,22 @@
       "duration_ms": 178285,
       "name": "aterrizar",
       "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
+        "name": "Su Forma de Mirar",
+        "url": "https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb"
+      },
+      "artists": [
+        {
+          "name": "Tomates En Verano",
+          "url": "https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt"
+        }
+      ],
+      "duration_ms": 290793,
+      "name": "Su Forma de Mirar",
+      "url": "https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT"
     },
     {
       "added_at": "2023-09-20 06:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-09-20 06:00:00",
       "album": {
-        "name": "Plano",
-        "url": "https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Justrylove",
-      "url": "https://open.spotify.com/track/1wVp8m7avqWE0g3AiJbEn5"
-    },
-    {
-      "added_at": "2023-09-20 06:00:00",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/6hOeOUCzqeWwdawU79U6sj"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 268000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/6IFhWqaQzokNivDjSiHpc0"
+    },
+    {
+      "added_at": "2023-09-20 06:00:00",
+      "album": {
+        "name": "Plano",
+        "url": "https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Justrylove",
+      "url": "https://open.spotify.com/track/1wVp8m7avqWE0g3AiJbEn5"
     },
     {
       "added_at": "2023-09-20 06:00:00",

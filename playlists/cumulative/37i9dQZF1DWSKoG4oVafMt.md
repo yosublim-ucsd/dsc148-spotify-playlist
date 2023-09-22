@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-782 songs - 1 day 18 hr 27 min
+784 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Dil Diyan Gallan](https://open.spotify.com/track/76wpnLYf4uwrpJA4W9VwqT) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI), [Gauri Virdi](https://open.spotify.com/artist/6vhqXm02dV8QJVCfdHVE7Q) | [Dil Diyan Gallan](https://open.spotify.com/album/4fEQsSIpxj0yMT6msWS7Be) | 3:19 | 2022-02-04 | 2022-02-12 |
 | [Dil Diyan Gallan](https://open.spotify.com/track/60yO1jLf6MyQbFQwuCjX0l) | [Karox](https://open.spotify.com/artist/3Iknd9BKrBQOKm0UxZ3Scq) | [Dil Diyan Gallan](https://open.spotify.com/album/6eBmn5zszG9L3ibwn75rl9) | 3:25 | 2022-04-22 | 2022-05-11 |
 | [Dil Gaunda Firda](https://open.spotify.com/track/2H6jkOUuU50vQ6mTqxP3yG) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Dil Gaunda Firda](https://open.spotify.com/album/3ILEvzNb0DIcqGqbbqr09A) | 4:18 | 2022-04-12 | 2022-05-11 |
-| [Dil Lagiyan](https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:09 | 2023-08-22 |  |
+| [Dil Lagiyan](https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:09 | 2023-08-22 | 2023-09-22 |
+| [Dil Lagiyan](https://open.spotify.com/track/2NnJof731uy6KZg2Ls6DZv) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/5s97Jucf39sW9uP10l77nT) | 4:09 | 2023-09-21 |  |
 | [Dil Malanga](https://open.spotify.com/track/0xks4JzxUIpRySJ3mvGCrf) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Dil Malanga](https://open.spotify.com/album/3yKNDat6NRpsq02sjlYQ5B) | 2:24 | 2023-05-26 | 2023-06-27 |
 | [Dil Mangda](https://open.spotify.com/track/6tH1CdDgvrxKJRKaJ7jNLd) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Dil Mangda \("Maujaan Hi Maujaan"\)](https://open.spotify.com/album/4Doop6NZtTBsbZlQ0kaRgq) | 2:00 | 2023-08-21 | 2023-09-13 |
 | [Dil Mangda](https://open.spotify.com/track/1eZflB7ASfy8Gm2EibYCfU) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG), [Mani Cheema](https://open.spotify.com/artist/4y5Pn2IPrpbKXBFHFwEo0I) | [Dil Mangda](https://open.spotify.com/album/4KIx0mGltf6aegXPbye0wf) | 3:55 | 2023-01-12 | 2023-02-04 |
@@ -705,6 +706,7 @@
 | [Tere Piche Piche](https://open.spotify.com/track/3krr3rOsQe2ZowvTlByHpv) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Tere Piche Piche](https://open.spotify.com/album/6HcvxprkiYjBaRma5lkp0X) | 2:52 | 2022-05-24 | 2023-02-04 |
 | [Tere Supne](https://open.spotify.com/track/6ey1jPdZnZ44rAvDlxCbyI) | [Nobby Singh](https://open.spotify.com/artist/6uwgbF1ioLsU15PZCDZCeP) | [Tere Supne](https://open.spotify.com/album/2pAstXpLBnLSGQnhPAQ7VH) | 3:06 | 2022-07-29 | 2022-08-18 |
 | [Teri Bewafai](https://open.spotify.com/track/67Wsd3HufSj49oZFz1cX11) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Teri Bewafai](https://open.spotify.com/album/32GB0B0w1MC5qOfU9jwzBi) | 3:41 | 2022-11-07 | 2022-12-16 |
+| [Teri Hoi Na Hundi \(From "Zindagi Zindabaad"\)](https://open.spotify.com/track/27SnwZ40otkoLWiTTQvZ74) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo), [Akashdeep Sandhu](https://open.spotify.com/artist/56mpW2dC9yQg8BaMRdoMdD) | [Teri Hoi Na Hundi \(From "Zindagi Zindabaad"\)](https://open.spotify.com/album/3ZAPmg4nneMGHjDpc9hLtg) | 5:01 | 2023-09-21 |  |
 | [Teri Khair Mangaan](https://open.spotify.com/track/1d5WDpIIi6lxYdKlh2GolI) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Deeba Kiran](https://open.spotify.com/artist/3JQr8bw6qBKg1snoIe6cZv) | [Teri Khair Mangaan](https://open.spotify.com/album/6XPN1xzy7xQYYRtRAkkdfO) | 4:10 | 2022-02-11 | 2022-02-19 |
 | [Teri Main Hogayi \- From Tufang](https://open.spotify.com/track/34RZB1JvacxRuV8SY6zYbK) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Teri Main Hogayi \(From Tufang\)](https://open.spotify.com/album/1jsYMVjnjTuMoWqM7d2VNa) | 3:26 | 2023-07-07 |  |
 | [Teri Meri Gal](https://open.spotify.com/track/5xDHYn57Qo3DQL0kWYguil) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Teri Meri Gal](https://open.spotify.com/album/7cS93JAZcki9VeUz4udf1u) | 2:53 | 2022-12-05 | 2023-01-28 |

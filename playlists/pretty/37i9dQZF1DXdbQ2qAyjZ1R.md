@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,999 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,003 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Take Yo' Praise](https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk) | [Camille Yarbrough](https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9) | [The Iron Pot Cooker](https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo) | 4:13 |
 | 2 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
-| 3 | [Dove](https://open.spotify.com/track/6dckUAPaw3WF2ZyhEACQDK) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/7Jr9fNx9IYWRgNmllirP3H) | 10:55 |
+| 3 | [Dove](https://open.spotify.com/track/4TbIOAb7FfbhHi2glq0EwA) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/3LNGh5hT6VWrM9On6WfqKv) | 10:55 |
 | 4 | [Bridge over Troubled Water](https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 5:33 |
 | 5 | [Little Ghetto Boy](https://open.spotify.com/track/22AAitJKemmJmEztB4WOtd) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Come Back Charleston Blue](https://open.spotify.com/album/2LBcd80fBY2o4pCJUWhLRb) | 3:52 |
 | 6 | [Aht Uh Mi Hed](https://open.spotify.com/track/3bGVC25HcISA1ApJwux1LF) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:15 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 67 | [Corinna \- From "The Natch'l Blues"](https://open.spotify.com/track/5aBpIqXfktr9SSwyAi8Hlj) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 3:00 |
 | 68 | [Angola, Louisiana](https://open.spotify.com/track/4iqtrToCLSIMCbt8QtvbAn) | [Gil Scott\-Heron & Brian Jackson](https://open.spotify.com/artist/2OELvPolUUefy9oQNgs8rj) | [Secrets](https://open.spotify.com/album/0MrHVkohZztmdrTrQAosNe) | 5:34 |
 | 69 | [I'm Glad You're Mine](https://open.spotify.com/track/4fiC7RTotySw4ZeYaCSsXP) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 2:57 |
-| 70 | [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 |
+| 70 | [Changes](https://open.spotify.com/track/1GQNsPVnZoWr3tOHQ73DzI) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/3QwoBbZO1aClSBVTra79Dd) | 6:11 |
 
-Snapshot ID: `MCxiZmEwZDA3NWY2NGE0YjVjNzIwNDMyNWMyMTQ0NjBiMGVlNTQ1Yjg3`
+Snapshot ID: `MCxhOGE4ZDQzNjlkYzkwYjk4YzllYmJiZDA1MjM0NTYyZmM2YmE1NDc0`

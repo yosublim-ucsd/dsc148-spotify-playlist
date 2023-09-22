@@ -2,7 +2,7 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g?si=914fLXA\_Rxi2DS5fO6MniA">Prospa Ochimana</a>
+> Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa?si=kegl4orFR6eE\_hRkksjFpw">Mr M & Revelation</a>
 
 100 songs - 9 hr 11 min
 

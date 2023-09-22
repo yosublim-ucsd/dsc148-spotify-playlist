@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-852 songs - 1 day 18 hr 56 min
+858 songs - 1 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Aevitas](https://open.spotify.com/track/5Y3ePUhdXzPDI8nSCIe7bb) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Neoterikoi](https://open.spotify.com/album/4VWwAEVZ3wnjDt9yy12o5h) | 2:20 | 2022-01-28 | 2023-06-10 |
 | [Affection](https://open.spotify.com/track/3B4B5r2IFmxVxE0fl7wQ6a) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Affection](https://open.spotify.com/album/6LpNCVlqshM81DVYhRktLd) | 3:22 | 2021-05-04 | 2023-06-03 |
 | [After Dusk](https://open.spotify.com/track/5jlj0qkXgcRieANDFvg0mw) | [Gianni Goggia](https://open.spotify.com/artist/17wpSZjx0lWXcjoskfV2sQ) | [After Dusk](https://open.spotify.com/album/6BZuHMDtHuMmAhRReJ7wTf) | 2:04 | 2021-03-14 | 2022-03-25 |
+| [Agbaye](https://open.spotify.com/track/1155sK5VOJc7DC23kdiJjU) | [Torpor Snooze](https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx) | [Agbaye](https://open.spotify.com/album/2jiYTUEzw4EOiLmr6Qow2k) | 3:08 | 2023-09-22 |  |
 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 | 2020-10-20\* | 2020-12-12 |
 | [Air](https://open.spotify.com/track/0y9DY0rp8MkJvF3JrQjLBp) | [Cloudway](https://open.spotify.com/artist/5mDpJ4cbmZv0gIfvwehaeZ) | [Air](https://open.spotify.com/album/1ACUlru8Q8t86Mvor3VAA3) | 2:35 | 2022-12-02 |  |
 | [Al Vanda](https://open.spotify.com/track/157498zKslcWTRJGqzx3ad) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Al Vanda](https://open.spotify.com/album/184oRUumTGWbZjRSM6EV7C) | 2:27 | 2022-09-30 |  |
@@ -47,7 +48,7 @@
 | [Alma](https://open.spotify.com/track/2j9r4JRWjLsFn7VEibICxz) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Alma](https://open.spotify.com/album/1VkVWLRl4jyxBUUDvMKy7K) | 2:51 | 2021-05-04 | 2022-03-25 |
 | [Along The Way](https://open.spotify.com/track/0Q1y8Inh5CnoSENHEeNuLC) | [Yasmin Gough](https://open.spotify.com/artist/5uJl5aq7yzkO3yOE1CMCRW) | [Along The Way](https://open.spotify.com/album/3DiwKGIPP84FTOqZmZ9SmM) | 3:18 | 2020-10-20\* | 2021-06-16 |
 | [Altai](https://open.spotify.com/track/2Vd91FjcKOHXn8kiFv0gnV) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Altai](https://open.spotify.com/album/3xbZExB6U4whgGNV1OP5LW) | 3:17 | 2021-01-21 | 2021-08-17 |
-| [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 | 2023-07-21 |  |
+| [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 | 2023-07-21 | 2023-09-22 |
 | [Alterations](https://open.spotify.com/track/4IHpo5zDsNoT33clCtL24b) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Alterations](https://open.spotify.com/album/6CBggUkHr6HPMDMYvp0Xqm) | 2:31 | 2022-04-21 |  |
 | [Amber](https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Into The Dawn](https://open.spotify.com/album/2kxRac2duA4h9OyKbBckn1) | 3:22 | 2023-09-20 |  |
 | [Ambrosial](https://open.spotify.com/track/5mvgkAgmAy5BflBiGv369w) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Ambrosial](https://open.spotify.com/album/4ZH0LEwHhSJ6HsolpBRehY) | 2:42 | 2023-09-20 |  |
@@ -102,7 +103,7 @@
 | [Belief](https://open.spotify.com/track/2WG8l4UerGKdjZ9p07R29G) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Belief](https://open.spotify.com/album/1dEXj573JMf3OsdfuoV2MD) | 2:59 | 2021-10-06 | 2023-06-03 |
 | [Bella](https://open.spotify.com/track/2gMo97mAY1eW2iJ8fF6sDw) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Salute](https://open.spotify.com/album/5tmW9KiHtYeZM5Gsx0VH8C) | 3:40 | 2020-12-22 | 2021-08-17 |
 | [Below the Red Skies](https://open.spotify.com/track/6xArf4pYiUAV7sxUfYcUma) | [Amplified Pieces](https://open.spotify.com/artist/3SkCH9mqHBodnNbNCIZKKI) | [Below the Red Skies](https://open.spotify.com/album/3SxnKsxWC3ZIFG1K8vZV29) | 2:49 | 2020-10-20\* | 2021-01-21 |
-| [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 | 2021-10-30 |  |
+| [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 | 2021-10-30 | 2023-09-22 |
 | [beyond horizons](https://open.spotify.com/track/1jpVNjs3ljHRGkE6hklAMB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [sleeping moons](https://open.spotify.com/album/5axy78HLC8b3mqrS3qWLJf) | 3:14 | 2021-07-07 | 2022-03-16 |
 | [Beyond the Atmosphere](https://open.spotify.com/track/1jGInfpbtnE7UYZfWbXfCy) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Beyond the Atmosphere](https://open.spotify.com/album/48L1AM7T0095DDx3rSh3Az) | 4:05 | 2020-10-20\* | 2021-03-14 |
 | [Beyond the Unknown](https://open.spotify.com/track/7iKjrhyjxV7uIwzBB7SqBD) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [My Paradise](https://open.spotify.com/album/0SBQ7Y3C7ifv590L0K6AQT) | 3:28 | 2020-10-20\* | 2020-12-12 |
@@ -175,6 +176,7 @@
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2020-10-20\* | 2021-08-17 |
 | [Conversant](https://open.spotify.com/track/0G04ehzIE3QEkmvVK1Lxl8) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Conversant](https://open.spotify.com/album/3fq3wucSSjzqUYDkSAPeEI) | 2:31 | 2022-11-11 |  |
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2020-11-21 | 2021-01-21 |
+| [Coral Dusk](https://open.spotify.com/track/3qJ6bQyPFO10b9fL9NmdOE) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Coral Dusk](https://open.spotify.com/album/5sCMLwAjzO7eUGgVPsq9sI) | 2:50 | 2023-09-22 |  |
 | [Coral Reef](https://open.spotify.com/track/6BHSLFa3gVZQPYHcHsIWAY) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [Floating](https://open.spotify.com/album/3wffRTt5HgYmfdJV3gLFPM) | 3:45 | 2020-10-20\* | 2021-05-04 |
 | [Coral Whispers](https://open.spotify.com/track/1JeLqmo1Hs1JwjmSQlXfv6) | [Star Explorers](https://open.spotify.com/artist/4ubKsjt1ZtzRZlb5p1o0JP) | [Underwater](https://open.spotify.com/album/7hx5RoMbeWAZckVRyM0nGU) | 3:24 | 2020-10-20\* | 2020-12-12 |
 | [Cosmos](https://open.spotify.com/track/3OqcOAdUlLunxWhIQoI1cY) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Universo](https://open.spotify.com/album/3LMaJaRCGdEpxeYRKr7zEv) | 3:49 | 2020-10-20\* | 2021-05-04 |
@@ -191,6 +193,7 @@
 | [Cumbre](https://open.spotify.com/track/79YtzS8PtQlSgRnn1Z8Pni) | [On A Cloud](https://open.spotify.com/artist/68sd27bqb8nHxgO6lh9tEo) | [Cumbre](https://open.spotify.com/album/3mZkf1eqF4gNLPyQ4iLJdh) | 2:18 | 2022-10-15 |  |
 | [Currently](https://open.spotify.com/track/4Oj1fwRRrCbBlZsZzbQ3my) | [Loe Vida](https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS) | [Cycle](https://open.spotify.com/album/4lM2VsV5RDllffE1TIrPeE) | 2:43 | 2023-09-15 |  |
 | [Curves](https://open.spotify.com/track/50dqV0dmuAMzLtEbt09SCp) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Curves](https://open.spotify.com/album/3hWEeTtdq80mcLvCt73koZ) | 3:14 | 2020-12-22 | 2021-03-14 |
+| [Cwsg](https://open.spotify.com/track/7kabmQdunJ6Jk5PAeTSwtL) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Cwsg](https://open.spotify.com/album/5Xxs41FovLilC30h61mOcS) | 2:48 | 2023-09-22 |  |
 | [Cycles](https://open.spotify.com/track/4ULNG1akkcpMrHrjIUXsfZ) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Cycles](https://open.spotify.com/album/04kIZM3pPCOgFxdXIPbPNR) | 2:24 | 2020-10-20\* | 2021-05-04 |
 | [Dans Le Maintenant](https://open.spotify.com/track/0tw6S8qTrvkqASUMxtqP3h) | [Michael Szonja](https://open.spotify.com/artist/3gnRflW7ax20AhBEKnfrhF) | [Dans Le Maintenant](https://open.spotify.com/album/6vYvqxYs7rgxRypV8NhoMi) | 2:52 | 2022-10-07 |  |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-01-21 |  |
@@ -336,6 +339,7 @@
 | [Garden Charm](https://open.spotify.com/track/6TkkTtMH7X4E8B4GDIYznl) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Garden Charm](https://open.spotify.com/album/6EglOGkaaosZN9Iw2UQhSz) | 3:16 | 2021-08-17 | 2023-02-10 |
 | [Gentle Stream](https://open.spotify.com/track/6zgklsgTYXw9pVHY2oOG81) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Signals](https://open.spotify.com/album/1CcHLjxqQLFZhybWkpohWQ) | 3:18 | 2020-10-20\* | 2021-05-04 |
 | [Gentle Words](https://open.spotify.com/track/3Dqg1wo1NVZ9045tfsG2fN) | [Sperenza](https://open.spotify.com/artist/0H36hdcwfQjbJUCkFLIxYJ) | [Gentle Words](https://open.spotify.com/album/1gEp3FcH0gC7gGJ4EbwCn0) | 4:03 | 2021-09-03 | 2023-06-03 |
+| [Geteilt](https://open.spotify.com/track/2PRfOo8S4BVIw0o97yqzg2) | [Celine Brandt](https://open.spotify.com/artist/7JshNZgXnBP253y6KE0aQR) | [Geteilt](https://open.spotify.com/album/5EcfZzIRB84cTt1ona18vY) | 2:36 | 2023-09-22 |  |
 | [Getting Dark](https://open.spotify.com/track/1kCFx8lNstjQwXGBmKnciW) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 3:36 | 2020-10-20\* | 2020-12-12 |
 | [Gisteren](https://open.spotify.com/track/6VlkT2wNTiNCGiPS4pH3tO) | [Casper Wiersma](https://open.spotify.com/artist/2ZEbGQS7T0YnsUHidXUVUZ) | [Gisteren](https://open.spotify.com/album/46Epx3wYFdjZGIP6IFy1zm) | 2:23 | 2022-07-15 |  |
 | [Glowing](https://open.spotify.com/track/2caSMfpQAY2wTvb3kgYirk) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Glowing](https://open.spotify.com/album/4DitEOWiNtUc6kl4KOUk5l) | 2:13 | 2022-10-15 |  |
@@ -480,8 +484,8 @@
 | [Moment Of Peace](https://open.spotify.com/track/1eENdH1bdiDgMIWy4FKle1) | [Dreams And Memories](https://open.spotify.com/artist/48XZ2sN06Hn9eJOczKtzqN) | [Moment Of Peace](https://open.spotify.com/album/3GBgOD6EbeFFlMoQfmurHB) | 2:55 | 2021-02-06 | 2022-03-25 |
 | [Moment of Peace](https://open.spotify.com/track/3IvRypHZvFCKf6y7H4VLSX) | [Mediteight Dimensional](https://open.spotify.com/artist/2OeyY5gT2fNl8dQpBVpolj) | [Moment of Peace](https://open.spotify.com/album/5Wv1t9GPKKJUbVu7bzckgo) | 3:49 | 2020-10-20\* | 2021-01-21 |
 | [Moment To Moment](https://open.spotify.com/track/4vOHJJO8fJudz8JVVG9av6) | [Modal Colours](https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i) | [Moment To Moment](https://open.spotify.com/album/17QORfdYpsGqQ3D74hUPCx) | 2:35 | 2021-03-14 | 2021-05-04 |
-| [Momenti](https://open.spotify.com/track/5En3wtoPwaAQZVN1WLdXvq) | [Lisa de Permen](https://open.spotify.com/artist/1H0Dzd2Z3BdF0I53KpNx1R) | [Momenti](https://open.spotify.com/album/2mwDLGi9chNLFDduKOAJIj) | 3:12 | 2023-09-15 |  |
-| [Momenti](https://open.spotify.com/track/5f5kXzWQutNq2FAcRNwY8I) | [Momenti](https://open.spotify.com/artist/033LMiTBVqCY9QjIyBTemd) | [Momenti](https://open.spotify.com/album/0rUu4FTSdGBVwr4x4Gxr6I) | 3:12 | 2023-04-13 | 2023-09-20 |
+| [Momenti](https://open.spotify.com/track/5En3wtoPwaAQZVN1WLdXvq) | [Lisa de Permen](https://open.spotify.com/artist/1H0Dzd2Z3BdF0I53KpNx1R) | [Momenti](https://open.spotify.com/album/2mwDLGi9chNLFDduKOAJIj) | 3:12 | 2023-09-15 | 2023-09-22 |
+| [Momenti](https://open.spotify.com/track/5f5kXzWQutNq2FAcRNwY8I) | [Momenti](https://open.spotify.com/artist/033LMiTBVqCY9QjIyBTemd) | [Momenti](https://open.spotify.com/album/0rUu4FTSdGBVwr4x4Gxr6I) | 3:12 | 2023-04-13 |  |
 | [Moments of Stillness](https://open.spotify.com/track/6m9JbPIC8saBo8pVm08x0j) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Moments Of Stillness](https://open.spotify.com/album/4nikff5wMmknaIkoqtzQrz) | 3:02 | 2021-02-06 | 2022-12-10 |
 | [Mon Bateau Tranquille](https://open.spotify.com/track/5dqRiHMA7pnxi2Z1mGRn2e) | [Jerzy Elle](https://open.spotify.com/artist/0TD9evKWycQOcmLC7Q1baR) | [Mon Bateau Tranquille](https://open.spotify.com/album/5TmPx2OZszYODpOgglUWah) | 3:23 | 2020-10-20\* | 2021-03-14 |
 | [MonoStereo](https://open.spotify.com/track/122GCpWJT3DhLofuVheWNK) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [MonoStereo](https://open.spotify.com/album/2dyILv0U00QzotAPE3PO3C) | 2:34 | 2020-10-20\* | 2021-05-04 |
@@ -730,6 +734,7 @@
 | [Sueño \(nos vemos mañana\)](https://open.spotify.com/track/6ageUeraq8yY687IBlpeEF) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Sueño \(nos vemos mañana\)](https://open.spotify.com/album/1cv6KC1L2brsbH63ImADBK) | 3:11 | 2020-10-20\* | 2020-12-12 |
 | [Suis moi](https://open.spotify.com/track/62RkIz0nURCnDM5qvdWXbh) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Suis moi](https://open.spotify.com/album/514jbDpJuWUoDYvbU9yyqb) | 3:13 | 2020-10-20\* | 2020-12-12 |
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2021-03-14 | 2022-09-03 |
+| [Sumi](https://open.spotify.com/track/5lATrmvuPq7nPLJsq4DkBQ) | [Zamphire](https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl) | [Sumi](https://open.spotify.com/album/51UT3j6mIB5kC0U95mbl5J) | 2:40 | 2023-09-22 |  |
 | [Summits](https://open.spotify.com/track/7GfuqKFwIqZMPT3QpMOZay) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Worlds Apart](https://open.spotify.com/album/1Vwl7AuOBpF7zVEsiIRHlS) | 2:07 | 2020-10-20\* | 2020-12-12 |
 | [Sunday Morning](https://open.spotify.com/track/44CGw5yimT0uwQnurWo2gz) | [Ella Watson](https://open.spotify.com/artist/6JWxnRLmLn5kIc1IDLMaja) | [Sunday Morning](https://open.spotify.com/album/7xv22kXgcqKHocBfCkaVry) | 2:26 | 2021-10-23 | 2023-03-10 |
 | [Sundown](https://open.spotify.com/track/0j8jhVHMHLb3MFEmC0jGgt) | [Bo Pettri](https://open.spotify.com/artist/6D5yKUrf0oCHcM4zWs9MqH) | [This Is All We Have](https://open.spotify.com/album/0Ho7tJuThnlb1XgoTHTR8e) | 3:08 | 2023-04-06 |  |
@@ -829,6 +834,7 @@
 | [Voyager](https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL) | [Beyond The Bubble](https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o) | [Voyager](https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq) | 3:25 | 2020-10-20\* | 2020-12-12 |
 | [Vuggevise](https://open.spotify.com/track/7rvlOw2fPjxbcZSNKifEHq) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Vuggevise](https://open.spotify.com/album/6srrbZzcRlL82bPxb1rBCH) | 3:10 | 2020-10-20\* | 2020-12-12 |
 | [Wading in dreams](https://open.spotify.com/track/0MAXHRBvH3yjPrmaIk0ela) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Wading in dreams](https://open.spotify.com/album/1zKY4RGq7U3nmEghyJaJNv) | 1:51 | 2020-10-20\* | 2021-03-14 |
+| [Wandering Sadhu](https://open.spotify.com/track/2BfcCsrfgB9wH1dvdno9CY) | [Salen](https://open.spotify.com/artist/5KNC8OGbrY5TThciLb1ZpN) | [Wandering Sadhu](https://open.spotify.com/album/4KSNlLTbrSVEbPzwvd5lTM) | 3:20 | 2023-09-22 |  |
 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2021-09-22 | 2023-06-03 |
 | [Warszawa](https://open.spotify.com/track/7hwGHD71FJFBXu1iUDYTYf) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Warszawa](https://open.spotify.com/album/6PPYEFKKva6PMGl5XJWFIB) | 2:50 | 2021-07-07 | 2021-09-22 |
 | [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 | 2020-10-20\* | 2021-05-04 |

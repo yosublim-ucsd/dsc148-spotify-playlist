@@ -4,7 +4,7 @@
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-343 songs - 1 day 12 hr 2 min
+344 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Boogie On Reggae Woman](https://open.spotify.com/track/4J334pN3dHCsUaRrjgCTDv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l) | 5:13 | 2018-02-27 | 2022-07-29 |
 | [Brazilian Love Affair](https://open.spotify.com/track/1gN4FXvfrVOqJSWh20BPBK) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Brazilian Love Affair \(Expanded Edition\)](https://open.spotify.com/album/7mVnCwqkT2tYSJBBbD4l4T) | 7:23 | 2018-02-27 |  |
 | [Brazilian Love Affair](https://open.spotify.com/track/0YxufdsDdZud8BA25HdXce) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Brazilian Love Affair](https://open.spotify.com/album/0KELY1qASMNbHVvGAittyc) | 7:23 | 2018-02-27 | 2022-07-29 |
-| [Brothers On The Slide](https://open.spotify.com/track/62wrJlpV0vLr3WuVYI2NS3) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 4:11 | 2018-02-27 |  |
+| [Brothers On The Slide](https://open.spotify.com/track/3ObBmm3X92aff7Dct4drkj) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/3QwoBbZO1aClSBVTra79Dd) | 4:11 | 2018-02-27 |  |
+| [Brothers On The Slide](https://open.spotify.com/track/62wrJlpV0vLr3WuVYI2NS3) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 4:11 | 2018-02-27 | 2023-09-22 |
 | [Brothers On The Slide](https://open.spotify.com/track/6cBhKpoE1GNqEtwqGScyBy) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/0AN2SiaigFwvMG5L0JZCbj) | 4:11 | 2018-02-27 | 2022-07-29 |
 | [By the Way You Dance \(I Knew It Was You\)](https://open.spotify.com/track/60aBWaoxBa3e10zBVq1oBW) | [Bunny Sigler](https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg) | [Into The Groove](https://open.spotify.com/album/3gcmsUpkvD4hewnCh2KtMG) | 7:22 | 2018-02-27 | 2022-11-13 |
 | [By the Way You Dance \(I Knew It Was You\)](https://open.spotify.com/track/636obHi8D1qhHmKZbFIFXx) | [Bunny Sigler](https://open.spotify.com/artist/2TkTSromVF9GMROv6cNFGi) | [I've Always Wanted to Sing](https://open.spotify.com/album/6P8P9qfO0xy5JuuFalDN43) | 7:22 | 2018-02-27 |  |

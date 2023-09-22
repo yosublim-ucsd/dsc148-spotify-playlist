@@ -4,13 +4,14 @@
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-159 songs - 15 hr 8 min
+160 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1991](https://open.spotify.com/track/4qp7x0hC4j8zVCvQul15YJ) | [RIGSON](https://open.spotify.com/artist/2KbsGZotcK7CVzk1ZtGy4m) | [All These Yrs / 1991](https://open.spotify.com/album/1JgfKNcA9e2FyAflwYrDrK) | 5:32 | 2022-07-23 |  |
 | [45°49'57"6°51'53"](https://open.spotify.com/track/22g6cVx02D4mcNkdqbbiMn) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk) | [45°49'57"6°51'53"](https://open.spotify.com/album/1fl08UN9pZE6gn7TiKOD4q) | 4:28 | 2022-07-23 |  |
-| [A Love \[Underground Mix\]](https://open.spotify.com/track/3QSPU5Fa94Bcg5KNxBbZl1) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Scum](https://open.spotify.com/album/3UbDaNFOlwDEUTm4SbeCRS) | 7:57 | 2022-07-23 |  |
+| [A Love \- Underground Mix](https://open.spotify.com/track/2uiJhdrzrGfH6q6dSiizDl) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Scum](https://open.spotify.com/album/27ugdfLdOkwODnCKnpfLEq) | 7:57 | 2023-09-06 |  |
+| [A Love \[Underground Mix\]](https://open.spotify.com/track/3QSPU5Fa94Bcg5KNxBbZl1) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Scum](https://open.spotify.com/album/3UbDaNFOlwDEUTm4SbeCRS) | 7:57 | 2022-07-23 | 2023-09-22 |
 | [Aint Tryin](https://open.spotify.com/track/7aMPC6MIyQhH05Gu7bITQB) | [cyberflex](https://open.spotify.com/artist/0meSG6NZtsaqFaZo46Itrw) | [VIRTUAL VELOCITY](https://open.spotify.com/album/1YBe9J12Lf8I0PcwDEm1Ti) | 4:50 | 2023-01-31 | 2023-09-07 |
 | [Alkaline Daydream](https://open.spotify.com/track/6e1QIJOnd4QdDvKhlwu1W3) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [SACRED INTERFACE 001](https://open.spotify.com/album/2UijY9ufSShEYu9ftcTAaq) | 5:37 | 2023-07-05 |  |
 | [Amphibian](https://open.spotify.com/track/41Suz8eMIQXvKdOtkeBYEU) | [Kovert](https://open.spotify.com/artist/5W1dJUVVvOxkYp7r6Z86Bk) | [Emerge](https://open.spotify.com/album/5hZsoDf7rizzN6AqU3qYIZ) | 6:58 | 2023-01-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,940 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,976 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 13 | [Eu Sei Quem Sou](https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Sei Quem Sou](https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB) | 4:41 |
 | 14 | [Foi o Senhor \- Ao Vivo](https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Foi o Senhor \(Ao Vivo\)](https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq) | 6:52 |
 | 15 | [Passa Lá em Casa Jesus](https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Passa Lá em Casa Jesus](https://open.spotify.com/album/61yf8smjeBzEwUNuJRWV4U) | 4:54 |
-| 16 | [Dias Difíceis \(Ao Vivo\)](https://open.spotify.com/track/008Xs4JRhzNIDVNeMcscoV) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Dias Difíceis \(Ao Vivo\)](https://open.spotify.com/album/5my4F0Jr3n9rhiyd6wjuNN) | 9:45 |
+| 16 | [Dias Difíceis \(Live\)](https://open.spotify.com/track/0s8hoeVyqSPw5EDqorQxd2) | [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX), [Som do Monte](https://open.spotify.com/artist/4F0SkfGchoYee1hZV0A7wx) | [Dias Difíceis \(Live\)](https://open.spotify.com/album/73Mi7EfQjMidQeeFQ3c0HH) | 9:45 |
 | 17 | [Onde Está ó Morte ?](https://open.spotify.com/track/0owJC2w9eUqzFILfiGR4u1) | [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd), [Davi Fernandes](https://open.spotify.com/artist/6llGArQXTEY84S4Oto9Vll), [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Onde Está ó Morte ?](https://open.spotify.com/album/3yigpcrpJ9DIDXAgLQrmsD) | 6:25 |
 | 18 | [Quando o Céu Invade a Terra \- Ao Vivo](https://open.spotify.com/track/1l7obBlq9HK2PjzvTo7GRT) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Quando o Céu Invade a Terra \(Ao Vivo\)](https://open.spotify.com/album/6QOtQcdneALMp3VOgFsmqE) | 6:02 |
 | 19 | [Abram o Caminho \- Ao Vivo](https://open.spotify.com/track/4BzpcY4ifswL8FsHVCRUAk) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [SERVICES I \(Ao Vivo\)](https://open.spotify.com/album/7DsMZv7MpGKaQDqGUjuU07) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [O Leão \(Pisadinha Remix\)](https://open.spotify.com/track/69b0eKEVGbMILaYDBOkxYg) | [Victor Rodrigues](https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ), [BTX Gospel](https://open.spotify.com/artist/27cBvLlKGKmRdDMNO7A9s9) | [O Leão \(Pisadinha Remix\)](https://open.spotify.com/album/1lQddJCph1dIadc4XRcpDA) | 3:44 |
 | 50 | [Josué 1](https://open.spotify.com/track/5UPWUAHu24wG5PWREDLfsr) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Bruno Jovita](https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL) | [Josué 1](https://open.spotify.com/album/2rQHaHs78K1y6CBrl59MSn) | 2:32 |
 
-Snapshot ID: `MCwyOGUzYWEwZWFiNWI0NjljYjZlNGNhZTg5Mjk2MTQyYjkxYTAxMTkz`
+Snapshot ID: `MCw1NjFiYWIwY2FmMWUxMTE3YTU3OGVkYjJiMzg4OWRmNWUyZGQ2NGEx`

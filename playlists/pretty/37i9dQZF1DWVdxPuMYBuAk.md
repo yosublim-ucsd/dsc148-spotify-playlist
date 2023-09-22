@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,447 likes - 71 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,507 likes - 71 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 48 | [About Love \- From The Netflix Film “To All The Boys: P.S\. I Still Love You”](https://open.spotify.com/track/4XII12nbsvJblXfG1I2QR4) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [About Love \(From The Netflix Film “To All The Boys: P.S\. I Still Love You”\)](https://open.spotify.com/album/3UqotmoFHhdvwBHbP70amM) | 3:34 |
 | 49 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 50 | [Video Child](https://open.spotify.com/track/6fZg6RPktKWrtKNH57nDzX) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1daG4UOWDraQHk7Jidm2q1) | 5:00 |
-| 51 | [Nadir](https://open.spotify.com/track/5pGCxazPxShO5jBpOyM85f) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Modern Addiction](https://open.spotify.com/album/36uRsDIqy2qooBY9gum3qC) | 4:01 |
+| 51 | [Nadir](https://open.spotify.com/track/2r2Ldl32zG3QqxPqRn4y9y) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Modern Addiction](https://open.spotify.com/album/4adKMYVbwASpIYG4Ky6GS0) | 4:01 |
 | 52 | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/track/31AYjxq6VkR57EgcwAJFmO) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Bunny](https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo) | 4:32 |
 | 53 | [GOOD](https://open.spotify.com/track/71hoNUltGAiXxpdKBjbYvs) | [Erin McCarley](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) | [GOOD](https://open.spotify.com/album/2lnPx91gy6GkNoOzxKtfwL) | 3:56 |
 | 54 | [Human Right](https://open.spotify.com/track/0e866bvP5rorqKS0pPjvr5) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Faint of Heart](https://open.spotify.com/album/6Oo2L6mlblKkGSWj49Q7mn) | 3:13 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 70 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/1BOhfgNrX3vKKrzyTKhsPE) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:15 |
 | 71 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/7m26R0lPWq6OaDuL6o3aRr) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:56 |
 
-Snapshot ID: `MCxmNjA3OGQxOTRmM2M4MTIwZGFmYjk0NGVjZTAwOWFmMjU2NDgyYjNj`
+Snapshot ID: `MCw4ZTRhZWM5ZjUwNzhkNWUxZjRkZjAwYjliOThhYTg2ZTE1MGE3Yjgz`

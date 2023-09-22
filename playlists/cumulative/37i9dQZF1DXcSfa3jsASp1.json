@@ -956,7 +956,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 180626,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6TzJLISIitIzn1WtjDY0Op"
@@ -1476,6 +1476,28 @@
       "duration_ms": 238360,
       "name": "Lies of the Beautiful People",
       "url": "https://open.spotify.com/track/7MySSAE83mF4QAOnltFF9w"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Halford",
+          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
+        }
+      ],
+      "date_added": "2020-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246209,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY"
     },
     {
       "album": {

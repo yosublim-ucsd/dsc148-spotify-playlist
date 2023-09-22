@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: SOLE\(쏠\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,745 likes - 123 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,825 likes - 123 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 9 | [Ride \(Feat\. Jueun\)](https://open.spotify.com/track/1cCszH5E4C3U01CaLFsuVR) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Dear.R](https://open.spotify.com/album/3tqu6xDwjAStZh0A8oiXKH) | 3:12 |
 | 10 | [John](https://open.spotify.com/track/042nMkLuJ5XeeZwNMHD2hr) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [John](https://open.spotify.com/album/1rfkrpT2oyDzwMbUFUcglc) | 4:22 |
 | 11 | [25 2 Life \(feat\. Chillin Homie\)](https://open.spotify.com/track/4lf1ptrg9EUPDzBQgNLwHh) | [EPTEND](https://open.spotify.com/artist/3X5atTeD09WXIpSzEq1Mez), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM) | [Night Ride 2 Prequel](https://open.spotify.com/album/2heCmRjdmyfnSgNYEDvpnB) | 3:20 |
-| 12 | [My First Romantic Love \(feat\. doyouka\)](https://open.spotify.com/track/0EZPG0fIZYX9rmEzgMApyG) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [WGAG](https://open.spotify.com/artist/6Pm5zBfXqJu8x8ZXnFP2DV), [강동영](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [My First Romantic Love \(feat\. doyouka\)](https://open.spotify.com/album/5rFcZujXW2UkRwg2L31k3d) | 3:45 |
+| 12 | [My First Romantic Love \(feat\. doyouka\)](https://open.spotify.com/track/0EZPG0fIZYX9rmEzgMApyG) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN), [WGAG](https://open.spotify.com/artist/6Pm5zBfXqJu8x8ZXnFP2DV), [doyouka](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [My First Romantic Love \(feat\. doyouka\)](https://open.spotify.com/album/5rFcZujXW2UkRwg2L31k3d) | 3:45 |
 | 13 | [Fearless](https://open.spotify.com/track/3gu28iWFnrj9fzZO523qxf) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [Fearless](https://open.spotify.com/album/4ajlLUmeRBBJWgfC9tIRwb) | 2:57 |
 | 14 | [369](https://open.spotify.com/track/7qkWkE8upAT0wEL33qmpFE) | [Malitabu](https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [369](https://open.spotify.com/album/1lUmB26EmaWfgwhBsD6BuO) | 3:20 |
 | 15 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 28 | [Best Seller](https://open.spotify.com/track/0o6lVzbfuUDDbP3a93hlZH) | [Ants](https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL) | [Best Seller](https://open.spotify.com/album/0Iyxjd4Wd5guWEH1H991rn) | 3:45 |
 | 29 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 |
 | 30 | [Last Dance](https://open.spotify.com/track/2yvCn2uUIqveSafXL26Fj9) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [bright \#12](https://open.spotify.com/album/61JnQo2mAZ7pccKz4ju9aj) | 3:51 |
-| 31 | [hibihibi](https://open.spotify.com/track/6zL0B116Is8P7OvnTDqu0u) | [Yoonsoyoung](https://open.spotify.com/artist/3f7JrTEyjLnabfLlLlPbIF) | [hibihibi](https://open.spotify.com/album/5kENCBEIH5dZMGngsqHLWY) | 3:04 |
+| 31 | [hibihibi](https://open.spotify.com/track/6zL0B116Is8P7OvnTDqu0u) | [Yoonsoyoung](https://open.spotify.com/artist/1gLmwXeZZgDfnX8qZge4tC) | [hibihibi](https://open.spotify.com/album/5kENCBEIH5dZMGngsqHLWY) | 3:04 |
 | 32 | [Good & Great](https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Good & Great \- The 2nd Mini Album](https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo) | 3:19 |
 | 33 | [1,2,3 go!](https://open.spotify.com/track/1BnJGm3U0SGwGijMm0AW8e) | [PARK HYUN HO](https://open.spotify.com/artist/11tCEyGi7PxvzpF0W85na5) | [SINGLE ALBUM \[1,2,3 go!\]](https://open.spotify.com/album/2nKodoX5zbuLnKUgJvT1o0) | 3:35 |
 | 34 | [Hold me Kiss me Love me](https://open.spotify.com/track/7eTrak4jRwWpUGJeahihH6) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z) | [Hold me Kiss me Love me](https://open.spotify.com/album/3Z1f1a238dmmG3kG36F6A3) | 2:45 |
 | 35 | [It Just Happened](https://open.spotify.com/track/2ITzkZG5HnW2f1ABSALPv6) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [It Just Happened](https://open.spotify.com/album/7KCSaQrghmQ7BjO3wuxTGF) | 3:40 |
-| 36 | [I Don't Know](https://open.spotify.com/track/5ehst1UPEwzAIfWFF8O4vn) | [Sam Carter](https://open.spotify.com/artist/4TDFCfBkOxwM1cMvRXt4Wc) | [My Lovely Boxer \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/0lqboBlt9rSF1jnQswVLia) | 3:32 |
+| 36 | [I Don't Know](https://open.spotify.com/track/5ehst1UPEwzAIfWFF8O4vn) | [Sam Carter](https://open.spotify.com/artist/5OGAiZ5ecHGn3PXHtquCMH) | [My Lovely Boxer \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/0lqboBlt9rSF1jnQswVLia) | 3:32 |
 | 37 | [Waltz of the Starry Night](https://open.spotify.com/track/6eVVbEGfJO85aPaUh6BF2y) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Waltz of the Starry Night](https://open.spotify.com/album/6sARYtIvu0aQIS0GeY11rb) | 3:29 |
 | 38 | [Tempest](https://open.spotify.com/track/1Mw39qvSP0AbzxJ8COxVei) | [Huckleberryfinn](https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa) | [The Riff Pt.1](https://open.spotify.com/album/6YTGyDejCojXAxpATk5LI9) | 5:09 |
 | 39 | [사랑 참 어렵다](https://open.spotify.com/track/52P5uL6GjT68UAVpt5Johi) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [사랑 참 어렵다](https://open.spotify.com/album/17QtkblFyUKZxiOAIwC8Du) | 4:06 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 60 | [I owe you](https://open.spotify.com/track/6PQGmlg2VkRF4ccytdM8qv) | [Nam Seung Min](https://open.spotify.com/artist/0wRrz9KJtITKteZdPuDfJA) | [I owe you](https://open.spotify.com/album/4SXkrPFN4t8hithSnd1YXP) | 3:11 |
 | 61 | [Winded](https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Winded](https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p) | 3:03 |
 | 62 | [Time machine](https://open.spotify.com/track/2FGyfsR6F2zLWQlTV1nLuU) | [Slvckx](https://open.spotify.com/artist/54XIxQ1XDeflYatwa743F0), [DJ Tiz](https://open.spotify.com/artist/5v0C43fCVp07moAHFMJnmW) | [Tee bag](https://open.spotify.com/album/0hPm7MIFhiWtV5x7E0yQIX) | 3:00 |
-| 63 | [two months](https://open.spotify.com/track/5KAsmKEiz6VjZFT5f31ZGj) | [강동영](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [two months](https://open.spotify.com/album/0SlOpL5Y32mkQOZ3vz8iFk) | 3:23 |
+| 63 | [two months](https://open.spotify.com/track/5KAsmKEiz6VjZFT5f31ZGj) | [doyouka](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [two months](https://open.spotify.com/album/0SlOpL5Y32mkQOZ3vz8iFk) | 3:23 |
 | 64 | [Good Night](https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [Good Night](https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ) | 3:51 |
 | 65 | [It’s okay \(Feat\. Dbo, lil asian\*＋, Slaylonie\)](https://open.spotify.com/track/0TnpWxe6y0ywzppivwTYzW) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst), [lil asian\*+](https://open.spotify.com/artist/67dyar2EzlJj1fteiANKs4), [SLAYLONIE](https://open.spotify.com/artist/6iGsfOk5mQ2Wza2yOzZmQY) | [It’s okay \(Feat\. Dbo, lil asian\*＋, Slaylonie\)](https://open.spotify.com/album/4aS1BKivabMABDHb5gJOCV) | 3:31 |
 | 66 | [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 122 | [사랑이라 쓰고 이별이라 읽어 \(Write love and Read breakup\)](https://open.spotify.com/track/1VJJ5i8jxeWc3rRFD0tJ8Z) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [사랑이라 쓰고 이별이라 읽어 \(Write love and Read breakup\)](https://open.spotify.com/album/3e0vL5HQsCead5QUmN1Igj) | 3:00 |
 | 123 | [BYE1393](https://open.spotify.com/track/54ocxngRcYnxnshEwum77S) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [BYE1393](https://open.spotify.com/album/4iUKzqrwRwN40hzBreEbzI) | 2:30 |
 
-Snapshot ID: `MCw1ZDVmZGJjYWRjOGQ3Nzg2OGI4OGMyNjczMTgyMmFhZWNlYWRmYmFm`
+Snapshot ID: `MCw2NTk0NzliMGM2ZDk1ZmI2Njg4NWE1NWFkNTJlODNiZjI2ZjAyNWFi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Cover: Piqued Jacks",
+  "description": "La playlist che \u00e8 come andare ai concerti. Cover: Appino",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Acqua Bagnami",
+        "url": "https://open.spotify.com/album/4BJj638K8ZAasjQw8YDEV5"
+      },
+      "artists": [
+        {
+          "name": "Santamarea",
+          "url": "https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308142,
+      "name": "Acqua Bagnami",
+      "url": "https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN"
+    },
+    {
+      "album": {
         "name": "Acufeni",
         "url": "https://open.spotify.com/album/7CxWEWxdO4P0Hxshmoqgdk"
       },
@@ -334,6 +352,24 @@
       "duration_ms": 117090,
       "name": "AIR 909",
       "url": "https://open.spotify.com/track/4AVqvJLUnVuZlAVFUyxt7T"
+    },
+    {
+      "album": {
+        "name": "Albanera",
+        "url": "https://open.spotify.com/album/5Y8ADPQC0xiR1gtxNYqNLX"
+      },
+      "artists": [
+        {
+          "name": "Ibisco",
+          "url": "https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241013,
+      "name": "Albanera",
+      "url": "https://open.spotify.com/track/5pZsX5r10LBZtQ0H1YbTF8"
     },
     {
       "album": {
@@ -1226,7 +1262,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 171437,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/5iJoUukQtwJ883xshmOuAR"
@@ -1494,6 +1530,24 @@
       "duration_ms": 186763,
       "name": "Capannone",
       "url": "https://open.spotify.com/track/2O8iMn5Ix5QMk0eyMDfRFg"
+    },
+    {
+      "album": {
+        "name": "CARNEVALE",
+        "url": "https://open.spotify.com/album/2u8MA3AiZRo0yBJ2In2PFp"
+      },
+      "artists": [
+        {
+          "name": "Appino",
+          "url": "https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300533,
+      "name": "CARNEVALE",
+      "url": "https://open.spotify.com/track/1v1JM0dxz9InQ7gfnQ4JeA"
     },
     {
       "album": {
@@ -2360,7 +2414,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 124181,
       "name": "Detox Retox",
       "url": "https://open.spotify.com/track/737QdNTCpPKTdYSqsaXtTF"
@@ -2739,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Ero troppo fatto",
+        "url": "https://open.spotify.com/album/68xC51nsRoeKEfwYp6wO4f"
+      },
+      "artists": [
+        {
+          "name": "Il Cile",
+          "url": "https://open.spotify.com/artist/70tOBioFUv8aswsBxNjCjS"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209794,
+      "name": "Ero troppo fatto",
+      "url": "https://open.spotify.com/track/7crOXJeucOksYsX3tvnI4w"
+    },
+    {
+      "album": {
         "name": "Eroe",
         "url": "https://open.spotify.com/album/144VL2vm7JEivoQ90Bafub"
       },
@@ -2902,6 +2974,24 @@
       "duration_ms": 344401,
       "name": "Extraordinaire",
       "url": "https://open.spotify.com/track/5ZQwiGwOTs8pgcIwmLcBek"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/0LZBRpTFsMSzUT085o5WuF"
+      },
+      "artists": [
+        {
+          "name": "Leatherette",
+          "url": "https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177350,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4DnzS5FpDsnWtmSx9jh7hb"
     },
     {
       "album": {
@@ -3466,6 +3556,24 @@
       "duration_ms": 241493,
       "name": "Gent",
       "url": "https://open.spotify.com/track/4X0DLF1x69H8ybF2M3tkjl"
+    },
+    {
+      "album": {
+        "name": "Neve Tropicale",
+        "url": "https://open.spotify.com/album/2BYf3HETftokzJeHtLN4z5"
+      },
+      "artists": [
+        {
+          "name": "Onders",
+          "url": "https://open.spotify.com/artist/4D7NyM1xpKyi59542kUQ6A"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170036,
+      "name": "Ges\u00f9 \u00e8 il mio Beatles preferito",
+      "url": "https://open.spotify.com/track/4TKVqhG7oFHb7e79eZ9ZDH"
     },
     {
       "album": {
@@ -4275,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "Insynthesi",
+        "url": "https://open.spotify.com/album/3BpyoxJ6tlbZyKZJRIMp6r"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215626,
+      "name": "Insynthesi",
+      "url": "https://open.spotify.com/track/5tJkH7zA6RcXzu0Bv0Lea7"
+    },
+    {
+      "album": {
         "name": "Io me ne sto fermo ad aspettare",
         "url": "https://open.spotify.com/album/2Y65xP2U931ct1qr9JT4Cs"
       },
@@ -4344,6 +4470,24 @@
       "duration_ms": 235573,
       "name": "It's Not Fair to Die",
       "url": "https://open.spotify.com/track/0vy20oIYnWXCdeJHXVpKre"
+    },
+    {
+      "album": {
+        "name": "J!OY",
+        "url": "https://open.spotify.com/album/5N6AdhmlYwQ6AZZuGNYJVH"
+      },
+      "artists": [
+        {
+          "name": "San Leo",
+          "url": "https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "J!OY",
+      "url": "https://open.spotify.com/track/20bCARV6sHRRxcWdpi9dMX"
     },
     {
       "album": {
@@ -4544,6 +4688,24 @@
       "duration_ms": 154953,
       "name": "Kingston",
       "url": "https://open.spotify.com/track/7qSR7XjG33IecK7QQZ7EZN"
+    },
+    {
+      "album": {
+        "name": "Kintsukuroi",
+        "url": "https://open.spotify.com/album/23KcmuF7qoU3AZiUWutTcK"
+      },
+      "artists": [
+        {
+          "name": "Human Colonies",
+          "url": "https://open.spotify.com/artist/0ovQRMWn970TPuWTw08lGk"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225198,
+      "name": "Kintsukuroi",
+      "url": "https://open.spotify.com/track/5MpqP8DF8M9muUVeplo0zN"
     },
     {
       "album": {
@@ -5224,6 +5386,24 @@
       "duration_ms": 147730,
       "name": "MAL\u00c8SSERE",
       "url": "https://open.spotify.com/track/7uK7WsMJAiw1qTyTWFervQ"
+    },
+    {
+      "album": {
+        "name": "Mamma e pap\u00e0",
+        "url": "https://open.spotify.com/album/2aPx75NgtEtTVbZvAzaLoZ"
+      },
+      "artists": [
+        {
+          "name": "Marco Fracasia",
+          "url": "https://open.spotify.com/artist/5cBxKy6si4GgCAJKaoYBrb"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271379,
+      "name": "Mamma e pap\u00e0",
+      "url": "https://open.spotify.com/track/0uCQY7Psi0dql2N0zAEiTl"
     },
     {
       "album": {
@@ -6332,7 +6512,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 217033,
       "name": "Ocean Cry",
       "url": "https://open.spotify.com/track/2lOLI3op0lv6kK3VrOCS1Z"
@@ -6754,7 +6934,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 166779,
       "name": "Piece of Land",
       "url": "https://open.spotify.com/track/4RddNnwvbX7UU1UhCWUyPM"
@@ -7130,7 +7310,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 304099,
       "name": "Quando non c'\u00e8 nessuno",
       "url": "https://open.spotify.com/track/2vcdJqLYSoL2Uhrs6DlqkN"
@@ -8147,6 +8327,24 @@
     },
     {
       "album": {
+        "name": "Con uno sguardo solo",
+        "url": "https://open.spotify.com/album/1z8qX6mJ6GHrAYmJvP0RZN"
+      },
+      "artists": [
+        {
+          "name": "Noverte",
+          "url": "https://open.spotify.com/artist/3dF6GB27ak4klpdCEHlUro"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107778,
+      "name": "Spiffero",
+      "url": "https://open.spotify.com/track/0ey0FRonzZU005CDAU13Cz"
+    },
+    {
+      "album": {
         "name": "Summertape",
         "url": "https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7"
       },
@@ -8628,7 +8826,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 200026,
       "name": "Tangram",
       "url": "https://open.spotify.com/track/0xJNFB2ievxIj1RotyCVqU"
@@ -9368,7 +9566,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 254746,
       "name": "Una cosa importante",
       "url": "https://open.spotify.com/track/01x45WdY9uRL4F2HaQCrQ5"
@@ -9602,7 +9800,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 232714,
       "name": "Vieni Fuori",
       "url": "https://open.spotify.com/track/5jVtJotYhxbdsLS8a2F0Kx"
@@ -9768,7 +9966,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 162124,
       "name": "WAWWA",
       "url": "https://open.spotify.com/track/319Fq67ejejixWs4nNlPJi"

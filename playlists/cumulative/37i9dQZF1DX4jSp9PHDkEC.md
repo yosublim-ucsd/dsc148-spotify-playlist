@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-316 songs - 21 hr 11 min
+318 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Combat](https://open.spotify.com/track/6pHIEG8q0I4jCuUVHC3s3m) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 3:48 | 2023-01-17 |  |
 | [Come On Let's Go](https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Maida Vale Sessions](https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe) | 3:23 | 2023-01-17 |  |
 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 | 2023-01-17 |  |
-| [Confirmation](https://open.spotify.com/track/3If8ea7T8uSsAl26PVzaFE) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation/I Turned Away](https://open.spotify.com/album/0DoVCiF0oByhPyMh5UdZQw) | 3:29 | 2023-01-17 |  |
+| [Confirmation](https://open.spotify.com/track/3If8ea7T8uSsAl26PVzaFE) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation/I Turned Away](https://open.spotify.com/album/0DoVCiF0oByhPyMh5UdZQw) | 3:29 | 2023-01-17 | 2023-09-22 |
+| [Confirmation](https://open.spotify.com/track/6erM0iK1QJH7Qaw29Vzqow) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation / I Turned Away](https://open.spotify.com/album/7nC3k0PpLQ1MVsmcB7xTl4) | 3:29 | 2023-01-17 |  |
 | [Coolhand](https://open.spotify.com/track/54NlZnxWxbdXZPr2nckzkb) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Coolhand](https://open.spotify.com/album/3LtaIdQSXZXqyO3qMPbPg9) | 3:38 | 2023-01-17 |  |
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-01-17 |  |
 | [Curse of the Contemporary](https://open.spotify.com/track/1ceNLWlSQNgh7sfkkIzeTJ) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [Curse of the Contemporary](https://open.spotify.com/album/4cjB9RgCy5DcRCKcXImyc1) | 4:13 | 2023-01-17 |  |
@@ -208,7 +209,8 @@
 | [Particles \- Edit](https://open.spotify.com/track/4ROXjJjgMW0y6wXlTJBPqA) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Particles](https://open.spotify.com/album/2q5XSD3D9TwFNOTK1m1uWt) | 3:02 | 2023-01-17 |  |
 | [Pass The Hours](https://open.spotify.com/track/1uLfBlfAwUV7SwBTK1ayTQ) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/2kYRMnwB5ieAs6OV9pZ1YT) | 3:43 | 2023-01-17 |  |
 | [Persephone](https://open.spotify.com/track/4106SA5Wyw8fRTyh8pFDHc) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Willowbank](https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03) | 4:33 | 2023-01-17 |  |
-| [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2023-01-17 |  |
+| [Pistol](https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5) | 3:54 | 2023-01-17 |  |
+| [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2023-01-17 | 2023-09-22 |
 | [Play The Ghost](https://open.spotify.com/track/0xtJvcniZ7aQmKFOikkh84) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Cantus, Descant](https://open.spotify.com/album/2b5zGG5gFQgy0QhWyR9ehQ) | 5:01 | 2023-01-17 |  |
 | [Point of View](https://open.spotify.com/track/3P5NoYbHxZ9cSwE6eM4xbU) | [Sonoda](https://open.spotify.com/artist/5OcA113uaLxGSU00Nkaaje) | [Point of View](https://open.spotify.com/album/3SaTO01so6SyHxZTl9R3Vb) | 2:06 | 2023-01-17 |  |
 | [Poke \- from Tiny Changes: A Celebration of Frightened Rabbit's 'The Midnight Organ Fight'](https://open.spotify.com/track/6U6ulQrWXZawrcVr6F1nVe) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Poke \(from Tiny Changes: A Celebration of Frightened Rabbit's 'The Midnight Organ Fight'\)](https://open.spotify.com/album/3A6T18gcg0tDBxOYfal8S3) | 5:06 | 2023-01-17 |  |

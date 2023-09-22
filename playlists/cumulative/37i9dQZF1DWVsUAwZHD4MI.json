@@ -938,6 +938,28 @@
     {
       "album": {
         "name": "TDJ002 DELUXE",
+        "url": "https://open.spotify.com/album/2hxLDc9WTyVzx2UbzXCWWo"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235426,
+      "name": "Lalala (Want Somebody) - X-Coast Remix",
+      "url": "https://open.spotify.com/track/6pFXqXNC6q4e0qxODk7Hr6"
+    },
+    {
+      "album": {
+        "name": "TDJ002 DELUXE",
         "url": "https://open.spotify.com/album/6Bni8QVdMurBYVtt3625xQ"
       },
       "artists": [
@@ -952,7 +974,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 235428,
       "name": "Lalala (Want Somebody) - X-Coast Remix",
       "url": "https://open.spotify.com/track/2wC5MC7ya0YtiMPi11zIgn"

@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tedua
 
-118 songs - 6 hr 28 min
+119 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 | 2022-06-19 |  |
 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 | 2022-07-01 |  |
 | [Lei È...](https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:44 | 2023-04-13 |  |
-| [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 | 2022-12-05 |  |
+| [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 | 2022-12-05 | 2023-09-22 |
 | [LOCO](https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:17 | 2022-05-31 | 2022-06-20 |
 | [LONTANO \- carlito's way](https://open.spotify.com/track/2t1dculU2L9HxEIzB00Xpk) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:46 | 2023-05-18 | 2023-06-16 |
 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 | 2023-01-13 | 2023-03-18 |
@@ -81,6 +81,7 @@
 | [Male](https://open.spotify.com/track/1Dl5iWa6lWEZpkQDZNuVnO) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 2:41 | 2022-07-14 |  |
 | [Male](https://open.spotify.com/track/2mb8gG8kOMCJDzBmCNm7El) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Gaming Hip Hop Hits](https://open.spotify.com/album/7fPtjzJR9bfAf7Wv0v9Xp2) | 2:41 | 2022-10-25 | 2022-11-13 |
 | [Male](https://open.spotify.com/track/5BxBGvLJdwBBjCYJRdezxM) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT) | 2:41 | 2022-04-28 | 2022-07-29 |
+| [Maltempo](https://open.spotify.com/track/7FZicMWhkxtQxIsV6Y9SZk) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Maltempo](https://open.spotify.com/album/1Jopcn1DSXFQzDvj53uDpw) | 2:44 | 2023-09-21 |  |
 | [Marciapiede \(con Tony Effe, Ernia & Rkomi\)](https://open.spotify.com/track/73vDLslbbGUsK4MvX99pWQ) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 2:36 | 2023-04-06 | 2023-07-14 |
 | [Marciapiede \(con Tony Effe, Ernia & Rkomi\)](https://open.spotify.com/track/7nz7IQI6XfGLbpLB2ZLfXr) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:36 | 2022-09-15 | 2023-04-12 |
 | [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/album/5zRsIaSAVqjaskO9aH851E) | 3:06 | 2023-04-20 | 2023-05-26 |

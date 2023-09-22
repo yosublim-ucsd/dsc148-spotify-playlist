@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Kika Boom, Kaya Conky",
-  "num_followers": 223810,
+  "num_followers": 223851,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWQzYzU5NGUxNTcyYzg3ZjYyODZjODI4ODI3NmNmOTk2MWJmMTA3",
+  "snapshot_id": "MCw3YjAwYWFjYWFmNWNkYTgzZmY5OWFkY2Y4YmE3ZWVhOTA4MGQ1MGZl",
   "tracks": [
     {
       "added_at": "2023-09-02 00:04:15",
@@ -219,26 +219,18 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP"
+        "name": "Party Everyday",
+        "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
       },
       "artists": [
         {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Vivi",
-          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
         }
       ],
-      "duration_ms": 166121,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ"
+      "duration_ms": 137681,
+      "name": "Party Everyday",
+      "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -291,18 +283,26 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "Party Everyday",
-        "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP"
       },
       "artists": [
         {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Vivi",
+          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
         }
       ],
-      "duration_ms": 137681,
-      "name": "Party Everyday",
-      "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
+      "duration_ms": 166121,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -399,34 +399,6 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "Barbie (feat. Danny Bond)",
-        "url": "https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx"
-      },
-      "artists": [
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
-        }
-      ],
-      "duration_ms": 149514,
-      "name": "Barbie (feat. Danny Bond)",
-      "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
         "name": "F\u00daRIA",
         "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
       },
@@ -443,6 +415,22 @@
       "duration_ms": 173000,
       "name": "Expl\u00edcito",
       "url": "https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
+        "name": "MAU",
+        "url": "https://open.spotify.com/album/2piVGhoJU97oTfBEDeuVa9"
+      },
+      "artists": [
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "duration_ms": 175102,
+      "name": "MAU",
+      "url": "https://open.spotify.com/track/4yle1g6x5ZvZAGFTPcIM42"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -479,18 +467,30 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "MAU",
-        "url": "https://open.spotify.com/album/2piVGhoJU97oTfBEDeuVa9"
+        "name": "Barbie (feat. Danny Bond)",
+        "url": "https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx"
       },
       "artists": [
         {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
         }
       ],
-      "duration_ms": 175102,
-      "name": "MAU",
-      "url": "https://open.spotify.com/track/4yle1g6x5ZvZAGFTPcIM42"
+      "duration_ms": 149514,
+      "name": "Barbie (feat. Danny Bond)",
+      "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -539,26 +539,22 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
-        "url": "https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ"
+        "name": "Aladim",
+        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
       },
       "artists": [
         {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
         },
         {
-          "name": "DJ Will22",
-          "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
         }
       ],
-      "duration_ms": 120000,
-      "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
-      "url": "https://open.spotify.com/track/70jrNdP6R9AKHazjaurG3Z"
+      "duration_ms": 145588,
+      "name": "Aladim",
+      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -603,22 +599,18 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "Aladim",
-        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
+        "name": "Gente Crazy",
+        "url": "https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC"
       },
       "artists": [
         {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
-        },
-        {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
         }
       ],
-      "duration_ms": 145588,
-      "name": "Aladim",
-      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
+      "duration_ms": 151472,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -659,18 +651,26 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "Gente Crazy",
-        "url": "https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC"
+        "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
+        "url": "https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ"
       },
       "artists": [
         {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        },
+        {
+          "name": "DJ Will22",
+          "url": "https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 151472,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0"
+      "duration_ms": 120000,
+      "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
+      "url": "https://open.spotify.com/track/70jrNdP6R9AKHazjaurG3Z"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -699,6 +699,22 @@
       "duration_ms": 146086,
       "name": "F\u00f3rmula",
       "url": "https://open.spotify.com/track/6L7popTiDKKLHafG3X0ZSF"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
+        "name": "Que Passa",
+        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 193861,
+      "name": "Que Passa",
+      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -783,22 +799,6 @@
       "duration_ms": 169411,
       "name": "S\u00f3cia",
       "url": "https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
-        "name": "Que Passa",
-        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 193861,
-      "name": "Que Passa",
-      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
     },
     {
       "added_at": "2023-09-02 00:04:15",

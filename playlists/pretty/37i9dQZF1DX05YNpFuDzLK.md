@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,356 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,377 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 17 | [シアワセネイロ](https://open.spotify.com/track/1rEFlimO0JqcvsAtPUT0ho) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [PANIC FANCY](https://open.spotify.com/album/0bcznv62ho46F3dl6paFG7) | 4:17 |
 | 18 | [WORLD END](https://open.spotify.com/track/4wODMeGBAwLAmq0zSAb8Z3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:46 |
 | 19 | [わが臈たし悪の華](https://open.spotify.com/track/3MJqgOdP2nNb8QzfIaV0io) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [桂冠詩人 SINGLE COLLECTION PLUS](https://open.spotify.com/album/004c28tUoHBiyAxdzO0z8e) | 4:30 |
-| 20 | [赤だけが足りない](https://open.spotify.com/track/374bDeFT5PC3fU85QWTCKm) | [Iris Woo](https://open.spotify.com/artist/7x2hNYu3nbbyMnete3M0fD) | [赤だけが足りない](https://open.spotify.com/album/1wYav487ZMFUiun6Yorv0n) | 4:27 |
+| 20 | [赤だけが足りない](https://open.spotify.com/track/374bDeFT5PC3fU85QWTCKm) | [Iris](https://open.spotify.com/artist/6evnR1U9Fy15Ca4PGumVKT) | [赤だけが足りない](https://open.spotify.com/album/1wYav487ZMFUiun6Yorv0n) | 4:27 |
 | 21 | [The Moon](https://open.spotify.com/track/7nq9fkctKub9nIIqDKpRhi) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [The Moon](https://open.spotify.com/album/3goHvNnTtAc9tjR7omOQV5) | 4:19 |
 | 22 | [NE:ONE](https://open.spotify.com/track/0ztVNfGIcqDHjdirjwfgfS) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [s p a c e \[ s \]](https://open.spotify.com/album/0CgeV903VAMyVTcNF19q4E) | 4:12 |
 | 23 | [この世界で](https://open.spotify.com/track/7gc2ze99EAjltx0xGHGeOJ) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [この世界で](https://open.spotify.com/album/5A7FOGWsOo8PzO7esUjWod) | 4:43 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 64 | [Rhythmic Footstep](https://open.spotify.com/track/5u6IMA5Ldpf4dzC8wSdy46) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:00 |
 | 65 | [Upheaval](https://open.spotify.com/track/04RuAp7fyZdSXaWoKHCJAk) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:00 |
 
-Snapshot ID: `MCxmMTAxOGE2M2Q5N2E5ZTViZWY2MDIyYzI0M2I5ZWE4M2RhMWZhYzdj`
+Snapshot ID: `MCxhY2EzM2QxMjM2ZTMyNmYxY2Q2ODY1ZGU5OTQ5NzZmM2NiZTA1MDYz`

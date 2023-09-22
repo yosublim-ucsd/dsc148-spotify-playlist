@@ -82,6 +82,6 @@
 | [瞳ノ翼](https://open.spotify.com/track/1WsJa8gcDaN98fKWjkzACu) | [access](https://open.spotify.com/artist/3lm6JsSicTww5h33Yvee1H) | [瞳ノ翼](https://open.spotify.com/album/3VZC8ZQhXC0ssXkXG3SjmR) | 3:32 | 2022-08-04 |  |
 | [解読不能](https://open.spotify.com/track/7qmHiAnigN9lTQK4KhwSkF) | [Jinn](https://open.spotify.com/artist/1ve6qu9hbhEB8BMQwBUzYf) | [レミングス](https://open.spotify.com/album/3cUiVzXIOabDLPvZQpIwrx) | 3:02 | 2022-08-04 | 2022-09-16 |
 | [解読不能](https://open.spotify.com/track/0TKKGAyysdP5DTxc3zRuCW) | [Jinn](https://open.spotify.com/artist/1ve6qu9hbhEB8BMQwBUzYf) | [解読不能](https://open.spotify.com/album/7hLgA6PTXN6K1CgMkQlfFS) | 3:07 | 2022-08-04 |  |
-| [赤だけが足りない](https://open.spotify.com/track/374bDeFT5PC3fU85QWTCKm) | [Iris Woo](https://open.spotify.com/artist/7x2hNYu3nbbyMnete3M0fD) | [赤だけが足りない](https://open.spotify.com/album/1wYav487ZMFUiun6Yorv0n) | 4:27 | 2022-08-04 |  |
+| [赤だけが足りない](https://open.spotify.com/track/374bDeFT5PC3fU85QWTCKm) | [Iris](https://open.spotify.com/artist/6evnR1U9Fy15Ca4PGumVKT) | [赤だけが足りない](https://open.spotify.com/album/1wYav487ZMFUiun6Yorv0n) | 4:27 | 2022-08-04 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

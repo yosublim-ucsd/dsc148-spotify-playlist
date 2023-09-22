@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-181 songs - 11 hr 13 min
+182 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [The Comeback Kid](https://open.spotify.com/track/2AC00hOhYz5dEwt2EMyChQ) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [The Comeback Kid](https://open.spotify.com/album/1Fc9CDZu5z5wmL3n7ecW62) | 3:01 | 2019-10-31 |  |
 | [The Dirt](https://open.spotify.com/track/19tDNU6hOt4wdXWgv1PUMf) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:35 | 2022-01-27 |  |
 | [The Dirt](https://open.spotify.com/track/5VB9VqBUzxR8lj49Scmly0) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:35 | 2019-10-31 | 2022-07-29 |
-| [The Exchange](https://open.spotify.com/track/4nf5Cxq9O4mmQcKKYYOgj3) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR) | 7:48 | 2019-10-31 |  |
+| [The Exchange](https://open.spotify.com/track/3SdtPMuNWzEWsLNF5T2F9g) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js) | 7:48 | 2023-09-08 |  |
+| [The Exchange](https://open.spotify.com/track/4nf5Cxq9O4mmQcKKYYOgj3) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR) | 7:48 | 2019-10-31 | 2023-09-22 |
 | [The Fall](https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Fall](https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc) | 3:27 | 2023-05-19 |  |
 | [The Navigator](https://open.spotify.com/track/6YFBr5XJl2Nap9uPcdSW9Q) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Navigator](https://open.spotify.com/album/3muvjEAtiu5JuPBRBNzIX9) | 3:07 | 2019-10-31 |  |
 | [The Night My Piano Upped and Died](https://open.spotify.com/track/1dKHaN7ycK4Pw9nNKsDfR4) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [Sillion](https://open.spotify.com/album/6EvICOHQtGcwoIF3bQR53d) | 3:55 | 2019-10-31 |  |

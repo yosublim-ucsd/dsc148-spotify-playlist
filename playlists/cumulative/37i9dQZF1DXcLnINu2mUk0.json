@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Julinho Ksd.",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Domingues.",
   "name": "Seda",
   "tracks": [
     {
@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG"
+      },
+      "artists": [
+        {
+          "name": "Burrz",
+          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181073,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf"
+    },
+    {
+      "album": {
         "name": "Anan\u00e1s",
         "url": "https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj"
       },
@@ -716,7 +734,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 251147,
       "name": "Aura Diferente",
       "url": "https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 153703,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 204814,
       "name": "DIAMANTE",
       "url": "https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ"
@@ -4656,7 +4674,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 180340,
       "name": "Mo\u00e7a",
       "url": "https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc"
@@ -5314,7 +5332,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 240763,
       "name": "N\u00e3o Me Leves a Mal",
       "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
@@ -6552,7 +6570,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 212688,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/4zcd47kKnAja9SU61xNL2o"
@@ -7020,7 +7038,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 254400,
       "name": "Sons de Amor",
       "url": "https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL"
@@ -7598,6 +7616,28 @@
       "duration_ms": 230658,
       "name": "Tu Reclamas",
       "url": "https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB"
+    },
+    {
+      "album": {
+        "name": "Tudo Eu",
+        "url": "https://open.spotify.com/album/5IWSsHVCFLFQJukkiUye4U"
+      },
+      "artists": [
+        {
+          "name": "L-ALI",
+          "url": "https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy"
+        },
+        {
+          "name": "Beiro",
+          "url": "https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140979,
+      "name": "Tudo Eu",
+      "url": "https://open.spotify.com/track/4Dq6ZMKGGE0ySNelZl63f8"
     },
     {
       "album": {
@@ -8274,7 +8314,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 134743,
       "name": "\u00c0 Tona",
       "url": "https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,197 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,284 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Brother](https://open.spotify.com/track/2a5Qw8eu4Ger7FPpcP61fd) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Brother](https://open.spotify.com/album/13kWGYpAMspF5I3CMa1q9P) | 3:39 |
 | 150 | [Swim](https://open.spotify.com/track/6ePVM7eOWsgpJmKRaHVqqa) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Swim](https://open.spotify.com/album/3OAs5OVp8T5wE0XPlmXLyM) | 4:13 |
 
-Snapshot ID: `MCw2NDZlY2MxMWI2ZDU1ODE2NzUwNzY1MjBjNDVlOTEwMDFjNDk3NTE1`
+Snapshot ID: `MCwxMDE4MjMzMjE5OWMyMDI4ZDJhMmNiZDgwOWMxN2YzNTAzYjg2ODBk`

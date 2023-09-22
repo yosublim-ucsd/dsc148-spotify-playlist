@@ -5546,7 +5546,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 129229,
       "name": "Apaixonar",
       "url": "https://open.spotify.com/track/0uX8h1vgDzUwQJAH4jEYsV"
@@ -7502,7 +7502,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/4BWWjTzEZ5A4uZIMbv0Mbb"
@@ -13420,7 +13420,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 137142,
       "name": "Bouquet of Dreams",
       "url": "https://open.spotify.com/track/6jByNJZO4IQwNGXqKld5Mh"
@@ -15048,6 +15048,24 @@
       "duration_ms": 171000,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3NA5xcNdbBmeKOP1HILB06"
+    },
+    {
+      "album": {
+        "name": "Buttersweet",
+        "url": "https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ"
+      },
+      "artists": [
+        {
+          "name": "Moox",
+          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177874,
+      "name": "Buttersweet",
+      "url": "https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED"
     },
     {
       "album": {
@@ -16742,7 +16760,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 146129,
       "name": "carpool lane",
       "url": "https://open.spotify.com/track/4Yr6oYb6llf2yvjJXiDgdb"
@@ -23220,6 +23238,28 @@
       "duration_ms": 172267,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/7dhodxQz3rlrheLkNXCyur"
+    },
+    {
+      "album": {
+        "name": "Cruiser's Blvd",
+        "url": "https://open.spotify.com/album/2FM1OgXmKPw3pzSObe9cIg"
+      },
+      "artists": [
+        {
+          "name": "Suff Daddy",
+          "url": "https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0"
+        },
+        {
+          "name": "Lushdogg",
+          "url": "https://open.spotify.com/artist/5wrLSlpM5JLIb67MAuI4US"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143048,
+      "name": "Cruiser's Blvd",
+      "url": "https://open.spotify.com/track/5junbg4wLB8WKiCpZTRiJU"
     },
     {
       "album": {
@@ -42262,7 +42302,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 110923,
       "name": "Gut Feeling",
       "url": "https://open.spotify.com/track/7dHewWL2NRf7acZxn9GVwZ"
@@ -43192,6 +43232,24 @@
       "duration_ms": 152838,
       "name": "Have A Good Night",
       "url": "https://open.spotify.com/track/7jEzzTTTEWsb4fOLJlm2Iw"
+    },
+    {
+      "album": {
+        "name": "Have a Nice Day",
+        "url": "https://open.spotify.com/album/56EBA098Divnw6538HnsJE"
+      },
+      "artists": [
+        {
+          "name": "RAEDY",
+          "url": "https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111948,
+      "name": "Have a Nice Day",
+      "url": "https://open.spotify.com/track/1aonf4JP5wqsJC6mKKeF2N"
     },
     {
       "album": {
@@ -45086,7 +45144,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 108000,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/4smqcp7wpCfclJHaWJGYP3"
@@ -45652,7 +45710,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 133667,
       "name": "Hot Ice Tea",
       "url": "https://open.spotify.com/track/6TaHz6VKJPonV2rGBbXvz4"
@@ -48617,6 +48675,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair"
+      },
+      "artists": [
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y"
+    },
+    {
+      "album": {
         "name": "Indigo Lies",
         "url": "https://open.spotify.com/album/2BEAqDmL6FqDvtKlpm70Z6"
       },
@@ -49828,7 +49904,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 125000,
       "name": "It Was A Good Day",
       "url": "https://open.spotify.com/track/2WD4Ioe38M9VAQkupOz3Cj"
@@ -56949,6 +57025,28 @@
     },
     {
       "album": {
+        "name": "Lightways",
+        "url": "https://open.spotify.com/album/3a8JhY9MsBDSkPHb5oHAmz"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167710,
+      "name": "Lightways",
+      "url": "https://open.spotify.com/track/2CPrRvxxnaiSgujFmCsS82"
+    },
+    {
+      "album": {
         "name": "lightworks",
         "url": "https://open.spotify.com/album/3FJHdvk1sbjW0lNIC3tM4m"
       },
@@ -57160,6 +57258,28 @@
       "duration_ms": 156000,
       "name": "Lilsved",
       "url": "https://open.spotify.com/track/15XjLdbjhgf8SKS7EG0jOF"
+    },
+    {
+      "album": {
+        "name": "Lily Scent and Cigarette Smoke",
+        "url": "https://open.spotify.com/album/04WBbuoTVg6IsJXjJTJc9G"
+      },
+      "artists": [
+        {
+          "name": "Jazzy James",
+          "url": "https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR"
+        },
+        {
+          "name": "Jakob Gerhardt",
+          "url": "https://open.spotify.com/artist/6naolhpsGxwmfRVMZxQjNt"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178642,
+      "name": "Lily Scent and Cigarette Smoke",
+      "url": "https://open.spotify.com/track/5aF4wHXhE4SgjqZga6tBli"
     },
     {
       "album": {
@@ -63934,7 +64054,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 120000,
       "name": "Mind Your Manners",
       "url": "https://open.spotify.com/track/7tfMILJR18oxlNneyQny0W"
@@ -65240,6 +65360,32 @@
       "duration_ms": 85333,
       "name": "Mont Blanc",
       "url": "https://open.spotify.com/track/7hw7mSakLaJdDAzONGDRXb"
+    },
+    {
+      "album": {
+        "name": "Monte Carle",
+        "url": "https://open.spotify.com/album/0Jyb0EzJJjvPcyn4rfzj8q"
+      },
+      "artists": [
+        {
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        },
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Florent Garcia",
+          "url": "https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138214,
+      "name": "Monte Carle",
+      "url": "https://open.spotify.com/track/4Y4dzMppLM00JInQ1bwdVa"
     },
     {
       "album": {
@@ -74696,7 +74842,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 156934,
       "name": "Our Last Night On Earth",
       "url": "https://open.spotify.com/track/3E6Jgg7PBKQVaWOugpzctP"
@@ -76572,6 +76718,24 @@
       "duration_ms": 120006,
       "name": "Peaceful",
       "url": "https://open.spotify.com/track/4Axg6NZIfBTkKBZmjcduEr"
+    },
+    {
+      "album": {
+        "name": "Peaceful Ghost",
+        "url": "https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx"
+      },
+      "artists": [
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141346,
+      "name": "Peaceful Ghost",
+      "url": "https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5"
     },
     {
       "album": {
@@ -85072,7 +85236,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 107080,
       "name": "Salad Days",
       "url": "https://open.spotify.com/track/2GyrB5OrYKwOIreB9mCICC"
@@ -95460,7 +95624,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 138000,
       "name": "Style",
       "url": "https://open.spotify.com/track/7JCIgOjVoWjt2Qe2uRzqpT"
@@ -102576,7 +102740,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 142857,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/7f4CCitqRqcjDpfm87V3DH"
@@ -102994,6 +103158,24 @@
       "duration_ms": 185695,
       "name": "Tiger Park",
       "url": "https://open.spotify.com/track/2RKFdXgtbivlmgSGnI7oEz"
+    },
+    {
+      "album": {
+        "name": "Tiger Tales (of the Concrete Jungle)",
+        "url": "https://open.spotify.com/album/6FfMLwzNxswjsR5tlM0YGV"
+      },
+      "artists": [
+        {
+          "name": "Tigerpalm*Bay",
+          "url": "https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Tiger Tales (of the Concrete Jungle)",
+      "url": "https://open.spotify.com/track/2Jtxx7JTFeEq7vGG5mxgMV"
     },
     {
       "album": {
@@ -103926,6 +104108,24 @@
       "duration_ms": 125933,
       "name": "too all the ladies in the place",
       "url": "https://open.spotify.com/track/3vnGRHbTtEJXprw7MzJ8H7"
+    },
+    {
+      "album": {
+        "name": "Futon Feels",
+        "url": "https://open.spotify.com/album/6pJmJAz4vTD40Oaw7SzTRP"
+      },
+      "artists": [
+        {
+          "name": "Hans Hu$tle",
+          "url": "https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Too Big Without You",
+      "url": "https://open.spotify.com/track/1T1O2TmIjhPGGSd5QV279I"
     },
     {
       "album": {
@@ -113250,7 +113450,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 140571,
       "name": "Wineyard bonanza",
       "url": "https://open.spotify.com/track/2eepnu15fsjc0UBgnlSXOA"
@@ -113402,7 +113602,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 121485,
       "name": "Winter in Paris",
       "url": "https://open.spotify.com/track/2bjZULuwwGlvNK83JeMzP1"
@@ -114912,6 +115112,32 @@
       "duration_ms": 130000,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/5KBDAXmuln6oyv91AFCZtb"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Tomorrow",
+        "url": "https://open.spotify.com/album/3pU2zQiCSXTLKpUY1sU3oa"
+      },
+      "artists": [
+        {
+          "name": "Lab Progression",
+          "url": "https://open.spotify.com/artist/1KWvzy2ks6bKSBD3rMj5yk"
+        },
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "Jammin Berries",
+          "url": "https://open.spotify.com/artist/46TWlcFSSZbWiB9k9n0P8o"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140432,
+      "name": "Yesterday's Tomorrow",
+      "url": "https://open.spotify.com/track/7D2wp7jItC0PNJMp3fvDZm"
     },
     {
       "album": {

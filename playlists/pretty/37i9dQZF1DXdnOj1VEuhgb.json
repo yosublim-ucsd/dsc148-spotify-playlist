@@ -1,15 +1,15 @@
 {
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: UZI x Russ Millions",
-  "num_followers": 1294942,
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Allame x Hidra",
+  "num_followers": 1295470,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTA3MjcwYTk3YmViMjFjYjg4MjdiZjU2MjgwMGViMzExMjI3MjRi",
+  "snapshot_id": "MCwyMDViNmY5YWZhOGI5YTk4Y2ViMmFiYzEwY2ZmMTdmYWU4YzhjOTgy",
   "tracks": [
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "International",
         "url": "https://open.spotify.com/album/3SLQnZNuEYI3UvqppW4oLd"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1WHwr3enTkZdG8feFozaqy"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Promilim Y\u00fcksek",
         "url": "https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC"
@@ -45,7 +45,27 @@
       "url": "https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
+      "album": {
+        "name": "Geceler",
+        "url": "https://open.spotify.com/album/3FDarLcv4ob7ETiDyH58za"
+      },
+      "artists": [
+        {
+          "name": "Sagopa Kajmer",
+          "url": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+        },
+        {
+          "name": "Mine Ko\u015fan",
+          "url": "https://open.spotify.com/artist/2ditOd9fNYAscQhUmYhfXh"
+        }
+      ],
+      "duration_ms": 276802,
+      "name": "Geceler",
+      "url": "https://open.spotify.com/track/4H2KhOR9QOHHv4ttjV5Lhz"
+    },
+    {
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Cesaret",
         "url": "https://open.spotify.com/album/00HFD6omZZg5Fj1zH4QRMT"
@@ -65,7 +85,27 @@
       "url": "https://open.spotify.com/track/4LPfP8XzAp7OESNP28AUFB"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
+      "album": {
+        "name": "Bumerang",
+        "url": "https://open.spotify.com/album/1wSw8Ra6QLJgz3TCmwTjnG"
+      },
+      "artists": [
+        {
+          "name": "Allame",
+          "url": "https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS"
+        },
+        {
+          "name": "Hidra",
+          "url": "https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m"
+        }
+      ],
+      "duration_ms": 160879,
+      "name": "Bumerang",
+      "url": "https://open.spotify.com/track/2E1VxbqXsK87BmyC9O3xCA"
+    },
+    {
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Sa\u011flam Kal\u00e7a",
         "url": "https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk"
@@ -81,7 +121,63 @@
       "url": "https://open.spotify.com/track/01zrETrdU6ywRoqXZXBfbV"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
+      "album": {
+        "name": "LETS GO PARTY",
+        "url": "https://open.spotify.com/album/6ZHdU3NqqnXF4eEUDg9RP4"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "LETS GO PARTY",
+      "url": "https://open.spotify.com/track/4pmhGRk8wqp2ncPzSsqWya"
+    },
+    {
+      "added_at": "2023-09-21 21:00:00",
+      "album": {
+        "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
+        "url": "https://open.spotify.com/album/7pwq5tZSWASKlMg6DJlEcP"
+      },
+      "artists": [
+        {
+          "name": "Haloday\u0131",
+          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
+        },
+        {
+          "name": "Azer B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
+        }
+      ],
+      "duration_ms": 149642,
+      "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
+      "url": "https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ"
+    },
+    {
+      "added_at": "2023-09-21 21:00:00",
+      "album": {
+        "name": "FALLEN",
+        "url": "https://open.spotify.com/album/0V3uA2HJdt0h5SjLQ1PUeS"
+      },
+      "artists": [
+        {
+          "name": "Tepki",
+          "url": "https://open.spotify.com/artist/5DtQ3MpxpzAyDvgMNFWN1r"
+        }
+      ],
+      "duration_ms": 140884,
+      "name": "FALLEN",
+      "url": "https://open.spotify.com/track/0Z8tA2Z3OZNgTeddaI9lat"
+    },
+    {
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "ICARDI / PREGA TILL I DIE",
         "url": "https://open.spotify.com/album/0EYPzmfR0dtePkP6q3HE8O"
@@ -109,43 +205,23 @@
       "url": "https://open.spotify.com/track/0zSRhN1sX2F9DbE9KxNcIS"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
-        "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
-        "url": "https://open.spotify.com/album/7pwq5tZSWASKlMg6DJlEcP"
+        "name": "akl\u0131na ben gelicem",
+        "url": "https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J"
       },
       "artists": [
         {
-          "name": "Haloday\u0131",
-          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
-        },
-        {
-          "name": "Azer B\u00fclb\u00fcl",
-          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
         }
       ],
-      "duration_ms": 149642,
-      "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
-      "url": "https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ"
+      "duration_ms": 149406,
+      "name": "akl\u0131na ben gelicem",
+      "url": "https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
-      "album": {
-        "name": "BABA",
-        "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 101116,
-      "name": "\u0130ZLED\u0130 MAHALLE",
-      "url": "https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi"
-    },
-    {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Arar\u0131m Yar\u0131n",
         "url": "https://open.spotify.com/album/2zUHnGXEvzKk02vnJQHAnm"
@@ -165,7 +241,23 @@
       "url": "https://open.spotify.com/track/7Dfe90uD6HDlA2lq3K1mkp"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
+      "album": {
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 101116,
+      "name": "\u0130ZLED\u0130 MAHALLE",
+      "url": "https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi"
+    },
+    {
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "N'apt\u0131\u011f\u0131n\u0131 bilmesem de",
         "url": "https://open.spotify.com/album/7qgd2TX9kzFYbvBl9cavsK"
@@ -181,7 +273,7 @@
       "url": "https://open.spotify.com/track/6uNSbvWZgNkBWw3MP7bpnf"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Caney",
         "url": "https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN"
@@ -197,7 +289,7 @@
       "url": "https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "MAHALLEN\u0130N MA\u015eALLAHI",
         "url": "https://open.spotify.com/album/2WCnQdK7JZzJ8QveHA72A3"
@@ -213,7 +305,7 @@
       "url": "https://open.spotify.com/track/6lWBihp8n0i9aDzVyAUQeA"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "B\u00f6l\u00fcm Sonu",
         "url": "https://open.spotify.com/album/4FmJuyC3gwgYdbrcOU4ar0"
@@ -229,7 +321,7 @@
       "url": "https://open.spotify.com/track/1W7vixv87ysuAoOKzz0uLE"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "HAFTASONU",
         "url": "https://open.spotify.com/album/2xTlPPoVRncrhgRLSc8moa"
@@ -245,23 +337,7 @@
       "url": "https://open.spotify.com/track/4v1eCQCl3d5w8a6Czv4qTv"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
-      "album": {
-        "name": "KAFAMA G\u00d6RE",
-        "url": "https://open.spotify.com/album/0umpW0vx4KSlwunhKUW0MD"
-      },
-      "artists": [
-        {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        }
-      ],
-      "duration_ms": 165227,
-      "name": "KAFAMA G\u00d6RE",
-      "url": "https://open.spotify.com/track/4FbfcDH6i1YeSm6ilNHXAw"
-    },
-    {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Telefon",
         "url": "https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz"
@@ -277,7 +353,7 @@
       "url": "https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Hastal\u0131k",
         "url": "https://open.spotify.com/album/6aZzWNTX8Ggpon7Q9Gdq2L"
@@ -293,7 +369,7 @@
       "url": "https://open.spotify.com/track/7qkAJdRh1B4x6jJqp5f7by"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Arayamad\u0131m",
         "url": "https://open.spotify.com/album/2rhtOoRuVEhPE91NqO6yaI"
@@ -309,7 +385,7 @@
       "url": "https://open.spotify.com/track/1yqsRQmiXPw0KI1Zu1qTGW"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "BAYBAY",
         "url": "https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o"
@@ -325,7 +401,7 @@
       "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "DEFOL",
         "url": "https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm"
@@ -341,7 +417,7 @@
       "url": "https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "RaTaTa",
         "url": "https://open.spotify.com/album/1RdmjIxOIDrcH2xnVoJRVa"
@@ -357,7 +433,7 @@
       "url": "https://open.spotify.com/track/0QpE5aWc2gq705lQjjKQoh"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "A\u011eZI BOZUK",
         "url": "https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN"
@@ -373,7 +449,7 @@
       "url": "https://open.spotify.com/track/2Y2D4vvx4SMOYfQaxSZEQz"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
@@ -389,7 +465,7 @@
       "url": "https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "YAPTIRICAZ TIRNAKLARINI",
         "url": "https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk"
@@ -405,7 +481,7 @@
       "url": "https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY"
@@ -425,7 +501,7 @@
       "url": "https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Hermano",
         "url": "https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4"
@@ -445,7 +521,7 @@
       "url": "https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "A\u015fk Olsun",
         "url": "https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7"
@@ -461,7 +537,7 @@
       "url": "https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Pofuduk",
         "url": "https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu"
@@ -481,27 +557,7 @@
       "url": "https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
-      "album": {
-        "name": "LELELE",
-        "url": "https://open.spotify.com/album/280tzkxAqhjDejY78x31ZX"
-      },
-      "artists": [
-        {
-          "name": "DEHA INC.",
-          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
-        },
-        {
-          "name": "Batuflex",
-          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
-        }
-      ],
-      "duration_ms": 158509,
-      "name": "LELELE",
-      "url": "https://open.spotify.com/track/0GacjftLDThkCn0kMJETNh"
-    },
-    {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "ARABA",
         "url": "https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6"
@@ -517,7 +573,7 @@
       "url": "https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "AFFETMEM",
         "url": "https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg"
@@ -533,7 +589,7 @@
       "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "ROMANT\u0130K",
         "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
@@ -549,7 +605,7 @@
       "url": "https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Asosyal",
         "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
@@ -565,7 +621,7 @@
       "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "KONTAK (feat. Ezhel)",
         "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
@@ -589,7 +645,7 @@
       "url": "https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "EL CHAVO",
         "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
@@ -605,27 +661,7 @@
       "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
-      "album": {
-        "name": "PA$$$A VIBES V",
-        "url": "https://open.spotify.com/album/36h6r9fxJXD9keKaDZi0rw"
-      },
-      "artists": [
-        {
-          "name": "Jefe",
-          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
-        },
-        {
-          "name": "U\u011fur \u00d6zt\u00fcrk",
-          "url": "https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI"
-        }
-      ],
-      "duration_ms": 101306,
-      "name": "PA$$$A VIBES V",
-      "url": "https://open.spotify.com/track/5zjHGCU8Zq6X8bx7gmqYC1"
-    },
-    {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "YAKALARSAN",
         "url": "https://open.spotify.com/album/5dDBLvXR3Rw6IvOMOIYKmP"
@@ -641,7 +677,7 @@
       "url": "https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "GANG",
         "url": "https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR"
@@ -665,7 +701,7 @@
       "url": "https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "\u00d6z\u00fcr",
         "url": "https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg"
@@ -681,7 +717,7 @@
       "url": "https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "RANDEVU",
         "url": "https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b"
@@ -697,7 +733,7 @@
       "url": "https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "NKB\u0130 X YAPAMAM (Remix)",
         "url": "https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ"
@@ -717,7 +753,7 @@
       "url": "https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "\u0130mparator",
         "url": "https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre"
@@ -737,7 +773,7 @@
       "url": "https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn"
@@ -753,7 +789,7 @@
       "url": "https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "ROMANT\u0130K",
         "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
@@ -769,7 +805,7 @@
       "url": "https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "VUR",
         "url": "https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr"
@@ -785,7 +821,7 @@
       "url": "https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "10MG",
         "url": "https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4"
@@ -801,7 +837,7 @@
       "url": "https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Kalbin bana kald\u0131",
         "url": "https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW"
@@ -821,7 +857,7 @@
       "url": "https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "EL CHAVO",
         "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
@@ -841,31 +877,7 @@
       "url": "https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5"
     },
     {
-      "added_at": "2023-09-14 21:00:00",
-      "album": {
-        "name": "Diyardan Diyara",
-        "url": "https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        },
-        {
-          "name": "Arem Ozguc",
-          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
-        },
-        {
-          "name": "Arman Aydin",
-          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
-        }
-      ],
-      "duration_ms": 149732,
-      "name": "Diyardan Diyara",
-      "url": "https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55"
-    },
-    {
-      "added_at": "2023-09-14 21:00:00",
+      "added_at": "2023-09-21 21:00:00",
       "album": {
         "name": "Yolunda \"pavyon\"",
         "url": "https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM"
@@ -883,26 +895,6 @@
       "duration_ms": 150909,
       "name": "Yolunda \"pavyon\"",
       "url": "https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo"
-    },
-    {
-      "added_at": "2023-09-14 21:00:00",
-      "album": {
-        "name": "Of Aman",
-        "url": "https://open.spotify.com/album/4uFmbRXLHZcsPanWVZFiBu"
-      },
-      "artists": [
-        {
-          "name": "Canbay & Wolker",
-          "url": "https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT"
-        },
-        {
-          "name": "Decrat",
-          "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
-        }
-      ],
-      "duration_ms": 190631,
-      "name": "Of Aman",
-      "url": "https://open.spotify.com/track/47tPBTEZNCy6YEP0tn3tPi"
     }
   ],
   "unique_name": "NKVT",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-115 songs - 7 hr 11 min
+116 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [In a Manner of Speaking](https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:58 | 2022-09-05 | 2023-07-16 |
 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 | 2022-09-05 |  |
 | [Kepko](https://open.spotify.com/track/5VChaeq6hagzFFwDsWETyz) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Kepko](https://open.spotify.com/album/6FY063UrUu9kj8ixxjSByb) | 3:12 | 2022-11-11 |  |
-| [Lalala \(Want Somebody\) \- X\-Coast Remix](https://open.spotify.com/track/2wC5MC7ya0YtiMPi11zIgn) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [TDJ002 DELUXE](https://open.spotify.com/album/6Bni8QVdMurBYVtt3625xQ) | 3:55 | 2022-09-05 |  |
+| [Lalala \(Want Somebody\) \- X\-Coast Remix](https://open.spotify.com/track/6pFXqXNC6q4e0qxODk7Hr6) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [TDJ002 DELUXE](https://open.spotify.com/album/2hxLDc9WTyVzx2UbzXCWWo) | 3:55 | 2022-11-11 |  |
+| [Lalala \(Want Somebody\) \- X\-Coast Remix](https://open.spotify.com/track/2wC5MC7ya0YtiMPi11zIgn) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [TDJ002 DELUXE](https://open.spotify.com/album/6Bni8QVdMurBYVtt3625xQ) | 3:55 | 2022-09-05 | 2023-09-22 |
 | [Lan Party](https://open.spotify.com/track/0aq6oYmCTEw5rb2VDAOGG3) | [Bliss Inc](https://open.spotify.com/artist/0Dr4hJBoD2fgLHwob8xUIK) | [Radiant Reality](https://open.spotify.com/album/31vaYX2vhLL7CTNETlqHqS) | 4:48 | 2022-11-11 |  |
 | [Lo tek massacre](https://open.spotify.com/track/0B0e0FZ8FYGJ6uqUc3lEN7) | [Kim](https://open.spotify.com/artist/0VgI6DYUxqxSQ110X1Na3s) | [Improvisations à la galerie du pop up](https://open.spotify.com/album/5QoU3qy0qdMfoOVGdWEHLR) | 9:24 | 2022-09-05 |  |
 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 | 2022-09-05 | 2022-11-12 |

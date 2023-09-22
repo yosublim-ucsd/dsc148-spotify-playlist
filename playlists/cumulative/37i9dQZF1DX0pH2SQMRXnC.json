@@ -1469,6 +1469,28 @@
     },
     {
       "album": {
+        "name": "Can Can",
+        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
+      },
+      "artists": [
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128812,
+      "name": "Can Can",
+      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
+    },
+    {
+      "album": {
         "name": "Can Can (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn"
       },
@@ -3190,6 +3212,28 @@
       "duration_ms": 182285,
       "name": "Escape",
       "url": "https://open.spotify.com/track/1dugN8I61tGdZdhv35RwUg"
+    },
+    {
+      "album": {
+        "name": "Eternal Flame",
+        "url": "https://open.spotify.com/album/42wbAGw7UTNRHpNTPdg9li"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177384,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/6hJOslrB3jquQksSqUTJ7Y"
     },
     {
       "album": {
@@ -6697,6 +6741,28 @@
     },
     {
       "album": {
+        "name": "Lift Me Up (Hard Mix)",
+        "url": "https://open.spotify.com/album/5QPKhPol4vmOWPk4K4XXHu"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Lift Me Up - Hard Mix",
+      "url": "https://open.spotify.com/track/7t0KwFT5N5r1cFJloJAHGn"
+    },
+    {
+      "album": {
         "name": "Light The Fire",
         "url": "https://open.spotify.com/album/4yFakFnDvDQHpw8RqQlagy"
       },
@@ -9398,7 +9464,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 231292,
       "name": "Ready To Roll - Deluzion Remix",
       "url": "https://open.spotify.com/track/0MdU4Bbbwd3Z314HwZj4um"
@@ -13032,7 +13098,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 165379,
       "name": "We Are Xtra",
       "url": "https://open.spotify.com/track/519wD9zbe3OZI6LYKq1zXS"
@@ -13226,7 +13292,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 156444,
       "name": "Where is the Beat?",
       "url": "https://open.spotify.com/track/2QlSZqplGcoNIutgfhDoAS"

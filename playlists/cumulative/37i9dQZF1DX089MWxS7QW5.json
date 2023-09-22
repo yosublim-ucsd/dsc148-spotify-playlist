@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Moon Sujin(\ubb38\uc218\uc9c4))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Hoody(\ud6c4\ub514))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -2474,6 +2474,24 @@
       "duration_ms": 196624,
       "name": "Lokuko (feat. Kid Wine)",
       "url": "https://open.spotify.com/track/2kPXxMK07nUGTL2eQdVM3O"
+    },
+    {
+      "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197930,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ"
     },
     {
       "album": {

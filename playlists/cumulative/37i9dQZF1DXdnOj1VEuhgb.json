@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: UZI x Russ Millions",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Allame x Hidra",
   "name": "NKVT",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 182117,
       "name": "AFFETMEM",
       "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
+    },
+    {
+      "album": {
+        "name": "akl\u0131na ben gelicem",
+        "url": "https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149406,
+      "name": "akl\u0131na ben gelicem",
+      "url": "https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA"
     },
     {
       "album": {
@@ -593,6 +611,28 @@
     },
     {
       "album": {
+        "name": "Bumerang",
+        "url": "https://open.spotify.com/album/1wSw8Ra6QLJgz3TCmwTjnG"
+      },
+      "artists": [
+        {
+          "name": "Allame",
+          "url": "https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS"
+        },
+        {
+          "name": "Hidra",
+          "url": "https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160879,
+      "name": "Bumerang",
+      "url": "https://open.spotify.com/track/2E1VxbqXsK87BmyC9O3xCA"
+    },
+    {
+      "album": {
         "name": "B\u00f6l\u00fcm Sonu",
         "url": "https://open.spotify.com/album/4FmJuyC3gwgYdbrcOU4ar0"
       },
@@ -782,7 +822,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 149732,
       "name": "Diyardan Diyara",
       "url": "https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55"
@@ -866,6 +906,24 @@
       "duration_ms": 98000,
       "name": "ESTAFURLA",
       "url": "https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc"
+    },
+    {
+      "album": {
+        "name": "FALLEN",
+        "url": "https://open.spotify.com/album/0V3uA2HJdt0h5SjLQ1PUeS"
+      },
+      "artists": [
+        {
+          "name": "Tepki",
+          "url": "https://open.spotify.com/artist/5DtQ3MpxpzAyDvgMNFWN1r"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140884,
+      "name": "FALLEN",
+      "url": "https://open.spotify.com/track/0Z8tA2Z3OZNgTeddaI9lat"
     },
     {
       "album": {
@@ -1042,6 +1100,28 @@
       "duration_ms": 145015,
       "name": "GAZ PEDAL",
       "url": "https://open.spotify.com/track/0TbeXCwQz1oSK5eZVLnEIn"
+    },
+    {
+      "album": {
+        "name": "Geceler",
+        "url": "https://open.spotify.com/album/3FDarLcv4ob7ETiDyH58za"
+      },
+      "artists": [
+        {
+          "name": "Sagopa Kajmer",
+          "url": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+        },
+        {
+          "name": "Mine Ko\u015fan",
+          "url": "https://open.spotify.com/artist/2ditOd9fNYAscQhUmYhfXh"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276802,
+      "name": "Geceler",
+      "url": "https://open.spotify.com/track/4H2KhOR9QOHHv4ttjV5Lhz"
     },
     {
       "album": {
@@ -1784,7 +1864,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 165227,
       "name": "KAFAMA G\u00d6RE",
       "url": "https://open.spotify.com/track/4FbfcDH6i1YeSm6ilNHXAw"
@@ -2076,10 +2156,32 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 158509,
       "name": "LELELE",
       "url": "https://open.spotify.com/track/0GacjftLDThkCn0kMJETNh"
+    },
+    {
+      "album": {
+        "name": "LETS GO PARTY",
+        "url": "https://open.spotify.com/album/6ZHdU3NqqnXF4eEUDg9RP4"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "LETS GO PARTY",
+      "url": "https://open.spotify.com/track/4pmhGRk8wqp2ncPzSsqWya"
     },
     {
       "album": {
@@ -2508,7 +2610,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 190631,
       "name": "Of Aman",
       "url": "https://open.spotify.com/track/47tPBTEZNCy6YEP0tn3tPi"
@@ -2686,7 +2788,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 101306,
       "name": "PA$$$A VIBES V",
       "url": "https://open.spotify.com/track/5zjHGCU8Zq6X8bx7gmqYC1"

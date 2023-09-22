@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ4NTc0NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ4NjYwODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "tu fan",
         "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Inspiraciones Costarricenses",
         "url": "https://open.spotify.com/album/4aBUd0qfjJMkmQxpHFbfpL"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4WJE2pCFVd1KO4qDmQKda4"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "DONDE SE APRENDE A QUERER?",
-      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "BESOS (with Kidd Keo & Neelo)",
         "url": "https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY"
@@ -97,7 +81,23 @@
       "url": "https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "DONDE SE APRENDE A QUERER?",
+      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Himno al 15 de Setiembre",
         "url": "https://open.spotify.com/album/2XXgjMeGT5DdTzh1ZLXErP"
@@ -117,23 +117,43 @@
       "url": "https://open.spotify.com/track/7qrHx8xDWEyaIZZ7bmhAdy"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
-        "name": "Himnos Nacionales De Latino America",
-        "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
       "artists": [
         {
-          "name": "Orquesta Filarm\u00f3nica internacional",
-          "url": "https://open.spotify.com/artist/5AMgYsDdeQ7Eu3xVYaWOkK"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 96302,
-      "name": "Himno Nacional de Costa Rica",
-      "url": "https://open.spotify.com/track/3adJjH5yb0dXQjo5v8Nhvg"
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 142334,
+      "name": "Seg\u00fan Qui\u00e9n",
+      "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
@@ -157,7 +177,23 @@
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
@@ -177,59 +213,23 @@
       "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+        "name": "Himnos Nacionales De Latino America",
+        "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
       },
       "artists": [
         {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+          "name": "Orquesta Filarm\u00f3nica internacional",
+          "url": "https://open.spotify.com/artist/5AMgYsDdeQ7Eu3xVYaWOkK"
         }
       ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+      "duration_ms": 96302,
+      "name": "Himno Nacional de Costa Rica",
+      "url": "https://open.spotify.com/track/3adJjH5yb0dXQjo5v8Nhvg"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 142334,
-      "name": "Seg\u00fan Qui\u00e9n",
-      "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -245,39 +245,7 @@
       "url": "https://open.spotify.com/track/5uA9Qx6ZmjLoJbThB4qBhU"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Encuentro",
-        "url": "https://open.spotify.com/album/6LFocODxqxcp26CzAphOL9"
-      },
-      "artists": [
-        {
-          "name": "Arnoldo Castillo",
-          "url": "https://open.spotify.com/artist/35IYBNPrQOEKcVkGSmu6jc"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "La Patriotica Costarricense",
-      "url": "https://open.spotify.com/track/6UHQmxFSzLnzuUT1FEMcvn"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Tambito",
-      "url": "https://open.spotify.com/track/0aL5NTTiEfvOZjzbiijmA0"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Le Monde (From Talk to Me)",
         "url": "https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir"
@@ -293,7 +261,39 @@
       "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/6LFocODxqxcp26CzAphOL9"
+      },
+      "artists": [
+        {
+          "name": "Arnoldo Castillo",
+          "url": "https://open.spotify.com/artist/35IYBNPrQOEKcVkGSmu6jc"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "La Patriotica Costarricense",
+      "url": "https://open.spotify.com/track/6UHQmxFSzLnzuUT1FEMcvn"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Tambito",
+      "url": "https://open.spotify.com/track/0aL5NTTiEfvOZjzbiijmA0"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -309,91 +309,7 @@
       "url": "https://open.spotify.com/track/0a6lIvAiYy7yHzBC2zLRCy"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 134948,
-      "name": "MEDIA LUNA",
-      "url": "https://open.spotify.com/track/7h3mCPlHYCPuSG93s7M3Xt"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Soy Tico",
-      "url": "https://open.spotify.com/track/6jOe3C5QBhvHG0boQglw8q"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "LOVELY BASTARDS",
-        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
-      },
-      "artists": [
-        {
-          "name": "ZWE1HVNDXR",
-          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
-        },
-        {
-          "name": "yatashigang",
-          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
-        }
-      ],
-      "duration_ms": 116104,
-      "name": "LOVELY BASTARDS",
-      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "ABRE LAS PATOTAS",
-        "url": "https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "ABRE LAS PATOTAS",
-      "url": "https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Chup\u00f3n",
         "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
@@ -425,7 +341,75 @@
       "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 134948,
+      "name": "MEDIA LUNA",
+      "url": "https://open.spotify.com/track/7h3mCPlHYCPuSG93s7M3Xt"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "LOVELY BASTARDS",
+        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "duration_ms": 116104,
+      "name": "LOVELY BASTARDS",
+      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Soy Tico",
+      "url": "https://open.spotify.com/track/6jOe3C5QBhvHG0boQglw8q"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Julietota",
         "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
@@ -441,7 +425,23 @@
       "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "ABRE LAS PATOTAS",
+        "url": "https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "ABRE LAS PATOTAS",
+      "url": "https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
@@ -481,91 +481,7 @@
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "SPECIALZ",
-        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 238986,
-      "name": "SPECIALZ",
-      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 188480,
-      "name": "Tico de Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0XJdkacqMD1gR0c4HTSdCF"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "Esp\u00edritu Guanacasteco",
-      "url": "https://open.spotify.com/track/3m2KbuNF6QTPrsssDujM0O"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Querer Querernos",
-        "url": "https://open.spotify.com/album/7xTUjhiCQyxFFUDHDNcW29"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 240047,
-      "name": "Querer Querernos",
-      "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Te Lo Agradezco",
         "url": "https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE"
@@ -585,7 +501,59 @@
       "url": "https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Querer Querernos",
+        "url": "https://open.spotify.com/album/7xTUjhiCQyxFFUDHDNcW29"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 240047,
+      "name": "Querer Querernos",
+      "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -596,12 +564,28 @@
           "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
         }
       ],
-      "duration_ms": 128746,
-      "name": "Caballito",
-      "url": "https://open.spotify.com/track/1epcMVhAPba9bHbsJ7kBdK"
+      "duration_ms": 188480,
+      "name": "Tico de Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0XJdkacqMD1gR0c4HTSdCF"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "Esp\u00edritu Guanacasteco",
+      "url": "https://open.spotify.com/track/3m2KbuNF6QTPrsssDujM0O"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "De la Vida Como Pelicula, Tragedia, Comedia y Ficcion",
         "url": "https://open.spotify.com/album/68J0aECICEHtalsVM003hH"
@@ -617,63 +601,7 @@
       "url": "https://open.spotify.com/track/76YpLOgJcD2YInDHs5u69s"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "El Torito",
-      "url": "https://open.spotify.com/track/0xAcXqA1HFUz8AtxsXBp4n"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Automotivo Bibi Fogosa",
-        "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
-      },
-      "artists": [
-        {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        },
-        {
-          "name": "Dj Brunin XM",
-          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
-        },
-        {
-          "name": "KZA Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
-        }
-      ],
-      "duration_ms": 129776,
-      "name": "Automotivo Bibi Fogosa",
-      "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Inspiraciones Costarricenses",
-        "url": "https://open.spotify.com/album/4aBUd0qfjJMkmQxpHFbfpL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/5Qx9fM8KnXLBztlD8sALO7"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "Preme y Alevo",
-      "url": "https://open.spotify.com/track/5hktG6nFAQ6eoE2vWVflT9"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
@@ -697,55 +625,7 @@
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Inspiraciones Costarricenses",
-        "url": "https://open.spotify.com/album/4aBUd0qfjJMkmQxpHFbfpL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/5Qx9fM8KnXLBztlD8sALO7"
-        }
-      ],
-      "duration_ms": 746500,
-      "name": "Inspiraciones Costarricenses",
-      "url": "https://open.spotify.com/track/6eySaS0IEKtud6e8jv5OKj"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3"
-      },
-      "artists": [
-        {
-          "name": "Siinamota",
-          "url": "https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Young Girl A",
-      "url": "https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 195640,
-      "name": "De la Ca\u00f1a Se Hace el Guaro",
-      "url": "https://open.spotify.com/track/6gsSE4Gf46aAzIOlE2NpPH"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
@@ -761,23 +641,7 @@
       "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 184783,
-      "name": "bad idea right?",
-      "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -788,28 +652,12 @@
           "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
         }
       ],
-      "duration_ms": 219413,
-      "name": "Ca\u00f1a Dulce",
-      "url": "https://open.spotify.com/track/2k5mRTFTXfukRbKgx2IXKK"
+      "duration_ms": 128746,
+      "name": "Caballito",
+      "url": "https://open.spotify.com/track/1epcMVhAPba9bHbsJ7kBdK"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "As\u00ed Es Mi Tierra",
-      "url": "https://open.spotify.com/track/2AuCMuyAcYzIIvWqyHD4yC"
-    },
-    {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "LAS QUE NO TIENEN PAP\u00c1",
         "url": "https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf"
@@ -825,43 +673,71 @@
       "url": "https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
-        "name": "Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/2IV5BzY5CNFYaB9Van2dss"
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Yglesias",
-          "url": "https://open.spotify.com/artist/77bSIDE0nXNXVlaOPLUA2G"
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
         }
       ],
-      "duration_ms": 216986,
-      "name": "Patri\u00f3tica Costarricense",
-      "url": "https://open.spotify.com/track/3NhXrrrHQjD2FNj7isxYnx"
+      "duration_ms": 171466,
+      "name": "El Torito",
+      "url": "https://open.spotify.com/track/0xAcXqA1HFUz8AtxsXBp4n"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
-        "name": "Ride Or Die",
-        "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
+        "name": "Hermoso Momento (Sesi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2W1itxkC4eYr4aWLsRlHHf"
       },
       "artists": [
         {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Kairo Worship",
+          "url": "https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI"
         }
       ],
-      "duration_ms": 184510,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
+      "duration_ms": 1284345,
+      "name": "Hermoso Momento (Sesi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/2xMa0tcCol50Tx8juI2N6f"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3"
+      },
+      "artists": [
+        {
+          "name": "Siinamota",
+          "url": "https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Young Girl A",
+      "url": "https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "Ca\u00f1a Dulce",
+      "url": "https://open.spotify.com/track/2k5mRTFTXfukRbKgx2IXKK"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
       "album": {
         "name": "Chakalitos",
         "url": "https://open.spotify.com/album/1SDkQBxs672NHOFSZ9mNzo"
@@ -881,20 +757,144 @@
       "url": "https://open.spotify.com/track/3dDhSk8D6fDJeEnpwMEZTp"
     },
     {
-      "added_at": "2023-09-20 11:31:01",
+      "added_at": "2023-09-21 11:43:23",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
+        "name": "Inspiraciones Costarricenses",
+        "url": "https://open.spotify.com/album/4aBUd0qfjJMkmQxpHFbfpL"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Carlos Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/5Qx9fM8KnXLBztlD8sALO7"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
+      "duration_ms": 746500,
+      "name": "Inspiraciones Costarricenses",
+      "url": "https://open.spotify.com/track/6eySaS0IEKtud6e8jv5OKj"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Automotivo Bibi Fogosa",
+        "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        },
+        {
+          "name": "KZA Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
+        }
+      ],
+      "duration_ms": 129776,
+      "name": "Automotivo Bibi Fogosa",
+      "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Primer Dia de Clases",
+        "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 269714,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/4tQofG51E0juZBBVr6pral"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Inspiraciones Costarricenses",
+        "url": "https://open.spotify.com/album/4aBUd0qfjJMkmQxpHFbfpL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/5Qx9fM8KnXLBztlD8sALO7"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "Preme y Alevo",
+      "url": "https://open.spotify.com/track/5hktG6nFAQ6eoE2vWVflT9"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/2IV5BzY5CNFYaB9Van2dss"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Yglesias",
+          "url": "https://open.spotify.com/artist/77bSIDE0nXNXVlaOPLUA2G"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Patri\u00f3tica Costarricense",
+      "url": "https://open.spotify.com/track/3NhXrrrHQjD2FNj7isxYnx"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
+    },
+    {
+      "added_at": "2023-09-21 11:43:23",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "As\u00ed Es Mi Tierra",
+      "url": "https://open.spotify.com/track/2AuCMuyAcYzIIvWqyHD4yC"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",

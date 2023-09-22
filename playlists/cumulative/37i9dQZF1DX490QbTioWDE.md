@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno, Big One & Rusherking.
 
-359 songs - 23 hr 6 min
+360 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Infiel](https://open.spotify.com/track/1F9RwlKTE0QJtKN97EWtM8) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Creo](https://open.spotify.com/album/4ejIXV4SRUWJD43epruUdi) | 3:24 | 2021-12-24 | 2023-09-21 |
 | [Intento](https://open.spotify.com/track/3JbDQzoT18a9NUIfrsZULv) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Intento](https://open.spotify.com/album/5XjBOezcztKwFjVGYcbX1G) | 3:49 | 2021-12-24 | 2022-07-28 |
 | [Intento](https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Cuarteto del Bueno](https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07) | 3:49 | 2022-07-22 | 2023-04-29 |
+| [Intento](https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac) | 3:53 | 2023-09-15 |  |
 | [Intento](https://open.spotify.com/track/66ggNhGinVQLTYJODy6P74) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/0ydcUDMrWPKqpz1SACk73x) | 3:53 | 2022-07-22 | 2023-09-20 |
 | [Intento](https://open.spotify.com/track/1nvomogWZSfnw3H4Uti0eL) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/4Plgb3QN6Potmnc2G9soKW) | 3:53 | 2021-12-24 | 2022-07-29 |
 | [Intro Homenaje al Cuarteto \- La Gaita de la Cenicienta \- En Vivo](https://open.spotify.com/track/1kG62Xjjq58dogEgqswXw6) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto](https://open.spotify.com/album/29RuJlDcvFA5ED86ktO9wN) | 2:36 | 2023-06-21 | 2023-08-03 |
@@ -249,7 +250,7 @@
 | [Pesadilla](https://open.spotify.com/track/5JoxSI5yd4eC2ODlhzIgA7) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Leandro Bueno](https://open.spotify.com/artist/1sUW7DH7RcMzgtnQWzC68Z) | [Pesadilla](https://open.spotify.com/album/5WBGOo1SMfgl4mYTETvpDI) | 3:32 | 2022-01-14 | 2022-05-27 |
 | [Piensa en Mí \(En Vivo\)](https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Amante En Secreto](https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ) | 3:44 | 2021-12-24 |  |
 | [Pobre Corazón \- En Vivo](https://open.spotify.com/track/1ekBAjxOGapMYCH91xAqFR) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Pobre Corazón \(En Vivo\)](https://open.spotify.com/album/2wvauRpqdnlxTro6lt1WxL) | 4:39 | 2023-07-07 | 2023-07-26 |
-| [Por Amarte](https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Summer Pack](https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm) | 3:56 | 2022-01-14 |  |
+| [Por Amarte](https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Summer Pack](https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm) | 3:56 | 2022-01-14 | 2023-09-22 |
 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 | 2021-12-24 |  |
 | [Por Mil Noches](https://open.spotify.com/track/6pb0BcGj3j5J8jE4qw0Vkq) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Por Mil Noches](https://open.spotify.com/album/3XCYiTerlIp8BcwJKteFbJ) | 3:54 | 2023-08-25 | 2023-09-12 |
 | [Por Mis Venas](https://open.spotify.com/track/2XWTvlMp8SPMN65TJvO5Vi) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Por Mis Venas](https://open.spotify.com/album/5Mwi7DNc5L7tFhSF6WPVGz) | 3:22 | 2023-04-07 | 2023-04-12 |

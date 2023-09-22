@@ -352,7 +352,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-22",
       "duration_ms": 269231,
       "name": "Amira",
       "url": "https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB"
@@ -4356,6 +4356,24 @@
       "duration_ms": 167272,
       "name": "\u0647\u0631\u0645\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u062a\u0627\u062c",
       "url": "https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg"
+    },
+    {
+      "album": {
+        "name": "\u0647\u064a\u0628\u062f\u0623 \u064a\u062a\u0643\u0644\u0645",
+        "url": "https://open.spotify.com/album/0T84o5dPeM7uRabHJVioSs"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "\u0647\u064a\u0628\u062f\u0623 \u064a\u062a\u0643\u0644\u0645",
+      "url": "https://open.spotify.com/track/1WZj20KRIEm6EyJwbtt2kf"
     },
     {
       "album": {

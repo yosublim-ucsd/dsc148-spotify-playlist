@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,722 likes - 97 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,743 likes - 97 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 51 | [got rat?](https://open.spotify.com/track/0FMGoVcfeZe8WBVoqpnAaU) | [TBH](https://open.spotify.com/artist/0HGyJXfdVk9lVimIoct3d2) | [drumdrumdrum](https://open.spotify.com/album/4ELxib5ZdzF6lEW6DJZ6Uv) | 5:54 |
 | 52 | [Moonlight Branches](https://open.spotify.com/track/1vix6YVpdY98myRMBH5uVr) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Moonlight Branches](https://open.spotify.com/album/4afaUEqpJ67lnKrmdJ4Fw8) | 5:32 |
 | 53 | [Death, Taxes & Hanger](https://open.spotify.com/track/2aV9WXp5iOg3ITsCgHbebZ) | [Aquarian](https://open.spotify.com/artist/5sr7enH1jsMhSe1LT0hSJ0) | [Death, Taxes & Hanger](https://open.spotify.com/album/3dqKdgt6xkJY2iIQn8MZbW) | 7:06 |
-| 54 | [A Love \[Underground Mix\]](https://open.spotify.com/track/3QSPU5Fa94Bcg5KNxBbZl1) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Scum](https://open.spotify.com/album/3UbDaNFOlwDEUTm4SbeCRS) | 7:57 |
+| 54 | [A Love \- Underground Mix](https://open.spotify.com/track/2uiJhdrzrGfH6q6dSiizDl) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Scum](https://open.spotify.com/album/27ugdfLdOkwODnCKnpfLEq) | 7:57 |
 | 55 | [45°49'57"6°51'53"](https://open.spotify.com/track/22g6cVx02D4mcNkdqbbiMn) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk) | [45°49'57"6°51'53"](https://open.spotify.com/album/1fl08UN9pZE6gn7TiKOD4q) | 4:28 |
 | 56 | [Don't](https://open.spotify.com/track/2dwEEeSwxRySawn1QU6P3d) | [Neo Eagalach VA001](https://open.spotify.com/artist/2T2kXSJt2YAT0PCe3UstdQ), [Heather Helix](https://open.spotify.com/artist/3tQtymz9KDjiM8eXYcwsDA) | [Neo Eagalach VA001](https://open.spotify.com/album/590d4qtLcSwoTjZZnLVJd6) | 5:00 |
 | 57 | [Wile Out \- Original Mix](https://open.spotify.com/track/0W7kdn8iAkPpb7QlxXEswO) | [Obsidian Wave](https://open.spotify.com/artist/67l5wnaAV5jK8XqnruslPz) | [Attack Decay Sustain, Vol\. 02](https://open.spotify.com/album/7a64ZuweC11nZ9E19gHCwC) | 4:53 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 96 | [London Acid City \- Jon The Dentist Remix](https://open.spotify.com/track/1zmL3Dvul0H0oWpGqAsjhu) | [Lochi](https://open.spotify.com/artist/1qQpYZpMvEWgEE1p79uSPY), [Jon the Dentist](https://open.spotify.com/artist/1ZeqWDCum0uyQ80gnmtKBY) | [London Acid City](https://open.spotify.com/album/4QvrkXdSyR0j3FcgkkuTls) | 7:34 |
 | 97 | [Yes \- Remastered](https://open.spotify.com/track/5zhFBeXP6RjaqF8t5nWJPz) | [Mario De Bellis](https://open.spotify.com/artist/3nXiQWYpv6vWZERJbvYEg4) | [Yes](https://open.spotify.com/album/3JiFYykOsAqWy0UfLasmEg) | 8:25 |
 
-Snapshot ID: `MCxlNThiYmY3ZTZhZjY5MmQ0OGFlMzI5YWJiOTZlYWU1YTMyOGM5ODYy`
+Snapshot ID: `MCw4MGFhZTBlNTM0MjFjYTgyYmJjNDMzYTE5OTZjNTA5ZmRkYjY1OWVm`

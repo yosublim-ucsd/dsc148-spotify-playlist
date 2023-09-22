@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 182841,
+  "num_followers": 183007,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDkxMDBkZGEwMmJiMzBlZmRlYTBlOTYxNmM3NWNkYmY3YWFiNGQ5",
+  "snapshot_id": "MCxjY2ExMzNjOGRiMTZjODIyYjcyMGU0NzhkZGVmMGYzMWE3ZjZhNGRj",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
+        "name": "Amigo Organillero",
+        "url": "https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Amigo Organillero",
+      "url": "https://open.spotify.com/track/0wAvcx3s0npmQdQRkBnUso"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
         "name": "Sombras",
         "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
@@ -1048,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 189773,
-      "name": "Amigo Organillero",
-      "url": "https://open.spotify.com/track/0wAvcx3s0npmQdQRkBnUso"
+      "duration_ms": 179346,
+      "name": "Esclavo y Amo",
+      "url": "https://open.spotify.com/track/3iwRXRVCaxXJYP9E2mEesX"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -1067,22 +1083,6 @@
       "duration_ms": 179813,
       "name": "El Jinete",
       "url": "https://open.spotify.com/track/3KzfO3JzdyQccxGEJTCvBq"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "Amigo Organillero",
-        "url": "https://open.spotify.com/album/2Rv1ejNPg23IdQQhlZxdOQ"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Esclavo y Amo",
-      "url": "https://open.spotify.com/track/3iwRXRVCaxXJYP9E2mEesX"
     },
     {
       "added_at": "2022-01-25 23:38:31",

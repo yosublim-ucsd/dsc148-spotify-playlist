@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Zach Bryan",
-  "num_followers": 49383,
+  "num_followers": 49470,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Njg4NTJhZjg0MGE1ZDQzYjk1ODM2MGI5MTM0MTA2NTc2ZDI1N2M5",
+  "snapshot_id": "MCw1OGMyZjBlZTBmNTYwOWY2MTkxNzBmMzliOGE3YmZkN2VlNzljMmYw",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Room 41",
         "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 256281,
       "name": "Cocaine Country Dancing",
       "url": "https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Broadview",
-        "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Broadview",
-      "url": "https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Gypsy",
-        "url": "https://open.spotify.com/album/33fIaJrF5YgR2nkGClLtGh"
+        "name": "Broadview",
+        "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
       },
       "artists": [
         {
-          "name": "Eilen Jewell",
-          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 172868,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo"
+      "duration_ms": 245466,
+      "name": "Broadview",
+      "url": "https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -815,6 +799,22 @@
       "duration_ms": 198274,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Gypsy",
+        "url": "https://open.spotify.com/album/33fIaJrF5YgR2nkGClLtGh"
+      },
+      "artists": [
+        {
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+        }
+      ],
+      "duration_ms": 172868,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 374834,
-      "name": "This Ain't It",
-      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Man from Waco",
         "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 253920,
       "name": "I'm Just a Clown",
       "url": "https://open.spotify.com/track/6jmnCjWfoX3n6lcLOI7L6Z"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 374834,
+      "name": "This Ain't It",
+      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Knockin",
-        "url": "https://open.spotify.com/album/7y7m9BoSQmeUYcXeHN4JtN"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 203608,
-      "name": "Knockin - Single Version",
-      "url": "https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Knockin",
+        "url": "https://open.spotify.com/album/7y7m9BoSQmeUYcXeHN4JtN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 203608,
+      "name": "Knockin - Single Version",
+      "url": "https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "68",
+        "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "duration_ms": 208955,
+      "name": "68 - Live",
+      "url": "https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Ways & Means",
         "url": "https://open.spotify.com/album/0k72s0eVcw3D2PRgZXdT94"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 192750,
       "name": "This Masquerade",
       "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "68",
-        "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
-      },
-      "artists": [
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 208955,
-      "name": "68 - Live",
-      "url": "https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "BOOTCUT",
-        "url": "https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 153646,
-      "name": "Somebody Just Like Me",
-      "url": "https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Easy as Hello",
         "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 279796,
       "name": "Easy as Hello",
       "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "BOOTCUT",
+        "url": "https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 153646,
+      "name": "Somebody Just Like Me",
+      "url": "https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 339040,
-      "name": "Pretending",
-      "url": "https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Year Of The Dark Horse",
         "url": "https://open.spotify.com/album/4cKn5nMheAisLgzM4gOwaA"
       },
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Nightroamer",
-        "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
-        }
-      ],
-      "duration_ms": 166248,
-      "name": "Talkin' to Myself",
-      "url": "https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "CAMPFIRE",
         "url": "https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 180000,
       "name": "CAMPFIRE",
       "url": "https://open.spotify.com/track/0hNbaatSkThALWtJK1Eov8"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Nightroamer",
+        "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 166248,
+      "name": "Talkin' to Myself",
+      "url": "https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Hot Sun",
-        "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
+        "name": "Peacemaker",
+        "url": "https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ"
       },
       "artists": [
         {
-          "name": "Daniel James McFadyen",
-          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
         }
       ],
-      "duration_ms": 181866,
-      "name": "Hot Sun",
-      "url": "https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo"
+      "duration_ms": 233626,
+      "name": "Peacemaker",
+      "url": "https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Peacemaker",
-        "url": "https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ"
+        "name": "Hot Sun",
+        "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
       },
       "artists": [
         {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+          "name": "Daniel James McFadyen",
+          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
         }
       ],
-      "duration_ms": 233626,
-      "name": "Peacemaker",
-      "url": "https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe"
+      "duration_ms": 181866,
+      "name": "Hot Sun",
+      "url": "https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 253588,
       "name": "Don't Feel Like Crying",
       "url": "https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Pretty Archie",
+        "url": "https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI"
+      },
+      "artists": [
+        {
+          "name": "Pretty Archie",
+          "url": "https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW"
+        }
+      ],
+      "duration_ms": 278639,
+      "name": "Maritime",
+      "url": "https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA"
     }
   ],
   "unique_name": "Renegades",

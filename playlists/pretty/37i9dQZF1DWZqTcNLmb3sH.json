@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 52868,
+  "num_followers": 52913,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGIwYmVkN2VjNTM3MmZiMjJhYWQyYjZiYzdhM2I2ZGVmNjRlY2Ex",
+  "snapshot_id": "MCwyZTcxY2UwYTVkYWQ1ZDcwZWY5ZDJkODJhZDE3YjI2ZWQ0NzBjZGZk",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -133,6 +133,22 @@
       "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
     },
     {
+      "added_at": "2023-09-21 13:49:00",
+      "album": {
+        "name": "Ivanu (From \"Tiger Nageswara Rao\") (Kannada)",
+        "url": "https://open.spotify.com/album/23cr2birsfkl2gaxuApa6s"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "duration_ms": 198083,
+      "name": "Ivanu (From \"Tiger Nageswara Rao\") (Kannada)",
+      "url": "https://open.spotify.com/track/0m25syyBZlV40tujgMvU1v"
+    },
+    {
       "added_at": "2023-09-15 11:15:47",
       "album": {
         "name": "Suryakanthi (From \"Tagaru Palya\")",
@@ -215,6 +231,26 @@
       "duration_ms": 258282,
       "name": "Manasaige Hidisidanu Ivanu (from \"Karnatakada Aliya\")",
       "url": "https://open.spotify.com/track/1mCVUoOyPf4x0jicvZJMfT"
+    },
+    {
+      "added_at": "2023-09-21 13:49:00",
+      "album": {
+        "name": "Jeeva (from\"Bad Manners\")",
+        "url": "https://open.spotify.com/album/0S3eJsdMQ0FeXuiAGk9bXb"
+      },
+      "artists": [
+        {
+          "name": "Siddhant Sundar",
+          "url": "https://open.spotify.com/artist/4s8zgh93hZcl4GbVFgdW1H"
+        },
+        {
+          "name": "Charanraj",
+          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
+        }
+      ],
+      "duration_ms": 205751,
+      "name": "Jeeva (from\"Bad Manners\")",
+      "url": "https://open.spotify.com/track/1YbSRL1hpl5DTw2EnBFNqZ"
     },
     {
       "added_at": "2023-09-20 12:59:03",
@@ -1349,30 +1385,6 @@
       "url": "https://open.spotify.com/track/0gJw0vFsSs3oxuoDB5N6cO"
     },
     {
-      "added_at": "2023-07-24 06:31:36",
-      "album": {
-        "name": "Devara Kanassu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5irvveJ2VkyKtQSDaLBKcQ"
-      },
-      "artists": [
-        {
-          "name": "Sandy Sandellow",
-          "url": "https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv"
-        },
-        {
-          "name": "Lingaraj Ithihas",
-          "url": "https://open.spotify.com/artist/5ZXHAWNuPjnJNfeTsIr8KF"
-        },
-        {
-          "name": "Zubin Paul",
-          "url": "https://open.spotify.com/artist/1oXfbG8k6rwPkPfYkxlmO7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Malehaniyea",
-      "url": "https://open.spotify.com/track/1Ywxy20GhIJOcusnKK2Z9d"
-    },
-    {
       "added_at": "2023-07-21 06:52:36",
       "album": {
         "name": "BOYS SARIGILLA (From \"Hostel Hudugaru Bekagiddare\")",
@@ -1499,38 +1511,6 @@
       "duration_ms": 245400,
       "name": "Manasu Bereya Dikkali Saagalu (From \"Ramana Avatara\")",
       "url": "https://open.spotify.com/track/5XLCyX3kqNwDoBOvVhORUD"
-    },
-    {
-      "added_at": "2023-07-24 06:31:36",
-      "album": {
-        "name": "Badalaavane (From \"Aura\")",
-        "url": "https://open.spotify.com/album/2OsqxWWrDg7sKxGjV8LJj0"
-      },
-      "artists": [
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        },
-        {
-          "name": "Rakesh Jogi",
-          "url": "https://open.spotify.com/artist/0nsDGnGBoPzCzfeqyqdb9T"
-        },
-        {
-          "name": "AR Rohit",
-          "url": "https://open.spotify.com/artist/69tKXP6iohK3uFB2vVcdlC"
-        },
-        {
-          "name": "Girish Hothur",
-          "url": "https://open.spotify.com/artist/29O31xO7j46cpvDLf7yOd0"
-        },
-        {
-          "name": "Manu Devarahalli",
-          "url": "https://open.spotify.com/artist/16sc7jfPOa1VlkzbOBOUZC"
-        }
-      ],
-      "duration_ms": 224810,
-      "name": "Badalaavane - From \"Aura\"",
-      "url": "https://open.spotify.com/track/5lBKlgFUSzTnOafGb0nGAx"
     },
     {
       "added_at": "2023-07-24 06:31:36",

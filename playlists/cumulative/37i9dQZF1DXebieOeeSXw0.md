@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-340 songs - 1 day 3 hr 36 min
+342 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [En la Nalga Pégale](https://open.spotify.com/track/5VzGAhbIcG4l7z2DXL3C02) | [Cumbia Moderna De Soledad](https://open.spotify.com/artist/1Nj0wAt4djA9oQbEB7pISM) | [En la Nalga..\. Pégale](https://open.spotify.com/album/1m3zJkqnx7cV3REY2FerKK) | 2:55 | 2021-12-24 |  |
 | [End Of Time](https://open.spotify.com/track/56uRSuENJZV6anVULWNyV3) | [Native Soul](https://open.spotify.com/artist/1YhcreGr3lGJf6nOne2AIv) | [Teenage Dreams](https://open.spotify.com/album/6088Sj5rAfVFzUxPKDq6jm) | 5:57 | 2021-12-24 |  |
 | [Eso Se Baila Así](https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 5:17 | 2021-12-24 |  |
-| [Everything Scatter](https://open.spotify.com/track/3iv16FTGBhU6ehG3UTFGNT) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Everything Scatter](https://open.spotify.com/album/2F4NVmeS3EV95Gua4XpmbZ) | 10:33 | 2021-12-24 |  |
+| [Everything Scatter](https://open.spotify.com/track/3iv16FTGBhU6ehG3UTFGNT) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Everything Scatter](https://open.spotify.com/album/2F4NVmeS3EV95Gua4XpmbZ) | 10:33 | 2021-12-24 | 2023-09-22 |
+| [Everything Scatter](https://open.spotify.com/track/6y74qXlAaEs4zU1ZlbaQzc) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Everything Scatter](https://open.spotify.com/album/7CZ0IZI28mtM0mbK56b0dB) | 10:33 | 2021-12-24 |  |
 | [Evil Ways](https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Talkin' Verve](https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU) | 2:40 | 2021-12-24 |  |
 | [Eyi Su Ngaangaa](https://open.spotify.com/track/5JbtzhsX0pEbm4K9w2tQxq) | [Sweet Talks](https://open.spotify.com/artist/0SA89uZQCAU8LQWnShcbY2) | [Adjoa](https://open.spotify.com/album/108dz2UCK2xNO6yanYhNlc) | 4:30 | 2021-12-24 |  |
 | [Family](https://open.spotify.com/track/5YowhCQYE5HkKbXt4bSCM0) | [King of Soukous](https://open.spotify.com/artist/4d7hJpEOSR0tbpVMRa1sXG) | [Wortels Musiek Uit Afrika](https://open.spotify.com/album/38IPpEnPP51pG66pU1dFok) | 6:46 | 2021-12-24 |  |
@@ -163,7 +164,8 @@
 | [Imarhan](https://open.spotify.com/track/1Ye2lpUppaahUYUyFiI9vW) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 4:04 | 2021-12-24 |  |
 | [Informer](https://open.spotify.com/track/5wjDtuQBe8uIBwcu8tuJbG) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R) | [Weh Dem A Go Do...Can't Stop Cocoa Tea](https://open.spotify.com/album/527Jo8DG0g46VacoVkFMgX) | 3:13 | 2021-12-24 |  |
 | [It's A Vanity](https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb), [Gabo Brown](https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP) | [Afro\-Funk](https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k) | 4:22 | 2021-12-24 |  |
-| [It's Highlife Time](https://open.spotify.com/track/7b1Sax2Go8uwu3IOyJPVTF) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Highlife\-Jazz and Afro\-Soul \(1963\-1969\)](https://open.spotify.com/album/5eyvtau4jEgAU7VwlRq87R) | 5:23 | 2021-12-24 |  |
+| [It's Highlife Time](https://open.spotify.com/track/7b1Sax2Go8uwu3IOyJPVTF) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Highlife\-Jazz and Afro\-Soul \(1963\-1969\)](https://open.spotify.com/album/5eyvtau4jEgAU7VwlRq87R) | 5:23 | 2021-12-24 | 2023-09-22 |
+| [It's Highlife Time](https://open.spotify.com/track/7KjFiDIh117Z2e9EMzZ4oy) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [His Koola Lobitos](https://open.spotify.com/artist/1qEYD5Imuzj0Ug8QRXLCtG) | [Highlife: Jazz and Afro\- Soul \(1963\-1969\)](https://open.spotify.com/album/7aKll5u0BkpDGJxTNnKlWQ) | 5:23 | 2021-12-24 |  |
 | [Jaleo](https://open.spotify.com/track/7HMD3XScqwlYU2ITxLWUpg) | [Trüby Trio](https://open.spotify.com/artist/04WBarCWtSEs8ESWnYPlm5), [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy) | [Elevator Music](https://open.spotify.com/album/25v6MAAGTHzuGZLHV25UKv) | 6:26 | 2022-03-30 |  |
 | [Jamaica Ska](https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:15 | 2022-04-07 |  |
 | [Kaokokokorobo](https://open.spotify.com/track/3yYOrniuNk628vfcpyeJUk) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ), [Viva La Musica](https://open.spotify.com/artist/7m3J8f7p179cFVTHz6prWO) | [Pôle position](https://open.spotify.com/album/4eoqDSXCN8HD4FLWMS1OWy) | 6:25 | 2021-12-24 |  |
